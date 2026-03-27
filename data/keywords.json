@@ -1,85 +1,115 @@
 {
   "date": "2026-03-26",
-  "keywords": [
-    {
-      "word": "중동",
-      "count": 16
-    },
-    {
-      "word": "비상",
-      "count": 11
-    },
-    {
-      "word": "전쟁",
-      "count": 8
-    },
-    {
-      "word": "성장",
-      "count": 8
-    },
-    {
-      "word": "금융",
-      "count": 8
-    },
-    {
-      "word": "위기",
-      "count": 6
-    },
-    {
-      "word": "노사",
-      "count": 6
-    },
-    {
-      "word": "단체",
-      "count": 4
-    },
-    {
-      "word": "하향",
-      "count": 4
-    },
-    {
-      "word": "이란",
-      "count": 4
-    },
-    {
-      "word": "민생",
-      "count": 4
-    },
-    {
-      "word": "선언",
-      "count": 4
-    },
-    {
-      "word": "연대",
-      "count": 4
-    },
-    {
-      "word": "불안",
-      "count": 4
-    },
-    {
-      "word": "장관",
-      "count": 4
-    },
-    {
-      "word": "긴급",
-      "count": 3
-    },
-    {
-      "word": "뉴스1",
-      "count": 3
-    },
-    {
-      "word": "미국",
-      "count": 3
-    },
-    {
-      "word": "한국경제",
-      "count": 3
-    },
-    {
-      "word": "안정",
-      "count": 3
-    }
-  ]
+  "categories": {
+    "경제": [
+      {
+        "word": "전쟁",
+        "count": 11
+      },
+      {
+        "word": "중동",
+        "count": 10
+      },
+      {
+        "word": "비상",
+        "count": 9
+      },
+      {
+        "word": "정책",
+        "count": 8
+      },
+      {
+        "word": "위기",
+        "count": 6
+      }
+    ],
+    "정치": [
+      {
+        "word": "제주",
+        "count": 12
+      },
+      {
+        "word": "선거",
+        "count": 12
+      },
+      {
+        "word": "후보",
+        "count": 10
+      },
+      {
+        "word": "민주당",
+        "count": 9
+      },
+      {
+        "word": "의원",
+        "count": 8
+      }
+    ],
+    "사회": [
+      {
+        "word": "돌봄",
+        "count": 12
+      },
+      {
+        "word": "복지",
+        "count": 11
+      },
+      {
+        "word": "의료",
+        "count": 10
+      },
+      {
+        "word": "종합",
+        "count": 8
+      },
+      {
+        "word": "공헌",
+        "count": 7
+      }
+    ],
+    "IT": [
+      {
+        "word": "기업",
+        "count": 10
+      },
+      {
+        "word": "공개",
+        "count": 9
+      },
+      {
+        "word": "넷마블",
+        "count": 8
+      },
+      {
+        "word": "대표",
+        "count": 7
+      },
+      {
+        "word": "교육",
+        "count": 7
+      }
+    ],
+    "국제": [
+      {
+        "word": "유가",
+        "count": 9
+      },
+      {
+        "word": "인천국제공항",
+        "count": 7
+      },
+      {
+        "word": "개항",
+        "count": 7
+      },
+      {
+        "word": "제주",
+        "count": 6
+      },
+      {
+        "word": "식품",
+        "count": 5
+      }
+    ]
+  }
 }
