@@ -31,3 +31,6 @@ jobs:
           git add data/keywords.json
           git commit -m "Update keywords $(date +'%Y-%m-%d')" || echo "변경사항 없음"
           git push
+      - name: Vercel 재배포 트리거
+        run: |
+          curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
