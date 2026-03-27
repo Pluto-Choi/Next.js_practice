@@ -40,7 +40,7 @@ export default async function Home() {
             💰 경제 트렌드 키워드
           </h1>
           <p className="text-lg font-medium text-zinc-500 dark:text-zinc-400 mb-2">
-            내 주식이 떨어진 이유
+            내 주식이 떨어진 이유📉
           </p>
           <p className="text-zinc-400 text-sm">{data.date} 기준</p>
         </div>
