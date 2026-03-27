@@ -58,14 +58,9 @@ export default async function Home() {
                   <span className="text-zinc-400 text-sm font-medium w-4">
                     {item.rank}
                   </span>
-                  <a
-                    href={`https://news.google.com/search?q=${encodeURIComponent(item.word)}&hl=ko&gl=KR&ceid=KR:ko`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className={`text-xl font-bold hover:underline ${rankStyle(item.rank)}`}
-                  >
+                  <span className={`text-xl font-bold ${rankStyle(item.rank)}`}>
                     {item.word}
-                  </a>
+                  </span>
                 </div>
               </div>
 
