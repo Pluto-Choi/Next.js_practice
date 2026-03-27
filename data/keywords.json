@@ -7,7 +7,7 @@
     },
     {
       "word": "비상",
-      "count": 13
+      "count": 11
     },
     {
       "word": "전쟁",
@@ -15,42 +15,22 @@
     },
     {
       "word": "성장",
-      "count": 7
+      "count": 8
     },
     {
       "word": "금융",
-      "count": 7
-    },
-    {
-      "word": "오늘",
-      "count": 7
-    },
-    {
-      "word": "노사",
-      "count": 6
+      "count": 8
     },
     {
       "word": "위기",
       "count": 6
     },
     {
-      "word": "센터",
+      "word": "노사",
       "count": 6
     },
     {
-      "word": "브릿지",
-      "count": 5
-    },
-    {
-      "word": "브리핑",
-      "count": 5
-    },
-    {
-      "word": "선언",
-      "count": 4
-    },
-    {
-      "word": "연합인포맥스",
+      "word": "단체",
       "count": 4
     },
     {
@@ -62,24 +42,44 @@
       "count": 4
     },
     {
-      "word": "창업",
-      "count": 4
-    },
-    {
-      "word": "강화",
-      "count": 4
-    },
-    {
-      "word": "대책",
-      "count": 4
-    },
-    {
-      "word": "아시아경제",
-      "count": 4
-    },
-    {
       "word": "민생",
       "count": 4
+    },
+    {
+      "word": "선언",
+      "count": 4
+    },
+    {
+      "word": "연대",
+      "count": 4
+    },
+    {
+      "word": "불안",
+      "count": 4
+    },
+    {
+      "word": "장관",
+      "count": 4
+    },
+    {
+      "word": "긴급",
+      "count": 3
+    },
+    {
+      "word": "뉴스1",
+      "count": 3
+    },
+    {
+      "word": "미국",
+      "count": 3
+    },
+    {
+      "word": "한국경제",
+      "count": 3
+    },
+    {
+      "word": "안정",
+      "count": 3
     }
   ]
 }
