@@ -1,0 +1,33 @@
+name: Collect Daily Keywords
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # 매일 자정 KST (UTC 15시)
+  workflow_dispatch:        # 수동 실행 가능
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 코드 가져오기
+        uses: actions/checkout@v3
+
+      - name: Python 설치
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 라이브러리 설치
+        run: pip install feedparser kiwipiepy "numpy<2"
+
+      - name: 키워드 수집 실행
+        run: python collect.py
+
+      - name: 결과 저장 (Git commit)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/keywords.json
+          git commit -m "Update keywords $(date +'%Y-%m-%d')" || echo "변경사항 없음"
+          git push
