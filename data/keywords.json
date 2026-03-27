@@ -1,115 +1,76 @@
 {
   "date": "2026-03-26",
-  "categories": {
-    "경제": [
-      {
-        "word": "전쟁",
-        "count": 11
-      },
-      {
-        "word": "중동",
-        "count": 10
-      },
-      {
-        "word": "비상",
-        "count": 9
-      },
-      {
-        "word": "정책",
-        "count": 8
-      },
-      {
-        "word": "위기",
-        "count": 6
-      }
-    ],
-    "정치": [
-      {
-        "word": "제주",
-        "count": 12
-      },
-      {
-        "word": "선거",
-        "count": 12
-      },
-      {
-        "word": "후보",
-        "count": 10
-      },
-      {
-        "word": "민주당",
-        "count": 9
-      },
-      {
-        "word": "의원",
-        "count": 8
-      }
-    ],
-    "사회": [
-      {
-        "word": "돌봄",
-        "count": 12
-      },
-      {
-        "word": "복지",
-        "count": 11
-      },
-      {
-        "word": "의료",
-        "count": 10
-      },
-      {
-        "word": "종합",
-        "count": 8
-      },
-      {
-        "word": "공헌",
-        "count": 7
-      }
-    ],
-    "IT": [
-      {
-        "word": "기업",
-        "count": 10
-      },
-      {
-        "word": "공개",
-        "count": 9
-      },
-      {
-        "word": "넷마블",
-        "count": 8
-      },
-      {
-        "word": "대표",
-        "count": 7
-      },
-      {
-        "word": "교육",
-        "count": 7
-      }
-    ],
-    "국제": [
-      {
-        "word": "유가",
-        "count": 9
-      },
-      {
-        "word": "인천국제공항",
-        "count": 7
-      },
-      {
-        "word": "개항",
-        "count": 7
-      },
-      {
-        "word": "제주",
-        "count": 6
-      },
-      {
-        "word": "식품",
-        "count": 5
-      }
-    ]
-  }
+  "category": "경제",
+  "keywords": [
+    {
+      "rank": 1,
+      "word": "중동",
+      "count": 10,
+      "articles": [
+        {
+          "title": "‘이란 폭격’ 중동 미군기지 최소 1조원 피해… “병사들 호텔 전전” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdkJIN1dFa0loUEtoWllUSEozQ3JrQUxhNEkwQ2lpQ29KYjVPanY1NVE1aEZZYVhwbVJIQzY3U25hbklXdTAtNWNhZFF4ZUd4OHhoUXFZejJYVUk5M05tdHI4TlV0UnNlTzRDdkEzRlk3N192TjBWR1pidzJiVlhSRnhKdVlFT3FCbjhqeTJaYnRpNTk4eWtMbWRyT0JNZ9IBsgFBVV95cUxQNlUtNW5wUnNIWWZDLWUxQXdoNDlEbVhPUVFfTFVGc1l0d2h5LW5jQWtXLXNGZWxYbmsxUE5zT2V5dHhUczZJcjZnVEJhc3BVX3JsbE9qWTZPRV9BRDZPSWstSlpFZ3hteXRKa21VVUVwblVXTU5aZnpWWlFqdHk3WU9oN1lCRF9FN3ZNcGNpNGdicGFkSVNrbTM1cUFzcUFRUlJHTlgxX0dBTnBRbTBmSm5n?oc=5",
+          "source": "조선일보"
+        },
+        {
+          "title": "\"이란 폭격 받은 중동 미군기지 피해 커…병사들 호텔 전전\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWX3psV1VDdUZ6bkwwNFRqc1ZaMVdoT1Znb040YkRwVUlPdG5kWXljeGt5dldGNGQ4M3VZMmpUMV9zVEZGVWc?oc=5",
+          "source": "v.daum.net"
+        },
+        {
+          "title": "\"중동 美기지 손상심해 호텔 전전\"…이란 \"미군 투숙시 호텔도 표적\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55clZyMXhBV2txTVBmZ0swclNTUFdOcGcyQ2xScVVVbkNnVjduZDNzRzRjeTZCenUxS0RSRWNHMjRMc1ZzV2tJaTRiWVh6cFJnbEc0a1FpRDFJeWvSAWBBVV95cUxOZFZjTnJ3V3pDc3phUDUycmJjWXFoX1JvemszZHZRNmpCeHl6bUR0NVZtbVBUT21DZm14ODFEOG1kcGpEcEpEVTlnaGp4QmNMUS00LU00TzBqbFNSdXpFenc?oc=5",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "word": "전쟁",
+      "count": 9,
+      "articles": [
+        {
+          "title": "한밤의 주유 전쟁…자정 근처까지 주유소에 긴 줄 - KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQZlhiWUVCdGF0a3RraTd0dnlEMHlrM2k4YzNDOW1tSGtMWkhoaEMzeURkTk5aNlVObUwyWmZkRVJuQWNSYkdSNy1HQlVGU0hJVHZYNGVzd0JSc1U?oc=5",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "word": "비상",
+      "count": 9,
+      "articles": [
+        {
+          "title": "항공유 가격 2배로… 아시아나도 비상경영 돌입 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWC1iQkpSYjVudkJOcWYtS29sVXVaYWNyRHBhb1YtZ1ZIZlZpRDNLWFdQNXdJd0pjamdzQUtjMmFZb0FGWnhsZGRKZGxtWXFFRC1xaFVuYkFSRFdVOVJobm82bTduOWhJeTduazlZM3Zpem04UWotZTdjWUZVc251bGNWU3BlZ1lGUGJxbDBsONIBowFBVV95cUxPRzFwb1YxMDRvSjlnTGo2YkJ6S0dQS2hBOE5DNkdSUmdLWFRrUkFqcm16Tnpkb1c4ZWpabmMzUDNreGJFck13MERuMHVZY2l6aFZNVk9Kd0dTSkdtY05MMEhoQ1FZbk9IajdGTm14QkRGcWduLUxISkhsREp6akY0b2QwbUJSWVk5by0xMW9xLUdHZVhvck41LXVhYXI1enJCRWZr?oc=5",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "word": "성장",
+      "count": 8,
+      "articles": [
+        {
+          "title": "우주 산업 빠르게 성장… 美서 관련 기업 주가 ‘신바람’ - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcTBfRVNaNlYya1FrRE5pcERZcEtXZUc3SGZtS0hoN0p5NHowRU9Say1BRk1RZ0Q3Z09RNk1UWi1heWZ0UlVrdFlsMC1qMW5CbXNqMmhHTl9qcmkzT3RTZ0dMNjY2RWRCcXFRZjRlTUkxU3djdTJkMW44TG9qejFINVFTRdIBlwFBVV95cUxQeGpvdzVRazVJNE1ZalZBbEZESFlDOUwwMV9RdTFDaDU3QUVtOUUxREpCSmE4MnIteUFpb3htRHRjLW41S3hJd29Xb1ZkTHhGS2g3VWhaaFVEREJJUXE5clZ2aE90b2xIaVhaaXM0NWdpY0FCTXVvMDEwN3VFandrb0xfYzZuZzBFcGNLSnROQVFfQjR5V044?oc=5",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "word": "정책",
+      "count": 8,
+      "articles": [
+        {
+          "title": "李대통령 부동산 정책 지지 24%→51%…평가 '급반전'[폴폴뉴스] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QYk1vMFNCRExlSEFQdUJDeVRWQXFvMFRxYkgzbFF3SnZOcWVGeFJfdTN2TVlUbjFsbFpOZkhUajB5OUcyVE9US0NrNmtyajA?oc=5",
+          "source": "v.daum.net"
+        }
+      ]
+    }
+  ]
 }
