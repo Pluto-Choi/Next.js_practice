@@ -1,10 +1,11 @@
 import feedparser
 from kiwipiepy import Kiwi
 from collections import Counter
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone, date
 from urllib.parse import quote
 import json
 import os
+import html
 
 stopwords = {
     '경제', '뉴스', '기자', '한국', '지역', '사회', '국제', '관련',
@@ -27,14 +28,15 @@ def fetch_articles(keyword, count):
     articles = []
     for entry in feed.entries[:count]:
         articles.append({
-            "title": entry.title,
-            "link": entry.link,
+            "title": html.unescape(entry.title),
+            "link": entry.link, 
             "source": entry.get("source", {}).get("title", ""),
         })
     return articles
 
 kiwi = Kiwi()
-yesterday = (datetime.now() - timedelta(1)).strftime('%Y-%m-%d')
+KST = timezone(timedelta(hours=9))
+yesterday = (datetime.now(KST) - timedelta(1)).strftime('%Y-%m-%d')
 
 # 경제 키워드 수집
 url = f"https://news.google.com/rss/search?q={quote('경제')}&hl=ko&gl=KR&ceid=KR:ko"
