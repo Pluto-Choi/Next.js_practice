@@ -1,21 +1,21 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "category": "경제",
   "keywords": [
     {
       "rank": 1,
       "word": "비상",
-      "count": 18,
+      "count": 14,
       "articles": [
+        {
+          "title": "김민석 총리, \"국민 생필품 수급 차질 선제 대처, 비상경제본부 기능 강화\" [뉴시스Pic] - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OY0JiSkpHTmNyOGN1aGpCZEk0ZWdnUWhmVG1RaFRERjlWNUJzclJhV3ozRmk1VUNFZlB0Qi1xWXhMWWVTcTJ3Y205d0hlSFpTNE5vUXVxeTRnTlo2MmpMedIBeEFVX3lxTFBOZlEzMHlFalJvNk1MY05zRHM2V1NiUUFWMlNoTWlidHdzZVByajhJNzl2bGtKQVJ2aGpLLXE3ekFMQkpOZjQtZVhVODJKLTIxTWxoN0E3UFhUbDBfMzJYQlRvRnc2dU5mQzN2ZGIyNWJCa3FNbnZFWQ?oc=5",
+          "source": "뉴시스"
+        },
         {
           "title": "나프타 쇼크에 포장재 비상…파우치 배터리는 괜찮나 - 지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCaFhjdWlLZ2NrdWMtZGVJc3c5X2xYWGxmMEszQ1F0aGp0aEpGTDNPOW55bWU1dVN3ZzI1N2daWW9GaWlSVk1JV051WnpqMjB3WWVxYUpB?oc=5",
           "source": "지디넷코리아"
-        },
-        {
-          "title": "金총리 \"비상경제본부, 국민생활 필수품 수급 최우선 과제\" - edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYjlEbF9ldTloSEFNVUN0amYtdWFfM1Rrcjhsem91djRaX3JhcWNQaUpUUzdsc3d2cnhXWTZ1LS1VcnhkVy1QalJQNmFIa1g1R2lNY29SVGVZSnpOUkZyQ1FQY3FMd2NkQWFTUkRoQUp3WExheXd6Q0JFTTZXV01fRg?oc=5",
-          "source": "edaily.co.kr"
         },
         {
           "title": "“이대로 가면 5월에 끝장”…‘이란 전쟁’에 세계최초 비상사태 선포한 이 나라 - 매일경제",
@@ -26,6 +26,42 @@
     },
     {
       "rank": 2,
+      "word": "수급",
+      "count": 10,
+      "articles": [
+        {
+          "title": "金총리 “중동발 국민 생필품 수급 차질 우려… 선제적 대처” - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRW1XQlFqaDBnSHJrSDhxUU9UU2RkRzVUbTh6eGVtejZ1STZEamdCT1VobFdSb1lJZzgyZnJwUWlHR0lpd0JfX25pVklYLW9aSEFvU2NfbDJvSE1lOU5DZGRXbFN4R2VNSTQzOXRyeEZqUkE3OFctVTZ1ek9YZHN2WTFOSXNQb1HSAZsBQVVfeXFMTy1JNE14UXZlWEN6R0tUUVd6UmdmcXc5LWFXd202aEYwN3pqS1BMelhSV2JaU3FQZ0dvZ3c3NGZYSzBoeWV2Y0ZrSkx2UHh3X0ROZGg4c3FrdmJGUmZ2eld2UnpxRTMwU3daWHZQaklPWkRLYXAwRnJNeEhMcFlCVjRydW05LU9JUkYxb3Q3a0NvWjJGdEQ5XzFqd1k?oc=5",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "word": "생필품",
+      "count": 9,
+      "articles": [
+        {
+          "title": "김민석 “생필품 수급 차질에 선제 대응”…첫 비상경제본부회의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tYjc0OVpad0tkUGZ1RVpfV1hGMkFTSjEtSzFhS0RmTnF0QmZTNFdpR2RsOUtfeC1EUzBRSDRidTJ0SllQVk9fMWFEWkRCa3ZFRkVBSXVWdzJuRjBORXlEYzdraFEtQnFWbGxMOGRUNExzVmlI?oc=5",
+          "source": "한겨레"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "word": "선제",
+      "count": 9,
+      "articles": [
+        {
+          "title": "김민석 총리 \"마스크·요소수 기억 생생‥생필품 수급 차질 선제대처\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uSWpaNGFHZWJEWTdNVkl0Y1ZOQURmN043WnV5T1JTbEFMNjFmT2pwTS1ESkRwd3QtbG5IRHpOZ0JIUG9TRXZIUlR2TUdKVnVkVjg5NEdOei02dEw2ek1PdUEzdHhEeTJQNE05d3lkR3B2LXZvX282TNIBeEFVX3lxTE1HOFdXMVFBcm11b0ZsbGdvOU8yTDhOWXpVaG52QmlpU0VWREs2U0YwUFhQNUZ6RXY1ZFJqc3djeXVEcWc2QlA4aHBGRVpXV3BuSGFNRG9mbERNZDMza0d2NXJaLTlxTjgyMDdLa0c3ekNYRjFHdEpVXw?oc=5",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "word": "중동",
       "count": 9,
       "articles": [
@@ -33,42 +69,6 @@
           "title": "협상이냐 지상전이냐…‘중동전쟁’ 한달째, 최대고비 맞은 미국 이란 - 매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjYTJGOVJzMXFvamxTRm1BaG5mYm1UUVp6U2lMdTRKTE9IRjM0ckI1MnFVNGNPdTloR0MxVm1ObjV1b2pYLTZxY1E0aXFqZnpwZlE?oc=5",
           "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "word": "수급",
-      "count": 8,
-      "articles": [
-        {
-          "title": "[속보] 金총리 “중동발 국민 생필품 수급 차질 우려… 선제적 대처” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRW1XQlFqaDBnSHJrSDhxUU9UU2RkRzVUbTh6eGVtejZ1STZEamdCT1VobFdSb1lJZzgyZnJwUWlHR0lpd0JfX25pVklYLW9aSEFvU2NfbDJvSE1lOU5DZGRXbFN4R2VNSTQzOXRyeEZqUkE3OFctVTZ1ek9YZHN2WTFOSXNQb1HSAZsBQVVfeXFMTy1JNE14UXZlWEN6R0tUUVd6UmdmcXc5LWFXd202aEYwN3pqS1BMelhSV2JaU3FQZ0dvZ3c3NGZYSzBoeWV2Y0ZrSkx2UHh3X0ROZGg4c3FrdmJGUmZ2eld2UnpxRTMwU3daWHZQaklPWkRLYXAwRnJNeEhMcFlCVjRydW05LU9JUkYxb3Q3a0NvWjJGdEQ5XzFqd1k?oc=5",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "word": "선제",
-      "count": 8,
-      "articles": [
-        {
-          "title": "금융위·중기부, 경영위기 소상공인 선제 지원…은행권과 원스톱 연계 - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZNlJBMHZXWXBEVURhandHZFl3QU5Jd0NTNjBQU0RIZ2tDT3lSSU45dEpINV9Bbk9uM2p5ZGRNVk51Q0dKRTVKM0V4RHpYLU9TRTkyZQ?oc=5",
-          "source": "이투데이"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "word": "생필품",
-      "count": 6,
-      "articles": [
-        {
-          "title": "김 총리 \"생필품 수급 골든타임…철저히 점검해 선제 대응\"(종합) - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHcFNpa2syU0JFbUxaTDRyMnQ3dEVTcTV2T2JPY0FkYjFRRy1UQ0R6NUFuYUpOUm1nWjZzWHF2YmtBd01aSHpIQ3ctV09RNm81cUtWdlBHVVpJTlE?oc=5",
-          "source": "뉴스1"
         }
       ]
     }
