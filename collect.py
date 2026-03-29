@@ -22,14 +22,19 @@ stopwords = {
     '대응', '혁신', '글로벌', '실용', '장관',
 }
 
-def fetch_articles(keyword, count):
+def fetch_articles(keyword, count, used_links=set()):
     url = f"https://news.google.com/rss/search?q={quote(keyword)}&when=1d&hl=ko&gl=KR&ceid=KR:ko"
     feed = feedparser.parse(url)
     articles = []
-    for entry in feed.entries[:count]:
+    for entry in feed.entries:
+        if len(articles) >= count:
+            break
+        if entry.link in used_links:
+            continue
+        used_links.add(entry.link)
         articles.append({
             "title": html.unescape(entry.title),
-            "link": entry.link, 
+            "link": entry.link,
             "source": entry.get("source", {}).get("title", ""),
         })
     return articles
@@ -57,9 +62,12 @@ top5 = counter.most_common(5)
 print("=== 경제 Top 5 키워드 ===")
 keywords_with_articles = []
 
+# used_links를 공유하도록 수정
+used_links = set()
+
 for i, (word, count) in enumerate(top5):
     article_count = 3 if i == 0 else 1
-    articles = fetch_articles(word, article_count)
+    articles = fetch_articles(word, article_count, used_links)
     keywords_with_articles.append({
         "rank": i + 1,
         "word": word,
