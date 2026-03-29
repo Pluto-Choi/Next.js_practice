@@ -103,7 +103,6 @@ for item in keywords_with_articles:
         "date": yesterday,
         "rank": item["rank"],
         "word": item["word"],
-        "count": item["count"],
     }).execute()
 
 print(f"Supabase 저장 완료!")
