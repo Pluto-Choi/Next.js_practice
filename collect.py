@@ -3,6 +3,7 @@ from kiwipiepy import Kiwi
 from collections import Counter
 from datetime import datetime, timedelta, timezone, date
 from urllib.parse import quote
+from supabase import create_client
 import json
 import os
 import html
@@ -40,6 +41,10 @@ def fetch_articles(keyword, count, used_links=set()):
             "source": entry.get("source", {}).get("title", ""),
         })
     return articles
+
+SUPABASE_URL = os.environ.get("SUPABASE_URL")
+SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
+supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 kiwi = Kiwi()
 KST = timezone(timedelta(hours=9))
@@ -91,3 +96,14 @@ with open("data/keywords.json", "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 
 print(f"\n{yesterday} 키워드 저장 완료!")
+
+# Supabase에 저장
+for item in keywords_with_articles:
+    supabase.table("keywords").insert({
+        "date": yesterday,
+        "rank": item["rank"],
+        "word": item["word"],
+        "count": item["count"],
+    }).execute()
+
+print(f"Supabase 저장 완료!")

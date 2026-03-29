@@ -23,7 +23,10 @@ jobs:
 
       - name: 키워드 수집 실행
         run: python collect.py
-
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          
       - name: 결과 저장 (Git commit)
         run: |
           git config user.name "github-actions"
