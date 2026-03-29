@@ -19,14 +19,14 @@ jobs:
           python-version: '3.11'
 
       - name: 라이브러리 설치
-        run: pip install feedparser kiwipiepy "numpy<2"
+        run: pip install feedparser kiwipiepy "numpy<2" supabase
 
       - name: 키워드 수집 실행
         run: python collect.py
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
-          
+
       - name: 결과 저장 (Git commit)
         run: |
           git config user.name "github-actions"
