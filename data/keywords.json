@@ -5,7 +5,7 @@
     {
       "rank": 1,
       "word": "경기도",
-      "count": 12,
+      "count": 14,
       "articles": [
         {
           "title": "산불 경로·피해 지역, 미리 예측해 전파한다···경기도, AI 예측 모델 자체 개발 - 경향신문",
@@ -18,40 +18,28 @@
           "source": "연합뉴스"
         },
         {
-          "title": "경기도, AI로 산불 경로 30분 단위 예측…읍면동까지 콕 집어낸다 - asiae.co.kr",
+          "title": "경기도, AI로 산불 경로 30분 단위 예측…읍면동까지 콕 집어낸다 - 아시아경제",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40S05LdkhodzFHaHVqU0lZVXFuejBtLWZTNnhuYVh2WE1fdkh0Qm1QTWV4RE1xVUJYdkN1Q2RuR2FxSEZEVWtnc0xxS25BVWZxcWFWUUVPZVNpVmVWOTBJUQ?oc=5",
-          "source": "asiae.co.kr"
+          "source": "아시아경제"
         }
       ]
     },
     {
       "rank": 2,
       "word": "평화",
-      "count": 12,
+      "count": 14,
       "articles": [
         {
-          "title": "통일교육원, '평화공존 정책' 담은 올해 통일교육 교재 발간 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WblpLRWZLd2tHN3MyYmwzTkFaWWt1UDZMRndLLVNaTHpLcndnT2ZWV1FjdVJiTnh1NUdMNHRjQ1NrNmwzR3BmVzlRSEt2NDhwdEdlQTR2X0Y5eXN3Skd6WdIBeEFVX3lxTE1EWFhhWGZvX1owaUxSb2dLSVdIWDBLWk1HYjl2dU4wUnJ1Q21MRUtORzd2S2JZOGJfWWprMGx2bTZidFh1X1NndWFuYnFFdnVpUlN5RkJ1c3NmMGhfZ0haMEs1dENMbjN3Ykx4SV9IZDFYYUV6dndMUw?oc=5",
-          "source": "뉴시스"
+          "title": "尹정부와 비교되는 통일교재…'자유민주'서 '평화공존'으로 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXbE9kR0ptbmNnUUpQMWVsbGhiQzkzOXRCSDdwczNJVU56SlJEOHJvN2ZTdU5wZDM3V2szYzA0SUFfejJTWlV0Nng2eTc4X0U?oc=5",
+          "source": "v.daum.net"
         }
       ]
     },
     {
       "rank": 3,
-      "word": "후보지",
-      "count": 12,
-      "articles": [
-        {
-          "title": "[경기도] 평화경제특구 후보지 연천·파주·포천 3곳 선정 - 인천투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DWl9xZG9mVFJfQXZXU2xUSFdFLXF1ZmdQeWhsRndwVHNpektySm0yMXVJdV9EZUNXdlFMUFdnTTVYelU4VmJndTBVUmRwYnlpdWtqQ2o1SzZMN0djbmFhT0k3MlUwcm42bWJyQ0pEeG0?oc=5",
-          "source": "인천투데이"
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "word": "선정",
-      "count": 12,
+      "count": 14,
       "articles": [
         {
           "title": "2026 제네시스 G70 그래파이트 에디션, TAWA 선정 ‘텍사스의 럭셔리 차량’ 수상 - Genesis Newsroom",
@@ -61,14 +49,26 @@
       ]
     },
     {
-      "rank": 5,
-      "word": "전쟁",
-      "count": 9,
+      "rank": 4,
+      "word": "후보지",
+      "count": 13,
       "articles": [
         {
-          "title": "[속보]미 대이란 지상작전 검토 속…밴스 “전쟁 곧 끝” - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfSEYteF9mOEU2TW5xd2hyWmdSYXBCQ3BSanBkbXNHR2I3VkpoMjVzYWV1eVdtVGVpbEtfS2w0TFJyVlctVE9pYmpQeWFZZVV6?oc=5",
-          "source": "문화일보"
+          "title": "[경기도] 평화경제특구 후보지 연천·파주·포천 3곳 선정 - 인천투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DWl9xZG9mVFJfQXZXU2xUSFdFLXF1ZmdQeWhsRndwVHNpektySm0yMXVJdV9EZUNXdlFMUFdnTTVYelU4VmJndTBVUmRwYnlpdWtqQ2o1SzZMN0djbmFhT0k3MlUwcm42bWJyQ0pEeG0?oc=5",
+          "source": "인천투데이"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "word": "비상",
+      "count": 11,
+      "articles": [
+        {
+          "title": "김민석 “생필품 수급 차질에 선제 대응”…첫 비상경제본부회의 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tYjc0OVpad0tkUGZ1RVpfV1hGMkFTSjEtSzFhS0RmTnF0QmZTNFdpR2RsOUtfeC1EUzBRSDRidTJ0SllQVk9fMWFEWkRCa3ZFRkVBSXVWdzJuRjBORXlEYzdraFEtQnFWbGxMOGRUNExzVmlI?oc=5",
+          "source": "한겨레"
         }
       ]
     }
