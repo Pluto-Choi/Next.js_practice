@@ -119,11 +119,19 @@ print(f"\n{yesterday} 키워드 저장 완료!")
 summary = generate_summary(keywords_with_articles)
 print(f"오늘의 요약: {summary}")
 
-# Supabase에 저장
+#데이터베이스 저장
+# keywords 테이블에 키워드 저장
 for item in keywords_with_articles:
     supabase.table("keywords").insert({
         "date": yesterday,
         "rank": item["rank"],
         "word": item["word"],
-        "summary": summary,
     }).execute()
+
+# daily_summary 테이블에 요약 저장
+supabase.table("daily_summary").insert({
+    "date": yesterday,
+    "summary": summary,
+}).execute()
+
+print(f"Supabase 저장 완료!")
