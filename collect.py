@@ -43,6 +43,8 @@ def fetch_articles(keyword, count, used_links=set()):
         })
     return articles
 
+print(f"ANTHROPIC_API_KEY 존재 여부: {bool(os.environ.get('ANTHROPIC_API_KEY'))}") # 디버깅용 출력
+
 def generate_summary(keywords):
     words = [item["word"] for item in keywords]
     message = anthropic_client.messages.create(
