@@ -1,9 +1,10 @@
-import feedparser
 from kiwipiepy import Kiwi
 from collections import Counter
 from datetime import datetime, timedelta, timezone, date
 from urllib.parse import quote
 from supabase import create_client
+import feedparser
+import anthropic
 import json
 import os
 import html
@@ -42,9 +43,24 @@ def fetch_articles(keyword, count, used_links=set()):
         })
     return articles
 
+def generate_summary(keywords):
+    words = [item["word"] for item in keywords]
+    message = anthropic_client.messages.create(
+        model="claude-haiku-4-5-20251001",
+        max_tokens=100,
+        messages=[
+            {
+                "role": "user",
+                "content": f"다음 경제 뉴스 키워드들을 보고 오늘의 경제 이슈를 15자 이내로 한 줄 요약해줘. 키워드: {', '.join(words)}. 요약문만 출력해줘."
+            }
+        ]
+    )
+    return message.content[0].text
+
 SUPABASE_URL = os.environ.get("SUPABASE_URL")
 SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
+anthropic_client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
 kiwi = Kiwi()
 KST = timezone(timedelta(hours=9))
@@ -97,12 +113,15 @@ with open("data/keywords.json", "w", encoding="utf-8") as f:
 
 print(f"\n{yesterday} 키워드 저장 완료!")
 
+# 요약 생성
+summary = generate_summary(keywords_with_articles)
+print(f"오늘의 요약: {summary}")
+
 # Supabase에 저장
 for item in keywords_with_articles:
     supabase.table("keywords").insert({
         "date": yesterday,
         "rank": item["rank"],
         "word": item["word"],
+        "summary": summary,
     }).execute()
-
-print(f"Supabase 저장 완료!")
