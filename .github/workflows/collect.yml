@@ -19,7 +19,7 @@ jobs:
           python-version: '3.11'
 
       - name: 라이브러리 설치
-        run: pip install feedparser kiwipiepy "numpy<2" supabase
+        run: pip install feedparser kiwipiepy "numpy<2" supabase anthropic
 
       - name: 키워드 수집 실행
         run: python collect.py
@@ -38,9 +38,6 @@ jobs:
       - name: Vercel 재배포 트리거
         run: |
           curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
-
-      - name: 라이브러리 설치
-        run: pip install feedparser kiwipiepy "numpy<2" supabase anthropic
 
       - name: 키워드 수집 실행
         run: python collect.py
