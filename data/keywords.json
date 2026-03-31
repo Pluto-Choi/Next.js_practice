@@ -1,34 +1,22 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "category": "경제",
   "keywords": [
     {
       "rank": 1,
-      "word": "중동",
+      "word": "비상",
       "count": 13,
       "articles": [
         {
-          "title": "벌써 가격 2배 뛰었다…\"국민 치명적\" 중동 전쟁에 제약 비상, 왜 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OLThmRWZmczBpX3M3UktRTjRSRUEwd3I1X3Rrc3IwUG9NaXlOamdERVczQlJZLXVLWUNjOWxDMmJJakp0UmNtSDRHSWw3a29BSlQ2b253?oc=5",
-          "source": "중앙일보"
-        },
-        {
-          "title": "중동 갑부 손님들 놓칠라…고급차업계 난감 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yWWdMU3ZzNkNVeDl6VHRyX0dQVF9WT2Myank4TmRyMDNZS0xWR29ONFVUMVdqcThPUUROWVRaN2t2RUpkQVlrc1ItbzAxUHZLdldqdlB4MHhzTGvSAWBBVV95cUxNeHB2RUdrdFF1blcxTFYzUm05dngwSTNia20xQWR1bHlZdEZmN203R0xjVXRNUG9rdENGWWk1aWxOT2FFb0xRMFR1UUdaMm5HVFg2LVd0eGpnVElkbS0zWkQ?oc=5",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "‘드론 과외’ 나선 러시아·우크라, 중동서 대리전 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlbExyVExTX0FDdmcwOEdlaElQTnRYMlBiU3VWR0Y4cWF0dWtER0xsMUlacDBIc1RXaU0wUVZxbmROZGVWYnlfd0JpY055SjQ?oc=5",
+          "title": "“기름값 폭등에 하늘길도 비상”…대한항공, 결국 비상경영 돌입 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UbnV6UmpwNUhTZkExejhzOWVYclM4MmtuTEppMTU0VzNDa1RadTJpbkp5SjJPcHN6ZTl2RWxsTk1LUmZNLTgyNnFMUndkNW8?oc=5",
           "source": "v.daum.net"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "word": "비상",
-      "count": 9,
-      "articles": [
+        },
+        {
+          "title": "‘비상계엄 요건 강화’ 개헌, 일단 국힘 없이 간다···여야 6당 발의 착수 - 경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZdWZOM1gzcnNhYnR5djJsTVFYQURrTkNObHdSdEVfSVRXQ0R6YWppZEx5QkNNSXFhbG42bWtPWi1EY0RXdUVDOG10MkNkcl9zOHV3dU5nVUcwUdIBX0FVX3lxTE9lY1ctcWl6WlJxemFOQ05FbTQzQlBrRkdIcUJreEZMUzZOcTQxZW5CNTVfaFRuRTBNejVnY2FvN3BNeXBBWHR2bEpOOTBxd1JSVnZnNzdyOHRLYTBxekJJ?oc=5",
+          "source": "경향신문"
+        },
         {
           "title": "환율 1520원 돌파·코스피 급락…정부, 비상 대응 총력전 - 전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iakg2X0dtRGx1VXpMTEZPRmtLem1zYXZBYXRwN0FLemNLUTdUZzd1aU1pWm9SWjZZVFZuaWRxdUl0VEo1YnRJQWdrVFdIUQ?oc=5",
@@ -37,38 +25,50 @@
       ]
     },
     {
-      "rank": 3,
-      "word": "시장",
-      "count": 8,
+      "rank": 2,
+      "word": "긴급",
+      "count": 11,
       "articles": [
         {
-          "title": "김부겸 대구시장 선거 출마 “대구가 국힘 버려야 진짜 보수 살아나” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3E0a3NwZ25QWktPczlxWTByU08wR3E1RWQwbTlHTldnaVhZenN0aUJ6b1lfbGJ0UkY1emFZR3VhdlczeEJWRUE2SjlLcGJtcEdraUxMMll1dHJXaHI1R0x2bWJXaWRaako5blpoWjRkNUhzUnR0Z2FWODZDTTB4TjQwZk93d9IBmgFBVV95cUxOc3RDWEhwLWJUMFFkTnZEcWY3LVFXZ1hDVHFpR2M0Rkk2RE9CUXQ2QndaMmNiTlkwY29COHMwOEhqbDJKcW9QbnBMZklhSmlWSDBYVy05Qm5Gejc1QXVjdFJrc3RpNEUzd2V5aEd1c0xDU1Fiem9wQXVSMzlxVHJ0YTNZeGhZZDBQWC1BYVB4QTJQLXZWM1Mzc2J3?oc=5",
-          "source": "조선일보"
+          "title": "이 대통령 “헌법상 긴급재정·경제명령 활용할 수도…경제 비상등” - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FLVhMS0txMXhzSVpIMHZ0WEdodnRkUnpReElHeWxPeGhaUEdDOVdtdmVvV1BSMmowY2xZNlZmcHBZc1hKZnJnOHVTVDZpakEwdGN3V19CV0phRnhWVEo1U1ZuRTVCUHdjUmdZ?oc=5",
+          "source": "한겨레"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "word": "재정",
+      "count": 10,
+      "articles": [
+        {
+          "title": "청년의 삶을 바꾸는 따뜻한 재정을 실현합니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OUnNfSjFFZHA3a2ZUVEttcWcxanVCMEZMUERHZ0ZweC1vcFc2TmNHN0dHMTUxVFFxSnM5Ti1JNjdSWmIyVzVTNG9GLWVBODVWSDktWW1aZWxfTEEyam5kQlotejhFbGVHMUVGS19B?oc=5",
+          "source": "대한민국 정책브리핑"
         }
       ]
     },
     {
       "rank": 4,
-      "word": "전쟁",
-      "count": 8,
+      "word": "명령",
+      "count": 9,
       "articles": [
         {
-          "title": "전쟁이 키웠다…상장 직후 1000% 뛴 '드론계 엔비디아' 정체 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxZGtHbGJYVWFMTnZYNDhXU1M5d3dPbE9qS1BESEtaNy12SThBRHJkSFlHd2I5WmJFZmdyczFWeWM2aXZSb21PYzJqMkJpd1kxb1NhQS13?oc=5",
-          "source": "중앙일보"
+          "title": "이 대통령, 33년 전 '긴급재정명령'까지 언급하며 '적극 대응' 주문 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9feWpENHdwZWR3cWdfX1lKYmROVnJhZ1Atb2JkZmVWeXpDVzBVR25yYmJwT21jYXJHUU9HSzBxc3JHUnpILTE5Sm8tRkEtaWNBUnlYaFV4OFNUR2VDbWtEOHlYdTltMkdUUThZTHp1LW1RbG9vMWNMbQ?oc=5",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
       "rank": 5,
-      "word": "금융",
-      "count": 8,
+      "word": "중동",
+      "count": 9,
       "articles": [
         {
-          "title": "“한국 증시, 기업 이익 감안하면 금융위기 수준 저평가” - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbS13UUtzYlFEbUJ3U2RRS25HNklQQk9MRjRIUlo2U2xURnV2WURDX18wajdjUEM0VkhUTG01N0d4d3Q3TmMyYWZYZl9PbWNodWl3a0tTUndTaVBucVpfTmgzenJ0N3E0MUczRVg5TDByTmNGN2VWSDlFZERVdlZUVtIBlAFBVV95cUxNMmpBTi1qQmhrMjNoTHRvVUdvLUFBeDNtSjM2MVJrM3VyS09wSVMzeFpoXzNxaGthVmlPMjltRi1XQUR6RmxvLWxNQ3N0bTY2dUVYM0o1bldOZzhPSkNWQ0xLdGhHSExFdmJySE81NHlSZkR2V3FyNVhtN0FLUFIyZHZFVUc4UmNtQ0J1aWFIN3B0LXV5?oc=5",
-          "source": "조선일보"
+          "title": "벌써 가격 2배 뛰었다…\"국민 치명적\" 중동 전쟁에 제약 비상, 왜 - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OLThmRWZmczBpX3M3UktRTjRSRUEwd3I1X3Rrc3IwUG9NaXlOamdERVczQlJZLXVLWUNjOWxDMmJJakp0UmNtSDRHSWw3a29BSlQ2b253?oc=5",
+          "source": "중앙일보"
         }
       ]
     }
