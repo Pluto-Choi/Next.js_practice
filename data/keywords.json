@@ -1,74 +1,74 @@
 {
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "category": "경제",
   "keywords": [
     {
       "rank": 1,
-      "word": "비상",
+      "word": "중동",
       "count": 13,
       "articles": [
         {
-          "title": "“기름값 폭등에 하늘길도 비상”…대한항공, 결국 비상경영 돌입 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UbnV6UmpwNUhTZkExejhzOWVYclM4MmtuTEppMTU0VzNDa1RadTJpbkp5SjJPcHN6ZTl2RWxsTk1LUmZNLTgyNnFMUndkNW8?oc=5",
+          "title": "‘반도체 훈풍’ 한국 수출 첫 800억달러 돌파…고유가·중동전 암초 ‘불안’ - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UZnRnQ1lBaE1pZGNwakx2a3pGTG1pcFNCdjFRSDFXSGx2dTdHaFVDZkotWGJ4bTJFSlZUOFQ0WlI1cHg2cE5KcHFsdW1YS1RZbnhEVFk3SlpsRlZ6SnZNclBFSENSSUVfSEpQZjFFTENwdw?oc=5",
+          "source": "한겨레"
+        },
+        {
+          "title": "중동전쟁에도 861억 달러…’수출전선’ 이상 없다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WSFdtZ0pXTWg0bVQ0RXdPaDAwS3l0QV9nU3Qyc3JfQVhCbFJHQ3Ezai16TVFzRnhBOFc2V0xDNjloY3hqc0pWVnVFTGZ4VWc?oc=5",
           "source": "v.daum.net"
         },
         {
-          "title": "‘비상계엄 요건 강화’ 개헌, 일단 국힘 없이 간다···여야 6당 발의 착수 - 경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZdWZOM1gzcnNhYnR5djJsTVFYQURrTkNObHdSdEVfSVRXQ0R6YWppZEx5QkNNSXFhbG42bWtPWi1EY0RXdUVDOG10MkNkcl9zOHV3dU5nVUcwUdIBX0FVX3lxTE9lY1ctcWl6WlJxemFOQ05FbTQzQlBrRkdIcUJreEZMUzZOcTQxZW5CNTVfaFRuRTBNejVnY2FvN3BNeXBBWHR2bEpOOTBxd1JSVnZnNzdyOHRLYTBxekJJ?oc=5",
-          "source": "경향신문"
-        },
-        {
-          "title": "환율 1520원 돌파·코스피 급락…정부, 비상 대응 총력전 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iakg2X0dtRGx1VXpMTEZPRmtLem1zYXZBYXRwN0FLemNLUTdUZzd1aU1pWm9SWjZZVFZuaWRxdUl0VEo1YnRJQWdrVFdIUQ?oc=5",
-          "source": "전자신문"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "word": "긴급",
-      "count": 11,
-      "articles": [
-        {
-          "title": "이 대통령 “헌법상 긴급재정·경제명령 활용할 수도…경제 비상등” - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FLVhMS0txMXhzSVpIMHZ0WEdodnRkUnpReElHeWxPeGhaUEdDOVdtdmVvV1BSMmowY2xZNlZmcHBZc1hKZnJnOHVTVDZpakEwdGN3V19CV0phRnhWVEo1U1ZuRTVCUHdjUmdZ?oc=5",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "word": "재정",
-      "count": 10,
-      "articles": [
-        {
-          "title": "청년의 삶을 바꾸는 따뜻한 재정을 실현합니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OUnNfSjFFZHA3a2ZUVEttcWcxanVCMEZMUERHZ0ZweC1vcFc2TmNHN0dHMTUxVFFxSnM5Ti1JNjdSWmIyVzVTNG9GLWVBODVWSDktWW1aZWxfTEEyam5kQlotejhFbGVHMUVGS19B?oc=5",
-          "source": "대한민국 정책브리핑"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "word": "명령",
-      "count": 9,
-      "articles": [
-        {
-          "title": "이 대통령, 33년 전 '긴급재정명령'까지 언급하며 '적극 대응' 주문 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9feWpENHdwZWR3cWdfX1lKYmROVnJhZ1Atb2JkZmVWeXpDVzBVR25yYmJwT21jYXJHUU9HSzBxc3JHUnpILTE5Sm8tRkEtaWNBUnlYaFV4OFNUR2VDbWtEOHlYdTltMkdUUThZTHp1LW1RbG9vMWNMbQ?oc=5",
+          "title": "중동전쟁, 中수출엔 호재‥\"고유가 충격 덜해 점유율 확대할 것\" - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNQ1FlYTZBbG5zU3VSWjZWM1JlSER4dFR0ZjlaUDVpS0xWV0VLVkRxeWFuTW5sRTVzenVFc3FBWUhJYl8yNVZvNkt6Nm4wblNwaVNMQVVVM0JpeU1vUEtiZUxVTGpHVnhKRmRMVTMxdkpDWkJu0gF0QVVfeXFMTkluWjNTdldNal9VbmgxbHJBX1VhSElEVkpNaVdUMkh1M0Fsamd5UjJTVDFvdWRQUXJ5UHJtelhHUHc5enpLUmdMd00tSThBZ2lPREhiLVhidXg3MEpmMkQzLXREdFhQb0dRZWhiNmtZUzZQOHA?oc=5",
           "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "rank": 5,
-      "word": "중동",
-      "count": 9,
+      "rank": 2,
+      "word": "비상",
+      "count": 11,
       "articles": [
         {
-          "title": "벌써 가격 2배 뛰었다…\"국민 치명적\" 중동 전쟁에 제약 비상, 왜 - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OLThmRWZmczBpX3M3UktRTjRSRUEwd3I1X3Rrc3IwUG9NaXlOamdERVczQlJZLXVLWUNjOWxDMmJJakp0UmNtSDRHSWw3a29BSlQ2b253?oc=5",
-          "source": "중앙일보"
+          "title": "대한항공도 4월부터 비상경영... 아시아나도 감편 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTVZWcTRhNXJWX0F4b21ZYmdMMzVwQ0F2ZTFzMG14MjExLXMwNTcwMjJfX1dIV25ZOWNXNVdIQl90VWpVTkpfSG5iekR4RnFUT0hkZGFsUXRJTFJxMUJFcmVvU2NYVFpFUG9ISV9PbmNVNlRYM29TdVRrV1FBTl9QWUpRcGV4YzFFWHgzZ2NhUdIBowFBVV95cUxNeWpzMU4tNWFqaFpiMHNKSUU0ZUczTk45amZ1cFJtU1lkNzMyRFpEZWZTaGhNNGl1VGU4dkh1ODhBVUwyS3BzSUVudG9rVVg2bWpGMFE0SC1BNGFMNV9MVS0wZUd1Ykg1YW8zSklya1NxbWMxSkJRdzNzZW5ObUVoeU03dmRONVhvM0NCRjhLbFN4dnBCV3NPTjZxZTVhU3dmbkVN?oc=5",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "word": "전쟁",
+      "count": 7,
+      "articles": [
+        {
+          "title": "이란 사태: '우리 남매의 연을 끊자'… 전쟁으로 분열되는 이란 내 가정들 - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rWWI5RnA2Q01ER2dnWEc3MWUxZ3NjVDctaVU4MVYwVk5ObDA3aVJWVG8waGtRRGpBbDByVnZRQ1FDSS1uR2dVNy1iam5yazlFMndYSXFZZGNyX05o0gFiQVVfeXFMT01OTEtEREhYTEwxX3gxbm5OV01YdUEtWjBIUW1WdTYyVjlTblVaMVUweU43d3dIMWpLOXlFcUVmX2VMakFhTkJEcVFIV0lkVTEtVVFneUNvRlpEMy1xZEppdWc?oc=5",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "word": "총조사",
+      "count": 6,
+      "articles": [
+        {
+          "title": "2025년 기준 경제총조사 홍보대사 이준혁 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oOUZyVEhwTUJiTldyaTRyUUZRVGpxUEpUWkRNQVcxMEhsalpxOENJTmVwaUFJMmpTZ1JnVDhtS3pqZmVzYVM1SURpcw?oc=5",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "word": "산업",
+      "count": 6,
+      "articles": [
+        {
+          "title": "강원 맞춤형 AI 도입 가속화…바이오헬스 미래산업 탄력 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oUlM3WHhqSDhja0lkTjItOXRvRlVZbGFTaFFWZGtreFA3WkZXWHhyd2dVcmh3RzJZbjV3MURJcVBQMURnY0FFcklUd3djUDg?oc=5",
+          "source": "v.daum.net"
         }
       ]
     }
