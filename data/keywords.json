@@ -1,73 +1,73 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "category": "경제",
   "keywords": [
     {
       "rank": 1,
-      "word": "중동",
-      "count": 13,
+      "word": "민생",
+      "count": 22,
       "articles": [
         {
-          "title": "‘반도체 훈풍’ 한국 수출 첫 800억달러 돌파…고유가·중동전 암초 ‘불안’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UZnRnQ1lBaE1pZGNwakx2a3pGTG1pcFNCdjFRSDFXSGx2dTdHaFVDZkotWGJ4bTJFSlZUOFQ0WlI1cHg2cE5KcHFsdW1YS1RZbnhEVFk3SlpsRlZ6SnZNclBFSENSSUVfSEpQZjFFTENwdw?oc=5",
+          "title": "이 대통령 “민생경제 전시상황, 골든타임 잡아야”…추경 신속통과 당부 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FeS04Mk12dWxndVc5MGJ6SENLemJacEh6NkZ2dlhUU21XTXZMVWpvR05hSEZ6Vk43a2hhM0tSZENWaE5mU3Nub2k4WG1yZk51a2tZVHV1by1RTXFDQTNITDk2NUZHWjdQdl9r?oc=5",
           "source": "한겨레"
         },
         {
-          "title": "중동전쟁에도 861억 달러…’수출전선’ 이상 없다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WSFdtZ0pXTWg0bVQ0RXdPaDAwS3l0QV9nU3Qyc3JfQVhCbFJHQ3Ezai16TVFzRnhBOFc2V0xDNjloY3hqc0pWVnVFTGZ4VWc?oc=5",
-          "source": "v.daum.net"
+          "title": "경남도지사 후보 3인, 민생 현장서 주도권 다툼 - 경남도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OM3AybThPSzlWUUlLeTV4ZFF2NW0zUVNiS2E2ZmxPLTljOEZoeTJEdmN6LUt5amtPWHFVUVhnd2lUbmRaX2lESXIzanktTjNJd25hMDNTZFQ5UWtISzc1anlJQ1pvbThLV2c?oc=5",
+          "source": "경남도민일보"
         },
         {
-          "title": "중동전쟁, 中수출엔 호재‥\"고유가 충격 덜해 점유율 확대할 것\" - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNQ1FlYTZBbG5zU3VSWjZWM1JlSER4dFR0ZjlaUDVpS0xWV0VLVkRxeWFuTW5sRTVzenVFc3FBWUhJYl8yNVZvNkt6Nm4wblNwaVNMQVVVM0JpeU1vUEtiZUxVTGpHVnhKRmRMVTMxdkpDWkJu0gF0QVVfeXFMTkluWjNTdldNal9VbmgxbHJBX1VhSElEVkpNaVdUMkh1M0Fsamd5UjJTVDFvdWRQUXJ5UHJtelhHUHc5enpLUmdMd00tSThBZ2lPREhiLVhidXg3MEpmMkQzLXREdFhQb0dRZWhiNmtZUzZQOHA?oc=5",
-          "source": "MBC 뉴스"
+          "title": "국민 10명 중 4명 “시급한 민생현안은 물가안정” - 매일노동뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96eDNsSm9lMXlyc0RIR2NMQlNwZXVSVW10bVYyNFVpUnVwRkF6WDJfYjBEMVVCcnpSWEtPTWtqc2RaVmQ0Y2ItVEV3UGNFRHNGdHViMWNFcXJiWEh3T1oyVTVOQ0MwelJnbEpMYmo1RzE?oc=5",
+          "source": "매일노동뉴스"
         }
       ]
     },
     {
       "rank": 2,
       "word": "비상",
-      "count": 11,
+      "count": 21,
       "articles": [
         {
-          "title": "대한항공도 4월부터 비상경영... 아시아나도 감편 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTVZWcTRhNXJWX0F4b21ZYmdMMzVwQ0F2ZTFzMG14MjExLXMwNTcwMjJfX1dIV25ZOWNXNVdIQl90VWpVTkpfSG5iekR4RnFUT0hkZGFsUXRJTFJxMUJFcmVvU2NYVFpFUG9ISV9PbmNVNlRYM29TdVRrV1FBTl9QWUpRcGV4YzFFWHgzZ2NhUdIBowFBVV95cUxNeWpzMU4tNWFqaFpiMHNKSUU0ZUczTk45amZ1cFJtU1lkNzMyRFpEZWZTaGhNNGl1VGU4dkh1ODhBVUwyS3BzSUVudG9rVVg2bWpGMFE0SC1BNGFMNV9MVS0wZUd1Ykg1YW8zSklya1NxbWMxSkJRdzNzZW5ObUVoeU03dmRONVhvM0NCRjhLbFN4dnBCV3NPTjZxZTVhU3dmbkVN?oc=5",
-          "source": "조선일보"
+          "title": "이재명 대통령 \"비상 상황에 비상한 대책\" 26.2조 원 추경 시정연설 - MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JbEZzVTdtTDR5RHlPeTkxNEJtVlpwR3VXVTAtenA4VGRlbzZtcHRfQlRiZXN0N1A5Vkhvb0NFQmxZU0NLUWtZbE1ta0RuQzdwd2FYbWZKcXFMT2FiZkJ3alQ4TXRzTXBjdHhZT0NhREVRUE01Y0MwS9IBeEFVX3lxTE1aazhxZl8zYTU1dzVZSlAzX0JEYW1feEVjbHM1WGltY01XNlMzbm1FRnNQemxQXzFvZkkzR3RoZXprLWxaVWpwc25FNmZmTTBFZW9IRm1IYkxXWEpKejNQdDgtdWlIbEJ5NWZrTjFKRHVRMGVWZTJnYg?oc=5",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
       "rank": 3,
-      "word": "전쟁",
-      "count": 7,
+      "word": "전시",
+      "count": 13,
       "articles": [
         {
-          "title": "이란 사태: '우리 남매의 연을 끊자'… 전쟁으로 분열되는 이란 내 가정들 - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rWWI5RnA2Q01ER2dnWEc3MWUxZ3NjVDctaVU4MVYwVk5ObDA3aVJWVG8waGtRRGpBbDByVnZRQ1FDSS1uR2dVNy1iam5yazlFMndYSXFZZGNyX05o0gFiQVVfeXFMT01OTEtEREhYTEwxX3gxbm5OV01YdUEtWjBIUW1WdTYyVjlTblVaMVUweU43d3dIMWpLOXlFcUVmX2VMakFhTkJEcVFIV0lkVTEtVVFneUNvRlpEMy1xZEppdWc?oc=5",
-          "source": "BBC"
+          "title": "[피플&피플]박수근미술관 장기전시 마무리하는 박형진 작가 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMMUJWcEprbjk0alhlNVZ2RmotNkhDeThDcVhaam56dElmbWpJTlhIR0FDS1F6M2REYlJJQWhkMXJaU3JwYUlVSTFVdjZtNWc?oc=5",
+          "source": "v.daum.net"
         }
       ]
     },
     {
       "rank": 4,
-      "word": "총조사",
-      "count": 6,
+      "word": "중동",
+      "count": 11,
       "articles": [
         {
-          "title": "2025년 기준 경제총조사 홍보대사 이준혁 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oOUZyVEhwTUJiTldyaTRyUUZRVGpxUEpUWkRNQVcxMEhsalpxOENJTmVwaUFJMmpTZ1JnVDhtS3pqZmVzYVM1SURpcw?oc=5",
-          "source": "뉴스1"
+          "title": "파키스탄 손잡고 중재 나선 중국…미국 향해 \"중동 평화 보장\" - JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHZW9xUGFoU0paSHBIZG0wdU5CNERNdkJQQ2FVV29xU01zcWZFalZGaUxENVJ3ZmtwbnpLOFZvT3ZsRDdhTFZlTTRkcVNvSkJqeUpEeg?oc=5",
+          "source": "JTBC"
         }
       ]
     },
     {
       "rank": 5,
-      "word": "산업",
-      "count": 6,
+      "word": "위기",
+      "count": 10,
       "articles": [
         {
-          "title": "강원 맞춤형 AI 도입 가속화…바이오헬스 미래산업 탄력 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oUlM3WHhqSDhja0lkTjItOXRvRlVZbGFTaFFWZGtreFA3WkZXWHhyd2dVcmh3RzJZbjV3MURJcVBQMURnY0FFcklUd3djUDg?oc=5",
+          "title": "[김영익의 이코노믹스] AI 투자발 위기…밸류에이션·신용, 동시 붕괴 대비해야 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96WHVvWURDNl9heXU1cVJIdjN6TmZPTFIzS0dwa0ZIbE9ISDNIMUtfRkVuMDBlTGIxT21OMzNpSEVqbnM0bW5oVl9mb2RRRGc?oc=5",
           "source": "v.daum.net"
         }
       ]
