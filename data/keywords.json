@@ -13,21 +13,21 @@
             "source": "MBC 뉴스"
           },
           {
-            "title": "[속보]이 대통령 “민생경제 전시 상황…비상상황에 비상한 대책 필요” 국회 시정연설 - khan.co.kr",
+            "title": "[속보]이 대통령 “민생경제 전시 상황…비상상황에 비상한 대책 필요” 국회 시정연설 - 경향신문",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11OUNTY0doY3FQUjJUOXE3OVM1SmlfczI4TkpZOU1wSXVkRUJDc0NlMDJUd0I1M1hDeVlaRFgtLW90MnV5ZWdvTmZnb0dTSXpFRV9pYmh6bGlyUdIBX0FVX3lxTE40cmR0TG5EV0tyWU14STlDem95UlgtOXhscnAzTjJYUDRjYm1JeWlUUnBhcHpadXVLQ01qcDV6WFRPVGdPNjhic1hYLWUtdkhTcmhUSWw2Z3NObWd2RUJn?oc=5",
-            "source": "khan.co.kr"
+            "source": "경향신문"
           },
           {
-            "title": "이 대통령 “비상 상황엔 비상한 대책…추경안 신속 통과 초당적 협력” - news.kbs.co.kr",
+            "title": "이 대통령 “비상 상황엔 비상한 대책…추경안 신속 통과 초당적 협력” - KBS 뉴스",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Bd3dXTlJzZEptSDJfWkxUT2NQUHktdFlvVDNMTHNCazF1dWw2VFFuQmwydEtHZDFOR0s0VUdBZ2hIRWJpMmZ6VHl0R1J1aUlBb05PUlV4VmVmWjc0T0NXMnZHa3dHQQ?oc=5",
-            "source": "news.kbs.co.kr"
+            "source": "KBS 뉴스"
           }
         ]
       },
       {
         "rank": 2,
         "word": "중동",
-        "count": 9,
+        "count": 10,
         "articles": [
           {
             "title": "군사 국가로 재편되는 이란… 더 위험한 ‘중동의 북한’ 되나 - 조선일보",
@@ -39,7 +39,7 @@
       {
         "rank": 3,
         "word": "민생",
-        "count": 9,
+        "count": 8,
         "articles": [
           {
             "title": "이 대통령 “민생경제 전시상황, 골든타임 잡아야”…추경 신속통과 당부 - 한겨레",
@@ -51,11 +51,11 @@
       {
         "rank": 4,
         "word": "호르무즈",
-        "count": 8,
+        "count": 6,
         "articles": [
           {
-            "title": "이란 “전쟁 끝나도 허가 받아야”…오만과 호르무즈 의정서 추진 - 중앙일보",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52dlJpSjVwSjdPUEV5YWM5bWxKSnRhZWtMMXJtYldqdzZ3YVlpUWdEOVpzbGRrSDJKVlpTejlCdkM2ZXR4NnlDVDE2WE40X0RrcnY0dkF3?oc=5",
+            "title": "이란, 호르무즈 통행료 ‘배럴당 1달러’ 추진…코인 결제도 검토 - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tb3REUFM4OGpnckhtWF8teG1wSjQtU0RSV2ZtaWxUTmFBY25wSGxzUWx4ekhCV2ZHRkhrc1FZSVQ1NHdTT2pOQWFfMU8wRzl2ZloyOHhR?oc=5",
             "source": "중앙일보"
           }
         ]
@@ -76,61 +76,71 @@
     "IT": [
       {
         "rank": 1,
-        "word": "이메일 난독화: 2026년에",
-        "count": 0,
+        "word": "삼성",
+        "count": 8,
         "articles": [
           {
-            "title": "이메일 난독화: 2026년에 효과적인 방법은?",
-            "link": "https://news.hada.io/topic?id=28147",
-            "source": "GeekNews"
+            "title": "빛바랜 '7년 업데이트' 약속…삼성 갤S26 AI 신기능, 작년 출시기종에선 못 쓴다? - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZT0kxZGxmRWZBdndxZUVkZDc2emFRaHZwOTVoQ21IUnRUd19ZeUEzcUFSajIybjV3aFItc08xbFdnUDlobzBtVG9pNl9XNmhsd2tjT2lETWVzTzl6R2RZWtIBeEFVX3lxTE13a0llRF9FRXdiSWc0bmRLMGtwQ0M2QU5mVmd4MElJVWtFZ0hwRGdLTFFoWDd6SUg4TEhlajhRSWZlTW9uNExMN2RDM1pYSHFPYTdRbHFCMW1QRVBVeHVLWE92SGRrVjJlU0hEcmNpbGgwOVpLczJmbA?oc=5",
+            "source": "뉴시스"
+          },
+          {
+            "title": "\"옆사람 폰 몰래 봤어요\"…삼성 조사 봤더니 '반전 결과' - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HeVIxOWt3dkd0NWd2by00aDhfYldTQ2R1OUdCZWlyT2ZQOTVmb1JwQnZPVmNPckFjUkVnM2xwTWZEUFM5d3UzUVlIT3FYeHM?oc=5",
+            "source": "v.daum.net"
+          },
+          {
+            "title": "삼성전자, ‘갤럭시 북6’ 국내 출시 - samsung.com",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT2YtQmpwanE2V1JSN2w3bEpZdEtjWFNMSDcyMFo1YkRydnA2eUg1OHpfZUJ0LTdxRm1LbTJsOGtQaWJYWHdVZElPakFDUDFUWUM1Skw5eUczeldXVXJjcmRuUU45VTlTanl5ZEJVWUtTbFVtZEQxTzVwdG1HSzhMQS1wbnI4Q1lnd05EaUJ1a3V2aTV2TzVEWDMzV3dRdDZVNXRqRmpJUjhvNlRJOEFLWGxTYlhIdmZGc29Jenp1enBJTkh6bi1rYXJYeGZEal9KOVNfeHhrbks?oc=5",
+            "source": "samsung.com"
           }
         ]
       },
       {
         "rank": 2,
-        "word": "나는 숫자가 아니다 – 72",
-        "count": 0,
+        "word": "기업",
+        "count": 7,
         "articles": [
           {
-            "title": "나는 숫자가 아니다 – 72,000명 이상의 팔레스타인 희생자를 추모하며",
-            "link": "https://news.hada.io/topic?id=28145",
-            "source": "GeekNews"
+            "title": "홍천 항체클러스터 입주기업, 초격차 스타트업 프로젝트 협약 - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nbWRmTkJXa2xjOGNPQmQwVThpQ0pXZGIxV1FtNHA3QjYwMWlXb2l3SG1FbDFYbVFodVVoS1dLWTlNd2hLQTJWV3ZMbkJhX2c?oc=5",
+            "source": "v.daum.net"
           }
         ]
       },
       {
         "rank": 3,
-        "word": "Qwen3.6-Plus: 현",
-        "count": 0,
+        "word": "첨단",
+        "count": 6,
         "articles": [
           {
-            "title": "Qwen3.6-Plus: 현실 세계 에이전트를 향하여",
-            "link": "https://news.hada.io/topic?id=28144",
-            "source": "GeekNews"
+            "title": "한국첨단소재, ETRI와 광통신용 초고속 반도체 연결 기술 이전 계약 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sNk8tOV9lZDFNTzlwUXJ6WUxDM1p6VFZoVURDcEtaRnExcEVnaXBTdElzWG1kU0g5VW5BMGY1MGl0Vi10TFBQSl9iYmlvYWFraTA4ajA2dlVLbDdjQmx3bw?oc=5",
+            "source": "뉴시스"
           }
         ]
       },
       {
         "rank": 4,
-        "word": "Lemonade by AMD",
-        "count": 0,
+        "word": "물류",
+        "count": 6,
         "articles": [
           {
-            "title": "Lemonade by AMD: GPU와 NPU를 활용한 빠른 오픈소스 로컬 LLM 서버",
-            "link": "https://news.hada.io/topic?id=28143",
-            "source": "GeekNews"
+            "title": "멤버십+물류로 경쟁력 강화 나선 지마켓 - 바이라인네트워크",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HQ05OcG5JR1RTUWtNZk00V3ozbmVYblZiN09HRnRFSzhERG1vRWZxcjN0eU1vLWVjTXNITS1XcHR5cXFqbjNKdkZXMkllYnBka05z?oc=5",
+            "source": "바이라인네트워크"
           }
         ]
       },
       {
         "rank": 5,
-        "word": "Steam의 리눅스 사용률이",
-        "count": 0,
+        "word": "융합",
+        "count": 6,
         "articles": [
           {
-            "title": "Steam의 리눅스 사용률이 3월에 5%를 돌파",
-            "link": "https://news.hada.io/topic?id=28142",
-            "source": "GeekNews"
+            "title": "교육부, ‘AI 융합과정 운영대학’ 10개교 선정… 5억씩 추가 지원 - 한국대학신문",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UaXpSck5PTU83UVliRlJiTnM0SVFQWm10S0lrckwxNlZjTmZrNWJkU1BfdFAtR3RDb0FndjVXM2ZlcVNNalFCRmo5MjdOSnhZYTV5RGw2em14U2twUVlBMEhqbS12QQ?oc=5",
+            "source": "한국대학신문"
           }
         ]
       }
@@ -160,49 +170,49 @@
       },
       {
         "rank": 2,
-        "word": "이청아",
-        "count": 7,
+        "word": "싱글",
+        "count": 8,
         "articles": [
           {
-            "title": "이청아, 반짝반짝 - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5bElKbWdkV0h3dTUzNWRFV0lEazg0LVBhVnpSY0Nzd3V3a3ZzbFJPNlc2LV9BdGtld2xIMTVjcFlEc0tzcFQ5M3dtRQ?oc=5",
-            "source": "뉴스1"
+            "title": "한로로, 새 싱글 '애증'…미움받고 사랑할 용기 노래 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NekVXT2kwd0dxVFhHZlYyOS10NmJaNV9rYnZyYVdYakFDeWhSMUtXQVVza3VtbEpPdHZEM2lpZ1dJZ0FoUlgwVS1qVnJXbmJSb2Nya3ZYSFRQcTjSAWBBVV95cUxNT1dORmxXRUpRSkJlRHlDVThvNGs5U0kwdjdZLUhETHY0RkxKQjVMSmQ5dWw1cERtbGVCQUZQaWhLSThzelBNWlB4cDdCeTNMTEMzZTVoS01HRFZrS1ExRmE?oc=5",
+            "source": "연합뉴스"
           }
         ]
       },
       {
         "rank": 3,
-        "word": "컴백",
-        "count": 6,
+        "word": "리스트",
+        "count": 8,
         "articles": [
           {
-            "title": "DPR 이안, 1년 9개월 만에 컴백 - bntnews.co.kr",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CMFJOLTFIcVhuYjZzMVZWRVRybm5ubk42dE5FSkJ2ZHJpS0VHdlkwQWhlQ0VVZXdZUXc3WlpJNEJHcnZGSG91bWVyeWU2bUJuVjdWM2J6MGprMnhCV3Y1QzE5WnM?oc=5",
-            "source": "bntnews.co.kr"
+            "title": "\"자산 두 배로 3조 시대 연다…박계훈의 3년 지계\" - 딜사이트",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmbUVkLWdGM3d6U3p5UlYwTzZxQnZwVUFMWGlvWlVYWXEyWm1MSEphWmxmQnBvU1B6UFZUQUZxdTdjQ3BUd1FQaHFxUmJxcmc?oc=5",
+            "source": "딜사이트"
           }
         ]
       },
       {
         "rank": 4,
-        "word": "봉준호",
-        "count": 6,
+        "word": "이청아",
+        "count": 7,
         "articles": [
           {
-            "title": "봉준호 차기작은 애니메이션…심해어 주인공 ‘앨리’ - khan.co.kr",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EbTllNURzR0RQY005cnZCSHRkMm9HMTNTRVpYT3RFNEFFR29TQWNhT2V4SmVXbnBpQ2hId1YtTVFJdS1yYjN4cjYyeXhRcGktdmVFSTB2SkFPUdIBX0FVX3lxTE1tcVk2eTd1RHA5aXZaTVRqUkVPQ3VqSHJWX2U1TWJheWU4bHVmYUFuOUg4d09wNks4VmRIbnpLcF9GS2ZoaXh3NHA3RGtWZWVfQkxrMjJyM0FIcUZXek5Z?oc=5",
-            "source": "khan.co.kr"
+            "title": "이청아, 반짝반짝 - news1.kr",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5bElKbWdkV0h3dTUzNWRFV0lEazg0LVBhVnpSY0Nzd3V3a3ZzbFJPNlc2LV9BdGtld2xIMTVjcFlEc0tzcFQ5M3dtRQ?oc=5",
+            "source": "news1.kr"
           }
         ]
       },
       {
         "rank": 5,
-        "word": "앨리",
-        "count": 6,
+        "word": "컴백",
+        "count": 7,
         "articles": [
           {
-            "title": "봉준호 감독, 첫 장편 애니메이션 ‘앨리’ 제작…내년 상반기 제작 목표 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xZ0NHNFdiRjdTbmZ6NmdQUElERHVjR0puMGdDWEpmWmVtNi0zUHl1UXhHdTVmaHphRXFOVFFJaklYUjB3dmtCb1FiMU9qWWs?oc=5",
-            "source": "v.daum.net"
+            "title": "배민, BTS 컴백 맞아 한정판 음료 판매 - 한스경제",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WS3BjUTV4RzVtZ0xHU2t1RFdfOHlHS2E0Z2gtMFNJZmFSQmV5Z2dGVGp2T2FOcHZNZUZhTWU4ZnRyWFcwcExvS21sV1ZRdUVqRFRQRGpkQ2Q2ZDRHUUJKTFEwZXRTUjBjQk12cg?oc=5",
+            "source": "한스경제"
           }
         ]
       }
