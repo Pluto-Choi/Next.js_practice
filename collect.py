@@ -28,6 +28,7 @@ stopwords = {
 
     # 연예 노이즈
     '네이트', '연예', '포토', '공개', '아이돌', '스타',
+    '뉴시스', '감독', '네이트', '포토', '내외', '연예인',
 }
 
 def fetch_articles_google(keyword, count, used_links):
