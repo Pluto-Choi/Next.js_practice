@@ -114,18 +114,20 @@ for i, (word, count) in enumerate(top5_economy):
 
 # ===== IT (GeekNews) =====
 print("\n=== IT Top 5 키워드 ===")
-feed_it = feedparser.parse("https://news.hada.io/feed")
-top5_it = extract_keywords([e.title for e in feed_it.entries])
+feed_it = feedparser.parse("https://news.hada.io/rss/news")
+it_entries = feed_it.entries[:5]  # 상위 5개 바로 사용
 
-used_links_it = set()
 keywords_it = []
-for i, (word, count) in enumerate(top5_it):
-    article_count = 3 if i == 0 else 1
-    articles = fetch_articles_geeknews(article_count, used_links_it)
-    keywords_it.append({"rank": i+1, "word": word, "count": count, "articles": articles})
-    print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
-    for a in articles:
-        print(f"  - {a['title']}")
+for i, entry in enumerate(it_entries):
+    title = html.unescape(entry.title)
+    link = entry.link
+    keywords_it.append({
+        "rank": i + 1,
+        "word": title[:15],  # 제목 앞 15자를 키워드로
+        "count": 0,
+        "articles": [{"title": title, "link": link, "source": "GeekNews"}]
+    })
+    print(f"\n{i+1}위. {title}")
 
 # ===== 연예 =====
 print("\n=== 연예 Top 5 키워드 ===")
