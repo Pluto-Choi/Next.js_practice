@@ -1,76 +1,150 @@
 {
   "date": "2026-04-02",
-  "category": "경제",
-  "keywords": [
-    {
-      "rank": 1,
-      "word": "민생",
-      "count": 22,
-      "articles": [
-        {
-          "title": "이 대통령 “민생경제 전시상황, 골든타임 잡아야”…추경 신속통과 당부 - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FeS04Mk12dWxndVc5MGJ6SENLemJacEh6NkZ2dlhUU21XTXZMVWpvR05hSEZ6Vk43a2hhM0tSZENWaE5mU3Nub2k4WG1yZk51a2tZVHV1by1RTXFDQTNITDk2NUZHWjdQdl9r?oc=5",
-          "source": "한겨레"
-        },
-        {
-          "title": "경남도지사 후보 3인, 민생 현장서 주도권 다툼 - 경남도민일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OM3AybThPSzlWUUlLeTV4ZFF2NW0zUVNiS2E2ZmxPLTljOEZoeTJEdmN6LUt5amtPWHFVUVhnd2lUbmRaX2lESXIzanktTjNJd25hMDNTZFQ5UWtISzc1anlJQ1pvbThLV2c?oc=5",
-          "source": "경남도민일보"
-        },
-        {
-          "title": "국민 10명 중 4명 “시급한 민생현안은 물가안정” - 매일노동뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96eDNsSm9lMXlyc0RIR2NMQlNwZXVSVW10bVYyNFVpUnVwRkF6WDJfYjBEMVVCcnpSWEtPTWtqc2RaVmQ0Y2ItVEV3UGNFRHNGdHViMWNFcXJiWEh3T1oyVTVOQ0MwelJnbEpMYmo1RzE?oc=5",
-          "source": "매일노동뉴스"
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "word": "비상",
-      "count": 21,
-      "articles": [
-        {
-          "title": "이재명 대통령 \"비상 상황에 비상한 대책\" 26.2조 원 추경 시정연설 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JbEZzVTdtTDR5RHlPeTkxNEJtVlpwR3VXVTAtenA4VGRlbzZtcHRfQlRiZXN0N1A5Vkhvb0NFQmxZU0NLUWtZbE1ta0RuQzdwd2FYbWZKcXFMT2FiZkJ3alQ4TXRzTXBjdHhZT0NhREVRUE01Y0MwS9IBeEFVX3lxTE1aazhxZl8zYTU1dzVZSlAzX0JEYW1feEVjbHM1WGltY01XNlMzbm1FRnNQemxQXzFvZkkzR3RoZXprLWxaVWpwc25FNmZmTTBFZW9IRm1IYkxXWEpKejNQdDgtdWlIbEJ5NWZrTjFKRHVRMGVWZTJnYg?oc=5",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "word": "전시",
-      "count": 13,
-      "articles": [
-        {
-          "title": "[피플&피플]박수근미술관 장기전시 마무리하는 박형진 작가 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMMUJWcEprbjk0alhlNVZ2RmotNkhDeThDcVhaam56dElmbWpJTlhIR0FDS1F6M2REYlJJQWhkMXJaU3JwYUlVSTFVdjZtNWc?oc=5",
-          "source": "v.daum.net"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "word": "중동",
-      "count": 11,
-      "articles": [
-        {
-          "title": "파키스탄 손잡고 중재 나선 중국…미국 향해 \"중동 평화 보장\" - JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHZW9xUGFoU0paSHBIZG0wdU5CNERNdkJQQ2FVV29xU01zcWZFalZGaUxENVJ3ZmtwbnpLOFZvT3ZsRDdhTFZlTTRkcVNvSkJqeUpEeg?oc=5",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "word": "위기",
-      "count": 10,
-      "articles": [
-        {
-          "title": "[김영익의 이코노믹스] AI 투자발 위기…밸류에이션·신용, 동시 붕괴 대비해야 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96WHVvWURDNl9heXU1cVJIdjN6TmZPTFIzS0dwa0ZIbE9ISDNIMUtfRkVuMDBlTGIxT21OMzNpSEVqbnM0bW5oVl9mb2RRRGc?oc=5",
-          "source": "v.daum.net"
-        }
-      ]
-    }
-  ]
+  "categories": {
+    "경제": [
+      {
+        "rank": 1,
+        "word": "비상",
+        "count": 22,
+        "articles": [
+          {
+            "title": "[속보]이 대통령 “민생경제 전시 상황…비상상황에 비상한 대책 필요” 국회 시정연설 - 경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11OUNTY0doY3FQUjJUOXE3OVM1SmlfczI4TkpZOU1wSXVkRUJDc0NlMDJUd0I1M1hDeVlaRFgtLW90MnV5ZWdvTmZnb0dTSXpFRV9pYmh6bGlyUdIBX0FVX3lxTE40cmR0TG5EV0tyWU14STlDem95UlgtOXhscnAzTjJYUDRjYm1JeWlUUnBhcHpadXVLQ01qcDV6WFRPVGdPNjhic1hYLWUtdkhTcmhUSWw2Z3NObWd2RUJn?oc=5",
+            "source": "경향신문"
+          },
+          {
+            "title": "우상호, 춘천 풍물시장 장보기...“취임 즉시 비상경제 100일 플랜 가동” - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sd1dsaEZVbjRyOHpXWXB2ak51cVlnZ2Jsck51Y0VaTXM0S2VIaHN6dld5amlxaXVWTmhmdEtObTRUQS1OMHRIaEtpZ29sZVU?oc=5",
+            "source": "v.daum.net"
+          },
+          {
+            "title": "윤석열 탄핵 1년…내란 법정에서도 “12·3 비상계엄은 내란” - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZMEdtYVFfb3J5NEJ5T0pBT3JGaUlKYktFcmIzMmoyWlhYakFZSERwR2xpN20xTjByUUN3OG1feFpfZFdxbVBqNnpHS1RNdWtEWmN5VnBDQ2htU09EbUxISUtUc3E0WlpicGo4d2RvYzZXZw?oc=5",
+            "source": "한겨레"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "word": "구윤철",
+        "count": 9,
+        "articles": [
+          {
+            "title": "구윤철, ‘달러 강제 매각 가짜뉴스’ 최초 유포자·가담자 고발 - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MbWtrd3FqQ1dYQ0gyVXlHNU56WDRvY0xzcW4wTURuZlRTWm1OX3BFdmRYSnl5cEN2YnlCc0VzNXE1UkVPOWplbE5fZTdoQ1cwa0lBVy1oRGRqa3JmbjU5dGVYOTVaaFlkSHA0bUEwOUhhUQ?oc=5",
+            "source": "한겨레"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "word": "중동",
+        "count": 9,
+        "articles": [
+          {
+            "title": "군사 국가로 재편되는 이란… 더 위험한 ‘중동의 북한’ 되나 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTFibTdhc2liQms1MlY2VzZnRFFzb0FOWTlTby1ENzIwVWV5QV9Jak9Rc2I3cHplaldJRFMwUE9zWnlqeXpnYS11dUtnY3A5R2JIUnM4eVJTVFZKX0ZNd01rVnJrWEpUc2FKRXR2RlpRVWlmN2luVUxmVjcxZDRnaEUxN3V0WXNGaHNrWEJoYzBjd9IBpgFBVV95cUxPSFlTUDRTd3dFV0xMM0dMZkJMYTFNTXdfVi01dTAyUHFQWUdEZi1YTkI0WVp3TlNvaGwzblI5bkF6UVlsRzZ3OVNnTDBDTHAxcUNOcjFiTU80Y2lOcWdGSkt1TER0QVl4d29pME9LWEViYjFndTNVZzRlOXFKOWhWMFc4eGZ4LWc0ZWhPbUtrR2ZkMXczazcwLWNsRjhldW1QaE5Eb0N3?oc=5",
+            "source": "조선일보"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "word": "호르무즈",
+        "count": 8,
+        "articles": [
+          {
+            "title": "40여개국 외무장관 호르무즈 개방 논의…한국도 참여(종합2보) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hTXdhd0EydnBlWUVBZU1GVXlmNUlpMU8zYV9WWTRPOUtFWUZsVlUyQWNTSTFCSDlYX2RfNUFCQU8tNzN0UFFQRHJZMXMxSHhKQW1pQjRDQjRTaUHSAWBBVV95cUxOMjA4NUlNRDRqNmpxdVBKZERoZWJPVnhVaUZtVFdJcUVRakl5V1ZYazc3aEdONTZfWHlPV21WUFNDekxOMWRXWVUyN0JpbUJJZVViYVNzYWJPNjY5LXItM20?oc=5",
+            "source": "연합뉴스"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "word": "뉴시스",
+        "count": 8,
+        "articles": [
+          {
+            "title": "靑 \"'5월 4일 임시공휴일' 지정 검토한 바 없어\" - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84aldxelE4UVduQlZsYXFMcmtqeGhWWU5JdkptYlQzMHAzeFRsSlM4RW1DaFdqUlVQZUhGTkNvbEN4NzFNd0p1bksybnhCdGJhQndJVW40WEdWZTdxQXVHLdIBeEFVX3lxTE1jTUpNVmVvS0Q0YUw0OW1fbUl6U1NyRG1kNG96cVdDZTFXNEtxOENOWWFKVVFqRklMTVVtWHJPRGt1MlhVRnhDX2gxdWVLU1E0VkxDdTRFRGkwRUtZRmJhR2hDQkhDQ1lrc1NocFFnWUJRNW55SnZBbA?oc=5",
+            "source": "뉴시스"
+          }
+        ]
+      }
+    ],
+    "IT": [],
+    "연예": [
+      {
+        "rank": 1,
+        "word": "네이트",
+        "count": 64,
+        "articles": [
+          {
+            "title": "[속보] 경기도청 화재…진화 작업 중 - 네이트",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92QUN3bUI1S01YdkNnS2RGZWcxQi1YTFQ1MzByZ1ZJZXNOaWx0bGp2aURYRFlJYXppeEtYZEdYTTZKTXVLbERFcWs5R19qZ3lMQ1FhNF9PWFFXZjlVV2lwVW5PWlIxSHNNaUVoakFyVWhUNm9BNzhmOQ?oc=5",
+            "source": "네이트"
+          },
+          {
+            "title": "올봄엔 할인받고 여행가요 - 네이트",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EaXF3ME1GWmxVeXVvaV9fOHRyUXlDUEExZV9zWklnQngwNFJKQzd1Z1RNV3JxSmk4VDZqMjBMSEZCT1ZnQnNYVHJlSXVSZXR4NERB?oc=5",
+            "source": "네이트"
+          },
+          {
+            "title": "'코스피 상승' - 네이트",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ScHo5b05zUWJBbGVySkF5blRHZ01FdDNxc1lzcldRNkRxdVdZRnhPNTNJeExKY21IZGN1Q21ZRGl6cFdTMHp6d0ltME51N2NndFkw?oc=5",
+            "source": "네이트"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "word": "연예",
+        "count": 14,
+        "articles": [
+          {
+            "title": "美대표 연예 매체, 의회에 뜨자 파파라치 샷 속출… 의원들 비상 걸렸다 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR01yZ1l3MkUyMDljSTM2V19zQ3l0SWotVFNGWmJnWG9TWTVMbDROd1Bzd2pkVWR4UTRpODZaR0oxaHNiUExqNVJIVnUwMUlPNmMxdjdxcVM5NkQ5eVdZR0lDck1DbGFJRkF1aGwxNjFZY3VkSGxXUlp1bkVEcXJFNVpuTjPSAZgBQVVfeXFMTnNOMmNsWUR0dUpqYVVzWUVQbUNlZTY4WUJWeTNmd0NGYVZvdW9Cd0JEQ0ZIajZWQlloZ1RRdlh6U0ZJNFFuVzlPWEhMelRhRVZBQjNsdUZyclBqYTJWZ3hYMXFPYWVnbnR6Q3RlbERPanZ3cXItcmZXUmlUeXpaTEZaMUlzRnpjZlE5cXRIYkVqZnBCWm9vSVU?oc=5",
+            "source": "조선일보"
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "word": "포토",
+        "count": 14,
+        "articles": [
+          {
+            "title": "아일릿, 더 귀엽게 돌아왔다…신보 콘셉트 포토 공개 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41N0dadTFqdlBtdGphbndTOFE5ZjVCanc1Vkt6T1BaNHdEOC1feUVQUmxKdnlhUHJNalVPOE1zQkNtRDY0RGMyNUpUVDN1b2NuaXZXY0Z6MA?oc=5",
+            "source": "뉴스1"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "word": "공개",
+        "count": 12,
+        "articles": [
+          {
+            "title": "트럼프 “이란 최대 다리 폭파” 영상 공개···‘석기시대 위협’ 실행 - 경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iUE9fY1NpaXZvWTBGMnpnM3R6Rkxfc2hlekhMS2xEVlRBUV9OSkhTRVlZM0M3Y1pPbUtIcVhDS0VsNjl3akFkcmxlZkRUTzZOaUEwMW14RGM5UdIBX0FVX3lxTFBobDhyZlJ3cmxmS0RBdUNXbWQxX2wxZTF3cjVfcjVzaTAyLVh5YmJONFBaNFlqYzdXYkRjbE1oWVplb2lHV3B2X2g0NlEyM1pPUTY0N0w2TFBlZW9tRnZR?oc=5",
+            "source": "경향신문"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "word": "이청아",
+        "count": 11,
+        "articles": [
+          {
+            "title": "[사진]이청아, 책 향기 가득한 봄 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVDF5WWJNUThrUk40V0g0dVRUZlJnVWc2QmNWa1JVeko2alRCTWZTTnNNeHU4Y2xzbWp4SE91RUFxUnVfcWFSdW9tT0pObDFRNXVXUmtOalNWOV9UaU5ER3NkRXdhdXZ6bF82RUNIV3htcUZaTE5peTY3NU5lYXMtYVFaM0tfZXlPdmgtc05GbWxrOXhMRzFz0gGrAUFVX3lxTE9jOGNDSEVScnd3dUFkcU5xNC1weUdBOU9DVFluZnZZZ0R2MW1BM1EwRGhkVXFVUWR2ZTJmMGpWTFRvSkFiZGhROEI5MHU5bExKb2sxeWVTN3ZIN2IzRFZtWjl5VWhROTd5WDZYeUNXVVVWaGFXU0FDcGxFOHpmVEJJd1dwMHJ1Y1EzeEQ2d3pmeDdtNXUzSTFDZVJISGlOamE2QlhGRHBRb2Nscw?oc=5",
+            "source": "조선일보"
+          }
+        ]
+      }
+    ]
+  }
 }
