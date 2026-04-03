@@ -5,7 +5,7 @@
       {
         "rank": 1,
         "word": "비상",
-        "count": 19,
+        "count": 24,
         "articles": [
           {
             "title": "이재명 대통령 \"비상 상황에 비상한 대책\" 26.2조 원 추경 시정연설 - MBC 뉴스",
@@ -26,6 +26,18 @@
       },
       {
         "rank": 2,
+        "word": "건설",
+        "count": 12,
+        "articles": [
+          {
+            "title": "[단독]현대건설, 마천4구역 공사비 2900억 증액 - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LSEpVSXZKTUNEUFp2c0FvaklTN2E0cjFRbXhPeWpKRUM4bEtvYnpjNGJrQ1VnVTk4aExSNnFuSGFSb25EMXYyZXRNb2RNZ3c?oc=5",
+            "source": "v.daum.net"
+          }
+        ]
+      },
+      {
+        "rank": 3,
         "word": "중동",
         "count": 11,
         "articles": [
@@ -37,9 +49,9 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "word": "민생",
-        "count": 8,
+        "count": 10,
         "articles": [
           {
             "title": "이 대통령 “민생경제 전시상황, 골든타임 잡아야”…추경 신속통과 당부 - 한겨레",
@@ -49,26 +61,14 @@
         ]
       },
       {
-        "rank": 4,
-        "word": "호르무즈",
-        "count": 6,
-        "articles": [
-          {
-            "title": "이란, 호르무즈 통행료 ‘배럴당 1달러’ 추진…코인 결제도 검토 - 중앙일보",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tb3REUFM4OGpnckhtWF8teG1wSjQtU0RSV2ZtaWxUTmFBY25wSGxzUWx4ekhCV2ZHRkhrc1FZSVQ1NHdTT2pOQWFfMU8wRzl2ZloyOHhR?oc=5",
-            "source": "중앙일보"
-          }
-        ]
-      },
-      {
         "rank": 5,
-        "word": "트럼프",
-        "count": 6,
+        "word": "국토부",
+        "count": 9,
         "articles": [
           {
-            "title": "불만 쌓인 트럼프, 법무장관 경질…‘엡스틴 처리·정적 기소’ 부진 탓 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CM0taTlZxQW9vM0Y1enFzdjByb2dMc3R3aGw4VmZ2aEdPYmNNWTJtQVhjZTBpdjlQN05pcEhHZzlVZXJodWxnUlljbkFjZnJVZVBUalh5LTJWNE1EVldiS185YjV1VEIzN25XYnVsdw?oc=5",
-            "source": "한겨레"
+            "title": "국토부 “수도권 빈 상가·호텔 리모델링, 공공임대 2000채 공급” - donga.com",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qZVRXZEFJamxNaUZ2Q052NUdCeEk1dDV5U3hFcmJXOGRxTk03OTgySE4tZkRTWkR6dmFxdFVpVkdmRnhRc2hVcHpKbjc0Z0l3TDBhSEx0TmtiX2swMTJSZlFxeTBId3lxWXZLMWxRWG1OQXpzUVHSAWZBVV95cUxQR0lJeVN3aG1iSW4xVndncnNvekdVb2N0WmtobWZUcXM3MGxxMFNtcXRabDVhWnFBeW1mdHZQTTM5XzFXX2ZNZmNSUHhBeVNCREp1LVAxTENpS3g2d3E4VnZmcW9GMlE?oc=5",
+            "source": "donga.com"
           }
         ]
       }
@@ -77,7 +77,7 @@
       {
         "rank": 1,
         "word": "삼성",
-        "count": 9,
+        "count": 8,
         "articles": [
           {
             "title": "빛바랜 '7년 업데이트' 약속…삼성 갤S26 AI 신기능, 작년 출시기종에선 못 쓴다? - 뉴시스",
@@ -98,49 +98,49 @@
       },
       {
         "rank": 2,
-        "word": "전략",
+        "word": "보안",
         "count": 5,
         "articles": [
           {
-            "title": "완도군, 해양바이오 등 전략 산업 지원 주택 건립 - yna.co.kr",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GcXJtLUxtU0ZDMFU1b1l6dUJpakphd2FhZ252bGd3MEMxejBaYmd5QW5xTHI5eERiN3prNEFaOFJ4dV9IRjJXZHNwMGtSaTJDVEpXWERrZjJsVmvSAWBBVV95cUxQZjNJc0RsRTkxVHZuZGlqMC1kNnBvSWR1ZVdYMTdZNU5hSEdkYTFHUUtFVktlalJseEQwR0hzb0duZ0pRUFFXOUFQVzliYkV4OWFaWThaS2pwNEtGaGVxcG0?oc=5",
-            "source": "yna.co.kr"
+            "title": "AI 보안 경쟁 본격화… 국내외 보안 기업 신제품 출시 잇따라 - IT조선",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05cjR0YjFiOUdtdjNndWNjYks5SnE2QWFpMi1aa2p3YnFKcTROQzBwYlhMaG9ZU09SU3JxVDZFVmlmTWdPT082ZG92dnV4UmlDcUp6UHdILVgwU18yX0hoN2l1akRyR3pEcWV2YXptVErSAXRBVV95cUxOLW1kRXlxN1c1ZlZCT1M4OXJBNjhIQ2tkNnFvaGJQTGdlOG85YXZxTVVEam41VGN3NURpM2dmeE5nME1lQ29wZWo1X05yR01UdGZFWHktVnd5VlZrcERMN3lUVHVxTDRzVU1NWDQydzVKcld1bQ?oc=5",
+            "source": "IT조선"
           }
         ]
       },
       {
         "rank": 3,
-        "word": "도입",
+        "word": "뉴스룸",
         "count": 4,
         "articles": [
           {
-            "title": "호르무즈 봉쇄에…韓, 중동산 대신 美 원유 도입 늘린다 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yWmRzaVkyNUZYVEQxb3JvUXNaQ0Q0TXpUOUFfaDRYMkduSHZzZUFwZkM0X0prSzU5NmlZUHlOaWN1M05GTmVIdVFzUF8yOWs?oc=5",
-            "source": "v.daum.net"
+            "title": "4월 2일 (목) 뉴스룸 다시보기 - JTBC",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpY1Q0MnVYd044WDM2R0lHTkVxSkJDeHZsN1NGX3haTjV6Zk1MSlItbnRDb2pzQk9lVmJuNU56czhxeHlBYmFQbWI5Ml9tTkcxMHc?oc=5",
+            "source": "JTBC"
           }
         ]
       },
       {
         "rank": 4,
-        "word": "가능",
-        "count": 4,
+        "word": "핵심",
+        "count": 3,
         "articles": [
           {
-            "title": "이 대통령 “5·18, 계엄 요건 엄격화 ‘개헌 합의’ 충분히 가능” - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yWG83YWJzVlo1TVltemM5OFZUc1ZYOWV0SEpIQ2JlaWZnMVBnYlRGZkd6ZEJYUUFXMWh6R1FwSXdZYWJCQ3hhZVBLUGZqWlM1eHBWN1kwZnlCUS1nRHd6dk9xUTNEM2g1MEU0?oc=5",
-            "source": "한겨레"
+            "title": "트럼프, 이란 전쟁 불안감 진정시키려면서도 핵심 질문엔 답 내놓지 않아 - BBC",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zSFB5djFqX05lSkwyRDlLYzB5YWlWU2tQeWVRSWN3c2JHSnJLa0RCS1lpY1dZQ0wwUzFvT3BWVk5ORUNnaGN4c0ZiWjFOZ3ZCSVdfVTFWMVBVQlo40gFiQVVfeXFMUEJNN01LUzdwbGNQU0ZsNU9zaEQtREEyTmhWM1p4NEEwQW5YZWNJeEVXMnhhUE1BZ3l1SXJJRnBoWGFyZXM1dFYyMFBHNGttbFRab2g0SXdYSXZLRUVTZGJ6R3c?oc=5",
+            "source": "BBC"
           }
         ]
       },
       {
         "rank": 5,
-        "word": "트렌드",
-        "count": 4,
+        "word": "유통",
+        "count": 3,
         "articles": [
           {
-            "title": "[부티크 트렌드 레터] Y2K를 넘어, 지금 가장 핫한 2세대 걸그룹 실루엣 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmp6SzZ3UXJ2Y0hPS0Q0bnhPb294WklSeWNPQ3dVTlk0UUw2dzlkSHgwaGdWQkkteFNwRFJuaXFJSnlybTBMX29VSW5pUkRoRnNWZENxRkl2NVZvb05mR3pCY1VoSUViVjZhd2hxMHkyNnNRN1luNkE0NlZkd0RRRkwySDdzYVpOd2I4OTU4T2JhaUU1MTBOY1Z2c9IBrwFBVV95cUxNM1p3M2tvcTlfUTNOYW90UFB0bHlJSndIaVA4LXF3SURUOGdEQ05CYnlEd0szR0tkYXlGbjVCT3BtMTNPNzhxWGEtOXBma0ZPX2I1N0Y2Q3pHNmtMR0tiMk5PYWxkMlJsRzdqb1YyaF8tcVAxSHExRjdaaUh3LTdLbmJvQmJLNHZoWUd6Si12UU5pcm5VTWs3SE1ZR2htNldIQlVRQU5zcFZ4M054eWhB?oc=5",
-            "source": "조선일보"
+            "title": "음성화훼유통센터, 개장 10년만에 누적경매액 2천억원 돌파 - yna.co.kr",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sSlJrUWo0TVQ1bkJxd3FMejBqZTE1enppQktlbkdsZ2NmNVBmWTNsejMtd08yMllYNjd1cGhZa0FMMHBibTU2YkRXY1M0Yk5nblZ5c0V0VEFhX2PSAWBBVV95cUxQTndvaF9aMGdTQVctV1c5NDdGcUFoRE5aSkt2b1JOTm5zdW55RmFEREtxaHA4MnpiN3RjYWZmNnNEOExWVWM3VDVVV3ZBSUlfZ2Uza09FZHA0VXgxb0JiV1Q?oc=5",
+            "source": "yna.co.kr"
           }
         ]
       }
@@ -149,7 +149,7 @@
       {
         "rank": 1,
         "word": "서현",
-        "count": 10,
+        "count": 9,
         "articles": [
           {
             "title": "[사진]점점 예뻐지는 서현 - 조선일보",
@@ -174,16 +174,16 @@
         "count": 8,
         "articles": [
           {
-            "title": "이청아, 반짝반짝 - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5bElKbWdkV0h3dTUzNWRFV0lEazg0LVBhVnpSY0Nzd3V3a3ZzbFJPNlc2LV9BdGtld2xIMTVjcFlEc0tzcFQ5M3dtRQ?oc=5",
-            "source": "뉴스1"
+            "title": "이청아, 미소와 함께 [포토엔HD] - 네이트",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xVlR0MkJ6a0t3UHFnVDZFQmpJTnVZQzQxMk5XVms4R3lYVk9XUGxfMHpsalFYSldzVEEwZi1vc1JQSzVVak9kTEp1LTA1Ykl1bVg0NEpNVEEwbENaYWNYdQ?oc=5",
+            "source": "네이트"
           }
         ]
       },
       {
         "rank": 3,
         "word": "컴백",
-        "count": 5,
+        "count": 6,
         "articles": [
           {
             "title": "30. BTS 컴백 라이브: 아리랑 - beopbo.com",
@@ -194,25 +194,25 @@
       },
       {
         "rank": 4,
-        "word": "파이낸셜포스트",
-        "count": 4,
+        "word": "리즈",
+        "count": 5,
         "articles": [
           {
-            "title": "[포토] 서현, 다시 만난 미모 - 파이낸셜포스트",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9walcxRGZXMHBfQW5VeURNOTlEdjhRRWV5Q09ISllIZ3dqMUI0WmVXeWt2eDZRUDVJN3dPeHVzcVZyM2dWZG12U1lteUdqckozcktiNndSc19zMTdjblFxbUVtdkFST0NIbVFYY29pMUYxMWlV?oc=5",
-            "source": "파이낸셜포스트"
+            "title": "아이브 리즈 '셔터만 눌러도 화보 인생'[포토엔HD] - 네이트",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0cXFWdUlwWlpWZXNnS3VCaUJJMjhQT0laVExPdDZUOVlJaUhyVUR3a1I2cWw4OVVma201alJoa2U1VzVuNDhUcnZrYlJlSTZIaEh3?oc=5",
+            "source": "네이트"
           }
         ]
       },
       {
         "rank": 5,
-        "word": "개봉",
+        "word": "미소",
         "count": 4,
         "articles": [
           {
-            "title": "‘몇달전 나온 작품인데’… 재개봉 텀이 짧아진다 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nUUo5a0Yxb2lpVTNFeFpJUmdQUlRJVzB2OGRQZDFlQU5oOUVTZlFXbkcwNExQZnJtamFxbFBWZ2VZUUQ4NVdQZUxhSWVXSkk?oc=5",
-            "source": "v.daum.net"
+            "title": "의약품 원료·포장'직격탄' vs CDMO '미소'...K바이오, 중동전쟁 장기화로 희비 - 팜이데일리",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fUk5kSFJnbzZ6MTBYajA5bUE3bEJKb051SGFWakdnTTFmTTllQ2RfRU4xZVZEaTFzZWpWQVVXbWVGWlJOVXhlaE8yMXFWSEJIMkp3T0J3SWIzT1pNeXBkMlpHdXFZdkNFdW9FRF9n?oc=5",
+            "source": "팜이데일리"
           }
         ]
       }
