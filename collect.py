@@ -1,6 +1,6 @@
 from kiwipiepy import Kiwi
 from collections import Counter
-from datetime import datetime, timedelta, timezone, date
+from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
 from supabase import create_client
 import feedparser
@@ -26,7 +26,7 @@ stopwords = {
     '부장', '차관', '장관', '대통령', '후보', '선거', '전시',
 }
 
-def fetch_articles(keyword, count, used_links=set()):
+def fetch_articles_google(keyword, count, used_links):
     url = f"https://news.google.com/rss/search?q={quote(keyword)}&when=1d&hl=ko&gl=KR&ceid=KR:ko"
     feed = feedparser.parse(url)
     articles = []
@@ -43,9 +43,34 @@ def fetch_articles(keyword, count, used_links=set()):
         })
     return articles
 
-print(f"ANTHROPIC_API_KEY 존재 여부: {bool(os.environ.get('ANTHROPIC_API_KEY'))}") # 디버깅용 출력
+def fetch_articles_geeknews(count, used_links):
+    url = "https://news.hada.io/feed"
+    feed = feedparser.parse(url)
+    articles = []
+    for entry in feed.entries:
+        if len(articles) >= count:
+            break
+        if entry.link in used_links:
+            continue
+        used_links.add(entry.link)
+        articles.append({
+            "title": html.unescape(entry.title),
+            "link": entry.link,
+            "source": "GeekNews",
+        })
+    return articles
 
-def generate_summary(keywords):
+def extract_keywords(titles):
+    nouns = []
+    for title in titles:
+        tokens = kiwi.tokenize(title)
+        for token in tokens:
+            if token.tag in ('NNG', 'NNP') and len(token.form) > 1:
+                if token.form not in stopwords:
+                    nouns.append(token.form)
+    return Counter(nouns).most_common(5)
+
+def generate_summary(keywords, category):
     words = [item["word"] for item in keywords]
     message = anthropic_client.messages.create(
         model="claude-haiku-4-5-20251001",
@@ -53,7 +78,7 @@ def generate_summary(keywords):
         messages=[
             {
                 "role": "user",
-                "content": f"다음 경제 뉴스 키워드들을 보고 오늘의 경제 이슈를 15자 이내로 한 줄 요약해줘. 키워드: {', '.join(words)}. 요약문만 출력해줘."
+                "content": f"다음 {category} 뉴스 키워드들을 보고 오늘의 {category} 이슈를 15자 이내로 한 줄 요약해줘. 키워드: {', '.join(words)}. 요약문만 출력해줘."
             }
         ]
     )
@@ -68,45 +93,59 @@ kiwi = Kiwi()
 KST = timezone(timedelta(hours=9))
 yesterday = (datetime.now(KST) - timedelta(1)).strftime('%Y-%m-%d')
 
-# 경제 키워드 수집
-url = f"https://news.google.com/rss/search?q={quote('경제')}&hl=ko&gl=KR&ceid=KR:ko"
-feed = feedparser.parse(url)
-titles = [entry.title for entry in feed.entries]
-
-nouns = []
-for title in titles:
-    tokens = kiwi.tokenize(title)
-    for token in tokens:
-        if token.tag in ('NNG', 'NNP') and len(token.form) > 1:
-            if token.form not in stopwords:
-                nouns.append(token.form)
-
-counter = Counter(nouns)
-top5 = counter.most_common(5)
-
+# ===== 경제 =====
 print("=== 경제 Top 5 키워드 ===")
-keywords_with_articles = []
+feed = feedparser.parse(f"https://news.google.com/rss/search?q={quote('경제')}&hl=ko&gl=KR&ceid=KR:ko")
+top5_economy = extract_keywords([e.title for e in feed.entries])
 
-# used_links를 공유하도록 수정
 used_links = set()
-
-for i, (word, count) in enumerate(top5):
+keywords_economy = []
+for i, (word, count) in enumerate(top5_economy):
     article_count = 3 if i == 0 else 1
-    articles = fetch_articles(word, article_count, used_links)
-    keywords_with_articles.append({
-        "rank": i + 1,
-        "word": word,
-        "count": count,
-        "articles": articles
-    })
+    articles = fetch_articles_google(word, article_count, used_links)
+    keywords_economy.append({"rank": i+1, "word": word, "count": count, "articles": articles})
     print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
     for a in articles:
         print(f"  - {a['title']}")
 
+# ===== IT (GeekNews) =====
+print("\n=== IT Top 5 키워드 ===")
+feed_it = feedparser.parse("https://news.hada.io/feed")
+top5_it = extract_keywords([e.title for e in feed_it.entries])
+
+used_links_it = set()
+keywords_it = []
+for i, (word, count) in enumerate(top5_it):
+    article_count = 3 if i == 0 else 1
+    articles = fetch_articles_geeknews(article_count, used_links_it)
+    keywords_it.append({"rank": i+1, "word": word, "count": count, "articles": articles})
+    print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
+    for a in articles:
+        print(f"  - {a['title']}")
+
+# ===== 연예 =====
+print("\n=== 연예 Top 5 키워드 ===")
+feed_ent = feedparser.parse(f"https://news.google.com/rss/search?q={quote('연예')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
+top5_ent = extract_keywords([e.title for e in feed_ent.entries])
+
+used_links_ent = set()
+keywords_ent = []
+for i, (word, count) in enumerate(top5_ent):
+    article_count = 3 if i == 0 else 1
+    articles = fetch_articles_google(word, article_count, used_links_ent)
+    keywords_ent.append({"rank": i+1, "word": word, "count": count, "articles": articles})
+    print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
+    for a in articles:
+        print(f"  - {a['title']}")
+
+# ===== keywords.json 저장 =====
 result = {
     "date": yesterday,
-    "category": "경제",
-    "keywords": keywords_with_articles
+    "categories": {
+        "경제": keywords_economy,
+        "IT": keywords_it,
+        "연예": keywords_ent,
+    }
 }
 
 os.makedirs("data", exist_ok=True)
@@ -115,23 +154,23 @@ with open("data/keywords.json", "w", encoding="utf-8") as f:
 
 print(f"\n{yesterday} 키워드 저장 완료!")
 
-# 요약 생성
-summary = generate_summary(keywords_with_articles)
-print(f"오늘의 요약: {summary}")
+# ===== 요약 생성 및 Supabase 저장 =====
+for category, keywords in [("경제", keywords_economy), ("IT", keywords_it), ("연예", keywords_ent)]:
+    summary = generate_summary(keywords, category)
+    print(f"{category} 요약: {summary}")
 
-#데이터베이스 저장
-# keywords 테이블에 키워드 저장
-for item in keywords_with_articles:
-    supabase.table("keywords").insert({
+    for item in keywords:
+        supabase.table("keywords").insert({
+            "date": yesterday,
+            "rank": item["rank"],
+            "word": item["word"],
+            "category": category,
+        }).execute()
+
+    supabase.table("daily_summary").insert({
         "date": yesterday,
-        "rank": item["rank"],
-        "word": item["word"],
+        "category": category,
+        "summary": summary,
     }).execute()
 
-# daily_summary 테이블에 요약 저장
-supabase.table("daily_summary").insert({
-    "date": yesterday,
-    "summary": summary,
-}).execute()
-
-print(f"Supabase 저장 완료!")
+print("Supabase 저장 완료!")
