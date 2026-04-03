@@ -10,6 +10,7 @@ import os
 import html
 
 stopwords = {
+    # 경제 노이즈
     '경제', '뉴스', '기자', '한국', '지역', '사회', '국제', '관련',
     '한겨레', '조선', '중앙', '동아', '연합', '일보', '신문', '방송',
     '재경부', '관리관', '국장', '개발', '활성', '지성', '서울', '대한',
@@ -24,6 +25,9 @@ stopwords = {
     '대응', '혁신', '글로벌', '실용', '장관',
     '헤럴드', '총리', '본부', '위원', '의원', '대표', '회장', '사장',
     '부장', '차관', '장관', '대통령', '후보', '선거', '전시',
+
+    # 연예 노이즈
+    '네이트', '연예', '포토', '공개', '아이돌', '스타',
 }
 
 def fetch_articles_google(keyword, count, used_links):
@@ -44,7 +48,7 @@ def fetch_articles_google(keyword, count, used_links):
     return articles
 
 def fetch_articles_geeknews(count, used_links):
-    url = "https://news.hada.io/feed"
+    url = "https://news.hada.io/rss/news"
     feed = feedparser.parse(url)
     articles = []
     for entry in feed.entries:
