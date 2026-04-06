@@ -1,74 +1,74 @@
 {
-  "date": "2026-04-02",
+  "date": "2026-04-06",
   "categories": {
     "경제": [
       {
         "rank": 1,
-        "word": "비상",
-        "count": 24,
+        "word": "중동",
+        "count": 12,
         "articles": [
           {
-            "title": "이재명 대통령 \"비상 상황에 비상한 대책\" 26.2조 원 추경 시정연설 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JbEZzVTdtTDR5RHlPeTkxNEJtVlpwR3VXVTAtenA4VGRlbzZtcHRfQlRiZXN0N1A5Vkhvb0NFQmxZU0NLUWtZbE1ta0RuQzdwd2FYbWZKcXFMT2FiZkJ3alQ4TXRzTXBjdHhZT0NhREVRUE01Y0MwS9IBeEFVX3lxTE1aazhxZl8zYTU1dzVZSlAzX0JEYW1feEVjbHM1WGltY01XNlMzbm1FRnNQemxQXzFvZkkzR3RoZXprLWxaVWpwc25FNmZmTTBFZW9IRm1IYkxXWEpKejNQdDgtdWlIbEJ5NWZrTjFKRHVRMGVWZTJnYg?oc=5",
-            "source": "MBC 뉴스"
+            "title": "파라마운트, 워너 인수 위해 중동펀드서 36조원 유치 - 연합뉴스 한민족센터",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yeXQ5cGxYR2dLUVVONmFJMVdBTXk4TVpTMi1haWpsOXdZMWF1V3QyT0ZoVmZSTXNvSkJNdC1FcFpyQzZYcGxHd1lZT3VLcEx3dDI5WFlrd1h2RGxfdGpLRVFWRGtMWTF5UExkeFc2ZlJzMkxv?oc=5",
+            "source": "연합뉴스 한민족센터"
           },
           {
-            "title": "이 대통령 “비상 상황엔 비상한 대책…추경안 신속 통과 초당적 협력” - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Bd3dXTlJzZEptSDJfWkxUT2NQUHktdFlvVDNMTHNCazF1dWw2VFFuQmwydEtHZDFOR0s0VUdBZ2hIRWJpMmZ6VHl0R1J1aUlBb05PUlV4VmVmWjc0T0NXMnZHa3dHQQ?oc=5",
-            "source": "KBS 뉴스"
+            "title": "[사설] ‘중동 사태 에너지 전환 대책’에 원전이 빠지다니 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnQ3ZWY4RTdxMERSZTdTTVM4cExRc0NhTWlGM1lfY3I0WUI0ajA3Wk43VWE2M21NdVVEbEdNZjR5NHhFc2JRc0FfT0VkNUpEdC1qZzlxb2d0U0JwOUZZbFYxUmxveWYwWUFmSGlLNktpNGZMWVkyZzIyc2lmb1oxakRHaUpUd9IBmgFBVV95cUxNQkszVTFwUGVnbXNlMVB5NG81V011ZV9lclFWUnlFTHVjR3BqZ0pkLTBYZ2Q4clc5SGRxblpVVnFTd3VRZ01ReTJXNUlhbzhWeXZYT1lzbjlqbDRuZ3JENk4tQVR0TmlLbVJOZGNDc3pQd0FjUENFOFRVNXBWNmhidmJZRkRzLXd1VG5pRzQwUUZNS3FYSWFoOElR?oc=5",
+            "source": "조선일보"
           },
           {
-            "title": "[속보]이 대통령 “민생경제 전시 상황…비상상황에 비상한 대책 필요” 국회 시정연설 - khan.co.kr",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11OUNTY0doY3FQUjJUOXE3OVM1SmlfczI4TkpZOU1wSXVkRUJDc0NlMDJUd0I1M1hDeVlaRFgtLW90MnV5ZWdvTmZnb0dTSXpFRV9pYmh6bGlyUdIBX0FVX3lxTE40cmR0TG5EV0tyWU14STlDem95UlgtOXhscnAzTjJYUDRjYm1JeWlUUnBhcHpadXVLQ01qcDV6WFRPVGdPNjhic1hYLWUtdkhTcmhUSWw2Z3NObWd2RUJn?oc=5",
-            "source": "khan.co.kr"
+            "title": "\"중동發 인플레 장기화…금리 수준 더 높아질듯\" - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GWUZ6WmpibENhcUNaU1VKVl84U3QtZ25kQjRfUVRRUnFjamlHUEtycGsxc3pEMWFtR2ZXMVRQSHlNR245UlNXT2t3dEtZSTk2emdsbWItTTQxUdIBVEFVX3lxTFAzR0RERkgtUFJIWkxHTEoxMUFoY19tVG9jUjNjTVYzVWh4SGlCck11MjNWRjRUQzZHc2NlSzRxeVB6enRIdjhXS1dac3Zram5iOTZfYw?oc=5",
+            "source": "한국경제"
           }
         ]
       },
       {
         "rank": 2,
-        "word": "건설",
-        "count": 12,
+        "word": "위기",
+        "count": 9,
         "articles": [
           {
-            "title": "[단독]현대건설, 마천4구역 공사비 2900억 증액 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LSEpVSXZKTUNEUFp2c0FvaklTN2E0cjFRbXhPeWpKRUM4bEtvYnpjNGJrQ1VnVTk4aExSNnFuSGFSb25EMXYyZXRNb2RNZ3c?oc=5",
-            "source": "v.daum.net"
+            "title": "'위기를 기회로'…전 국민 70%에 '고유가 피해지원금' 최대 60만 원 - 대한민국 정책브리핑",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mVGx3LTVMUjlzVDRtbDFMRFg1djZ0YzAtTEhHQnJWdjlaV0Y3LXEzUlA4Y2Q0Y3RMQlIzMndWaWxrNm1qTnREcE1vMWg2TlB0YlR4M0w1aUNCTEhzUklzWVQ2SjBub2U5dTZQYg?oc=5",
+            "source": "대한민국 정책브리핑"
           }
         ]
       },
       {
         "rank": 3,
-        "word": "중동",
-        "count": 11,
+        "word": "전쟁",
+        "count": 9,
         "articles": [
           {
-            "title": "중동발 건설 원가 '쇼크'…공사비 인상 둘러싼 분쟁 불가피 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1McjZoSE5IM2wzMlFKbXBpbjVUYzhaUFFvUFR1bjVHM3ZXTmYzbHNlUkwwWl9Obk1UaGJEUE51aDk3SUtKbzF6bGJkdVRpb1k?oc=5",
+            "title": "[머니 컨설팅]전쟁 속 변동성 장세, 다시 ‘분산’의 원칙 - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WekozRDRYamp6NFJvbzlhXzVXTmExYjNNTnNFeGRvaXZ3dFdvM1lZMVU3Wl9hN0J2ZWZ6NWREOTVBaUE3cmpOSjRUVXNzQ2c?oc=5",
             "source": "v.daum.net"
           }
         ]
       },
       {
         "rank": 4,
-        "word": "민생",
-        "count": 10,
+        "word": "추경",
+        "count": 7,
         "articles": [
           {
-            "title": "이 대통령 “민생경제 전시상황, 골든타임 잡아야”…추경 신속통과 당부 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FeS04Mk12dWxndVc5MGJ6SENLemJacEh6NkZ2dlhUU21XTXZMVWpvR05hSEZ6Vk43a2hhM0tSZENWaE5mU3Nub2k4WG1yZk51a2tZVHV1by1RTXFDQTNITDk2NUZHWjdQdl9r?oc=5",
-            "source": "한겨레"
+            "title": "정청래 \"추경안, 약속대로 10일 처리해 민생지원금 지급\" - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xczh5c0g5SmRnS21qTy1QTzM1TXcxZWFFR0VtWW1DRzZUQld5YmwzaDNNa1lURkh6Z1gzUXlHR0l6aVJhc1lMTU16M0ZtaUJuSW9HNTVxazhDc09RZHdjedIBeEFVX3lxTE11MDkzTGo2Y3NJMGpEMkEtRmNOcExobUYwbVV6Q1JITTUwMlhpTVpOTG9Ic1JOd2x0RENKVm9FR2c1NDFzd00wdUM0Sl9fbjZUSzIzTkwyUzhMTXJaYzBycXRCSjZZY1F1MnliQ0tXcDdHVXRKV1NubA?oc=5",
+            "source": "뉴시스"
           }
         ]
       },
       {
         "rank": 5,
-        "word": "국토부",
-        "count": 9,
+        "word": "이란",
+        "count": 7,
         "articles": [
           {
-            "title": "국토부 “수도권 빈 상가·호텔 리모델링, 공공임대 2000채 공급” - donga.com",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qZVRXZEFJamxNaUZ2Q052NUdCeEk1dDV5U3hFcmJXOGRxTk03OTgySE4tZkRTWkR6dmFxdFVpVkdmRnhRc2hVcHpKbjc0Z0l3TDBhSEx0TmtiX2swMTJSZlFxeTBId3lxWXZLMWxRWG1OQXpzUVHSAWZBVV95cUxQR0lJeVN3aG1iSW4xVndncnNvekdVb2N0WmtobWZUcXM3MGxxMFNtcXRabDVhWnFBeW1mdHZQTTM5XzFXX2ZNZmNSUHhBeVNCREp1LVAxTENpS3g2d3E4VnZmcW9GMlE?oc=5",
-            "source": "donga.com"
+            "title": "美·이란, 휴전 포함 ‘종전안’ 수령…이란, '일시적 휴전' 거부 - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pUjhUR1JVVC1LRmtMbk90VEMxZHMzd2hRZ3BmR2pYbVRyZGNudWg0TXFaTUlmUk8yc1lTYnRYVWR3NnRYbHl6YWNSQUd6YWJSN1FXTjRB?oc=5",
+            "source": "중앙일보"
           }
         ]
       }
@@ -77,21 +77,21 @@
       {
         "rank": 1,
         "word": "삼성",
-        "count": 8,
+        "count": 9,
         "articles": [
           {
-            "title": "빛바랜 '7년 업데이트' 약속…삼성 갤S26 AI 신기능, 작년 출시기종에선 못 쓴다? - 뉴시스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZT0kxZGxmRWZBdndxZUVkZDc2emFRaHZwOTVoQ21IUnRUd19ZeUEzcUFSajIybjV3aFItc08xbFdnUDlobzBtVG9pNl9XNmhsd2tjT2lETWVzTzl6R2RZWtIBeEFVX3lxTE13a0llRF9FRXdiSWc0bmRLMGtwQ0M2QU5mVmd4MElJVWtFZ0hwRGdLTFFoWDd6SUg4TEhlajhRSWZlTW9uNExMN2RDM1pYSHFPYTdRbHFCMW1QRVBVeHVLWE92SGRrVjJlU0hEcmNpbGgwOVpLczJmbA?oc=5",
+            "title": "삼성전자, 내일 잠정실적 발표…'20만전자' 탈환 기대감 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yaHJJNmZMc0RIMVpVN0QtV1FYY0FuOUxhcGNuWS1MOW5IUWM2NjJtTXQ1bXVYTEFyNnF1Z3lmYjFDSnY3WDZCaFNuZU1nUFBXQi1YWDlFOFlNaTktVzRKa9IBeEFVX3lxTE1ERGMxME04NDVTQU5rdjkyTnBGWGsxZm9vMkNKQmY4MVprVmtPSDgxb1haVUNYRm1fdERPdl85Sk9xZkZJN0xhRGViQjFOT3c5empFS0VoSXBTSlBWcUlGSkpVTlVSb3Q0SzNCVXVYRE5jV3piSHllNQ?oc=5",
             "source": "뉴시스"
           },
           {
-            "title": "삼성D, 갤럭시 폴드8·플립8에 M13 OLED 공급 - 전자신문",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCN3VmS2dDeWdCMGc2WEtQZHRSNF9vUHh1eWVRbWE1NDRHSkk5ajNvbDQ0WEY5UkNWejlTWG5WSl9sRVI0bHlMZ2tHR2Zjdw?oc=5",
-            "source": "전자신문"
+            "title": "삼성전자 1Q 영업익 '40조냐 50조냐'…내일 잠정 실적 발표 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NSGxIZ2V5c1h3dTdxdHMtd0k2eVZqaU1oRno0ZURuZHZMWG5NLWJodlRGSVBIUG9MNUNmaVhma1hMb3kwckRmOWZQeGZGUzYtS3pXM21xcVdCX1dwZ0tsQ2l0UEw?oc=5",
+            "source": "뉴스1"
           },
           {
-            "title": "\"옆사람 폰 몰래 봤어요\"…삼성 조사 봤더니 '반전 결과' - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HeVIxOWt3dkd0NWd2by00aDhfYldTQ2R1OUdCZWlyT2ZQOTVmb1JwQnZPVmNPckFjUkVnM2xwTWZEUFM5d3UzUVlIT3FYeHM?oc=5",
+            "title": "\"32만전자 간다\"…삼성전자, 역대급 잭팟 예고에 주가 '들썩' - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIRFpZU1FocUxZSm5hb3NVWVMwV2VaMVJ2R1k3YkpxdzIzTVRxR0Q4RTg0MlpHU3dEdGhsZkNVSzYwS1o3Y3YtSG1ZWk4wTms?oc=5",
             "source": "v.daum.net"
           }
         ]
@@ -102,45 +102,45 @@
         "count": 5,
         "articles": [
           {
-            "title": "AI 보안 경쟁 본격화… 국내외 보안 기업 신제품 출시 잇따라 - IT조선",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05cjR0YjFiOUdtdjNndWNjYks5SnE2QWFpMi1aa2p3YnFKcTROQzBwYlhMaG9ZU09SU3JxVDZFVmlmTWdPT082ZG92dnV4UmlDcUp6UHdILVgwU18yX0hoN2l1akRyR3pEcWV2YXptVErSAXRBVV95cUxOLW1kRXlxN1c1ZlZCT1M4OXJBNjhIQ2tkNnFvaGJQTGdlOG85YXZxTVVEam41VGN3NURpM2dmeE5nME1lQ29wZWo1X05yR01UdGZFWHktVnd5VlZrcERMN3lUVHVxTDRzVU1NWDQydzVKcld1bQ?oc=5",
-            "source": "IT조선"
+            "title": "AI 3강의 꿈, '보안 사상누각' 위에 세울 순 없다 - 지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EN3FmbkFXaWxQanhzMTJTNVpVVmg5YlNscEVsZFlQTWpIZjlTVnk0RklMeHpTbVNJNG85TU15dDJOS3BQQnpjMmRzekMtY3FLVHBPTzhR?oc=5",
+            "source": "지디넷코리아"
           }
         ]
       },
       {
         "rank": 3,
-        "word": "뉴스룸",
+        "word": "접목",
         "count": 4,
         "articles": [
           {
-            "title": "4월 2일 (목) 뉴스룸 다시보기 - JTBC",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpY1Q0MnVYd044WDM2R0lHTkVxSkJDeHZsN1NGX3haTjV6Zk1MSlItbnRDb2pzQk9lVmJuNU56czhxeHlBYmFQbWI5Ml9tTkcxMHc?oc=5",
-            "source": "JTBC"
+            "title": "안동시, AI·로봇 접목 ‘스마트 과수’ 전환 가속 - kyongbuk.co.kr",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44ekY2aml3Ul8wQ2ZJdmRHb1k1VElYTFZnaHN6ZTBJZDUwMlVfRDFYQy00VExRVkhUbWsxVGg4THFkZklpZk43ZTNkU3paOVBFV21BclBSbE5Mdlk4RUlCREtiOGk5YU9IQ24wT094aw?oc=5",
+            "source": "kyongbuk.co.kr"
           }
         ]
       },
       {
         "rank": 4,
-        "word": "핵심",
-        "count": 3,
+        "word": "전망",
+        "count": 4,
         "articles": [
           {
-            "title": "트럼프, 이란 전쟁 불안감 진정시키려면서도 핵심 질문엔 답 내놓지 않아 - BBC",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zSFB5djFqX05lSkwyRDlLYzB5YWlWU2tQeWVRSWN3c2JHSnJLa0RCS1lpY1dZQ0wwUzFvT3BWVk5ORUNnaGN4c0ZiWjFOZ3ZCSVdfVTFWMVBVQlo40gFiQVVfeXFMUEJNN01LUzdwbGNQU0ZsNU9zaEQtREEyTmhWM1p4NEEwQW5YZWNJeEVXMnhhUE1BZ3l1SXJJRnBoWGFyZXM1dFYyMFBHNGttbFRab2g0SXdYSXZLRUVTZGJ6R3c?oc=5",
-            "source": "BBC"
+            "title": "[주간증시전망] 증시 또 롤러코스터 탈 듯… “공격적인 투자는 금물” - 조선비즈 - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZGZWLTZfVWU2ajNEdTVqOThObXZuOXZiQTJXRi1fUlhBLWxObWpvdUl5dmR1eVhUalRGUzRiaFRWaXU5VXV6aklCZWhoUWtrZDBCNnRjTF94dG83THoxdlVYMFpXZ3Q0ZmJ6bnJwZHZDc1RrQW9sZW80alNNMC0yUjEzdDJkWi000gGcAUFVX3lxTE1mLU9EekNtcVpsOHRIVDRwQUM5NTFUd3ZWYUtVMnFmMEhrc1BuRElJZkpIYjhSWVNxVkFYZ011MjZodU9WdWxPNkpkTThrZWJ3RUVZSGtIVVRzSDRfY1VFTndwSUg3Njllb09uYzI3NFo3dmd5TTVBQjFHQThjT254R0xJYklVMGRyaWNpZGNUeXRraHVTRjBtdTdlOA?oc=5",
+            "source": "Chosunbiz"
           }
         ]
       },
       {
         "rank": 5,
-        "word": "유통",
+        "word": "공략",
         "count": 3,
         "articles": [
           {
-            "title": "음성화훼유통센터, 개장 10년만에 누적경매액 2천억원 돌파 - yna.co.kr",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sSlJrUWo0TVQ1bkJxd3FMejBqZTE1enppQktlbkdsZ2NmNVBmWTNsejMtd08yMllYNjd1cGhZa0FMMHBibTU2YkRXY1M0Yk5nblZ5c0V0VEFhX2PSAWBBVV95cUxQTndvaF9aMGdTQVctV1c5NDdGcUFoRE5aSkt2b1JOTm5zdW55RmFEREtxaHA4MnpiN3RjYWZmNnNEOExWVWM3VDVVV3ZBSUlfZ2Uza09FZHA0VXgxb0JiV1Q?oc=5",
-            "source": "yna.co.kr"
+            "title": "인천서 최고위 연 국민의힘, 수도권 공략 시동… ‘천원주택’ 전국 확대 공약 - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VS0lncDlFYWRCa0paZ3k2MDM4UDllVzgwQmpWWVN6bGN5V1dzZUFOQ2ticmRJWV9nWWVNY2RvTjZVb3pleHJoODZRR01NQzQ?oc=5",
+            "source": "v.daum.net"
           }
         ]
       }
@@ -148,71 +148,71 @@
     "연예": [
       {
         "rank": 1,
-        "word": "서현",
-        "count": 9,
+        "word": "키스오브라이프",
+        "count": 13,
         "articles": [
           {
-            "title": "[사진]점점 예뻐지는 서현 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaFVyX096ZzVOYzJsOEFjMHV0T2hiSXZTMEYyWGx3VjdkU2QyLUhBbDRWcnpEVG5YVDdQMXV5N2YtMjFmUURSM2FXNEpzY3p4TFU0NW5UUW03NFNXalZLcGtIdmwzb1RGWWFNbXJoNHo1S2R6VWUtVHJCWTdkRlZHajJTYVp0RzVRbHBsRm81TjJzcFlHMzE00gGrAUFVX3lxTE9kLUJ5cHZBYXFnQTNYekpQNDFxYlhSY1Fyek9iUHZMR3dfLUZNejFaVF9MN19tdHdxTFR4YXAzdzEtZUJqdVJ3OElnS1pweEtXd0hBS0dvdmRWRTRMS1B1NzFBcTlyN1dWLUg4RmRyV3hBN0pEa2dxanp5TzF6RkxvdkV5Sm9EOTB1NTJtUmlOemdlc3RtZ2gteEpTeTFyczBJeG5QSlhTZ2VtQQ?oc=5",
-            "source": "조선일보"
+            "title": "키스오브라이프, 10개월 만에 컴백 - 뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JUG9MbVo1N3RvX1phMThYT3ZSeWxCdldNVHlhOE1TYnpkOTZ2Q3RQNzZoOThGZmlRcHhrb05RaDJ5bHNXVS1reGgwNA?oc=5",
+            "source": "뉴스1"
           },
           {
-            "title": "[포토] 서현 '상큼 발랄' : 네이트 연예 - 네이트",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mTnJmTUdydU9JNnZzUlE1QU1HRE5nMHdiZG1yeGlkQ29RNzktczNjUlhuaDA1RnZSTmVhTS1tWkNkNVVZS2ktbnE3eEpTVkU0VlFNTHFIUnN3WGVzc2E1eQ?oc=5",
-            "source": "네이트"
+            "title": "[포토] 키스오브라이프 컴백, 이제 여름오네⋯핫걸의 귀환 - 조이뉴스24",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93cmoyR1lWWG16SFZUTUNGYjRDalY5UUV0LXV0YThwVkp1dUxiT3FESXVGSGE1ZFlQMFpEOU81RmZIQllMYTR0Vl9yTE9aQ1U?oc=5",
+            "source": "조이뉴스24"
           },
           {
-            "title": "[포토] 서현, 봄 맞이 윙크 - iMBC 연예",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjRHJ6clY3bTM4VUdJRXdrR0JZZWU4cThySnZvR0tBZ1FTb3Z2QklHbXpBeGsyWTRBZTNPTHA3VTd1UFAzcTRNNTFOeGdKVENFZWpmNTRPZDlSdi1vRTdkMA?oc=5",
-            "source": "iMBC 연예"
+            "title": "키스오브라이프 컴백, ‘Who is she’ - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzc2ZBTDJwRjNHUG14SWNHU1IzQ3NPOTdvR3p0ME1vODhpZVZKMXp6R3FiTFdpSjhoSWVwTWhSRTRvY0VLSU9icVZWdEZEZ00?oc=5",
+            "source": "v.daum.net"
           }
         ]
       },
       {
         "rank": 2,
-        "word": "이청아",
-        "count": 8,
+        "word": "문화",
+        "count": 9,
         "articles": [
           {
-            "title": "이청아, 미소와 함께 [포토엔HD] - 네이트",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xVlR0MkJ6a0t3UHFnVDZFQmpJTnVZQzQxMk5XVms4R3lYVk9XUGxfMHpsalFYSldzVEEwZi1vc1JQSzVVak9kTEp1LTA1Ykl1bVg0NEpNVEEwbENaYWNYdQ?oc=5",
-            "source": "네이트"
+            "title": "“나의 소원은 문화강국 한국… 김구 아닌 이광수의 꿈이었다” - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEVweWVZLUZBcDZ6a1RpSkIzNFNrN1dJRXFfVEJGdGlvTlR1MnlqenMtQk5yTW9tRFBsTHJ1SmZEWnBlMG9tRnN2ZzVfVTdReVY3djBFTkNkM1VYLWN0Qzd3cGtzUnhSTEpIS1ItZkFCV1FDVzl1VXFCMnhQcGNmY0lIbVVxekF4Mlp5SjZ0ZEV6QWZW0gGoAUFVX3lxTFBzb1k0VkF3MHBfWG80dmRDaUhrMWJMMGpmQzZjOURkcHVGRkxPQXZVV1ZaVVdzNVh5QjRmYUQxMklRNjB0aTJNMkxoOVZBelZnY3BwUF9jNWNXY2xWNkx5VzZPeFVIWE9KTTA5UXhieDNydXNGejhQc2tIVDAzQTFSNVpZdk9yLTZmcjgxLUpKclBVRXNBcVdXTGdsRlVkV3lkVE12bm5FZA?oc=5",
+            "source": "조선일보"
           }
         ]
       },
       {
         "rank": 3,
-        "word": "컴백",
-        "count": 6,
+        "word": "플러스",
+        "count": 9,
         "articles": [
           {
-            "title": "30. BTS 컴백 라이브: 아리랑 - beopbo.com",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSam1WX1lSeUsyZ3c1R2FiZW8yZ3ZxNWZfRXBtVWRKMmFEUElDYkZ0MDlYcjJ6QkVIT3YxcG1qRW1xZ2pGRHd1b3hUamM1a2pseWFRc1FqV2J1MlE1ZWRzTC1NNnk5TFhm?oc=5",
-            "source": "beopbo.com"
+            "title": "인텔 \"코어 울트라 200S 플러스, 가성비에 초점...판매 확대 기대\" - 지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xQjBYSjVSQ0FvRkowcHdCQVdBYVYyOFZMd3hjNHNzNjBPOGk4Y1l0OThYbUN5MXJEWFQzNi1YTEpwXzZkQUQ5TS1pWHZiMWhaWTA0bUtn?oc=5",
+            "source": "지디넷코리아"
           }
         ]
       },
       {
         "rank": 4,
-        "word": "리즈",
+        "word": "쥴리",
         "count": 5,
         "articles": [
           {
-            "title": "아이브 리즈 '셔터만 눌러도 화보 인생'[포토엔HD] - 네이트",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0cXFWdUlwWlpWZXNnS3VCaUJJMjhQT0laVExPdDZUOVlJaUhyVUR3a1I2cWw4OVVma201alJoa2U1VzVuNDhUcnZrYlJlSTZIaEh3?oc=5",
-            "source": "네이트"
+            "title": "4K 비주얼직캠｜키스오브라이프 쥴리, 사랑스러움 가득… 수록곡 'Don't mind me' 무대 - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9INUFPV0x6cnhkc19VeVgxRE9WZ2dqZl9RcDJnaDVIaUcyRWRfblM3bFV6NTAwemo0anB6cW54VWdSdGhHc0VWVF9GR1FUSWc?oc=5",
+            "source": "v.daum.net"
           }
         ]
       },
       {
         "rank": 5,
         "word": "미소",
-        "count": 4,
+        "count": 5,
         "articles": [
           {
-            "title": "의약품 원료·포장'직격탄' vs CDMO '미소'...K바이오, 중동전쟁 장기화로 희비 - 팜이데일리",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fUk5kSFJnbzZ6MTBYajA5bUE3bEJKb051SGFWakdnTTFmTTllQ2RfRU4xZVZEaTFzZWpWQVVXbWVGWlJOVXhlaE8yMXFWSEJIMkp3T0J3SWIzT1pNeXBkMlpHdXFZdkNFdW9FRF9n?oc=5",
-            "source": "팜이데일리"
+            "title": "‘미소진품’ 벼 보급 확대 전력…농가 ‘실익’ - nongmin.com",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBINTRId1hQSS0wQnhnSnRvWHNteENPM3ZBVFg3Y01nVUhtU1dmVU54eWYyaVZEUmNwQ3VLcENJV3ZETVpJYjlHOThlTkxJem5feEhFTEpYR0hfZw?oc=5",
+            "source": "nongmin.com"
           }
         ]
       }
