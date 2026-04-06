@@ -5,7 +5,7 @@
       {
         "rank": 1,
         "word": "중동",
-        "count": 12,
+        "count": 13,
         "articles": [
           {
             "title": "파라마운트, 워너 인수 위해 중동펀드서 36조원 유치 - 연합뉴스 한민족센터",
@@ -26,20 +26,8 @@
       },
       {
         "rank": 2,
-        "word": "전쟁",
-        "count": 10,
-        "articles": [
-          {
-            "title": "[속보] 이란, 휴전 거부…‘재공격 없는 영구 종전만 수용’ - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fZUNyeWIyeUdNUTF1SGp4R09iT1JoakhIc3MyajZMVlpPSkJ1R3JJci1nbTFYeno2UUZ6bm5hQlRwUlJBd25sbVVDbjJFeEVHNFhiYXV1TzFydUxmZFp5enhXMDhMa0hYeDB5cUgwcVhSTms?oc=5",
-            "source": "한겨레"
-          }
-        ]
-      },
-      {
-        "rank": 3,
         "word": "위기",
-        "count": 9,
+        "count": 10,
         "articles": [
           {
             "title": "'위기를 기회로'…전 국민 70%에 '고유가 피해지원금' 최대 60만 원 - 대한민국 정책브리핑",
@@ -49,26 +37,38 @@
         ]
       },
       {
-        "rank": 4,
-        "word": "이란",
-        "count": 8,
+        "rank": 3,
+        "word": "전쟁",
+        "count": 10,
         "articles": [
           {
-            "title": "로이터 “美·이란, 휴전 후 종전 논의하는 ‘2단계 중재안’ 수령” - 중앙일보",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0TkpZQWxVcFUybHJDU3BWU1Z6TUNXZ0V2ZldqNjZDZFJFVWpIM3VPeWRMbTBaZWE2a2ZVUnhUVkFmN0dpTHNIM2sxUmZvN0w5ek90djBR?oc=5",
-            "source": "중앙일보"
+            "title": "노골적인 전쟁범죄 예고, 규범과 윤리 모두 내던진 ‘트럼프의 전쟁’ - 경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9udF9jdEk1eDJHbUJXRFVRcFZQa0RLQTgwR0dmMko0N0NZX0FBOGtZbmhoUGw0aWo0LXVKaldLM3UzVFpBUUtKSVpQQktJMldIdUZYbUJHRUZHZ9IBX0FVX3lxTE9XN2dLWXVrOUNGSGt2QUJJd0VOYy1TSG10WFlIelQySkZvMDJqTFlOdU1qLS1oRnhlQ1FaT2JEVTdDZ3ZxTW9QTWptb1Y5R1hhWWtzMldEV2RZTXU4UWlN?oc=5",
+            "source": "경향신문"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "word": "추경",
+        "count": 7,
+        "articles": [
+          {
+            "title": "정청래 \"추경안, 약속대로 10일 처리해 민생지원금 지급\" - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xczh5c0g5SmRnS21qTy1QTzM1TXcxZWFFR0VtWW1DRzZUQld5YmwzaDNNa1lURkh6Z1gzUXlHR0l6aVJhc1lMTU16M0ZtaUJuSW9HNTVxazhDc09RZHdjedIBeEFVX3lxTE11MDkzTGo2Y3NJMGpEMkEtRmNOcExobUYwbVV6Q1JITTUwMlhpTVpOTG9Ic1JOd2x0RENKVm9FR2c1NDFzd00wdUM0Sl9fbjZUSzIzTkwyUzhMTXJaYzBycXRCSjZZY1F1MnliQ0tXcDdHVXRKV1NubA?oc=5",
+            "source": "뉴시스"
           }
         ]
       },
       {
         "rank": 5,
-        "word": "비상",
-        "count": 8,
+        "word": "이란",
+        "count": 7,
         "articles": [
           {
-            "title": "장동혁 면전에 “비상체제 전환을”…2선 후퇴 요구 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMdGdkdmZjV0x1Y3k0UjZfRUJrbUJiMzBaal9pSFdWQ2F4aVE5bE9OYVNTTEx5S3EybDlWTGdYek9ZQ0hXVGh3Ty1mMGcycnJXRVlPRjdsaWtpd0pfSEJWOGJFNi0tZ0Q2aHJkdTdsMGFTWXZC?oc=5",
-            "source": "한겨레"
+            "title": "로이터 “美·이란, 휴전 후 종전 논의하는 ‘2단계 중재안’ 수령” - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0TkpZQWxVcFUybHJDU3BWU1Z6TUNXZ0V2ZldqNjZDZFJFVWpIM3VPeWRMbTBaZWE2a2ZVUnhUVkFmN0dpTHNIM2sxUmZvN0w5ek90djBR?oc=5",
+            "source": "중앙일보"
           }
         ]
       }
@@ -77,7 +77,7 @@
       {
         "rank": 1,
         "word": "삼성",
-        "count": 9,
+        "count": 7,
         "articles": [
           {
             "title": "삼성전자·SK하이닉스 합쳐 연간 최대 500조원 영업이익 시대 열리나 - 조선일보",
@@ -98,6 +98,18 @@
       },
       {
         "rank": 2,
+        "word": "전자",
+        "count": 6,
+        "articles": [
+          {
+            "title": "삼성전자, 갤럭시S27 시리즈에 '프로' 모델 추가…4모델 체제로 - 전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQejRmUWl5UDFoWG4xSVpTcEVHY2I2NHNQVkxESnluQWpraXNaM2pQaFVKQU92WF9vc2xxWTFsLXdRWWtzN2JvR2hmVFh5UQ?oc=5",
+            "source": "전자신문"
+          }
+        ]
+      },
+      {
+        "rank": 3,
         "word": "보안",
         "count": 5,
         "articles": [
@@ -109,38 +121,26 @@
         ]
       },
       {
-        "rank": 3,
-        "word": "역량",
-        "count": 3,
-        "articles": [
-          {
-            "title": "파주시, 민원 공무원 220명 대상 ‘친절·대응 역량’ 교육 - 경기일보",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EOGMwbi15Yk1yeE5JdlM4UFR2ellIbGtwNmhxZkJYVmVKYldyZW1Mb3NWR25ici0wTFk3RUpTa0lwUTEzQkxRbDVUQzdOanFDRERlUDlzV0wxd2c?oc=5",
-            "source": "경기일보"
-          }
-        ]
-      },
-      {
         "rank": 4,
-        "word": "시대",
-        "count": 3,
+        "word": "브런치",
+        "count": 5,
         "articles": [
           {
-            "title": "[에스프레소] 석기시대와 우주시대 사이, 우린 어디에 있나 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDlPbFBmQ1RxN1VlSzZpeng5cnlkUkE3RWtiaFFZQU10b0h0SDJmWGdYTDVYbXhSXzVmN3oySXhtdW1rSzNxdWJHMTZ2eG9oYnlYRWJiUktKRXNmeWU3a1REMDRsYVppWHh0emVqRnVSVVBZQ1Q2d1piYXplUkxLbmNsTWPSAZgBQVVfeXFMT1A1RW5Ma3ZPdkhmak5ILTlNd3Zvd1VWcDhtak5WeE9nR0NlblRyckRpYWJXMnNsQmhNcmM5bHB6R2hMcTNBcmo3clk5dWtZeGZGNmtnQ2VuRkZVYWxRU19jeE9xQlE0RS00dy16SUtCak5fNG5URHd3MEM5THd4SXg3Nl9IZDA1bU1rX0dYc1NiU3JaNUJzbmM?oc=5",
-            "source": "조선일보"
+            "title": "20화 브런치 작가가 되다니 - 브런치",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xbEppczJMejhjX2syYnB5UWxnNmJXUjZINTVBSlBwX0pINlVxZVN4TDRUYmkzR2hhZDhZZjd1NG1BekUwMGVmUg?oc=5",
+            "source": "브런치"
           }
         ]
       },
       {
         "rank": 5,
-        "word": "변화",
-        "count": 3,
+        "word": "안전",
+        "count": 4,
         "articles": [
           {
-            "title": "세포 속 ‘생체시계’ 뇌 노화·알츠하이머병 연관 변화 뚜렷 - 의학신문",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOU0YxeXR2MERMMXRUZDRFVEg2b05SQ0VvUFhxUF8zQ1pIanRNVnRKT05ROWF3dHVPX1hVd3ZHcUZ4U1paWXFXY3NKRG9XcnVSSnVvMUlXSjJxaVNwNnRUV1k2WS1FMndnd3c?oc=5",
-            "source": "의학신문"
+            "title": "교도 “중 원전서 200건 이상 결함 확인, ‘기술력·안전 의식 부족탓’” - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZanhxb040U3Q0OHpDdy1ZQTRJQXBwOHFUWHhDVjRCNjRWcmZYY0tlTGVwSjhhcDJIZW5idktSUkp2eDI2YVo5NlNGQXRxWWM?oc=5",
+            "source": "v.daum.net"
           }
         ]
       }
@@ -148,28 +148,6 @@
     "연예": [
       {
         "rank": 1,
-        "word": "연예",
-        "count": 23,
-        "articles": [
-          {
-            "title": "[퇴근길연예] 이승기 빅플래닛 결별·슈퍼주니어 콘서트 사고· BJ 실내 흡연 논란…오늘 연예계는? - 스포츠경향",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SZzdSQ2dRRGdfd25fZXQxVjc1MnJYSi11bGt5TlluN09PaFNwcjZieGZXSzlnNFRUN1cxZGY4WlFNZVQxUDhMblZmajk0NUV1eTJUUnA2ZkRwSkpDdEHSAWNBVV95cUxQM1JueTdmX3pCRTZuY0RvRXp0UUNRYWJYbXJfUi1wSm1lQy1tUC03aUJLRC13ZGtKWDhIQnZNN25rek1kMXRwc3YwUGhwWGNBQnlaSGRjLXNXZE8yeExheFZXWEE?oc=5",
-            "source": "스포츠경향"
-          },
-          {
-            "title": "'217㎝' 최홍만, 소형차에 몸 구겨 넣기…\"맞추고 살아\" - 네이트",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIR0dJWUlBT0NRNXJ0TTJ2TUpfSjRqVG1ob0RNMFZtMDdCMGd0ZzhQWk03MUx1Vm9DZlpwTzZWbXc1R2FkNVZTcUd4NWY4dGVSUm5Z?oc=5",
-            "source": "네이트"
-          },
-          {
-            "title": "[포토] 박경림, 21세기 대군MC '펭퀸' - 파이낸셜포스트",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ON24xV1gxTEhoOThqTDctdGdZT1QwemtVdEVtalRhWkRoNDAyeFBkSXZ1bkhwelhSOTFPeEppRjQtbkNGRjhnc0x6aUplUEpJQmt2RGl5dUhNNlF4SHltT25UMTQ1cTBoOVNlSUhydWtfbHFk?oc=5",
-            "source": "파이낸셜포스트"
-          }
-        ]
-      },
-      {
-        "rank": 2,
         "word": "키스오브라이프",
         "count": 14,
         "articles": [
@@ -177,11 +155,21 @@
             "title": "[영상] 키스 오브 라이프, 10개월 만에 강렬한 컴백 ‘전달력 있는 음악 하고파’ - 서울와이어",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wRDluVWlNcUM1UmlUZzVrZ1RxM3NNcXJObmJZSFZycDVJZ3R6a3VKRG5uZU41M1J0SUVRSkpBQWdWeHZaclVWNGoyS1BxWkQyanhDbDNyWHhmeWJKektublRCcW0ycmx6WGp5aA?oc=5",
             "source": "서울와이어"
+          },
+          {
+            "title": "[포토] 키스오브라이프 컴백, 이제 여름오네⋯핫걸의 귀환 - 조이뉴스24",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93cmoyR1lWWG16SFZUTUNGYjRDalY5UUV0LXV0YThwVkp1dUxiT3FESXVGSGE1ZFlQMFpEOU81RmZIQllMYTR0Vl9yTE9aQ1U?oc=5",
+            "source": "조이뉴스24"
+          },
+          {
+            "title": "키스오브라이프 컴백, ‘Who is she’ - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzc2ZBTDJwRjNHUG14SWNHU1IzQ3NPOTdvR3p0ME1vODhpZVZKMXp6R3FiTFdpSjhoSWVwTWhSRTRvY0VLSU9icVZWdEZEZ00?oc=5",
+            "source": "v.daum.net"
           }
         ]
       },
       {
-        "rank": 3,
+        "rank": 2,
         "word": "쥴리",
         "count": 5,
         "articles": [
@@ -193,19 +181,7 @@
         ]
       },
       {
-        "rank": 4,
-        "word": "사진",
-        "count": 5,
-        "articles": [
-          {
-            "title": "'둘째 임신' 이유영, 가족사진 대방출…\"이제서야 올려\" - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHVXlBeXIzLWd5S2d0TkozeG9pNzRzS3IxTWpJSm9hRGMwYlJyNjlyWGpyOTRwdkZRaTdEYnhZRGg1aUVRLWEzN01jVHRKT1k?oc=5",
-            "source": "v.daum.net"
-          }
-        ]
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "word": "컴백",
         "count": 5,
         "articles": [
@@ -213,6 +189,30 @@
             "title": "BTS 광화문 컴백 안전관리 완벽한가? - B world",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YcTdXZjRDenhmbXBlUnpnMTczemxUSm1PMlNaTDlEWGJYajRfY2VkR2NQczRJdDllQm9DNzhZbDk2YzIyZWUtVlJ0TFhsMmlmaGk2c0NqRTktdzM1WDYtaHpkZ3N4WjdEMUhLQy04aVE?oc=5",
             "source": "B world"
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "word": "남자",
+        "count": 4,
+        "articles": [
+          {
+            "title": "'왕과 사는 남자' 1600만명 넘겼다…역대 3번째 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wN2VMQTI3c3dvQlpHZ3NLUDNHaUlEcFVsRk1neTBWeENXMXVWQjRQOThZOHF2UF9oRnVBOEM2and1NGdMdkp0Z19tdXhzUFR5RVA5T1hEQU95QWEwd0dnT9IBeEFVX3lxTFBWeXpyN0NkSW9BOVl3bWp3aGc3YXpubk9PM0FTYi1jVjJ6dFJsSjFhbkJPLXhDamJ1Si1JczJZVm50U0NTU1EyUzdqcHJBcU5UOXpEYVlOXzdOVERMdFU0THg5ZUoxN1J6UkcxWDM3bjhPbENrUl9VNQ?oc=5",
+            "source": "뉴시스"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "word": "오프",
+        "count": 4,
+        "articles": [
+          {
+            "title": "中企 3만곳과 ‘동행축제’… 온·오프 200곳 최대 90% 할인 - 문화일보",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMlJTekxGTG03ODE4VEJIQTVpVnVZWFJ3SHFGU3ZsVUE5cUVjN1VqNGFsZjhEV0F1OUJJNzZkTmxWNF9UZmJuQ3ZhUkNGVjlw?oc=5",
+            "source": "문화일보"
           }
         ]
       }
