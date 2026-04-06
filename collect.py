@@ -79,7 +79,7 @@ def generate_summary(keywords, category):
         messages=[
             {
                 "role": "user",
-                "content": f"다음 {category} 뉴스 키워드들을 보고 오늘의 {category} 이슈를 15자 이내로 한 줄 요약해줘. 키워드: {', '.join(words)}. 요약문만 출력해줘."
+                "content": f"다음 {category} 뉴스 키워드들을 보고 오늘의 {category} 이슈를 30자 이내로 한 줄 요약해줘. 키워드: {', '.join(words)}. 요약문만 출력해줘."
             }
         ]
     )
