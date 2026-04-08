@@ -1,74 +1,74 @@
 {
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "categories": {
     "경제": [
       {
         "rank": 1,
-        "word": "중동",
-        "count": 14,
+        "word": "이란",
+        "count": 11,
         "articles": [
           {
-            "title": "중동 사태로 비닐 공급 차질 오나…속타는 농심 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GX0hCSzgwaG1YZVBvV0E2VWR6dm95NTdPZlZGN0pzQ3VkdW5nRzRlcGtBX05YMm84UVVRRS1PaGIyMlBwYmlKMXo1ZHU4Nms?oc=5",
-            "source": "v.daum.net"
+            "title": "호르무즈 정말 열릴까…이란 “2주간 통과하지만 이란군과 조율해야” - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zN1J2V3BCQ2E5TXpISUgtNTdyekJaOFpZcXRBeWpjYl9rZjNxay1TNzR3Z0cyUU1uRURnaGV3c1JvcTFkSTIybWRWRXBZOUFtWGoxU2RR?oc=5",
+            "source": "중앙일보"
           },
           {
-            "title": "중동발 고유가·수급난에도… ‘에너지 절약’보단 ‘소비 유지’ - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XSDA3dkFkQU5xSnlSUzlWc3k3bHVCQkQ3ZHJVQWVTZ3dMZUhITTNQWVZRYWx0ZUctX1ZfeW93V3R6S3RIbDg5elhoTnRsYU0?oc=5",
-            "source": "v.daum.net"
+            "title": "美국무·나토 사무총장, 이란·우크라 전쟁 종식방안 논의 - 연합뉴스 한민족센터",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iUE5taWJMM1pzaFUxMExFN0V6WDVLNzNwYm93MXBxblpoeGE5Xy1YN0VvVEtveG9JUmZFRW45N1N0dnp0SVB5enQ0TF9iM2VSTnhDRlJkT1dEYmFIMEYzeVBXRGlqQUVjeTlrY1ZjWUM1WklH?oc=5",
+            "source": "연합뉴스 한민족센터"
           },
           {
-            "title": "이란 혁명수비대 \"美 레드라인 넘으면 중동 밖까지 보복\" - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EVEN5X29oT25OdnFGLVBqLThyc0tzQVdjaEJ0MF9xcVduZElDQ2Fjc0JoQjlSVkJHQlZUQUFYbE51OFB5RkpXbWMyb3drUng3Q01ZTFFqQWcySFnSAWBBVV95cUxOLWhtcWtLMEFBWVkycmprbkhwdzdlZFBNa0pQMnJXRGdrdUNqWlc1c2ZXS0pHbXAyN2E2SjluLWwxUjlPcHVXemRtTURsQjgwcWNTSzlPeWEzUE9xQjdjX1o?oc=5",
-            "source": "연합뉴스"
+            "title": "이란서 격추돼 실종된 미군, 심장 박동 소리로 찾아내 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbEVRWEdTdWp5OUMwZ1FGak9Ca25wY29KSmhtdENUVUVWMlJyOWJ5NzBZMTltYWx2ZTY4bHBTYzk1T1pCM2NTSGhwcm50UzRkRTduREhlcnNPemkzZEtkY2luRE9hTHdjcUJFLXJxOEp6WUtwcXVXYVZ6MktjYjk5Qjg3YTFYWDhXdXpJUEJQTndGVkJVSEt3STNjUGd3d9IBsgFBVV95cUxPekk4eEdnN3VyVlJRWHNEYmlRWHJHcU9teDRHMlhzUGg2Qy0zc3RXNmhWLVBwclAtWVRMeEFRT1ZIQ0ViRnpXaF9ONlVDaXJZcGwzOE93V0k0QXd1Zm1rOTAyblQ5SmRaanYtXzdsb2RRSDRtWTRfMDR3ZngzbkZ5aHZmVTBYRDRwaHpqVmZ6UE9EMmwzWUpjVXN1VjJ3UUozdmNkdEtHaGFoMWFtZElPWnFB?oc=5",
+            "source": "조선일보"
           }
         ]
       },
       {
         "rank": 2,
-        "word": "민생",
-        "count": 12,
+        "word": "확대",
+        "count": 10,
         "articles": [
           {
-            "title": "강훈식 \"거시경제 충격은 제한적‥민생 영향 최소화 노력할 것\" - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmTVZZcHNtZk1HRENfaGl4Sk16d1lnSmtENEMxcTRySkh1dDNoNmxwUzk1czZ5X2hKVnBHSUI5SXB1elJ6aXNLbFFhaVFuZlB0bUF0MDhhRzItNnN4c3VZeGdRaEVSeEtrNzA4b0RIdnNnTG5jeDVDUtIBeEFVX3lxTE5iX1VEdUYydThXaG5rOTZvQmlpQ0tsRUE5a3RXOEt4WWJwYmoxRHVBQnNxMDJ5cWpyNGZkLXNXeXdiaFBIaTlEWFhSQlBQZzFPeVk0UUF3LVl6VWlHT3JVTzhEUnRYbS12Z3d4YWNDRVp2SnRfdW4tYw?oc=5",
-            "source": "MBC 뉴스"
+            "title": "층간소음 '이웃사이서비스' 전국 확대 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtaHc3bEEzcHNTSFhNZThsRmVHVkMzRG5fbHRmTGZtZ0NwX3RQQTVNdkFRbkgxeDc1cE4zVzROeHR2NjlweElHVHUtOVpkbTF4WnVPYjdRcTBTaFFkTVJUYXFEbV95SUxwSlN2aUtR?oc=5",
+            "source": "대한민국 정책브리핑"
           }
         ]
       },
       {
         "rank": 3,
-        "word": "전쟁",
-        "count": 9,
+        "word": "우주",
+        "count": 7,
         "articles": [
           {
-            "title": "“이란 발전소 타격 전쟁범죄 아니냐?”…트럼프 답변은? - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mTXRndWx4MXo0TXlrUi1qbmZvM1RZdlJmWkpOYmlZZTRfMzN1b1Q4WXUtN1VNMmNuME1PZEh2cUhYZC1EMUJ0TmduQ3dfZUdLRFdKeF85eWVDWEk?oc=5",
-            "source": "KBS 뉴스"
+            "title": "아르테미스 임무 속 숨은 기술 '우주 화장실' - YTN 사이언스",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwVmxIalEwNTREUVBYcExiSGFvZzhYQWFVTl9Ub1dmTkllSEhEcmZFazZCZFAzZDdZMHBRdHgwcjFQR0ZTampkZjF5YXh3RjlxckU5QVBRdnlDd2VodDlFYmV0eHprYnZRUGItWE5pSDJMREtpWGZ4Mkh3bkoxZWs?oc=5",
+            "source": "YTN 사이언스"
           }
         ]
       },
       {
         "rank": 4,
-        "word": "총력",
+        "word": "휴전",
         "count": 7,
         "articles": [
           {
-            "title": "약포지·시럽병까지 '흔들'…정부 의료제품 수급 총력 대응 - 약사공론",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1QXp5U0MzVVNNWWUxTmo3UjJpRVM0Y3RDNTlReGp3b1R6YjF5VVNEVG9iY3E5OXROamxOMjhNVks3ajRGT3ZJVUNPUlBaTmhUdHhjUGxESEdQLWpzRHBSSEVBdVpHTnZ3TjZXcA?oc=5",
-            "source": "약사공론"
+            "title": "이란 매체 “이스라엘 휴전 위반, 유조선 호르무즈 통행 차단” - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDB2dGVwVndsS2Y4Uk13ejVfVHAzcjRuYi15Mk91cjdfY3hKWGpubWwwZjRONE9kQ3hLSVVvaGVXaUhFR3BMUEp1SEliLXFRQjhmcjFXa2c4MVlOX3NnUTh6clJpU0h1cTVBNjV4MHBJMHZ4ZUFjSnVteEFwSFFLZzBxQkbSAZgBQVVfeXFMUHVjT2ctdlVfNDM0THo2WUJDNjl0MkIzTVFnYjlqNGU5dXNCMHlSTkNETVc0MWlMX3hIN0Q4alRXNmh4NVFfbHJnZjh3QTFRS1Y5YjBrRTJZQjZ5ajVuLTU4czZodlBCdkNzNDlQbmJWSExtLVVuVzNzbmhOaU0yclNxWTl1WWRqME90eXFBT3BDRElzNFNBMTA?oc=5",
+            "source": "조선일보"
           }
         ]
       },
       {
         "rank": 5,
-        "word": "추경",
+        "word": "세계",
         "count": 7,
         "articles": [
           {
-            "title": "[속보] 장동혁 “TBS 예산 추경과 안 맞아”···정청래 “추진할 생각 없어” - 경향신문",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlcWRNQTRfXzhIS005VnNKUWhSRmViS2xpZzRlMUl6QWZHeGM1VGlLalEzMTBLZENVY0MwS3NmQm5zbkpoV3R2ejBINmNLUW5NMmczRGMwSHdlUdIBX0FVX3lxTE9vbDNXUFBjaWtXTG1KU2NDMUNPWnhtU21JUVBPSHhuMUpfU3UyVG9vWm5BdjVUQk83Uk1KSTlwLTZXZEM3bnVsSnpsRXc4U3N2WEJVRHNYU0o2SUZhZHZ3?oc=5",
-            "source": "경향신문"
+            "title": "차지호 의원, 세계 최고 권위 의학 학술지 ‘란셋’ 위원회 공동의장 선임 - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00ZWtIMnJ1V2xiNGpFX1dTb3lsdTBBNmhVT1lQamlldHlUUTFFMk8tbm5VWW9GS1RxYkQ0VlJ5V3RpWm83QTFFVmpsbjBVWE0?oc=5",
+            "source": "v.daum.net"
           }
         ]
       }
@@ -76,71 +76,71 @@
     "IT": [
       {
         "rank": 1,
-        "word": "고려아연",
-        "count": 20,
+        "word": "기반",
+        "count": 13,
         "articles": [
           {
-            "title": "“짠물 배당 논란 속”…장씨일가, 영풍 아닌 고려아연서 ‘수백억 배당’ 챙긴다 - kyeonggi.com",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aTBxVmRyWTBENmQ1bUt6VUctVExjSi1uUk5IeFJfbTV4c0M2MW5JM3JSNDM3ZmNmRU9WcWV3dDRXakZvZmtPLXlFMzhvWnB5WkVmWnFoZjFhbE0?oc=5",
-            "source": "kyeonggi.com"
+            "title": "트럼프, 이란 제시 10개 항목 협상 기반 평가…“공습 중단” - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ITUhKUmZBN3pWei1lQlZxNHZZd3pFMzVaNmx5cENsZGtBcFZtT1kxb19ZWkJ0STV3RnpoZm10bzBfRDdiTk9iWXZ2RVZMWFlYQi1pSDNuc3FOYTNXY2RRb1hOSDVWNDdra2hrc3JiYw?oc=5",
+            "source": "한겨레"
           },
           {
-            "title": "고려아연 IT 계열사 서린정보기술, 엑시스아이티로 사명 변경 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jZUV5ckNya1Z0Mi14QkFiTkpORkRhQW9DemR4MGNLQVlRd3NFRl9ONkloTzNyMV9VRGprX1Q3ckdmQVJqc0MtQ3lPcjlEbzROT0NsOUk2SjlxejjSAWBBVV95cUxNSnYwbWRSZ09UN2dTeUl1SXR4WTRsaVU5QWdyeGpWUlZzYzlBQUo4dFVkcHRpaGFrQmlnNjNyT3A4NzNzZ3lFQ0NfZ2M4MHRtS25TYnJjdVZMSFNyTHBSZ2g?oc=5",
-            "source": "연합뉴스"
+            "title": "SAP, 삼성전기 클라우드 ERP 전환…AI 기반 경영 지원 - 지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54V1k1UDNsclBrU3lUSEZEU2M1WFBCeGNCNkVFMkhQQ01OaWNISXZsX014ZGk5eTRWTVZBNkEyQjhZTkRrT0hmdzBtY180NXZOb1B4OFZn?oc=5",
+            "source": "지디넷코리아"
           },
           {
-            "title": "㈜한화, 한화솔루션 7000억 수혈 위해 ‘고려아연 지분’ 꺼내나…차입 대신 유동화 카드 - 한경매거진&북",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nV1huY1lISF90UEZCcmwya29yUm1nbWNVS2V0TTdOMGI4Wi1iSURMNmxXYnpiU1I2ckYxRUxWQTE3NXV4c0VGSzdPbHBBU1dMdWVjNVM3LVJhNkxMRGNNY0pKREZjWE5ZeXVSOA?oc=5",
-            "source": "한경매거진&북"
+            "title": "[人사이트] 천용진 SK플래닛 플랫폼사업그룹장 “AI·데이터 기반 '풀스택 마케팅 플랫폼'으로” - 전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5scF9kS3UzTGpIaGxQUUxiNlotcTRsa1dUYUgtVXBMS1VxUUxDdmVVcU9kYUppMEU1UE5jRnhxamZhNk1BYjVVWHQyUWZGUQ?oc=5",
+            "source": "전자신문"
           }
         ]
       },
       {
         "rank": 2,
-        "word": "계열사",
-        "count": 20,
+        "word": "시사저널",
+        "count": 7,
         "articles": [
           {
-            "title": "솔루스첨단소재 룩셈부르크 계열사 지분 5.24% 추가 취득, 783억 규모 - 비즈니스포스트",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uNWNNbjNCbTFYSXFFd1BCR0JBcUd1YmRaZTRVMXluVHlqX2EzVU9VaHo3S1FFcHdteHVuR0Jfb2o0dkszbENjSmw3ZXVteldBTjEwWTR3SU5LMEQxMG1wRjh4S1FfZUp5aG1XSm82OGpEYzg?oc=5",
-            "source": "비즈니스포스트"
+            "title": "아버지를 총격 살해하고 ‘씨익’…美 발칵 뒤집은 비정한 30대 - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5IZ3RGdzkyeE1MR2ZlT3VibC16dGJPQzQwcWNlZU1xVDhwaGxJZzVHM0EycUdndVdhd0xOcjlZZkxwMTA3cEE?oc=5",
+            "source": "v.daum.net"
           }
         ]
       },
       {
         "rank": 3,
-        "word": "엑시스아이티",
-        "count": 20,
+        "word": "자율",
+        "count": 6,
         "articles": [
           {
-            "title": "고려아연 계열사 서린정보기술, ‘엑시스아이티’ 사명 변경…“AI 퍼스트기업 도약” - 문화일보",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FcnNlUDI4cHJyZW1xRUlKV3NzdTdLWnl2VE1zQl8xQXNXNG1YTEJrcWFrT2ZRUDZic3k4OUVXWnZzMjNoeUpoYnd6eEttX25q?oc=5",
-            "source": "문화일보"
+            "title": "“오시리아 달리는 자율주행버스, 부산 전역 누비도록…” - 국제신문",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVB3YkR6Y2lmQWNxLUhKVkhBMGptMjVNZHRyMDVSbjZhckRwd1JVR0szWV9Vek9WQURuY0VaOEJCTkhnemdZSUlzSHZfS1ZiZHA1Z0JoUmZjakVzNlA2Z0ZPbW9LMi1OUXpxOTBRV1FGYm1CYnQ5UW9iYW5sa3NrUmdYUTl4N242S1FGWnhB?oc=5",
+            "source": "국제신문"
           }
         ]
       },
       {
         "rank": 4,
-        "word": "서린정보기술",
-        "count": 19,
+        "word": "북한",
+        "count": 6,
         "articles": [
           {
-            "title": "고려아연 IT계열사 서린정보기술, ‘엑시스아이티’로 새출발 - 대한경제",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6cEJ2T1p4WkMzVno1RHZvWl9FM3ItcXNQV1lOSzhjYVdvSUhocV96MzdMakZLWC1KelIyZ0NjYnJ0cXhjWE41ZEtrTlJLd2VoTjFxOEhSNWZJYXpMMWxkVnVaajBzVWdaVnZWMzZEeGdMMkZV?oc=5",
-            "source": "대한경제"
+            "title": "[속보] 북한 “中 왕이 외교부장 9∼10일 방북” - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LbTVNUEdMNVYxQTI1UXhFZllYTV9tdEhUTVViczBBeWpQakNJeUp2SEl2Wlh5cGdkQWQ0ckpHWk41dFpYZm4wQU15dW1hV0pOaWNTZ3Z3?oc=5",
+            "source": "중앙일보"
           }
         ]
       },
       {
         "rank": 5,
-        "word": "변경",
-        "count": 15,
+        "word": "연구",
+        "count": 5,
         "articles": [
           {
-            "title": "차선 변경 중 ‘쾅’... 버스 4m 아래 추락 8명 부상 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVdDLVBrQ0dXcmVES09GUWhLWEFvTC1JT1Z2akhlVG5pZHg0X1pmdFh6Ni13N2tMZEplOFRhdGpMdzdfdTVhVUZiSHBWeWxJRmNtN1dNS2xEbDBUYkNHemtMMUk2ck9UZExhdEJwSko2V19VWE9VRkkzdkJfVVIxN0R0OHhYUdIBmgFBVV95cUxPNHBNWC1DMmZWbDZudElVQXdLSDZxV053U0pDQ1Z5dThERU9kY2RQbHlUZjdCMmd5d3dZUEtmaUI4OURQNUYzSjZvZmFrSXJNMUJBaWUyVTdXdWhSV2VQYXNjNF93Y2ttbzdZX1gzWmFOd3FObUhvMjdzYVlPQ0ZSdUVPcXN4SmNoMnVjR0pUZGFfSkh2UFJSazZR?oc=5",
-            "source": "조선일보"
+            "title": "박사급 인력-기업 잇는 전략기술 박사후 연구원 산‧학 사업(프로젝트) 추진 - BRIC",
+            "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxQaHVrRjNlSUFfclRDdl80YXZIM1RtLTdDc1dJUXFHaGZWSjdjUU5uT0pORTRHQUhPY1JoQWE1SE5od3ZNellGZnJ3bXNNaFNuTGpFMHItWmQ5eEJyZlBySjYyZFlEd19vQlFpR3E2ZjJfS0NTZVYxZGFRbVptOTd5V1RxVkdtRUl0VFJsYkNrZXZPMWdGQ1JuMnNKWC0zT2NJOG9aT3ZveGNzSGxpUzdmOUpvYklzazBvSFBtNU45aWJnUU94Y2pZQ201OEFEbzluR1FacllCSUxhcG9fQlN5S2lBck9KVFhwalkySDlUaDNaVHFYcWRUZ3JXczF3X1FKdF9PMHZZdlN3ZkNWR0hLLUNRNlFwSGkxWll1SF9fVU4xZzZVdXB1dS1BOUQ5S2pGSHFQTE9relMwSV9wTklWZ25zb2txY3B0ZmQtb19zVzlZRlBDRzZfSF82UkV2a0Zxa0RKUENhbGJ6cG0yYnZpamdFUkRsZG90SzZuYjlQMEk3SnE3MzZMb1RLemdQTC1laUk2Qm51TFoybnh6M21fVHEtTHJ6SGUtUElNTmI4NHV4RU9HLUZZN20xR2xndk5hZ19pN2V4Nlc5ZXhEYklwMThGdFFNXzZid3lkcUF5a0pjaWlFQW5BeGxqT2RUdG9yZ2EyYXZfeEE3UGFOczRFb3lyeC0?oc=5",
+            "source": "BRIC"
           }
         ]
       }
@@ -148,71 +148,71 @@
     "연예": [
       {
         "rank": 1,
-        "word": "요원",
-        "count": 7,
+        "word": "메릴 스트립",
+        "count": 16,
         "articles": [
           {
-            "title": "영화 속 요원이 현실로…국정원, 배우 현빈 ‘명예 방첩요원’ 위촉 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1dWZGktY2NoaDdtSFkzWHlSZzNVLUwtOGtCYmV0d0lJYXRQTG5aaktQdlJVVG9mQXZCZmZFcGhTUEQ3ZDJOYmdzMGxJWXJ3eVpwckluNmV4VlA1QUcyZ2tyZGpPeGhLZ3FBRW1Pbng4X3FqWExjNlc1UnF4b0RWenRLUm8zMmxkb2lEZVpGbi3SAaQBQVVfeXFMTkZ5WFUzVDVPZDhMQmFJX3cycFpPaGd5a2h3QzE0V2dtbC1tc1RHeVQwX3Z6RGVVcWxqYTVtTExtNXcwVmczYkpWb2hralNvUDl2Tk1TTzVRX3RlaWFGREQ1N2EyZU1HbWQ4dWlWelU0RklISG5uQmxuOWhHZmhXUUxacFh6Sk1mbUVKa25iRkhwbkJkVi1vLWVja2JTczI5N2NGaWY?oc=5",
-            "source": "조선일보"
+            "title": "메릴 스트립·앤 해서웨이, 20년 만에 연기 호흡 - 네이트",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RaGZtN1FxdVI5d0VaZzNpWlp4SnV2TjRXNWlISDFJTjJ1UFNrQnZ4SU5sbjRJQ1JjbmJlSm9TU0FwYUhnTk5TZnhDYVJjNE1fbldB?oc=5",
+            "source": "네이트"
           },
           {
-            "title": "\"제가 딸을 키워야 합니다\"…출퇴근 복무 요청한 대체복무요원 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5iTzJwN181MU5FLWdVR1NCakRyZmtVdGhfWkFnMi1EOWsxc0R6Z2c2c0lwMDR1cmhZTi1uYTVfdnNuajlCNWc?oc=5",
+            "title": "‘악마는 프라다2’ 주역 메릴 스트립·앤 해서웨이 “한국 오니 설레...K팝·K뷰티 인상적”[현장] - 이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iN1NMSGNCT21nbHhacEdHQ211NkFNTkJHR2N3WEZ5ZkRHbVNoOXJaaVMwN2w4Wm9NWUlub3M0ZFhUQmVsejNnT1hvMy1tYnhFeFdhQw?oc=5",
+            "source": "이투데이"
+          },
+          {
+            "title": "메릴 스트립·앤 해서웨이, 꽃신이 너무 좋아 - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aMXhTLW0zWFNqX0NTSUlxYXl2QUdMMHZVXzV1eEdTOFRJWTRYNXdiQ1FmZlZBckZXZE9ma1ZEdVZobktCa0VobWdnc19RWXM?oc=5",
             "source": "v.daum.net"
-          },
-          {
-            "title": "\"김정은 욕 해봐\" 북한 IT 요원 색출법, 면접서 통했다 [소셜픽] - JTBC",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhUU00UVJ1WlhWVVBnMjRWUUU4cXYzWlFmRnRadFZwZ2x4dHo4LTNPNHpSUld6NUhIcjFjaFF5NEJuYXZaNTRITGs3UW5SeW5yblJoZg?oc=5",
-            "source": "JTBC"
           }
         ]
       },
       {
         "rank": 2,
-        "word": "충격",
-        "count": 7,
+        "word": "앤 해서웨이",
+        "count": 16,
         "articles": [
           {
-            "title": "경기 광주 중학교서 학생이 교사 폭행… 지역사회 ‘충격’ - 경인일보",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBaDVFU2pJVFQtX1hhNjYyeDZZdFZhcXZYU2FSSEZza29xcU5jdmd2YzVUeERtak1FRUJSazhLT3J2cTF3T3lnbUNHOVU1WFg4clE?oc=5",
-            "source": "경인일보"
+            "title": "[영상] 메릴 스트립·앤 해서웨이, ‘악마는 프라다를 입는다2’로 내한… 더 화려해진 ‘런웨이’ 전설의 귀환 - 서울와이어",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xTFJyMWhndlBtYzhjTmRVM254eXg4Ry1hS1ZMVTJpcXdfZWVnSjdqV1Zmb1NUeHdrcjNrMjVqQTIwY3pUMVNZTGtmUGl1ZTZzY1JoalE2c0VWT0pJaW9lUnp0T3VhWk1uQW1R?oc=5",
+            "source": "서울와이어"
           }
         ]
       },
       {
         "rank": 3,
-        "word": "공개",
-        "count": 6,
-        "articles": [
-          {
-            "title": "\"작전회의 하러 갑니까?\" 공개한 박상용 사진에 현장 ‘고성’ [현장영상] - JTBC",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUbXF3UnZUYmN2VmV2ZVBNQjIzMmZxTnd0NmN5TFdVV3FZbWs3UjFyWW9RbWFJVUpYYlYxQ3BvMWhHVktnRVYwY2VKVG1XNmZoUk5teA?oc=5",
-            "source": "JTBC"
-          }
-        ]
-      },
-      {
-        "rank": 4,
-        "word": "현빈",
+        "word": "대상",
         "count": 5,
         "articles": [
           {
-            "title": "현빈→김선호, 인기가 많아도 문제…촬영지 관광객에 거주민 몸살[TEN스타필드] - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05WFVieFVSUTFqSnJuZ09uVWRVT192UWMxeFVHS3plVzFnSW1xVUVaY0lFazg3YTZZQXZUZnJTdGJmTFJiN0Y1cWh5bmlJVzA?oc=5",
+            "title": "\"모르고 먹다 극심한 통증\"⋯한국인 자주 먹는 '이것', 대상포진 키운다 - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iMlZ1TmYtS0wzbFZpSk5TaFdZTHctZWZYejhveEJxOGJ4SVRsV0E1cngxaG5aaTBYaWszTHVUSVBJZlVZdE1SMUhKZ1U0dkU?oc=5",
             "source": "v.daum.net"
           }
         ]
       },
       {
-        "rank": 5,
-        "word": "방첩",
+        "rank": 4,
+        "word": "무대",
         "count": 5,
         "articles": [
           {
-            "title": "현빈, 진짜 국정원 요원 됐다…'명예 방첩요원' 위촉 - SBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BaGtfcG5YN2sxUGFxdFBfd2tJOWtxWjItWnJSbXYzd2FMM3FCQWR4N1dCaEdra1pxZUV6ZEJkR29zS25QMzZZSFlheXBHcTNLWE16RHZ4VWJBZDhEZDZ0TGh5aU9jbFNuNFE?oc=5",
-            "source": "SBS 뉴스"
+            "title": "8년 전 멈춰선 우리의 ‘미완결’, 대학로 무대서 다시 흐른다 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa1A4RFM5bkFvZXZ3d2QyejlRdXU3VDdRQ0pvbTh4eXdEQU9vZVNOV3dJaTRqS1pTNkJBLW8zTWltR0Q4YWNjZ1FsckZ5SzBGMGZzNy1nVWVrSVUwZzZrZmJfQ1k2OXBlQUhCQjlCYmhoNnBEdWpVWVNBWHhSck01V0pMakx4dGxKZ0Z2a2NB0gGiAUFVX3lxTE9pZXRzdXNxN041ZHE1aWpwN2cxUWRudVFCZFdMbjkyMDVSNUtWMUFFaUFheVY5Vm16bGFtc2V3c1hHNTF4TkRlTXZ1eEszNFBQdnNvcHJoVWU0eExUd3liVDE2dWtQWWxWN29kODQ2OHphYjdLUUcySmJsQUhhMFBLZXFyVl96bnRRcGN6WlhleC1GN19pc2FZUUZBTG5xNzloUQ?oc=5",
+            "source": "조선일보"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "word": "대한민국",
+        "count": 4,
+        "articles": [
+          {
+            "title": "[데스크 칼럼] 대한민국 신용등급 걱정된다 - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83VWFoN2NtQVpiOWkyeXdvdk9hQktnQkp4aUV0ZUc0YzVJWEk0WmRjaFE5TWtJNWNrYVBvbndzejBrdGF6RWZDNE1QVGdleFk?oc=5",
+            "source": "v.daum.net"
           }
         ]
       }
