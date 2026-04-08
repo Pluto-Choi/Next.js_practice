@@ -24,7 +24,7 @@ stopwords = {
     '기술', '외교', '협력', '통합', '시행',
     '대응', '혁신', '글로벌', '실용', '장관',
     '헤럴드', '총리', '본부', '위원', '의원', '대표', '회장', '사장',
-    '부장', '차관', '장관', '대통령', '후보', '선거', '전시',
+    '부장', '차관', '장관', '대통령', '후보', '선거', '전시', '총력',
     # 언론사
     '뉴시스', '감독', '네이트', '포토', '내외', '연예인',
     '연합인포맥스', '아시아경제', '브릿지', '한국경제', '불교방송',
@@ -32,7 +32,7 @@ stopwords = {
     # IT 노이즈
     '미래', '인사이트', '리포트', '뉴스룸', '핵심', '유통',
     '전략', '도입', '가능', '트렌드', '접목', '전망', '공략',
-    '브런치',
+    '브런치', '변경', '계열사',
     # 연예 노이즈
     '앨리', '리스트', '싱글', '발매', '미소', '문화', '플러스',
     '오프', '온', '남자',
@@ -114,7 +114,7 @@ for i, (word, count) in enumerate(top5_economy):
 
 # ===== IT =====
 print("\n=== IT Top 5 키워드 ===")
-feed_it = feedparser.parse(f"https://news.google.com/rss/search?q={quote('IT 기술')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
+feed_it = feedparser.parse(f"https://news.google.com/rss/search?q={quote('IT 기술 개발 AI')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
 top5_it = extract_keywords([e.title for e in feed_it.entries])
 
 used_links_it = set()
