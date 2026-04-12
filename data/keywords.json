@@ -1,74 +1,74 @@
 {
-  "date": "2026-04-11",
+  "date": "2026-04-12",
   "categories": {
     "경제": [
       {
         "rank": 1,
-        "word": "전쟁",
-        "count": 7,
+        "word": "비상",
+        "count": 12,
         "articles": [
           {
-            "title": "미국인 교황, 트럼프 궤변 겨냥…“하느님은 전쟁 축복하지 않아” - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMHF0VVJScmpHUF9qQ2ZJczFDMVpKT3VEdWthWUJ1VHEzSWlPT3NFbm9nZnR0VWxEbzhEcHpDTHpJZU81Y3NiRVp5LTY5TDVqVTdadzkzamtpN3U2d0lBNEZlUE5vTjlXa25tbV95WllXbF9zamNPNXpWNXZkZHNyV0tn?oc=5",
-            "source": "한겨레"
+            "title": "美-이란 협상 결렬에…靑 \"불확실성 여전히 커, 비상체제 유지\"(종합) - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TTkc5MTNseWVDalEzNmQ4M3E0YlRqdkozS0VReXM3dUU1N0ZnWUVyNW5EdjEzaTJTTi1pYk9qWVVqX3JOVzNlUGRUdzg3UnZabk5yMmEzaGp5b1XSAWBBVV95cUxNZGo4Vm5iY21jdWYzTFF0SVRJSUVHUnpXV0dKT1l5aUhodGE0ME5xOVFRLTYtYmNYTVpMeXBCZ3ZLYXBCUktzRW5sal9aMXc0NlBXSXlvb1YtRGVJM1ZUcU4?oc=5",
+            "source": "연합뉴스"
           },
           {
-            "title": "교황, 트럼프 향해 또 일침?... “하느님은 어떤 전쟁도 축복 않는다” - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVWEyem9VSElKT0VEeE9rLXNkc0F0UThKa2t5eE1EZ3NhWmhpNFVJRHZwR0luT2Uwc2pCWUxvVUk0ckZyd0xYeTN0Y0NzektaT0FCU0xCS0E0NWMtS0dJTjZlM3M2aHd2d3Q4WngwTVB3ZTFjOXE1a2daOXpXbTAzeXZWZVRGNWx3MDlUUmR2a2Z0U0E0cHcwNUIweVpyd9IBsgFBVV95cUxOQVRoaGVPeDFUNEJkalVtSlJrTE9fQWhaQmF0UFRwQ0VLWGVWemRPZ09FQXQyTE9DbU5kTWNmS3hLYmxmUmZjSnpfdUFBQ05naTl5MnhIc1ZLblN3VVhMZnFlcm5UdXNNajZzaHZzVUM1ZzduR1RMR1VQVnp2TThqVVRXUlBwRkthRmtXc0hJY25fb3VaRFpCUHkwclFPNjFhSVBTMC1ydTJoRFZoVUZVbEtn?oc=5",
-            "source": "조선일보"
+            "title": "'미토스'에 미 백안관도 \"사이버보안 비상\" - 지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yYUlqeHRrTkZpMDRXZXUxMy0xNUtRTlRqNnRYbkE4ZEh6emg0VnpQX2MtSVRhNGtMOF9teG5sTlBhdkdRb2RBV1I1dTBOLTlhckxYTHJ3?oc=5",
+            "source": "지디넷코리아"
           },
           {
-            "title": "“신은 전쟁을 축복하지 않는다”… 미국인 교황, 트럼프 향해 이례적 직격탄 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6dDNnTXM5Z0NkLVVBakJ2OUZEZVdTUUc1QnkxWE5zXzdXUm5tSmExSTM2VWpNY29leVhzbW9fS01DRU5IR2JQRTZGeE5ka3M?oc=5",
-            "source": "v.daum.net"
+            "title": "청와대 “명확한 종전까지 비상대응체제 유지…원유 가격, 당분간 높을 것” - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sMVFDOGl1RVlVbjNlNWhaZjFGRkR1WnlrY1N5VEFfUzhWRnUzdFMxSlhpR0RTaUVtYmpyS3ZBWnlyWEJodS1wOFF1YVp2UWdIM0FvOUwwU2JLbVk?oc=5",
+            "source": "KBS 뉴스"
           }
         ]
       },
       {
         "rank": 2,
-        "word": "이란",
-        "count": 7,
+        "word": "전쟁",
+        "count": 10,
         "articles": [
           {
-            "title": "美·이란, 종전협상 시작…\"파키스탄 포함한 3자 회담\"(종합) - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYQ0xsTi1TOVhORGxCQ1dSc3d0ZVN5OC1DQ1JreWJQcWJtcHM0NUEyMDU0bnRKd0ZkYk1RZGpDd3JaUXdXV1lxOWt4MlF1NUVpZHhkR1A0dDM2b0XSAWBBVV95cUxOYVR5ZkhRN0lKR2VReE1WblVkampGZ1FSVW8wOFVnaDh2Sk1pMmFQcVRBNE95aXNWTnIxYkh1X1FDZEFUT3JVaVkwSmUtWnBsQ050R01fZzYxWUZTSG4yUWI?oc=5",
-            "source": "연합뉴스"
+            "title": "[특파원 칼럼] 전쟁을 애도하는 일 - 중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1scHVWdHkyNVRQOE9BUEZyelk4ZEdmQXUtMDl4cENHbGI0YnlRSEhGdkVYTEppLTF5ODVUX2tVM3d5NF85OWk5TE9oZGJ0d3dpTHNlN1JB?oc=5",
+            "source": "중앙일보"
           }
         ]
       },
       {
         "rank": 3,
-        "word": "축제",
-        "count": 7,
+        "word": "이란",
+        "count": 10,
         "articles": [
           {
-            "title": "'자유공원 벚꽃축제' 초대가수 라인업과 입장료 확인 - gukjenews.com",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yOEFmU3Y5eXFxbXNqTnJUZTZWYXk3aFpwUl93Nnlyem9tUS1DWU1jMXFHYURHOGxxLTFUOElqS1ZmTEwxOUF0aGtVN05zZEtvMm9qaFVOX21FcnEwRW94dG84TENwU1RlM3pQZ0h3?oc=5",
-            "source": "gukjenews.com"
+            "title": "트럼프 “이란에 통행료 낸 선박, 미군이 차단…호르무즈 즉시 봉쇄” - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc1ZKaTZkWk83VEIwNTUweEE1SUFiaVZaclZTaU9VVV9iUm16aTRsb0k1Q2o4a3R1Q0t3dENDREVKVDNGa2dfaDVjYlBxdGFjb3Q1QzgzcjlwancyLTFlaHRLZ1VuOUE0d0cwaWNKRUZRTE9TbFdsa3VwR2lKdW1YcTFB?oc=5",
+            "source": "한겨레"
           }
         ]
       },
       {
         "rank": 4,
-        "word": "시작",
-        "count": 7,
+        "word": "유지",
+        "count": 8,
         "articles": [
           {
-            "title": "미·이란, 종전협상 시작‥파키스탄 포함 3자 회담 보도도 - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4N0h6V2VQYUJRRTBoYk5IbUZhY1V0UmFzdURwX0lscWFKTU80UHVXUWtuLW9FS2hPRllTWGZ4RHcxMTRfdDZiLXpMcFZRS1hXSmRuaWpyMk4xYlFfMEdpS1l0bjJDQVhSZGY2V0d6anc1TXIy0gF0QVVfeXFMTUlHUHJreG1VVTFYemV4bzd3QmdTLWFrTnhkdlhocG1GY3AxVXQwVkF1di1GVF9YOW9BNEk4bXF6dHFEdUpvTURRTkhmUDhQZ2U1TTUtNU1kRlJGRXJOcXpFaDBLLUxiMjdabC1rdEVDS0FQemU?oc=5",
-            "source": "MBC 뉴스"
+            "title": "장기화 우려 \"비상 체제 유지\"…\"원유·석유제품 공급 문제 없어\" - JTBC",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LZDVIbVVPYmY2UmY4Ukw0VDBERzNfdTVhRGJINUxhN083QVR1ZGxrZjJ5elVzM1VtV1J3WVZPdWJWTjJmUUxjQ3Z2ZXJfdERsbTNseg?oc=5",
+            "source": "JTBC"
           }
         ]
       },
       {
         "rank": 5,
-        "word": "매일경제",
-        "count": 6,
+        "word": "종전",
+        "count": 7,
         "articles": [
           {
-            "title": "“반도체 수퍼사이클 안 믿는다”...개인 9조원 매도 폭탄 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpRnlleVVDNExSOUtNaEVRVG5EVC1Tclk5RTFyV1dHekkweWxRTHhrMkhTdVdoOEJiekdjMlZUTHBMb0FhQl9SQjJrZmk1UjQ?oc=5",
-            "source": "v.daum.net"
+            "title": "美·이란, 파키스탄서 종전협상 시작…“직접 대면 방식” - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTnpTNENOVGljMWZjckhGNUx3MmFQWGxUUmhXWW92MDJxbXVlZVEySl9UdUYtckpjLVdFZ2NsODlRcjlGUHhXZTBtNUdlYXpUYng0ei1fRGluajN2cnh0a0RoNkpSVFRrVkpEU1lNcDZPWWNHRkljSThINGJtaHZ1dV8xUi1hMWVIVFBtcURta3NEX0lGODlva05yVkdId9IBsgFBVV95cUxNMlduTk40eGlCWVdtWndBd2JkWHV0YlFabE1jN1p1ODZZbmZ4ZTEwQVE2VVZ0MTVJeVVGaXdPRTZxSHFRa2t3dzhhczdONnhLNWdRT19NVDJJcUlzWWpmNl9qNV9tempNR28xNzN6Q2gyM2ozSEFVSzNSUXl2WVpvR20tSGQzM2l4Zng5M1ZmWVVzS25RMHpETmFZdHJuelA3c3pEZ05GMWpDV1dDdzZqZW9B?oc=5",
+            "source": "조선일보"
           }
         ]
       }
@@ -77,70 +77,70 @@
       {
         "rank": 1,
         "word": "기반",
-        "count": 13,
+        "count": 11,
         "articles": [
+          {
+            "title": "올리브영, AI 기반 배송 최적화 시스템 구축…물류 효율화 속도 - 전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VRnZFR2NFMGx3VUgxR0ZEdVNiRkdHbHEyeWhhaEpKYkl2aTNQTjNUNW1YazNqYmFiYkw4dHdCelVnWWpFYjZwQlMwOUpXZw?oc=5",
+            "source": "전자신문"
+          },
+          {
+            "title": "인천시, 유정복표 외로움 정책 기반 조성 본격 시동… 수행기관 선정 완료 - 아주경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51SWZVQVJhUVdEcVNsbk1WdEVBZ0ptWWp1dlEyTkVjNHZZMW1CVy1kaGtrM1FROEw4ZFNEb2RMalgzVER2U0dMbm1EZFA4YXVGRzhpVGkwdUhjQdIBWEFVX3lxTE1QdEZyeDZOUll5cGhhU2hfZ0ZJMDNTUFNUSlRJQnJOdy1KNDY0cW5vT0lRenR6ZGxkZUpELXZZaXJHTW5heGQtMm1FWS1SZWJoUjFsMUp0Zmg?oc=5",
+            "source": "아주경제"
+          },
           {
             "title": "알지노믹스-서지넥스, LNP 기반 차세대 RNA 유전자치료제 개발 맞손 - 팜이데일리",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ibk9IX3JaR3N5TlBFVm9yaWwwdU1KZXhkaWpNZTBBTTd2YzFaTUNxU1pVLWdwWW5TcVd6YXd4dWJUeUp5Zm9VSC12N2JRdTFTeU0zb29Zd3hianQzMjNsMXRaRDZqb1F0Y0V6Umd3?oc=5",
             "source": "팜이데일리"
-          },
-          {
-            "title": "실수요·산업기반 따라 갈렸다…지방 집값 ‘선별 상승’ 뚜렷 - 이투데이",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aNTFCOEZyTm9reGd4VVJwQ0txS1VhS0lwTmY3UFY2TlpramktdU9Gd1FfbmtldE5iOVJVSUVDSzV6SzN2RUpLZkktdG04R21WaUVCaw?oc=5",
-            "source": "이투데이"
-          },
-          {
-            "title": "GS건설, '암모니아 기반 무탄소 발전' 진출… 아모지와 합작투자 - 서울와이어",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XVGpRdzU2RHpYdUItUThnSzBrREQtSU02cENtZWNXTTFrbWtidFplS1RkRlFzMGtReDAtYTBqeGNOcExFYUZpa3prTEI4Y3J5WlBVQlE2cmFnZXJZVTBGeWlWR3A0WDd0YkxF?oc=5",
-            "source": "서울와이어"
           }
         ]
       },
       {
         "rank": 2,
         "word": "시사저널",
-        "count": 6,
+        "count": 7,
         "articles": [
           {
-            "title": "불 꺼진 ‘파산지청’, 텅 빈 검사실 채운 건 ‘미제 543건’의 서류 더미 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJc0x1cmJGdzhWbjJBUml0SWJ6eTBBX1dqbldzN0dwcUZkamhNem5PZXBtYUExNS1FMFhsSTFfTS1PNVhncVdodTkteFFpd00?oc=5",
+            "title": "석방된 전광훈 “이스라엘 욕한 이재명, 나라 끝장나” - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FTi1oRWhSaXJSQmVPcTI4bTNYcDdoMmxVdmNWNDIyeWdSUEJ5a3N3MXFLNi1WUXJLM3Rnb0l5bmY0MU5GRnVCOVB4Q3hmZDg?oc=5",
             "source": "v.daum.net"
           }
         ]
       },
       {
         "rank": 3,
-        "word": "자율",
-        "count": 6,
-        "articles": [
-          {
-            "title": "박민우 사장 \"2027년 말 기아 첫 자율주행차 개발 완료\" - 지디넷코리아",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05SVZuT2NTN3FCQnFuVXo4bmczSTgwWnlLN003TmxWczVTTnp0RGotVDRrWldmZVcweUg3V1A1RnZZM1dqci1JVVZNSnVYc3EyQnYxRV9B?oc=5",
-            "source": "지디넷코리아"
-          }
-        ]
-      },
-      {
-        "rank": 4,
         "word": "북한",
         "count": 6,
         "articles": [
           {
-            "title": "[요즘 북한은] 딴짓하고 가슴에 손 대고…“주애 행동, 매우 이례적” 외 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rb2Y4bEJVVENacERpV01tRGNhQnNGU24yTzEwckdydERrNUtuREJNRHZlQndvaTZLS2FjTFl4RXdhaFdkTEk0OUJzQnpsSjQ?oc=5",
+            "title": "[통일전망대] 100% 찬성 깨진 북한 선거의 이면 - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiUmdFUDFranBSb1NEOEczZjd5VnM5NkxUR0QwYkgwcDVyZ3hCNXVySGs5MnVLQ0F4Q3VVeW5OOG1zeU9Za0FmM2tCaVB5REk?oc=5",
             "source": "v.daum.net"
           }
         ]
       },
       {
-        "rank": 5,
-        "word": "피지컬",
+        "rank": 4,
+        "word": "지능",
         "count": 5,
         "articles": [
           {
-            "title": "피지컬 AI, 2035년 1억4500만대 전망…휴머노이드 급부상 - 전자신문",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9peFVKb1RYVDg3a3pkVkJLTy1Eazhtdm1ib0c1VG5RVk91RW9PZE1UQktaU014TG0yNHlFNkwwbXlSSE5NVGVCa3BleUVQdw?oc=5",
-            "source": "전자신문"
+            "title": "인공지능이 볼 때 인간은 닭 지능 수준이라고? - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05T3lTME9Sbm1lS096c3p0ZUlHaEoxclVuUVlobzNGdGV1TS1tamNMY2ZVcV9PdTN1clRIT0dCQk1FQXVQTDJ4SkRJMmtQMUZtOEdlUzR2RGZzaW8?oc=5",
+            "source": "KBS 뉴스"
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "word": "연구",
+        "count": 5,
+        "articles": [
+          {
+            "title": "\"바이오 R&D AI 쏠림 우려…모든 연구에 AI 필요한 건 아냐\" - 동아사이언스",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vQkwxby1iZFJUeUU2cDJzaWFMN3hVZHJILTNqZjFESTJmRkNfZmJEVmpidGlBV0FGXzFwdTNUVE4xN2VVbWVKREtDNmNYaDA5a2E0dg?oc=5",
+            "source": "동아사이언스"
           }
         ]
       }
@@ -149,70 +149,70 @@
       {
         "rank": 1,
         "word": "공개",
-        "count": 8,
+        "count": 12,
         "articles": [
           {
-            "title": "서인영, 30년 키워준 새엄마 공개… “우리 위해 친자식 안 낳아” - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmVlTWM2VGQ4clhtS2pDWDNkaUdhTk9TZUxUU2k2WjdweHNIcmZkaWx4aFlFSTF0NFE3YXFwbXpYT2dPRTYzdU5DWFJvVmlCNEt5OVU5RVJfeTN0ZncyRnlVZjVnM3JfY3NLcnlxMHR6dlJTeWM2dmZIQkZiUmU1Qm1pRzk5OVJxRVNqaNIBoAFBVV95cUxOVVNCUHBYeXpHY1c5TkR6dnpSMks5ejB6UEZjMUdOSVRDaWVSaUVGdTU5VjR3UGNQa3BXMlhDdlIzSXJ4Qm0tejBBV1o5azFlNkJ2dE5IbDlLZjBLUjlKTTV2d2I1cVZMa1NkbUE2RU5EMjJVV3ctU1piZTJnYm9xR19sVWpTSXpqRzV6Qm9pTWFONG5rSUkzWjBaR2NQcUZf?oc=5",
+            "title": "'이혼' 이범수, 가족 떠나고 혼자 남은 집 공개…\"텅 빈 아이들 방만 매일 청소\" ('미우새') - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UdlYwNjZMcFl1RFJjWVkzanVfbXBGSEJIN0JQTWQ2YTR0cWVPam8zWW04UlFoUnZKX0xuNXhPaXg4Skg5dV9NeGZ3NExmaW8?oc=5",
+            "source": "v.daum.net"
+          },
+          {
+            "title": "적법 절차 안 지킨 ‘병역 기피자’ 신상공개... 법원 “병무청 처분은 위법” - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeW5QZldjcFJtQzZ1am1SUmJzMGhIZXVrTERYVXNyb0hHd1p1dFFtQURrVFctazhyWjZQTlE2WHJnMFN1aHRyNXVMcndyaS1GRHZScGRQV0NWYTd2SDdpTmtmdWVEV0NuMUNKbklfV3AxQ3czNXM4cnpvOE1jU1BXQjRwYXhONVXSAZsBQVVfeXFMTUlqTWlFX3JlaVFCM09oMnZNb3BhUGk4X04wdXVBZUlqNTVCdlZtVmNXbHY2NFlaWDBLRExYVWx1cGVsbE03d0VQdUo2YlRvQjFlM1I4R1FhSHptbXEyemZueXRscUxINzB4clgzMUxFbF9qOEV3cW9vVTZNc1J5UzViVHhTLXdPVkNORVZlclBUTUNwS2kwNXdHbm8?oc=5",
             "source": "조선일보"
           },
           {
-            "title": "서인영, 30년 키워준 새엄마 공개…“우리 위해 친자식 안 낳아” - 중앙일보",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3ZWh1SzMyS0xEVjhuWkJfSUtQeHRTcG9pQVYySXZ3NGhJZlhYYzhzd2JnNkRkbGo1Q0ctQlJNOHA5RnZhMlU1a3BMczFXUzFlM3VadFBn?oc=5",
-            "source": "중앙일보"
-          },
-          {
-            "title": "서인영, 30년 키워준 새엄마 공개…“우릴 위해 친자식도 안 낳았다” - 스포츠동아",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kWUszelQzMVB1LVk5T0c1YVpzQmtVcEN4NXFYNHN3Z09CRm5FMWtlMkVxU28xMlFNRkpaSV9qTmt6UEcxQ1NfNEFyR0lZbThrQ2lTa3FaQzNkSW9ZdEliWF81QTAyWHNVd21fcDdn?oc=5",
-            "source": "스포츠동아"
+            "title": "\"대형 모델은 조언자\"... 앤트로픽, 가성비 높인 '어드바이저' 전략 공개 - AI타임스",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oVTZ3TVcwb3VVOGpuanNnY19qZ2tRdHhIU3lWYTFLdG1RMEROMjJraDY5T2ZiV3BTTi01LWNrWlFDS3RuYWhtZWRsQWY2bzJjTDdlN0Y5T2RSZFpycTBIV3RQOENGNUJUd2c?oc=5",
+            "source": "AI타임스"
           }
         ]
       },
       {
         "rank": 2,
-        "word": "영상",
+        "word": "이효리",
         "count": 8,
         "articles": [
           {
-            "title": "‘이스라엘軍 아동 고문’ 주장 영상 공유한 李대통령에... 이스라엘 외무부 “용납 못해” - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNnY4MWRUbXc5UlFya0NyX2VxSVN4V2V6S2cxaU1Vc0xxbDBOWnJhaG9uX2xoTUdPNnBIT2FteG4zLTlLaEhwczFpc04xM0h3UmNUUnFPc0dXQXZERzN1bXJLa3poODJ4WEFkTmozbzRQbDZKSFZ1UGxFcVRsX0FfUUtjUTF1alN0SnV1LUVpUGYydU52VDEtbVNjczc0dw?oc=5",
-            "source": "조선일보"
+            "title": "가수 이효리 부친상 비보…남편 이상순과 빈소 지켜 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VV0lBdWJpMGdUSlZackM4QXJUa1FhOEN3cmdKN0t0ejNzVzVaQTJMejNRN0VaelhJUEM1MDdBdGlIN01JZElTc1BfYzJDRGVYNkZ3SlZhaWJKSF8xeVNvVdIBeEFVX3lxTE0wdUJFQnR3bi0wUEFfQzdHT1BFYjBFMWc5Sm9oYVVsaGo1V1o3WUJKTEhrWVE1NUhkazJXbElCTG44RUtQR0hwY3RmQTNfRlNIQThCRi1xTmk1bVRvS29DUlBDTUtZWXE3RFFnY0x2WXRzM2c2TG1HMw?oc=5",
+            "source": "뉴시스"
           }
         ]
       },
       {
         "rank": 3,
-        "word": "투어",
-        "count": 7,
+        "word": "부친",
+        "count": 8,
         "articles": [
           {
-            "title": "방시혁 의장, BTS 콘서트서 포착…월드투어 서막 '특급 응원' [엑's 현장] - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5meW5QS2pISk1FUE9wRHNEVy1sRVFpb2NrM2Z1dEtpTm1rSVluLTFyNGgzYlVvdTNYS1UyN0k3U29QR3ZVbkpjMGJrNzNSTkU?oc=5",
+            "title": "적극행정의 힘… ‘납북’ 부친 기록 발견 - v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00UGdhakIxNi00eTVXQTlrYkdySU5wZldrdTlzQ1UwanRzN050NnRtbzJIb1NBVUhSQm1neVZGQjNYbS1jYVE?oc=5",
             "source": "v.daum.net"
           }
         ]
       },
       {
         "rank": 4,
-        "word": "아이유",
-        "count": 5,
+        "word": "이상순",
+        "count": 8,
         "articles": [
           {
-            "title": "아이유·변우석, 스캔들에 혼전 임신설 확산…\"상상력 미쳤다\" (대군부인)[종합] - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xSXNBejhIcXNTMVJJOVpZRXlRMzRjTFgtUmRIRnhpS2lIclpvRkNsQ3VjeHlfME4wTTdfVFNlNTFkV2I3NHlMbkxZcjl3aGM?oc=5",
-            "source": "v.daum.net"
+            "title": "이효리, 오늘(12일) 부친상·이상순 빙부상…슬픔 속 빈소 지키는 중 - sportsseoul.com",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LQ0ZwaEZzYzBFY0V0eUw2UnZlbDVsOExndXUtZzRNaXhZV3dxenRsN2JpWnZYVTNsZ3Nybm9XZ2x4S3lRV05MRHJXZDVWSThIRXVKT2RJYjQ?oc=5",
+            "source": "sportsseoul.com"
           }
         ]
       },
       {
         "rank": 5,
-        "word": "변우석",
-        "count": 5,
+        "word": "남편",
+        "count": 7,
         "articles": [
           {
-            "title": "변우석 \"내 얼굴 무너져…유재석보다 못생겼다\" ('놀면 뭐하니')[종합] - 네이트",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HNXFRbWlFMHhUcUdJQ2NDNG80T2kxcERmZ3J6UWdEMlNsOW5SdDVodG5PUW13aXE3cC1vZHVzTjJlZVhRM2tNZ2JTVE53UkN1ZTRj?oc=5",
-            "source": "네이트"
+            "title": "퇴근 후에도, 주말에도 일하는 남편… 말 걸면 “쉬고 싶다”는데 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQME9ydEdHZXp3UVdDYXE4clpJcVlSRnlhVFJueEFNcVBDalE0cEtMSW1ZeHV2Wm1uNWt4bkI2TDdYMVlTLU5OeEZHbWh5dEgxckRkUlZLbXN2SWNhV1lOdE9KWkFIV01pWXFQMG9xdE0wa2hYSms1ZTVYMGVpRF9Majlha2HSAZgBQVVfeXFMTkhOUE1TaVJZQlJ0dGthVzR4WVBweHJQQy1UQzFOalZGS2VpLTBwajhXZ3paMm1xRFZncVY3QWlXTVpWbGkyTE9MQkVXRTVNVm1RdTVCWjduMUdiWDVBZmRwajJXdlVWdTRsbXlpRGQ4WXVkQlpuakVqZWZfazgwbXBOd0cyV2h1aWJvcFloak96eEpzcEktUmk?oc=5",
+            "source": "조선일보"
           }
         ]
       }
