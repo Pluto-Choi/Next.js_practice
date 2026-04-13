@@ -1,221 +1,230 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "categories": {
-    "경제": [
-      {
-        "rank": 1,
-        "word": "이란",
-        "count": 10,
-        "articles": [
-          {
-            "title": "트럼프, 이란에 ‘경제 폭탄’ 던졌다… 원유 수출길 끊어 협상판 흔들기 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajhEQkJWX3pBQlJtRkZBZHBlaHFuQXk3Qnh6a2dzV25Rb05Ha05JN09LNjZFNXoyQWgyMGYwc1o3a2hmWUxHdDdZV1hwSFo0dlhPUkZYbmVCV2N6N1NrMThJaElhV05qcHZUS1o0V0szTlFnSTQ0RV9kMGh5VVZ1djhiUDhfa2ZHTU4tZlFCVTh5ZVdNMXctSkFIbmJlQdIBsgFBVV95cUxOZzh5VHFKVE5pOE92bktNbi1wcExDRkprUUNEc0tGLWVnbXR4QW0yMUttMjFVSC1MWDYzU2xVd2NFLThHVDNTRFZWQ0tpa3hDSWl5dEZtR0R5R3dZRmFvcEZVdV9TeVg0SWllNlNaWjJFWW9BYlU3cFYyd2JnOUEweFR4TWJmTklQNXJ1eU1ScGJsZm9ldVNqRGF5OGxJWHc2cHpLM3pEV1d0Nm53WmhEa0l3?oc=5",
-            "source": "조선일보"
-          },
-          {
-            "title": "카타르, 이란에 “호르무즈가 협상카드로 쓰여선 안 돼” - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56a0hWcVdObVFxVk1QWnRlbWN5Q3VHT195WGxqOU0tZVJUam5GYUxzUG4zVWlnSVZfXzgwTEZSNm03ZmtRNlp5VWI5M1ZVWmY5Nm82RlktN0NEYWM?oc=5",
-            "source": "KBS 뉴스"
-          },
-          {
-            "title": "미군 \"승인없이 이란 봉쇄구역 진입하는 선박 차단·회항·나포\" - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LNHl2YWxmNUM1VHoyWWtmcmNESVd5b2FKbnRlTk5nWXdlTTFKNmRSTlNKZFFwUzRhOTNmRjhkcl81ZGVnTzU0Z0sxZkZKWkZpb19BT242UmoxMGvSAWBBVV95cUxQajE5cDN5TXlGWnRmTG5tRG1HQnVRTW03UjA3SVVhQXZic005eVZ4V25URV9VUGxncVRYVzAyVUNaQVlQQXRVMlBnWkdCZ1dLaWZTcUtjZF90bHMyNkdVUHM?oc=5",
-            "source": "연합뉴스"
-          }
-        ]
-      },
-      {
-        "rank": 2,
-        "word": "세계",
-        "count": 6,
-        "articles": [
-          {
-            "title": "美, 호르무즈 봉쇄 시작… 세계 각국은 긴장 완화 위해 총력전 나서 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsUEhZZnVLd2xzLU5GMXNYSmJ3WjZ1ejZwakREQ0JNOUFreUVxWTNoUjRYOUkxWERMUl81SWtHRy13RnF4OFVWaEdxZUhJS28?oc=5",
-            "source": "v.daum.net"
-          }
-        ]
-      },
-      {
-        "rank": 3,
-        "word": "전쟁",
-        "count": 6,
-        "articles": [
-          {
-            "title": "중동 전쟁 장기화에…두바이 부유층 몰린 ‘이곳’ - 동아일보",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03MW5QZTVCMjVHRFltZGVMOXRYRHUtdzF2Ml9Qd0pfYkpvaEhWVVI4UHkxT2UydUJUNGh6bnFsbjdLZUxnLUVSeXVBRTV6S1dlMnR4UEpTMmRndTM0SjNmSTRRRVl6QXhORDE1b3ozbDRwb1nSAWZBVV95cUxOMmtPNDJvbklTd3A3UWVBaURValV1Rjc4WkJTbHBYek40bXNDNWYtdllESnlQUU05ZGJYc2otdHhUNTExYVlOemdRbjJhdHNQZy1LZmgwbUdHNjlvcEtxLVYzZFBEM3c?oc=5",
-            "source": "동아일보"
-          }
-        ]
-      },
-      {
-        "rank": 4,
-        "word": "구윤철",
-        "count": 6,
-        "articles": [
-          {
-            "title": "모두발언하는 구윤철 부총리 - 뉴시스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82WDhYTUxyTmN3MXQxNXFJME01SWdWUktIOS1yWDh2dlFzVWxzRnFCUGpHbW5QQzVtenhvY2RpTW9TLTY4WWwyUXJTY2RxLWRfQ2hSOWI3dUlDVHpVTE5hUw?oc=5",
-            "source": "뉴시스"
-          }
-        ]
-      },
-      {
-        "rank": 5,
-        "word": "중동",
-        "count": 6,
-        "articles": [
-          {
-            "title": "‘중동發 에너지 수급 불안 대응’...해수부, 추경안 1448억원 확정 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lMGoxeWZlRm5NbEpTdXIxSWlRLTQ5M1prM1F3UllMaXVQMHZVYzU2aUloV0xIMlJpYjBzYl9DV1hjUmNRdXNPOFQ5Q3M3ck0?oc=5",
-            "source": "v.daum.net"
-          }
-        ]
-      }
-    ],
-    "IT": [
-      {
-        "rank": 1,
-        "word": "기반",
-        "count": 11,
-        "articles": [
-          {
-            "title": "씨젠, 독일 ESCMID서 자동화·데이터 기반 미래 진단 전략 공개한다 - 한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZR1RKWmpXdk81Zkd0bHFRM21adUttd0dFZGJ5SmV1SkpVSEVsZkp6SmhkajFfd0tjREdLcDBhUGpzbHY5Q0hKU1h0YThmSnBQWFdTaWdQdE1sQdIBVEFVX3lxTFBxOXlRZHFPanBXSXVPY3gxYjBzbk5pLUxNOEJueVYyWF9hSHpyY0pHZVN2VU40VW5kMHc2cVVkZE9BZ0JCYWRNNjNMWnotRExQdFdGMw?oc=5",
-            "source": "한국경제"
-          },
-          {
-            "title": "\"가상화 기반 AI네이티브 제공\"…틸론, '2026 데이빗 데이' 성료 - 지디넷코리아",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zSUFyMU9PbHBJeEgwMGRwS0dqaGVTb3VlODlIY3h0TWdnMUU3ekVOeDhOQW5mZy1qajF5TDJHLWpiMUZuMnZHbEh6UU5WQ0otc1V2UlRR?oc=5",
-            "source": "지디넷코리아"
-          },
-          {
-            "title": "헥토파이낸셜, 서클 CEO와 회동…USDC 기반 글로벌 결제 협력 - 이데일리",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOblJoYWFYcE95b0x3YWNPeHRjWVIyeHdtRl9Nc19rV00xXzlDb1pLbXJOOTJzTEN4VEpCOTZzdFpiVGNqMzVxVXgtaWVuVGFiR3ctVlpSQ2pZYnNYUHJJWk0zODMwbXlOVFVUS1pXRnhfanV4WWVoV29CT3VpeVpaNA?oc=5",
-            "source": "이데일리"
-          }
-        ]
-      },
-      {
-        "rank": 2,
-        "word": "시사저널",
-        "count": 8,
-        "articles": [
-          {
-            "title": "안철수 “이스라엘은 경제동맹국…李대통령, 이적행위 멈춰야” - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ud0V6MGV5djhUQUJLeERQcEpTbzN6MkVYY3dBeUJVdkY3SmJoS2dybDlJeXlGandHeTI0YjBGRWRuX1pzTnJYYUhiNllwVUU?oc=5",
-            "source": "v.daum.net"
-          }
-        ]
-      },
-      {
-        "rank": 3,
-        "word": "연구",
-        "count": 6,
-        "articles": [
-          {
-            "title": "지씨셀, HER2 양성 유방암 '임상연구 활성화 지원사업' 선정 - MEDI:GATE NEWS",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HWE8yOTR0Yk9ORWdodExGT01CdkZCZWZZREl0UEJ3bEh0Sm9Jc0k3ZEtqaFZ6NkFQQUhndVRLY0lad09BMXVzVE5uRFlvaGtIN1V0VHpMdw?oc=5",
-            "source": "MEDI:GATE NEWS"
-          }
-        ]
-      },
-      {
-        "rank": 4,
-        "word": "북한",
-        "count": 6,
-        "articles": [
-          {
-            "title": "[기고] 이란의 드론 활용법 배우는 북한… 한·미 대응책 시급해 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlgteXg5N2VXdVpyTmJaOXJQTG82UW5zU3RSRVlfWm41Y2o2eS1CZ0g0SmpJOE1ucG4tZ21rS0pMQ2ZRX1RkZk9QNklFZ1RqaVRPRjhxd3hmRTRNbUZpRFQydFpCc3FncGRleU5ERi1lY3QxTnJpUzh2bklLTXg3cm5xSUg4VW1oNkHSAZ4BQVVfeXFMTTZxV2JVWVVQeG5zX3Q5NllQTnNHdW9XbGtVVHdTSFRUdDBIYTRXR20wazlfT3hJOS1DeC1JZV9OaWc3eEw5RHNqX2dPczVWTHBOQmNFNGVxVlJMQTFRSmgwNUhLT1VMNmU3U29lcXZRVEJtOURhendmUHlYZTYtcF9lc2EyYi1McEVhbGhzVXVrRGtPcDhENEhlUUxZamc?oc=5",
-            "source": "조선일보"
-          }
-        ]
-      },
-      {
-        "rank": 5,
-        "word": "지능",
-        "count": 6,
-        "articles": [
-          {
-            "title": "인공지능이 스스로 논문 써서 심사까지 통과했대요! - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1VZcW9HVnBrSS1MNEdyUFBUM0Y1QndDRnBwNzU5U3ZENWhCa3IwQ1dna0w3aFk1Wk54Z3BwVjl2WUFKNXQweDdnMFBuYm5UUEwyYWJRTjR4SkJ0Yl9uckRId3JzS2otdTNyRW9fZjEyUFdsa0tSaEN6RVdScU02MXZuelBkRVM5QUJudm5LY2tacThi?oc=5",
-            "source": "조선일보"
-          }
-        ]
-      }
-    ],
-    "연예": [
-      {
-        "rank": 1,
-        "word": "콘서트",
-        "count": 8,
-        "articles": [
-          {
-            "title": "BTS 콘서트에 주문진 버스정류장 외국인 관광객 ‘북적’ - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBld3UxZEt4TDdaUlF4aEJMOEFTXzJEV2VDSEQ4X1BqSG1SeHAxdi0yNmxVTDRKTEFWR1BJMk5WNDd2cjB6WUE?oc=5",
-            "source": "v.daum.net"
-          },
-          {
-            "title": "유튜버 '과학쿠키' 뜬다…구몬학습, 16일 온라인 콘서트 - 뉴시스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQRFFYQ3lBakF6OGhFM3dvLXFJSVJwYW85d0hiQ1AyeTVjWjNZcFAyMlZfejZEUjYta3I3TVRpUGVUbmRrN0htODVGM05jZXRnd0RiZ2Qza1NqeTFzOVhQctIBeEFVX3lxTE1hdGx0dGFtN0FhVVF2LUR0c3dJZjBxMFMwYTJPQWNnZEI0OEZrVUs0MVRtUVBSVzZBQXR2czcyZEU4YlcyWldBc2J3WE9veWxuN3lES3ZMdWNvWnowVFVXV2ttUVB0RW1Ockw1QkZCWldiUncwSHBKZA?oc=5",
-            "source": "뉴시스"
-          },
-          {
-            "title": "'인셉션'·'글래디에이터'…국립심포니, '할리우드 블록버스터' 콘서트 - 뉴스1",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3YzE5V2VMQy1jQTlndVZ6eDdTa2VyU24ybGVFYlU1eXkxaU4xbEJjM0ZQSm5EMERXTHJ3YTVRT2xPMHVnRjZBT1dlUUowZ250U3NCR2JELWtzUHU0VTlKUjNkN2Y2X3ExSDNJZmhlVGRMdw?oc=5",
-            "source": "뉴스1"
-          }
-        ]
-      },
-      {
-        "rank": 2,
-        "word": "김수미",
-        "count": 6,
-        "articles": [
-          {
-            "title": "\"뮤지컬 '친정엄마' 측, 2년 전 故김수미 출연료 지급하라\" - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vaFZKZktMZ2lHQ3h5QkpyOWV4d3kzbUZKRV9lTV9Fb052TTFOTHFqOTZCYWVPb0xoYTZWQldJamptd3h6Y2pvZjhabFU0Yk4xenRLTXdlQ1BJLUXSAWBBVV95cUxNOVVhM0ZtSVZZWlByY1VyUll4eElBS3NVYkczem1JQWdpOXpoNW5DWFR0R21mUjB2YmFDS1d6UHN4cllsV3BiNUJPQTlqd29RbzdzZk5fZkVROWZKRTFLYkI?oc=5",
-            "source": "연합뉴스"
-          }
-        ]
-      },
-      {
-        "rank": 3,
-        "word": "출연료",
-        "count": 6,
-        "articles": [
-          {
-            "title": "\"故 김수미 출연료 2년째 미지급…'친정엄마' 제작사 업계 퇴출 검토\" - 노컷뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzaXc4TFQ3VTExV1YtcEtsSjJVRU9WMEVaY1dlam5sZl9wWlZGU1RFcUxpNERzbk9ja0ItaGxlaFNwSC0tM2szVTdtZ2g3NmNJY0E?oc=5",
-            "source": "노컷뉴스"
-          }
-        ]
-      },
-      {
-        "rank": 4,
-        "word": "지급",
-        "count": 5,
-        "articles": [
-          {
-            "title": "고유가 지원금 27일부터 지급 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODNfa3FPRmNzdTdkcGxkU3BZSTJNSUVJcktMTXIzS0dEMFFJTExUVVJQLVpvOVBMc083aU4xdHFCWGd3bmlua3AtZGhhNW5aRzRDa1k2TVZxRVVMMzViM3JwSGhzT3NxNzU4Q3ZVWHR5UkVBM25rdVpZaDl2MXlCV1JNUkNMZFo3UTBqeTdn0gGiAUFVX3lxTE1VUGFjWWl4SWJEeS1FWXUtTG0tNkppRVJILWwtRWZsemhyUzFub0NtZzNTN0tORVZndVRBZUJEbEFKdXZrRnZLZmNVQ0s2azBKS1V2LTZ2elJTSDM1YTBWa0oydUNiTnRLREx6d012NHlmZ2FEZFpiMTFrY25MamhuN0YtNUI0Z2MzN0NXbVRmOGRpcVhDZmUyeUJ3M2ZRTDRsZw?oc=5",
-            "source": "조선일보"
-          }
-        ]
-      },
-      {
-        "rank": 5,
-        "word": "협회",
-        "count": 5,
-        "articles": [
-          {
-            "title": "미국육류수출협회, 서울모닝커피클럽 협업 행사 개최 - 헬스조선",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85RkNXYi1uSU94NWlQN3lnaFpWbTJGRk4ybUotSkF5MEZXRElnZHR2SHZ1ZTRVaS1sekZzcG1JX3VYaWxMRGJ5U2JDdUIxQmZXRzJrVmtub3cxd0F2NVhvMC1XcXNWTVZBZmxIR00zczFMLUp6Vmc?oc=5",
-            "source": "헬스조선"
-          }
-        ]
-      }
-    ]
+    "경제": {
+      "summary": "이란의 중동 긴장으로 호르무즈 해협 통과 위협, 세계 경제 영향 우려.",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "이란",
+          "count": 8,
+          "articles": [
+            {
+              "title": "[속보]트럼프 \"이란 합의 안 되도 핵 잔해 회수할 것\" - 뉴시스",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WRlc2Mzl1YlBhSk96Y3NlSWFaSzVuNEk0aE5yNVg1ajdac3Rrek9uRE03aDlpaksyd282MDdCMFAwOElJYi1vQUx6SE4tM3ZodmUzdGVVSlpfNkhEakRkRtIBeEFVX3lxTE51NkdmellmTWRaQUZVZ1BfLVRZZGJxTU4xa0NlNExqZng0aVNaVEtfQmt2VnRfYnIzblNGa3dFcXBRRU5jaEF0ZlFlejh6S09lZVQ0dmhNOFBzbjNEY01VZEtvS29mN3laS2oyX281UHM0ellUU0RXLQ?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "달러-원, 美·이란 협상 기대감 부활에 하락…1,482.70원 마감 - 매일경제 마켓",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSZFNQOGh6UjUwcFJPcFotV1EwaWNUVFQ3RHFjMkgyVjBNdmZLQ1VRN05SUUpqZjJJYmUza1ZsMXpycUJrTFZ1TkJkNzlNNDZDQ2c?oc=5",
+              "source": "매일경제 마켓"
+            },
+            {
+              "title": "트럼프 \"이란 고속정, 봉쇄망 접근시 제거\"…최소 17척 일대 배치 - 뉴시스",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fVU1SLTcxLUNVMExYbUFIVWJkLS1ZZEhsdEw3QzJNeklHcGZJME15UW1TLWlMLTJEUXNiT0tRR1JaUnBfdk9lVWZNWFo5bEp6UHVHWUxOZ3MtTFVEdENYWtIBeEFVX3lxTE95bFFPZ1U0QnNLYTJuYlNpVGRoMmRCRFNQbEQxbTUwbzRoRkN6aFhiTjlOYlVwLUlCSnhPV3dtS3ZoZElXUEx5OHQ0MlltWUVTbnVnaW02X2RhaGZBc1VLNVRsazJMTVpvQWVrbW12Tk5hd0U5YUlMNw?oc=5",
+              "source": "뉴시스"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "중동",
+          "count": 7,
+          "articles": [
+            {
+              "title": "하늘 뚫린 중동의 다급한 구애… “한국, 천궁Ⅱ 더 빨리 줄 수 없나” - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaYldhVWxtRFh3WDg2cmhFQ01hbFUwV2ZncHBIWkw0R1RjYWZJUjNlSXc4N2ZmYmZmRVJ1MmJZVktKeHZ1Q2c?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "word": "호르무즈",
+          "count": 6,
+          "articles": [
+            {
+              "title": "IMO 총장 “호르무즈 봉쇄 권한 어느 나라에도 없어” - KBS 뉴스",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdmhtV1AySmZxeExTUnQtclFvWkpHc2tYRHQ4Mk9CVWtGWFRqVW9PMlNqSHVUaV9KNDRFbnlHc0pZOV9pdTJram9LVm51bWZSNk44RHhZdWFRMm8?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "세계",
+          "count": 6,
+          "articles": [
+            {
+              "title": "“세계1위의 환상적인 경기력” 조명우, 트란딴룩 제치고 보고타3쿠션월드컵 정상…韓선수 최다 통산 4회 우승 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE12NC1BQ1NvUVA5Y1M4UGE0dGI4YkhyeEt1c1BZaFNkSVh5NVBnSXhaT3BGSFFUeG9BdnZ0eFhLeVE5RFc3WUE?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "구윤철",
+          "count": 6,
+          "articles": [
+            {
+              "title": "모두발언하는 구윤철 부총리 - 뉴시스",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82WDhYTUxyTmN3MXQxNXFJME01SWdWUktIOS1yWDh2dlFzVWxzRnFCUGpHbW5QQzVtenhvY2RpTW9TLTY4WWwyUXJTY2RxLWRfQ2hSOWI3dUlDVHpVTE5hUw?oc=5",
+              "source": "뉴시스"
+            }
+          ]
+        }
+      ]
+    },
+    "IT": {
+      "summary": "북한, 인공지능 연구로 피지컬 능력 강화 추진",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "지능",
+          "count": 6,
+          "articles": [
+            {
+              "title": "인공지능이 스스로 논문 써서 심사까지 통과했대요! - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1VZcW9HVnBrSS1MNEdyUFBUM0Y1QndDRnBwNzU5U3ZENWhCa3IwQ1dna0w3aFk1Wk54Z3BwVjl2WUFKNXQweDdnMFBuYm5UUEwyYWJRTjR4SkJ0Yl9uckRId3JzS2otdTNyRW9fZjEyUFdsa0tSaEN6RVdScU02MXZuelBkRVM5QUJudm5LY2tacThi?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "제주교육청 '인공지능 교육 종합계획' 수립, 본격 실천 - 뉴시스",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2a0xJVFM0OHU1SzNWSmFxWXFMVWVEYUFvdkEwdHk0T2NkVGhwZWktSW9zZkdRTVh0QVg5NDkyOWdjZFFqRnJubmdrOWhBbjRoLUJtZFZVTVBjNGJkRXNlctIBeEFVX3lxTE9yR2x6d0ZrVkFhRWtwZndzR0dWRGFmUEYwZ3FDcEpIQUE2YXByVkJYNnZqeG9SaXZUX1QweTdoWEdueGxwZnd4eUUyUGREWXdCd0NuNHJfVWhJRnB5cVNvU3RJVVFLdmJYamlmSmlVR3VzN0dfV1hybQ?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "“인공지능, 막연한 불안 대신 제대로 알자”... 과천시, 인문학 강연 수강생 모집 - 경기일보",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VSV9QREgwNGo1dWE2ajMtSTlSZ3Q2bkJqWVdUQ0hYUG11THR5aTBidUs2VlEwT0FFbVNUOXVQcDc2NnBFdV9jb1ZIN2N1YU5mTW5PazZGRnJTYWM?oc=5",
+              "source": "경기일보"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "연구",
+          "count": 5,
+          "articles": [
+            {
+              "title": "지씨셀, HER2 양성 유방암 '임상연구 활성화 지원사업' 선정 - MEDI:GATE NEWS",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HWE8yOTR0Yk9ORWdodExGT01CdkZCZWZZREl0UEJ3bEh0Sm9Jc0k3ZEtqaFZ6NkFQQUhndVRLY0lad09BMXVzVE5uRFlvaGtIN1V0VHpMdw?oc=5",
+              "source": "MEDI:GATE NEWS"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "word": "북한",
+          "count": 5,
+          "articles": [
+            {
+              "title": "서로 감시하는 ‘일상의 감옥’… 북한의 삶을 체험하다 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50UlBuNFNHUG5MREF5eGhHVEQwRVZCTm05ZzVrRTdpTnBhODBFdzdIZ2FxU3NCdllZVEJHLVVPS2ZvNVlzQTE4cTNQNVc1dTQ?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "인공",
+          "count": 5,
+          "articles": [
+            {
+              "title": "서울시, 인공지능 도시 청사진 그린다…'AI 기본계획' 수립 착수 - 전자신문",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yVjBBeU1QVjFWS3BSOFZBZm03Y2lMX0dscG42QXJNcWh5V0NpVFVtWEFvQ2MyNkU3WjluU2hueTRjS2RHM2s3T3VNM19ldw?oc=5",
+              "source": "전자신문"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "피지컬",
+          "count": 4,
+          "articles": [
+            {
+              "title": "[피지컬 AI가 제조의 미래다] ①“이제 ‘피지컬 AI’가 현실 세계를 삼킨다” - 전기신문",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZWWFiQkw4THZveVNWQkxiT3Q0UzgwRzQwZk1EVkhtOTlZLUhMMjRYSDA1cDgzUm1VYk9aVkxGNFBMb2RYLThaQUV2NGZUNjhaTnV2YlR2cXBwejQ4Q0VCWDZjOGhnZjRScmdreNIBcEFVX3lxTE1yYkRsOGhucnBZRFlfTjNXdmZiQVMwUlFiSjA3am5ueEhVSmVjZkdSMDNSUTJMSm5ldExDaHZZSzRmejZPRURoMW1fVzNiRi1CMWg0bGwwRWY5Mm04cnRKS0VzcE95SzF5bTRMb01xOWg?oc=5",
+              "source": "전기신문"
+            }
+          ]
+        }
+      ]
+    },
+    "연예": {
+      "summary": "김수미, 콘서트 출연료 미지급으로 사랑받던 이미지 손상.",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "콘서트",
+          "count": 7,
+          "articles": [
+            {
+              "title": "BTS 콘서트에 주문진 버스정류장 외국인 관광객 ‘북적’ - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBld3UxZEt4TDdaUlF4aEJMOEFTXzJEV2VDSEQ4X1BqSG1SeHAxdi0yNmxVTDRKTEFWR1BJMk5WNDd2cjB6WUE?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "유튜버 '과학쿠키' 뜬다…구몬학습, 16일 온라인 콘서트 - 뉴시스",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQRFFYQ3lBakF6OGhFM3dvLXFJSVJwYW85d0hiQ1AyeTVjWjNZcFAyMlZfejZEUjYta3I3TVRpUGVUbmRrN0htODVGM05jZXRnd0RiZ2Qza1NqeTFzOVhQctIBeEFVX3lxTE1hdGx0dGFtN0FhVVF2LUR0c3dJZjBxMFMwYTJPQWNnZEI0OEZrVUs0MVRtUVBSVzZBQXR2czcyZEU4YlcyWldBc2J3WE9veWxuN3lES3ZMdWNvWnowVFVXV2ttUVB0RW1Ockw1QkZCWldiUncwSHBKZA?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "엑소, 6년 만의 단독 콘서트 성료…3.2만명 동원하며 'IP 파워' 입증 - 머니투데이 - mt.co.kr",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuYUpzTFdUbzkzZ0N6SlBJZnJ3M3ZiUk5NbUlLZEtCSGx3NzdXZnM4eHc4OXpvbzdISU1Gb3c0eWNmby1UWGduTW5GLWk5clE5a2RuZHVmbHBmZXRoeFFkVHA0WG9iT1ZU0gFuQVVfeXFMT2FOcG1oTlpaakRMdEVtNWltT2pMZkNzWFpvdi1wT2FkYmRDR25CRjVqaVQzTzdkUmhDcEFsd2pHb1NLMmZvVlhIUUlLRE1uaGhBM3EwbnJGOVFEQnE3M1dEWDdtamY0bEFnM01yWkE?oc=5",
+              "source": "mt.co.kr"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "사랑",
+          "count": 7,
+          "articles": [
+            {
+              "title": "모자 뒤집어쓰고 음악 축제서 애정 행각… 사랑에 빠진 전직 총리 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmdyZ2dlWFlIaV9BVlZMMGEwODhqblFwd3lnX3AwelJEVzNlYkR3NWI4SElNYTNZUDZzS1kyaTg0ZlJtSzgtWFBoUGM5VzJ3ZTZDb2c4WmtFNDE4WlZleUFlb1lpNWNORzJHY1RDaDhBZGdJMGtONkw1YWlCOWZsa0RGVlTSAZgBQVVfeXFMT1ZLcjYwS3FhbDg2WDhPX054T21rd01YNWNzVWZFRlhwQVZhSkRzb3dJOE5fc0NvN19FSURxZWFHWnR4OW1fQXhvY05NRTlkNGx2VmNET2pGWTdFeUpKa3dVeF80RzZEODN0aWJkUmh0b2FLMS1vTWF4WXpmTWxPSzY3b083aTE0V25qRV9Ea3hWSU44YVpaVTA?oc=5",
+              "source": "조선일보"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "word": "김수미",
+          "count": 6,
+          "articles": [
+            {
+              "title": "“2년 전 故 김수미 출연료 지급하라”… 연예협회 성명 발표 - 조선비즈 - Chosunbiz",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0hPT2Z6R3VBNDlDeXpBcjhpYzZ2V0g5ZWhhNUZNMVRCanlNc0swQlZ0SXM1Y0NlRWh4b2ZfMnVFOXJTclZabTV3SkJZU3Nab0J0bzVERFl2UTgzeUZsYkFoSGtscUNLUnB2emJBdWhFVy1MNDhPT2Q0cE5wVElOZDg2QnpPUWJQN1gxOTVB0gGiAUFVX3lxTFAwcmg3aTQwbk5SaTEwVldfTUV3SGlGbXRpeHM0OS1DYkVmYVNFU3FSTHJ2WEZBSzIybmlROUt1eUd3SGItY0lMTlNwZ1Q2a0ZYcXNoREsyUEEwX3ZYa0lMVVZFOVpOQk9rZmctSmRkaExQdWxpWnJwQ1J5Q3VSeFVDTUptdHV2V3FyTTJXVG1mdV8zVENuMkM1ZWh4VWE3aXEzQQ?oc=5",
+              "source": "Chosunbiz"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "출연료",
+          "count": 6,
+          "articles": [
+            {
+              "title": "\"故 김수미 출연료 2년째 미지급…'친정엄마' 제작사 업계 퇴출 검토\" - 노컷뉴스",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzaXc4TFQ3VTExV1YtcEtsSjJVRU9WMEVaY1dlam5sZl9wWlZGU1RFcUxpNERzbk9ja0ItaGxlaFNwSC0tM2szVTdtZ2g3NmNJY0E?oc=5",
+              "source": "노컷뉴스"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "지급",
+          "count": 5,
+          "articles": [
+            {
+              "title": "고유가 지원금 27일부터 지급 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODNfa3FPRmNzdTdkcGxkU3BZSTJNSUVJcktMTXIzS0dEMFFJTExUVVJQLVpvOVBMc083aU4xdHFCWGd3bmlua3AtZGhhNW5aRzRDa1k2TVZxRVVMMzViM3JwSGhzT3NxNzU4Q3ZVWHR5UkVBM25rdVpZaDl2MXlCV1JNUkNMZFo3UTBqeTdn0gGiAUFVX3lxTE1VUGFjWWl4SWJEeS1FWXUtTG0tNkppRVJILWwtRWZsemhyUzFub0NtZzNTN0tORVZndVRBZUJEbEFKdXZrRnZLZmNVQ0s2azBKS1V2LTZ2elJTSDM1YTBWa0oydUNiTnRLREx6d012NHlmZ2FEZFpiMTFrY25MamhuN0YtNUI0Z2MzN0NXbVRmOGRpcVhDZmUyeUJ3M2ZRTDRsZw?oc=5",
+              "source": "조선일보"
+            }
+          ]
+        }
+      ]
+    }
   }
 }
