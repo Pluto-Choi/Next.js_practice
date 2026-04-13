@@ -29,13 +29,14 @@ stopwords = {
     '뉴시스', '감독', '네이트', '포토', '내외', '연예인',
     '연합인포맥스', '아시아경제', '브릿지', '한국경제', '불교방송',
     '헤럴드', '파이낸셜포스트', '지디넷코리아', '경남일보',
+    '연합뉴스', '시사저널', '아이티데일리',
     # IT 노이즈
     '미래', '인사이트', '리포트', '뉴스룸', '핵심', '유통',
     '전략', '도입', '가능', '트렌드', '접목', '전망', '공략',
-    '브런치', '변경', '계열사',
+    '브런치', '변경', '계열사', '기반',
     # 연예 노이즈
     '앨리', '리스트', '싱글', '발매', '미소', '문화', '플러스',
-    '오프', '온', '남자',
+    '오프', '온', '남자', '현장포토', '영상',
     # 형식적 단어
     '개최', '점검', '회의', '공동', '가동', '진행', '추진', '실시',
     '참석', '발표', '논의', '강조', '예정', '확인', '지원', '운영',
@@ -95,7 +96,7 @@ anthropic_client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY
 
 kiwi = Kiwi()
 KST = timezone(timedelta(hours=9))
-yesterday = (datetime.now(KST) - timedelta(1)).strftime('%Y-%m-%d')
+today = datetime.now(KST).strftime('%Y-%m-%d')  # yesterday → today로 변경
 
 # ===== 경제 =====
 print("=== 경제 Top 5 키워드 ===")
@@ -142,13 +143,29 @@ for i, (word, count) in enumerate(top5_ent):
     for a in articles:
         print(f"  - {a['title']}")
 
-# ===== keywords.json 저장 =====
+# ===== 요약 생성 =====
+summaries = {}
+for category, keywords in [("경제", keywords_economy), ("IT", keywords_it), ("연예", keywords_ent)]:
+    summary = generate_summary(keywords, category)
+    summaries[category] = summary
+    print(f"{category} 요약: {summary}")
+
+# ===== keywords.json 저장 (summary 포함) =====
 result = {
-    "date": yesterday,
+    "date": today,
     "categories": {
-        "경제": keywords_economy,
-        "IT": keywords_it,
-        "연예": keywords_ent,
+        "경제": {
+            "summary": summaries["경제"],
+            "keywords": keywords_economy,
+        },
+        "IT": {
+            "summary": summaries["IT"],
+            "keywords": keywords_it,
+        },
+        "연예": {
+            "summary": summaries["연예"],
+            "keywords": keywords_ent,
+        },
     }
 }
 
@@ -156,25 +173,22 @@ os.makedirs("data", exist_ok=True)
 with open("data/keywords.json", "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 
-print(f"\n{yesterday} 키워드 저장 완료!")
+print(f"\n{today} 키워드 저장 완료!")
 
-# ===== 요약 생성 및 Supabase 저장 =====
+# ===== Supabase 저장 =====
 for category, keywords in [("경제", keywords_economy), ("IT", keywords_it), ("연예", keywords_ent)]:
-    summary = generate_summary(keywords, category)
-    print(f"{category} 요약: {summary}")
-
     for item in keywords:
         supabase.table("keywords").insert({
-            "date": yesterday,
+            "date": today,
             "rank": item["rank"],
             "word": item["word"],
             "category": category,
         }).execute()
 
     supabase.table("daily_summary").insert({
-        "date": yesterday,
+        "date": today,
         "category": category,
-        "summary": summary,
+        "summary": summaries[category],
     }).execute()
 
 print("Supabase 저장 완료!")
