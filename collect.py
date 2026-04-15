@@ -85,7 +85,7 @@ def generate_summary(keywords, category):
         messages=[
             {
                 "role": "user",
-                "content": f"다음 {category} 뉴스 키워드들을 보고 오늘의 {category} 이슈를 30자 이내로 한 줄 요약해줘. 키워드: {', '.join(words)}. 요약문만 출력해줘."
+                "content": f"다음 {category} 뉴스 키워드들의 오늘 주요 이슈를 50자 이내로 요약해줘. 서로 관련 없는 주제가 섞여 있다면 억지로 연결하지 말고 '·'로 구분해줘. 키워드: {', '.join(words)}. 요약문만 출력해줘."
             }
         ]
     )
@@ -97,12 +97,23 @@ supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 anthropic_client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
 kiwi = Kiwi()
+
+# 형태소 분석기가 쪼개는 복합 명사 등록
+compound_words = [
+    '인공지능', '머신러닝', '딥러닝', '빅데이터', '블록체인',
+    '사물인터넷', '자율주행', '데이터센터', '가상현실', '증강현실',
+    '피지컬AI', '생성형AI', '클라우드', '오픈소스', '스타트업',
+    '반도체', '사이버보안', '랜섬웨어', '메타버스',
+]
+for word in compound_words:
+    kiwi.add_user_word(word, 'NNG', 0)
+
 KST = timezone(timedelta(hours=9))
 today = datetime.now(KST).strftime('%Y-%m-%d')  # yesterday → today로 변경
 
 # ===== 경제 =====
 print("=== 경제 Top 5 키워드 ===")
-feed = feedparser.parse(f"https://news.google.com/rss/search?q={quote('경제')}&hl=ko&gl=KR&ceid=KR:ko")
+feed = feedparser.parse(f"https://news.google.com/rss/search?q={quote('주식 증시 코스피 환율 금리 부동산')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
 top5_economy = extract_keywords([e.title for e in feed.entries])
 
 used_links = set()
@@ -117,7 +128,7 @@ for i, (word, count) in enumerate(top5_economy):
 
 # ===== IT =====
 print("\n=== IT Top 5 키워드 ===")
-feed_it = feedparser.parse(f"https://news.google.com/rss/search?q={quote('IT 기술 개발 AI')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
+feed_it = feedparser.parse(f"https://news.google.com/rss/search?q={quote('인공지능 AI 반도체 빅테크 스타트업')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
 top5_it = extract_keywords([e.title for e in feed_it.entries])
 
 used_links_it = set()
@@ -132,7 +143,7 @@ for i, (word, count) in enumerate(top5_it):
 
 # ===== 연예 =====
 print("\n=== 연예 Top 5 키워드 ===")
-feed_ent = feedparser.parse(f"https://news.google.com/rss/search?q={quote('연예')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
+feed_ent = feedparser.parse(f"https://news.google.com/rss/search?q={quote('아이돌 케이팝 드라마 영화 배우 가수')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
 top5_ent = extract_keywords([e.title for e in feed_ent.entries])
 
 used_links_ent = set()
