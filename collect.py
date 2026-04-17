@@ -189,19 +189,22 @@ with open("data/keywords.json", "w", encoding="utf-8") as f:
 print(f"\n{today} 키워드 저장 완료!")
 
 # ===== Supabase 저장 =====
-for category, keywords in [("경제", keywords_economy), ("IT", keywords_it), ("연예", keywords_ent)]:
-    for item in keywords:
-        supabase.table("keywords").insert({
+try:
+    for category, keywords in [("경제", keywords_economy), ("IT", keywords_it), ("연예", keywords_ent)]:
+        for item in keywords:
+            supabase.table("keywords").insert({
+                "date": today,
+                "rank": item["rank"],
+                "word": item["word"],
+                "category": category,
+            }).execute()
+
+        supabase.table("daily_summary").insert({
             "date": today,
-            "rank": item["rank"],
-            "word": item["word"],
             "category": category,
+            "summary": summaries[category],
         }).execute()
 
-    supabase.table("daily_summary").insert({
-        "date": today,
-        "category": category,
-        "summary": summaries[category],
-    }).execute()
-
-print("Supabase 저장 완료!")
+    print("Supabase 저장 완료!")
+except Exception as e:
+    print(f"Supabase 저장 실패 (무시하고 계속): {e}")
