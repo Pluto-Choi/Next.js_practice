@@ -1,226 +1,226 @@
 {
-  "date": "2026-04-15",
+  "date": "2026-04-18",
   "categories": {
     "경제": {
-      "summary": "이란 정세 불안으로 글로벌 성장 둔화 우려 확산.",
+      "summary": "달러 강세로 환율 상승 · 금리 인상 우려로 코스피 하락 · 부동산 시장 심화",
       "keywords": [
         {
           "rank": 1,
-          "word": "성장",
-          "count": 12,
+          "word": "환율",
+          "count": 34,
           "articles": [
             {
-              "title": "바이오·새만금·OLED 등 국민성장펀드 2차 메가프로젝트… 10조원 투입 - 조선비즈 - Chosunbiz",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObk5oSkRrOTMyU1NCTVBHYWxaNldoR1lCTXlrRDhTQ2xFcGRHWkhQUjViSS1zYXdiU0c4b21ZZl9KWWluVWFyUmpfSFUzSURsNWFzUkRfTXZPZ2F5WEVTc0RLUWNja2pUUEpfZTVDeWFXaFBQMXJZam5vbWlUYUwxR9IBlAFBVV95cUxOSDhOZm1laUNaQU5JUFR6QlBIa2lMRG5yQVZOMHQ0cXU4cHdzOVNjbEVyRVNBV2d4RDRYal91d1NubUN1LTFVWnJBcG9iYTNEeHJEUGZlZEJVa3dudEcwTGxYRnJVMF9zOXMxVlZwQlRfY1pCb0pyMTQyOFVFZE5NYUU4d3QwZGlWNVYyUDJxR3NETFpF?oc=5",
-              "source": "Chosunbiz"
+              "title": "원/달러 환율 이틀째 상승…장 초반 1,480원 안팎 - 연합뉴스",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZM3c5emxUUy1ScHhJN1psUHdfdVlQVVpSckRoUk9sRHRRck1WMVFhT2pYQ19uT3JFSVpPNFNHNHdmTVRxaDVLNm5TNUxRSzI5NlV3YUp4bk9iMUnSAWBBVV95cUxPN0ZvQWtMUG8yYkZydWM2c3MxV1FqcUxiaEJrUVMxRlJick1uenZvSmRLNElEUEV4UlBrWDdKWU42T3NVczc4am9oeWhFNzlMOTlKXzloLXZhd2RsMGhUREU?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "'두 자릿수 성장' 네이버, '영업이익 급증' 카카오⋯1분기 최대 실적 전망 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wRVh2RzJXREN3ZkdrS1ZjMFVEN09jUHd2QTY1VVI0ZG50MS02ZFRCOXpMcVZma3hDZzRHdk1DMmNrOXhoQ21EV0ROY0xSblk?oc=5",
-              "source": "v.daum.net"
+              "title": "패션업계 덮친 환율 공포…해외사업 환산 손실 확대 - 아이뉴스24",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53YWFvYVhTNk5DV1F1SFNmUUNvSjhvVmwtdG5CeTc0R3Z3eGdZNWl4RFVzU3ROaWZfMWo0SWJNNnZic0JDMkpWdXZfSzk?oc=5",
+              "source": "아이뉴스24"
             },
             {
-              "title": "의약품유통업계 이익률·순이익률 제자리 '성장 질 숙제' - 의학신문",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1makthaFVMdXFjd3JBYXM3dXVhcENuMGlsa0k5ZktPaS16cjdZb2VzelplSl91RlBZdFBzSzZ3bndFLU9nM21IeHU3cVl4a3dYWDBuUTRJNmREMGsyR3FYWG5PUV9GTzd6dmc?oc=5",
-              "source": "의학신문"
+              "title": "민간 해외 투자 늘며…‘경상수지 흑자=환율 하락’ 공식 깨졌다 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTJENHE5Q0kweWZ6S3VmU1Jxc0JiNkVoclljQ0J0VVBQRDBiQ3VvWkY5OElXYnR1Mlg1OVhQRTJNS25zWWxIRmtCR1JKLTBtQjdDaE5ReWdUNjhLMXBRSWVTM29mU2VxNFluZnZfR0FheEpjS09iMFRoWEVEREJFWFREbWdBdGY5SHRPRU1R?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "이란",
-          "count": 6,
+          "word": "코스피",
+          "count": 29,
           "articles": [
             {
-              "title": "미국 부통령 “트럼프, 이란과 ‘포괄적 합의’ 원해” - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84a3NxQklQYmRQSTkxSFJpOG5jRlJPSFlaOG0xM0hYbDZxNjFwaTBqM19wNGUwUnhuSzBVaFNhVnlTSEJLeFhTZWxHbldULVU?oc=5",
-              "source": "v.daum.net"
+              "title": "코스피 하락, 환율 상승 마감 - 뉴시스",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nUjNjT3oxTllqV2NJRURSbkVjVjVHTDFfRTZwcFFaOC1WMXZwMk9tajRtNXZvbVAxem8wM0dxLXJneDlEU3R2aWxKTnZNRnB6Yzc3bjhrR3hjNEZ3VVFBWQ?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "이데일리",
-          "count": 6,
+          "word": "금리",
+          "count": 24,
           "articles": [
             {
-              "title": "\"나도 이사가야 하는데 전세 실종\"...1년 뒤 '부동산 심판' 경고 [만났습니다]② - 이데일리",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTNiNzNqTXY3RGE0MGQ2WG93bi1TMVB5T0wyenZiVUJXZjAyTTgtdE1QN09wTWwyRmdmQTN3UlU2NW9rVHdSV1JHY1k5U0pBOVdkTFdjdTV1LXU4d0NTaVhyRndmMmwzM251UlVfOEhWRGZhcDlPTVBhRHBKOUFWcg?oc=5",
-              "source": "이데일리"
+              "title": "하나은행, 강소기업에 금리·금융 컨설팅 등 종합 지원 - 브릿지경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WMHYyUWlXRFVOZjgzQUZaQk1nOXVBa1JHT3lIUjdVNUR6aUZtVnkzVFNJS085eUZaWDkwNFUzSmdySWVNM3BDOEgzX2VtUzM4ZThVS0h6dmZIdw?oc=5",
+              "source": "브릿지경제"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "주요",
-          "count": 4,
+          "word": "증시",
+          "count": 16,
           "articles": [
             {
-              "title": "배드민턴: 안세영·김원호-서승재 포함 한국 선수단, 2026시즌 남은 주요 경기 일정은? - olympics.com",
-              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1VPaXZwTDlCMjl0XzRvMXZoSGJOZEoySXdrOEZQbHB5RW9RVEh6RWZrVEsyajludEtZc09wdkpLVTVQR0t1Q1A2cm1XVk9RSkNHLVNFaEJnc2l3MWZOdnlHdkVzY1hpN3BJQzhzT0ZUNmJQVEZrTmtIS3N5c2ZPbU5Bb0UzVFhybF9HQk9udUJwMmdrZzZWUTEyd0hvUW1h?oc=5",
-              "source": "olympics.com"
+              "title": "K증시 '쥐락펴락' 외인에 개미 반격…'400조' ETF로 랠리 떠받쳤다 - 머니투데이 - mt.co.kr",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ISGJOb0VTcUZLdmJlVzktTWRwT01hMXNNYVZEenRmTkhHSGdKTGdEalZDVURhYVpwQVFTSHl1WXFTQVN3clNtcUt6QTFPckJvbEhVNlFFay1WcERiVlB3OHhqcjl3NHhy0gFuQVVfeXFMT3Z2MXBoUWd2bVhpVzhkaC1nNG56QzFjYkJCb3NZVjhnYm00Sm1FNTh1ellJRTNtZU13TWtRQm00eTRKWVRaSnpaQ1N5OGptcno2SnBsOEtwSHprZkV4cGJuVWM0TTJWbF9KdGh1d0E?oc=5",
+              "source": "mt.co.kr"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "일정",
-          "count": 4,
+          "word": "부동산",
+          "count": 13,
           "articles": [
             {
-              "title": "[사회경제 주요일정] 생명안전기본법 제정 촉구 외 - 스트레이트뉴스",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kSUozNjRKV1VLcFY3bEFsVHpSSUVndVlrcnFaMk4zVjFFSlJXRzB5d2lITDF5cUJxQUc0RkhDMzYwWTE2WHg0NUR1ZEJjcFRDaFB4T19kUTBwdWU0czVGQTh2Y1d1S29KXzR6Yy1FYjdSWmfSAXdBVV95cUxPNnVlZTlfRzNhaUZIcjdGZVhRajJaYnV5bGNmanlhMmhwQi1WSDM2OUl5QUZyNC05Q0pnRkVTTDR3aGoyek5MY3dSNGljcjFTNmk2S1VKYXcyQUc2OGxsbFpiSGNiWW03WkhMdUY2dTUwdWJHWmxpbw?oc=5",
-              "source": "스트레이트뉴스"
+              "title": "“집 안 산다”… 부자들 돈 빼기 시작했다, 부동산 공식 깨졌다 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lRXVSdXN0V091eTZQYkxKbU9EUklLNlRjdnhiZjdYS0tIazZLZkkxNi1zckNkb1pZeE5vdHRvZFlsQldPQ3c?oc=5",
+              "source": "v.daum.net"
             }
           ]
         }
       ]
     },
     "IT": {
-      "summary": "북한, 인공지능 개발에 박차를 가하며 피지컬 기술 강화 추진",
+      "summary": "AI 칩 수요 증가로 엔비디아 실적 호조 · 국내 반도체 업계 경쟁 심화 · 스타트업 투자 심결 지속",
       "keywords": [
         {
           "rank": 1,
-          "word": "북한",
-          "count": 6,
+          "word": "테크",
+          "count": 46,
           "articles": [
             {
-              "title": "북한, 일본 외교청서에 반발…“핵보유국 지위 흔들어보려는 망상” - KBS 뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tQTZMSVNreF9scTBhT1A1VzFjNWh5c29hQXJtbnVPdFpRWk42SWlMWllWZVBmNG1sQVFjVUMxWnVSQTBTclhsLXNDSUFmaFV5M1o2WnhlOG93MWc?oc=5",
-              "source": "KBS 뉴스"
+              "title": "“13조 태워 179조 벌었습니다”…신의 한수로 잭팟 터뜨린 빅테크들 - 매일경제",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14ZWtmM2JqZUlLUGVkUWJOWGJ6c2hLOEsyeTlGT2hLaXBjUC1FeE00ZWpweW1iUjcxNV83a09MZFhTeU5BV0dkQ3RmVjEwQQ?oc=5",
+              "source": "매일경제"
             },
             {
-              "title": "북한, 김일성 생일 114주년 경축 평양학생소년궁전 종합공연 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0T01ya1RBaFROcTExWU9yVHZrQURoanoyU0xkUHpOOHV5UWp3Mld2eTBsM3dnVUMtSGk4TVVCMDk1QWtsRzJoMFZmVnYyaUU?oc=5",
-              "source": "v.daum.net"
+              "title": "철학자, 인류학자 모시는 美 빅테크 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ1BsTXpMZ1hLZGw3eG5fYlBqVU1tX0EwMWszeDVrVERrTFNMdm1mWjFYc0xtMGRreWNRVmE2OUZycERpNUcwSV82c2JrY2t1M3F6aTk2WXFDakI0dFU0TW4zdVZBVl9pc1FkdTNRYlpLX0NNWmJLRkpnZk9jRUlnSzRwQQ?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "북한, 4·15절 맞아 축제 분위기 조성 - 뉴스1",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90djZlMU9YNkNNSnpjLWliVUVyS0pSMFI0aDcza0kzVHR2eHQyY1I3RFVPcDNxTTNWTDNMUEtpYWZWbl9JTURkdnprdw?oc=5",
-              "source": "뉴스1"
+              "title": "씨엔티테크, '2026 펨테크 산업 육성 사업' 모집…업력 제한 없이 유망 펨테크 기업 발굴 - 전자신문",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CSUxIM3VYUEhQWWhXenNieDgtbXRQUjE4T2tSQ1AxOFpCV0FtSFF1MTc3cVREOF9BOXg5UXhBZ0xCdWVGLThXMWdUMGFOdw?oc=5",
+              "source": "전자신문"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "지능",
-          "count": 5,
+          "word": "반도체",
+          "count": 35,
           "articles": [
             {
-              "title": "“내 존엄성이 먼저”…시흥시장곡종합사회복지관, 인공지능 시대 인권교육 특강 - 경기일보",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBicjhUMXJCOUx1aExrZ1hhQnM5VExEQWVfYkdNcklRam5JdDI2b2I0TTA3WG80Y1d5bFQxV2hldXRLdnhrdFQxOEJsWmtDOHdKb1BkWjBod0poalk?oc=5",
-              "source": "경기일보"
+              "title": "R&D 지표 가른 양산성 확보…장부 엇갈린 K-AI 반도체 - 지디넷코리아",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45ZUNQZllMcDdsWFF6REdVamlSa21qX193SHBOOU9rN0toZmc4UnpkOHR5U1RtZTJaVks3ZURfUXdQcW1aUVBJTnFLaHd4VXRMcVJYbnp3?oc=5",
+              "source": "지디넷코리아"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "박차",
-          "count": 4,
+          "word": "스타트업",
+          "count": 29,
           "articles": [
             {
-              "title": "美 \"농축 20년 중단\" vs 이란 \"5년\"… 밴스, 박차고 나왔다 - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWVBSNzRNQlRwSUJfQmFHRVp6cFNPbXRJYWFVbnVoUV9vRlRIRko1QWdxRmdMUmRIRVF3aUJlbjBXQWpqd0RkNzNCQ012Vy1MZ2Jnb2gxcU5pRU5yb2RQWmYxMmQxNFI4Z2Zhc1ZPSTJ1NFVZTE1qOTl6NWFBS2FOZkJpQkNFcUNSa1dtelNSQ3c5OUtMT0NtSzVBNGV6QQ?oc=5",
-              "source": "조선일보"
+              "title": "한·베·글로벌 연결하는 기후기술 스타트업 투자 플랫폼 열린다 - 연합뉴스",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UcEU2UURMa0VFZlRvWlVpcnZYbHZqWjk4eFZPeGY5cnM5SVJwU29yZDU4Z1gwNDFCMVNkV2JEX0pfTXcxS2tJbTEtSHlHVW8yekhFZWpGTUVaMEHSAWBBVV95cUxNOFJfd04yTWpuMnNiTXJKTUhJRjZYeGVNSUwtdlJNR3I1YjJOV2h5VVRTZEdjQlQ0UjM4VjhKZ1VPMEFERHRMT1VoNFNGN3ozbUg2SkRvRU5QQmJlenFFVFE?oc=5",
+              "source": "연합뉴스"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "인공",
-          "count": 4,
+          "word": "엔비디아",
+          "count": 22,
           "articles": [
             {
-              "title": "인공지능이 스스로 논문 써서 심사까지 통과했대요! - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1VZcW9HVnBrSS1MNEdyUFBUM0Y1QndDRnBwNzU5U3ZENWhCa3IwQ1dna0w3aFk1Wk54Z3BwVjl2WUFKNXQweDdnMFBuYm5UUEwyYWJRTjR4SkJ0Yl9uckRId3JzS2otdTNyRW9fZjEyUFdsa0tSaEN6RVdScU02MXZuelBkRVM5QUJudm5LY2tacThi?oc=5",
-              "source": "조선일보"
+              "title": "[비즈톡톡] “이젠 AI가 칩 설계도 그린다”… 엔비디아, 개발기간 300분의 1 단축 - 조선비즈 - Chosunbiz",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmZIdUxIMDZUZFk5R1pCN2VZbHBsSnZrbWRQMHIzWTFtclRtS3dFMDJxMFFUWWdra3ZsY3BlUU0zN3FxM3VyaGhyZXRKUWhGenRVMkhlRWZ2cUtSaGxpc2l1WkFhRXNFUThWZ1ZidGhrcmVxLTluTHgxbENTRTRhZkVn0gGWAUFVX3lxTE43VWk2U2p3QzNQVnU0Q0NEMExZbEdsS1MxZXF5cUhEU2NxWlZnZjVYRUs2VWhQaWp5QmNZVDlXd3hQd2Jzbk9sem9jcmYwQXNmNktwOXAtQkU0QTZiODNlVUIwT0pjNlhyTGRpN0o0R2MzSDlrZlJZTFNFRUtoR01LVmZ3U0VvTE9semp6N1BFYi00Wl9UZw?oc=5",
+              "source": "Chosunbiz"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "피지컬",
-          "count": 4,
+          "word": "조선일보",
+          "count": 18,
           "articles": [
             {
-              "title": "\"엔비디아 20배 전력효율\"…딥엑스, 피지컬 AI 시장 정조준 - 연합뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00cThDblh5RU1jUVVrRERkRTFmeHRpRm1ySk9tZkdsTmJmRTJvUHliMDVubmJoVXhGTGtwMUlHZ2t5c3NvUEw1WkpNYjdFTTRtZEZQZ1VEUVZsNUHSAWBBVV95cUxNR3MxQ001OGJpT1hMZHNqblhxOHhPb013Qkg3cENOS0s0N1QwM2tUbHBLSUxHLUkxVmZscW5aMVNscGs0VzRJN21CUnZRU253QU1lc1RwTUFjaExUV1QwZ28?oc=5",
-              "source": "연합뉴스"
+              "title": "연임 성공한 시장 31년간 한 명도 없었다, 이번엔 깨질까 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YNEw0RmpONGdNR3Q3a2w5eWJuMk9ia3VTY2cxLW53WGJEd3BRU3RKU0piZ3hnX1N1NVYwVTZSMHJDZF9tMGc?oc=5",
+              "source": "v.daum.net"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "김수미, 드라마 출연료 공개로 통신사 변신 논란 확산.",
+      "summary": "죄송하지만 저는 실시간 뉴스 정보에 접근할 수 없어 오늘의 구체적인 주요 이슈를 확인할 수 없습니다.\n\n현재 날짜와 해당 키워드들의 최신 뉴스를 직접 확인하신 후, ",
       "keywords": [
         {
           "rank": 1,
-          "word": "공개",
-          "count": 18,
+          "word": "아이돌",
+          "count": 24,
           "articles": [
             {
-              "title": "'혼전임신' 김지영, 딸 얼굴 공개 - 뉴시스",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iM20weW1ZbVZkWTZLQndRb1Q4c2dZNFdrV2psM25SRGxiSTdvWlV1Snc4NHRraFpFeVdVVGNlRGJsXzZWY0VlR0xkU0MzYUlfVkpRU2lNWWZ2VEx5VkVmTdIBeEFVX3lxTE9XeFZTYXBuZTY1dG1yWjBzRlY1cWxzb0ktRUFWTWxrdFVaSWpHY25sMm0yVm1OQTAzSUlZZmlpUmpldjV3QWdHTWJrS29wRHJfbFRrOV9YNWRKdTNUUmFiNHR1aHgtNmh5SXJXSWY2eXBsaUYxTUd3ZA?oc=5",
+              "title": "케이웨더 \"세계 첫 날씨예보 AI 아이돌 그룹 '날씨의 아이돌' 데뷔\" - 뉴시스",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1d2J6eTc4VFVlRzJNM3Z6UndXWklSNXUwT19xSi1WUVBma2RGa0QyREsyTnV3eXdHQnIyc2tDdDJWU1hZd2h4SnZSSEdoOF9TSUVNUUJqM3VqdDFPVWRDY9IBeEFVX3lxTFBDQmRZNU1yM3kyMWJWdTBLbFUySlN1UGZmUElVbmZ1R0Z1UUJHVVNDN2tBX2tLVU5aZWE4dEpNU2prYjlBZnNGQ3dDa1IxRjJXRFJLaDRTdmhVVUE2LWo3Qm9OUFJCMUxHZVc1TW51VVJIeDBxUWh2ag?oc=5",
               "source": "뉴시스"
             },
             {
-              "title": "최고기, 여자 친구 공개…\"딸 솔잎이 엄마라고 불러\" - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QVnAwdEd2WHh3cjJqYXFzZmZObWNUQlRiQUF1d0haYlhsUzdaTTRMS2I4SkFUc3E2bnZJTHV2LUVrMzZHZUU0aDlOTEs2YzA?oc=5",
+              "title": "스트레이 키즈, ‘Chk Chk Boom’으로 K팝 4세대 아이돌그룹 최초 프랑스음반협회(SNEP) 싱글 골드 인증 획득 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MTjA1bmxfSnpMSFVxajc2ZnE2WTJ6QlF3X1FHT184Uk0xb0RQYU1tdnhkcldDUjk1Nk1IMEFDS3ROVWZPc3pOVlZaejVSTDA?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "[단독]5조원 지자체 자산 ‘깜깜이 매각’… 심의공개 2.7%뿐 - 동아일보",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNUpzMkFJRHhlRXhjYWZvclhJZjVYUVUyMXhzSy1ZN1AzZWt4RzRqdVE2RzhqU2ZCN3VQZFJ1WXZNelVtRTFDckdxSWkzWWR2bldQaTRTMkZQV1d1MGxaYU9nRXFLcjYtNFZFbGxoYlVHU0U2LWfSAWZBVV95cUxPVWJ1ZEdTRXlCcWp0cEZTOVB2ZnlRZnRIMGRXaEtHUmh4ZFR5OWowQXRKSTRnclljTXFGSHcyUlhIUnY0WC1qb0RhU2kzXzJlZU9RNU5TczFPR2tzT0Q3OTZZVXB2NXc?oc=5",
-              "source": "동아일보"
+              "title": "백예린과 한로로, 아이돌 중심 가요계에서 빛나는 두 여성 싱어송라이터 - 한겨레",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WR0FrX0tUaXNnREdCVEl0M1BObnQ3dFNDeVo1U09ubWQybld5cTd1SjZoN0RxTERWSHBwdFN4Z0VFclRmSUdHNWQ2Z2prS1VkR29MLUFub2drVjktWThWU0FlOTU?oc=5",
+              "source": "한겨레"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "통신",
-          "count": 13,
+          "word": "포토엔",
+          "count": 12,
           "articles": [
             {
-              "title": "한국형 AI 기지국 개발, 통신3사 주도 드림팀 출격 - 전자신문",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oWXNXTURjaklEREt6VTNMV3d3WGUyMXB2TUQzeXN5cWYya3hYcmYtUUpGTWx0RlF3OEh6bmdlYTg5Z2c3dFhFS1JmV2UzUQ?oc=5",
-              "source": "전자신문"
+              "title": "안유진만의 하트 매력 [포토엔HD] - newsen.com",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UcEZHV0lEWnpTOGlvMFRvX20tSGdMaW0xb1BwNENac0tHLTkyQldDVlFxT2k0LWQtYm5wNms3ei1xRk5waXIwdVZrMF84ZldYTEpqRTVIMVlNX3ZlSktuTFBodE1RMXAyZmlzc3NhTmNhQnY1bDd0T2E0dw?oc=5",
+              "source": "newsen.com"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "변신",
-          "count": 6,
+          "word": "대중문화",
+          "count": 11,
           "articles": [
             {
-              "title": "진기주, 정신과 의사 된다… '슬리핑닥터'로 연기 변신 - 뉴스1",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCNlJMZHE3bVNjVlZhcXJkME5LNmlhZlpHdHJZVDJHZmU2N1N0OUV0eDdXYkFmb0hCTlJDVXp6MnRRSmNYcnIyS0RWVG05Z3duLXUzcjY1c1V3WVZyMkk4MA?oc=5",
-              "source": "뉴스1"
+              "title": "[PICK! 이 안건] 김기웅 등 10인 \"대중문화예술에 대한 지원 명분 확보해야\" - 전국매일신문",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96ZnNlUlFVY3hHczF5aHNzbDNSWkZaWUcxZlJwWjRmMklHVlpRM0g3R09jajUxVXgwUkpMMS1QeEFYcTlCenY0Mm5RNjJRQU5HWS02Rl8xV1RrSGNWZFR6NmxMVVFRcUdodHJVUDFn?oc=5",
+              "source": "전국매일신문"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "김수미",
-          "count": 5,
+          "word": "예술상",
+          "count": 11,
           "articles": [
             {
-              "title": "\"뮤지컬 '친정엄마' 측, 2년 전 故김수미 출연료 지급하라\" - 연합뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vaFZKZktMZ2lHQ3h5QkpyOWV4d3kzbUZKRV9lTV9Fb052TTFOTHFqOTZCYWVPb0xoYTZWQldJamptd3h6Y2pvZjhabFU0Yk4xenRLTXdlQ1BJLUXSAWBBVV95cUxNOVVhM0ZtSVZZWlByY1VyUll4eElBS3NVYkczem1JQWdpOXpoNW5DWFR0R21mUjB2YmFDS1d6UHN4cllsV3BiNUJPQTlqd29RbzdzZk5fZkVROWZKRTFLYkI?oc=5",
-              "source": "연합뉴스"
+              "title": "유선 진행 ‘제4회 서울예술상’ 20일 방송···‘대상’ 누수부터 ‘공로상’ 박정자까지 ‘순수 예술의 정점’ - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PbUpnTW1GYUplTkoycjlBNFU2cTZnVlc0dEExeFZzczBFM18waVBuQVFHanRuaHFUTk1VSjBrMGtvTk54QlIxLXNLdzBQZXM?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "출연료",
-          "count": 5,
+          "word": "드라마",
+          "count": 10,
           "articles": [
             {
-              "title": "\"故김수미 사망 2년 지나, 출연료 지급하라\" 연기자노조 등 반발 - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnhpc2pvOVRmaVU1WE1mVDdvd3kwc04tZC05OGhacGVSM05CLU9jcUNoUFRKQ1cwbi1MS3JLSldCRGxubldlWkdybUJpc3FkTnZUc2lXZExXRTJsajZHbUp5NXZFSW1xanpDeXZvd1pDc0VncEJlRGFjNDJRMEk1X09odEFiR2ZPa05xZEczQjM?oc=5",
-              "source": "조선일보"
+              "title": "KBS 일일 드라마 중 ‘최저’ 시청률…’빠른 전개→예측 불허’ 반전으로 반등 노리는 韓 드라마 - TV리포트",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VNmxqOGRZZjMtVUh2NUxvQlgzeEtnanNXU3JpeGhiUm9jTDBsb1djMXdIUV9BOUQ2LV83Q3BCRk42Q2JLWTBfc2tzMERBTFZNRS1BczEwUF90ZE9N0gFiQVVfeXFMTzh6aXBfSWJ6dmt0b3BwZi1CZE5OZnA4MGpfb3B3ZGE5MDBMRnJHZFBKRWR3NUdIcHRuR0xoSm1MdkhUNzlXbWVXcnNyYlJqVDZlXzRVcko1a3VOVXNuWWE1VXc?oc=5",
+              "source": "TV리포트"
             }
           ]
         }
