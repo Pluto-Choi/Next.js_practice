@@ -1,59 +1,59 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "categories": {
     "경제": {
-      "summary": "달러 강세로 환율 상승 · 금리 인상 우려에 코스피 하락 · 부동산 시장 침체 심화",
+      "summary": "코스피 약세 지속, 환율 상승 · 기준금리 인하 기대 · 부동산 시장 침체",
       "keywords": [
         {
           "rank": 1,
-          "word": "환율",
-          "count": 26,
+          "word": "코스피",
+          "count": 29,
           "articles": [
             {
-              "title": "구윤철 “환율, 우려보다 안정돼…시장 기대까지 가야” - 매일경제",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qOUktUVA4Rm9ybENpbHZZNnN3R0NXZlBibVZEd2llR3F0SXgzaWZsYmpKQkdGR29wcTFER0NidWU2ZEVBblo3T0RhN0hXTUVqNlVlRQ?oc=5",
-              "source": "매일경제"
+              "title": "월요일 아침 코스피는?···‘종전’에 베팅한 금융시장, 최고가 기록 다시 깰까 - 경향신문",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qalBvY0duX0ZKdy05XzFnS2xNdG1lNU80MWQ5LUZiRVZQNUJRYS1HMW00MnJqV3llaTNxTGVzRFQ2YjRvXzNpZmlsVUNlZUNhX0VJLW1TVnVvUdIBX0FVX3lxTFBwZGw2dWx0dnpuWXItbE5tMDdSLXROYjIzVXdMX1A2OTZvN3dpWGZ5a04yS2pRM1FxWnJ0T0FqUGcwUUkxbEdLYjB2a0VFenFxNVlSS3ktazhsWTJQeEtv?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "원·달러 환율 1,460원 마감...호르무즈 개방에 따른 유가 급락 여파 - YTN",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FQk44ZUh2QTB1UG91SWJvbHVieEtQSmRZUW1SU2RrMG5UeHJBZ1lMNkRDelVlVEhCSF9KV1lUc0FELVoxd1d4S25lNDI4cU41TGlLNUh2UG50ZUVua3c?oc=5",
-              "source": "YTN"
+              "title": "\"육천피 찍어도 아직 싸다\"…'역대급 저평가' 알짜 종목들 [한경우의 케이스스터디] - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02N082Zk5odXVTeGRrZDRhRTQ3MVh2R3VHM3h4VWh0Y2JrbGYycmJaTWlKaTJCcU5QalZGc04tZ1pyRmlOUXlqYTM3Y0hsa3hQTkxQU1gwWUxId9IBVEFVX3lxTFBhQlF5TUNKaFlKbVR1ZjI0bmhya005UVY2WDJUOFAtQml0U1ZYVmpUZWw2dzcyVEtfRHRFcTVWVWZZSEdaM2hzVlRhT3BrdTRWdkxCcA?oc=5",
+              "source": "한국경제"
             },
             {
-              "title": "역외거래가 변동성 키웠나…역내외 환율 격차 코로나 이후 최대 - 연합뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yVzIzMEdoTkhLaWpLeFVHT0xkOERlVDQxQllMSWpibGdzcmgxWkNiUVpaYWtMZmlRWUFJZFdPLVpYcjA1bHR0NUMwazVsQ1llYi1DMWVGemVmNlU?oc=5",
-              "source": "연합뉴스"
+              "title": "중동 혼란에 코스피-환율 ‘호르무즈 널뛰기’ - 동아일보",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDWGZOdm5ET1R4LU4wX1VabmhDVFJsWmZuczVlVmJJcjc1VkswSk0xS1NzeDRjZlhXZ3ppOVczdGxzem1HcDhnTG9fVWZndVo4dHY1b001WDdaUkt3OVNSYVJ5M0lHRzY2SVNzek5HQ0hXdEtzTGfSAWZBVV95cUxORlY5TFdJeXQxbUM2eUk3N19Dbl8zWWFpMTVSUDFEN244RzNDRnZ0LU1oaGg1UVZRdGRVcGJDMEJDN3pHcm82UmlUUmtqdFdfMm5GdzlaRzhIbXlIcm8weFdZbDdPLUE?oc=5",
+              "source": "동아일보"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "코스피",
-          "count": 26,
+          "word": "환율",
+          "count": 27,
           "articles": [
             {
-              "title": "코스피 폭락하자마자 '싹쓸이'…실탄 장전한 큰손들 향한 곳 - 한국경제",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kQ1NaQTFkb0d3WWxlYlVHMGZlNmtDSGFyOWNzVzZsOWdzNGwyZXhoaExFU0xfVDlmRWRJZUdueUFLcWh6RmdRVjQ1TEJzVWtnc2E1RWpnRTBfUdIBVEFVX3lxTE9nUkhUQmUwZXZzaVlLQnRMLUllMnV2cERJZXM2TkJKUllJZS13YmxoX1pRYnZtaDBEaEhOa1ZYeExkSGt3VUVrQ0ZjTFNqN3djM2VuSA?oc=5",
-              "source": "한국경제"
+              "title": "‘중동發 뉴스에 요동’ 역외 거래서 변동성 커진 환율...“꼬리가 몸통 흔들어” - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclhXM3FUcjdQTGR4alNZN1M0T2V5NUs1Y3FzYTdYeGFxcjZYR2NJVzhwUkstQkVEM1l6V2p2RzJQTlhuOFE3ZGtNUTJtaUREaTZBOGJvWlBWLXFuMmdQTnNuOWNyS3JmMGVtQ3BGUnpNTk12SUhmOHM0MUdwSjlOWEpBWG9pTU11QVZsRkN3?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 18,
+          "count": 22,
           "articles": [
             {
-              "title": "'반등열차' 아직 못 탄 금값…전쟁 후 금리 인하 시점 '상승 기대' - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03U1g4UW9BRWFuU3V2amlLc092LXFmSi02TGRPWkc0dmlzY0YzbHhCZVNiUWRrR1JncTd1RHFaa3NHMHVnYUMzZjI2bFhzTFE?oc=5",
-              "source": "v.daum.net"
+              "title": "주담대 상품간 금리 격차 두 배로...규제가 불러온 대출 불균형 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFB6VV8tUEUya2NlU3dJcnFtWkJwdG96RUJTd0t3OHFCUktwZjdFa3lmSXJtOWRpVjZ0eFhhMjZhU2RTZFVLQlZLN2ZOYnIybDVseFZzU3EtRHpsY0hWRW9acjhGYnM3MmNUYVdQaFBCZjZ3VGVGQUZ0ZXUtcWxnWkJWekNhVHNFb05fc2lB?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 4,
           "word": "증시",
-          "count": 13,
+          "count": 18,
           "articles": [
             {
               "title": "K증시 '쥐락펴락' 외인에 개미 반격…'400조' ETF로 랠리 떠받쳤다 - 머니투데이 - mt.co.kr",
@@ -65,24 +65,24 @@
         {
           "rank": 5,
           "word": "부동산",
-          "count": 11,
+          "count": 12,
           "articles": [
             {
-              "title": "단숨에 2억 ‘쑥’...세입자 ‘비명’ [김경민의 부동산NOW] - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoaTZETGhibGszdHBWS18yQ29wTGQzdVhIODZheDJTYUpoV2VvVnBaaFBVME5xR3NNOFJOcndhN0VNSkhTQl9YYXVPT0t2eEE?oc=5",
-              "source": "v.daum.net"
+              "title": "인천 부동산 불법영업 수두룩… 감독 강화 ‘시급’ - 경기일보",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9udy1fQTBxLVoydTFXWGdPREE0OVM0RHAyRGtSYnZXVXdDVzB5NVNQVURwU0dCdHNKUG43Yk50Y045QWM0aDhJQURtZGp1ZzFpY29mdWczQ2JjQjQ?oc=5",
+              "source": "경기일보"
             }
           ]
         }
       ]
     },
     "IT": {
-      "summary": "퓨리오사AI가 AI칩 경쟁에서 엔비디아에 도전 · 반도체 스타트업들의 기술 혁신 가속화",
+      "summary": "엔비디아 AI칩 수요 급증으로 반도체 업계 호황 · 테크 스타트업 투자 심화",
       "keywords": [
         {
           "rank": 1,
           "word": "테크",
-          "count": 41,
+          "count": 44,
           "articles": [
             {
               "title": "“13조 태워 179조 벌었습니다”…신의 한수로 잭팟 터뜨린 빅테크들 - 매일경제",
@@ -104,43 +104,31 @@
         {
           "rank": 2,
           "word": "반도체",
-          "count": 31,
+          "count": 32,
           "articles": [
             {
-              "title": "\"18일 파업하면 30조원 손실\"‥삼성전자 노조, '반도체 차질' 경고 - MBC 뉴스",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkNXRPODVJMEZlLUtXMV9zYXByN3ROdUVpR1hYRElIN0NkSGstNEt1YVpxbnBHNFhtYWVRQjFfeTlCbVVjM2lFZllQdHdUNVFrZ19Wd1dPdDNKV1RWNTZOcmZZY2gtaGNSVTNJYnVPb3RUNHRheEpYZtIBeEFVX3lxTFBvVEdhSW5YTHkxdFdHMzE1YVdGdld5TU5YdVRyRFVsaXROTDJXeW5LX1VWdTR4SlItWEhMLXJTeFNnZ0JVNlZFMnZOd00zLUx6RWFXaVBGZGpJRDlOV01rVWplX1lKcHlhVmpVcHFLa3lhc1duUU9TVw?oc=5",
-              "source": "MBC 뉴스"
+              "title": "반도체株, 아직 끝나지 않은 이유 - 한국경제TV",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0Nlk3ZEhIZURsRldMZ3JCVXJ2S243T2VWYUU2eFlqQXh3RlIzZjlPeTRDOHIzVkprajRBWHpsVzZDUG56SlJsUW41WF9ySlNfUGFQNGJkVGh5SFNjM0FUZk1BeEl6SWEyWkUtNFhBY1V5QmlrM2FJ?oc=5",
+              "source": "한국경제TV"
             }
           ]
         },
         {
           "rank": 3,
           "word": "스타트업",
-          "count": 22,
+          "count": 30,
           "articles": [
             {
-              "title": "부산 스마트해양 스타트업 키운다…액셀러레이팅·AX밋업 - 뉴시스",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MYVJqbWZfdlJmcW9zMjVXMGk5ck5FLUpFTGU1eEhIREt3Vy1IRTRhWHBNbk9iTmhETmN3NE5SWEltV3lsdzFQUHRhLXhBUURaZER6V0hKSmxzZzJBc1lfONIBeEFVX3lxTE5XVjZndEV5akM1TEJ2TzZqcTNDcGl0cElTa3lSelNFLXExRlRNMk9DcHdvYk5xN0J5c3hVOWlZTTZBTlRyVUtjcEtfYUFjdWg2OEtvNThiR0VJdlZVM3pJZzFDTnFIWFJrelU5QkdxMkMyMC14OTlnVg?oc=5",
-              "source": "뉴시스"
+              "title": "한국 스타트업 창업자들이 말하는 미국 진출 전략 - 동아비즈니스리뷰 | DBR",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0hyWGo2TEhLbVBjenpHaElEUGpSTTBOZWFiOUhQUUo4QjgtaTdMMjZQNFp2UkVMN1dXYWtpR2J4YVFqd1BVTmlXRGROTFJxX2k2RHpmR2ttX3djV0NWSU1rblZHTlI5Mi1qNTloVWF6MUtZaFFfellrR3ZiaTNYQW5TTno4UHM?oc=5",
+              "source": "동아비즈니스리뷰 | DBR"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "퓨리오사",
-          "count": 18,
-          "articles": [
-            {
-              "title": "수천억 적자의 역설… '회계 착시' 걷어낸 K-팹리스 진짜 체력 - 지디넷코리아",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxdWFCaUMtLVZNb0p6aFd5TzFiYkdfR2VQdXpxVjJyN3JMNHloanhPcEVHVHZMU1dNMmhWYUl5WlpxNUhkT3Rib24zVlU3WjdmNHBIZ09B?oc=5",
-              "source": "지디넷코리아"
-            }
-          ]
-        },
-        {
-          "rank": 5,
           "word": "엔비디아",
-          "count": 17,
+          "count": 23,
           "articles": [
             {
               "title": "[비즈톡톡] “이젠 AI가 칩 설계도 그린다”… 엔비디아, 개발기간 300분의 1 단축 - 조선비즈 - Chosunbiz",
@@ -148,11 +136,23 @@
               "source": "Chosunbiz"
             }
           ]
+        },
+        {
+          "rank": 5,
+          "word": "조선일보",
+          "count": 18,
+          "articles": [
+            {
+              "title": "외국인에 물값 2000원 따로… 광장시장 또 바가지 논란 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5YmZ1NUJPTGFOcFJGNHNqaFQtWXVnYUZ6Nmk4b3lXZ21HWE5KZ3ltLVhGLUNQUThVM3VkNjFZZDBaQkxqRVdhU2VONWVfNUU?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
         }
       ]
     },
     "연예": {
-      "summary": "아이돌 그룹의 새로운 앨범 발매 · 포토엔 전시회 개최 · 예술상 시상식 개최 · 배우의 신작 영화 개봉",
+      "summary": "아이돌·배우의 활동 소식과 포토엔 이슈 관심 증대 · 대중문화·예술상 시상식 개최",
       "keywords": [
         {
           "rank": 1,
@@ -160,9 +160,9 @@
           "count": 24,
           "articles": [
             {
-              "title": "“사랑에 빠졌다” 정치아이돌 등극한 멕시코 마약소탕 영웅…대권까지 넘보나 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uUGdlQUtENjZKaEs3a0hfVUY3bFBDTFJTVGpiTU1KYXZBTzdYdFE1MWQ3a2I2b3JZWl9XUFVERzFZY2xGNTRDM2xiOXJrTUk?oc=5",
-              "source": "v.daum.net"
+              "title": "투어스, '불후의 명곡' 새 역사 썼다…아이돌 최초 첫 출연 '올킬' 우승 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlo1LXVZSjl0YjRwYWpZVUFXVktwWjJyN19jNFVqMXVWYUpKS0FiUWpsMFJQYnBpaXROUzc0U0l0ejVYVzhiX2tLQll3NkVxdWZBRzNlSnp1am54cl8zQ0ZvLVVEOWVaSXRjY0FCYnNWTU9MazBKcjhwVUZzM3FtSXh3R0lLZFlLc25jZDl2UQ?oc=5",
+              "source": "조선일보"
             },
             {
               "title": "'승리의 여신: 니케' 3.5주년…아이돌로 돌아온 아니스 - 연합뉴스",
@@ -170,57 +170,57 @@
               "source": "연합뉴스"
             },
             {
-              "title": "효연, 아이돌 최초 숙소 20년차..\"SM=제2 엄마, 수익 없으면 눈치보여\" (할명수)[핫피플] - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0F1enFNTVVCcGNTZElhTFIxeHlmVTNLMVdPZ1NpN1dta3M4dHBVeXg3cFFuR0prM2x4VE5pMUZ6TjlnMU5LMHdPRTlGSXYxbnZOY1pGZk1aU2o1NkFTa3N4eVFDNEtzOVplR0ZJQ09sVmkxMlQwMnBweUdTMHMxVTVJU2ZGUXpnNnRtVGxSSQ?oc=5",
-              "source": "조선일보"
+              "title": "'뱃살' 아니었다…2.5세대 女 아이돌, 비키니 입고 인증한 2세 '파격' - 네이트",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfcFZwX0RveGZlb3k2TnZ5WjV2QzNncVc0bFJsdzVCUlozUWxnU0RSRzNBX2gtN3BucXlzUmZTakZCM1k5ZW51RGY2ZGVtTEI3Vmxv?oc=5",
+              "source": "네이트"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "포토엔",
-          "count": 13,
+          "word": "배우",
+          "count": 9,
           "articles": [
             {
-              "title": "BTS 슈가 ‘스치듯 지나간 멋짐’[포토엔HD] - newsen.com",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zWWxLWDJGVDZicG9SdXRVTlFQRUVXeXNJSGFUMGdEdUN6dTFQMy1pVXZCb3I0dWp6c3Q0bXY1R2ZTZ2VKdFk0Ry1wOWlmaVZueGFJTGZoOV9SNTAzVkdIZ3Fkd1I3UGR6?oc=5",
-              "source": "newsen.com"
+              "title": "‘흥행 보증’ 배우 5년 만에 복귀→개봉 일주일 남기고 관객 반응 뜨거운 韓 영화 - TV리포트",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQdVBOWHlsUklxSVdPSk9UZFVGYXNqbW5kdXpQZ0lJQ3Vmd0hmWGZKeExFaURqSU1nMGV6TE5sZTNBX0U2RTB5b0l0OUNfNzlzM1BReVZPM0llSkNk0gFiQVVfeXFMT1o2d1BENGl0QXVsLUp6alVHQUJLdzRTUlRtcUZDNDZHRlhZcEFIUEV0eTgycjREWExTQ3d3Y2JrRmlkOFQ5U3RZeTNWYjFxXy1EdTZRdDJXcnZwREpTTGZpVUE?oc=5",
+              "source": "TV리포트"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "대중문화",
-          "count": 13,
+          "word": "포토엔",
+          "count": 9,
           "articles": [
             {
-              "title": "연등회 외국인 서포터즈들, 템플스테이로 하나되다 - 현대불교",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHV3VGa2JqLW5KQWpkZ2RXVmNZSXRiYXY3VnF5MlZKS1dPOHVTVUFZbGJvSFhCemE0dVpNTDRWWTBVcFliMUpKQ0xjVHU0YXl6Qzk2Mkt0WnBLRnlDWmFXVHRRNDZERm1BdktESjVzdw?oc=5",
-              "source": "현대불교"
+              "title": "에브라, 자신감이 넘친다 [포토엔HD] - newsen.com",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jLWZSWGplYmtBOV9sa2hZTFJRcHJjRnlSaTVZQmJqRFY5SktQREhINjJXWjVjTnJaTVo1Y2I1eDZHUjVEQUlNUV83eTRNUnA5MUM5ck5mXy1SemN2OEt5cDZGbHBqOWtm?oc=5",
+              "source": "newsen.com"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "예술상",
-          "count": 13,
+          "word": "대중문화",
+          "count": 9,
           "articles": [
             {
-              "title": "더프리뷰 서울, 컬렉터 주도 예술상 ‘리아트 어워즈’ 첫선 - 서울신문",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWeGdWV0JmYU1WMVh5X01ZYlR5bmM0S0t3eXc4S01scGVPWjRWd082VDltcnRwVU5fbWg5UWFvdGJTdTNsNUNJM0wxSlN1RXQ0YjNJTlFfTVdHbS1tOXl6QTR3aXdfQ0tONlZUSUxoQQ?oc=5",
-              "source": "서울신문"
+              "title": "[강대호의 대중문화 읽기] ‘21세기 대군부인’이 소환한 전근대적 판타지 - 오피니언뉴스",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aRlJabTVDT2FHVlUwRTExUmx0VFdlazY0eFN2cVluYXFMV3N1TE4xaVp6eFBxMkU3dUM0WFFxU1RXenF3UkgyYnItQzJEdFc0T2E2QVZGS3JiQUJnbWpxQ1hpajA2WlhCUmJkWURieUttZw?oc=5",
+              "source": "오피니언뉴스"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "배우",
-          "count": 10,
+          "word": "예술상",
+          "count": 9,
           "articles": [
             {
-              "title": "'55세' 고현정 미모, 메릴 스트립도 놀랐다..“너무 아름답다” 극찬 [순간포착] - osen.co.kr",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GeDllWjhVN2FmZHJ2NmFrT1RZZ0RQbHJrY0paNFBtbThTQ3dYaXBnSVlLekdWQ3BsSW1wMktDMEsxZEQya1ZiX1NsaTZybUNIMDVZ?oc=5",
-              "source": "osen.co.kr"
+              "title": "휠체어 무용가 김용우씨, '제4회 서울예술상' 특별상 수상자 선정 - 에이블뉴스",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFbkN4Q0ZJWFZJR081OVU4X3lTQkstSUppSjA4bW1qUXB3M2xPeHZ3b1lOZ052RkVfZldCLS1aY2ZydUJ3c09tTWRyaE41RUJfNGJQeGV2c1Y1Skx1U3lRbGN1RlJSWTNBaU9nNmVR0gFyQVVfeXFMUF93REMwRkFqZllQT1VYeHpUUnQxX0twNXVjVVBVdGhWSzJBSXVSSDJyT2VUTVZDOF8xTVJsLWs1OFgtSHlFd05Rd3puU3hCUjd6dWJpX196SVJNbjMxT3dDS2tPRTBXV01EN05aQThSeUpn?oc=5",
+              "source": "에이블뉴스"
             }
           ]
         }
