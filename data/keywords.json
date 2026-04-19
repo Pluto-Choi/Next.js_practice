@@ -2,63 +2,63 @@
   "date": "2026-04-20",
   "categories": {
     "경제": {
-      "summary": "코스피 약세 지속, 환율 상승 · 기준금리 인하 기대 · 부동산 시장 침체",
+      "summary": "달러 강세로 환율 상승 · 금리 인상 우려 속 코스피 하락 · 금리 인상으로 부동산 시장 위축",
       "keywords": [
         {
           "rank": 1,
-          "word": "코스피",
-          "count": 29,
-          "articles": [
-            {
-              "title": "월요일 아침 코스피는?···‘종전’에 베팅한 금융시장, 최고가 기록 다시 깰까 - 경향신문",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qalBvY0duX0ZKdy05XzFnS2xNdG1lNU80MWQ5LUZiRVZQNUJRYS1HMW00MnJqV3llaTNxTGVzRFQ2YjRvXzNpZmlsVUNlZUNhX0VJLW1TVnVvUdIBX0FVX3lxTFBwZGw2dWx0dnpuWXItbE5tMDdSLXROYjIzVXdMX1A2OTZvN3dpWGZ5a04yS2pRM1FxWnJ0T0FqUGcwUUkxbEdLYjB2a0VFenFxNVlSS3ktazhsWTJQeEtv?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "\"육천피 찍어도 아직 싸다\"…'역대급 저평가' 알짜 종목들 [한경우의 케이스스터디] - 한국경제",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02N082Zk5odXVTeGRrZDRhRTQ3MVh2R3VHM3h4VWh0Y2JrbGYycmJaTWlKaTJCcU5QalZGc04tZ1pyRmlOUXlqYTM3Y0hsa3hQTkxQU1gwWUxId9IBVEFVX3lxTFBhQlF5TUNKaFlKbVR1ZjI0bmhya005UVY2WDJUOFAtQml0U1ZYVmpUZWw2dzcyVEtfRHRFcTVWVWZZSEdaM2hzVlRhT3BrdTRWdkxCcA?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "중동 혼란에 코스피-환율 ‘호르무즈 널뛰기’ - 동아일보",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDWGZOdm5ET1R4LU4wX1VabmhDVFJsWmZuczVlVmJJcjc1VkswSk0xS1NzeDRjZlhXZ3ppOVczdGxzem1HcDhnTG9fVWZndVo4dHY1b001WDdaUkt3OVNSYVJ5M0lHRzY2SVNzek5HQ0hXdEtzTGfSAWZBVV95cUxORlY5TFdJeXQxbUM2eUk3N19Dbl8zWWFpMTVSUDFEN244RzNDRnZ0LU1oaGg1UVZRdGRVcGJDMEJDN3pHcm82UmlUUmtqdFdfMm5GdzlaRzhIbXlIcm8weFdZbDdPLUE?oc=5",
-              "source": "동아일보"
-            }
-          ]
-        },
-        {
-          "rank": 2,
           "word": "환율",
-          "count": 27,
+          "count": 31,
           "articles": [
             {
               "title": "‘중동發 뉴스에 요동’ 역외 거래서 변동성 커진 환율...“꼬리가 몸통 흔들어” - 조선일보",
               "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclhXM3FUcjdQTGR4alNZN1M0T2V5NUs1Y3FzYTdYeGFxcjZYR2NJVzhwUkstQkVEM1l6V2p2RzJQTlhuOFE3ZGtNUTJtaUREaTZBOGJvWlBWLXFuMmdQTnNuOWNyS3JmMGVtQ3BGUnpNTk12SUhmOHM0MUdwSjlOWEpBWG9pTU11QVZsRkN3?oc=5",
               "source": "조선일보"
+            },
+            {
+              "title": "미국·이란 전쟁 협상에 '촉각'…환율 1400원 후반대 박스권 맴도나 - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QcFdGZ1RqN1F3d0Q2aUJkWks4bWpkeVQ1dWxCZW9DT0JVcFhYRldkcTVZTS1yVC14WWRldUFoM0ZqcUNzbXZOVTJjTFE5czdJcGV5cnFMRzZqQdIBVEFVX3lxTE5JY3ZvLUtsM1ZnWHZaR29hNk5nMnJqUEF5S2xYSlVaTHNGOE1IMXR6VzVrZEhWM09NRGJZVkhJb1hNeWdrczVSLXRoX3JwZmZWV2tmeA?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "\"또 되돌려진 휴전 낙관론⋯1470원대 후반까지 반등 시도\" [환율전망] - 이투데이",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xenJ5aEJlblVYWXI3d3Bsb3dISlVuQlRyTmp0cEM2ZjdDTmJoMWlzV1RfNUFqX1BTWDlTRXJ5dnc1MHRnRUxjUnUxZjh6YVE3N0dqSA?oc=5",
+              "source": "이투데이"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "코스피",
+          "count": 30,
+          "articles": [
+            {
+              "title": "월요일 아침 코스피는?···‘종전’에 베팅한 금융시장, 최고가 기록 다시 깰까 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52NTBHdmdFYUEtaHFqMlRMNk1iYjNwSUhFRXJkQmlJV1VMcS1LTFY0a0Y2NG8yT0lfVkZ4VXpYUmRZTnhHX0F3MzFQWkxXT1U?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 22,
+          "count": 25,
           "articles": [
             {
-              "title": "주담대 상품간 금리 격차 두 배로...규제가 불러온 대출 불균형 - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFB6VV8tUEUya2NlU3dJcnFtWkJwdG96RUJTd0t3OHFCUktwZjdFa3lmSXJtOWRpVjZ0eFhhMjZhU2RTZFVLQlZLN2ZOYnIybDVseFZzU3EtRHpsY0hWRW9acjhGYnM3MmNUYVdQaFBCZjZ3VGVGQUZ0ZXUtcWxnWkJWekNhVHNFb05fc2lB?oc=5",
-              "source": "조선일보"
+              "title": "빅딜 성사된 삼성SDS, 제로금리 CB를 향한 아쉬움 - 네이버 프리미엄콘텐츠",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3ZXRFNfbGg3aVdZNElURlBRSjRPNGNmZncwdTBoeF9GOENETi15X2E1dHVHRTZUSmpIYzVDdnluRVNnSDAteVNzMDJlLXdXUG1XNExua09mTjc3eERxY2I0SFF3M3lIb0VGblBnT3g1TnVxQTJFMW9JeDNDclFBZg?oc=5",
+              "source": "네이버 프리미엄콘텐츠"
             }
           ]
         },
         {
           "rank": 4,
           "word": "증시",
-          "count": 18,
+          "count": 16,
           "articles": [
             {
-              "title": "K증시 '쥐락펴락' 외인에 개미 반격…'400조' ETF로 랠리 떠받쳤다 - 머니투데이 - mt.co.kr",
+              "title": "K증시 '쥐락펴락' 외인에 개미 반격…'400조' ETF로 랠리 떠받쳤다 - 머니투데이 - 머니투데이",
               "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ISGJOb0VTcUZLdmJlVzktTWRwT01hMXNNYVZEenRmTkhHSGdKTGdEalZDVURhYVpwQVFTSHl1WXFTQVN3clNtcUt6QTFPckJvbEhVNlFFay1WcERiVlB3OHhqcjl3NHhy0gFuQVVfeXFMT3Z2MXBoUWd2bVhpVzhkaC1nNG56QzFjYkJCb3NZVjhnYm00Sm1FNTh1ellJRTNtZU13TWtRQm00eTRKWVRaSnpaQ1N5OGptcno2SnBsOEtwSHprZkV4cGJuVWM0TTJWbF9KdGh1d0E?oc=5",
-              "source": "mt.co.kr"
+              "source": "머니투데이"
             }
           ]
         },
@@ -77,7 +77,7 @@
       ]
     },
     "IT": {
-      "summary": "엔비디아 AI칩 수요 급증으로 반도체 업계 호황 · 테크 스타트업 투자 심화",
+      "summary": "엔비디아 AI칩 수요 급증으로 반도체 업계 호황 · 스타트업 투자 심화로 테크 생태계 확대",
       "keywords": [
         {
           "rank": 1,
@@ -90,9 +90,9 @@
               "source": "매일경제"
             },
             {
-              "title": "엄마 폰에 ‘앱테크’ 해주세요... 한 달에 2만8200원 법니다 - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVHRIb3ludlFaM2xZVWZuZkJWbFRvRW1iTkpPS0lkZ0ZJMm1aQVVHaVoteG5jOHlnOHFCcExWSjhmM1dQSzVuVnhNQnhybGd5MWE2SmpIZGZvNHpDZ1AxWUVmR3JMMm1RUzRKWjY2QTFGbTRwVWFWZGVyYk1uWDZvU2tuLWVPdXJlQkc0?oc=5",
-              "source": "조선일보"
+              "title": "‘금테크’ 열풍에 골드바 품귀… “개당 2.6억원 1㎏짜리만 남아” - 조선비즈 - Chosunbiz",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzY1cUNiZzZ5dl9GeU1qZnRpQnlOcFljdXVOSUpwUXFmTnZvUG5STUJpNF9nM2tlOGVENEVxU0gyWU5mNm9mV3ZBa0dwT2h6cUl0Y1BVaVJXTWVfSDR6S0pWZXJ6YTg1UldLUmMtaGh2anNZWDVFTXFNZS15YTFjSdIBlAFBVV95cUxQV0U5YTllSFpLbHc5eUtId1dUZVQyejFaWTdNVFdKbkpSQTNJNmRvZkt3LVZDdnFKcWZtSk9KQUZVaUFEdkNOVUR4ZTh1V2g5LTl2VXJVTHQ1ZEQyLWhTeWs1VlVWWnVjcVJ5QlFMbmxpX3hwbW9aYUtTMElZYkE4cjdORERkUmlCdW4zMjJvNXI0dVFX?oc=5",
+              "source": "Chosunbiz"
             },
             {
               "title": "[미리보는 WIS 2026] 〈하〉 밍글링존·IR데이·엔터테크 서밋…사업화 플랫폼으로 진화 - 전자신문",
@@ -104,12 +104,12 @@
         {
           "rank": 2,
           "word": "반도체",
-          "count": 32,
+          "count": 38,
           "articles": [
             {
-              "title": "반도체株, 아직 끝나지 않은 이유 - 한국경제TV",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0Nlk3ZEhIZURsRldMZ3JCVXJ2S243T2VWYUU2eFlqQXh3RlIzZjlPeTRDOHIzVkprajRBWHpsVzZDUG56SlJsUW41WF9ySlNfUGFQNGJkVGh5SFNjM0FUZk1BeEl6SWEyWkUtNFhBY1V5QmlrM2FJ?oc=5",
-              "source": "한국경제TV"
+              "title": "[사설] \"메모리 반도체 호황에 취했다가 대만 하청 국가 된다\" - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYkdSSkZtbDJhQnJZcFRJR09sMzg0TVlWSDFkYjNEUVZJbzVLNTJodkVUemdBaF9ZcGw3YXJ5WXBtVUFnYS1oUHFmUHpxMGF3bjMyUzBWU25ndk9mTzVhS2hJZi16V3hyc2Q2alhLdFZ1a05KNGJSSW1MeXFoRnV2NGo4T2xkZw?oc=5",
+              "source": "조선일보"
             }
           ]
         },
@@ -128,99 +128,99 @@
         {
           "rank": 4,
           "word": "엔비디아",
-          "count": 23,
+          "count": 19,
           "articles": [
             {
-              "title": "[비즈톡톡] “이젠 AI가 칩 설계도 그린다”… 엔비디아, 개발기간 300분의 1 단축 - 조선비즈 - Chosunbiz",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmZIdUxIMDZUZFk5R1pCN2VZbHBsSnZrbWRQMHIzWTFtclRtS3dFMDJxMFFUWWdra3ZsY3BlUU0zN3FxM3VyaGhyZXRKUWhGenRVMkhlRWZ2cUtSaGxpc2l1WkFhRXNFUThWZ1ZidGhrcmVxLTluTHgxbENTRTRhZkVn0gGWAUFVX3lxTE43VWk2U2p3QzNQVnU0Q0NEMExZbEdsS1MxZXF5cUhEU2NxWlZnZjVYRUs2VWhQaWp5QmNZVDlXd3hQd2Jzbk9sem9jcmYwQXNmNktwOXAtQkU0QTZiODNlVUIwT0pjNlhyTGRpN0o0R2MzSDlrZlJZTFNFRUtoR01LVmZ3U0VvTE9semp6N1BFYi00Wl9UZw?oc=5",
-              "source": "Chosunbiz"
+              "title": "엔비디아 데이터센터 짓는다고? '주가 폭등'…떼돈 벌 기회 놓쳤네 - 머니투데이 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLaDZhTTlOVktsX0hyN3hVY1ctRGN2WUJhOXpYQmN2OXhPRUNhQW1ibHdhZkN3RGNlajlKMVV6ZzU4U3c0eTZuTU5zZF96R1pjcGVvbnlqOF9Cc0VEZUFEV0E1cTNrSlFt0gFuQVVfeXFMTXRLM1gwa1dUc0NLakFCbWdhY3Z0MldCSXREcHJxWDJoUUdoZDVJVm94SThLbkVnOUsyakZLMGpXNTJlYTN5RE42bDJKZHdCMG9ZZTNBWDhuN3piek51T043SFhOVXhJNDI4Sll6RGc?oc=5",
+              "source": "머니투데이"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "조선일보",
-          "count": 18,
+          "word": "투자",
+          "count": 17,
           "articles": [
             {
-              "title": "외국인에 물값 2000원 따로… 광장시장 또 바가지 논란 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5YmZ1NUJPTGFOcFJGNHNqaFQtWXVnYUZ6Nmk4b3lXZ21HWE5KZ3ltLVhGLUNQUThVM3VkNjFZZDBaQkxqRVdhU2VONWVfNUU?oc=5",
-              "source": "v.daum.net"
+              "title": "\"삼전닉스 담았고 그 다음은…\" 고수들 서둘러 줍줍한 종목 - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SdWZ3UWpXNEgzSWFySGh4NlB6QjZQWEswd3dJd21FblZwcWU3am1NQ0o3TnVXZDZwYzNmNVhEMW16cEc4TjRaTTZUVzlJOTFrM3AtMkVEcWxwQdIBVEFVX3lxTE9HZlhMVzdVOFVrWjFRa1F4X3JyWmxxSHlCd2ZFdkRYRmp2a0Z5MjVaMFVpaUF3dy0zTWctVzZqVUNsZ1BDbzA4dXdvcGllcGpuOUdpeg?oc=5",
+              "source": "한국경제"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "아이돌·배우의 활동 소식과 포토엔 이슈 관심 증대 · 대중문화·예술상 시상식 개최",
+      "summary": "아이돌 활동 재개 소식 · 드라마 시청률 경쟁 · 배우 스캔들 논란",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 24,
+          "count": 23,
           "articles": [
             {
-              "title": "투어스, '불후의 명곡' 새 역사 썼다…아이돌 최초 첫 출연 '올킬' 우승 - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlo1LXVZSjl0YjRwYWpZVUFXVktwWjJyN19jNFVqMXVWYUpKS0FiUWpsMFJQYnBpaXROUzc0U0l0ejVYVzhiX2tLQll3NkVxdWZBRzNlSnp1am54cl8zQ0ZvLVVEOWVaSXRjY0FCYnNWTU9MazBKcjhwVUZzM3FtSXh3R0lLZFlLc25jZDl2UQ?oc=5",
-              "source": "조선일보"
+              "title": "임영웅, 탈색 머리하니 아이돌 뺨치네…힙한 스타일링 [N샷] - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tLUlrbTlXdTR5VUVIYl94NkdkckJZT2RWUS1yR2FmWkpfdHcwT3dtZklqcElCNVc4SHRIanlyT09HSmVNYjdtWVJtdTNNNjA?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "'승리의 여신: 니케' 3.5주년…아이돌로 돌아온 아니스 - 연합뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PR3MxXzVpbk9uT0dETmlaUU5LTzZCUzNRMjRhWTBsaVUyTzVOYzNYeVlvb0t2Q2JjRmNKVFA3Uy1admx5b2lLalBoV2FHMk83ampKbXNkeFREX1nSAWBBVV95cUxOOFBpVGJXcjVMQ0paQkNQMVM4S0ZTSkJLcFdSRzBuQmdfbVE5aU9haW1FVkF3cHM5c3JDZkU4Y2dlVlU2V2RiSmxyZEhrZTJBM1htSXVJSUFEbXlwV2F6WEU?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "'뱃살' 아니었다…2.5세대 女 아이돌, 비키니 입고 인증한 2세 '파격' - 네이트",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfcFZwX0RveGZlb3k2TnZ5WjV2QzNncVc0bFJsdzVCUlozUWxnU0RSRzNBX2gtN3BucXlzUmZTakZCM1k5ZW51RGY2ZGVtTEI3Vmxv?oc=5",
+              "title": "금발도 문제없는 임영웅, 아이돌 데뷔해도 될 비주얼 - 네이트",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UWVpId2FyXzc4WWU0MU9kd0c1WmxHUElUY29RMFl0bEE4RC1sYjJlS3NrMHQ0dzVWRzVuaFluYkpBb01nTS1MTDNQaWxKbno0MTV5RllOdkZaV0JUWGRiYVhvLThNRFRqWFRyOXFn?oc=5",
               "source": "네이트"
+            },
+            {
+              "title": "'금발의 히어로' 임영웅, 아이돌 뺨치는 파격 변신… \"못 알아볼 뻔했네\" - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yM2daa1VYWmQ5azMyaTl0UnVqWVFDWGl0aXMxRUVEVV9BNE0yZzhCRUQ5OWlGUnpPRWhUTHVZY21rX3dyY0ZfYVh3emVrQ1k?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "배우",
-          "count": 9,
+          "word": "드라마",
+          "count": 8,
           "articles": [
             {
-              "title": "‘흥행 보증’ 배우 5년 만에 복귀→개봉 일주일 남기고 관객 반응 뜨거운 韓 영화 - TV리포트",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQdVBOWHlsUklxSVdPSk9UZFVGYXNqbW5kdXpQZ0lJQ3Vmd0hmWGZKeExFaURqSU1nMGV6TE5sZTNBX0U2RTB5b0l0OUNfNzlzM1BReVZPM0llSkNk0gFiQVVfeXFMT1o2d1BENGl0QXVsLUp6alVHQUJLdzRTUlRtcUZDNDZHRlhZcEFIUEV0eTgycjREWExTQ3d3Y2JrRmlkOFQ5U3RZeTNWYjFxXy1EdTZRdDJXcnZwREpTTGZpVUE?oc=5",
-              "source": "TV리포트"
+              "title": "드라마 ‘21세기 대군부인’ 촬영…로케이션 명소 부상한 ‘경북’ - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GVGJhTnBLcTlFbUUzcGhiYTczZWx4Y3dZYm1MWmlKcVpGRThWcDZ2UkJETEVMcy0xdkFaQ1Atdk9QLXZES1E?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "포토엔",
-          "count": 9,
+          "word": "조선일보",
+          "count": 8,
           "articles": [
             {
-              "title": "에브라, 자신감이 넘친다 [포토엔HD] - newsen.com",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jLWZSWGplYmtBOV9sa2hZTFJRcHJjRnlSaTVZQmJqRFY5SktQREhINjJXWjVjTnJaTVo1Y2I1eDZHUjVEQUlNUV83eTRNUnA5MUM5ck5mXy1SemN2OEt5cDZGbHBqOWtm?oc=5",
-              "source": "newsen.com"
+              "title": "前지사 김경수 vs 現지사 박완수… 오차범위 내 접전 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aY3g1a2lLRlZZazYxRG5DT2tURkpTSU1pZ1cwY0FpQThNR2NVLW1tOENGemN4Vk81M2xscVIwQkUtYVNhdDlFZHRYVG1pbkE?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "대중문화",
-          "count": 9,
+          "word": "배우",
+          "count": 8,
           "articles": [
             {
-              "title": "[강대호의 대중문화 읽기] ‘21세기 대군부인’이 소환한 전근대적 판타지 - 오피니언뉴스",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aRlJabTVDT2FHVlUwRTExUmx0VFdlazY0eFN2cVluYXFMV3N1TE4xaVp6eFBxMkU3dUM0WFFxU1RXenF3UkgyYnItQzJEdFc0T2E2QVZGS3JiQUJnbWpxQ1hpajA2WlhCUmJkWURieUttZw?oc=5",
-              "source": "오피니언뉴스"
+              "title": "요샌 시골이 대세…’오스카’ 배우와 함께 4개월 만 돌아온 SBS 新 작품 - TV리포트",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92YjFTbnNDZ1kzejZSRTlZdWdseW03YU9JbE1EcUw5cTFtS2lrNGlBZ1diTk5jcTJheFg1ejFieTNqRllMalc5aXJhVW42RFZLQUhOVUt1NzVCLU9I0gFiQVVfeXFMTUFDUGxDYU5YXzI5Z3Z0a2Vnb2pJWDV1dVJTLWM4ZVdwNUVRNUF6SFVTQnVTblFVdWJqeDFUWHB3cmN2S0R1WFBuMUZMdmhqd1ZqMnJXMG0zcU9tc3dyZVZWSHc?oc=5",
+              "source": "TV리포트"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "예술상",
-          "count": 9,
+          "word": "포토엔",
+          "count": 8,
           "articles": [
             {
-              "title": "휠체어 무용가 김용우씨, '제4회 서울예술상' 특별상 수상자 선정 - 에이블뉴스",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFbkN4Q0ZJWFZJR081OVU4X3lTQkstSUppSjA4bW1qUXB3M2xPeHZ3b1lOZ052RkVfZldCLS1aY2ZydUJ3c09tTWRyaE41RUJfNGJQeGV2c1Y1Skx1U3lRbGN1RlJSWTNBaU9nNmVR0gFyQVVfeXFMUF93REMwRkFqZllQT1VYeHpUUnQxX0twNXVjVVBVdGhWSzJBSXVSSDJyT2VUTVZDOF8xTVJsLWs1OFgtSHlFd05Rd3puU3hCUjd6dWJpX196SVJNbjMxT3dDS2tPRTBXV01EN05aQThSeUpn?oc=5",
-              "source": "에이블뉴스"
+              "title": "옐로우카드 받는 송종국 [포토엔HD] - 네이트 스포츠",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42RjBxaDlIX0VLNDJpVFVqM0RsMjNIZTk4TFhPODZ4VGhNcE1WT3RXb2llSnBVdjFGYUtNUmhxQ3c1NXA1RVltX0pxdFJHOVFCUkJGQVM2WkUtS2x6?oc=5",
+              "source": "네이트 스포츠"
             }
           ]
         }
