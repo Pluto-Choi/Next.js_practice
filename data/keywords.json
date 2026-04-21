@@ -2,26 +2,26 @@
   "date": "2026-04-22",
   "categories": {
     "경제": {
-      "summary": "코스피 낙폭 확대, 미 금리 인상 우려에 환율 상승 · 부동산 시장 침체 지속",
+      "summary": "코스피·환율·금리·증시·주식 등 주요 경제지표 변동성 지속.",
       "keywords": [
         {
           "rank": 1,
           "word": "코스피",
-          "count": 29,
+          "count": 30,
           "articles": [
             {
-              "title": "주가는 장밋빛... 골드만삭스 \"코스피 8000 간다\" - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT2VBV2Mtbm5pRGZBY20xSjRPQV9LRzU4TVI3enpUa3VmZFVEVWpveldzTUItMmNHbFhmV3lLUzc4aE9kQWN5TkJOLTZuX2xZMXdaQV9JaHFCQXVXS0c5M3dDR09pRm1kSVh2MzlTN01FQ0lMSmtkMERaUndNdEMwTzFUSlFhRXJKM1J3aXhR?oc=5",
-              "source": "조선일보"
+              "title": "JP모간 \"코스피 8500 간다\"…\"이젠 이태원 담아라\" - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lVFozdXh4S3RnRTVwcVNMcTJVbG1ZZHRMdXhGR3lFUUVabnlkX2Qza29lOU80eVgtWWxJMjFoMHpqQkRBWExyRlNzdUZkSmhYS0dDOHNKMXpxUdIBVEFVX3lxTE56cS1GdkFMM183TEJ3U2xnMWlYR091TmI1WmxqcGRZZ2pjaVliR0p4M0JiVFZTVG9ad25zX0luUGFlZURab09KV1Zac2FTaktZLXViSA?oc=5",
+              "source": "한국경제"
             },
             {
-              "title": "“코스피 8000~8500까지 본다”…골드만·JP모건 ‘눈높이 상향’ - 매일경제",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kS2ppWkNaaDJqdUo0UVNOV3NlSUEtQXVNRkZ0ZzNqb2lFdWVxcW95S3M5em04WFBfSkpSUHRWbzhicTVfTXdJeWxaeFRQOEJHdnc?oc=5",
-              "source": "매일경제"
+              "title": "[속보]코스피 ‘6388.47 마감’ 사상 최고치 경신···SK하이닉스 사상 첫 ‘120만닉스’ 돌파 - 경향신문",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzNUhtLTBGZmY4ekpBV3EzUUp4Z3JIeVVXYWNucDVFMW80M01wSmliZmtvZEs4RWJNYk9yNVJoVlpVaU9UdWVKckRnanVfWHJ1dFM3S0RRai16d9IBX0FVX3lxTFA0REU0eDdEVUZaX1VFUEo1aFdNRGxGSC1SdFNJMjJ3WnZoM0FyTFNTV2xPdFJkbzQ4V2RSMlNZNndJeXpzdFFEdXRxNDFvVVpWNlpiWEtHcDJSVGFRYTk0?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "코스피 사상 첫 6380선 돌파, 골드만삭스 \"8000까지 간다\" - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zRnVEdWdJZXFHUzhLR0lzRHdMZDFLekdydDM4UVlFeXZlSWxiUkJUeEl3V1lsNmozU1lETmtaQVJBTzN2N1FQYVBoUWJmdFk?oc=5",
+              "title": "“코스피 8500 갑니다”…외국 전문가들이 제시한 상승 근거는? [잇슈 머니] - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03cGFIMkE4bFc1LXFHQTdIMVdFLTN6YkJOWEkwRFJlcVRmenFHa2xodk1JbkgwRUVZZzhJWHRkcTZWalMyajZvbmdQSlJ6YjA?oc=5",
               "source": "v.daum.net"
             }
           ]
@@ -29,7 +29,7 @@
         {
           "rank": 2,
           "word": "환율",
-          "count": 24,
+          "count": 29,
           "articles": [
             {
               "title": "RIA 계좌, 벌써 14만개 넘었지만… 환율 안정 효과는 '아직' - newsis.com",
@@ -53,7 +53,7 @@
         {
           "rank": 4,
           "word": "증시",
-          "count": 18,
+          "count": 12,
           "articles": [
             {
               "title": "“전쟁에도 결국 오른다?”…학습된 증시, 포탄보다 빠른 반등 - 매일경제",
@@ -64,26 +64,31 @@
         },
         {
           "rank": 5,
-          "word": "부동산",
-          "count": 13,
+          "word": "주식",
+          "count": 12,
           "articles": [
             {
-              "title": "행공·MG 등 '큰손' 멈췄는데…국민연금만 국내 부동산에 돈 푼다 - 인베스트조선",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNmw4eG1IRDNWSEI1UWUtdTVPMXpRWjgxeVV1M1ZJZks5dXhvODhkQ1A0R0hWeUxCUnAtSFdIU3pXckNvNU9NQ1ROVEllYWpRaGdIendzc2FqU1pwNlZrUlJ4RHdHSzVnT3ZxRGVyYUR3eGZXemFSeVBGSEEwa3FnMVZZYw?oc=5",
-              "source": "인베스트조선"
+              "title": "한 달 새 ‘500억→9000억’ 폭발…미국 주식 던진 개미들 ‘우르르’ 몰린 계좌는 - 서울경제",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zMmZ3ZUhSMTROdzlHWjU0N01Uam1mMTVKVFNnek9KV0lpS1RwWWhQVDdLWjNwZlV4SEVRU3J3aUJwSXZEa2p3cWQ4QURweEhibGfSAVNBVV95cUxNT2RWckpFVXJmUDVFd3FlOTVWSWZFYWxRWFktNEl2ajZfMFFuVFNNQW44cTN2cXo4QVdLMjhPUVZJbGRrTFhpSkdLNUFmcF9kZ29Ccw?oc=5",
+              "source": "서울경제"
             }
           ]
         }
       ]
     },
     "IT": {
-      "summary": "국내 AI칩 스타트업 퓨리오사가 엔비디아와 경쟁하며 반도체 시장 성장 · 테크 업계 투자 확대",
+      "summary": "엔비디아 AI칩 수요 증가로 반도체 시장 성장 · 기술 스타트업 투자 활발",
       "keywords": [
         {
           "rank": 1,
           "word": "테크",
-          "count": 41,
+          "count": 44,
           "articles": [
+            {
+              "title": "K부품사, AI 병목 뚫어주는 해결사로…해외 빅테크 줄선다 - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xOUp1c1ItdzlhLVhDZWU4dFVTSF96bVZlZ3U1bmROZEQtUUZXVmMzMW1wZ245YU5DSF85ZlNxT2dMaHB6c2lxbTRObXNRSzV4eFdnMnlxZ2hQd9IBVEFVX3lxTE1HQ01uTjJKNndSRk1TRmRuMlh1LVdxODA1ZTBweVF6VloyX1pRWEk1bEREVmhteThTZzFaZ0FKVTlEbzVDY0VxSDYtQVEwTVpqVUhSXw?oc=5",
+              "source": "한국경제"
+            },
             {
               "title": "청와대·경복궁뷰 한화푸드테크 ‘더 플라자 다이닝’ 가보니 - 지디넷코리아",
               "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zbFBHYmQ0MzFKLW9TVTktNEU5azMwNEF5eUROaWxqTjBtMVFsdTNtUWdQUE54OFE0dGw5dG5VTTNaUERxMTQtN19MWDdVUDBvaUFTOE5n?oc=5",
@@ -93,30 +98,25 @@
               "title": "추경 60억 투입…연구개발특구 '딥테크 창업' 본격 지원 - 전자신문",
               "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PTGJkNUxHRnhIc096Ql9GQkZITkpTNGtHZjNUUFhJRlJqTnJsNjdZTno5dHFweklYMHFhenNDWDRnVEZHdFpRUE5ocDJhQQ?oc=5",
               "source": "전자신문"
-            },
-            {
-              "title": "음식물 폐기물을 항공유로?…경기도 '기후테크 스타트업' 44곳 선정 - 머니투데이 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43ZExqRnRJRDVmSERqOF9DN3NlcWM2aXd6TU1wMXpVYlVmdjZkNmp4RTVHZm1vSXg1OTR1ZkZKa1dlR3EzdVVjVzhPdWFtR3dzdkJZZ2hMRm42ZDhRSHRUTk9YVXJkWkxOc2fSAW9BVV95cUxPQ0o4cU9YdWZ4WG5lN2Uxd0xVd3hnZ1hWWDVNZUNFTDY5NjE3TVJ4WFpSNzJ1LXhzekpUTm92T0FiWkhUcG5qVE9GZEh2eVJUOTQxT1Q3WmJNVGJWR1RIV2h1cloyQTg2ZDNucjR1SHM?oc=5",
-              "source": "머니투데이"
             }
           ]
         },
         {
           "rank": 2,
           "word": "반도체",
-          "count": 34,
+          "count": 35,
           "articles": [
             {
-              "title": "1~20일 수출 504억弗… 반도체가 이끈 ‘4월 역대 최대’ 실적 - 조선비즈 - Chosunbiz",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYTNZWDVqWFRHOFhTV3lPeEhSZzdvSV9qUXktYjJ4TUFqOEN3UWJRNmkwVnlZNFNTTFhCTTd4QVlfcGEzZnBSNWEtMlhKZDROQU9RWG9icy1mcmZNTkxOY2NfWGVxNTJjSDNEVVpnZk90aWxpXzRqZjV2ZEp0U1ZLcl9JcnNhZ9IBmgFBVV95cUxNSnpCaW4wSE1ZWjduMW1LLWg1R1ZZTHFHbUlMbDFRdFo4bWdNc1VNU3U3UmRHay05WUV2UXNKSWpRWDlPdDI2MC1PLWJ4VUowVExrZHVabENrek1VMXpxQ0JLSDdRUi1FaTUtNnRPSVZUR050bnpnd2tNdHhaMnh4VUR3RmJUWENmU0VOYzBCbmp5cWN6Y216ajlB?oc=5",
-              "source": "Chosunbiz"
+              "title": "코스피, 6380선 돌파해 사상 최고치 경신… 반도체 수출호조가 긍정적 작용 - 동아일보",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JVmlwYlJEc2lFLU41aVNvcDNTWmxHczVMTUZTNEl0a2trak5FLWxmdEYtMGNPcU5Mb3NBaVJEei1qSDVRTTBYS0dDZnV1WUkxbThRZE5iWi14bVhEM0tERmdFejJRdjJRWWZXV2JlanRWUkJvT2fSAWZBVV95cUxPQzBSQmVicUVncnRkNEQ5Q3dFZTZvTVdyYVliNTcyMkFyckpfbi1tSk8tc2ZrREVuX3IxbUVHV2RLd3VoSFdPZTNOaW5qS0dMeldkdW5hOGEtdjdtYmZNM2djSmtvcFE?oc=5",
+              "source": "동아일보"
             }
           ]
         },
         {
           "rank": 3,
           "word": "스타트업",
-          "count": 19,
+          "count": 29,
           "articles": [
             {
               "title": "중기부, 인도서 K-스타트업 협력망 구축…한인 창업가 네트워크 출범 - 이투데이",
@@ -127,59 +127,71 @@
         },
         {
           "rank": 4,
-          "word": "퓨리오사",
-          "count": 19,
+          "word": "엔비디아",
+          "count": 22,
           "articles": [
             {
-              "title": "\"3000억 붓는다\"…국민성장펀드, 'K-엔비디아' 퓨리오사에 직접 지분 투자 유력 - 아시아경제",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fd3o0cUc4RkdpV2wzcE5xaERuZDdKUFJZQThVczVNRUdQOXIzb2FKSGpCSHYwZXdYWDROeUZac3g5UXRaYy1tMWgxMkhOeFlkem44NTY2SVp4aWV0bnlxdg?oc=5",
-              "source": "아시아경제"
+              "title": "\"답변형 AI 끝\"…엔비디아, '에이전트 전환' 선언 - 뉴스핌",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KZ0JfNko3YkgwRXVBUzVBb0tWQlNlNnYzNTU5SGlJYktXOF9qc2hwTXNSd3U3UkdVSXRDeDBoOXlGekN6UzZfOXhxRl8wS0hkaU9yS1JGSGtkNUhf?oc=5",
+              "source": "뉴스핌"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "엔비디아",
+          "word": "조선일보",
           "count": 18,
           "articles": [
             {
-              "title": "AI 뜨니, 게이밍 GPU 소외…엔비디아 ‘지포스 홀대’ 논란 - 지디넷코리아",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53SUlRMVNhSTF1VmFnazBUdkxxZGZ3aV9nRURNbENzSFRqYk5oak16LTFBTWxiYWFOSk4tUEs0Z0NOOGxiNkYxSlU4QXJaUkZuSHF0c3dR?oc=5",
-              "source": "지디넷코리아"
+              "title": "1만 유료독자 확보한 조선일보… WSJ 발행인 “공짜뉴스 광고모델로는 성공 못해” - 미디어오늘",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44TVJCMWRSZGlvRVdzb05XcnlQNEpfUXB5Sk5uVmtYaEloSGltTkRlbEp5ZUZaSzBMVkloNlhjRTB6R0o2R3ByWUNKQTlHaldzaWxiaG5hYm1zYk9WdDQzQWdtVGlLZEpJTXhFVU0xQVc?oc=5",
+              "source": "미디어오늘"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "아이돌과 배우들의 활발한 활동 · 포토엔을 통한 대중문화 확산 · 예술상 수상으로 인정받는 연예계",
+      "summary": "아이돌 그룹의 새로운 앨범 발매 · 조선일보 문화면 주요 뉴스 · 포토엔 신작 공개 · 예술상 시상식 개최",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 25,
+          "count": 27,
           "articles": [
-            {
-              "title": "버추얼 아이돌 그룹 비던(B:DAWN), 공식 스케줄러 공개하며 본격 데뷔 카운트다운 돌입 - newsis.com",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WaGpsSl9qVDItUjkwVzBjVjFFcDBrRUsxR0d1WUNnYnVGTk5vREczc0Y2V29qcHREbW1WR0ltcDgxbGFpWHBwQno4UEw5WFhjWjdjMmk0dHhNMjRjaWlvaw?oc=5",
-              "source": "newsis.com"
-            },
             {
               "title": "아이돌이 춤 추려고 줄 선다···‘스튜디오 춤’ 창시자 이주리 PD 인터뷰 - 경향신문",
               "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUDRsQ3dfTENsNm9aSjJYR2lJZkw2OXR5YnUwNG1aWHRjcmdNQUxhMVo0VDExU2VLdWJYYlcxeEZVdXl5Z2tsSVg5RDJXOTJvbF80bEV5cmZNZ9IBX0FVX3lxTE5YUUQ2YW5rLV9MdDhoUnhRaWhZQ0NZaklWMzRLRUQ5dkF2WkFqNWNRTkp1Rzd1T2lRWjZSRXU2RzVFMHdTZmNiN3VQYXh0X0pKeHlVMy0xX05MTFpPV2ZZ?oc=5",
               "source": "경향신문"
             },
             {
-              "title": "임영웅 맞아? 아이돌 비주얼에 더빙 연기까지 '파격 행보' - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DVHY5em5KV1lkZHJIN1NCSVdDZmlxT3RBeXZVVG1PV3ZLRzVpVmxVUFV2ZmFQa3hSMzFtLTgxb2pZMnZxbUZIOHkxU3hXOUE?oc=5",
-              "source": "v.daum.net"
+              "title": "아이돌 아이브, 핫아이콘 탄생 - 네이트",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QM0pTcTVPa0hmejZja2dCYndyclBKNVh6cHk1X0JQZ21yVGJqajRtNkRzMnhwbEJyU2E0dmloVWxmNUljUWZxWmZ2SmpEeVd6WnZBU01ZZnl5X2Rfci16cmhQRm95TzdPOUNfMGpLYUwxbkk?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "“자신만의 메시지가 분명한 아이돌이 좋은 공연을 만들죠” - 한겨레",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBERWJ5bXBvVENsWmt0azgwcFBzWWp4amxzUlBzQkwwdUJWVFY5TFJodkJXem1tcmdicEIxM0YzR1BDei1KQnNYeHBoMEJwVHI4d1Y1eG0zR1JucTZiZi1YWkF1LVR2dEVTaTcyWHJTdENaZw?oc=5",
+              "source": "한겨레"
             }
           ]
         },
         {
           "rank": 2,
+          "word": "조선일보",
+          "count": 9,
+          "articles": [
+            {
+              "title": "1만 유료독자 확보한 조선일보… WSJ 발행인 “공짜뉴스 광고모델로는 성공 못해” - 미디어오늘",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44TVJCMWRSZGlvRVdzb05XcnlQNEpfUXB5Sk5uVmtYaEloSGltTkRlbEp5ZUZaSzBMVkloNlhjRTB6R0o2R3ByWUNKQTlHaldzaWxiaG5hYm1zYk9WdDQzQWdtVGlLZEpJTXhFVU0xQVc?oc=5",
+              "source": "미디어오늘"
+            }
+          ]
+        },
+        {
+          "rank": 3,
           "word": "포토엔",
-          "count": 12,
+          "count": 9,
           "articles": [
             {
               "title": "트와이스 나연, 예쁨 하나로 끝 [포토엔HD] - newsen.com",
@@ -189,38 +201,26 @@
           ]
         },
         {
-          "rank": 3,
-          "word": "배우",
-          "count": 11,
-          "articles": [
-            {
-              "title": "이훈 \"작품 연달아 무산, 3년 허비\"…중년 배우의 고민 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HYUVuWUlWY0hvZmJUbllZYkhDcE53MTB2eUJvU2Y1ZzFYR1BvQ3UzaDJWSkZubXFIZFFfQ1dRUGg3Sl9TSWFEb0FfVHl4XzQ?oc=5",
-              "source": "v.daum.net"
-            }
-          ]
-        },
-        {
           "rank": 4,
           "word": "대중문화",
-          "count": 11,
+          "count": 9,
           "articles": [
             {
-              "title": "[대중문화칼럼] Z세대는 왜 AI에 시들할까 - 천지일보",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BUzBqaS1IM3FRRFByWVdzUF9zUXBJVUFubVNPOW1HS3hRNVRiNmVOSy1hWFM0MmpqQk1neFFyS19xZWdSUWpVOGhGWngwd0tmWE1HNndTa3d0dzE1NjZpMlVQN1BHb2lOY2c?oc=5",
-              "source": "천지일보"
+              "title": "[주간! 대중문화] ‘이중생활 여고생’ 연기변신 김향기…영화 ‘짱구’의 감독 겸 배우 정우 - KBS 뉴스",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVV9GaVJlWmVaMUVyeHZDOWhGTjlEQUZjbDhTNTJRVzZsb2hRMjZYa1pZSTVRRDdVTm5pZGREc2E5eTRFb2JUQkJ5WDN5TkhJc0pfb29wYlZ6OEk?oc=5",
+              "source": "KBS 뉴스"
             }
           ]
         },
         {
           "rank": 5,
           "word": "예술상",
-          "count": 11,
+          "count": 9,
           "articles": [
             {
-              "title": "이상재 교수 ‘장애인문화예술상 대상’ 영예 - 에이블뉴스",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6VXFFNEJ6RnNWTjgzdmpLbUZ5bmVSSHByaTlaR2FEeUd4ZW9DQU5OelpGUGFaLU5wbE16WVloUWVBVW1yNDNQZVlkajBySXFKSVhwcVFnckZpdDJ6ZHF3UHRxZ2N2ZUt2MUxkNtIBcEFVX3lxTE50SUtEMEFxWnJTc1pDSWVwVWE3amwyakUtS2hqTnU5ekJpbzZFZDNXc0JoaXJmbzhRaU1BRUdLMGRiQUV3WjBmSjZNQlM2c3VVdFpxdlU5T1lnS1J2aFZ6MW96S2k2QU1Tb0gxUDVvUGs?oc=5",
-              "source": "에이블뉴스"
+              "title": "‘더프리뷰 서울 2026’, 컬렉터가 주도하는 ‘리아트 어워즈’ 예술상 첫 개최 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fWDFjMFRVUmVEY3NnZ1VaNkdTdFF6Wk94REQ4eFlvcldpY2FVWlJXaFgtWUJCX3RaRWhLRlZ6VWladElheGRmc0pOTklSZV9MVTJNMg?oc=5",
+              "source": "v.daum.net"
             }
           ]
         }
