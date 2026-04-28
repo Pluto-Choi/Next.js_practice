@@ -2,17 +2,17 @@
   "date": "2026-04-29",
   "categories": {
     "경제": {
-      "summary": "코스피 약세 지속, 환율 상승 추세 · 기준금리 인하 논의 · 증시 변동성 확대 · 부동산 거래량 부진",
+      "summary": "코스피·환율 약세 지속 · 금리 인상 우려 · 부동산 시장 침체",
       "keywords": [
         {
           "rank": 1,
           "word": "코스피",
-          "count": 32,
+          "count": 33,
           "articles": [
             {
-              "title": "코스피 또 사상 최고가, 한때 6,700 넘기도‥SK하이닉스 130만 원 첫 달성 - MBC 뉴스",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3WXp2VmxncFVTMmI5YkNLZkFEdkhNa2Njb2YwSnRURTA4THpSVTA2aHFuN003UTI5ZnZPQ0g4VmsyNnFpV0FKZGJEOWRsQU5RV0h6OGRCUGxxa0N2X2FHX1ZFWFU3OWxFZXhScElJS2FsSGpo0gF0QVVfeXFMTllhaENreVFKMUJ0d2FmcDFaOGt5aHVCQUlsaVJXa3FWMmVzWEVVd3NuQ0V4eGR4MlhkNW1LNWFOM1hwbFRDeHJJMzVQcU5HQTdYZDRPMElmMTJfTWhaMFcwejV0VHo1RzN0QjNhRjl6RVFJeGQ?oc=5",
-              "source": "MBC 뉴스"
+              "title": "코스피, 이틀 연속 새 역사…7000 고지 보인다(종합) - 뉴시스",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlRWhHQVRCUjk3Y1VBMXRCR2o1b09RYnpqSWs4ZVNvT1RLb3VUbDEyeHFabmdQYmNKNWZ6czJWVXVOOTV6RmZqN24tS0RtOWx6NUFIeHB0OFJYekl5NEhiMdIBeEFVX3lxTE40THlkQ1BNbVc2NXJRdlZHcjdad1BOazkwZ3p3RlhvdHZqUWJWdEZKU0huNDFVeGYzWEstSnB4TmozNThDYk51MTF3dm9mNUZMOGRGSWs2Y2dkTDYwY1N4RnM1anlBcjlzSXF4czZXb0U4UXI2aVc0Sg?oc=5",
+              "source": "뉴시스"
             },
             {
               "title": "이 대통령, 코스피 상승에 “큰 돌 몇개 집어낸 수준…정상화 계속” - 한겨레",
@@ -20,8 +20,8 @@
               "source": "한겨레"
             },
             {
-              "title": "코스피 고공행진에 동전주 된 ‘곱버스’ - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RSUFHYWxabWdJaUNKM09zYWZQcjZOdDVVcDBJTGFsTXhPNi1DdDFWWGRlMTRURFBfbnpGT2ZrQk5QaWdGLVdJR3YtdFhya28?oc=5",
+              "title": "오픈AI 성장 둔화 충격에 삼성전자, 프리마켓서 2%↓…코스피 차익실현 압력 커지나 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSmluekxqcjRjVDFpbjBXWlVTSWFzaE9NVjViZFh6Mm13OTRiOFJMcWJ1MHQ4RVdrLVJ0dE5iZGN0M1RTN2NRUERJZGYwcEU?oc=5",
               "source": "v.daum.net"
             }
           ]
@@ -29,19 +29,19 @@
         {
           "rank": 2,
           "word": "환율",
-          "count": 27,
+          "count": 26,
           "articles": [
             {
-              "title": "외국인·서학개미 ‘국장 복귀’에 환율도 하락 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OUHpsQ0FUTk14QjVta0Y0YVkwSmMwb0pneS1aMHJaWUd4dTlkTm9sU1ktemlzNUliWlZud3JjVndJUkxmYjhyNFE1ODh2ZkU?oc=5",
-              "source": "v.daum.net"
+              "title": "日 자동차 닛산 지난해 손실 축소…환율, 비용절감 효과 - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85ZU1uU1dFNk0xcGIzQk42ZU1GOTlneXJIbzZfSjJPZWpKY2FYendFdlk0ejJPSHI5d19nMU9YNkM2RHJtUTB6VEs2emtaUDNPOTB4UU1POUozd9IBVEFVX3lxTE1nNi0yUVQwRGFoVGhSenpCOTZKLTBybFJBVnJpRmh1VlY3d1g2a2I4bzlyaDQtVWZWUjBhNlE2Z0lodGVSeVlOQUowX29iNlhEcUd4OA?oc=5",
+              "source": "한국경제"
             }
           ]
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 26,
+          "count": 25,
           "articles": [
             {
               "title": "일본은행, 기준금리 3회 연속 동결…0.75% 유지 - 뉴시스",
@@ -53,7 +53,7 @@
         {
           "rank": 4,
           "word": "증시",
-          "count": 19,
+          "count": 23,
           "articles": [
             {
               "title": "사상 첫 '버핏지수' 200% 뚫었다…한국 증시 폭주에 '환호' - 한국경제",
@@ -65,19 +65,19 @@
         {
           "rank": 5,
           "word": "부동산",
-          "count": 16,
+          "count": 17,
           "articles": [
             {
-              "title": "다주택 처분해 상가 사려 했더니… 이번엔 ‘장특공’ 불똥 - 조선비즈 - Chosunbiz",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFpuUHM4SVhKQ2VQTG1hT0tiUXNobVkzMTVhbFRTN2o0dEhmZ0ZBamZpaFpRbW9JQ3pfRzh0bUY1dWdiNko2dTlYUnRBWjRZaHY4NGJ5OTFsOHRFNXR6RlQ5U0VaNVAxWmhjMFB2TmxZWkt2ZXNBRjE4UzF3Q29kdFFLcm5UZFliMWcyamtWRmJjZkYzclFYMdIBrAFBVV95cUxQOWxBOEp4UVh3M2RVOGFJMTdEa2dpTy1CcEl4Z3QwaHA3b0Z3M0cxZWM0THZjalVzbFdiUXM0Q3IxTFFXNTctOVZVZm93WVJ6UDVOdk1RVDBGc2lLRFVBVUw4enBnb1pwbzg1UUo0R215UXhPaGF2MWVscmE5c3Y1Y0xzd2E5RUtRc0c3d0FqY0ZUbzMyeHh4bmFCT0xSNTRDLVBnQ3g2SHFEd0N3?oc=5",
-              "source": "Chosunbiz"
+              "title": "\"건물주 됐다고 좋아하셨는데\"…70대 노부부 '날벼락' [김용남의 부동산 자산관리] - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nVGdzcUoyTGlnZzRhU3VoYkhWVC1RbHhUMmJ1WlZWNlkxd2ZaUHJRUl9FanU5Nmp2MVdZellwYWRSUzlNek9qS0x3d3kweGFhajdJbHNtQ05OUdIBVEFVX3lxTE5tWUhBZDVMek1fbnpCc0dDUUE4b3Qzc0FwclJjeEZLOENLV0ZRWm1rQ2VCYnBNRnFlOE1mOGFDSXcxQ3FCeVhpaGRDVWItTDRuNG1BNg?oc=5",
+              "source": "한국경제"
             }
           ]
         }
       ]
     },
     "IT": {
-      "summary": "AI칩 수요 급증으로 엔비디아 GPU 공급 부족 심화 · 국내 스타트업 투자 심화로 기술 혁신 가속화",
+      "summary": "엔비디아 AI칩 수요 급증으로 반도체 시장 호황 · 테크 스타트업 투자 심화",
       "keywords": [
         {
           "rank": 1,
@@ -104,7 +104,7 @@
         {
           "rank": 2,
           "word": "반도체",
-          "count": 35,
+          "count": 33,
           "articles": [
             {
               "title": "전남 반도체 공장 계획 묻는 與의원에, 최태원 \"꼭 반도체가 가야하는지 고민\" - 조선일보",
@@ -116,19 +116,19 @@
         {
           "rank": 3,
           "word": "스타트업",
-          "count": 35,
+          "count": 31,
           "articles": [
             {
-              "title": "특구재단, 글로벌 바이오기업-특구 스타트업 연결…해외 공략 - 뉴시스",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83Z1lzaGdLWUw2WGFMejNyLW9YTG9FMGhoTnJaTkpqc2dLX1dpZ01jeDQ4NjRRbjZQV1hqd0huVS10NzJHb2p3SF9laHFzN2Y0eG9faTBsWkdrWFdBVUYzcw?oc=5",
-              "source": "뉴시스"
+              "title": "광주창조경제혁신센터, 라이프스타일 스타트업 소크 '립스 II' 1호 기업 선정 - 전자신문",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mTkU5OXJHZzQ0ald5LUQ0dTFsQ0RZa2hzVDk3NTFHSTNjMVpyUEtqallvVk52QWc3RzBFdFQtSVd4UGVXaS1vY28xSy1Jdw?oc=5",
+              "source": "전자신문"
             }
           ]
         },
         {
           "rank": 4,
           "word": "엔비디아",
-          "count": 24,
+          "count": 19,
           "articles": [
             {
               "title": "[포토] 서울대 학생들의 로봇 보는 매디슨 황 엔비디아 수석 이사 - 전자신문",
@@ -140,7 +140,7 @@
         {
           "rank": 5,
           "word": "조선일보",
-          "count": 19,
+          "count": 17,
           "articles": [
             {
               "title": "김용 공천 논란에 조선일보 “법치 우습게 보는 것” 한국일보 “몰염치” - 미디어오늘",
@@ -152,12 +152,12 @@
       ]
     },
     "연예": {
-      "summary": "아이돌 그룹의 포토엔 활동 논란 · 대중문화와 예술상의 위상 논의 · 조선일보 연예섹션 보도",
+      "summary": "아이돌·배우 활동 소식 · 드라마 제작 현황 · 조선일보·포토엔 연예 보도",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 26,
+          "count": 28,
           "articles": [
             {
               "title": "'만능 엔터테이너' 방탄소년단 진, 팬플러스 '예능까지 잘하는 올라운더 아이돌' 1위 - 스타뉴스",
@@ -170,57 +170,57 @@
               "source": "뉴시스"
             },
             {
-              "title": "'겨드랑이 냄새 맡기' 서비스 해주는 日 아이돌…일부 팬 '평생 충성' 맹세 - 뉴스1",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vdTZJeUFzd3MzT0RoYUZ4bkZhVXhCdmJIelZONnl2a2xvQnd3UzJibVBMaXNNQklmZ1FaaVZCRllOQWk1bmxvS19JZEhTZTFLSENuSXUtVVJrXzRh?oc=5",
-              "source": "뉴스1"
+              "title": "성북구 장위청소년문화누림센터 ‘오늘부터 나도 K-pop 아이돌’ 성료 - 헤럴드경제",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZ085UmhrZDVIUEkzb2pud0JycmtRQ2VRLWYxRkNHUmdoTlhEZHVNNUxxS1NHaG1SYmUtRzljak1SYzZLcGxNOUg3SmJsT25PcnNHYU9B?oc=5",
+              "source": "헤럴드경제"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "포토엔",
-          "count": 10,
+          "word": "배우",
+          "count": 9,
           "articles": [
             {
-              "title": "82메이저 윤예찬, 파워풀하게 [포토엔HD] - newsen.com",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLRkFtdWNDUkIxV2FVRkNZdmNaX0lFdGI4aWFtUnFiOWVMcVJGbExzaGVLUzdYNlljdUxSMHRNMnk4MmlkVnVRcF8xU3JCemw3NjhiTkpFdm5QYTh5MjRmN3c5WEV6eVd1d2ZkdjFLR3JpVG1JR3Z5c2hzRQ?oc=5",
-              "source": "newsen.com"
+              "title": "아역 스타 출신 포르노 배우...\"어린 시절 '성 상품' 취급 당해\" 폭로 - 머니투데이 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Jckp4djlLUks1M2plUEdLWjNwSi1TNWw0Ni1BWlZvQ1RaZXhiZldVM0YxRnU0MEk1cUdyM0tmYUNuMVR3QVBDSEZ3XzRZaHRGX3RWc2tURjJoZTVVenFXaGR6eGpFdEpvNy12VklSUm10cEXSAXhBVV95cUxNS2hQV2RkWXhTX1IyUkJoRkJfdUdhU19ZSks0U043ZzF2UFhZVFNqVHlEdGhwRTFxQnludkdMdlNLTjZDLXFRRU9FUWlaQWVMNjE3ZzJpM0dEY1FxVlc1SFhSLS05aS03OFNWRUkzRmRELWpUYlJwY0s?oc=5",
+              "source": "머니투데이"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "대중문화",
-          "count": 10,
+          "word": "드라마",
+          "count": 8,
           "articles": [
             {
-              "title": "[대중문화칼럼] 주류(酒類)는 왜 Z세대에게 비주류가 되었을까 - 천지일보",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyNkZSZ0pTRHlsRUp0MXNtbTU4NHkzQWhqeG04NWRweHo3S3dyaGFBdFdYd293UUtCTVd0bXU2TEhhc3owTThzZU8yV2Z1UVVrbzBVcWRUYTVBd0tXVWtIRnNZcEtidnN6OWc?oc=5",
-              "source": "천지일보"
+              "title": "‘21세기 대군부인’ 작가는?…신인 전면에 내세우는 K드라마 [김희경의 컬처 인사이트] - 한경매거진&북",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DMklrRWNUelBxeUFNT2Q5SzVBTmR0NW9TVHhBNTZxNlZiZzI1LS11TjJoa0pOSTF1bmM3Q3lfVWRVZ3BfRU1rbFNvRF9EMHFjendvU2JZVHN4YVBucExyZlFuSVYzOVZUZks5Tw?oc=5",
+              "source": "한경매거진&북"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "예술상",
-          "count": 10,
-          "articles": [
-            {
-              "title": "휠체어 무용가 김용우씨, '제4회 서울예술상' 특별상 수상자 선정 - 에이블뉴스",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFbkN4Q0ZJWFZJR081OVU4X3lTQkstSUppSjA4bW1qUXB3M2xPeHZ3b1lOZ052RkVfZldCLS1aY2ZydUJ3c09tTWRyaE41RUJfNGJQeGV2c1Y1Skx1U3lRbGN1RlJSWTNBaU9nNmVR0gFyQVVfeXFMUF93REMwRkFqZllQT1VYeHpUUnQxX0twNXVjVVBVdGhWSzJBSXVSSDJyT2VUTVZDOF8xTVJsLWs1OFgtSHlFd05Rd3puU3hCUjd6dWJpX196SVJNbjMxT3dDS2tPRTBXV01EN05aQThSeUpn?oc=5",
-              "source": "에이블뉴스"
-            }
-          ]
-        },
-        {
-          "rank": 5,
           "word": "조선일보",
-          "count": 9,
+          "count": 8,
           "articles": [
             {
               "title": "김용 공천 논란에 조선일보 “법치 우습게 보는 것” 한국일보 “몰염치” - 미디어오늘",
               "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lNmlwX2VzelFPM0dSTlpkd0hkVUxZSFd5bkN0bW9xSUlLR04wQXowcWE4RWxwRHVza2RaaV9MSm9KTmdYNHR2R1dyRHotQ2JsTVJDSExtM0x3aUlwckp0MlFTcUJSSVN3MG5yNk0xeng?oc=5",
               "source": "미디어오늘"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "포토엔",
+          "count": 8,
+          "articles": [
+            {
+              "title": "82메이저 김도균, 화보처럼 [포토엔HD] - newsen.com",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Oekp0dExqZ2tyUzNKWTh3a3JKRERYRWs5eWJNaEVXWDBrTWRSNnYwN2lnTFJQSlY4RVFPUjV2ekVwS3pMeXp1M21IR3djSDVVbHZVYjQwUlBseXJ6cWJWNEpQRGRWSGg4R0dMektjcU00VXp6UUpDcWNtYw?oc=5",
+              "source": "newsen.com"
             }
           ]
         }
