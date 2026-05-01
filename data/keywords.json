@@ -2,12 +2,12 @@
   "date": "2026-05-02",
   "categories": {
     "경제": {
-      "summary": "코스피 상승세 지속, 환율 변동성 확대 · 금리 인상 우려 속 증시 심리 위축 · 부동산 거래량 감소",
+      "summary": "코스피 낙폭 확대, 환율 상승 · 기준금리 인상 기대 · 증시 약세 지속 · 부동산 거래량 감소",
       "keywords": [
         {
           "rank": 1,
           "word": "코스피",
-          "count": 29,
+          "count": 30,
           "articles": [
             {
               "title": "코스피 6600에도 PBR 0.3배 미만 60곳… “저PBR 함정, 저평가 착시 주의” - 조선비즈 - Chosunbiz",
@@ -15,50 +15,50 @@
               "source": "Chosunbiz"
             },
             {
-              "title": "코스피 7000 문턱서 '숨고르기'…개미는 하락 베팅 '인버스'에 6천억 몰려 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuSXFLLWZ3YUpEOHo4VmlaT3VqdHp6Q043eWx6LXBraHRtX084S1NmSFU0bll4UEFfeEFLbENMRFhrZGhrck1KVFd2emgzTXc?oc=5",
-              "source": "v.daum.net"
+              "title": "\"5월엔 팔아라\" 증시 격언, 올해는 다를까…코스피 향방은 - 뉴시스",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DZlNsbVdteFN3TWx4UDBLZFFDa0ZydDU0VXkwSjRRNUlrc3U5QkhqMERhcTJUVkZ6T1VqazFkRll6ci12eU1pX2lpNkFuVW1yR1ZFQkFxNWFLbXIzRlQ3dNIBeEFVX3lxTE16UXRBRWhxN3JiLXBqQWZjWnB1cE9NbnJkQlcxSGI4U0xySEk2MURQRVlDYUFJcjZyMWJScWdrNEg1aDB6RGlDVHJtS0pMWUdEQ2tHNXlrLTI2Z21oS1diTnlUSktUUUxmWElBbEFYWFNYMGFMdXFvbg?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "[코스피·코스닥 전 거래일(30일) 주요공시] - 연합뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJZEM5S2N5NmpUNk94U1BmV3k0b0VlTFQ5RDAtRFkwMXJlUGVCUjl6QzQ4ejJZQ2txUWtpc0RCWHhtanBBWm83U1FLZ0c0ZmREUko5VnctSEFSUWvSAWBBVV95cUxQWmlOYmNfNy1jR1RBQWY4bmotalZhdmNLMEw4LWl6cnZpVldmYTRoOWN6dW9Ba0o3Y09OYmxJNXBCLV9KQ3lGMzdNSlRmWUFRU1FmbW04RG9HemJRR3JRbzE?oc=5",
-              "source": "연합뉴스"
+              "title": "7000 바라보는 코스피, ‘삼성전자 쓸어 담은’ 외인 vs ‘곱버스 탄’ 개미 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PNUJGUHBJRGJlWmF3VTlaMGNrYlFldTV3OTRuTkhKQTRKYWZmaEVZMzAzMFBRUE9oNmVXNVlpZzhZSEZBcG1EbHNuYjZLTHc?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 2,
           "word": "환율",
-          "count": 26,
+          "count": 25,
           "articles": [
             {
-              "title": "\"엔화 약세 더이상 못참아\"…日정부 환율 개입 - 한국경제",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11LVN2TWtkRUkyUVI3MTM0ZFZqbmwxNG1pU2JVTy1GX3VXQW44cm1JLXM0dGZCS1ZhUEpvSlR3NTlkMjh2UXZtcG5JTXBadENSdENEa1duYUg5UdIBVEFVX3lxTE9PcFlSZUNycjA5RnZUU3FsUTZ6ZVpIQ1BzX0JFWHF4OHl4Ukt2REg2Y0JFbTZCQjg4Rkg4empTblNreGlic1hteHBDOXEzZWJNTWdMTg?oc=5",
-              "source": "한국경제"
+              "title": "日외환당국 \"마지막 대피 권고\"…엔화약세에 '개입 버튼' 만지작(종합) - 연합뉴스",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83RWp1a0pHSmZMSTd1T3N3dVJIYzZZSzRpS3IzdFpKaThyZ3d6M2g5T29aSjVsMnRBMFVsc29ZQU40QTQzWGJWV0Zva1JRNzczbkJ0TFRKLTJaUUHSAWBBVV95cUxNTHYwRmF1bWhpbk9LNzI2ZEUycFBsZzVzWWlFZDJPWnk4Qk5zVXlMam5Zb0JxZFdnY1NzaTdyTWFYTjlUdnlVd2RRcGZTZEJQVW0wMmcwVlRVcVlLZEJkRTg?oc=5",
+              "source": "연합뉴스"
             }
           ]
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 23,
+          "count": 22,
           "articles": [
             {
-              "title": "美 연준 금리 동결…1992년 이후 최다 FOMC위원 반대 표결 - 지디넷코리아",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VbUxZbEFMUURnT0daQklIaG4tUUNkdFBpYXZ4SkZsRWptdGFOWlZscXBoOGtoT3ViVGltSktwOGhhSkFaVk5xSWxRWnZpZzQzd0YwdnZB?oc=5",
-              "source": "지디넷코리아"
+              "title": "증권가 \"연내 금리 인상 전망…2회 올릴 수도\" - 매일경제TV",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53SDhaVy1obGtEeXNCQnJ1dERhLTc5ZmdvZ2Jael9tWmN3c3ZoRFlaQ282ek5wYkRhbE9EMUFSYkkxeVo3YmFLcnVfaUcwWUhsclRadTV6V242RlJHWjNta2xPalJxT3g0?oc=5",
+              "source": "매일경제TV"
             }
           ]
         },
         {
           "rank": 4,
           "word": "증시",
-          "count": 20,
+          "count": 19,
           "articles": [
             {
-              "title": "\"5월엔 팔아라\" 증시 격언, 올해는 다를까…코스피 향방은 - 뉴시스",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DZlNsbVdteFN3TWx4UDBLZFFDa0ZydDU0VXkwSjRRNUlrc3U5QkhqMERhcTJUVkZ6T1VqazFkRll6ci12eU1pX2lpNkFuVW1yR1ZFQkFxNWFLbXIzRlQ3dNIBeEFVX3lxTE16UXRBRWhxN3JiLXBqQWZjWnB1cE9NbnJkQlcxSGI4U0xySEk2MURQRVlDYUFJcjZyMWJScWdrNEg1aDB6RGlDVHJtS0pMWUdEQ2tHNXlrLTI2Z21oS1diTnlUSktUUUxmWElBbEFYWFNYMGFMdXFvbg?oc=5",
-              "source": "뉴시스"
+              "title": "“5월엔 팔고 떠나라” 증시격언…깊어진 개미 고민 - 문화일보",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10eFlkRU9qeWtEYzRYWDQzVXZLQ0l1SU9qLS0xS0I3dzJERGVXRTZha0xyV2gwTjQzbC1MLWpqUDU1Zi11MUo1X2U4RG1QTnp1?oc=5",
+              "source": "문화일보"
             }
           ]
         },
@@ -77,22 +77,22 @@
       ]
     },
     "IT": {
-      "summary": "AI·반도체 수요 증가로 엔비디아 실적 호조 · 스타트업 투자 심화 · 국내 반도체 경쟁력 강화 필요",
+      "summary": "국내 AI칩 스타트업 퓨리오사가 엔비디아와의 경쟁 심화 속 기술 개발 가속화 중 · 반도체 업계의 테크 혁신 경쟁 본격화",
       "keywords": [
         {
           "rank": 1,
           "word": "테크",
-          "count": 40,
+          "count": 38,
           "articles": [
+            {
+              "title": "“삼전닉스보다 미국?”…빅테크 깜짝 실적에 서학개미 ‘술렁’[주형연의 에구MONEY] - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZcTdNQXJRZjh5QUZHZS1obEJ2ZjhjcEMybTh1VTBpVGhxaTVTTndLVUpxbS1ZSHNKV1hNbm41bE5wQkpFeGlNNUlkdWhNUEU?oc=5",
+              "source": "v.daum.net"
+            },
             {
               "title": "\"삼전닉스 안 팔길 잘했네\"…개미들 잠 못 잘 '희소식' 터졌다 - 한국경제",
               "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40Z1JVX1hBaFBwS25hQUNQZy1aYjIzb1ZEZWQ5U2VPaFRqeG5SUGxualNhOFZKNk5wMFM0QVB6ZmxPam5Vd3BsbnhRYURVa05jVTl4bXE2RVBqUdIBVEFVX3lxTE10MHRIcnhpLVZCdmQzazBqMTBnSWxfUjdGallxX0p2MUlLMmVvNGhVSWcxQzQ1ZDZvaHZMaEt3OWNwNlJMQlVxS0c0UFFjTTZSd0xrdg?oc=5",
               "source": "한국경제"
-            },
-            {
-              "title": "기계연 웨어러블 슈트, 특구 딥테크 창업경진대회서 대상 - 지디넷코리아",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaS3VDOExadlBaQVJHbENBZ19idmNfMUVOTFJaMVZERFRtOU9rT2ktM0xHZ2p0dWFQQkxQZzdQalR0TEI1eHZOUjFKaVZ0VG1EZ0xMTDJB?oc=5",
-              "source": "지디넷코리아"
             },
             {
               "title": "[뉴욕증시-1보] 엇갈린 빅테크 투심 속 빛난 구글…강세 마감 - 연합인포맥스",
@@ -104,19 +104,19 @@
         {
           "rank": 2,
           "word": "반도체",
-          "count": 38,
+          "count": 36,
           "articles": [
             {
-              "title": "반도체 질주에…4월 수출도 800억弗 넘었다 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YRFZuXzNpQXBYMjgwM2JicWROVEpKR05ySk9Hdk1JZm5iQmRvbXZ1Z3pkLUlYMDJRa0dHWkRXTk9mTHNqVUNsQlVvbnYzNms?oc=5",
-              "source": "v.daum.net"
+              "title": "반도체로 53조 번 삼성전자… ‘휴머노이드’로 미래 준비 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHJ1azViTzdWRGdDa0duOW9Vbk1xNlM1U2drTnZuQldxOUJQLVhVSmpfeGdRbzlwTkdkZm1pdGtqNk5JZTZlcFhOZjhzSlBPbmNDVjQ2VDc1Y09zRk9iMm8xbGZxdDRISGZEUWpiR0xGeVdIT0NFdVhMVHI1TnMwQlRqWQ?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 3,
           "word": "스타트업",
-          "count": 31,
+          "count": 29,
           "articles": [
             {
               "title": "[박소령의 올댓 비즈니스] 펜타곤 특수조직 창시자들이 공개한 우주·방산 스타트업 성장 이면 - 조선일보",
@@ -127,8 +127,20 @@
         },
         {
           "rank": 4,
+          "word": "퓨리오사",
+          "count": 17,
+          "articles": [
+            {
+              "title": "\"3000억 붓는다\"…국민성장펀드, 'K-엔비디아' 퓨리오사에 직접 지분 투자 유력 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94dVlLd2hfMTBOa0JzZkZSOWdhM2JoTFJGc0FraDg3NUFPRmZsZ05USEFWclM1QkZMY2U1RlFvV1dsNExiLWdyMmFnM2Y5QVk?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 5,
           "word": "엔비디아",
-          "count": 20,
+          "count": 16,
           "articles": [
             {
               "title": "승자 구글, 패자는 메타…\"AI 투자 증액\"에 엔비디아 급락한 이유 [김현석의 월스트리트나우] - 한국경제",
@@ -136,28 +148,16 @@
               "source": "한국경제"
             }
           ]
-        },
-        {
-          "rank": 5,
-          "word": "조선일보",
-          "count": 19,
-          "articles": [
-            {
-              "title": "감사로 충만한 눈부신 봄 (16) [고혜련의 삶이 있는 풍경] - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OVFJkX3YxY1JDRjd0d2lwcS1fWE9BbW9hdVVHblBiMDJBcHBvRHF4SktwZHVVdlJ2NHZ6andrVjlwTTBQalhpaVhOSzlObGc?oc=5",
-              "source": "v.daum.net"
-            }
-          ]
         }
       ]
     },
     "연예": {
-      "summary": "아이돌 그룹의 음악 활동 및 예술상 수상 소식 · 포토엔 플랫폼 활성화 · 조선일보 문화 섹션 보도",
+      "summary": "죄송하지만, 저는 실시간 뉴스에 접근할 수 없어 오늘의 구체적인 주요 이슈를 파악할 수 없습니다. 현재 날짜와 해당 키워드들의 최신 뉴스를 확인하신 후, 구체적인 ",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 25,
+          "count": 21,
           "articles": [
             {
               "title": "버추얼 아이돌 그룹 플레이브, 빌보드 메인 차트 올랐다 - SBS 뉴스",
@@ -165,21 +165,21 @@
               "source": "SBS 뉴스"
             },
             {
-              "title": "15㎝굽 스탠딩화 위험 경보…“최애 아이돌 보려다 의사 만나” - 한겨레",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOeDFSeVVoTS05YXpScXRRTkgzT2JiT2JhU2o1c1pyV0VJX2JKSGtFRUw1YUFsOHB2UF9JWG5QQS1HcFIwaFN3cFVUTHRQYkNPNmkzNjRWVE9HN3BsNXEwV0tDd0liaTlWWnNzMGZCUk5IQQ?oc=5",
-              "source": "한겨레"
+              "title": "“제 겨드랑이 냄새 맡으세요” 日 아이돌 팬서비스 논란… 무슨 일? - 헬스조선",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ybHl0N1IzNUM0YWVwbm8tanpxSXlibE9ZTWhfTEh1TXFabTZYbk84NmZhUW9BMTNZbmZIdFQ4ck5WT2Q0Q2NRNklXNmhxMldaVUM2ZUUxUWp1VmFYVDFfU2hmYTVhZ3JNSGJDOGJWNXVGM0lHc2c?oc=5",
+              "source": "헬스조선"
             },
             {
-              "title": "'프듀 출신' 아이돌, '양다리 논란' 끝에 팀 떠난다…\"5월 말 전속 계약 종료\" - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPODVRdlRxRVQ2Vl9Sam5oRVREVEZVMnJ2eE9nTFU2ZmdSNXdrcU9mb0tEU2QwVnpqR19jVkJ1LVFvdU1KOWVEaVppbHdydkk?oc=5",
-              "source": "v.daum.net"
+              "title": "알디원 안신 \"엑소 무대에 반해 K팝 아이돌 꿈 꿨죠\" [물 건너온 아이돌]① - 뉴스1",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsRUhfM2VGSkxoY01tSkl6OVRNTnVsaVkyZ0h3eV96R1hkeHJqSmpiZHNyT2VQMzROQzE3WFA5V1JpZGFua3JGcDJtWFhqVnNZY01Yd3hDQQ?oc=5",
+              "source": "뉴스1"
             }
           ]
         },
         {
           "rank": 2,
           "word": "대중문화",
-          "count": 11,
+          "count": 12,
           "articles": [
             {
               "title": "[북한의 대중문화 3] 몰래 보는 남한 드라마, 더 세진 단속…북한 청년문화의 줄다리기 - 남북경협뉴스",
@@ -191,7 +191,7 @@
         {
           "rank": 3,
           "word": "예술상",
-          "count": 11,
+          "count": 12,
           "articles": [
             {
               "title": "컬렉터 주도 예술상 ‘리아트 어워즈’, 5인 수상작가 선정 - 조선비즈 - Chosunbiz",
@@ -203,11 +203,11 @@
         {
           "rank": 4,
           "word": "포토엔",
-          "count": 10,
+          "count": 12,
           "articles": [
             {
-              "title": "니쥬 니나 ‘일본 갈 생각에 잔뜩 신난 표정’[포토엔HD] - newsen.com",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLeXFudDQ1TFZkcVFMU2VFWnNrQ09sU0ozdWstNGY2aUt3QlVINFBBVnRsLW4xQkJHN2ZnbWxsUlRTdTVkbV9tSEJrb1ZjaGtUOVhmYTBYTlo5Sm4yb0trR2xTME9DbVpS?oc=5",
+              "title": "니쥬 리마 ‘깜찍 미소’[포토엔HD] - newsen.com",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vcHZ5SV92amN6d2JtT3QyMktWb2FHQzVvcFFEbzFoSTFUR1dRQ1E5bXNLTWFnQ3pkSm9aOHhFWkd1RWdBbV9CZkVHcENGTm05UUpOZl9aU2kxU2FTSXJNOVpFMzU4SF9J?oc=5",
               "source": "newsen.com"
             }
           ]
@@ -215,11 +215,11 @@
         {
           "rank": 5,
           "word": "조선일보",
-          "count": 9,
+          "count": 8,
           "articles": [
             {
-              "title": "감사로 충만한 눈부신 봄 (16) [고혜련의 삶이 있는 풍경] - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OVFJkX3YxY1JDRjd0d2lwcS1fWE9BbW9hdVVHblBiMDJBcHBvRHF4SktwZHVVdlJ2NHZ6andrVjlwTTBQalhpaVhOSzlObGc?oc=5",
+              "title": "7000 바라보는 코스피, ‘삼성전자 쓸어 담은’ 외인 vs ‘곱버스 탄’ 개미 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PNUJGUHBJRGJlWmF3VTlaMGNrYlFldTV3OTRuTkhKQTRKYWZmaEVZMzAzMFBRUE9oNmVXNVlpZzhZSEZBcG1EbHNuYjZLTHc?oc=5",
               "source": "v.daum.net"
             }
           ]
