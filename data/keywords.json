@@ -2,12 +2,12 @@
   "date": "2026-05-06",
   "categories": {
     "경제": {
-      "summary": "코스피 하락세 지속, 환율 상승 · 기준금리 동결 전망 · 부동산 시장 경기 둔화",
+      "summary": "코스피 낙폐 속 환율 상승 · 기준금리 인하 추진 · 부동산 시장 약세 지속",
       "keywords": [
         {
           "rank": 1,
           "word": "코스피",
-          "count": 31,
+          "count": 30,
           "articles": [
             {
               "title": "코스피 7000 눈앞…삼성전자·SK하이닉스 다음 ‘돈 몰릴 종목’은? - v.daum.net",
@@ -15,14 +15,14 @@
               "source": "v.daum.net"
             },
             {
-              "title": "코스피 7000 돌파 눈앞…공매도 잔고 20조 ‘사상 최대’ 1위는 현대차 - JTBC",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wajR3RGZaWDZPOXBOTEVEamI4TGhnTkt0dExnTFF1bFFaZ1BLMm1TZE9EcnhleGU3VXpOYVZHaC1SQ1BPeC1KM3dReElDV1QyWjlPbg?oc=5",
-              "source": "JTBC"
+              "title": "코스피 7천피 ‘눈앞’…하이닉스 시총 1,000조 돌파 - KBS 뉴스",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxVDNLOVlfZThSdUplUTc3T0xfUWhiOU9qT05FVi11SmlDUFNjSEhvbTZCY2xBTzRNRl84MVFIV200bVQxMFQ0cFBtSk9RdGc2M3ozbF9mNGpsVTQ?oc=5",
+              "source": "KBS 뉴스"
             },
             {
-              "title": "금투세 폐지 지지했던 李대통령… 코스피 불장에 다시 솔솔 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50QUlhWGl2WlQ1VjE2M2k5LTM4V0gxMGFTWkFuMmlMQmJBbXJuZUNhdDRzNjhaVXZITGR2cV9BSGJuZFBXREp3VWF5UXZMM0U?oc=5",
-              "source": "v.daum.net"
+              "title": "‘고점 공포’ 탈출인가 ‘스마트 개미’ 익절인가… 코스피 폭등날 4조8000억원 판 개인들 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTNsOUk4TWJVVDdlQ3hQb0lfb0szcVo3SVNnSTdXcEVLdURwc3dhX3luUU9FeUYyb001Q1FEUXRDUG90eFoxTVBVc2FrWUgxbndVVHc5QkM3N2FRQUNPUkJ6RXlkNTNYYmlyR0k1dnJyT25ZeWI3SjhrRENPeVdKVW5hUTZpNjNBa3hLdWxn?oc=5",
+              "source": "조선일보"
             }
           ]
         },
@@ -32,16 +32,16 @@
           "count": 28,
           "articles": [
             {
-              "title": "외국인 코스피 폭풍 매수에 환율 20.5원 하락…1462.8원 마감(종합) - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OcGIyNl8yd3RZaFJCSXlfbUxzTVJKMmR5X014YVFjekdZdlBobmZPSjNxQVJIXzk4UlctZmJtRzZhaXg0dkc3alBfeDIyaUk?oc=5",
-              "source": "v.daum.net"
+              "title": "코스피 6,780 돌파 또 장중 최고치 경신...원-달러 환율 1,473원 출발 - YTN",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93SnhSZWl2UWRfcmxaY3VmVUZoaThiYkI1WnFrdFNGME55SlNSRVZocGNLUklBSkVUVlB2amVYQ3JwamlnOW5ULVo5bENvSzl5LXIxVGROcXlQTW1QSkE?oc=5",
+              "source": "YTN"
             }
           ]
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 27,
+          "count": 25,
           "articles": [
             {
               "title": "美 국채금리 5% 돌파, ‘파멸의 문’ 열리나…불붙은 기준금리 인상론 - v.daum.net",
@@ -53,7 +53,7 @@
         {
           "rank": 4,
           "word": "증시",
-          "count": 19,
+          "count": 20,
           "articles": [
             {
               "title": "공매도·빚투 동반 상승…증시 과열 신호 최고조 [마켓시그널] - 서울경제",
@@ -68,55 +68,55 @@
           "count": 15,
           "articles": [
             {
-              "title": "역대급 불장에 부동산 무너졌다…'주식' 투자선호 1위 올라 - 연합인포맥스",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xWXB2akhZdTVweUpJSWN0QjduUnR3ZFo4SXhoN2tSb2E0eDg5Nmdla1c4QnRDMlhJWlRWQ1RIUXNwMTM0c29zNXVmUWlSSVZCVXhlWWVWNXlfczk3WThuVFFNYUJDMlBrOXN2Wmc2VDA?oc=5",
-              "source": "연합인포맥스"
+              "title": "서울 집값 안 꺾이나…부동산 전문가 70% \"내년 또는 2028년에나 안정\" - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZMThmVEN1QTVvR1hROFhjN0xvRVlJLW5mOXQ2UFJkc1ktNWpoWWdNcEZGWnlEeGstU3JaSnNtZ1dCVGp6Z3N3VFBQZGYtd0E?oc=5",
+              "source": "v.daum.net"
             }
           ]
         }
       ]
     },
     "IT": {
-      "summary": "엔비디아 AI칩 수요 증가로 반도체 시장 호황 · 테크 스타트업 투자 심화",
+      "summary": "반도체·AI 칩 수요 증가로 엔비디아 등 기업 호황 · 스타트업 투자 심화 · 테크 산업 성장",
       "keywords": [
         {
           "rank": 1,
-          "word": "반도체",
-          "count": 44,
+          "word": "테크",
+          "count": 42,
           "articles": [
             {
-              "title": "애플, 반도체 공급망 다변화 검토…인텔·삼성과 美 생산 논의 - 글로벌이코노믹",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObEJwZ0toUGphaFZIdUszNGFEUTRTNEJRRGU4VWRyci1Wdm02S0Z2OGhNY1JVcGRZb1l3TWxHV1huY2U4Tm9tbWxtb2hLWTdWbVRaZTllM3BDS1lnQUlHLVQ2Q25OVnBRYmEwclZ6bmtSTHNnTnAyTlVKbE1TdWhwcHJqME03WVV1?oc=5",
-              "source": "글로벌이코노믹"
+              "title": "빅테크가 직접 러브콜…데이터센터 배터리 시장 뜬다 - 지디넷코리아",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uZUpKVFFMYTcyVFNRYzJxRTFMM1FONG5OTmhFVEdUeklYT2VSTmxQTnVNNy1PdlExcjJRZlM5dVZCS2Z1OHhyOU1kWkVyMGlJRThYallB?oc=5",
+              "source": "지디넷코리아"
             },
             {
-              "title": "“애플, 삼성·인텔과 파운드리 협력 검토… 반도체 공급망 다변화” - 조선비즈 - Chosunbiz",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGJFeXYxeEo1a0tramtWTFRfUFZQVDZyQTAwa1J4TWg0VlFVcjhfb1lSUGJrT1oydURNU1pvbFVSN0ZpQWV6aUdCRjVjUC1GbXhidFA3VjRWa3JNanRFUXYyV2Z5a1RkLWEwdGIxTk93LXF0Wkl3TzJlYlpJd0d2dGlR0gGWAUFVX3lxTE9CbWFCZlJMaUxmaXp4WU9qdmdUcC1CR04wWVN2MzhuYW9mVXJoOEc2S1NTcVlYQ1oyYlBIZHdqaEJrOVBDZk5fcWVlVUFzRWlqd3I1dXR6UWxSYThPcU9vVzZXbHRWUFMxZjlaZ256aE82d0stSmhQb3RrTi1PUWpjbk9qNFZGMUthLUkzOTdGRzJOY0NDUQ?oc=5",
-              "source": "Chosunbiz"
+              "title": "매나테크, 독자적 글리코 영양소로 면역기능 개선 - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrRGY4cXgzUXBtMTNicTBXbU9seWtKVjZaYjEtV3VwbmN5RjJXYjBOSmMtNzN5Z3JUNEFfajBIeXV2ZkFfLVcxbHQ1SEFya0JzbWlkT3hiWE8yUdIBVEFVX3lxTE81cjlQMEJwY1lCQ0xfd2dEQ1lfbzJvVC1jd3hRT1VQRnluZnBzbFZUVnJhOUI1WVdmR1FUMi1TOGE2S1BKOW9HMjg5MDZnR1pGZXNHYw?oc=5",
+              "source": "한국경제"
             },
             {
-              "title": "메모리 가격 10배 뛰자 애플도 백기…반도체 랠리 둘러싼 4가지 질문[삼전닉스 신드롬] - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9FZzJBa0pyZGszT0VxN3lvSVhNSmYyZnlpUnVpUnB1b29TYklJWGFkeXVOemNXazRoQjlQREZNSVdnWmlBUkE?oc=5",
-              "source": "v.daum.net"
+              "title": "빅테크 AI 격전지, 휴머노이드로…메타, 'ARI' 인수 - 뉴시스",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OeE1nV3BVbGZmRUJ3V0lmTXQzakQxd085TDhVdjN2WUtpVlJJRjcxOWJsZlhkVmpqampuV25Tb3RjQjVYaHluTVhqRGljSHhvaXNrTWZfeTNMcG1TcERHZ9IBeEFVX3lxTE9ld2s1ZUgzUllwTE5DeWMxbExRRGsySXpOUXlnVmtxT25XNnpWbmNFY2kwOTZwTXRJTXcyNWEyNS1sR2NzbXdJUllRclpvM2k5Y1VMdUx6bWRjbmxOQXgxWnFBQlRIYjFTWEVNNm5senZOX1Nnb0dGZQ?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "테크",
-          "count": 43,
+          "word": "반도체",
+          "count": 38,
           "articles": [
             {
-              "title": "카카오그룹, 1분기 호실적 예상…AI·IP·핀테크로 성장축 재정렬 - 지디넷코리아",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TeWdJdGdYbndLZmx0TUJQNzU1cGp2VWQtUHNnbnVQaVFyd3RpejY2TDhtOVYxaFd0ZGNVWVNtdEQ0Z3g0dDhwa1FZeEJhSjNPUm1kM1dB?oc=5",
-              "source": "지디넷코리아"
+              "title": "개미들 반도체 하락 점칠 때, 큰손은 나스닥100 3배 베팅 - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYmY5THp1Z0Z4OG5VaURIa2VMeklNYUNBSDA1cTJYWmJtZS1YTXc4TnNvcEo3SHc5ZUliNm1ReEhxaFd0cVNDU2dfNFlZd21IanFWNm9oM3o5QdIBVEFVX3lxTFBXVFp3M0taR1RBVlBjVDVRZV90RVZDSXJQSVJYZy1KR3ZtUWhoQjRVeUhXQTlGeG5tTkJMOFZEWjhrbmQzSkJBM21CTmNhOGhvMjBuMQ?oc=5",
+              "source": "한국경제"
             }
           ]
         },
         {
           "rank": 3,
           "word": "스타트업",
-          "count": 35,
+          "count": 31,
           "articles": [
             {
               "title": "500만원짜리 스타트업으로 시작해도 괜찮았을까 - 지디넷코리아",
@@ -128,7 +128,7 @@
         {
           "rank": 4,
           "word": "엔비디아",
-          "count": 20,
+          "count": 19,
           "articles": [
             {
               "title": "엔비디아 GPU 못 사는 中, 화웨이 반도체에 맞춰 AI ‘새 판’ 짠다 - 조선비즈 - Chosunbiz",
@@ -139,40 +139,40 @@
         },
         {
           "rank": 5,
-          "word": "투자",
-          "count": 17,
+          "word": "조선일보",
+          "count": 18,
           "articles": [
             {
-              "title": "역대급 불장에 부동산 무너졌다…'주식' 투자선호 1위 올라 - 연합인포맥스",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xWXB2akhZdTVweUpJSWN0QjduUnR3ZFo4SXhoN2tSb2E0eDg5Nmdla1c4QnRDMlhJWlRWQ1RIUXNwMTM0c29zNXVmUWlSSVZCVXhlWWVWNXlfczk3WThuVFFNYUJDMlBrOXN2Wmc2VDA?oc=5",
-              "source": "연합인포맥스"
+              "title": "‘조작기소 특검’ 파장… 조선일보 “위헌으로 범벅된 공소취소 특검” - 미디어오늘",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JZVFlNGNyREZHazJHQ0h4U253bm1POE1md0RKZTVYcUxaMEhRX2NhN0hLcFY1c0EyNWs5dE84MS1IOW9WYy1ya1FxS0dCMXpRTHBkVDB1T2VSUDZpR09xYVhsUzFydEZ5LW85MVFiQTg?oc=5",
+              "source": "미디어오늘"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "죄송하지만 현재 저는 실시간 뉴스 정보에 접근할 수 없어 오늘의 주요 이슈를 확인할 수 없습니다. \n\n최신 뉴스는 조선일보, 포토엔 등의 언론사 웹사이트에서 직접 ",
+      "summary": "죄송하지만, 저는 실시간 뉴스에 접근할 수 없어 오늘의 주요 이슈를 확인할 수 없습니다. \n\n현재 날짜 기준 최신 연예 뉴스를 확인하시려면:\n- 포털 뉴스 사이트",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 25,
+          "count": 24,
           "articles": [
+            {
+              "title": "아이돌 데뷔 직전 잠적한 日 연습생… 사기 혐의 입건·출국정지 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ3VxUnI2X3djZ3RtUmpnUVN4NFBWVVpXVVF2X3pqNVFEWC1OU3R4c1dOZWpveFBfZ3FIRlotdzctNDRaSHZ2c3ZqQ2ZPd2JnNzBUVjVvVTlHay13SEozZF9LUFBzMUhuXzVaaFVneXhIOE5uQUZGZXAyQ2tLdkZUX3l2bEQ4YjBpLUZTZmdGZjE?oc=5",
+              "source": "조선일보"
+            },
             {
               "title": "뮤비까지 찍은 日출신 아이돌 연습생, 돌연 잠적 - 동아일보",
               "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qMkNkeDBQblg5TnRWNXhwNTYtMndUbXpyOWpKNnV1dldCT2ZOSTBPU1Q5YTVXMzNKWERxU0Vxbi1nTDJtd3EyU1JVQXJ2TW8ybU83dC1XVjdsS2VyT3lUd0JjQmVBT3RLZGp4NnEtQjF1QVpTZGfSAWZBVV95cUxNRnVfbHJNcFdnMGtzNVdmSWRuZGxrOEQ4OE9RNk5HSFNxMTc2NUQzSWVXYVBtTmRYVWRIcEdCUnRPc2swRmhrNFdZZVMtcm9hZzBuWnhXQkQ4czNPQ0pSeVlyVGxnaGc?oc=5",
               "source": "동아일보"
             },
             {
-              "title": "男 아이돌 연습생, 데뷔 앞두고 잠적·이중계약 의혹..경찰, 출국정지 조치 - 스타뉴스",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ETkQxelJ5U3RiVnJPMnlGaFh0ajgyYW1BUGFwTkRwVUNBMnJfaXJBdm5KclBtLUJDWG4xc05sNGJwV1lYME1GT2RYa2VEeGtKLTNyWnpPTl9UOFpKVjAtTXFiY0VOSnFMMm9jMkFIUVFrX0RP?oc=5",
-              "source": "스타뉴스"
-            },
-            {
-              "title": "아이돌 데뷔 직전 잠적한 日 연습생… 사기 혐의 입건·출국정지 - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ3VxUnI2X3djZ3RtUmpnUVN4NFBWVVpXVVF2X3pqNVFEWC1OU3R4c1dOZWpveFBfZ3FIRlotdzctNDRaSHZ2c3ZqQ2ZPd2JnNzBUVjVvVTlHay13SEozZF9LUFBzMUhuXzVaaFVneXhIOE5uQUZGZXAyQ2tLdkZUX3l2bEQ4YjBpLUZTZmdGZjE?oc=5",
-              "source": "조선일보"
+              "title": "허찬미, 연습생 10년 고백…아이돌 편견 깼다 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQUDVxdWItdGNqUjNTLW9nQ2ZrNHdYOFNiZkpPZmU0cFVFbmo3cVdGMTVVTWx6UDVITGJhSEhVdjA3M01WRVNjTFE1LWRMUFE?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
@@ -182,9 +182,9 @@
           "count": 11,
           "articles": [
             {
-              "title": "[대중문화칼럼] Z세대 중심의 다세대 여행과 관광 정책 - 천지일보",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84cVJGWldmUkQ0X3pjaDRGQUV6c2NfaVdnU1ZqR01VdVR5N1ZpUEJHZ0E1bTNhNkhYY2p0ZG5aRDI5U3dFWEcyZTdxRFoybTdHQTRIUjlrVkt6eXlHT2lOV1ZZenhVQVZPSFE?oc=5",
-              "source": "천지일보"
+              "title": "[주간! 대중문화] MZ 교생으로 변신 한선화…‘초보 캠프장’으로 나선 유재석 - KBS 뉴스",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GNkpXd0VObW1vd3F0Y1hwV2RqTC1UcEp5eDd6bVNpU1N6NUJpMmZ0SzJpcTNxRzBfMURnU3ZnUjhEeUdOYVRwTFFNV2RMVjhGZVVjeXR5S2RhZUE?oc=5",
+              "source": "KBS 뉴스"
             }
           ]
         },
@@ -206,8 +206,8 @@
           "count": 10,
           "articles": [
             {
-              "title": "에스파 카리나, 한국의 美로 ‘멧 갈라’ 사로잡았다 [포토엔] - newsen.com",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Gc1AzQndud2xCZFRHQVZLVVdGRHJWVnZkVk43Ri1FaWU4MFlOMWk1SlduZGtpMjJrb3JIREpBSlM0SmZENDBuTk9aWmhZVnE0dXNLb0tnM0xuOUxHTDJxejdPQzgwSWR4?oc=5",
+              "title": "‘케데헌’ 이재, 멧 갈라 시선 집중시킨 가채 스타일 [포토엔] - newsen.com",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nNjRIZnlEQ3N0UzRtR3c1dWtfc1ZnOFRtbVpZdVh2MWtvdGUtcVNrc1phbi1aV1N2VXFRa2pUc2tyWVV4OGRkeVUtbTkwWEJQRVlsVGdGV0hPRUw2VHRXZWk3WDVjdFla?oc=5",
               "source": "newsen.com"
             }
           ]
