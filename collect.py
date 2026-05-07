@@ -78,14 +78,18 @@ def extract_keywords(titles):
     return Counter(nouns).most_common(5)
 
 def generate_summary(keywords, category):
-    words = [item["word"] for item in keywords]
+    lines = []
+    for item in keywords:
+        titles = " / ".join(a["title"] for a in item["articles"][:2])
+        lines.append(f"- {item['word']}: {titles}")
+    articles_text = "\n".join(lines)
     message = anthropic_client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=100,
+        max_tokens=150,
         messages=[
             {
                 "role": "user",
-                "content": f"다음 {category} 뉴스 키워드들의 오늘 주요 이슈를 50자 이내로 요약해줘. 서로 관련 없는 주제가 섞여 있다면 억지로 연결하지 말고 '·'로 구분해줘. 키워드: {', '.join(words)}. 요약문만 출력해줘."
+                "content": f"다음은 오늘의 {category} 뉴스 키워드별 기사 제목이야. 실제 기사 내용을 바탕으로 오늘의 주요 이슈를 60자 이내로 요약해줘. 서로 관련 없는 주제가 섞여 있다면 억지로 연결하지 말고 '·'로 구분해줘. 요약문만 출력해줘.\n\n{articles_text}"
             }
         ]
     )
