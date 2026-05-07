@@ -2,12 +2,12 @@
   "date": "2026-05-08",
   "categories": {
     "경제": {
-      "summary": "엔화 약세로 미국·일본이 환율 방어에 나선 가운데, 코스피 강세에 국민연금이 고민·2금융권 예금금리 상승·부동산 가격 상승으로 민심 악화",
+      "summary": "엔화 투매로 160엔 돌파, 미일 환율 방어 연합전선 · 코스피 상승에 국민연금 수익 실현 고민 · 2금융권 예금금리 상승 · 부동산 가격 상승으로 전월세 대란",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 33,
+          "count": 32,
           "articles": [
             {
               "title": "엔화 투매에 160엔 뚫리자…美日 환율 방어 연합전선 꾸린다 - 서울경제",
@@ -20,28 +20,28 @@
               "source": "뉴스1"
             },
             {
-              "title": "엔/달러 환율 급락…엔화 가치 2개월 반 만에 최고 - 연합뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UN3VKTnJodHdqdDBpSkNQeDdsQ1BvZS02WHlZWUtBcEhrWi1udHNSLWtzejg5a2hWR0FVcmZTMmpyX0JYaUNwTUFKLUVzVndwdkZBbUVQaExPbDTSAWBBVV95cUxNbUlYbDJwYWhqZTR1NEw0TTF2dDJPaUYtMVBhbXJIRk1QdG9VbG5fTExfZ0l2QXVRQkhJUVJUYXNHcjFyUVQ2ZjZfekZ3MExLRHZ2VFFUeGN1TnlUemVtNEc?oc=5",
-              "source": "연합뉴스"
+              "title": "엔·달러 160엔 돌파에 日 5조 엔 개입…미일 환율 공조 본격화 - 서울경제",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mUDlhdmJNUVZoNkpTYjFtMXU5U015MmZEZFp3NExzOTdBaGE4VUZlQUp1a2U0M2V6bEFSX0M3dnBrWi1qb0NRNnBYdTlFQWhJRVHSAVNBVV95cUxObXZXQ093WkxoTkdDLWMwTWQ5YXdYb1BVanRSVjUyNXI5c1pnWThLbTRtblBUbWY2UHNNZTBIWXVISElVd3Q4S2UwdFhvel93WmZIUQ?oc=5",
+              "source": "서울경제"
             }
           ]
         },
         {
           "rank": 2,
           "word": "코스피",
-          "count": 32,
+          "count": 29,
           "articles": [
             {
-              "title": "'250조' 벌었는데…코스피 폭주에 국민연금 고민하는 까닭 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96VDJYUjlueWhHVVJRc3B0cEIzVnZqeVFUWmZpSHhhOE5tVGdvTnBlaHVobjhIbWJkc2ZmUTZxb0U2NUZfbUh2WXcwaDYxVVk?oc=5",
-              "source": "v.daum.net"
+              "title": "'250조' 벌었는데…코스피 폭주에 국민연금 고민하는 까닭 - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2SzU0QlJqdmZtd3NmU1Yza1laaU95dVZJa3ZwYXhGRVhudDRnWHBIWnRzLVpYczg5YVBDdzlqNmtlQjI5WmJHT0kwT29qczQwRzZCc1pabXZkd9IBVEFVX3lxTE5aNUFabVBtLVhlcHI2VHRqUDRiNXI4cTFaaTJaT1M5N2NGZUdpTEZYQ2pJaHp0UjlkUk5vQmJTcU5Gc0pnd3ZONmxIUERnSDNNaWlzbQ?oc=5",
+              "source": "한국경제"
             }
           ]
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 24,
+          "count": 23,
           "articles": [
             {
               "title": "2금융권 예금 금리 일제 상승…저축은행 16개월만에 최고 - 연합뉴스",
@@ -53,11 +53,11 @@
         {
           "rank": 4,
           "word": "증시",
-          "count": 19,
+          "count": 20,
           "articles": [
             {
-              "title": "증시 활황에… 잊혔던 ‘실물 OTP’ 부활 - 조선비즈 - Chosunbiz",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlBIWTRDbFdoOERiYlFPVFEtMGh1Vm4yQlg3QkU1NEZqSUdNRndKNmlUczJlci1rU0wwWFBSWWdDbk4tMDQ4TTVUNTFLQ3dWNU5qVGVNSUxvYjBKSjhVZ1N5S1BFZzFMRTd1cmhadTlwSWliblV2Rm1oczExcWt2Q2dDLTlSRHVi0gGcAUFVX3lxTE1kazVtMVFCcFZRdnhhczB5OEN4TktjQXBMWThoRkxNSmdaVmVIWHVQR1dLSzZWNWljNE00X3VidWFlMWdzUVRVcHFXT3hROWJQc1h6Y3BwcjBJV1lRZlpGUGZNRXNhWmt6SUx1UTMzSXR3UWFVc2FBejZncEVzUFZKRWd4ZXBXMnJYWEpSenJCN21Yb195d3RhNFdXcQ?oc=5",
+              "title": "뉴욕증시, 미국·이란 협상 주시 속 혼조 출발 - 조선비즈 - Chosunbiz",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcmlsQ2tWMkh1dzBYZGFPYVpvckM4bnN2TkQtUTBWaERFaHVtejhDT2RFWHZFem9zOWwwZ1NwVGpwTVpNMVdSMU1jR2xkUVR6dW8yUldGOWFRM3ZmVmp0alJCNVVkNW9Ldm43elFBWVJhdVVjbWVkMTRDb3V5QkNjVHdBbHZwamhHSUHSAZ4BQVVfeXFMTjQ4bDgtenp6cm5rNGZMOG1QczJlMXhyblpuMDFFbjhZQW1PTUR4NTFzOXZ2RkdQY2lVRDFCNG1lczEyYkg3Q3lTOW9BRGt4ZkhXZjExbjZ2cHkxc3pBYUZSQ081d0pKVWIwMzlMVk5YYmkyVDRkQmlyTFE2NFhDNWNEc1MzelhwMFJCeldqME95NFlJdWZMZUItZDNiaGc?oc=5",
               "source": "Chosunbiz"
             }
           ]
@@ -77,13 +77,18 @@
       ]
     },
     "IT": {
-      "summary": "스펙스테크 화재 대응 솔루션 주목 · 중국 딥시크 기업가치 65조원 도달 · 반도체 공정 배분 논의 · 광명시 스타트업 유니콘 육성 · 엔비디아 반도체 랠리서 부진",
+      "summary": "AI 인프라 경쟁 심화로 빅테크 1200조 투자 · 반도체 공정 배분 논의 · 엔비디아-코닝 광섬유 협업 확대",
       "keywords": [
         {
           "rank": 1,
           "word": "테크",
           "count": 43,
           "articles": [
+            {
+              "title": "뜨거워지는 AI 인프라 경쟁… 빅테크, 올해 1200조 투자 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdE5iNXBzeFUwLVd4RUFtVTVneHdaVl85VWNhX1huU25KLXRFZWZSUnN2a2lHVklKa3RzTDZvNmJxaEh1bUc2QnNrVUdiUEl4UnlpWnV0cE05QlFlbWhJLUFMM0dfY2oxMVpyNXdXYTM0SERHYThUWFV3amJvTG4tNFhCZw?oc=5",
+              "source": "조선일보"
+            },
             {
               "title": "스펙스테크 ‘SFEX Thermal Barrier’, 전력·데이터센터 화재 확산 대응 솔루션으로 ‘우뚝’ - 전기신문",
               "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIbFlhemdPdEc0MkxWQTgyaHdFQXdzWGcxM09GMU1UWEhZOUJuTGZYWklLb0wyYm9TX0F3OW9wQnlYOEM3dVlpMlVyODc1c0d6OHJQMlVkR2NrMEhpOG1wQWk2UHliWGo2SlBPSNIBcEFVX3lxTE5TQWgwTS1RMmR0RE5idnE4SFVjSzROUHJyVUhiS0Q5d3ZZVkZCZkgwOVF2cWF6NndvTFl0THVlSDRzN281SkU2NWlKTG9fREdQV3dnUTh1dlFDVERnWTlTNG9sMjZNdVVEXzlWdDRsVF8?oc=5",
@@ -93,18 +98,13 @@
               "title": "중국 AI 딥시크 몸값 65조원까지 치솟았다…정부·빅테크 지원 결집 - 지디넷코리아",
               "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ha3hIRk5URnVHblB5TTJzWk9sS1d1b1RmelVTWXE0QmhMZG1yZjFZYTRXTGUtRTByNko1U1hwNTZiMk03blRsUzV1WWlWM2Z5alBkLVhR?oc=5",
               "source": "지디넷코리아"
-            },
-            {
-              "title": "김소희 의원, 충남 기후테크 산업 육성 간담회 개최…“산업전환·청년일자리 해법 모색” - 일간투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FVzFySjNTM2ZoREg1a09QR1JVYnkyTkJfMTdWY0FTSl9aRklNWDJjUXZTRTNTVTVzVzZqTElMWnVLQW9FQXZlNlJQRmpnNVVtUWhMZ0RKM2xsSXU4Y1Z5VWtzWEhvekNRV2Zn?oc=5",
-              "source": "일간투데이"
             }
           ]
         },
         {
           "rank": 2,
           "word": "반도체",
-          "count": 40,
+          "count": 38,
           "articles": [
             {
               "title": "‘5천만의 반도체’가 벌어 올 1200조…‘공정 배분’ 화두 던졌다 - 한겨레",
@@ -116,53 +116,53 @@
         {
           "rank": 3,
           "word": "스타트업",
-          "count": 34,
+          "count": 31,
           "articles": [
             {
-              "title": "광명시, ‘미래기술’ 품은 혁신 스타트업 20곳 선정…유니콘 기업 육성 시동 - 아시아경제",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNX0VGaDVSN0kzdndxaW5Oa3dzLUhEVEY5Z29lQjByUzFMbms1aVg1Rll6aWpDY05MWFlMZGRHdlNHcVhRTXp2MTJTM0ItT29XYXRTbG5mNkZWcUV5VjZzNQ?oc=5",
-              "source": "아시아경제"
+              "title": "광명시, 미래기술 스타트업 20개팀 키운다 - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OUktCSHR5NWNOT3JMUTE0aDhpamN2eWFDd3BCNzQ5a3dGdlI4eGF1Z3ZzckZLMHp0b1JpdV81ZDQweGVwSnZzX1NmR09UaTFrdG1CdUY2NFg3Z9IBVEFVX3lxTE9BQVk3eUdHTWQ4THh6WVRlTlVLdHNkMkNxbVlXQ2VGa1VvQnV0X09EdmM2U2xkWEtHckJMN0pqU0JrMWFNRkYtRnRTamNkVktFZ2k5eQ?oc=5",
+              "source": "한국경제"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "투자",
+          "word": "엔비디아",
           "count": 19,
           "articles": [
             {
-              "title": "웨딩·골프 회사 맞나…베뉴지, 알고보니 '삼전·하이닉스' 투자주? - 마켓인",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjTzJKcG9UQ1B2aEtHNUtaSElzckJLdV9qV0Jvd0dxbm5ETTlwaGdwUXBkRnpjRHdacncyUnMydnpVZ2loX0U4Nll1Sm0zeUROaHNXZ3lBT09jVzAwTWYxV2RBZXNEV21FYlVyMFV6c00ydGc?oc=5",
-              "source": "마켓인"
+              "title": "'구리선도 느리다'…엔비디아, 코닝과 4.6조원 광섬유 협업 확대 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DMnJmVGs2cWpaSkZjZGowTVoyZzVBc3FDMEVodUI1Y3ZZZGxEeVMzM01hWWl2WGc0dUFlSXA4eXVUMVNEbXpvTDhSRkNVUms?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "엔비디아",
-          "count": 18,
+          "word": "조선일보",
+          "count": 19,
           "articles": [
             {
-              "title": "엔비디아, 최근 반도체 랠리서 뒤쳐진 이유 - 연합인포맥스",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnNWpRazhIX29qSWJJNGsyYnhKa2tvSENCVDRaZGVKdXFUbXdTeFd2T1lFZ1paMnNDVGJKZGNoSGJpQ0cxLU5uTjVKN1NPdm1sSm1ORkFBUEluNGFpRDZYVWF2YURoNlVGSDd3ZEhwRlA?oc=5",
-              "source": "연합인포맥스"
+              "title": "조선일보 “개헌 반대하면 내란세력인가” 동아일보 “국힘 전환점 만들 수 있었는데” - 미디어오늘",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qLWdxRnU3N1JWaUxWc2NsbkVMa2NNaHlxOXpsTEd4dlpna2pieVpEbGV4VWNlNjlreU9rN3NHRkxKVGFxSFY1M0FhVzhVd1Vpd0k2VTMtSGlxZF8yQWF6bTBadkhjelNPYnozMFZ1aW4?oc=5",
+              "source": "미디어오늘"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "크래비티·엑디즈가 수능 한국사 영상 출연 · 휠체어 무용가 김용우씨 서울예술상 수상 · ENA 드라마 6회 만에 시청률 8.5% 달성",
+      "summary": "버추얼 아이돌 테사르 활동 개시 · 휠체어 무용가 김용우, 서울예술상 특별상 수상 · ENA 드라마 6회 만에 시청률 8.5% 기록",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 23,
+          "count": 22,
           "articles": [
             {
-              "title": "“크래비티·엑디즈와 공부하자” 교육부-EBS, ‘아이돌이 들려주는 수능 한국사’ 첫 공개 - 조선에듀",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBleUhITHhNbVlQeWI5Y2c5Qk9NZXFPSFBZTE1BYWtUVVlxYW05SmtKRXU2WEJLeUVnTy03MFg0Tnkydldfbmt6UTJ5UzFLYk92NkVZUERucUxGTHRUc1E0el9rQXp0bnM3T3B3NXg2QQ?oc=5",
-              "source": "조선에듀"
+              "title": "‘버추얼 아이돌’ 테사르, 붉은악마 깨운다 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWJBaE80UVBHbHg0c2R5NmxyZjd1WGhWaHBmeWY5cG40Znh1MnZ3bXJBbm82blRTM2lmNUMyaVVXVWVubFFqVWxRZXBjdjVuYnpMX1k5am5vR3dEWXpPSGZINjZuT01meFRhRmRHa2VqcFNseEo1OEN6OUZDc19WVC01ZDRjNjA0UXc?oc=5",
+              "source": "조선일보"
             },
             {
               "title": "아이돌 리더 된 강동원 \"묘한 웃음 드리려고 직접 헤드스핀\" - 연합뉴스",
@@ -170,16 +170,16 @@
               "source": "연합뉴스"
             },
             {
-              "title": "아이돌이 키운 아이돌… “목표는 빌보드 1위” - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzUzk1YUs0OHpSYzdrM3BoZ1NuT3ZJMW5GSEZJQll5QkZ4clFQdUdBVlJGeVk5a0EwUzJnT3Y4N21LZWZwcngxdlBfSzJwckU?oc=5",
-              "source": "v.daum.net"
+              "title": "BTS 지민, 스타랭킹 男아이돌 236째 '독보적 1위' - 스타뉴스",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0cDluNWh6dFFwOTZIcHYzVEh6UjZVTjRZY1ZrSmYyMlN1bExYazVxR3FDWWdJZTFQTkxzYmI1enRhQ3B4TS1XUllNaHVNeHNyRllZajhyUXViWVhEM2NVLXJNc2hyLVBfZFVDbXVLLWF5VEU?oc=5",
+              "source": "스타뉴스"
             }
           ]
         },
         {
           "rank": 2,
           "word": "대중문화",
-          "count": 13,
+          "count": 10,
           "articles": [
             {
               "title": "군산에서 수도권에 집중된 대중문화 향유 발판 마련 - 전북도민일보",
@@ -191,7 +191,7 @@
         {
           "rank": 3,
           "word": "예술상",
-          "count": 13,
+          "count": 10,
           "articles": [
             {
               "title": "휠체어 무용가 김용우씨, '제4회 서울예술상' 특별상 수상자 선정 - 에이블뉴스",
@@ -203,7 +203,7 @@
         {
           "rank": 4,
           "word": "포토엔",
-          "count": 13,
+          "count": 10,
           "articles": [
             {
               "title": "더보이즈 현재, 퍼펙트 볼 하트[포토엔HD] - newsen.com",
@@ -215,7 +215,7 @@
         {
           "rank": 5,
           "word": "드라마",
-          "count": 8,
+          "count": 9,
           "articles": [
             {
               "title": "넷플릭스 기대작 꺾더니…ENA가 일냈다, 6회 만에 최고 시청률 8.5% 찍은 '한국 드라마' - 위키트리",
