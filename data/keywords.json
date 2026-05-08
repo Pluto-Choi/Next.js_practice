@@ -1,14 +1,19 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "categories": {
     "경제": {
-      "summary": "엔화 투매로 160엔 돌파, 미일 환율 방어 연합전선 · 코스피 상승에 국민연금 수익 실현 고민 · 2금융권 예금금리 상승 · 부동산 가격 상승으로 전월세 대란",
+      "summary": "원달러 환율 상승·코스피 사상 최고치 경신·2금융권 예금금리 인상·개인투자자 증시 유입 증가·주식수익 부동산 투자 전환",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 32,
+          "count": 30,
           "articles": [
+            {
+              "title": "원·달러 환율, 17.7원 오른 1471.7원 마감(종합) - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uOXVqRk5icUtSZUUyR3VHMm8zRkp2dW9ZWjZMUlZLMURRRjRlSmVaZHRQUVFnQmRxSXhCNDVqSWJ1NzdOa19jZU9Mekd5dHhZMjRZMUZjVXBwbzdCejM3WdIBeEFVX3lxTE1IZS1Ta1MtZ0JMdnIzNlpMa3VJQlJha0Vvb0pyVjd4YzE1VVo3SkVfVHBpdnRiWDhxbnNRLVRaQ0FhNU9HcTE4TTUzckw3QVZDTFJTR0ZDcUlOckstcGs5clRad3NXUlJNdEFCaDFHb2lMWUx3NUx4Nw?oc=5",
+              "source": "newsis.com"
+            },
             {
               "title": "엔화 투매에 160엔 뚫리자…美日 환율 방어 연합전선 꾸린다 - 서울경제",
               "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0WmF2QkdRUFEyaW82Vzk4MjEzOTluR0R1UURIYWZSbE52M2tHbFVyb3VoMEgyVkFMSk5Pd052OVc4ZGw2OVVxTDRSb0ZXZkNlNkHSAVNBVV95cUxNN2JaWnVkUW9hN054cVRySm90OUIzUTRodVlvSHBhVnpEYjRERGJqUmdGeHh4Wm1aWGtrTXY3Ukw2VEZSOF9kYl9RT2FSd1BSb3IwQQ?oc=5",
@@ -18,23 +23,18 @@
               "title": "달러당 155엔 벽 못 넘겨…\"日 환율개입 약발 약해진다\" - 뉴스1",
               "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YdTdCRjFpb2FsWlE4OUppWUlKSVBlMUxnQllKYlZob0dLRlBVY281TEFrTDEtRTNGVTBmU2U2MkZNZDdCaVlGNUU5Z2huSXVSUVdBVUgtSHBKNXlFaEdvR2g0ZVIxcG8?oc=5",
               "source": "뉴스1"
-            },
-            {
-              "title": "엔·달러 160엔 돌파에 日 5조 엔 개입…미일 환율 공조 본격화 - 서울경제",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mUDlhdmJNUVZoNkpTYjFtMXU5U015MmZEZFp3NExzOTdBaGE4VUZlQUp1a2U0M2V6bEFSX0M3dnBrWi1qb0NRNnBYdTlFQWhJRVHSAVNBVV95cUxObXZXQ093WkxoTkdDLWMwTWQ5YXdYb1BVanRSVjUyNXI5c1pnWThLbTRtblBUbWY2UHNNZTBIWXVISElVd3Q4S2UwdFhvel93WmZIUQ?oc=5",
-              "source": "서울경제"
             }
           ]
         },
         {
           "rank": 2,
           "word": "코스피",
-          "count": 29,
+          "count": 28,
           "articles": [
             {
-              "title": "'250조' 벌었는데…코스피 폭주에 국민연금 고민하는 까닭 - 한국경제",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2SzU0QlJqdmZtd3NmU1Yza1laaU95dVZJa3ZwYXhGRVhudDRnWHBIWnRzLVpYczg5YVBDdzlqNmtlQjI5WmJHT0kwT29qczQwRzZCc1pabXZkd9IBVEFVX3lxTE5aNUFabVBtLVhlcHI2VHRqUDRiNXI4cTFaaTJaT1M5N2NGZUdpTEZYQ2pJaHp0UjlkUk5vQmJTcU5Gc0pnd3ZONmxIUERnSDNNaWlzbQ?oc=5",
-              "source": "한국경제"
+              "title": "코스피, 상승 반전해 7500선 목전 마감…또 사상 최고치 - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxTGZ1Z2NhbkdhUEN5Tk4tSUczVUpDY3VzbVFHR0JBZXZyTVYtSXVNWElTMGpQMDlVLVdrT3hRV0tyN3VIekpCYjZBcFJPeUpXRXA3RE9DendSdEFKLWxtadIBeEFVX3lxTFBQUEFCcVFkMmhDZTFiTkstTF9oT09QZVlKb2psNzFsNTc4NkZlZUU1OUR4SkNUaHlTZnN6U0hoYjJuYjZMNFRiQWJITF9rMTVuMmtoZGFOSFlNQzd1SVY5MmVMdG04WTFkR0YtWGwwWWF1N2N4bnlXeA?oc=5",
+              "source": "newsis.com"
             }
           ]
         },
@@ -53,94 +53,94 @@
         {
           "rank": 4,
           "word": "증시",
-          "count": 20,
+          "count": 23,
           "articles": [
             {
-              "title": "뉴욕증시, 미국·이란 협상 주시 속 혼조 출발 - 조선비즈 - Chosunbiz",
-              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcmlsQ2tWMkh1dzBYZGFPYVpvckM4bnN2TkQtUTBWaERFaHVtejhDT2RFWHZFem9zOWwwZ1NwVGpwTVpNMVdSMU1jR2xkUVR6dW8yUldGOWFRM3ZmVmp0alJCNVVkNW9Ldm43elFBWVJhdVVjbWVkMTRDb3V5QkNjVHdBbHZwamhHSUHSAZ4BQVVfeXFMTjQ4bDgtenp6cm5rNGZMOG1QczJlMXhyblpuMDFFbjhZQW1PTUR4NTFzOXZ2RkdQY2lVRDFCNG1lczEyYkg3Q3lTOW9BRGt4ZkhXZjExbjZ2cHkxc3pBYUZSQ081d0pKVWIwMzlMVk5YYmkyVDRkQmlyTFE2NFhDNWNEc1MzelhwMFJCeldqME95NFlJdWZMZUItZDNiaGc?oc=5",
-              "source": "Chosunbiz"
+              "title": "주식계좌 1억개·예탁금 130조…증시 몰리는 새내기 개미 - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aQk9RRjJpc2tsbzMtY01jSjM2RTZwQ1dKb1MzdW15M3hJaWtub0F3SkU3Rmw1U0FuYVpOQ2pMaHJjamJhN2JFZmpla3BKQy1ManVTNzZRdnlRWkR4Vngyd9IBeEFVX3lxTE5WT1ZLeHVHN2J2NnlJSkkxemJ2dUVZRi1jN1p6cHR0RmpXemVoT1dwNHBwSXBGYU1HY2xnLXBfZmlVSXFRN1V4eGRhMVZ4VXlWS1Y2RVV2cmVzRXpGVmFIZmZHSi1wc2ZQTWhoUWFodHY4U1dfQzlGNA?oc=5",
+              "source": "newsis.com"
             }
           ]
         },
         {
           "rank": 5,
           "word": "부동산",
-          "count": 15,
+          "count": 14,
           "articles": [
             {
-              "title": "집값 폭등에 전·월세 대란까지…선거 최대 복병된 부동산 민심 - 중앙일보",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SdWxKMU5uZDNxRWRWZnYzMXZnZWRUdWR3NV9yX2VqQWpoZHFDQzhydkZHY2hKYl90YWNOVjBNVWt5Q3I5R2R2Znk3WGl5RldENDQ1eUFB?oc=5",
-              "source": "중앙일보"
+              "title": "주식 불려 결국 집…한은 ‘도로 부동산’ 경고 - dt.co.kr",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PWjgyX1dXOG5VUVMyNVVlVW9UYnBLQk8zcFhJdFRORThUSmxzdXdnaXhxdHJwZ1NVamNvZHZMOGgzNE41UmI1QXhlcDhvUQ?oc=5",
+              "source": "dt.co.kr"
             }
           ]
         }
       ]
     },
     "IT": {
-      "summary": "AI 인프라 경쟁 심화로 빅테크 1200조 투자 · 반도체 공정 배분 논의 · 엔비디아-코닝 광섬유 협업 확대",
+      "summary": "빅테크 기업들이 AI 인프라에 대규모 투자하면서 현금 보유액 급감 · YC, 여름 투자 대상 스타트업 아이디어 공개 · 반도체 주가 고평가 속 저평가 종목 관심",
       "keywords": [
         {
           "rank": 1,
           "word": "테크",
-          "count": 43,
+          "count": 44,
           "articles": [
             {
-              "title": "뜨거워지는 AI 인프라 경쟁… 빅테크, 올해 1200조 투자 - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdE5iNXBzeFUwLVd4RUFtVTVneHdaVl85VWNhX1huU25KLXRFZWZSUnN2a2lHVklKa3RzTDZvNmJxaEh1bUc2QnNrVUdiUEl4UnlpWnV0cE05QlFlbWhJLUFMM0dfY2oxMVpyNXdXYTM0SERHYThUWFV3amJvTG4tNFhCZw?oc=5",
-              "source": "조선일보"
+              "title": "AI 인프라에 현금 쏟는 빅테크…보유 현금 10년래 최저치 - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HZVlIdm1GbDUyZjVXOWlyVjNEREF0Zk9paVNjSDNJZjh5Mm5Mekk5S0V2QVg2ZGhKQnMzcVZKNDVPWTU5ekZQVWEzNDlsTklNVjJnbEp2ZlR1WTUzQWh2SNIBeEFVX3lxTE1GUURtTFM2Slp4V1dpZG53eWxwZkRUTjktd2xRTkh2ZGd5SGlGWVRBV293V1JYSDlYX2d1amE5a0ZQb1Roclh5ME9XaTNERmdNTGFaTVRDZEdTTWU4dWVnTEZUWFJHM3dka2NUaEFVajJnMzJCVUJGWQ?oc=5",
+              "source": "newsis.com"
             },
             {
-              "title": "스펙스테크 ‘SFEX Thermal Barrier’, 전력·데이터센터 화재 확산 대응 솔루션으로 ‘우뚝’ - 전기신문",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIbFlhemdPdEc0MkxWQTgyaHdFQXdzWGcxM09GMU1UWEhZOUJuTGZYWklLb0wyYm9TX0F3OW9wQnlYOEM3dVlpMlVyODc1c0d6OHJQMlVkR2NrMEhpOG1wQWk2UHliWGo2SlBPSNIBcEFVX3lxTE5TQWgwTS1RMmR0RE5idnE4SFVjSzROUHJyVUhiS0Q5d3ZZVkZCZkgwOVF2cWF6NndvTFl0THVlSDRzN281SkU2NWlKTG9fREdQV3dnUTh1dlFDVERnWTlTNG9sMjZNdVVEXzlWdDRsVF8?oc=5",
-              "source": "전기신문"
-            },
-            {
-              "title": "중국 AI 딥시크 몸값 65조원까지 치솟았다…정부·빅테크 지원 결집 - 지디넷코리아",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ha3hIRk5URnVHblB5TTJzWk9sS1d1b1RmelVTWXE0QmhMZG1yZjFZYTRXTGUtRTByNko1U1hwNTZiMk03blRsUzV1WWlWM2Z5alBkLVhR?oc=5",
+              "title": "\"AI 시대, HR 나아갈 해법 제시\"…‘HR테크 리더스 데이5’ 성료 - 지디넷코리아",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hY3NUYkVUZXVFekI1OFc2NVU2SGVnMkhVd1hGUXl3TGRTenNoR2dXZ0ZZODV2b19pOEtlZDFYUkJCempMRHlpS091VDQzZ0NmSkdqWFd3?oc=5",
               "source": "지디넷코리아"
+            },
+            {
+              "title": "[에듀플러스]“AX+ 시대 상생 해법 찾는다”…에듀테크학회, 산·학·관 협력 논의 - 전자신문",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNOWVFbkRyOU9zdXFCVllXdmU3dGVLV3pzLUd1dVBfa1l3cHFPWDdGZ1N4VkNqUnBpTWhsUEpreWtIcmU2RXhFT0NDVnZPQQ?oc=5",
+              "source": "전자신문"
             }
           ]
         },
         {
           "rank": 2,
           "word": "반도체",
-          "count": 38,
+          "count": 36,
           "articles": [
             {
-              "title": "‘5천만의 반도체’가 벌어 올 1200조…‘공정 배분’ 화두 던졌다 - 한겨레",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEVVJ5UU1pdnJtLU45MkF0SWZwUGx1VnhOOFR3Z3pyY01oSE1wOER5UkJEZlE3bmtDVUVOZ1NoMGVZSEN6UmU0ODVrOXlJMXNob2NZcFpWbWhXWXJ2T0pzNWgweXNBSTU0OV9PZm51dEJGdw?oc=5",
-              "source": "한겨레"
+              "title": "“반도체 광풍에 묻혀 저평가”…월가가 조용히 담은 종목들 - 중앙일보",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WNlZKT2JLOUpBdzkzRDMtS3hlWUI1SW1HNjRGUVJsX3NEUFFNWHZZbHdrVmF5M0tmckNRWVJwc3VIb2xuODBWelA4SWx1dGRVWHFqUXBB?oc=5",
+              "source": "중앙일보"
             }
           ]
         },
         {
           "rank": 3,
           "word": "스타트업",
-          "count": 31,
+          "count": 28,
           "articles": [
             {
-              "title": "광명시, 미래기술 스타트업 20개팀 키운다 - 한국경제",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OUktCSHR5NWNOT3JMUTE0aDhpamN2eWFDd3BCNzQ5a3dGdlI4eGF1Z3ZzckZLMHp0b1JpdV81ZDQweGVwSnZzX1NmR09UaTFrdG1CdUY2NFg3Z9IBVEFVX3lxTE9BQVk3eUdHTWQ4THh6WVRlTlVLdHNkMkNxbVlXQ2VGa1VvQnV0X09EdmM2U2xkWEtHckJMN0pqU0JrMWFNRkYtRnRTamNkVktFZ2k5eQ?oc=5",
-              "source": "한국경제"
+              "title": "YC가 이번 여름에 투자하고 싶은 스타트업 아이디어 15가지 - 요즘IT",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WUVpxUFF4eVkwY2FEaFhSVXNNNnMxUUhFalBuTVMwOVVsbHNwTm5welhBaU1lenl0U2FyREZlWDVrcmdfY1N0Mkl2bXBlS3RMeDBJY0VwdkROQQ?oc=5",
+              "source": "요즘IT"
             }
           ]
         },
         {
           "rank": 4,
           "word": "엔비디아",
-          "count": 19,
+          "count": 18,
           "articles": [
             {
-              "title": "'구리선도 느리다'…엔비디아, 코닝과 4.6조원 광섬유 협업 확대 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DMnJmVGs2cWpaSkZjZGowTVoyZzVBc3FDMEVodUI1Y3ZZZGxEeVMzM01hWWl2WGc0dUFlSXA4eXVUMVNEbXpvTDhSRkNVUms?oc=5",
-              "source": "v.daum.net"
+              "title": "엔비디아, AI 데이터센터 아이렌에 최대 3조원 투자 - 뉴스1",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oR25qclNHNE14ZnF4UWtEOHFMX1BZb094VnBBcFFDUTF1cGx4U1hZZ2NJQjBoWEdBdkxaNm40WDRNVWdzeWdISzBDbjdQNDRJd0lpalhUMGw?oc=5",
+              "source": "뉴스1"
             }
           ]
         },
         {
           "rank": 5,
           "word": "조선일보",
-          "count": 19,
+          "count": 16,
           "articles": [
             {
               "title": "조선일보 “개헌 반대하면 내란세력인가” 동아일보 “국힘 전환점 만들 수 있었는데” - 미디어오늘",
@@ -152,75 +152,75 @@
       ]
     },
     "연예": {
-      "summary": "버추얼 아이돌 테사르 활동 개시 · 휠체어 무용가 김용우, 서울예술상 특별상 수상 · ENA 드라마 6회 만에 시청률 8.5% 기록",
+      "summary": "크래비티·엑디즈 등 K팝 아이돌이 수능 한국사 강의 참여 · 유재석이 숏폼 드라마 감독으로 활동 · 이준호 남배우 스타랭킹 2위",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 22,
+          "count": 27,
           "articles": [
             {
-              "title": "‘버추얼 아이돌’ 테사르, 붉은악마 깨운다 - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWJBaE80UVBHbHg0c2R5NmxyZjd1WGhWaHBmeWY5cG40Znh1MnZ3bXJBbm82blRTM2lmNUMyaVVXVWVubFFqVWxRZXBjdjVuYnpMX1k5am5vR3dEWXpPSGZINjZuT01meFRhRmRHa2VqcFNseEo1OEN6OUZDc19WVC01ZDRjNjA0UXc?oc=5",
-              "source": "조선일보"
+              "title": "공부도 덕질처럼…K팝 아이돌이 들려주는 EBS 수능 한국사 - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DSzY3NlJEQzNWcE5MeFJMM0dmbzlWZWhwUklXOGk1ZE9iTVRTRE1lWWRPWjhIN3hTRV8yTUoxcHNxY0x5M1dNb040QnBaclNxM0t2WElNQnJPcUw2WHBJNNIBeEFVX3lxTE1SVDBEcXVfQlNvbEt5S0xqRFFIZEc5NXd4aWRocktBRWZmbk0tcWdKR1lGdUdsby1mTmNMeTFBWWRCUUZ4MWxKN1p2X1J3d3h4UTc1UWJVLTcwamRHa1V4V2xraWh2RUxjYlBZUktzOExGU3RNOWtUZw?oc=5",
+              "source": "newsis.com"
             },
             {
-              "title": "아이돌 리더 된 강동원 \"묘한 웃음 드리려고 직접 헤드스핀\" - 연합뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hMDFoUk9DVFRJTG02ZmpERUp6Q285anNrWnNPQ1NNc21PdVdVUXl2MlJ6ZFh3S3ZOZ1hrdnQ2T1pmQXJsMUd5dUs0RjBCbmw1R1dTMHhCdlZ3UUXSAWBBVV95cUxNMXVhM2JEQmNiaEpqUkZ5QS14Rkg1VFNhUlcwVnJpSDR2NUNXNjYtYy16ZDgyUlFwdjNaZzBxbldmTWx2QmNNRDhXWDBoWGR2ZDdoOGlMTnd4SXRtSzVvQnU?oc=5",
-              "source": "연합뉴스"
+              "title": "“크래비티·엑디즈와 공부하자” 교육부-EBS, ‘아이돌이 들려주는 수능 한국사’ 첫 공개 - 조선에듀",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBleUhITHhNbVlQeWI5Y2c5Qk9NZXFPSFBZTE1BYWtUVVlxYW05SmtKRXU2WEJLeUVnTy03MFg0Tnkydldfbmt6UTJ5UzFLYk92NkVZUERucUxGTHRUc1E0el9rQXp0bnM3T3B3NXg2QQ?oc=5",
+              "source": "조선에듀"
             },
             {
-              "title": "BTS 지민, 스타랭킹 男아이돌 236째 '독보적 1위' - 스타뉴스",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0cDluNWh6dFFwOTZIcHYzVEh6UjZVTjRZY1ZrSmYyMlN1bExYazVxR3FDWWdJZTFQTkxzYmI1enRhQ3B4TS1XUllNaHVNeHNyRllZajhyUXViWVhEM2NVLXJNc2hyLVBfZFVDbXVLLWF5VEU?oc=5",
-              "source": "스타뉴스"
+              "title": "하츠투하츠·크래비티·XH...EBSX교육부, ‘아이돌이 들려주는 수능 한국사’ 공개 - 싱글리스트",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIMXV5aC1wdUxoQ3EtYmlsR1NNZk9uRFNaRkZUVWhfWk5DUDZMSDZ3aGprN3VqQnlBT2FCcGJ5azVES251TkdyT1o4dXNSYTdtYm5UcW10NUFiQTMzZFByZmFmbV8wZw?oc=5",
+              "source": "싱글리스트"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "대중문화",
+          "word": "드라마",
           "count": 10,
           "articles": [
             {
-              "title": "군산에서 수도권에 집중된 대중문화 향유 발판 마련 - 전북도민일보",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85SXN4NFdNc0NDNlJkTkRvMzh6NHZyRUVEYlEwZDFMOHFVbGo4U0pQYlAwY1lQcGZWLVp1X19XRUFmdHB6WDlsUXpEd1c0N2poeGx2cVgxZGtYSjlzcUpXRWhtaU9vQ2szcXc?oc=5",
-              "source": "전북도민일보"
+              "title": "‘놀뭐’ 유재석, 숏폼 드라마 감독 된다... 김석훈 “이런 현장 처음” 감탄 - 일간스포츠",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5RS0yUzRUYm1wVFNGZ0FqSm1CSjY5SXdlWjM3UHhkZjd6TndWbGQ4dE1EYW5KSTVtMWNtbXVYUTRpZUVMcjllNTJzSl9DcTFJb2lSd3NpQjNFcGc?oc=5",
+              "source": "일간스포츠"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "예술상",
+          "word": "조선일보",
           "count": 10,
           "articles": [
             {
-              "title": "휠체어 무용가 김용우씨, '제4회 서울예술상' 특별상 수상자 선정 - 에이블뉴스",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFbkN4Q0ZJWFZJR081OVU4X3lTQkstSUppSjA4bW1qUXB3M2xPeHZ3b1lOZ052RkVfZldCLS1aY2ZydUJ3c09tTWRyaE41RUJfNGJQeGV2c1Y1Skx1U3lRbGN1RlJSWTNBaU9nNmVR0gFyQVVfeXFMUF93REMwRkFqZllQT1VYeHpUUnQxX0twNXVjVVBVdGhWSzJBSXVSSDJyT2VUTVZDOF8xTVJsLWs1OFgtSHlFd05Rd3puU3hCUjd6dWJpX196SVJNbjMxT3dDS2tPRTBXV01EN05aQThSeUpn?oc=5",
-              "source": "에이블뉴스"
+              "title": "조선일보 “개헌 반대하면 내란세력인가” 동아일보 “국힘 전환점 만들 수 있었는데” - 미디어오늘",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qLWdxRnU3N1JWaUxWc2NsbkVMa2NNaHlxOXpsTEd4dlpna2pieVpEbGV4VWNlNjlreU9rN3NHRkxKVGFxSFY1M0FhVzhVd1Vpd0k2VTMtSGlxZF8yQWF6bTBadkhjelNPYnozMFZ1aW4?oc=5",
+              "source": "미디어오늘"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "포토엔",
-          "count": 10,
+          "word": "영화",
+          "count": 8,
           "articles": [
             {
-              "title": "더보이즈 현재, 퍼펙트 볼 하트[포토엔HD] - newsen.com",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qUG1ONDI4RF8xWTZQa0ZMWktmSEsyYmdwS2ZMYUFxUUNlQWRLLWJMdjdRMmNGTHUxNEFCQ29GUWlFMnNiaVlJamlhRUxEc2Y0LUNJYk41cExiWmJUNk9vanVXUzczU0hVM0NHbl9ISnVBNTVaRVo0ZUtLRQ?oc=5",
-              "source": "newsen.com"
+              "title": "[그 영화 어때] 더 이상 패션 영화가 아니다, ‘악마는 프라다를 입는다2′ - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFE3NXBBbmM2alJsUGxhc0MtQzdwYktSRmRuMlEyLXJpeUVzbW1NbWRwdmpwNXFwVHJzUnI0TUNLNEl0cXlNeXRGNUs2YUkxZlllNDlKR01vTG5zYmMtay1DaldiX21GQk1WeWRKeXZhVnVjTWVSamd6dUo2Uy1xcjV5b2VRRGRHcXBEanAzVkFORmhR?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "드라마",
-          "count": 9,
+          "word": "배우",
+          "count": 8,
           "articles": [
             {
-              "title": "넷플릭스 기대작 꺾더니…ENA가 일냈다, 6회 만에 최고 시청률 8.5% 찍은 '한국 드라마' - 위키트리",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40dTh6cGpEcjBuNzVha1dyS29GdVhCNGVQaUtEdlJQOF9LSXE1RGVLWXZVbkZYSjF4QmVra2lyUURmalpPTG9Gam13d2V5WWVGbGgzTlF3?oc=5",
-              "source": "위키트리"
+              "title": "이준호, 존재감 빛났다..스타랭킹 男배우 2위 - 스타뉴스",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aanYwZEhkWFFCTDdmRWhFcEF1ZzFINnpIbmFlaTJNS2tpaXBNc3JRMlZYaHRaZWhIOHowQ25wSUVRc3lYbmw4b01NU09TakNwSzBXRUVQZDBxV1J3WHRfcExYcVhidXI5NDNMSTRkM0dmSDQ?oc=5",
+              "source": "스타뉴스"
             }
           ]
         }
