@@ -1,47 +1,47 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-10",
   "categories": {
     "경제": {
-      "summary": "달러 강세로 원화 약세(1471.7원)·미국 고용 증가로 금리 인하 기대 후퇴·한국 증시 시총 7위 상승·부동산 투자 경고",
+      "summary": "코스피 강세로 개미투자자 몰리는 가운데 미국 고용 강세로 금리 인하 지연 예상 · 서울 부동산 정책 논쟁 심화",
       "keywords": [
         {
           "rank": 1,
-          "word": "환율",
+          "word": "코스피",
           "count": 32,
           "articles": [
             {
-              "title": "원·달러 환율, 17.7원 오른 1471.7원 마감(종합) - newsis.com",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uOXVqRk5icUtSZUUyR3VHMm8zRkp2dW9ZWjZMUlZLMURRRjRlSmVaZHRQUVFnQmRxSXhCNDVqSWJ1NzdOa19jZU9Mekd5dHhZMjRZMUZjVXBwbzdCejM3WdIBeEFVX3lxTE1IZS1Ta1MtZ0JMdnIzNlpMa3VJQlJha0Vvb0pyVjd4YzE1VVo3SkVfVHBpdnRiWDhxbnNRLVRaQ0FhNU9HcTE4TTUzckw3QVZDTFJTR0ZDcUlOckstcGs5clRad3NXUlJNdEFCaDFHb2lMWUx3NUx4Nw?oc=5",
-              "source": "newsis.com"
-            },
-            {
-              "title": "엔화 투매에 160엔 뚫리자…美日 환율 방어 연합전선 꾸린다 - 서울경제",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0WmF2QkdRUFEyaW82Vzk4MjEzOTluR0R1UURIYWZSbE52M2tHbFVyb3VoMEgyVkFMSk5Pd052OVc4ZGw2OVVxTDRSb0ZXZkNlNkHSAVNBVV95cUxNN2JaWnVkUW9hN054cVRySm90OUIzUTRodVlvSHBhVnpEYjRERGJqUmdGeHh4Wm1aWGtrTXY3Ukw2VEZSOF9kYl9RT2FSd1BSb3IwQQ?oc=5",
+              "title": "일주일간 코스피 4.6兆 쓸어담은 개미…최애 종목은? [마켓시그널] - 서울경제",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BaWVraWFnaFp3S0tSS2NBVFh5TGdUNkdDX0JnTEp6cU1KbXhWNVNnYmRTdlhxd1FWWFRJM1laOEJnRXBxdTVYc3JmVy16Szd1cVHSAVNBVV95cUxQdHl4S2JsenpyUm1CSlNzNmFjaU9HLXRHM2FrQUJfYVFXVDh5U21hSDBCTmVRS2lKOEZxd0NMME1nTGY0YVpVdmZEdTZfdk91ekM5bw?oc=5",
               "source": "서울경제"
             },
             {
-              "title": "日 당국, 기록적 엔저에 실탄 풀었나…10조엔 투입 관측 - newsis.com",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzRVJ4U2txWG9LaE1iTWY3bXhxV3NUS3FIM3hFenVqeE0ycTlTWHZmQmRja0o0czRNbnJxamJMQ0NpeTAtbENfa2kxbnpnd2NCdVJleEs1R0ZkLVZ2SWRkONIBeEFVX3lxTE1SSHdBeWhZTmJEOXdWQUZ5RTlyR0hHc0F1TmtOQmZYOVFvT2VFOGZmZFdicWxSRHl3a3FSOVVrUWlYckRud09LVTQxRU16YmdQLTRpVWVLMlBPQ0kyd1pkUFM2ZXIzWUJ4YThRTl9vOG1GdFhuWVVnLQ?oc=5",
+              "title": "골드만삭스 “코스피 9000 간다”…목표 또 상향 - 서울경제",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tQklsTEwtS0xJanVQM2hGYzVyNjBrYy14c0xwdGpFMDBjVll3VmMtcVFBRDhXOUNHUU1kNENDUS1XYTdYWHhhTkNmZHhvMHlWWmfSAVNBVV95cUxQeUZpWWlqU1NMUlZEQk1hVm9RbUMtdVRKekNoZUVyVWRwSlR4SzQycmlHSFFtMmxqQUJQSGctcE9XR3J1dHNKUUh2V21iSlRGQWh2TQ?oc=5",
+              "source": "서울경제"
+            },
+            {
+              "title": "골드만삭스 \"코스피 9000 간다…세계서 가장 놀라운 랠리\" - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jcUJXVkNfTG1NNkFUQTQzTjg2R3BWX3NoNUlsVFd5LXpHdlFzUnVndDh3VFRuOGhOckRDdVNNV2hJWVlRS3htdlZLOFgxV0VCZU5xQ3FwX1FoQXZ3WjE1R9IBeEFVX3lxTE1zSnhxSnNORlkxb0pGdV81ek9BUW1SdmxzV0dFMkV5Ym5VeE9MMFNVbzVVcGdCQ0xQSjlUUmVkQmpkaHBmQXZjZEtXSEcwVk00WE1kVWFtMFNLR0pYSFI4cmxnd281Z182Y08tMVI1Z3l5dGZVUXRjUw?oc=5",
               "source": "newsis.com"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "코스피",
+          "word": "환율",
           "count": 29,
           "articles": [
             {
-              "title": "코스피 낙관론과 유의할 점, 동시에 알아보기 - 네이버 프리미엄콘텐츠",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPVUkzY0NhNGZfdW9CdXFVZmpFaE54aW94LXpNblVtNHRVTGxZWWN4Q1FwT0gwQlRWQXFrQ2x5Vzc1M3ZRUXFzWEc2eDMtLXBjNDNKODRlZ0kxNWY0X1E0UnpRUFN5N2Z3eDJxblotdnBFb1JuOFBqVlFsek5RZw?oc=5",
-              "source": "네이버 프리미엄콘텐츠"
+              "title": "원·달러 환율, 17.7원 오른 1471.7원 마감(종합) - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uOXVqRk5icUtSZUUyR3VHMm8zRkp2dW9ZWjZMUlZLMURRRjRlSmVaZHRQUVFnQmRxSXhCNDVqSWJ1NzdOa19jZU9Mekd5dHhZMjRZMUZjVXBwbzdCejM3WdIBeEFVX3lxTE1IZS1Ta1MtZ0JMdnIzNlpMa3VJQlJha0Vvb0pyVjd4YzE1VVo3SkVfVHBpdnRiWDhxbnNRLVRaQ0FhNU9HcTE4TTUzckw3QVZDTFJTR0ZDcUlOckstcGs5clRad3NXUlJNdEFCaDFHb2lMWUx3NUx4Nw?oc=5",
+              "source": "newsis.com"
             }
           ]
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 22,
+          "count": 23,
           "articles": [
             {
               "title": "美 고용 두 달 연속 ‘깜짝 증가’… 금리 인하 기대 더 멀어졌다 - 조선일보",
@@ -53,41 +53,41 @@
         {
           "rank": 4,
           "word": "증시",
-          "count": 22,
+          "count": 21,
           "articles": [
             {
-              "title": "한국 증시 시총, 캐나다 제치고 7위 - 연합뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2UnQ2U0FSVmVKcmgwOXlrMDlUSUxpT0tfdk1rN1hUZFlVcGJHd0VvbWhoTTh6NmNpaXhjajZvc05lZ0dxa3FnZks5WWtxVmYwZUdDMDV5YjdjQm_SAWBBVV95cUxQN01JYmNOLUtyZW9Gblowai1SQnI0ekJncVdPbUE2bWtUZ0xQaXFsdjBvUGxsTkYwRlNGU1JDRUxsSE5ORUhqQjZkTklqT2NQOFpuMzVjbi1TUXRPUGpLVlM?oc=5",
-              "source": "연합뉴스"
+              "title": "주식계좌 1억개·예탁금 130조…증시 몰리는 새내기 개미 - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aQk9RRjJpc2tsbzMtY01jSjM2RTZwQ1dKb1MzdW15M3hJaWtub0F3SkU3Rmw1U0FuYVpOQ2pMaHJjamJhN2JFZmpla3BKQy1ManVTNzZRdnlRWkR4Vngyd9IBeEFVX3lxTE5WT1ZLeHVHN2J2NnlJSkkxemJ2dUVZRi1jN1p6cHR0RmpXemVoT1dwNHBwSXBGYU1HY2xnLXBfZmlVSXFRN1V4eGRhMVZ4VXlWS1Y2RVV2cmVzRXpGVmFIZmZHSi1wc2ZQTWhoUWFodHY4U1dfQzlGNA?oc=5",
+              "source": "newsis.com"
             }
           ]
         },
         {
           "rank": 5,
           "word": "부동산",
-          "count": 13,
+          "count": 17,
           "articles": [
             {
-              "title": "주식 불려 결국 집…한은 ‘도로 부동산’ 경고 - dt.co.kr",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PWjgyX1dXOG5VUVMyNVVlVW9UYnBLQk8zcFhJdFRORThUSmxzdXdnaXhxdHJwZ1NVamNvZHZMOGgzNE41UmI1QXhlcDhvUQ?oc=5",
-              "source": "dt.co.kr"
+              "title": "“서울 집값 지옥 만든 건 누구?”…오세훈·정원오 ‘부동산 전쟁’ - 매일경제",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ySVg5Zk44S1NOWFVscTFmTFo0czl2UUgyYVpnWlFOMkZsY3pHdGRPcEFES282LWRwM0VVZElUNVpNcE1UamwxTV9kMVA1RTlJYm43aXFwblQ?oc=5",
+              "source": "매일경제"
             }
           ]
         }
       ]
     },
     "IT": {
-      "summary": "빅테크의 AI 인프라 투자 경쟁 가속화·엔비디아 데이터센터 투자 확대·국내 AI 기업 협력 강화",
+      "summary": "AI 인프라 투자로 빅테크 현금 보유 최저치 · 삼성 파업으로 반도체 업계 단합 흔들림 · 엔비디아 아이렌에 3조원 투자",
       "keywords": [
         {
           "rank": 1,
           "word": "테크",
-          "count": 40,
+          "count": 44,
           "articles": [
             {
-              "title": "뜨거워지는 AI 인프라 경쟁… 빅테크, 올해 1200조 투자 - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdE5iNXBzeFUwLVd4RUFtVTVneHdaVl85VWNhX1huU25KLXRFZWZSUnN2a2lHVklKa3RzTDZvNmJxaEh1bUc2QnNrVUdiUEl4UnlpWnV0cE05QlFlbWhJLUFMM0dfY2oxMVpyNXdXYTM0SERHYThUWFV3amJvTG4tNFhCZw?oc=5",
-              "source": "조선일보"
+              "title": "AI 인프라에 현금 쏟는 빅테크…보유 현금 10년래 최저치 - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HZVlIdm1GbDUyZjVXOWlyVjNEREF0Zk9paVNjSDNJZjh5Mm5Mekk5S0V2QVg2ZGhKQnMzcVZKNDVPWTU5ekZQVWEzNDlsTklNVjJnbEp2ZlR1WTUzQWh2SNIBeEFVX3lxTE1GUURtTFM2Slp4V1dpZG53eWxwZkRUTjktd2xRTkh2ZGd5SGlGWVRBV293V1JYSDlYX2d1amE5a0ZQb1Roclh5ME9XaTNERmdNTGFaTVRDZEdTTWU4dWVnTEZUWFJHM3dka2NUaEFVajJnMzJCVUJGWQ?oc=5",
+              "source": "newsis.com"
             },
             {
               "title": "\"AI 시대, HR 나아갈 해법 제시\"…‘HR테크 리더스 데이5’ 성료 - 지디넷코리아",
@@ -95,28 +95,28 @@
               "source": "지디넷코리아"
             },
             {
-              "title": "\"불안한 랠리?\"…美증시도 알파벳·엔비디아 등 빅테크만 올랐다 - newsis.com",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HUVdDSUZJMlNmNWlVUjBsdUNzVHUwb1RUaUJNT0lmY3lmNzk1cGE3QnBmekNXZUZQNW8xRUZxazZWT1FZd1VnZnpjLTUzXy10dVphejRVVlFFS21LVXd4cNIBeEFVX3lxTE1BSmFwUmtQQnBCNHRKLVJWVm9WVkhjTElrdDJGQVMxTUVYVmdRNGEtTGFpeDVhb1QyeHUyd05HbkhhM0FiRHFKYWowRkRUV052Ty1BRnhsdk1OanNLQnVnbG1wUk1pWDJUcXFtMWlxd0hFTUNJLVVwRg?oc=5",
-              "source": "newsis.com"
+              "title": "[에듀플러스]“AX+ 시대 상생 해법 찾는다”…에듀테크학회, 산·학·관 협력 논의 - 전자신문",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNOWVFbkRyOU9zdXFCVllXdmU3dGVLV3pzLUd1dVBfa1l3cHFPWDdGZ1N4VkNqUnBpTWhsUEpreWtIcmU2RXhFT0NDVnZPQQ?oc=5",
+              "source": "전자신문"
             }
           ]
         },
         {
           "rank": 2,
           "word": "반도체",
-          "count": 38,
+          "count": 39,
           "articles": [
             {
-              "title": "“반도체 광풍에 묻혀 저평가”…월가가 조용히 담은 종목들 - 중앙일보",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WNlZKT2JLOUpBdzkzRDMtS3hlWUI1SW1HNjRGUVJsX3NEUFFNWHZZbHdrVmF5M0tmckNRWVJwc3VIb2xuODBWelA4SWx1dGRVWHFqUXBB?oc=5",
-              "source": "중앙일보"
+              "title": "\"非반도체 엑소더스\" 노노 갈등에 흔들리는 '단일 대오' [삼성전자 파업 전운②] - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VbjFIUTQ2X1ZYRzhERlM1THRXTjlZZXVzUHotYklfajNLWElTXzhScnFwOC1MeDY1MXRnZzFndG4xM05WRjFVdTNyczVHU0VNVXltRGFZbW1vYldGM0lUetIBeEFVX3lxTE5YNkJJVEc2cS1RaU94SXMzWGtWMnJqazR1cjJtUlFtTURsRGhJWkxZYkZQeGdtakNiQVEyNlZyQmZfMDNydHo1bVV0Vzg0VFVGeGJpUHVsTkNfQ1VwZ0dRQlRzRmhjM0QwXzhoSUE1akMtQUwydEFaXw?oc=5",
+              "source": "newsis.com"
             }
           ]
         },
         {
           "rank": 3,
           "word": "스타트업",
-          "count": 26,
+          "count": 30,
           "articles": [
             {
               "title": "YC가 이번 여름에 투자하고 싶은 스타트업 아이디어 15가지 - 요즘IT",
@@ -128,7 +128,7 @@
         {
           "rank": 4,
           "word": "엔비디아",
-          "count": 17,
+          "count": 22,
           "articles": [
             {
               "title": "엔비디아, AI 데이터센터 아이렌에 최대 3조원 투자 - 뉴스1",
@@ -139,20 +139,20 @@
         },
         {
           "rank": 5,
-          "word": "퓨리오사",
-          "count": 17,
+          "word": "조선일보",
+          "count": 18,
           "articles": [
             {
-              "title": "엑스페릭스, 퓨리오사AI와 'AI 통합 솔루션' 공동개발 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxenFhaUN3dldUYTRPMTBxLU1fOFQ1Qk5OMUZ6LTVsbkFxdmpEWWt3SnN0U0F2UUVicVh0Y2U1dk9rREM1UC1HSElCUnBIMzg?oc=5",
-              "source": "v.daum.net"
+              "title": "조선일보 “개헌 반대하면 내란세력인가” 동아일보 “국힘 전환점 만들 수 있었는데” - 미디어오늘",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qLWdxRnU3N1JWaUxWc2NsbkVMa2NNaHlxOXpsTEd4dlpna2pieVpEbGV4VWNlNjlreU9rN3NHRkxKVGFxSFY1M0FhVzhVd1Vpd0k2VTMtSGlxZF8yQWF6bTBadkhjelNPYnozMFZ1aW4?oc=5",
+              "source": "미디어오늘"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "K팝 아이돌이 수능 한국사 강의 참여 · 한류의 지속 가능성 논의 · 서울예술상 갈라 공연 개최 · 유재석, 숏폼 드라마 감독 데뷔",
+      "summary": "하이브 유튜브 채널 상대 손배소 패소 · 배우 정명환 심근경색으로 별세 1주기 · 코믹 연기 배우 첫 도전 韓드라마 기대감",
       "keywords": [
         {
           "rank": 1,
@@ -160,67 +160,67 @@
           "count": 25,
           "articles": [
             {
+              "title": "하이브, 소속 아이돌그룹 비방 유튜브채널 상대 손배소 패소 - 연합뉴스",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HS3R3VVF1X2xDY3pXa09Yd1phUXFINFhpV28zSU94TEdkVVVpaGltcW1TSXhsNXNfRDl6ZG8xUUlCajBodWVydDVnSk1QM09JaUlYQm9NRzNqNlHSAWBBVV95cUxPcnJtVVRpaFlpRUtGNjdJamlFQjI0RWVBZHlCTHNzclB5VDE0cm9FMjRjWkJaQXZpWUowa2J2dy16ZWotb1NtNzZJQVRHemZ4dHp3alpyRDl5Q1h0aUFGeTU?oc=5",
+              "source": "연합뉴스"
+            },
+            {
               "title": "공부도 덕질처럼…K팝 아이돌이 들려주는 EBS 수능 한국사 - newsis.com",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DSzY3NlJEQzNWcE5MeFJMM0dmbzlWZWhwUklXOGk1ZE9iTVRTRE1lWWRPWjhIN3hTRV8yTUoxcHNxY0x5M1dNb040QnBaclNxM0t2WElNQnJPcUw2WHBJNNIBeEFVX3lxTE1SVDBEcXVfQlNvbEt5S0xqRFFIZEc5NXd4aWRocktBRWZmbk0tcWdKR1lGdUdsby1mTmNMeTFBWWRCUUZ4MWxKN1p2X1J3d3h4UTc1UWJVLTcwamRHa1V4V2xraWh2RUxjYlBZUktzOExGU3RNOWtUZw?oc=5",
               "source": "newsis.com"
             },
             {
-              "title": "“크래비티·엑디즈와 공부하자” 교육부-EBS, ‘아이돌이 들려주는 수능 한국사’ 첫 공개 - 조선에듀",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBleUhITHhNbVlQeWI5Y2c5Qk9NZXFPSFBZTE1BYWtUVVlxYW05SmtKRXU2WEJLeUVnTy03MFg0Tnkydldfbmt6UTJ5UzFLYk92NkVZUERucUxGTHRUc1E0el9rQXp0bnM3T3B3NXg2QQ?oc=5",
-              "source": "조선에듀"
-            },
-            {
-              "title": "수능 공부도 '덕질'처럼… K팝 아이돌 목소리로 듣는 '수능 한국사'가 온다 - 베리타스알파",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhR2hrRWhtTHJ6OGlwWnJnMHdJUjBsRlR0dUdjeFN2eHZIWjc3VWhtYUpJTGt5YTNLXzZBWGpQSjRBVGh5Z1VkaW12c0kyTWJmUGg1aThLOUs3RVNUZlhxRDRIeGpKLWtEdmZBTw?oc=5",
-              "source": "베리타스알파"
+              "title": "북중미 월드컵 개막식에 K팝 아이돌 뜬다… 무대 꾸밀 주인공은 누구? - 서울경제",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYUk9GQTFyaUJpSVJwcUFvX0JrYVZiQmxoLXU2aUNTX2c5cmZiT0hXaGppclZtRG5KMDMyaFpZSGRTMlJ2dlBfaWxfT2ZPTDU0T2fSAVNBVV95cUxORUhJU1pZdTd2bDJTbnBOZkZVVEpmN2Rmejc3N1ZSRjNaWlUxNnNDX1VhSEx1SEdOZ3o2OXRtekRKdFpOTTB4MGRzSlViemFyUm5IQQ?oc=5",
+              "source": "서울경제"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "대중문화",
+          "word": "드라마",
           "count": 10,
           "articles": [
             {
-              "title": "[대중문화 속으로] 한류, 지속 가능한가 - 월간조선",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDFrZzZReXlEX29ldVJrU3I3bGd3MzZqZTYyTTNRaXFYS1RkWDh5Mmt0NzRReFhZY3RJaWN2blBsQkxLbUI0Rkh6SlR1Tjk1MmdrWVh0R3I0VVRHajNrV1Vvano3cGx0YktoUDMxOHBhU3JqLVhzVXQxdUVwMkZvQg?oc=5",
-              "source": "월간조선"
+              "title": "‘악녀→쇼호스트’까지…’흥행 보증’ 배우 첫 코믹 연기로 기대감 쏟아지는 韓 드라마 (‘멋진 신세계’) - TV리포트",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6TGxfLXc1YTlZZVVMdldKQmx3TW53T3R2UmlUdmcwNXA4eGlQRUlKdGtmY1hrMFMyc2lsdVd1YWRWS0FTRFFSeUtBRTVLcmxMN3RrbmdGRnRYS2Qx0gFiQVVfeXFMTUlUS2R6MFpmako5eWJHWWp5RFJoR3hBYjE2YzBvcXU4SVlyMnI4QjJVV2FfRUt3bzNPc3BaSmlZN1dCV2xwdHFVSVJfUllnRTRwNWFsNTI3eWR6YXRKSWRJWlE?oc=5",
+              "source": "TV리포트"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "예술상",
-          "count": 10,
+          "word": "배우",
+          "count": 9,
           "articles": [
             {
-              "title": "제4회 서울예술상, 갈라 공연 라인업 공개 - 서울문화투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oRm5oLThZYk5YMGZlWkZ4TFZ6ZWdpOTBvYmpzRnFSRjJiRG9FdVFCUVhtck1OWFJzc2JpT2g1YWczZTh3OXpwUUhXYmYwbkhZelNCelhhbElZYmdDTG5iNjFTcGFrOWNQdUE?oc=5",
-              "source": "서울문화투데이"
+              "title": "'허준' '이산' 배우 정명환, 자택서 심근경색 별세…어느덧 1주기 - 머니투데이 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sTlVPd0RSNVJpNEpmZzhjSl9udVZ6UExQd1pydW1IOUlMa1AtWV9HWVR2S3FHby1zbEo3NC1OZlB1dXNuWm9mVFNvZElQZENfbWNTZzFiMjhvZ0FSdkkyaW1rU1JJWXVEb0VWMUt1UEdiRDDSAXhBVV95cUxPQW84dkNGREY0bUVUZUZZcnl5MWNqSlk1VWctOUlSV2x4eFljSVlXbklZVnd6emJtVVJKOG5uTkhGc285VC1fVzVPbTJOX0NRMEMtVlQ1bkxwUzA2N0tya2pEaGtLQ2IwT2Fubi1HRUh5eDZ5NXNiUS0?oc=5",
+              "source": "머니투데이"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "포토엔",
-          "count": 10,
+          "word": "조선일보",
+          "count": 8,
           "articles": [
             {
-              "title": "이준호, 멋짐이 자연스럽게 배어 나오는 순간 [포토엔HD] - newsen.com",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HNEpfdWxJN29rV2JOYUVfcjNLdXhZZWU4cWY4TW9SVzRlVlNhck9NZHB0NGdCTWlrS3gxdmR2RFRwc29MUkpFV21kRm9lVVJpejA5RUxoanNITER2OXVVRUgzb3hLQUc3Tk4wVUR0a0FybHdsS3NiRmhGbw?oc=5",
-              "source": "newsen.com"
+              "title": "조선일보 “개헌 반대하면 내란세력인가” 동아일보 “국힘 전환점 만들 수 있었는데” - 미디어오늘",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qLWdxRnU3N1JWaUxWc2NsbkVMa2NNaHlxOXpsTEd4dlpna2pieVpEbGV4VWNlNjlreU9rN3NHRkxKVGFxSFY1M0FhVzhVd1Vpd0k2VTMtSGlxZF8yQWF6bTBadkhjelNPYnozMFZ1aW4?oc=5",
+              "source": "미디어오늘"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "드라마",
-          "count": 9,
+          "word": "영화",
+          "count": 7,
           "articles": [
             {
-              "title": "‘놀뭐’ 유재석, 숏폼 드라마 감독 된다... 김석훈 “이런 현장 처음” 감탄 - 일간스포츠",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5RS0yUzRUYm1wVFNGZ0FqSm1CSjY5SXdlWjM3UHhkZjd6TndWbGQ4dE1EYW5KSTVtMWNtbXVYUTRpZUVMcjllNTJzSl9DcTFJb2lSd3NpQjNFcGc?oc=5",
-              "source": "일간스포츠"
+              "title": "[기획] 천만 영화가 나왔지만 영화계 문제는 여전 - 영진위 ‘2026년 1분기 한국 영화산업 결산’과 쇼박스의 성공 전략 - 씨네21",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVMG9ZZU1ScThOU21IRm9yQWRTRXByd0ptcktqeTlrd2JqbHBXOXVjenYyaVBTakZCTEU1b0RnaFhLUmRTNTlkbUp2THFadlFyUDhwX05R?oc=5",
+              "source": "씨네21"
             }
           ]
         }
