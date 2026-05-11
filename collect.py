@@ -67,10 +67,16 @@ def fetch_articles_google(keyword, count, used_links):
         })
     return articles
 
+def clean_title(title):
+    # "기사 제목 - 출처명" 형식에서 출처 제거
+    if ' - ' in title:
+        title = title.rsplit(' - ', 1)[0]
+    return title
+
 def extract_keywords(titles):
     nouns = []
     for title in titles:
-        tokens = kiwi.tokenize(title)
+        tokens = kiwi.tokenize(clean_title(title))
         for token in tokens:
             if token.tag in ('NNG', 'NNP') and len(token.form) > 1:
                 if token.form not in stopwords:

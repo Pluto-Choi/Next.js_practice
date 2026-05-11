@@ -24,3 +24,16 @@ body {
   color: var(--foreground);
   font-family: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, sans-serif;
 }
+
+details[open] > div {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.2s ease-out, transform 0.2s ease-out;
+}
+
+@starting-style {
+  details[open] > div {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+}
