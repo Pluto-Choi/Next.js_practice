@@ -61,7 +61,7 @@ def fetch_articles_google(keyword, count, used_links):
             continue
         used_links.add(entry.link)
         articles.append({
-            "title": html.unescape(entry.title),
+            "title": clean_title(html.unescape(entry.title)),
             "link": entry.link,
             "source": entry.get("source", {}).get("title", ""),
         })

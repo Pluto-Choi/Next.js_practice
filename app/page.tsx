@@ -58,6 +58,11 @@ const categoryStyle: {
   },
 };
 
+const cleanTitle = (title: string) => {
+  const idx = title.lastIndexOf(' - ');
+  return idx !== -1 ? title.slice(0, idx) : title;
+};
+
 const defaultCategoryStyle = {
   text: "text-zinc-500 dark:text-zinc-400",
   line: "bg-zinc-300 dark:bg-zinc-700",
@@ -137,7 +142,7 @@ export default async function Home() {
                                 </p>
                                 {item.articles[0] && (
                                   <p className="group-open:hidden mt-0.5 text-xs text-zinc-400 dark:text-zinc-500 line-clamp-1 leading-snug">
-                                    {item.articles[0].title}
+                                    {cleanTitle(item.articles[0].title)}
                                   </p>
                                 )}
                               </div>
@@ -162,7 +167,7 @@ export default async function Home() {
                               <span className="text-zinc-300 dark:text-zinc-600 text-xs font-medium mt-0.5 shrink-0 w-3">{idx + 1}</span>
                               <div className="min-w-0">
                                 <p className="text-zinc-700 dark:text-zinc-300 text-sm leading-snug group-hover/link:text-zinc-950 dark:group-hover/link:text-white transition-colors">
-                                  {article.title}
+                                  {cleanTitle(article.title)}
                                 </p>
                                 {article.source && (
                                   <p className="text-zinc-400 text-xs mt-0.5">{article.source}</p>
