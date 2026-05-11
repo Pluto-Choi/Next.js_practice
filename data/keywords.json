@@ -2,44 +2,10 @@
   "date": "2026-05-12",
   "categories": {
     "오늘의 이슈": {
-      "summary": "개헌 무산 논란 · 트럼프 이란 강경 발언 · 호르무즈 해협 선박 여수 입항 · 나우호 피격 규탄",
+      "summary": "호르무즈 해협 긴장 고조 속 트럼프 행정부 군사 개입 검토·부산 병어 특가 판매",
       "keywords": [
         {
           "rank": 1,
-          "word": "조선일보",
-          "count": 6,
-          "articles": [
-            {
-              "title": "‘국힘 반대’로 개헌 무산되자 조선일보 “민주당, 헌법 파괴 말아야” - 미디어오늘",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pWEdxam9xYmpnZG9jb25iUEpQckdFZDJsWk40VzBMVkhGMFRMRHZ4VnZLdTNNQU1RdmdMWm1jcmZYRlhyN1pmYWhaYzBWLUNIbHR4LXFUWnczaTRyS0pXUTZEajlIX09CZ000bzZwaGw?oc=5",
-              "source": "미디어오늘"
-            },
-            {
-              "title": "이란 답변 전달된 날… 트럼프 “이란, 47년 동안 美 갖고 놀았다” - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZLUpjVVVfcFk3RHprd1ZpWDVLZUppTXJVNnlycnh6azRXc3h6YWljY2dmTF92aFl4Mm1IWmRMdG1mdFFsMHc?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "얼마나 다급하길래.. 선거 앞둔 조선일보 총공세 - 고발뉴스닷컴",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DZDRnaVk5MEowNUw1LTFaZ3ozWWdPQVFDQldKeWJ1THRiRTlhbVJNcDNIa054V0lnTW5waEpYc1daUXVJc0YwR3NMRVJRcjF6NkRzYXJEZ0hQdHdTRy1MQVVOSjBZUFZmLWhDeQ?oc=5",
-              "source": "고발뉴스닷컴"
-            }
-          ]
-        },
-        {
-          "rank": 2,
-          "word": "트럼프",
-          "count": 3,
-          "articles": [
-            {
-              "title": "트럼프-시진핑 만나지만…이란·대만·무역 입장차 여전 - 한겨레",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96bWFlNFpEN2NlQktzTHh3Zl9aMmF1NlpxWkxXeVlqcnBCQVFDaFRqbkJ1ZzZNX0pGT0txNG94MGg4dkpNSzdjUnk2M0xSSUV4X0xoZFFIc2tJcXFQeDI3a3FCNGZ6c2dMei12cg?oc=5",
-              "source": "한겨레"
-            }
-          ]
-        },
-        {
-          "rank": 3,
           "word": "호르무즈",
           "count": 2,
           "articles": [
@@ -47,11 +13,21 @@
               "title": "나프타 6만 톤 싣고 호르무즈 탈출 선박 여수 입항 - YTN",
               "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qQmlDSUxFRi1iUlltT3hnd1hna1JtNFljRGRfeUpZdENsTGZMZW1COVB6czd5d2FWcWdjenc1bHRzU0l0Ukk4ZHdlLVoxNkpSR2VDMTNsWGkyVjJFcWc?oc=5",
               "source": "YTN"
+            },
+            {
+              "title": "리투아니아 정부, 호르무즈에 최대 40명 파병안 승인 - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOeGhTV2VCWmVFWThHeEZkU0RRNU45b1lnVlB6Q19jQk91QlJCMTY5d3QwSjAxT1g0Um9QVHNJV2gxTllRUTJHeGY3cjlJbnFVS0dDZ3pjMVBiWVlWa3B3MtIBeEFVX3lxTE52YllMbk5NOTVaOFBPTXB3RjNaREh4R3BzNTZEYlVIWXJwN3paVXdxUDNyRkhiemM3dERlZ0JPaDhLZ0VncXY3SlFoTnAzZWU3NDZjY1lEZ0I3X1RRckhLMEhOWWtpdDZwY0RuejVxa0RBWXVSRFJURQ?oc=5",
+              "source": "newsis.com"
+            },
+            {
+              "title": "마크롱 \"호르무즈 해협 무력 개방은 고려 안 한다\" - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ia1RYbFp1NW1iVXg4TTZLTWpodEpqSmJqUzJWdkJBZjZOZVhTOFZsWHdCMUE0dXZ6Tk9TVjhsSUNWT1B0TGw2bHJGNXZ1NHM?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
-          "rank": 4,
+          "rank": 2,
           "word": "상선",
           "count": 2,
           "articles": [
@@ -63,7 +39,7 @@
           ]
         },
         {
-          "rank": 5,
+          "rank": 3,
           "word": "강력",
           "count": 2,
           "articles": [
@@ -73,11 +49,35 @@
               "source": "한겨레"
             }
           ]
+        },
+        {
+          "rank": 4,
+          "word": "트럼프",
+          "count": 2,
+          "articles": [
+            {
+              "title": "트럼프-시진핑 만나지만…이란·대만·무역 입장차 여전 - 한겨레",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96bWFlNFpEN2NlQktzTHh3Zl9aMmF1NlpxWkxXeVlqcnBCQVFDaFRqbkJ1ZzZNX0pGT0txNG94MGg4dkpNSzdjUnk2M0xSSUV4X0xoZFFIc2tJcXFQeDI3a3FCNGZ6c2dMei12cg?oc=5",
+              "source": "한겨레"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "부산",
+          "count": 2,
+          "articles": [
+            {
+              "title": "잡는대로 비늘 벗겨 냉동한 ‘부산’ 병어, 20마리 2만원대 초특가 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWW82bzFQRHF3eXR1NktYUEZSWnRDTFZmZUJSSWVaelM4blJ4akZNNWx3WHdrNHpTa1M1b0FRRTNIXzl6V296bXZqS2F3UmpaYTBaVVZWaGhHX1ZyVTdmV3hPQk8zd0xwOU1SOW1DdXNXbkVHcTlyM3BOUDZreTVBYWdJZkhOcUlVU1BN?oc=5",
+              "source": "조선일보"
+            }
+          ]
         }
       ]
     },
     "경제": {
-      "summary": "코스피 1만 돌파 전망·원달러 환율 상승·연준 올해 금리인하 없다는 관측·부동산 시장 불안감",
+      "summary": "코스피 8000 도전, 시총 7000조 돌파·원달러환율 1472원·美 금리인하 내년 이후 예상·반도체업계 수익금이 부동산으로 유입",
       "keywords": [
         {
           "rank": 1,
@@ -85,26 +85,26 @@
           "count": 28,
           "articles": [
             {
+              "title": "코스피 팔천 찍고 '만스피' 갈까…증권사들 앞다퉈 전망치 높여 - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93N0hGUjNkMkVSNUVtWUVOdE9UUUZrbHZfMnQwQkZCNkVPSlo0cklUeG53cVVaZ1RUUV9MUTM2U3dRbGVNR3BqMFRfYk9iR00?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "코스피 '1만2천' 전망까지 나왔다…슈퍼랠리 이어질까 - 노컷뉴스",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2MHVrX3lrQk83by05Zi1kdl9LcGVCMHVlTmljQmxKMkV1Nzc1b1JQQ0Rpa05VVTRWdTB2UlhiUW82Nng5MmxvVk05MVZLTVNsWVE?oc=5",
+              "source": "노컷뉴스"
+            },
+            {
               "title": "코스피 1만 전망 나왔다…JP모건 \"삼전닉스만 있는 게 아냐\" - 연합인포맥스",
               "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BMF9uUFBoMnhaRzE2dDc5Z3ZRcXV6SGd5dGhlOVkydEM2c2J2bjdTRFhBM0IwOWZrZ1g2R281ejNUbXlKaUc4VHVJYnpvUEI3NkdnZWNseWo5XzRvN2FDMC1zMnVxbFBTNUh6emNMblY?oc=5",
               "source": "연합인포맥스"
-            },
-            {
-              "title": "\"코스피 1만~1만2000선 간다\"…증권사들, 역사적 불장에 전망치 대폭 상향 - newsis.com",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0cWREMjRDMWtZTlBsX3cwUV9obXNlcGp3QUswU2laUWhSVnZWMzhDVzF0c2kwSXB5WVlrUGxTTFBZVlRjaTg4U0Z5VnlMUW5MeEJJblZzN2tBQWNZcUZWVtIBeEFVX3lxTE14LVlqa1BBQ3pydFpPU3dTLXFTV0ZPR3A0NWt6enRhV1luMmZkZm5TNzhDSExkdlB5UnFBYk10T1F2OVJwUnktNjYxVXJLem9mNmU0dHVNNjRHVDFRWmJvQmYydkJ1Z2l4WUZMUE9wTGw5NEYxLXBCMw?oc=5",
-              "source": "newsis.com"
-            },
-            {
-              "title": "코스피, 사상 첫 7800선 돌파 마감…8000선까지 177포인트 남았다 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCaG9BQ1FZX2pLaFNEVzJlUkVOT3dDbGhScG1SSEJMUkFUYUppbFllOWhWNzJJdzFfckZpUDJKeDBpQTNuRjdYbTBMNDlWanc?oc=5",
-              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 2,
           "word": "환율",
-          "count": 23,
+          "count": 24,
           "articles": [
             {
               "title": "원·달러 환율, 0.7원 오른 1472.4원 마감(종합) - newsis.com",
@@ -115,18 +115,6 @@
         },
         {
           "rank": 3,
-          "word": "금리",
-          "count": 22,
-          "articles": [
-            {
-              "title": "BofA \"연준 올해 금리인하 없다...내년에나 가능\" - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xbTVQUHV3WHA1Ny1NbkNTR0F3LXFoVzBZUy1mVWZXaVUxdDBXN0ZUbHNJTHRRS3NtWkd0T182a3NoaE9IWEtrRXdFWlMxbkU?oc=5",
-              "source": "v.daum.net"
-            }
-          ]
-        },
-        {
-          "rank": 4,
           "word": "증시",
           "count": 20,
           "articles": [
@@ -138,14 +126,26 @@
           ]
         },
         {
-          "rank": 5,
-          "word": "부동산",
-          "count": 17,
+          "rank": 4,
+          "word": "금리",
+          "count": 19,
           "articles": [
             {
-              "title": "李 대통령의 '부동산 질주' … 교각살우의 위태로운 그림자 - 뉴데일리",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mUlNYTlQwdnllLWt0akIyZ1c4NVpkZnUyMmhrZEJJNHJNMEF5MVd6VkdYRnVrb29BdFJyaFFWSkNibXI2dTQtUnpCZ0VpY25oYVJPME9jMlpoQ2x1endWWmpDS0FDZ0R1VkFGS0FZRkJFUERnUHVQNm1Zaw?oc=5",
-              "source": "뉴데일리"
+              "title": "BofA \"연준 올해 금리인하 없다...내년에나 가능\" - v.daum.net",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xbTVQUHV3WHA1Ny1NbkNTR0F3LXFoVzBZUy1mVWZXaVUxdDBXN0ZUbHNJTHRRS3NtWkd0T182a3NoaE9IWEtrRXdFWlMxbkU?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "부동산",
+          "count": 12,
+          "articles": [
+            {
+              "title": "“주식으로 번 돈·억대 성과급 어디로 가겠나”…부동산 향하는 ‘반도체 머니’ - 매일경제",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zaXNhTkF5OTFEQTZUSEp4WlpmZjEzdlhkdGdMREYyZVFid0dNMklzVm5LaTgxY2lWQndyRzNNX0FnaGROVU1ZNEdEeWtUOGkxbGhXanNtb2U?oc=5",
+              "source": "매일경제"
             }
           ]
         }
