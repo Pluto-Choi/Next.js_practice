@@ -3,6 +3,7 @@ import path from "path";
 import { Fragment } from "react";
 import AdFitBanner from "./components/AdFitBanner";
 import Logo from "./components/Logo";
+import ShareButton from "./components/ShareButton";
 
 type Article = {
   title: string;
@@ -108,6 +109,7 @@ export default async function Home() {
                   <span className="text-base">{categoryEmoji[category] || "📌"}</span>
                   <h2 className={`text-sm font-bold tracking-wide ${style.text}`}>{category}</h2>
                   <div className={`flex-1 h-px ${style.line} opacity-40`} />
+                  <ShareButton category={category} />
                 </div>
 
                 {/* AI 요약 */}
