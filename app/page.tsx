@@ -2,6 +2,7 @@ import { promises as fs } from "fs";
 import path from "path";
 import { Fragment } from "react";
 import AdFitBanner from "./components/AdFitBanner";
+import Logo from "./components/Logo";
 
 type Article = {
   title: string;
@@ -89,7 +90,9 @@ export default async function Home() {
 
         {/* 헤더 */}
         <div className="mb-8 text-center">
-          <h1 className="text-3xl font-extrabold tracking-tight mb-1.5">오늘의 뉴스</h1>
+          <div className="flex justify-center mb-2">
+            <Logo />
+          </div>
           <p className="text-xs text-zinc-400 dark:text-zinc-500">{data.date} · Google News RSS</p>
         </div>
 

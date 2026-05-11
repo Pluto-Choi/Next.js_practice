@@ -1,0 +1,18 @@
+{
+  "name": "오늘의 뉴스",
+  "short_name": "오늘뉴스",
+  "description": "오늘 가장 핫한 이슈와 경제 키워드를 한눈에. 매일 오전 9시 업데이트.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#18181b",
+  "theme_color": "#18181b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ]
+}

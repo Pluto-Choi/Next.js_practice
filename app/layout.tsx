@@ -18,6 +18,15 @@ export const metadata: Metadata = {
   title: "오늘의 뉴스 | 핫이슈 & 경제 키워드",
   description: "오늘 가장 핫한 이슈와 경제 뉴스 키워드를 한눈에. 매일 자동 업데이트.",
   keywords: ["오늘의 뉴스", "핫이슈", "경제 키워드", "경제 뉴스", "트렌드 키워드", "오늘의 이슈"],
+  manifest: "/manifest.json",
+  icons: {
+    icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
+  },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "black-translucent",
+    title: "오늘의 뉴스",
+  },
   openGraph: {
     title: "오늘의 뉴스 | 핫이슈 & 경제 키워드",
     description: "오늘 가장 핫한 이슈와 경제 뉴스 키워드를 한눈에. 매일 자동 업데이트.",
