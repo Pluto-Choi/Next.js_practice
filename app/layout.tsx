@@ -15,21 +15,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "경제 트렌드 키워드 | 오늘의 핫 키워드",
-  description: "매일 자동 업데이트되는 경제 뉴스 트렌드 키워드. 전날 가장 많이 언급된 경제 키워드와 관련 기사를 한눈에 확인하세요.",
-  keywords: ["경제 키워드", "경제 트렌드", "오늘의 뉴스", "경제 뉴스", "트렌드 키워드"],
+  title: "오늘의 뉴스 | 핫이슈 & 경제 키워드",
+  description: "오늘 가장 핫한 이슈와 경제 뉴스 키워드를 한눈에. 매일 자동 업데이트.",
+  keywords: ["오늘의 뉴스", "핫이슈", "경제 키워드", "경제 뉴스", "트렌드 키워드", "오늘의 이슈"],
   openGraph: {
-    title: "경제 트렌드 키워드 | 오늘의 핫 키워드",
-    description: "매일 자동 업데이트되는 경제 뉴스 트렌드 키워드",
+    title: "오늘의 뉴스 | 핫이슈 & 경제 키워드",
+    description: "오늘 가장 핫한 이슈와 경제 뉴스 키워드를 한눈에. 매일 자동 업데이트.",
     url: "https://whymystockisboom.vercel.app/",
-    siteName: "경제 트렌드 키워드",
+    siteName: "오늘의 뉴스",
     locale: "ko_KR",
     type: "website",
   },
   twitter: {
     card: "summary",
-    title: "경제 트렌드 키워드 | 오늘의 핫 키워드",
-    description: "매일 자동 업데이트되는 경제 뉴스 트렌드 키워드",
+    title: "오늘의 뉴스 | 핫이슈 & 경제 키워드",
+    description: "오늘 가장 핫한 이슈와 경제 뉴스 키워드를 한눈에. 매일 자동 업데이트.",
   },
   verification: {
     google: "Qf9yJ8A6MpHHWOtGlDYP3EtypiYmSG9j6LzoZlgEyPE",

@@ -115,54 +115,39 @@ for word in compound_words:
 KST = timezone(timedelta(hours=9))
 today = datetime.now(KST).strftime('%Y-%m-%d')  # yesterday → today로 변경
 
-# ===== 경제 =====
-print("=== 경제 Top 5 키워드 ===")
-feed = feedparser.parse(f"https://news.google.com/rss/search?q={quote('주식 증시 코스피 환율 금리 부동산')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
-top5_economy = extract_keywords([e.title for e in feed.entries])
+# ===== 오늘의 이슈 =====
+print("=== 오늘의 이슈 Top 5 키워드 ===")
+feed_issue = feedparser.parse("https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko")
+top5_issue = extract_keywords([e.title for e in feed_issue.entries])
 
-used_links = set()
+used_links_issue = set()
+keywords_issue = []
+for i, (word, count) in enumerate(top5_issue):
+    article_count = 3 if i == 0 else 1
+    articles = fetch_articles_google(word, article_count, used_links_issue)
+    keywords_issue.append({"rank": i+1, "word": word, "count": count, "articles": articles})
+    print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
+    for a in articles:
+        print(f"  - {a['title']}")
+
+# ===== 경제 =====
+print("\n=== 경제 Top 5 키워드 ===")
+feed_economy = feedparser.parse(f"https://news.google.com/rss/search?q={quote('주식 증시 코스피 환율 금리 부동산')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
+top5_economy = extract_keywords([e.title for e in feed_economy.entries])
+
+used_links_economy = set()
 keywords_economy = []
 for i, (word, count) in enumerate(top5_economy):
     article_count = 3 if i == 0 else 1
-    articles = fetch_articles_google(word, article_count, used_links)
+    articles = fetch_articles_google(word, article_count, used_links_economy)
     keywords_economy.append({"rank": i+1, "word": word, "count": count, "articles": articles})
-    print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
-    for a in articles:
-        print(f"  - {a['title']}")
-
-# ===== IT =====
-print("\n=== IT Top 5 키워드 ===")
-feed_it = feedparser.parse(f"https://news.google.com/rss/search?q={quote('인공지능 AI 반도체 빅테크 스타트업')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
-top5_it = extract_keywords([e.title for e in feed_it.entries])
-
-used_links_it = set()
-keywords_it = []
-for i, (word, count) in enumerate(top5_it):
-    article_count = 3 if i == 0 else 1
-    articles = fetch_articles_google(word, article_count, used_links_it)
-    keywords_it.append({"rank": i+1, "word": word, "count": count, "articles": articles})
-    print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
-    for a in articles:
-        print(f"  - {a['title']}")
-
-# ===== 연예 =====
-print("\n=== 연예 Top 5 키워드 ===")
-feed_ent = feedparser.parse(f"https://news.google.com/rss/search?q={quote('아이돌 케이팝 드라마 영화 배우 가수')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
-top5_ent = extract_keywords([e.title for e in feed_ent.entries])
-
-used_links_ent = set()
-keywords_ent = []
-for i, (word, count) in enumerate(top5_ent):
-    article_count = 3 if i == 0 else 1
-    articles = fetch_articles_google(word, article_count, used_links_ent)
-    keywords_ent.append({"rank": i+1, "word": word, "count": count, "articles": articles})
     print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
     for a in articles:
         print(f"  - {a['title']}")
 
 # ===== 요약 생성 =====
 summaries = {}
-for category, keywords in [("경제", keywords_economy), ("IT", keywords_it), ("연예", keywords_ent)]:
+for category, keywords in [("오늘의 이슈", keywords_issue), ("경제", keywords_economy)]:
     summary = generate_summary(keywords, category)
     summaries[category] = summary
     print(f"{category} 요약: {summary}")
@@ -171,17 +156,13 @@ for category, keywords in [("경제", keywords_economy), ("IT", keywords_it), ("
 result = {
     "date": today,
     "categories": {
+        "오늘의 이슈": {
+            "summary": summaries["오늘의 이슈"],
+            "keywords": keywords_issue,
+        },
         "경제": {
             "summary": summaries["경제"],
             "keywords": keywords_economy,
-        },
-        "IT": {
-            "summary": summaries["IT"],
-            "keywords": keywords_it,
-        },
-        "연예": {
-            "summary": summaries["연예"],
-            "keywords": keywords_ent,
         },
     }
 }
@@ -194,7 +175,7 @@ print(f"\n{today} 키워드 저장 완료!")
 
 # ===== Supabase 저장 =====
 try:
-    for category, keywords in [("경제", keywords_economy), ("IT", keywords_it), ("연예", keywords_ent)]:
+    for category, keywords in [("오늘의 이슈", keywords_issue), ("경제", keywords_economy)]:
         for item in keywords:
             supabase.table("keywords").insert({
                 "date": today,

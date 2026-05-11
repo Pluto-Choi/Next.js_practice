@@ -1,5 +1,7 @@
 import { promises as fs } from "fs";
 import path from "path";
+import { Fragment } from "react";
+import AdFitBanner from "./components/AdFitBanner";
 
 type Article = {
   title: string;
@@ -27,9 +29,8 @@ type KeywordsData = {
 };
 
 const categoryEmoji: { [key: string]: string } = {
+  "오늘의 이슈": "🔥",
   경제: "💰",
-  IT: "💻",
-  연예: "🎬",
 };
 
 const rankBadgeStyle = (rank: number) => {
@@ -55,8 +56,9 @@ export default async function Home() {
         </div>
 
         {/* 카테고리별 키워드 */}
-        {Object.entries(data.categories).map(([category, categoryData]) => (
-          <div key={category} className="mb-8">
+        {Object.entries(data.categories).map(([category, categoryData], index) => (
+          <Fragment key={category}>
+          <div className="mb-8">
 
             {/* 카테고리 헤더 */}
             <div className="flex items-center gap-2 mb-3">
@@ -130,6 +132,10 @@ export default async function Home() {
               </div>
             )}
           </div>
+          {index === 0 && (
+            <AdFitBanner adUnit="DAN-XXXXXXXXXX" width={300} height={250} />
+          )}
+          </Fragment>
         ))}
 
         {/* 푸터 */}
