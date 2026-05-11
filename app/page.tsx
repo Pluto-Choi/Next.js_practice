@@ -140,7 +140,7 @@ export default async function Home() {
 
         {/* 푸터 */}
         <p className="text-center text-zinc-400 text-xs pb-4">
-          매일 자정 자동 업데이트 · Google News RSS 기반
+          매일 오전 9시 자동 업데이트 · Google News RSS 기반
         </p>
       </div>
     </div>
