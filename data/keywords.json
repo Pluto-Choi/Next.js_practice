@@ -1,103 +1,103 @@
 {
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "categories": {
     "경제": {
-      "summary": "코스피 8000선 향한 랠리 지속 속 환율 급등·금리인상 전망·부동산 정책 추진 가속화",
+      "summary": "원화 약세로 환율 상승·코스피 강세 지속으로 시총 7000조 돌파·부동산 계약 서두르는 매수심 확산",
       "keywords": [
         {
           "rank": 1,
-          "word": "코스피",
-          "count": 31,
+          "word": "환율",
+          "count": 27,
           "articles": [
             {
-              "title": "코스피 8000선 향한 질주에도 ‘포모(FOMO)’ 공포에 마통 뚫어 뛰어드는 개미들 - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXo5UDIyQjNmdGlOa0xfbFVpMndsbzJ6Skx0V3BYSWxvRjhyRDNWVU8wcUdwaThJRlFocEJDMFlWNWRQNDA2bm1fd0hYc29XdVg3cGM3c3Z3T1ZMYlljRmY5c0gxcHJOUGhpTlVlTEppblo2a1g2NmZNX1ZjS2M2MDhQNFBIYXZTOThj?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "코스피, 7500 안착 재도전…반도체 진정 속 순환매[주간증시전망] - newsis.com",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vX2VfWm8wclNtMVY2Yl9WZVRlemw4R2FBUlNlN3V6d1pESWowLVdzdGZ1Q1Y4SjJWN2R1bF9lZXN2ZTZlWlVNQkZKVTc5bDNmQks1dGduN1NJbXNsNm1JYdIBeEFVX3lxTE9aMWUxQnJnRlJWNElGMVR2Mzl5Wk5xZEVIcEh5VVBTRV9yYzliTE5JY3N1T2tqYzBueG53Unp3RE0yTUpXT0ZrWjZLSUdqTkFidDQyNEZyLTctMUVWSGU1U1pGUUFLaXZWS1VjUmZ6ZnRqTUNvVzRYbg?oc=5",
+              "title": "원·달러 환율, 0.7원 오른 1472.4원 마감(종합) - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oeVFyNDllbkJfTmFIMmJXRmMtNTZWd1FBNlpjMzMyd21VbEdiSWJxNzhWSlRMcXU0SktvcUpUWEl1VGdoSklFVzgxeVY2SzBlZVpud0V3b3BvUXJsY25TeNIBeEFVX3lxTE5rMUVDNUJ6eGtrZWw0WHNUNGg2ekJMYjV2eHBXVGRrazM1azdSal9QS2hkSVM5bnFzTmxTRGlEaWt0SHNQN2RaMXF5cWlWX1k1V0FRd1JXWUUtVmxoeTFfUExINm4yRnYwbXY1QW5qMklibHRZbTlfLQ?oc=5",
               "source": "newsis.com"
             },
             {
-              "title": "이재명 지지율 59.7%...코스피 호재에도 개헌 무산이 발목 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13UnBTRmtDSlBubXdpaFJ2bG02a0E5SFdrT0RwTUlXTUNPQVU5dUprNW83bVlOY0hEY0tVb1ZmTGhmLWdEdHFselYxZWVEYmc?oc=5",
-              "source": "v.daum.net"
+              "title": "환율, 1430원대까지 떨어진다…외인, 국장 쇼핑 나설까 [투자360] - 헤럴드경제",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uVHNJNXhzczJjNUptMnIxcVg4U0Z2Z2pucFlrd1RIRzJQRXdpdGw4WF9PQmsxV2VrYjJrcXg3OVBjN1pablo2WVFnelJWNTVnTUJlN05B?oc=5",
+              "source": "헤럴드경제"
+            },
+            {
+              "title": "[표] 외국환율고시표 - 매일경제TV",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OdUk4ZnVPNmJjQ0xIVzNCNUpmdUhNSGJoc0x6b1d2dGZoazBacnBXSzBxZzl1bktBemg3ekFnSldmMzNRY3pBUVJZQWNSTFZBMnhQR2x3eWJOX0IwQ1hWRG1vRzRHMy1J?oc=5",
+              "source": "매일경제TV"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "환율",
+          "word": "코스피",
           "count": 25,
           "articles": [
             {
-              "title": "하루 만에 20원 가까이 급등한 환율…외부 자극에 '요동' - newsis.com",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHT3B2SjhOcExVLUhNOEJ2Ynh5X3c3YVFZRXA1UXJoNDVUTDlwOHhXZ2dUVHZ3LWRvTzBTbzVwb3RhZTZkWlZqa2UxU2ZoazYxT2hmekhtTVR4bGJKSFdSUNIBeEFVX3lxTE8wY1VXdWpJb09RUTQ3SGx0TW1jV3JqUVk5WkRhU2ZTN0lXS3pOMTVELVEyZlNSMHpmVGx6ZVBGbm51M0RoUWtKOXFpaFhob0ZyaDRQT3Z0WDlkTVA5cC1EcWthTEtCbEVQN09XcllIT0JyWjd3anJmWQ?oc=5",
-              "source": "newsis.com"
+              "title": "코스피 1만 전망 나왔다…JP모건 \"삼전닉스만 있는 게 아냐\" - 연합인포맥스",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BMF9uUFBoMnhaRzE2dDc5Z3ZRcXV6SGd5dGhlOVkydEM2c2J2bjdTRFhBM0IwOWZrZ1g2R281ejNUbXlKaUc4VHVJYnpvUEI3NkdnZWNseWo5XzRvN2FDMC1zMnVxbFBTNUh6emNMblY?oc=5",
+              "source": "연합인포맥스"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "증시",
-          "count": 20,
+          "word": "금리",
+          "count": 23,
           "articles": [
             {
-              "title": "[주간증시전망] 코스피, 최고가 랠리 이어질까… 美 CPI·실적 발표 변수 - 조선비즈 - Chosunbiz",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUpqZzhoUW1fWlNTOHpPV3F0NXpsM3dWLUo3OWRGY1c4RkdMdkNnQkNsUVJ3al8yTnBEWVdsMUtnaXhPZDV5cTBIVUw4bFR2QjhvQXZCX0VEaC12WmRXYXA5T3pET3FFQ2FLS2lpWkZ5ZjhFcGc4RmVvZzdUb0tnQks4dmpoQzVr0gGcAUFVX3lxTE9UVTJRbFc1WFFnVHlWeXZsX3R4NXY5akJSVklnYUVycTlSMEFmSnN1bnZubmdTTUs2UTJBSklVZ3BfQU10QzlsRnNod2tEZHBRQTlYTmduUkloU05LVkUtV3JLMzZzc1NUcWlNOHZiZkdzMmVpWk14MGtTR2RnandzUU5VUTl4SFhha0xFWExMY1ROZzRDMU1ETW9aRA?oc=5",
-              "source": "Chosunbiz"
+              "title": "핌코 투자책임자 \"이란전 때문에 美연준 금리인상 가능성 있어\" - 뉴스1",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92TkF3R1V3cjY4TkhNVFppaW5zc0duVG9OYkY0SEZ5NWNfQi1rY2ZDcUQzck9UWEpoeU9VQTd2eWRlNjU3UW1IVWE5OTM2VmtHdE84bDZqLTY?oc=5",
+              "source": "뉴스1"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "금리",
-          "count": 19,
+          "word": "증시",
+          "count": 21,
           "articles": [
             {
-              "title": "은행권, 하반기 금리인상 전망…\"현금 확보·분산투자\" 조언 - 연합뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSThqbTQxWDl4dER5aVZ1X1UwakQ1SDFPaGNldHI0Um9tR3NRX3Bpbmt4bmQydE5pYlM5YWJoTzRzWldaMEMyVDBUQkZGS1I5YWlxSzJJbmx6dzjSAWBBVV95cUxOM2hhZnpEODN2U080WUN3dFM3RlpCYkw4RkxMbFZNM1lTUEJvQzNGMzZyTEJlVnlka2prcHdoSEFTeFM4Yk9lem9mcXpGd2tNYjhGZVdVWHRxTUNoZHg3b1A?oc=5",
-              "source": "연합뉴스"
+              "title": "코스피 7800선 돌파에 국내 증시 시총 7000조 달성 - 이투데이",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54UEIwYWZkMTNJdG9uaEVwcGozek4zUDZkZWNDdUUzMWhDSGc2OWd0ZW1WMVFwejlPSUJMOVR3eE1RVUF3YXRNdDVJU1Q5bGl5eFRGQw?oc=5",
+              "source": "이투데이"
             }
           ]
         },
         {
           "rank": 5,
           "word": "부동산",
-          "count": 14,
+          "count": 16,
           "articles": [
             {
-              "title": "李 대통령의 '부동산 질주' … 교각살우의 위태로운 그림자 - 뉴데일리",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mUlNYTlQwdnllLWt0akIyZ1c4NVpkZnUyMmhrZEJJNHJNMEF5MVd6VkdYRnVrb29BdFJyaFFWSkNibXI2dTQtUnpCZ0VpY25oYVJPME9jMlpoQ2x1endWWmpDS0FDZ0R1VkFGS0FZRkJFUERnUHVQNm1Zaw?oc=5",
-              "source": "뉴데일리"
+              "title": "\"오늘 놓치면 안 돼요\"…계약서 쓰다 황급히 구청으로 뛰었다[부동산AtoZ] - 아시아경제",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VcEtIQzN1eXREQXh1Z2lFbEJVekZKT0dEQTMwLThPblVnOWdJbGpWQUpiZFJNb1hYXzk1ZXVOLXJ6QW1GeUhvYVZSeVFvUE0za0hoV1VUQmhjRTI5SDZPeA?oc=5",
+              "source": "아시아경제"
             }
           ]
         }
       ]
     },
     "IT": {
-      "summary": "코윈테크 300억 규모 로봇 공급계약 · 삼성전자 노조 분열 우려 · 엔비디아 AI 투자 400억달러 · 중기부 AI 스타트업 공공데이터 개방",
+      "summary": "코스피가 사상 최고를 경신하며 반도체 랠리 지속 · 엔비디아가 AI칩 최강자를 넘어 투자업계의 큰 손으로 부상",
       "keywords": [
         {
           "rank": 1,
           "word": "테크",
-          "count": 44,
+          "count": 43,
           "articles": [
-            {
-              "title": "코윈테크, 300억 규모 로봇 자동화시스템 공급계약 - newsis.com",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14SHpOZUtSTnNZbk10WnNKcWtDWndtUUtWNy13T1V2dFAxQUZXNXlwbU51ektCZkNTVUs3d1J3RlhCaUhZLW5NcFB1d2V0SHZKb2YxTHRhOXlWbnlscGx5U9IBeEFVX3lxTE50RXpEOE5VYm8weUswWS12c2Y3aHotZXFkTEN2eUlpYlRYQjRoMUM1ZUxjTHZyczFhRERuY2FvOXl1TWxOZkNHLW5vZFdGWHN1aVpKNTBFaXVPNUNySGxIQUZyNXBJZVdSOWhhR29DdExuTy02U3B0RA?oc=5",
-              "source": "newsis.com"
-            },
             {
               "title": "몸테크로 80억 불린 흙수저, 요즘 ‘금 1000돈’ 모으는 이유 - 중앙일보",
               "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aMkUyZ1pmeDJHZHkzRXJlYVhqN2RBT1pFYmlhR1dOUHViZno2MzZtdGtsYktMMGQ0bnlndG83NGV2dzhuY1BBNkdQWmJpRUI5bExtdUhR?oc=5",
               "source": "중앙일보"
             },
             {
-              "title": "빅테크, SK하이닉스에 \"생산라인 통째로 비워달라\"… HBM 선점에 수조 원 선지급 - 글로벌이코노믹",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQV8tRWRUaV9wa2ktbHdQWTgwMVh6aEFvNFlIdUQ0NGFMcGE5WmdMZ2dtazg2cXBfaEgxQlo2amJYazIwaXhzOHZtblBJdTFKZnpsbTNFcHpJZ183VU9obW9hdmhRcU10U2FNUkV2Y3ZVbTJ5cXlsTkpBV2hNYS13MjNKMGtqZw?oc=5",
-              "source": "글로벌이코노믹"
+              "title": "코윈테크, 300억 규모 로봇 자동화시스템 공급계약 - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14SHpOZUtSTnNZbk10WnNKcWtDWndtUUtWNy13T1V2dFAxQUZXNXlwbU51ektCZkNTVUs3d1J3RlhCaUhZLW5NcFB1d2V0SHZKb2YxTHRhOXlWbnlscGx5Uw?oc=5",
+              "source": "newsis.com"
+            },
+            {
+              "title": "\"ASML 장비 사줄게\" 빅테크 제안에…삼전·닉스, 또 급등 - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zd0M2cGpFNENkTlI4YlBGX05kSkRWaUdFTUxwaEhNWUVzTnZmcVZiRE1mTS1LelZRQXF5dGo5T3JZeTljYmk1UGNVZ0dTay01V1pFOVVJSllUd9IBVEFVX3lxTE9aQ0ZNbUw4YlVfRTUxTDVYME5KZlo3N1dkcFI0UmpjdFFxVWg3UWJrR0hhbUtiejhPdVRsUEhhWGNDMlVPbmNZUkQybHBDVlJkVDJvSg?oc=5",
+              "source": "한국경제"
             }
           ]
         },
@@ -107,40 +107,40 @@
           "count": 36,
           "articles": [
             {
-              "title": "“이기적인 반도체 직원들”...삼성전자 노조, 결국 쪼개지나 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFWm50d0xyN0hZbGRQajlpM1dBQXBSNVg2MUtSVThvMXRwLTZURmdtNS1BbkJrNjJPWW1rN1N5SmRmQXVDZGc?oc=5",
-              "source": "v.daum.net"
+              "title": "코스피 7800 돌파, 4일 연속 ‘사상 최고’…반도체 랠리 지속 - 한겨레",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40SFMyZEkzZ2tCMHgyU2dxVlptcUdJdVFQWFJJUGNlVHEtWm1LeU5qVlJLa0ZLU2VsSko5bVdkMkY4UlkyMHVrQjJDcWxKd3BSdGcxTWtMc2pwQ0VfTW8wMFFNN0NyQTQ?oc=5",
+              "source": "한겨레"
             }
           ]
         },
         {
           "rank": 3,
           "word": "스타트업",
-          "count": 27,
+          "count": 28,
           "articles": [
             {
-              "title": "AI 스타트업에 공공데이터 개방…중기부, 오픈데이터 챌린지 개최 - 조선비즈 - Chosunbiz",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYU9jYnVfbHZSOVl3aFVJeFg2VG5nQzFEYUhZclRYUVFEUndhQjJsdjhTa1FETmNtQjFkSVVVaVJ1aUppeXBDbkNlLXpPYlg1ZnB0Yk5VbDZNZDZ3VmN0cG9Jdl9oMmxzcWlyY0Jfam5kNm9ac2l1Qm9JU21hVGhrVl9aMExHYm9vWkhxVlk2UG_SAaQBQVVfeXFMT3RydzIwdW9CaTRjSXh4SnE5YzZsM3JQSHVzZjdTNWNMejlTcFhLUXJBVHlJQmtDd2RlVUMwMXMwYXpjVnlybllWQkpkREhvTUFDQTdTdmlaS0RYNG5BTUN6MThidWRHdk1vbDQ4MGQ2Zk9SRkRsQlc3dmhEdDlzSVYtSTYxZExROGQ3dG83SmxhRUJxajNrRlA5NkhwclVBWG5zVTY?oc=5",
-              "source": "Chosunbiz"
+              "title": "사람처럼 취향 가진 AI 비서가 스타트업 심사 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXNGNndBSG1KaURjUnpyeS0yZjZncklOX3dmcHFSd19ocXpETWlFeGVrYml6LWpJNC1zSm9walZvUXRmNlRpMUVOMGtFQmlnZDF2WkExQlhDb3VmWkZ3RklHYVdLaGxaSGhIWlNKR3pKLUQ4SGRzQk5KWEZ4NHA5OF95Yw?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 4,
           "word": "엔비디아",
-          "count": 18,
+          "count": 21,
           "articles": [
             {
-              "title": "엔비디아, AI 기업에 적극 투자…올 들어서만 400억달러 - v.daum.net",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JcFdNVmpDNlV0ekhRUEVRR2hqTVVPMDRFV3NGUGdHNTU0SlhBczJsdl92MmFTWXU2Yk8tR2pzSmcwM0dmS0k1d1k5SE1jQWs?oc=5",
-              "source": "v.daum.net"
+              "title": "AI칩 최강자 넘어 투자업계 ‘큰 손’된 엔비디아...올해 58조원 투자 - 조선일보",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXJZTmNaX0lqLVBkeEgzZVY1aFZDandmcllBMlpsUkxIX2dMZDY0M3ZtbFJUX2hsUEgyVG1FNUpEYnlWSGlJZUhwR3Q4V2JaRnhUR0Y2Y2RuY29tNGd5TlFmSWYzREplUUhTUVBZZHV0cTZrQXFnSjlaUnZ5MlA4amV3MA?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 5,
           "word": "조선일보",
-          "count": 15,
+          "count": 19,
           "articles": [
             {
               "title": "‘국힘 반대’로 개헌 무산되자 조선일보 “민주당, 헌법 파괴 말아야” - 미디어오늘",
@@ -152,7 +152,7 @@
       ]
     },
     "연예": {
-      "summary": "미에로화이바 아이돌 그룹 TWS 발탁·출연료 낮춰 페스티벌 찾는 아이돌 증가 · 박지훈 배우 동거 사실 드러나",
+      "summary": "곤도 마사히코 첫 내한공연 · 유재석 숏폼 드라마 40만뷰 · 휠체어 무용가 김용우, 서울예술상 특별상 수상",
       "keywords": [
         {
           "rank": 1,
@@ -160,9 +160,9 @@
           "count": 27,
           "articles": [
             {
-              "title": "현대약품, 미에로화이바 브랜드 최초 아이돌 보이 그룹 ‘TWS(투어스)’ 발탁 - 한국경제",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BUW9TazNQWG9hZGlzdVhXRVZiUDRpQXhlVWVQR2RfMkNCb0JPckx3SE1TVHFCOHdENWEtQkplVXFpY2N0Z21RbjBNZnZhd3JsWHlneXE4VEs5QdIBVEFVX3lxTE1jNFRma3BTUml1Y0NULWwxc0J4bk1XWmRJVkQ1VFNDODdLQzNPZzdKVmZnVjNiU1lYMXV5Z3NXVUVoeEdLWGpIZEdXTjBLZFlxNjRXbg?oc=5",
-              "source": "한국경제"
+              "title": "'日 레전드 아이돌' 곤도 마사히코, 데뷔 47년만 첫 단독 내한공연 - newsis.com",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42RmRPVllWbHcySnMzY1lZZ1BNdUpzbDhCdnJqaTgyVC1CZHpfMXVKU0dpZTF3c0lIU09PWGJWdlRYTGs4a2FHRk5ObkZ5cmg0Tmo4VzFOMzNjQkI5LWM3MtIBeEFVX3lxTE5xdkM4dUFyNVBRcldkSy1TWjNTaHY0NnZ2eDgxX3FlYmY5Y2t1THBnR0hUWmoxZXhleVBqZk9MZDhlV19GRGRrVUNMaDN3Uncwc01LM1FqSExIUXMyQzJmS2hnN1FFcHZ5WTdjc0FQZFZpejJ6WDhGRg?oc=5",
+              "source": "newsis.com"
             },
             {
               "title": "\"출연료 낮춰서라도 간다\"…페스티벌·대학축제 찾는 아이돌 - 연합뉴스",
@@ -170,9 +170,9 @@
               "source": "연합뉴스"
             },
             {
-              "title": "‘1세대 아이돌’ 오션, ‘단종’ 박지훈 만났다..“너무 어려보여 놀라” - 조선일보",
-              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbkJOTFdxLUhJa1pKOTdZUG1RYnFrbVJjWTJsTzZIN1g3Rk1RMmpLcmQtTnlrdXAtQk5qaXRtNDJucE5LQXZoLUdfN3FBS3Vhai1TSGZ1dVNYQXdjOVFPb3RhdmdycEl6TGE0cDFYT193YkotSm1aRmZxX1BTV0pMWVlDVlVnMXo2anc?oc=5",
-              "source": "조선일보"
+              "title": "'제2의 리사?'…14세 '캄보디아 공주' K팝 아이돌로 데뷔하나 - 한국경제",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwNmpCNVFGQWpjX0poYjJfNWtndHRobGItUU1aU256QmZpTk1SRXVsYi14RDV0Ny1zMFEzWjVmcm9wNlNxYkhiV0F4cnd6OHB4M1VLU0gzTTc1d9IBVEFVX3lxTE9WSTBVQ1g5TXZ4WjRoZGVvZEFZZ2ZQTDhCVXVfUk5KUVktSTBUWnFRWFR1UjQ4VVpOQ3BxTDF5X0l3amFpZ0lXSTN0MUdzQXZsYURXMg?oc=5",
+              "source": "한국경제"
             }
           ]
         },
@@ -182,16 +182,16 @@
           "count": 11,
           "articles": [
             {
-              "title": "'놀면 뭐하니' 숏 드라마 '동생이 훔친 내여자를 다시 뺏기로 했다' 개봉박두 - 비즈엔터",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfLWo3NTJqRko0dHpjcjNNV1hWT2lyaDgtdmhfN01lRTkzRVlzUGlQaHRVN0pidkRfQ1pLTS0zNVZlR0RNYmhwYllKSkFLTFhHZElXU2VR?oc=5",
-              "source": "비즈엔터"
+              "title": "유재석, 숏폼 드라마로 대박…40만뷰 터진 ‘동훔내여다뺏’ (놀뭐) - 스포츠동아",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lekJiTmppdktNWjlQRm5aREtLdENlWUxsVnYxdWRrNXpkUFVTSk9MVFJDX00xcDdtcnZYSmhHOHhjV1cyM0RCSU5DZkh2YjhBa1NDMklwaEhiSFZLQVFGcHhXTjRmMl9wM0NEa1Z3?oc=5",
+              "source": "스포츠동아"
             }
           ]
         },
         {
           "rank": 3,
           "word": "조선일보",
-          "count": 8,
+          "count": 9,
           "articles": [
             {
               "title": "‘국힘 반대’로 개헌 무산되자 조선일보 “민주당, 헌법 파괴 말아야” - 미디어오늘",
@@ -202,25 +202,25 @@
         },
         {
           "rank": 4,
-          "word": "배우",
-          "count": 8,
+          "word": "대중문화",
+          "count": 9,
           "articles": [
             {
-              "title": "'천만 배우' 박지훈, 알고 보니 '동거' 중이었다 - 스타뉴스",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrSmZFVTFhNVRJZnpneEkzZDF3SnRNT1JHOTFZUmFiamRSdE9WYkJxMjR0M1hvQkZweFE0SG8zdzRnaTVGdktvVG9uX0Y3Q1RrUDEwMktzWkdMTGhXVl9GSUc3VzJNTjJ0bmE3b1N2eFpEajg?oc=5",
-              "source": "스타뉴스"
+              "title": "[문화체육관광부]대중문화예술 진흥 정책방향 - 대한민국 정책브리핑",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUdPblQ4MDRTTzhGMDMxR0RJREFtQkJBMExTZ0R5cHI1YjREZmxoMnBMVDdxZEdYeUVSb2syWHNNbVIxODVnenF1U2FGTlFjMFc0U3Z0bUR2NkpFNHFNNTdCTkFHa0RaejNkd2dkbWstVWVRODFQcGxlMVdjaUNlNkdMTXpOSm5ZaHZSRFVRYWlmX3JHcXBQcUdxR3JoeXNaSndGbXVXbF9nQXNJck95OW50Ti1xb2hFYTgyT2JEZDlNcW1EZWhhdkZCZi0tVUN3ME1hSkdRaw?oc=5",
+              "source": "대한민국 정책브리핑"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "포토엔",
-          "count": 8,
+          "word": "예술상",
+          "count": 9,
           "articles": [
             {
-              "title": "니쥬 마코 ‘웃을 때 제일 예쁨’[포토엔HD] - newsen.com",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zTktxS0Z4QUVkNF9EcWtYWXV2STlCMVZlTFppUWlsSG54ZnFzbzB5dnFKVUtPQUJWWEtSREVmaUZXcmg5NzlRN29TSWhPUVEyLUgtN08wcHVWeWoxQnAxejlHMXZYVHR2?oc=5",
-              "source": "newsen.com"
+              "title": "휠체어 무용가 김용우씨, '제4회 서울예술상' 특별상 수상자 선정 - 에이블뉴스",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFbkN4Q0ZJWFZJR081OVU4X3lTQkstSUppSjA4bW1qUXB3M2xPeHZ3b1lOZ052RkVfZldCLS1aY2ZydUJ3c09tTWRyaE41RUJfNGJQeGV2c1Y1Skx1U3lRbGN1RlJSWTNBaU9nNmVR0gFyQVVfeXFMUF93REMwRkFqZllQT1VYeHpUUnQxX0twNXVjVVBVdGhWSzJBSXVSSDJyT2VUTVZDOF8xTVJsLWs1OFgtSHlFd05Rd3puU3hCUjd6dWJpX196SVJNbjMxT3dDS2tPRTBXV01EN05aQThSeUpn?oc=5",
+              "source": "에이블뉴스"
             }
           ]
         }
