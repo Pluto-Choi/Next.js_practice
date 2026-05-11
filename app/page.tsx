@@ -109,10 +109,9 @@ export default async function Home() {
                   <span className="text-base">{categoryEmoji[category] || "📌"}</span>
                   <h2 className={`text-sm font-bold tracking-wide ${style.text}`}>{category}</h2>
                   <div className={`flex-1 h-px ${style.line} opacity-40`} />
-                  <ShareButton category={category} />
                 </div>
 
-                {/* AI 요약 */}
+                    {/* AI 요약 */}
                 {categoryData.summary && (
                   <div className={`mb-4 px-4 py-3 ${style.summaryBg} border ${style.summaryBorder} rounded-2xl`}>
                     <p className={`${style.summaryText} text-xs leading-relaxed`}>
@@ -185,6 +184,13 @@ export default async function Home() {
                     );
                   })}
                 </div>
+                {/* 공유 버튼 */}
+                <ShareButton
+                  category={category}
+                  summary={categoryData.summary ?? ''}
+                  keywords={categoryData.keywords.map(k => ({ rank: k.rank, word: k.word }))}
+                  date={data.date}
+                />
               </div>
 
               {index === 0 && (
