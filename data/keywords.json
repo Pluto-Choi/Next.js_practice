@@ -1,151 +1,151 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "categories": {
     "오늘의 이슈": {
-      "summary": "트럼프 무역·외교 공세 강화, 이란 협상 교착 · 대만 안보 정보 유출 논란 · 유럽 국방력 강화",
+      "summary": "기업 초과이익 환원 '국민배당금' 추진·삼성 노사갈등 대화 중재·건보료 기준 발표",
       "keywords": [
         {
           "rank": 1,
-          "word": "이란",
-          "count": 4,
+          "word": "청와대",
+          "count": 2,
           "articles": [
             {
-              "title": "트럼프 중국 출발...\"무엇보다 무역 논의, 이란 관련 도움 불필요\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95bGtHdFoyRkRwTkstSXdqdWVKWnNERlBrOTV1dkh0V3hlMGwyMk9aeUl3c3EtSVplZ2x6bUhHWS0tZjdvRWt4amFYTnVyQUl3dkpPNjJka3BkUVh2WXc?oc=5",
-              "source": "YTN"
+              "title": "[사설] 기업 초과이익 환원 ‘국민배당금’ 운 띄운 청와대 정책실장",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10Xy1IcXdGdHJSWm9YTmc0dGRyUlcwazFuMFdOdGJGSEloRzdtazM2QjJWQ054MjFISDBrMjdJb2FWV0lhVFBxWUtHOFUyNmxzU2FDY3Vn?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "트럼프 압박에 이란 외무차관 “피해 보상, 포위·제재 해제, 권리 존중이 합의 최소 조건”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCbUpCQ0JGejlvR1NGMVU4aU5Gdm5aNkwxSGd4bVVOMnFOMmx2cDZuU0REbXFtR0ZMcmRxeEhzXzdtaVA5bTE1dHZHZEMzUEc3X1ZDbUViMWt6Z9IBX0FVX3lxTFBlUVA0ZmlxM0VXQUlfNUUwdEN4YUw3VW5sVTB2YTM1Mkw0ZjZIR09FZnA1RXdKZWVfZ3AxUXJ3UUhtaUl6MTN5WHowQmdtX1ZCVU5yYUlnZGg2WmpYTlBB?oc=5",
-              "source": "경향신문"
+              "title": "청와대 \"삼성, 아직 노사대화 시간 남아‥대화로 해결 적극 지원\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tdDFzY3BHdE45Zi1TMy1MUlQ4bFRyaWdibGZXS3JPY0tyNXdHaUZrOVRoOE1QejVrcGZuUXpIcl9zU0FNTVlyc2NTT1ROWDZ2TjdCQVhPbWJjZ3YwalM1SHdfdnd3WUJ1Y2JnOTR6RWFUYkQ1TG8wTtIBeEFVX3lxTE1GTFlQblNrNVRkeGwxem84RVRkbWliUzNEWC1DcTUxcUtrMUxzS25zLUp3VklzQlNvVW83eUlNU01aLXpCQjNpNndUaFgwRzFucHJGWndhejU0NGtkVUpxV1ZneTE3Q0JuTF9TTFhhZnFTdlFIRlZTbw?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "트럼프 \"美경제 고통 신경 안 써…이란 핵 저지가 중요\"",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vSG9wcU1US05FNGVidUppdHBNRFN1TVc2SFdZS2JiS1ZURUZVUUFaMDRDZktLbjFld0VJaVQteUU1bE1nLWV1ODNqY3BaN0N4RjZ3YVROMFJ0bjNLZGp3cHZxUTBBOXJ1QVNDOUZUWjlTRWc?oc=5",
-              "source": "마켓인"
+              "title": "청와대 “트럼프 ‘이란 공격’ 주장, 정확한 정보인지 의문”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hUS0zTzJxazBzOFdWMG92STE4UVc3ejhrQmhQUFU1ZDQ2YXQ5eVozMFUtczVkS09OZWxNbmY0NmRxVkhmMU9WbVNWTmVmWnRiWE0ycHhPWUxWdXE0MFE?oc=5",
+              "source": "주간경향"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "미국",
-          "count": 4,
+          "word": "김용",
+          "count": 2,
           "articles": [
             {
-              "title": "트럼프 “베네수엘라 ‘미국 51번째 주 편입’ 진지하게 검토 중”",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VV3ZkQXlpbzR2U2YxcnNvUFg3bS0wM0FsMlhsY3lpWjlmUW9rZnlvUUR5YzJYd1VCTEdxZXAwaTJqT19OYVhya19iSTJ1UzVLbi05UFZDcWczeXJjSTFXOVlxeGdmSm55djUyS0Fkbw?oc=5",
-              "source": "한겨레"
+              "title": "\"與의원 51명이 지지\"…김용, 국회의원 재보선 공천 압박 '고삐'",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sb2txZmRCSkRjVFlsQVNjMzNWdDB1VHpvbXRXV2U4c3BnLXVJaW1acWgwZjV6MXF3dExCamlHUlBmdlQyWll5QU01VWMxMVZEMGtINjlpQWJUVzDSAWBBVV95cUxQbU44UkE4T3BpYzBwdUVnVEZZd1JING9kay1RRmJqQWhFMWxwbENSSlRoMWFrME5SczJNVnlISHowMThwMzV3YlUtN1IzczRjWmpod2dBdEZ5U2lVMmFWYzI?oc=5",
+              "source": "연합뉴스"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "트럼프",
+          "word": "본격",
           "count": 2,
           "articles": [
             {
-              "title": "\"트럼프, 인내심 잃고 대규모 전투 재개 진지하게 고려\"",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT1BUNFJSTEFGQkdBaHhkcDBFU1AxZngtbWpyVVY1NUpqRjBLNzRzTzQ3MGpmV2pTeEJyMHh2RTg3UmNXcTB5Vk1nRXQzU2pYM29mZUVQQUF3bm1jX0ZkUFlQYlBrWUxqTUpuUlotZVBhZUpKelZ5MmNoVGZxdksxTE9GWkg0aHU4SVp0UzZGTXNQV21qRXVRN0tYcTBYZw?oc=5",
-              "source": "조선일보"
+              "title": "후원으로 성장한 연세의료원… ‘집중거액모금캠페인’ 본격 확대",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pek5WMjZtQTR3c09yZ0Y4eUFROUVoMUJjdHRkRURDMGZOUjkxMlpxVkVhSDE5LTJESXJVNkpRRG5LUEpISmdUcVloUi1kd3kwTDdUeFowOXZYaHQyQ1RCbElNYTNyUnl1T1BKRE1ReU9vb2JOSlE?oc=5",
+              "source": "헬스조선"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "대만",
+          "word": "공격",
           "count": 2,
           "articles": [
             {
-              "title": "대만 전투기·탄약고 등 구글 지도에 그대로…안보 침해 논란",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9laUVxSzNDNG5IWjVBRHg4RHVZZS0zVUVhSE4tZVJnVDJDRkFJQ2toaEd4UjgydG5ZS3FDYzBrRUVmUzdXbllqS3Y1MHJaMzg?oc=5",
-              "source": "v.daum.net"
+              "title": "위성락 \"나무호 공격 강력 규탄…공격 주체 식별해 필요한 대응 조치 고려\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxOWp1M0l2OHVUTVlsMS00WGxfTVl0MVVPREpwY1Rzd2RiZEJBSWQwVUh2QWpwQ3RWTm5EWTA4eWc5anFPU3h1b1pxTGlJRkVvTUs4aTRFTEw1dFh3VldkctIBeEFVX3lxTE1BaDFmcW5JSWRlVExndFdnbml4Ylhrcl9PNThIX1hiVnVKRnRyM3NyMEVBcC1OenJ5czFYbXpUWUN6WG01aldENUFpdmtpazctRDM2VFcySGRwY2k0ZGFNUXAyTHpyMFRRd0NzbHQ1ZU1zZE5XX2RxSg?oc=5",
+              "source": "newsis.com"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "호르무즈",
+          "word": "정부",
           "count": 2,
           "articles": [
             {
-              "title": "\"호르무즈 파병할게, 주독미군 우리 줘\" 유럽 小國의 안보전략",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3ViQXpQWklWNS1mZ2ViTm1aVmdsUGJuengzSC1ESFlPemQyNE9oU3ZLUE9EakNOSEpGZnhaZWczenlWQVFDeEZLRlp2SU1IZVliMzFwTlpWZU1yWm52eW9CSGsyN3pyeGZVT052dFV6elZncUFSN0FOQ0ZkT2lNZXVTNkgyNWNKajhXNzZvendrbWowZWw0bllQM3lSQQ?oc=5",
-              "source": "조선일보"
+              "title": "\"건보료 얼마면 받나\"…정부, 고유가 지원금 지급 기준 오늘 발표",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SNklxUEVGT1kwWGtzYm1fSkFHZ2p6VjZkdlRCbnE5VXdzejFNbWY2OEpWUTR5c3d5QXJ3ZmdMdkRHV1RCX0FseHBqNDBNOGc4Zng0a3prUmhxSTZKZG13YTVn?oc=5",
+              "source": "뉴스1"
             }
           ]
         }
       ]
     },
     "경제": {
-      "summary": "외국인 주식 매도로 원·달러 환율 17.5원 급등, 코스피 7400선 후퇴 · 美 인플레이션 우려로 뉴욕증시 혼조마감",
+      "summary": "원달러환율 상승·ECB 금리인상 검토·외인 코스피 매도·카카오모빌리티 미국상장 추진",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 28,
+          "count": 35,
           "articles": [
             {
-              "title": "외국인 폭풍 매도에…원·달러 환율, 17.5원 급등(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6OUtQVjktV21Ic3A2VTNGVFNhMTczX1hfSGFnQmJGVVhUWlkySm5KUEtqZG8welRoT3VudXMwOF9CTEtpbGFVUEVkWjhOS1I1clo1T1ZYYW9uZ1hxbmZNdtIBeEFVX3lxTE5PU2JLOG5oWE5pTXVoa2xSakgtVDBQNEZkcGg0WnNld3VEZWs1YUxqcGkwM3ZIamZQUDg0TzU2Vkl6clYtUGdJc0V5SWE2djdCaEtieVZFcXlLVEUwN1JVeXJxU1drUkNheEJiMlBQV0lwZ2JGVnVLSg?oc=5",
+              "title": "원·달러 환율, 3.9원 오른 1493.8원 출발",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PRC1yZTlGb0NKVHFab2wtWFBEamItMWJrQ09KSTNDRkVaYUFlT3JmdjJQM2R4REM2X09sUy12TkY1ZkZFb1hWUnA2dTdwM2pCX2VRMk5WYnVRelhYUXZnWtIBeEFVX3lxTFB0ZlVNblNpSG9RdkpZaUZkUzRZd0pJNTFLUDMxVWhGa19lME9PLWo2alJGMTZ4cS1oTEllOFRNcDlzWmRCVWJnbk9VZE1rdnJaaVZMeURCbFpTRm1GWXVsTmtWQVpzRmh4cUM0LVQyaHloeUpUWHJfQQ?oc=5",
               "source": "newsis.com"
             },
             {
-              "title": "[외환]'삼전 노조 총파업 경계+중동 긴장'에 환율 급등…外人 주식 매도 지속",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtWW9oZGNTMEdqVklaQWxXeVpsV3JKSURrd0UwZlFBaTJRaUJhcXNmV0JQckd5Q1hKUFJETEZQdEpXazJNbUpocWZpZ1NOaU5rbWI5Yi1ZRnhFT2FPYnZvQ0EzYXBQeWhVY0FPR0k4SETSAXRBVV95cUxQc0lIcGRyUXR5bzJJdlpvT3FPdnVVTVdVS2VzYW8ybDIyQ3JZNW5rS1FrZzdDa0U2TWd5M01leEZRMlAwWnloMDVsODhES2dzRHRaVjJzQ1RsbXllblMxeHg5LWVUcTdYekctYktZV2pmS2pTMg?oc=5",
-              "source": "연합인포맥스"
+              "title": "미일, 재무장관 회담서 \"엔·달러 환율에 협력 확인\"",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93S0F0TTBERENiVU1Dakt1SnFDZTQ2bjZfUkRTR3pGWUI3WjBCZlVDanBVdlVPWGV3TU1SbFNUaGx4LWtBUFJoZDkxd0t1TS1OV180bUhkZmdYQ3IybWtmQlJ0ZmNHcThSR0dmdnRKYk85eklac0xwbG1tLV9oRU0?oc=5",
+              "source": "YTN 사이언스"
             },
             {
-              "title": "수원시, 알리페이·위챗페이 결제하면 할인·환율 우대",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wNF9WRFJkMGdfR0VWWGtHZlJjeE5oRFgzRXctc3F5UkIwTHBoejZPb0h1dW1LaWdqVWdRdmthbllyVnNoVGlxZy11TzdJZm8?oc=5",
+              "title": "美재무, 日 연쇄회담서 환율·주요광물 등 논의…\"긴밀히 협의\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWNS0xY05DZkhBU01ONWpDcHNPOTJOR0NJdTQ5ci1wWV9CTW5JOTNHQ1dFSE9CX0NMRERLUFl3c0ZJX0RKOWpGSWlRUzJaeUE?oc=5",
               "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "코스피",
-          "count": 28,
+          "word": "금리",
+          "count": 29,
           "articles": [
             {
-              "title": "美 인플레이션 우려·삼성전자 5%대 급락에…코스피 7400선까지 후퇴 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVgzTDk3NUhGemdVVWNOc29pQ3JEdWdpTzZuSmxLaERKRWQ1eWdMYWxyTlU0UjFFcFRjZ01YSDNOUHlKX1NiY0JqMzNhOVpLZkFvSGFDbXlVc3BiUXJWaENPa1R3eWtWVVM0Sm96VEwzR2VESDFzaGVuQ2hiUDFCYW10SXZIZmVC0gGcAUFVX3lxTE01SFo5Z0Rwd2hRbHpSVGo1QTY2Z2hnSDNFTk9ibTRtWlVWck5sMWZLci1QN2IxNUh6aVp3X1hFUFJQUThjRk9yTkZiNEFSR3FubzA2bVYtUXgzODR0NGtScnBxNURPT09qWjJwUlBOQlYyOGZsQ0JBemU2Wmtzc2FuMTZzVTVvSF9EZG5aWnFvT01hdjVjT3pOTUJwVQ?oc=5",
-              "source": "Chosunbiz"
+              "title": "ECB, 6월 금리인상 무게...\"전쟁 끝나도 당분간 인플레이션\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NUVVfVkM4dzM1TXNQZm9HZWs0WW15YkhGdndNdHdscFNZLTZ2aDBrb2RwRzloSTVHM09PTjM4WkVkcDg4Rk16M0xNZ1Y4VXBPenpLU3VFUFhhdEhqbUE?oc=5",
+              "source": "YTN"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "금리",
-          "count": 22,
+          "word": "코스피",
+          "count": 27,
           "articles": [
             {
-              "title": "“증시 쏠림 꺾일까”…하나은행 단기 예금금리 인상",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TWUh3eDZmSUNzOGFqb3kyb0NzNmNoOVNBejhvdlFDVUlQZXF4UjZhYzBSellIai03Z2xqdjI2U3ZNcVZ1WVV5YTY5UTFJcU0?oc=5",
-              "source": "v.daum.net"
+              "title": "외인이 코스피 파는 이유…80조 '셀코리아'에도 지분율 31→38%",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwR2htUDNaSWJFUF9CQ09mdXBFdWtIWFBMbkdsV01nLUlxTFJKSVVnYjVMWkVHOURpWE1iZ3k3VVpLbjIzU0N1OVFneHV6T1lFVjdxRkJGa0hCSVlBZ2RXRjBsZlhlLWRpWTdJQzAxelE?oc=5",
+              "source": "연합인포맥스"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "증시",
-          "count": 20,
+          "word": "주식",
+          "count": 13,
           "articles": [
             {
-              "title": "뉴욕증시, 인플레 우려·반도체 매도에 혼조마감…나스닥 0.7%↓",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBTHFjZ2hYaUVEcmtic0dRSU55cG5qNzNUZzcxZGEtNVh1SDlUUEFSZWIxYWg1RWRMNnZPZXpCTUpFS2lQbzhQWXJtbFdmNTZYb25FZnp4QWotRnPSAWBBVV95cUxOMnZjNzdDWU1mNzczTjF4RzJJOEVBQVlVT1NmZlhycVpJaWhJcTAxdjFqbEs4N1dnRVE2SDJfanFsdG42MENKSF9uT1hSaGpjd2dPcVdqM0dNRWJKNTEzTVU?oc=5",
-              "source": "연합뉴스"
+              "title": "\"집 사면 벼락 거지\"…'91억 계좌 인증' 의사, 주식 예찬·부동산 저격 시끌",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PakVtb1dYTkhvMTdsU3N0REthazVheWxLTFlHcnJYYUR3UDRjMG82eWFWQ3dQQk1UMWNtRU9SNklFYlNPbS1yWFBIM3VkN3BFX1lhNmtpNkdjM0N3VkRGNnl3?oc=5",
+              "source": "뉴스1"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "부동산",
+          "word": "증시",
           "count": 13,
           "articles": [
             {
-              "title": "[허정수칼럼] 부동산 공화국에 대한 은행원의 변명",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzWDVYT09ydkF0djJCY2RTRzFXRFN1R0EzNzhSTHk5ZFZvNDBqbHZIaDVvOXBiQ0ZXUWRBR2cxTXBmNEhEUGw4SzRVUUV1cFVXV0thb2tHbm9EODFCUXFuN1ZPUXptU21S0gFsQVVfeXFMTmNmWlZVQ3NVdlVKLTY1bDliMnlaSjFqYzMwV3VRZVR1UE93bnFKQUIydHBncHY3VkFBRjBsTEpEUl9yS3hoNTU5aU56OEJJQ3BLUW1IQ0lNMVNMaXQ2dnFUaTRIVEFpdVJUNjFq?oc=5",
-              "source": "블로터"
+              "title": "[단독] 카카오모빌리티, 미국 증시 상장 추진",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mVUh6aW45dGxrZ3F5R3FWenJvVUhEUERJLTUtSnp0clJGLTBjM1NPN1FOTUtiN2NrZXM4NUh6X0R0X1NrMTBkUWpsbUUyTTRTc3NMaGp3?oc=5",
+              "source": "헤럴드경제"
             }
           ]
         }
