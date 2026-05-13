@@ -8,6 +8,7 @@ import anthropic
 import json
 import os
 import html
+import shutil
 
 stopwords = {
     # 기본
@@ -176,6 +177,9 @@ result = {
 os.makedirs("data", exist_ok=True)
 with open("data/keywords.json", "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
+
+os.makedirs("data/history", exist_ok=True)
+shutil.copy("data/keywords.json", f"data/history/{today}.json")
 
 print(f"\n{today} 키워드 저장 완료!")
 

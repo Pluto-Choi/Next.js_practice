@@ -14,13 +14,17 @@ export default function ShareButton({ category, summary, keywords, date }: Props
 
   const handleShare = async () => {
     const emoji = category === '오늘의 이슈' ? '🔥' : '💰'
+    const top3 = keywords.slice(0, 3).map(k => k.word).join(' · ')
+    const hook = category === '오늘의 이슈'
+      ? `지금 한국에서 가장 뜨거운 키워드: ${top3}`
+      : `오늘 경제 핵심만 뽑았어요: ${top3}`
     const keywordLines = keywords.map(k => `${k.rank}위 ${k.word}`).join('\n')
-    const text = `${emoji} ${category} (${date})\n\n${keywordLines}\n\n🤖 ${summary}`
+    const text = `${emoji} ${hook}\n\n${keywordLines}\n\n💬 ${summary}\n\n👇 1분이면 오늘 뉴스 다 파악해요`
     const url = window.location.href
 
     if (navigator.share) {
       try {
-        await navigator.share({ title: `오늘의 뉴스 - ${category}`, text, url })
+        await navigator.share({ title: `오늘의 뉴스 — ${top3}`, text, url })
         setState('done')
         setTimeout(() => setState('idle'), 2000)
       } catch {}

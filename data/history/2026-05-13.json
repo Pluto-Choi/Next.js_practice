@@ -1,0 +1,155 @@
+{
+  "date": "2026-05-13",
+  "categories": {
+    "오늘의 이슈": {
+      "summary": "트럼프 무역·외교 공세 강화, 이란 협상 교착 · 대만 안보 정보 유출 논란 · 유럽 국방력 강화",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "이란",
+          "count": 4,
+          "articles": [
+            {
+              "title": "트럼프 중국 출발...\"무엇보다 무역 논의, 이란 관련 도움 불필요\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95bGtHdFoyRkRwTkstSXdqdWVKWnNERlBrOTV1dkh0V3hlMGwyMk9aeUl3c3EtSVplZ2x6bUhHWS0tZjdvRWt4amFYTnVyQUl3dkpPNjJka3BkUVh2WXc?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "트럼프 압박에 이란 외무차관 “피해 보상, 포위·제재 해제, 권리 존중이 합의 최소 조건”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCbUpCQ0JGejlvR1NGMVU4aU5Gdm5aNkwxSGd4bVVOMnFOMmx2cDZuU0REbXFtR0ZMcmRxeEhzXzdtaVA5bTE1dHZHZEMzUEc3X1ZDbUViMWt6Z9IBX0FVX3lxTFBlUVA0ZmlxM0VXQUlfNUUwdEN4YUw3VW5sVTB2YTM1Mkw0ZjZIR09FZnA1RXdKZWVfZ3AxUXJ3UUhtaUl6MTN5WHowQmdtX1ZCVU5yYUlnZGg2WmpYTlBB?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "트럼프 \"美경제 고통 신경 안 써…이란 핵 저지가 중요\"",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vSG9wcU1US05FNGVidUppdHBNRFN1TVc2SFdZS2JiS1ZURUZVUUFaMDRDZktLbjFld0VJaVQteUU1bE1nLWV1ODNqY3BaN0N4RjZ3YVROMFJ0bjNLZGp3cHZxUTBBOXJ1QVNDOUZUWjlTRWc?oc=5",
+              "source": "마켓인"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "미국",
+          "count": 4,
+          "articles": [
+            {
+              "title": "트럼프 “베네수엘라 ‘미국 51번째 주 편입’ 진지하게 검토 중”",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VV3ZkQXlpbzR2U2YxcnNvUFg3bS0wM0FsMlhsY3lpWjlmUW9rZnlvUUR5YzJYd1VCTEdxZXAwaTJqT19OYVhya19iSTJ1UzVLbi05UFZDcWczeXJjSTFXOVlxeGdmSm55djUyS0Fkbw?oc=5",
+              "source": "한겨레"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "word": "트럼프",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"트럼프, 인내심 잃고 대규모 전투 재개 진지하게 고려\"",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT1BUNFJSTEFGQkdBaHhkcDBFU1AxZngtbWpyVVY1NUpqRjBLNzRzTzQ3MGpmV2pTeEJyMHh2RTg3UmNXcTB5Vk1nRXQzU2pYM29mZUVQQUF3bm1jX0ZkUFlQYlBrWUxqTUpuUlotZVBhZUpKelZ5MmNoVGZxdksxTE9GWkg0aHU4SVp0UzZGTXNQV21qRXVRN0tYcTBYZw?oc=5",
+              "source": "조선일보"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "대만",
+          "count": 2,
+          "articles": [
+            {
+              "title": "대만 전투기·탄약고 등 구글 지도에 그대로…안보 침해 논란",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9laUVxSzNDNG5IWjVBRHg4RHVZZS0zVUVhSE4tZVJnVDJDRkFJQ2toaEd4UjgydG5ZS3FDYzBrRUVmUzdXbllqS3Y1MHJaMzg?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "호르무즈",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"호르무즈 파병할게, 주독미군 우리 줘\" 유럽 小國의 안보전략",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3ViQXpQWklWNS1mZ2ViTm1aVmdsUGJuengzSC1ESFlPemQyNE9oU3ZLUE9EakNOSEpGZnhaZWczenlWQVFDeEZLRlp2SU1IZVliMzFwTlpWZU1yWm52eW9CSGsyN3pyeGZVT052dFV6elZncUFSN0FOQ0ZkT2lNZXVTNkgyNWNKajhXNzZvendrbWowZWw0bllQM3lSQQ?oc=5",
+              "source": "조선일보"
+            }
+          ]
+        }
+      ]
+    },
+    "경제": {
+      "summary": "외국인 주식 매도로 원·달러 환율 17.5원 급등, 코스피 7400선 후퇴 · 美 인플레이션 우려로 뉴욕증시 혼조마감",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "환율",
+          "count": 28,
+          "articles": [
+            {
+              "title": "외국인 폭풍 매도에…원·달러 환율, 17.5원 급등(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6OUtQVjktV21Ic3A2VTNGVFNhMTczX1hfSGFnQmJGVVhUWlkySm5KUEtqZG8welRoT3VudXMwOF9CTEtpbGFVUEVkWjhOS1I1clo1T1ZYYW9uZ1hxbmZNdtIBeEFVX3lxTE5PU2JLOG5oWE5pTXVoa2xSakgtVDBQNEZkcGg0WnNld3VEZWs1YUxqcGkwM3ZIamZQUDg0TzU2Vkl6clYtUGdJc0V5SWE2djdCaEtieVZFcXlLVEUwN1JVeXJxU1drUkNheEJiMlBQV0lwZ2JGVnVLSg?oc=5",
+              "source": "newsis.com"
+            },
+            {
+              "title": "[외환]'삼전 노조 총파업 경계+중동 긴장'에 환율 급등…外人 주식 매도 지속",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtWW9oZGNTMEdqVklaQWxXeVpsV3JKSURrd0UwZlFBaTJRaUJhcXNmV0JQckd5Q1hKUFJETEZQdEpXazJNbUpocWZpZ1NOaU5rbWI5Yi1ZRnhFT2FPYnZvQ0EzYXBQeWhVY0FPR0k4SETSAXRBVV95cUxQc0lIcGRyUXR5bzJJdlpvT3FPdnVVTVdVS2VzYW8ybDIyQ3JZNW5rS1FrZzdDa0U2TWd5M01leEZRMlAwWnloMDVsODhES2dzRHRaVjJzQ1RsbXllblMxeHg5LWVUcTdYekctYktZV2pmS2pTMg?oc=5",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "수원시, 알리페이·위챗페이 결제하면 할인·환율 우대",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wNF9WRFJkMGdfR0VWWGtHZlJjeE5oRFgzRXctc3F5UkIwTHBoejZPb0h1dW1LaWdqVWdRdmthbllyVnNoVGlxZy11TzdJZm8?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "코스피",
+          "count": 28,
+          "articles": [
+            {
+              "title": "美 인플레이션 우려·삼성전자 5%대 급락에…코스피 7400선까지 후퇴 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVgzTDk3NUhGemdVVWNOc29pQ3JEdWdpTzZuSmxLaERKRWQ1eWdMYWxyTlU0UjFFcFRjZ01YSDNOUHlKX1NiY0JqMzNhOVpLZkFvSGFDbXlVc3BiUXJWaENPa1R3eWtWVVM0Sm96VEwzR2VESDFzaGVuQ2hiUDFCYW10SXZIZmVC0gGcAUFVX3lxTE01SFo5Z0Rwd2hRbHpSVGo1QTY2Z2hnSDNFTk9ibTRtWlVWck5sMWZLci1QN2IxNUh6aVp3X1hFUFJQUThjRk9yTkZiNEFSR3FubzA2bVYtUXgzODR0NGtScnBxNURPT09qWjJwUlBOQlYyOGZsQ0JBemU2Wmtzc2FuMTZzVTVvSF9EZG5aWnFvT01hdjVjT3pOTUJwVQ?oc=5",
+              "source": "Chosunbiz"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "word": "금리",
+          "count": 22,
+          "articles": [
+            {
+              "title": "“증시 쏠림 꺾일까”…하나은행 단기 예금금리 인상",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TWUh3eDZmSUNzOGFqb3kyb0NzNmNoOVNBejhvdlFDVUlQZXF4UjZhYzBSellIai03Z2xqdjI2U3ZNcVZ1WVV5YTY5UTFJcU0?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "증시",
+          "count": 20,
+          "articles": [
+            {
+              "title": "뉴욕증시, 인플레 우려·반도체 매도에 혼조마감…나스닥 0.7%↓",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBTHFjZ2hYaUVEcmtic0dRSU55cG5qNzNUZzcxZGEtNVh1SDlUUEFSZWIxYWg1RWRMNnZPZXpCTUpFS2lQbzhQWXJtbFdmNTZYb25FZnp4QWotRnPSAWBBVV95cUxOMnZjNzdDWU1mNzczTjF4RzJJOEVBQVlVT1NmZlhycVpJaWhJcTAxdjFqbEs4N1dnRVE2SDJfanFsdG42MENKSF9uT1hSaGpjd2dPcVdqM0dNRWJKNTEzTVU?oc=5",
+              "source": "연합뉴스"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "부동산",
+          "count": 13,
+          "articles": [
+            {
+              "title": "[허정수칼럼] 부동산 공화국에 대한 은행원의 변명",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzWDVYT09ydkF0djJCY2RTRzFXRFN1R0EzNzhSTHk5ZFZvNDBqbHZIaDVvOXBiQ0ZXUWRBR2cxTXBmNEhEUGw4SzRVUUV1cFVXV0thb2tHbm9EODFCUXFuN1ZPUXptU21S0gFsQVVfeXFMTmNmWlZVQ3NVdlVKLTY1bDliMnlaSjFqYzMwV3VRZVR1UE93bnFKQUIydHBncHY3VkFBRjBsTEpEUl9yS3hoNTU5aU56OEJJQ3BLUW1IQ0lNMVNMaXQ2dnFUaTRIVEFpdVJUNjFq?oc=5",
+              "source": "블로터"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
