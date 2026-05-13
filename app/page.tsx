@@ -4,6 +4,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import KeywordDisplay, { type KeywordsData } from "./components/KeywordDisplay";
 import Logo from "./components/Logo";
+import InstallButton from "./components/InstallButton";
 
 async function loadData(): Promise<KeywordsData> {
   const filePath = path.join(process.cwd(), "data", "keywords.json");
@@ -51,6 +52,8 @@ export default async function Home() {
           </div>
           <p className="text-xs text-zinc-400 dark:text-zinc-500">{data.date} · Google News RSS</p>
         </div>
+
+        <InstallButton />
 
         {recentDates.length > 1 && (
           <div className="flex gap-2 overflow-x-auto pb-1 mb-6 scrollbar-none">
