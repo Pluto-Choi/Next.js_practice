@@ -2,10 +2,32 @@
   "date": "2026-05-14",
   "categories": {
     "오늘의 이슈": {
-      "summary": "삼성 노사분쟁 대화로 해결 추진 · 나무호 피격 사건 국회 공개 · AI 초과세수 국민배당 검토 · 트럼프 9년만에 중국 방문 · 중동 긴장 고조",
+      "summary": "네타냐후 UAE 극비 방문으로 이란 공격 조율 · 삼성 노사분쟁 대화 중재 · 트럼프 9년만에 중국 방문",
       "keywords": [
         {
           "rank": 1,
+          "word": "전쟁",
+          "count": 3,
+          "articles": [
+            {
+              "title": "네타냐후, 전쟁 중 UAE 극비 방문…이란 공격 조율한 듯",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uY3EwNzdTa05uLXJqaXlxS21UYndZcUJ2TjZSbmx3X0V6Qmsxd0k2aGpFQkxPdmZvVDJmMXFRSVpUeWM5bkRCOGloMjYyWjhtcXBidGw2RzJEa1FJeldZa0pod1FCcXNzdUR0VGhNR2o1UTJWeHVHUkhBNA?oc=5",
+              "source": "이데일리TV"
+            },
+            {
+              "title": "네타냐후 \"이란 우라늄 제거할 때까지 전쟁 안 끝나\"",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTFhhQnhTWFNPbFA1ZXZ6Q1NSMXRRSTJ3eWRyaVpoeTkzUnhTdUVNMm9mOFcxOXFFbFNDNU0yejB6cXdyMUFFMnhyYnpLcDUzSTN2NTFmRHBEZVh1SXFPdGxyNkw0WVlEZmd5RU5td0tNLXJfVkxZSXhGd2RSMS1EX1dpcWdYand6bnhMNklVWXNnZW1vblpaNHhlWC1vdw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "중동유일 韓우방 UAE, 이스라엘과 對이란 전쟁공조했다…“모사드 국장 2차례 방문”",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LSWk4WUhUZjZUdnlqZEtpZ1Nvd3cxUV9lWFJtQ0VjLURkdUxnU19rN0s0LWd0ci0ya0x6YmZuWHpWcTBUZ0dUSU1kVFp1aVU?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 2,
           "word": "청와대",
           "count": 2,
           "articles": [
@@ -13,21 +35,23 @@
               "title": "청와대 \"삼성, 아직 노사대화 시간 남아‥대화로 해결 적극 지원\"",
               "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tdDFzY3BHdE45Zi1TMy1MUlQ4bFRyaWdibGZXS3JPY0tyNXdHaUZrOVRoOE1QejVrcGZuUXpIcl9zU0FNTVlyc2NTT1ROWDZ2TjdCQVhPbWJjZ3YwalM1SHdfdnd3WUJ1Y2JnOTR6RWFUYkQ1TG8wTtIBeEFVX3lxTE1GTFlQblNrNVRkeGwxem84RVRkbWliUzNEWC1DcTUxcUtrMUxzS25zLUp3VklzQlNvVW83eUlNU01aLXpCQjNpNndUaFgwRzFucHJGWndhejU0NGtkVUpxV1ZneTE3Q0JuTF9TTFhhZnFTdlFIRlZTbw?oc=5",
               "source": "MBC 뉴스"
-            },
-            {
-              "title": "[속보] 청와대 “나무호 피격 국민 관심 높아… 외통위서 조속히 공개해야”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85cEJBZlRKMUFNQlhYQ3Z3N0otdFlvZlF6UExBaGI3cW9SYVFLMkhqQzRocDByY01DR05Wek8zZzhGdFllQmlRTWM4MjRpckE?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "청와대 “나무호 등 민간선박에 대한 공격 용납 안 돼…강력 규탄”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbDkwMWNDc2Fkbk5nSUU3QjJSSDR2S2dLVUx2RTFUQXpSX3ZlemU3alMtbGxDcHFJOG1qUl9acjcwem94WWxZZkJYanYtWXBLVVNsdFR3cndaQdIBX0FVX3lxTE42VFh6LUt0bUlVS0toeUhzLVhoclZESXN0SFNWdWtXLWZKeHVHQktja1pyZHJMazVGREcxaGtvOUFYeERnZDdzRDJHdjNBYk1HT09tX202aVVUcFNsZ3hz?oc=5",
-              "source": "경향신문"
             }
           ]
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "word": "김용",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"與의원 51명이 지지\"…김용, 국회의원 재보선 공천 압박 '고삐'",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sb2txZmRCSkRjVFlsQVNjMzNWdDB1VHpvbXRXV2U4c3BnLXVJaW1acWgwZjV6MXF3dExCamlHUlBmdlQyWll5QU01VWMxMVZEMGtINjlpQWJUVzDSAWBBVV95cUxQbU44UkE4T3BpYzBwdUVnVEZZd1JING9kay1RRmJqQWhFMWxwbENSSlRoMWFrME5SczJNVnlISHowMThwMzV3YlUtN1IzczRjWmpod2dBdEZ5U2lVMmFWYzI?oc=5",
+              "source": "연합뉴스"
+            }
+          ]
+        },
+        {
+          "rank": 4,
           "word": "본격",
           "count": 2,
           "articles": [
@@ -39,19 +63,7 @@
           ]
         },
         {
-          "rank": 3,
-          "word": "검토",
-          "count": 2,
-          "articles": [
-            {
-              "title": "직접 나선 이 대통령 “AI 초과 ‘세수’ 국민배당 검토…‘이윤’ 아닌데 음해”",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zVGYyWUNmVjZHTVlYSjJweENaSmdfdzJQT1JKNDFNdklTZ1Q5ZkhlNUF0ekEzclJoMDhkSFZrWEVUSWI5X0J6ZXB2VzR5aWJOcTBNRXhGWVdQVl96aTA0TUZtbkppNHh3RkJN?oc=5",
-              "source": "한겨레"
-            }
-          ]
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "word": "트럼프",
           "count": 2,
           "articles": [
@@ -61,28 +73,91 @@
               "source": "조선일보"
             }
           ]
+        }
+      ]
+    },
+    "연예": {
+      "summary": "플레어 유가 악뮤를 롤모델로 위로하는 음악 추구 · 케이팝 데몬 헌터스 1주년 팝업 및 글로벌 투어 콘서트 개최",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "아이돌",
+          "count": 14,
+          "articles": [
+            {
+              "title": "'아이돌 듀오' 플레어 유 \"롤모델은 악뮤…위로 주는 음악 하고파\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yM2ZvelNQSzhYN09VZzFndU5teDFYNnEybExIUEN0OS16TW5GODktX1loMDh5VGhLeEFMbzJFOHN6SElDNXlHQlpYVTVacWpLN0tNbVlkb1BOcjTSAWBBVV95cUxNMWJ4eU41eU41djh0cWpkX25IWGU3UnAtT1hNc3dzaUNWbzVyT0lLekJaU3ByN1hOd3YtXzNyMGttX2g3bHIxYmJQem0xOExrdjktY1dFMU9yLXNRUUdnbEU?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "'자택 강도 피해' 나나, '진흙탕' 소송 중 떠난 휴양…여전한 '171cm' 아이돌 비율 [RE:스타]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9paGhyc1BhcFY3cVp6U051elU5bzJmeUJRMmp0eF8yMjRmVWFTd1JxZzF2Vmx2ZFBqQmZINm4zZ3ZEbVhTN2V3WUs3R3BwNnM?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "[빅데이터로본다] 아이돌그룹 2026년 5월 브랜드평판... 1위 방탄소년단, 2위 아이브, 3위 블랙핑크",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12Zk9NRzRobVEza0I3b0xKRm1DcVljYmY1YmsyckFyZHZBYjdYWndZaVVnMU5LOXpoRTVGUjVCbXp0eFp0c1cxalBTMEpwcE40bEt1eTdSajI1dVBRcExWQWE0bnhQc1NKcW5B?oc=5",
+              "source": "일간투데이"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "케이팝",
+          "count": 12,
+          "articles": [
+            {
+              "title": "01화 시작하며: 왜 케이팝이 아니라 제이팝인가",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KYlJnWnhzVUFQb2w0cnpNNVQwR2llMkFtY19zcDcwNFNHaE02ZDkwXzVCR0hHM1RBQTJma3NhRXJoTW1Wak12ZE5zMXA?oc=5",
+              "source": "브런치"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "word": "한류",
+          "count": 9,
+          "articles": [
+            {
+              "title": "[매경춘추] 한류의 밀도와 강도",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SY1ByZ2FQbDkxeDEtbU5TYW1mckNUbDZ1U05lQm5sMTJEOGZWTDFXS2V2WGlvQ0s3VzlpeC1Hd0h2TnZoWnVqVFVUQzhMMXM?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "데몬",
+          "count": 8,
+          "articles": [
+            {
+              "title": "〈케이팝 데몬 헌터스〉 1주년 공식 팝업, 서울에서 시작…비마이프렌즈가 운영 총괄",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MdXhwTGloQ2hiaWRQRnVGY3ZZZkFjZEkxbHI0WlBVWlVQbDNXaWFkTVUwZ1YyYXpzUGRYV25IRnJiQnZpNEg5ZnRkNXNVUzh2djFwcjJCNVF2N1R6clRRcnVmc3Jfc3B0M0E?oc=5",
+              "source": "뉴스에이"
+            }
+          ]
         },
         {
           "rank": 5,
-          "word": "이란",
-          "count": 2,
+          "word": "헌터스",
+          "count": 8,
           "articles": [
             {
-              "title": "사우디·UAE도 이란 공습… ‘중동 대전’으로 확대되나",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNUVYMm5kUU56ckFGeWY5bVRMUnVnRWNDQl9UZ0N5cmhGOEFpeFFnU3BxaHowSmpBeGJqdl91TWF5TkRkSzJTUmpFWXUybDIweUlrWkJuWmY2N256S3ZGbGRveWdHNmhYU0VCNmJTRGhEeWlfSEQ0emtGQ1ZEeEJfRGRySGd3QnU5bW5VclRWb1BhcXNpN3BKaUdpUmEwUQ?oc=5",
-              "source": "조선일보"
+              "title": "‘케이팝 데몬 헌터스’, 글로벌 투어 콘서트 발표…“세계관 라이브 무대로 구현”",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91d3U4OUo5N2lHWE4xLUlNZjNOTjBRTWJCNURDek45WS1nVGlxYVlNNURTQnNoNE4xY3VUaGpJNkJmMnJjQlBSNnNOZERSSmcwRlBDQVNzbXd0ZWpSSXB3bzBWMlpiZw?oc=5",
+              "source": "싱글리스트"
             }
           ]
         }
       ]
     },
     "경제": {
-      "summary": "원달러 환율 상승으로 1493.8원 기록 · 외국인 투자자의 코스피 연속 매도 · ECB 6월 금리인상 검토 · 카카오모빌리티 미국 상장 추진",
+      "summary": "환율 상승으로 원화 약세 진행 중·코스피 8000선 붕괴 위기에 외인 매도세 계속·신용등급 역전으로 금리 역설 현상 발생·카카오모빌리티 미국 상장 추진·DB하이텍 대폭 하락",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 27,
+          "count": 35,
           "articles": [
             {
               "title": "원·달러 환율, 3.9원 오른 1493.8원 출발",
@@ -95,9 +170,9 @@
               "source": "매일경제TV"
             },
             {
-              "title": "모건스탠리도 \"코스피 1만 간다\"…환율 1,420원 회복 가능성",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wRGpCcmU2anJ5OEJxM2tHX3V1SnFrYmFKVFpJNTY3OFFacG5IR0REUUF3SG45d3o2SUxwZ19QSWlCYUlBVXpBSllQN3B2M2dKLVIwdlBidF8zNmRtSThLS3N4SzhSMlFiMmRhZnZvdDY?oc=5",
-              "source": "연합인포맥스"
+              "title": "미일, 재무장관 회담서 \"엔·달러 환율에 협력 확인\"",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93S0F0TTBERENiVU1Dakt1SnFDZTQ2bjZfUkRTR3pGWUI3WjBCZlVDanBVdlVPWGV3TU1SbFNUaGx4LWtBUFJoZDkxd0t1TS1OV180bUhkZmdYQ3IybWtmQlJ0ZmNHcThSR0dmdnRKYk85eklac0xwbG1tLV9oRU0?oc=5",
+              "source": "YTN 사이언스"
             }
           ]
         },
@@ -107,28 +182,28 @@
           "count": 27,
           "articles": [
             {
-              "title": "외국인 닷새 연속 코스피 '팔자'…매도 장기화? 차익 실현?",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUNl9jVEtBS0t3TU9MeTkzTV92VXhOX2RKM0ROaXFsMjVFd3RDcUFheEJyd0dsYmc4ODJrNHRhUi1od1o1ZHk3cFFaMTlJcDA?oc=5",
-              "source": "v.daum.net"
+              "title": "'8천피’ 문턱서 쏟아진 24조 매물 폭탄… 외인 '셀 코리아' 왜",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hSnpkOW5kU2VIZWZaMlVyaTJORzBEcmRRVU1NOWxEaVpmR3EtNTllMmplSmJuUlRFZTRtTUUwYWExV2czQzJTQnlRQjZzWU9KR0RrMU5pY3VkcVpIMGZuctIBeEFVX3lxTE92ekFqNTQwNEM0UVJyTzhiT2NRdEF4U0tjcDdpNmoweUtFSGUzd1dnbm1pSVBhN0NBWnhFN0t1dEwxTk9mTkREQWM0QWdCd1NERkM1b0hIbmlzWkh5T3BjcVZKNE44c1pvb2Z0LThUdDkyeThGWnJLdw?oc=5",
+              "source": "newsis.com"
             }
           ]
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 22,
+          "count": 27,
           "articles": [
             {
-              "title": "ECB, 6월 금리인상 무게...\"전쟁 끝나도 당분간 인플레이션\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NUVVfVkM4dzM1TXNQZm9HZWs0WW15YkhGdndNdHdscFNZLTZ2aDBrb2RwRzloSTVHM09PTjM4WkVkcDg4Rk16M0xNZ1Y4VXBPenpLU3VFUFhhdEhqbUE?oc=5",
-              "source": "YTN"
+              "title": "고신용자 4.9%, 저신용자 3.7%…‘거꾸로 금리’에 뒤통수 맞았다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zRVRmNFpSMGxDUDcyamNDVEJvOTJuYS0zSWZIbjVXVHZiQ21LdldnRG4tWHlrN3YxMDNWUmN0M05XQ1R2bUplVTBiTWlvLTdJMEF1QWJR?oc=5",
+              "source": "중앙일보"
             }
           ]
         },
         {
           "rank": 4,
           "word": "증시",
-          "count": 18,
+          "count": 13,
           "articles": [
             {
               "title": "[단독] 카카오모빌리티, 미국 증시 상장 추진",
@@ -140,12 +215,12 @@
         {
           "rank": 5,
           "word": "주식",
-          "count": 13,
+          "count": 12,
           "articles": [
             {
-              "title": "LS증권, 개인투자자 대상 국내주식 투자전략 세미나 개최",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02ZHNNREdWQzgtc1U3Z01DQndBWDIwSk5ZdUNHaE93QVluX1Z0TE5GNFlwTGFKbkhWeThnVjMzM2hBX3hpYjFlSjhuRFpaVVhaNVJrWQ?oc=5",
-              "source": "이투데이"
+              "title": "DB하이텍 '금값 EB'…18만원짜리 주식을 5만원에",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RQnRYR1d0YzNEeGNnaWttajg1T1owQWRGcjZYWk1iX1lpNXFlbUlLcXo5TGR3eld1UEZxbWxsU0x2NEZocFN4MTc4Q3V6Rjg?oc=5",
+              "source": "v.daum.net"
             }
           ]
         }
