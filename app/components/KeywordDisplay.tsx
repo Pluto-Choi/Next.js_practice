@@ -29,6 +29,7 @@ export type KeywordsData = {
 
 const categoryEmoji: { [key: string]: string } = {
   "오늘의 이슈": "🔥",
+  연예: "🎤",
   경제: "💰",
 };
 
@@ -47,6 +48,13 @@ const categoryStyle: {
     summaryBg: "bg-rose-50 dark:bg-rose-950/40",
     summaryBorder: "border-rose-200 dark:border-rose-900/60",
     summaryText: "text-rose-700 dark:text-rose-300",
+  },
+  연예: {
+    text: "text-fuchsia-500 dark:text-fuchsia-400",
+    line: "bg-fuchsia-400 dark:bg-fuchsia-700",
+    summaryBg: "bg-fuchsia-50 dark:bg-fuchsia-950/40",
+    summaryBorder: "border-fuchsia-200 dark:border-fuchsia-900/60",
+    summaryText: "text-fuchsia-700 dark:text-fuchsia-300",
   },
   경제: {
     text: "text-blue-500 dark:text-blue-400",

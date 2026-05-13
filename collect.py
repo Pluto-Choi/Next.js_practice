@@ -10,45 +10,48 @@ import os
 import html
 import shutil
 
-stopwords = {
-    # 기본
-    '경제', '뉴스', '기자', '한국', '지역', '사회', '국제', '관련',
-    '한겨레', '조선', '중앙', '동아', '연합', '일보', '신문', '방송',
-    '재경부', '관리관', '국장', '개발', '활성', '지성', '서울', '대한',
+stopwords_common = {
+    # 시간
     '이후', '올해', '지난', '이번', '최근', '오늘', '내일',
-    '연합인포맥스', '아시아경제', '브릿지', '한국경제', '불교방송',
-    '센터', '브리핑', '강화', '대책',
-    '개최', '점검', '회의', '공동', '가동', '진행', '추진', '실시',
-    '참석', '발표', '논의', '강조', '예정', '확인', '지원', '운영',
-    '도약', '장기', '민간', '공공', '분야', '상황', '문제', '방안',
-    '계획', '목표', '효과', '결과', '사업', '행사', '기관', '현장',
-    '기술', '외교', '협력', '통합', '시행',
-    '대응', '혁신', '글로벌', '실용', '장관',
-    '헤럴드', '총리', '본부', '위원', '의원', '대표', '회장', '사장',
-    '부장', '차관', '장관', '대통령', '후보', '선거', '전시', '총력',
     # 언론사
-    '뉴시스', '감독', '네이트', '포토', '내외', '연예인',
-    '연합인포맥스', '아시아경제', '브릿지', '한국경제', '불교방송',
-    '헤럴드', '파이낸셜포스트', '지디넷코리아', '경남일보',
-    '연합뉴스', '시사저널', '아이티데일리',
-    # IT 노이즈
+    '한겨레', '조선', '중앙', '동아', '연합', '일보', '신문', '방송',
+    '뉴시스', '네이트', '내외', '연합인포맥스', '아시아경제', '브릿지',
+    '한국경제', '불교방송', '헤럴드', '파이낸셜포스트', '지디넷코리아',
+    '경남일보', '연합뉴스', '시사저널', '아이티데일리',
+    # 직함
+    '대통령', '총리', '장관', '차관', '의원', '대표', '회장', '사장',
+    '부장', '위원', '본부', '기자',
+    # 행위 노이즈
+    '개최', '점검', '회의', '공동', '진행', '추진', '실시',
+    '참석', '발표', '논의', '강조', '예정', '확인', '지원', '운영',
+    '도약', '민간', '공공', '분야', '상황', '문제', '방안',
+    '계획', '목표', '효과', '결과', '사업', '행사', '기관', '현장',
+    '대응', '혁신', '시행', '후보', '선거', '전시', '총력',
+    # 일반 명사 노이즈
+    '뉴스', '기자', '한국', '지역', '사회', '국제', '관련',
+}
+
+stopwords_economy = stopwords_common | {
+    '경제', '재경부', '관리관', '국장', '개발', '활성', '서울', '대한',
+    '센터', '브리핑', '강화', '대책', '세계', '구윤철', '글로벌', '실용',
     '미래', '인사이트', '리포트', '뉴스룸', '핵심', '유통',
     '전략', '도입', '가능', '트렌드', '접목', '전망', '공략',
     '브런치', '변경', '계열사', '기반', '연구',
-    # 연예 노이즈
-    '앨리', '리스트', '싱글', '발매', '미소', '문화', '플러스',
-    '오프', '온', '남자', '현장포토', '영상', '사랑', '지급',
-    # 경제 노이즈
-    '세계', '구윤철',
-    # 형식적 단어
-    '개최', '점검', '회의', '공동', '가동', '진행', '추진', '실시',
-    '참석', '발표', '논의', '강조', '예정', '확인', '지원', '운영',
-    '도약', '장기', '민간', '공공', '분야', '상황', '문제', '방안',
-    '계획', '목표', '효과', '결과', '사업', '행사', '기관', '현장',
     '활용', '시장', '제시', '전속', '계약', '모집',
     '환경', '디지털', '교육', '경제자유구역',
     '기업', '첨단', '물류', '융합', '산업',
-    '역량', '시대', '변화', '연예', '사진',
+    '역량', '시대', '변화', '사진', '기술', '외교', '협력', '통합',
+    '가동', '장기',
+}
+
+stopwords_entertainment = stopwords_common | {
+    '연예', '연예인', '사진', '포토', '현장포토', '영상',
+    '컴백', '데뷔', '활동', '팬미팅', '콘서트', '공연', '팬',
+    '발매', '앨범', '싱글', '미니', '타이틀', '멤버', '그룹', '솔로',
+    '출연', '드라마', '영화', '인터뷰', '화보', '스타',
+    '남자', '여자', '사랑', '결혼', '열애', '이별', '교제',
+    '문화', '플러스', '앨리', '리스트', '미소', '오프', '온', '지급',
+    '감독', '네이트', '시즌',
 }
 
 def fetch_articles_google(keyword, count, used_links):
@@ -74,13 +77,13 @@ def clean_title(title):
         title = title.rsplit(' - ', 1)[0]
     return title
 
-def extract_keywords(titles):
+def extract_keywords(titles, sw=stopwords_common):
     nouns = []
     for title in titles:
         tokens = kiwi.tokenize(clean_title(title))
         for token in tokens:
             if token.tag in ('NNG', 'NNP') and len(token.form) > 1:
-                if token.form not in stopwords:
+                if token.form not in sw:
                     nouns.append(token.form)
     return Counter(nouns).most_common(5)
 
@@ -125,7 +128,7 @@ today = datetime.now(KST).strftime('%Y-%m-%d')  # yesterday → today로 변경
 # ===== 오늘의 이슈 =====
 print("=== 오늘의 이슈 Top 5 키워드 ===")
 feed_issue = feedparser.parse("https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko")
-top5_issue = extract_keywords([e.title for e in feed_issue.entries])
+top5_issue = extract_keywords([e.title for e in feed_issue.entries], stopwords_common)
 
 used_links_issue = set()
 keywords_issue = []
@@ -140,7 +143,7 @@ for i, (word, count) in enumerate(top5_issue):
 # ===== 경제 =====
 print("\n=== 경제 Top 5 키워드 ===")
 feed_economy = feedparser.parse(f"https://news.google.com/rss/search?q={quote('주식 증시 코스피 환율 금리 부동산')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
-top5_economy = extract_keywords([e.title for e in feed_economy.entries])
+top5_economy = extract_keywords([e.title for e in feed_economy.entries], stopwords_economy)
 
 used_links_economy = set()
 keywords_economy = []
@@ -152,9 +155,24 @@ for i, (word, count) in enumerate(top5_economy):
     for a in articles:
         print(f"  - {a['title']}")
 
+# ===== 연예 =====
+print("\n=== 연예 Top 5 키워드 ===")
+feed_ent = feedparser.parse(f"https://news.google.com/rss/search?q={quote('아이돌 K팝 드라마 연예인 영화')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
+top5_ent = extract_keywords([e.title for e in feed_ent.entries], stopwords_entertainment)
+
+used_links_ent = set()
+keywords_ent = []
+for i, (word, count) in enumerate(top5_ent):
+    article_count = 3 if i == 0 else 1
+    articles = fetch_articles_google(word, article_count, used_links_ent)
+    keywords_ent.append({"rank": i+1, "word": word, "count": count, "articles": articles})
+    print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
+    for a in articles:
+        print(f"  - {a['title']}")
+
 # ===== 요약 생성 =====
 summaries = {}
-for category, keywords in [("오늘의 이슈", keywords_issue), ("경제", keywords_economy)]:
+for category, keywords in [("오늘의 이슈", keywords_issue), ("연예", keywords_ent), ("경제", keywords_economy)]:
     summary = generate_summary(keywords, category)
     summaries[category] = summary
     print(f"{category} 요약: {summary}")
@@ -166,6 +184,10 @@ result = {
         "오늘의 이슈": {
             "summary": summaries["오늘의 이슈"],
             "keywords": keywords_issue,
+        },
+        "연예": {
+            "summary": summaries["연예"],
+            "keywords": keywords_ent,
         },
         "경제": {
             "summary": summaries["경제"],
