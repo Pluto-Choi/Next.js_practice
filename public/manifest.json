@@ -1,6 +1,6 @@
 {
   "name": "오늘의 뉴스",
-  "short_name": "오늘뉴스",
+  "short_name": "오늘의 뉴스",
   "description": "오늘 가장 핫한 이슈와 경제 키워드를 한눈에. 매일 오전 9시 업데이트.",
   "start_url": "/",
   "display": "standalone",
