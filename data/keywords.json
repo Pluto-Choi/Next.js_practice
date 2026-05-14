@@ -2,143 +2,119 @@
   "date": "2026-05-15",
   "categories": {
     "오늘의 이슈": {
-      "summary": "시진핑-트럼프 미중 정상급 대화 · 광주 여고생 살해사건 수사 진행 · 전국 고온 주말까지 33도",
+      "summary": "네타냐후 \"이란 약화, 급진 이슬람과 전쟁 계속\" · 시진핑 \"대만 문제 잘못 처리 시 충돌\" · 윤석열 내란 항소심 재판부 기피신청 진행",
       "keywords": [
         {
           "rank": 1,
-          "word": "트럼프",
-          "count": 2,
+          "word": "이란",
+          "count": 3,
           "articles": [
             {
-              "title": "시진핑 “중국 부흥과 마가, 양립 가능”…트럼프 “미·중, 가장 중요한 국가”",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWmxIV3pRWjFCMmR6eG1IRzFDMi1nNm9KOWxzOTFaNWMzV2lKNDFocVd5LWZ4OWhDcndtTVJIZDBjOHJnMjFDVTJRWi05Ujc2TkFZS2ZJaDUzRDZwd1dkbDV3VXlRWFhJbTRyRHVyamY5NlJrZlFwMExJS0tzeWFWOU5n?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "머스크, 트럼프 방중 수행으로 재판불참…변호사, 배심원에 사과",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yNDBaVVlFRmdySmFLNWtzeGFCUnpPMGttVXZFbEVKMTJfOFRmV252OVVSQU92dmxwREZCR3hyY0tWeDd4am55Si1zOE5CcFRjdTZiZ2lXRFg5YmvSAWBBVV95cUxNb1k5VjF1anZHTHJ4SGNiYUQtZDFKaHRXenpvMGxuTkhIQUdRSTRZOERyaVY4VWZ2UUxDR0hBXzMwUXFNTWdOcDlyMHVtRHQ3eDhkbXF3Q2JtOTFUWVBIaVM?oc=5",
+              "title": "네타냐후 \"이란, 어느 때보다 약해져…급진 이슬람과 전쟁 계속\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxSWRHdUptOWRSdW5vdUFDVGowaWZxMi1GZ1cxbTVCWmU2UENXazhmU0VLNThiSDZLeDdfS21xc1RnT04yWWEtcDM4bl9ZaUk4SkhUcHhGUzVNWDjSAWBBVV95cUxPcEVId0ZHYXdLRWl5ZllxVk5EQUszcXNPbXNVWmtIaDBLeDI1aFVUSVNOc0hHdWZXalhRdkhJdHZQU3BLaDdHUjNCVnY2RzIzUV9jbThIWjlqV1NpcGdzWU0?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "트럼프 2기 美대사 10곳 중 6곳 공석…한국도 1년 이상 비어",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VZl9kVlhsUU9WTDExbTY1ZnF0eVhLSmIwWERoUC1OMVNMb01RSVVEcmdLZGFiT2pDUVRQZ2FTU0FDeUpDaG5XWXRscFMxLXpIQTJYNkg0Nk9SYWPSAWBBVV95cUxQM05xSHYwOVVLQXlOckd4RTluYTctSFdsQ2J4SHJHYm5PNWRKTndOaERqNFIzQjY2NGpQQUhpR1RDaTJUZDdXbTRVMU90c2prcno2V18zN05uMkV3QkNXTEk?oc=5",
-              "source": "연합뉴스"
+              "title": "네타냐후 \"이란, 어느 때보다 약해져‥급진 이슬람과 전쟁 계속\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qcGxDWlBYcHh6NF9JM3k2V0Z2RUthbV95VnlCNnV3OGFjVXFZUDJ0M3FLOVRJNVpzd1lRd1NZaGxpT1NMck1UZUJnNXZkR1JaeUJJOHhJNV9nTExYVzZld25GZ3Z3ckQ1OFNrTEUzd2NjOTdX0gF0QVVfeXFMTzBBQXBBVlZtOFpfXzFQbmhaYWtGcktqZGVFb3lSNjF0NmQ0b01JX2JrRHAtX2x5OUo5WE9VekpzWHV2QWZzYU5nRVJDVDV6d0ctZmluQ2dWUWk4eFhGTXRuQWxTVTY1N2RxaEh3UE5vMWRNN2o?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "네타냐후 \"급진 이슬람과 계속 싸울것…이란정권 약해졌다\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUVG0tU3RPdWZRSmt4aWp2RHREY0g5aWstUFItaDNSeGNLak53bXhGQUZaSVJHMkxhc213Wk0td2xkS1QyYlpzLVc4TFNXX0RIcXpLNEU4LUxWTUs2UmtWbdIBeEFVX3lxTE8xWUtkZU5oUXFBUWNmMHpjTkJvYmpxR2k4TzllSVVYVFhtWldnY19UOEc4NEY2LVU1Qld6a0R6TXZhbG10WU5RSC1FV2RrQjFDRDVicjhQSVRvR1hlb2pfVDRyLTh6QWplZjJKTGpJVHdPd2hDUVJ4eg?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "여고",
+          "word": "트럼프",
           "count": 2,
           "articles": [
             {
-              "title": "“응급구조사 꿈꾸던 제 친구예요”…고교생 피살에 ‘학생 성명문’ 번진다",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBITi1BaHFIMDY1OUxIZGdYc1FHNWFsSEJhX2RFMjctM3RIakFkR2xrM3c3RnNMdWhlNnZlb0x1T3JwWGZXV3I3RjRXVFZvOGZJZVlKemQxdGxFc01iOFZQaQ?oc=5",
-              "source": "한겨레"
+              "title": "시진핑, 트럼프 면전서 경고... \"대만 잘못 처리하면 충돌\"",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeTkycG9hekxZcUFqenpyYnp4cksxVkROVHFpV1BLTFdta0hPU1FPY3FxbkxERk42a3VLT241azZXTHNJMHdHLVdsTmJlSi02Y1dFNnUzSnBoaTdhMkxULUxWQzhURkd0SHpaakFUNnZ0b2JyaGZzT1RFVnRGX2VJSEwzRmdCdERaS0E0eTlySkNfZG9IWTRnSFYxXy1OUQ?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "살해",
+          "word": "최고",
           "count": 2,
           "articles": [
             {
-              "title": "‘광주 세모녀 살해’ 무기수, 교도소서 사망",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2V5VnpwNHhKMFB6ZjBfeERpYm56RU40X2VSQkRORFE5THlSYzhnd1dXMXVRdndOT3B6TmJKX2d6NGtyYmJmMXlvRHQycHYxb0xhSW85YnNRQlRzTjZ2WGxMZURiNlFOQ3E2aFd6ZFkxang1RE90T054cXR0RUo0ZWZxb3dUSU9OOUZLQ0VsZ1k?oc=5",
-              "source": "조선일보"
+              "title": "유엔 인권최고대표 “한국, 20년 넘게 논의된 차별금지법 제정 우선 추진돼야”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pV21kRDNxZkZLZTJ1dVpCSlhxQ2VMckFBMEFtN1huRTdOY01CMkxzbkdDalRxSlBjNk50dFhFeGticks1YkJseGd5U3RVT2h1UE5XdXVvbUhfd9IBX0FVX3lxTE5UMXZXVzlnSE8tYms4eTBaU3pSQV9Ib2FnZHNqYXBhQ2pRVmdiU0NDU2Z1UmM5d1lZSDR4elhmZldyRms1cS1vWFhQVDRLbXlJTEpINWUzNEhiMmlLaThV?oc=5",
+              "source": "경향신문"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "장윤기",
+          "word": "방문",
           "count": 2,
           "articles": [
             {
-              "title": "\"광주 여고생 살해범 장윤기, 교제 거부 여성 살해하려다 범행\"",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2o2UXB2TGRjRTFMQWFZSUozczlBNDJoWW1QdXIwa2UySFVkYVB5WENwazJMTTJuTm83MU9IZGdLcS15bTZFT2dhQzlwbWpnUS03bDBVTW9jVlZiVUktWXVZS096SEhRemZOWDZBUHR5MFJZeWwyQldyNEZHSjZEME5qSlNkSTBSVFZKN0lUQU4?oc=5",
-              "source": "조선일보"
+              "title": "\"왕의 예우 받았다\"…'네타냐후 UAE 비밀 방문' 진실 공방",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zV0lTMkNZWXoxMVUxQTVQemxKTmZJMjJDbDBLSFJnS0wyRy1kMHRzUWVGVHVGeWNyaFhKRjQzSktaSDJWX1Yyc0JtMENvTHNfeVY1T2s4em9oY2vSAWBBVV95cUxQem54ZVBocGpDbzk1VnMyWHVHYjA1NTE3TlM0YV9FbzlKck5jT3RYZTRJc3E2VkdpZl9kSnRnS3VMaEYxMjRRMkZmYzBpMV80UlhCSHpKVTk0OU5iU2RrRko?oc=5",
+              "source": "연합뉴스"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "최고",
+          "word": "윤석열",
           "count": 2,
           "articles": [
             {
-              "title": "5월 중순인데 찐다 쪄... 주말까지 최고 33도",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVNxRV9LeFRWdG5ZbjlCRmI4MlR6SHVqUFNjVDN5djJydWQzeXR4Szd3a0UySFhDOGtEbHlSV21xcTAtdE1nNkYtVTBtaHdwMXRMZVkwUnZMam8tckoyRXEzWlVnZXgyUUlJY3RjOUxlX283X2ZYX1pVeVBpTjFvWDVrb2wyRVk5RWltNjd0RHdxaEZMTHMw?oc=5",
-              "source": "조선일보"
+              "title": "윤석열 ‘재판부 기피신청’ 몽니에…내란 항소심, 첫 재판부터 정지",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwbHNFZUJpVHJBRWpQUjhFbzlMbmNlVFhkMF9JNFlYdTNRS2lqc0ctenotOUYxNmdBT3JVWlpQVW9zMm9lM0k3UFB2SDRsR0VLN2NvbDhOeVdjWGJTcDNjYWdZTDJ2ZWdmNzBkaUdqSjFPZw?oc=5",
+              "source": "한겨레"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "'케이팝 데몬 헌터스' 월드투어 개시·과거 꽃미남 아이돌 근황 공개·한류의 지속적 인기",
+      "summary": "전 아이돌의 변화된 근황 주목·케이팝 데몬 헌터스 월드투어 개시·한류의 지속적 인기 확인",
       "keywords": [
         {
           "rank": 1,
-          "word": "케이팝",
-          "count": 15,
-          "articles": [
-            {
-              "title": "'케이팝 데몬 헌터스', 월드투어 돈다",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85aVdwVWtBNzZZbWNwVjE0NjBhaE5KVjhnaGJhTE5XdmlnaVZ3T3RRenFJVzRTUlBVQ3dvSGc5UGRlLTB2UWs1eWp6VEswVG9vNDZoRkt0LUhEYWs5Nlh1QdIBeEFVX3lxTE0wdWdyQmNtZjdOX3RVQUVSd3loaXZJVXM1S1V2ZC1qTWpZbFBKcjVjY2ZQRWl6R3Rta1pnQ0R3aU1FVjZtMUFBWUt0ZVZwSXJiT1dCZ2xkRVN1RFZmQ2lzamY1eV9ndzFaWFpWWTFuVkNZY3BMZWl6Qg?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "진해성·지민 접전…케이팝댄서 투표서 팬덤 화력 집중",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zcjh2QnRHYWxKZk9qYlJYNEpuM3FWSmx6dEhHb28yRk5Kel9vZjVmUEE5ZnJ0N1dlcGlYd0pTQVdZVDdQYUhsaVRUTV9sbGFBTWtPOU5XTnhIX0ludDg2NEZjWnNYQWdSckNnTFdGajl1Zw?oc=5",
-              "source": "톱스타뉴스"
-            },
-            {
-              "title": "'케이팝 데몬 헌터스' 글로벌 콘서트 투어 열린다",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sVUJ3TzEzc3RrcEhIaXNtUUZ4a0RZZTdLSTU0RWlvcHJrSmxlSG9SeFN0ZGROYUtMOVdTMVh1LTYwV2JhQmdKaTJ0S3o?oc=5",
-              "source": "맥스무비"
-            }
-          ]
-        },
-        {
-          "rank": 2,
           "word": "아이돌",
-          "count": 13,
+          "count": 17,
           "articles": [
             {
               "title": "세월 야속하네…왕년에 '꽃미남 아이돌', 지금은? 후덕해진 근황 [엑's 이슈]",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KMng3U1RISmE3XzdhYjlFbUNHMTNHSUgtRlJOT3Q2TGRFcDZCblR2ajlFb0E0NEhBOTZudmF1eUhEaE5QRVR5eVJKRGZNaUE?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "이런 아이돌 슈트룩 봤나..'젠더리스' 정체성 확실히하는 엑스러브",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa3lyU1FVb0o2VS02aVpfbkt1LW56SWVhZ3BqZTgtNDhYR0Uzb1RQcHhYR1pTVU02OXotcEJPUmU3ZkdKb3QwY2NrSG9NOVM3NndGOVF4RVRHRWMySUJNRTBpWE1hMzU0OTRON0VDanlTUjRPNk5aTTQ2ZmxjOXI3eDdscHRtQTdlSVE?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "[ET포토] 에이티즈 '올해도 폼 여전한 글로벌 아이돌'",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GcU5POXhHMGRzX2xSNFd6aXFTQnZrVnpZdHY4eXllWlgySmZSRm9FbkFrbzl6dFNEMm9RM0VoNDc0NWlweGxfZ0ltMFRVUQ?oc=5",
+              "source": "전자신문"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "케이팝",
+          "count": 14,
+          "articles": [
+            {
+              "title": "'케이팝 데몬 헌터스', 월드투어 돈다",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85aVdwVWtBNzZZbWNwVjE0NjBhaE5KVjhnaGJhTE5XdmlnaVZ3T3RRenFJVzRTUlBVQ3dvSGc5UGRlLTB2UWs1eWp6VEswVG9vNDZoRkt0LUhEYWs5Nlh1QdIBeEFVX3lxTE0wdWdyQmNtZjdOX3RVQUVSd3loaXZJVXM1S1V2ZC1qTWpZbFBKcjVjY2ZQRWl6R3Rta1pnQ0R3aU1FVjZtMUFBWUt0ZVZwSXJiT1dCZ2xkRVN1RFZmQ2lzamY1eV9ndzFaWFpWWTFuVkNZY3BMZWl6Qg?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "데몬",
-          "count": 9,
-          "articles": [
-            {
-              "title": "‘케이팝 데몬 헌터스’ 월드 투어가 시작된다",
-              "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPckFrMlNJckZkX19FWE4tNkdscWcyejVKb0wyU1RJR0ZhQlBfWTJwMlg1ZmpSZzJUUk1NcjlsUVN1bE5mUW9TcGJrZmREQUN3TmEyTjRyNW5lWVRxWFZLSWs4RGstTVNsUmRvWUZnNFNsQTQxZVpTNU44X3h6VzgtOHhNay1TWWFVbTlTLTdOVkhxcG91eHJnRjJnanNSMm9FaFRKdjZEVzM1LThLR0dVaWltakRGdDdYX3Ywb3kzclZ0bTlfWlhaRzlkOHQ0TUdVLUpoWmZleXlRSlJWZGk1VFV5aUFWYUZtMVl3ZW9POXhqV2UzNmdZUWNZWE5XWVdqaEtrc3NOZENkTjlyU082aFJUU1k3eXppbkxqMnR5bw?oc=5",
-              "source": "Vogue korea"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "word": "헌터스",
-          "count": 9,
-          "articles": [
-            {
-              "title": "'케이팝 데몬 헌터스' 공개 1주년 기념 팝업 열린다",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vWmFXZlpWWXZkNkdueEFlajdyT2tzbGs0eWhGU21EQXNGM09jZTNkcTRDUDFRbGRNcXBrb2JYamJXaG1vZm8ybFc5WU1nbi1OcXdSNS1ndjRLNlBFRmRlcFBSdlY?oc=5",
-              "source": "뉴스1"
-            }
-          ]
-        },
-        {
-          "rank": 5,
           "word": "한류",
           "count": 9,
           "articles": [
@@ -148,50 +124,74 @@
               "source": "v.daum.net"
             }
           ]
-        }
-      ]
-    },
-    "경제": {
-      "summary": "개미 투자자들의 순매수로 코스피 지탱·코스닥 기업 유출 우려 · 원달러 환율 소폭 하락 · 신용등급별 금리 역전 현상 · 한국 증시 시가총액 세계 6위 달성",
-      "keywords": [
+        },
         {
-          "rank": 1,
-          "word": "코스피",
-          "count": 30,
+          "rank": 4,
+          "word": "데몬",
+          "count": 8,
           "articles": [
             {
-              "title": "‘던져라 외국인, 다 받아주마’…코스피 떠받치는 개미들, 6일째 순매수",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ibndhNHhlVGJTZVVqYzNWbnQxd2cwS1p0dzBNekxuUUhDb3JERTJlQjBleUhfT0E5WEVtSnZIdmR4cHZycERvbTNMeXczVUpvN3NMVDVQdEZxMDg2ek9scmVxRm50Yjg?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "코스닥 협회 “제발 남아달라” 호소에… 알테오젠 ‘코스피 이전’ 안갯속 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1RSbFpmTld2ZnRWZ0IzamVtSjB4V0k1d2loSEhodFBCTFJCT2tUQk5zQXFlZlptbUl2dDlDMzVKOEJMZzktZlRqNTY5NkRkTWJ1YmV0RVVianVrc3RnTGVpbG4xdjk1MXhFQWNWbDl0NUt1dDhGMi0zRFZLQ2NiakVITGdRczjSAZsBQVVfeXFMTW9GYWZNX2JhZ2NPWFRacmxlQXpURU9aeklvVHFMNzhDRTZUaWpRUXlWcms2eHBRTXU2Y01uU3ExT3RrNE5FOC1vOFRCc1Y1NXJIWFVicG9hdlhaOVE0enJXcjR3aXowS1FTOUlmNVFCeGNUZl8zbEV2b2lrVTRDLTN5QlFxS1Q1Z1J3bWR1LXk5N3AyMTV6TDVkR1E?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "코스피 톱10 선수교체 … 삼성바이오 OUT, 삼성전기 IN",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tSUJfMWZ2X3JmZTlhX0psOFNjZTBLNFFaU1NyQ0JaeURyTGRwUENTVGpDa2JVVTJrLTBVa3lUVGRpSHoxbHpld3RzR3hSNUE?oc=5",
-              "source": "v.daum.net"
+              "title": "‘케이팝 데몬 헌터스’ 월드 투어가 시작된다",
+              "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPckFrMlNJckZkX19FWE4tNkdscWcyejVKb0wyU1RJR0ZhQlBfWTJwMlg1ZmpSZzJUUk1NcjlsUVN1bE5mUW9TcGJrZmREQUN3TmEyTjRyNW5lWVRxWFZLSWs4RGstTVNsUmRvWUZnNFNsQTQxZVpTNU44X3h6VzgtOHhNay1TWWFVbTlTLTdOVkhxcG91eHJnRjJnanNSMm9FaFRKdjZEVzM1LThLR0dVaWltakRGdDdYX3Ywb3kzclZ0bTlfWlhaRzlkOHQ0TUdVLUpoWmZleXlRSlJWZGk1VFV5aUFWYUZtMVl3ZW9POXhqV2UzNmdZUWNZWE5XWVdqaEtrc3NOZENkTjlyU082aFJUU1k3eXppbkxqMnR5bw?oc=5",
+              "source": "Vogue korea"
             }
           ]
         },
         {
-          "rank": 2,
+          "rank": 5,
+          "word": "헌터스",
+          "count": 8,
+          "articles": [
+            {
+              "title": "'케이팝 데몬 헌터스' 공개 1주년 기념 팝업 열린다",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vWmFXZlpWWXZkNkdueEFlajdyT2tzbGs0eWhGU21EQXNGM09jZTNkcTRDUDFRbGRNcXBrb2JYamJXaG1vZm8ybFc5WU1nbi1OcXdSNS1ndjRLNlBFRmRlcFBSdlY?oc=5",
+              "source": "뉴스1"
+            }
+          ]
+        }
+      ]
+    },
+    "경제": {
+      "summary": "원화 강세 속 코스피 신고가 경신·카카오모빌리티 미국 상장 추진·기관, 부동산 매입 확대",
+      "keywords": [
+        {
+          "rank": 1,
           "word": "환율",
-          "count": 26,
+          "count": 28,
           "articles": [
             {
               "title": "원·달러 환율, 0.8원 내린 1489.8원 출발",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11NWQ1ZC03aE1peHdzVG5DY2ZDZ0ZuRk1jUnFKLW9LbHFlT1VScEVCRndWRkV4emdobVlRM1lsZmViM3NHdVdZSG1tTlowZXlJbDhTMUxMc2Y5dHl0XzcwSNIBeEFVX3lxTE9Va3p1UjBIZ2NiMjk4cWlTU2N6SmJCa1FiN1lQSm40eWpiMnBCclRCM0hka2ZfVXBSMkUwQ3dsZUJYYk9MRmVTaUdyRXg4aldfTk1PR2drTGZVc3ZJYnFLRzdNbzlpLTZkTGtKSFdaX0RiSml4bWVBbw?oc=5",
               "source": "뉴시스"
+            },
+            {
+              "title": "\"반도체가 원화 살린다\"…MUFG, 연말 환율 1400원 '큰 폭 하향'",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BWjlVZ0JQTlpDMlUydDJxU3R4a282cWVXRUNEdE9JZEVwUXJiazBfR29ReThGN1hvZDYteTRvTklkOFNaZmRJS1VrQXh5WjA?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "[주식 매매 상위 종목 및 환율] 2026년 5월 14일자",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3Nqek9FQnZPOGxOaEN6ajBqcHJYNHh3eVNNZ19DU2d3XzRKN1pJLTJENVY1eXFuNlQyR0xMZnd5MnM0eXhJWXlhTlJpYXd1M1VZNDdPODJTR3JDbXVJX2Izd2d1N1RFNkVBRnVEak5vM0xPRTBRa3Z5ZmhUbjJaUEVvR3pheURfaGJn?oc=5",
+              "source": "조선일보"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "코스피",
+          "count": 26,
+          "articles": [
+            {
+              "title": "외국인 2.8兆 매도 속 코스피 신고가 마감…8천피 눈앞(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zTkVqWE5KVWZoSDl2U1JzekpWUV83RGhDNHdzUkdyWmkxblRSY0Z3TGgtSGpDeTByVEE5Q21peHJQSFN5M3FWdWR1bG44OXM?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 23,
+          "count": 24,
           "articles": [
             {
               "title": "고신용자 4.9%, 저신용자 3.7%…‘거꾸로 금리’에 뒤통수 맞았다",
@@ -206,9 +206,9 @@
           "count": 17,
           "articles": [
             {
-              "title": "'파죽지세' 한국 증시 시가총액, 대만도 제치고 세계 6위",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zbUdjVmt1Q0ppbWFYNDBHOE1vbkUxa0szMEVydnhMOTBTNmdNYXg4akFHeFJMUkloa2VEaUhJazcxVGNWMUlYT1RFWmc3bExhbW15aUFidE9lX1JXM1NoNUs0ZHA3d01sMFduNk0wRGFzRThN0gF0QVVfeXFMTVVxTHJXWUI1X2NrdU1hYnZIZ2c0NU9wc1AxclBZdDUwak5DQ1hQREx1RXMyWEJVMXJsTjYwNG94aC1fblhUMjVSMVk2bHVpZlc3YlBaSWxpY0NzUmxNWlA0ZHY0eWVhVzlNa3RsX0ZfR1ZXaUg?oc=5",
-              "source": "MBC 뉴스"
+              "title": "[단독] 카카오모빌리티, 미국 증시 상장 추진",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mVUh6aW45dGxrZ3F5R3FWenJvVUhEUERJLTUtSnp0clJGLTBjM1NPN1FOTUtiN2NrZXM4NUh6X0R0X1NrMTBkUWpsbUUyTTRTc3NMaGp3?oc=5",
+              "source": "헤럴드경제"
             }
           ]
         },
@@ -218,9 +218,9 @@
           "count": 14,
           "articles": [
             {
-              "title": "李 대통령은 왜 ‘억까’라고 말했나? 韓 부동산의 한계와 모순",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zZlR6N1puLTljNy05bV9QUWdHUWhCZXM5NUQ4R3ltT294N2J3emJiUW5IVmtLenBZN3R5ajRsRFJBMnFpRExfWDg1cWJhLVFSZTBjVkYzWjNHT1pnSlp2Q0RwWnRfZjhJTHNKV3d3?oc=5",
-              "source": "더스쿠프"
+              "title": "개미들이 주식에 열광할 때…기관들은 일찌감치 부동산 쇼핑중",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdUpEaTVDZmt6ZWJmZUF5eEVQUTJpemdlX0pqeE1uZHQtOXk2eHJQRkZmcllaSzlvNWxJalFXX2xXSkxwcTAwY0U2RmppYWtieG5BNnVIeEpWUkVNUGpmSFJHeGMtWVBLLW9LakZLYkFtTmlaNmNUVkhwbTg3bW5PTkU1NA?oc=5",
+              "source": "인베스트조선"
             }
           ]
         }
