@@ -2,91 +2,91 @@
   "date": "2026-05-15",
   "categories": {
     "오늘의 이슈": {
-      "summary": "현대차 그랜저 출시 첫날 1만대 계약 · 미국 셀레브라스 상장 첫날 70% 급등 · 인도 화물선 호르무즈 인근서 침몰 · 강변북로 역주행 음주운전 적발 · 조국 후보등록 · SK 뉴 이천포럼 개최",
+      "summary": "국민연금 국내주식 매도 시기 주목·김건희 매관매직 의혹 징역 7년 6개월 구형·삼성전자 총파업 D-6",
       "keywords": [
         {
           "rank": 1,
-          "word": "첫날",
-          "count": 3,
+          "word": "국내",
+          "count": 2,
           "articles": [
             {
-              "title": "현대차 '더 뉴 그랜저', 출시 첫날 계약 1만대 돌파",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wUkxRVHB3VnloUFFxSTdKaVBCSDEydXlsNW83eVBXSl92ZllXUkhmSFAzRFJ6aW1jaVA1VzhtVXNmZHJGRXdqeG9DWlFKdw?oc=5",
-              "source": "전자신문"
+              "title": "국민연금, 향후 5년 자산배분 28일에 결정…국내주식 매도 시기 주목",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EcnhBbHUtZTJlUUczN25pa1VYYnBmN3Fmem0xR0RSZ20yMlVaUHlLcW12R0FGS2JyenoyR0hrYWpjWmFuREpkXzRrbHVzdlZfSUE?oc=5",
+              "source": "매일경제 마켓"
             },
             {
-              "title": "‘엔비디아 대항마’ 美 셀레브라스, 상장 첫날 70% 상승",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanVpTlprTktZZUVEZjBLMjd2WWR1cmVnMTZMbS1XVUVHNGVvZkdzRXNIU1ltYWcxZDRWbDh3SU5CVkoyY0FFR2IwYVBDWGtpTWl4MllwRks4UXZ4WlI3R0lzcXpnSHY0cjVvTnFfSm9EXzNzZXNkOUJLYXpsYm1xWWMzQQ?oc=5",
-              "source": "조선일보"
+              "title": "국민연금 150조 매물 쏟아지나…국내주식 한도 꽉 찼다 '8천피의 역설'",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aUnRTRGNBdkNUMHpIbC1LbnA4dU85RlpaOG5senJFZ2R1UlVHY1g2WXZUbHloOW00bGgyQkxMNHlsaE1teFpXajFMd3ZGNDByQkdB?oc=5",
+              "source": "네이트"
             },
             {
-              "title": "'엔비디아 대항마' 세레브라스, 상장 첫날 68%↑ 기염",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiM3dod3FKeGJ0RkVaQTg3cmRSTkNrTW9WYml5cGlDSkUxdXNvQmtUZTM3cmZBbEtFNi04Nllud0VYRVVDejJIR0tZcmYzNHZ1WVFUM0xLeV84UFVZaDhJWNIBeEFVX3lxTFB2a016Sm8xcExITDdnVXY1anNOTFZlS0Y5RFMtbGhiY2RKREROTnB6dmM2My1oOUd6Qk5oNGhNUzJLX3gwRUc4bGhNUS1QdzBkb01FWWNsNExnbXhJbVFPS2IyTm54MWFUWWRPTHg5RVg1MW5GSHhHZQ?oc=5",
-              "source": "뉴시스"
+              "title": "국민연금, 국내주식 비중 이례적 '두 번 고민'…정은경 \"유동성 예측 어렵다\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yY2ljRVVKZFJUOGkxZXR4Q0NMWWZ1ZE1HQ0ZFWkpRbmdDVmdCWlFXOW5jLWc0VEtNeWNqSGhiTURmS2tzQmZub18yVTlqT2dKb1AtcU5mckRURElfWkdwT29FM2g3Tm530gFuQVVfeXFMTmsyVlVWVWdXamZvT3pUUTFlMnBTemdPWFdidktWempMdngxUzY5ay1JMENFclZzWm9mOUZWS096VllHcjJvZ3BhYU1ManJfSDdGTVFIS1BZUVh4ZUpwUmdyZ3RzYXVCUzd2Y1duVVE?oc=5",
+              "source": "머니투데이"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "호르무즈",
+          "word": "조사",
           "count": 2,
           "articles": [
             {
-              "title": "인도 화물선, 호르무즈 인근서 공격받아 폭발 후 침몰…승무원 14명 전원 구조",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sYXV6bGxaOVg3Y0hGOG9zS3kxMDZvNzMwZG5ZaUszMS13b1RlNWhNb3BoSnlWdTNiUWVQdXJzN2VrUU1pLW9YcTF2UWtON1NJc1pFd1N0c3VTUQ?oc=5",
-              "source": "경향신문"
+              "title": "대통령 연일 금융 때리는데…국세청 '본보기 조사'에 쏠린 눈",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UUENRQm5JSmxsa3M5RXhqR19EWUw0THl5TmswS0JNM0NYZ1FQTm9wSGV0eFpVVEtjTGotZmd6eXVEb0FRTDlreTZQdFhCX0E?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "단독",
+          "word": "의혹",
           "count": 2,
           "articles": [
             {
-              "title": "[단독] ‘윤창호법 1호 연예인’ 강변북로 역주행 ‘또’ 음주운전",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOaHVKUDM3dmRTMEQ2RkU0TS1CMmN1czZNU05GUzRIdTF0TVh3aVE2TEdSelV0NWFWczVRQVJSakJmSE8zcjVwZ1dNd0VxMzZsTjFYVQ?oc=5",
-              "source": "JTBC"
+              "title": "김건희 ‘매관매직 의혹’에 징역 7년 6개월 구형... 金 측 “악녀로 낙인 찍혀”",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOVVKSV92cTRpaElxajJ3V1I3eVFWWXZiT2Zpc1BETXZSWGlCbWVwT1UwYlU0OURPamVXdm4zeVAyS2lQR240SUhCcWNOOS1mYU93b002OHR2V2E4eHRMMDJKTmwwWUk1Z1VwbEpVYTJZVWl5dlY3V3dCNENGZVFRWGxfYzRfTHc?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "등록",
+          "word": "징역",
           "count": 2,
           "articles": [
             {
-              "title": "조국, 눈에 ‘시퍼런 멍’ 든 채 후보등록…“액땜 했다네요”",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HblhJQXZSXzBaU2hNcUVMdFRFMnRSbGhZWVJxTkVOSWhfSlowdzI1V1Etbkd3Tnd5MURtZ01ZdDZvaTBaalFLbkxmdkRWN2FOV3I1QjV0bmE4SjNqanpOR29oQ1RSZ2tsaGxiWG5nTXROLUhl?oc=5",
-              "source": "한겨레"
+              "title": "'車방화·살해사주' 택배대리점 소장…검찰, 2심서도 징역 10년 구형",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pc0lJLXI5T3dmSDhsZjlINFBLX2hCN2tMTXhJbUlKNmxtZTR6dURta2F3QVpmdlF5QWtuVzBYaWVKNWxiS1l0MTZJeGZzOFhKZkR2QWkyRGdBdmM5Y1YxR9IBeEFVX3lxTE0tVmFGcHdnTC15b3ZHb0l3ZWR2ZHdMc1JaWTNMTGl6MnRZODlnR1Rnb1JXV3FSNzljeGJrcU9yRGVhWjBVQ0hZeG4tQmdOUGNHMGhrb3luSDZXZHhPdGRxcEtIblNTS2RNRzVTdWVld2swbEVRQW5TdQ?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "전략",
+          "word": "긴급",
           "count": 2,
           "articles": [
             {
-              "title": "SK, 전략회의·이천포럼 하나로 묶는다…다음 달 첫 ‘뉴 이천포럼’ 개최",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xcE1Gbk9OZDVocnN4ZGtfVVdtNDkyd1ViQkstM0xlYkQ1SVVtU1ZBQ0JtUHdWQjRmS0ktTjlaQldjbEN3WlBwMU53b3p2c2s2NFRGMQ?oc=5",
-              "source": "이투데이"
+              "title": "삼성전자 총파업 D-6…30일 파업 막는 ‘긴급조정권’이란? [지금뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00UnhPZGlldm1VU1NjYUZZUW5iUFFqcEJidkZ0MGZrZGl3TkJEekV4SkMxdGJSQVpXZ0NEdDNnN3ZwNUNYSjdQT0NoSWN2c1JHNFhkV2duakctczQ?oc=5",
+              "source": "KBS 뉴스"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "넷플릭스 '케이팝 데몬 헌터스' 글로벌 투어 확대 · 아이돌 근황 공개 · 한류의 지속적 인기 확인",
+      "summary": "넷플릭스 '케이팝 데몬 헌터스' 글로벌 월드투어 발표 · 前 인기 아이돌 근황 화제 · 한류 확산",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 15,
+          "count": 14,
           "articles": [
             {
               "title": "세월 야속하네…왕년에 '꽃미남 아이돌', 지금은? 후덕해진 근황 [엑's 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xSnpGWllTUmJXVUxHUWZiT2h2aUIzOGoxVEZVWjJrZzYzQnlFcUhxR2lES1ZDY19hWjdpSVRjb0J2cFlfSEE?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KMng3U1RISmE3XzdhYjlFbUNHMTNHSUgtRlJOT3Q2TGRFcDZCblR2ajlFb0E0NEhBOTZudmF1eUhEaE5QRVR5eVJKRGZNaUE?oc=5",
               "source": "v.daum.net"
             },
             {
@@ -104,7 +104,7 @@
         {
           "rank": 2,
           "word": "케이팝",
-          "count": 12,
+          "count": 14,
           "articles": [
             {
               "title": "넷플릭스 ‘케이팝 데몬 헌터스’ 공식 글로벌 월드투어 발표",
@@ -115,32 +115,20 @@
         },
         {
           "rank": 3,
-          "word": "한류",
+          "word": "데몬",
           "count": 8,
           "articles": [
             {
-              "title": "\"잠깐 유행? 인기 얼마나 가겠어 했는데\"…한류의 '대반전' [K컬처인사이드]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wbEZ5TjVfeG5DMklmZGVHbWlfekJEQzgzYVJvVHFYX091T2pFTkgxV1ljSWlZVk9OZmt0TDYwRXNpMnJ4QUJldnJBMTRsYzA?oc=5",
-              "source": "v.daum.net"
+              "title": "[국내뉴스] 문체부 영화 6천원 할인권 배포&김윤석×김선호 출연& 월드 투어&고레에다 히로카즈·사카구치 겐타로 내한",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91bG9HenI3T0xMZkZmbFJsNUQxQUNrelA5Z3BrWVR0NGNRd1NIOFg0RUotLUpIY3kwaUZPUWVKdkd0Ylo4VmVPNDBlSFRob0xwdG5ucU93?oc=5",
+              "source": "씨네21"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "데몬",
-          "count": 7,
-          "articles": [
-            {
-              "title": "넷플릭스 ‘케이팝 데몬 헌터스’, 글로벌 라이브 콘서트 투어 추진…흥행 신드롬 확장",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40bU1TSEJVZ0MyM1E1YWZ3MjZwaFRzRFRtV1RCTU1Vcm9VdlpxbDJydl9OQ1lLSGtac1FVQlAzYlR4Rkt4WENDNFBJSEx2djRzSXo5enpWbERrZw?oc=5",
-              "source": "서남투데이"
-            }
-          ]
-        },
-        {
-          "rank": 5,
           "word": "헌터스",
-          "count": 7,
+          "count": 8,
           "articles": [
             {
               "title": "'케이팝 데몬 헌터스' 공개 1주년 기념 팝업 열린다",
@@ -148,11 +136,23 @@
               "source": "뉴스1"
             }
           ]
+        },
+        {
+          "rank": 5,
+          "word": "한류",
+          "count": 8,
+          "articles": [
+            {
+              "title": "최휘영 장관 \"세종대왕이 뿌린 씨, 한류의 꽃으로 피어나\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sd2RDZzRtZGpmcXZlcm1nTnktSF9weERCa2hnLTI5dmduOFo5RzFIU1V3R0d1M09kQ0RsYmMyR3NTbnl2bmlnV3dMRDAzN2h2NkpfYmF3V0hTRTjSAWBBVV95cUxNZ19WRjUwdW56OHVvczkwcFh2WXdJc01BWmRiblJNeFBoV1FZQXhIMW1IVEhtWlVtN0pta2psRWw1Y3MwbUtUQjZqaGFQQm1mX3IwOExCb051cnBlczRQYkE?oc=5",
+              "source": "연합뉴스"
+            }
+          ]
         }
       ]
     },
     "경제": {
-      "summary": "코스피 3% 급락 매도사이드카 발동·달러 강세로 환율·국채금리 동반 상승·역금리 심화·한국 증시 시가총액 세계 6위",
+      "summary": "코스피 급락으로 환율 상승·외국인 순매도 가중 · 금리인상 우려로 국고채 낙폭 확대 · 반도체 외 새로운 증시 주도주 필요",
       "keywords": [
         {
           "rank": 1,
@@ -160,18 +160,18 @@
           "count": 27,
           "articles": [
             {
-              "title": "[속보] ‘하락전환’ 코스피, 급락에 매도 사이드카 발동",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZN1ZKWnp4dXRabWRDY3FwQlBzVUpTNHVXNUZDQ2xWV0ZVQjN1YTBPVDJiQXVhMEVmWTdHNGxZVjNWeWhISGZhYkRoZjMxWWc?oc=5",
-              "source": "v.daum.net"
+              "title": "[코스피 8000] “삼전 팔아 아파트 산 거 후회”… 유주택자 잠 못 들게 하는 포모 증후군 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0cxLWl4bGg2WG56UmFlZzFIRTdSeWptTEt6RlB4ZnlOVkczc0lTbmdqZG9GQ01SaURVSE1wMUZCZ1RFMkhqTVVRR0Vyc01fUDZyYXJIcEd2cDloeUJWdExQSDVVaWEzSW9zd01FODZ2dmRVMEg5U0ZmZ2JneFl1bWJYb2ltRk9y0gGcAUFVX3lxTE1hZk9SSl8xOEc3ZmVVMWZrWFJ3bnNsb09KTThOdnZoY3RBRU1fQXhGdmg3eGxLLVVwZU1MUmxPMzU0LU9oS3hOVEVyOE5NdXNMRkNGaWtPZ2NLZVpPak5oMFpvWHFqaXJEdnFjak5FX2VBN2VIXzlROWIyRWI2c3VDWkhoTTFFS3N5TkV0TEFGeWVrM05qclhPaDRPaA?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "반짝 8,000 넘긴 코스피, 3% 넘게 하락 반전…트럼프 발언 여파(상보)",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zQW4xX094NmNnWG5zb180RVpTTDVUOFpLSVZ0MXNRWlFLOXlFSWtpVHM5VXpFT1lLMndBdFRIbjdnMlVxVS1ONl9uMV9sY2VvN0tSOGhubk5SZk1kTnJEZnNJaFdhNzVCdDl5cG42bVg?oc=5",
-              "source": "연합인포맥스"
+              "title": "코스피 8000 찍더니 7500선 급락…매도 사이드카",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PT0MwdF9lY0RhWUtKcUptaEd5MWpQOGRwZ0VlNUJ0RC1hMXNMeEw5OWZoYzFzZjdzT21HQmdOSUt3V3BLRy1ST0lpcEFCMHU5YlZ6VHdiNGc1aTE1Qm1zN0gzZm9aUE0?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "코스피 장중 8천 돌파‥이후 낙폭 확대",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OUzJDUHI4Tlh1aXBaZHk0TktWT0xGZFpPVzdfcUFNSGVUNEpLLUlPaWRnb0FCLXVieEpSd1BPSTFwY1h2ZG9rMU15VERHWXM?oc=5",
+              "title": "코스피 8천 터치 뒤 '털썩'‥급등한 반도체주 쏟아졌지만 \"추세는 계속\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uaUVmaDRfODhJZjJXVmtkOHBWQXpXNm1kWENLVmFveWJDcTRhTUV4d1BNUGJhWHpsMFhjVW9ZdVhjM0hXVExmMmc4Mk1mUkk?oc=5",
               "source": "v.daum.net"
             }
           ]
@@ -179,48 +179,48 @@
         {
           "rank": 2,
           "word": "환율",
-          "count": 26,
+          "count": 25,
           "articles": [
             {
-              "title": "\"금리인하 끝났다\" … 美 물가 충격에 환율·국채금리 동반 상승",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pVWxEV2JndmdVc1ZITGtVY0dIWE16Q1JHZWJBVktxRFd5NlM5eVhCUExBSGJzWm53TnZNVzJGb1FmcTUzcDB4WDVjM2ZhbGVQa09Bdlg5MmUxUGQtWGRDd3ZRODlURkNJU0Ryem1OSVAzNEh0QndsWlplSQ?oc=5",
-              "source": "뉴데일리 경제"
+              "title": "원·달러 환율 9.8원 오른 1500.8원 마감…코스피 급락·외국인 4조 순매도",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyblBGeXo4d1lpam1kd1psbXdORS1tNE1BT29KdFZYeVBTVkMtMWpGMlBDWm8tZWhRU2hRTTc4TkN5UFlZNm1wNHRwNUJ0c1E?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 25,
+          "count": 24,
           "articles": [
             {
-              "title": "고신용자 4.9%, 저신용자 3.7%…‘거꾸로 금리’에 뒤통수 맞았다",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zRVRmNFpSMGxDUDcyamNDVEJvOTJuYS0zSWZIbjVXVHZiQ21LdldnRG4tWHlrN3YxMDNWUmN0M05XQ1R2bUplVTBiTWlvLTdJMEF1QWJR?oc=5",
-              "source": "중앙일보"
+              "title": "[채권-마감] 금리인상 우려·대외금리 상승에…국고 10년 13.2bp↑",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jRUN0enR4UUdDVkhoV1BHZmhBUUlpeXRTODI0YTFoNHZIU1BtbXFtR3FHdlJacmpJZk8zSGFKZmdBUlUtbVZKM2FEU1dDUVlYYi02M0lzdWZjT1AtcV9Ub2loS2ZicHNIMmtFYnVrbFc?oc=5",
+              "source": "연합인포맥스"
             }
           ]
         },
         {
           "rank": 4,
           "word": "증시",
-          "count": 20,
+          "count": 18,
           "articles": [
             {
-              "title": "'파죽지세' 한국 증시 시가총액, 대만도 제치고 세계 6위",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zbUdjVmt1Q0ppbWFYNDBHOE1vbkUxa0szMEVydnhMOTBTNmdNYXg4akFHeFJMUkloa2VEaUhJazcxVGNWMUlYT1RFWmc3bExhbW15aUFidE9lX1JXM1NoNUs0ZHA3d01sMFduNk0wRGFzRThN0gF0QVVfeXFMTVVxTHJXWUI1X2NrdU1hYnZIZ2c0NU9wc1AxclBZdDUwak5DQ1hQREx1RXMyWEJVMXJsTjYwNG94aC1fblhUMjVSMVk2bHVpZlc3YlBaSWxpY0NzUmxNWlA0ZHY0eWVhVzlNa3RsX0ZfR1ZXaUg?oc=5",
-              "source": "MBC 뉴스"
+              "title": "“반도체만으론 부족하다”…한국 증시 이끌 차기 주도주는",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96V0xQQkZYQl8zQV9US25RWEdPamFVaXg1bXowdU1tTmpzTWhvLWswWUVNYW5GUExLekFSMnU2SG1WcF94a0NTc0xabkprMWpKUFdjUUNMOW1LV1JSX0xKc0F3?oc=5",
+              "source": "이코노미스트"
             }
           ]
         },
         {
           "rank": 5,
           "word": "부동산",
-          "count": 14,
+          "count": 13,
           "articles": [
             {
-              "title": "李 대통령은 왜 ‘억까’라고 말했나? 韓 부동산의 한계와 모순",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zZlR6N1puLTljNy05bV9QUWdHUWhCZXM5NUQ4R3ltT294N2J3emJiUW5IVmtLenBZN3R5ajRsRFJBMnFpRExfWDg1cWJhLVFSZTBjVkYzWjNHT1pnSlp2Q0RwWnRfZjhJTHNKV3d3?oc=5",
-              "source": "더스쿠프"
+              "title": "[윤준의 부동산수첩] 잠실 아파트, 모두 다 같은 건 아니다",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EVUtkZEdWQWdoU2QzemVnS1V6REo2cExHU3FFUmcxYXUwTkdYbWV4cktxZHZaS0JZb3pyWE96MDB5ZE1FckV3cjhvNHJfMmVEay1OT2F0Xy1QMmp4MGstMDhOOGtDQdIBakFVX3lxTE9jSmRxVUpCVmx4MWtHUVpMZXFvLUNmejY3cUxoZEF2Z0gtYWVuV1JRcjQyM1JMVTVYRE1KTGJxNjFYY1lrLWhRWHl6LTQ1bmZ5Mm5XcktMY0YzMHhzSnBaM2RvRUZLb0x0YkE?oc=5",
+              "source": "NBN미디어"
             }
           ]
         }
