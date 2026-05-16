@@ -2,7 +2,7 @@
   "date": "2026-05-17",
   "categories": {
     "오늘의 이슈": {
-      "summary": "중국·미국, 관세 인하 및 항공기 구매 합의 추진 · 트럼프, 대만 반도체·무기판매 언급 · 이란 경제위기로 콘돔 가격 폭등 · 서울시장 선거 격전",
+      "summary": "중국·미국 관세 협상 진전·트럼프 증권 거래 논란·서울시장 선거 본격화",
       "keywords": [
         {
           "rank": 1,
@@ -20,16 +20,28 @@
               "source": "YTN"
             },
             {
-              "title": "中 상무부 \"美와 동등 규모로 각자 중시 제품 관세인하 합의\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yN1ZnXzMxSlZUOFk2c3l2dmlJS1pvY0hyZUNwd0JCaVR1LUFhYmhlZUQ1MlhrUlBWbzdVRWJKTE90NXphOXhNbWUxc19oamxkUTd4VDExM0NkUEUtWkVRVlRvc0FMd2NGNE1KRWdqZnE0NjJF0gF0QVVfeXFMTnNFNmp0a0xWTk44WV9Nb1lodTlEM3ExRlRTbXptNXdjNXZuUUpabnk3cm1sUk5YRkM0SFh4UlFpTmlYR1ZtS3hLbEZKekpua0JGSTVBV2xYQXlWSjNQVmtOM0NVN3hqQW5Gd3lxX000Ulo1aFk?oc=5",
+              "title": "[속보] 중국 \"미국과 동등한 규모로 각자 주목하는 제품 관세 인하 합의\"",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmdIdEVJdEFLcW5XUU5XaURSWkMwVklMUE9zaFFNWjVsT1pGRGMya016dTJWVlhJaHVzOWRuT0xfWTBVRlZURmFjelBTR0VFVVNDREZUdzQ2Y0phMzBqMTloTHYySERNd0VSR3pBY0hsdjBUQzQ2SmhUdWVuaEhyQTBKMC1QNzdISXZqVGpnTzhIdGZTY01YUmI1UXVDajdrVkdfdFZNbkFvbXBxUmxJZzAyeHA3Wm8ycGpncw?oc=5",
               "source": "MBC 뉴스"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "미국",
+          "word": "트럼프",
           "count": 3,
+          "articles": [
+            {
+              "title": "“헤지펀드 수준”…트럼프, 1분기에만 3700건 증권 거래",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oVjN6UGc2MGtJX2xKLVpWRlcxRS1sME04LWRUZ2NuN0ZHeHRvM2NseGlubGdRZjVxcl9lTlV2bjJaczFxWG0yalVCQzVZSXJMTWNZTVFpUGxUX0xBZmo2cVJNcV9RVDJiYWx5VUxXZw?oc=5",
+              "source": "한겨레"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "word": "미국",
+          "count": 2,
           "articles": [
             {
               "title": "트럼프 “대만, 훔쳐간 미국 반도체 모두 돌아오길…무기 팔수도, 안 팔수도”",
@@ -39,26 +51,14 @@
           ]
         },
         {
-          "rank": 3,
-          "word": "트럼프",
-          "count": 3,
-          "articles": [
-            {
-              "title": "트럼프 “시진핑과 ‘대만 무기판매’ 상세히 논의” 발언 파장",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFBhX2IzZHkxQzFKUEJyNmFoOTg2dUJFS0FVdUVIYkhqeGNNUVZXR1lJcm9KZmhSbFFvbjhGd0RkdVd3WHlsdUhVcFZ6QVhGMUJ4QXVWemM0cncyRVFFVVdORjJoMVlELWxQUDlHVlo0M0NmaFNQWlo3ZTBkOE1sdzFVNm0?oc=5",
-              "source": "조선일보"
-            }
-          ]
-        },
-        {
           "rank": 4,
-          "word": "이란",
-          "count": 3,
+          "word": "제품",
+          "count": 2,
           "articles": [
             {
-              "title": "‘30% 폭등’ 콘돔도 사치다…이란전이 바꾼 침실 풍경",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QcFhtV1pkR1JqbWpoQmRWSFNpNVluM3M5OE5tZkdmY2xPT1BDeHE5dkdiYThKWHJQOHpJV3NzWEZXZFc1RjA1UDFxTzJtMEFEUjVLeFZB?oc=5",
-              "source": "중앙일보"
+              "title": "텀블러 꾸미고 녹색제품 고른다…백화점 ESG, 매장 안으로 들어왔다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GeVllWjJka2RERENFb2hZYlVpN25lcDZaYW9SNXRyVGFGUjA4SjVPVFJVbnNxeF94VnJwUmZKSkxlYU55Znk4MDEwVE92YWc?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
@@ -68,21 +68,21 @@
           "count": 2,
           "articles": [
             {
-              "title": "‘서울시장’ 격전 돌입…‘누가 저급한가’ 공방",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14Y0tlRmlfWm9DTDh3V0Zfc3JOVVBSOTRQckFtZzJIUGtrLU1TTFBpbVJXVHBRVmxwQkJfTmlkWGVYUG1GYjVWSzNvaGVaX2tVSHR1Q09WNGtPQVE?oc=5",
-              "source": "KBS 뉴스"
+              "title": "딱 한번뿐인 서울시장 토론회, 사전투표 시작 7시간 전 개최",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQktxdTBLRjRjNnkza1psNFF3Y1puaklQLWdVMFNaZ3NpcXRRUDF2NUJJSFJHbTZJM3JZQ0NNWmw1T0E5dmNYMlpndE5Hakp4RElLM21PX0Z4NTltdHJvZ0U5UEhjQlhvVFFwMWwybHNqbTk4ZGN6NW1VV0kyOW52VU52SjdXcnEtWFNLTEJHTmM?oc=5",
+              "source": "조선일보"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "05즈 아이돌이 05년생 축하 · 김재중 할아버지 되며 '할배돌' 탄생 · '케이팝 데몬 헌터스' 글로벌 투어 발표 · 한류의 역설",
+      "summary": "김재중이 할아버지 되며 아이돌 사상 최초 '할배돌' 탄생 · '케이팝 데몬 헌터스' 공식 글로벌 월드투어 개최",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 14,
+          "count": 17,
           "articles": [
             {
               "title": "05즈 아이돌이 05년생 스경에게 “찬란한 스물 한살 더 뜨겁게 빛나길”",
@@ -104,7 +104,7 @@
         {
           "rank": 2,
           "word": "케이팝",
-          "count": 12,
+          "count": 14,
           "articles": [
             {
               "title": "넷플릭스 ‘케이팝 데몬 헌터스’ 공식 글로벌 월드투어 발표",
@@ -116,19 +116,19 @@
         {
           "rank": 3,
           "word": "데몬",
-          "count": 9,
+          "count": 10,
           "articles": [
             {
-              "title": "[Ent+] 케이팝 데몬 헌터스, 글로벌 콘서트 투어 개최한다",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NVFNRSWlLUHUydFl1bFJaNzZVN204cEQtazhyY01Nb3RqZDNZS2JMd3JCTFE1T0V2WW5UTkt4T0RtWWRmQ2VLVUlWUS1sN1dVWWp2U0ZKYW55TVFSbkE?oc=5",
-              "source": "인벤"
+              "title": "‘케이팝 데몬 헌터스’ 월드 투어가 시작된다",
+              "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPckFrMlNJckZkX19FWE4tNkdscWcyejVKb0wyU1RJR0ZhQlBfWTJwMlg1ZmpSZzJUUk1NcjlsUVN1bE5mUW9TcGJrZmREQUN3TmEyTjRyNW5lWVRxWFZLSWs4RGstTVNsUmRvWUZnNFNsQTQxZVpTNU44X3h6VzgtOHhNay1TWWFVbTlTLTdOVkhxcG91eHJnRjJnanNSMm9FaFRKdjZEVzM1LThLR0dVaWltakRGdDdYX3Ywb3kzclZ0bTlfWlhaRzlkOHQ0TUdVLUpoWmZleXlRSlJWZGk1VFV5aUFWYUZtMVl3ZW9POXhqV2UzNmdZUWNZWE5XWVdqaEtrc3NOZENkTjlyU082aFJUU1k3eXppbkxqMnR5bw?oc=5",
+              "source": "Vogue korea"
             }
           ]
         },
         {
           "rank": 4,
           "word": "헌터스",
-          "count": 9,
+          "count": 10,
           "articles": [
             {
               "title": "'케이팝 데몬 헌터스' 공개 1주년 기념 팝업 열린다",
@@ -139,20 +139,20 @@
         },
         {
           "rank": 5,
-          "word": "한류",
-          "count": 7,
+          "word": "케데헌",
+          "count": 6,
           "articles": [
             {
-              "title": "다 같은 한류가 아니다…가까울수록 멀어지는 '한류의 역설' [더 라이프이스트-홍재화의 매트릭스로 보는 세상]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YQ0dubVd3b1FsNUE4bnRWandrTmF6SmtsempNUXV4S0dmX0FDY1JtUU1NOVdlOHF1SnF6ZzRfaXFYMXo1OUVPRkxJbnlNSjA?oc=5",
-              "source": "v.daum.net"
+              "title": "'케데헌' 혼문 완성한다…공식 월드 투어 개최",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43aWdFQWl4TDQ1b0IzbzYwT1NxUVFZaU1BV2JXSUIwWWlzMldwbXBheHRFQmZoSTQ5MWlua05rVGZvSmJ5bVk0UmtYOVhQd2dkMHloVGNFMU9JTDJ3MTF3ZdIBYEFVX3lxTE43aWdFQWl4TDQ1b0IzbzYwT1NxUVFZaU1BV2JXSUIwWWlzMldwbXBheHRFQmZoSTQ5MWlua05rVGZvSmJ5bVk0UmtYOVhQd2dkMHloVGNFMU9JTDJ3MTF3ZQ?oc=5",
+              "source": "연합뉴스"
             }
           ]
         }
       ]
     },
     "경제": {
-      "summary": "원·달러 환율 1500원 돌파, 미국채 금리 5% 초과 · 코스피 급락으로 투자심리 악화",
+      "summary": "코스피 급락·환율 1500원 돌파·미국 국채금리 5% 초과로 글로벌 금융 불안 심화 · 개인투자자들 주식 손절과 자산 재편 고민",
       "keywords": [
         {
           "rank": 1,
@@ -160,19 +160,19 @@
           "count": 32,
           "articles": [
             {
-              "title": "한달만 또 1500원대, 원·달러 환율 어디로",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zV1dMRzd2N2l5YXFic1dITm41Z2lVZVB6QkZwSHoyT2ZmMzNfZEhqV1JZZUlNVXVLWGFhZmM0YU9YQ2w0R2dZQWdxTmxEUDV5dmZ0Rw?oc=5",
-              "source": "이투데이"
-            },
-            {
               "title": "코스피 6%대 급락…원·달러 환율 1500원 돌파",
               "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNVm1hMHhZeUd1bnJBOENPRkRYa1VUMThYcmpYb3ZsN2hZbThGbmhSNDYwOWRlcDJUaDF4a3RZNWs1ZElfWngwSXRrbU5WQ0FJRWlGRHZB?oc=5",
               "source": "지디넷코리아"
             },
             {
-              "title": "[5월 둘째 주 세계경제동향 브리핑] 코스피 강보합 속 코스닥 급락…환율·금리 동반 상승",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zLUNBVDV2UnVUYVJWdnFRMldGdFh6c3dEam9iV2NIRE9WOEV2LTJITEpvclJWYUh3TkViemlGUUprTkQzRHZwNFpRX2tUdXRWc1ZiMld2R1dnbzI3VEc0S2NqcEZLMVBfTEZDemF3OA?oc=5",
-              "source": "기호일보"
+              "title": "환율 한 달 만에 1500원 돌파…미국 인플레 우려에 코스피 외국인 매도 영향",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3EtLVAtZGVGSFFtdnRPLXpwTWVPNlF3STQ2TjJ4Q25zbXJMaWNmMUwtSVY0UW1FWEVqUGFaY0VYYThBTHBQSWg2aGk5TlZaSGtreUl2MC1Yb1FKcW5ybG43dExxVzlxTUZUaFFmZTAweVBZcU9iaTJQZXg0VXY5Q2RYYXVXQlZBbzFTTUFR?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "대통령까지 나선 한미 통화스와프 뭐길래…환율 불안 막을 '심리적 방파제'",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80aWpCMnNEWUdxdjdic21kbDVhMFk0a0xYU1EtQnQ1YlpnSnBIVHZmY3E0VkVHUUVfbG5YQ1pVa2plUmhQVGg1SXVKRG0tR0U1aml6bw?oc=5",
+              "source": "뉴스1"
             }
           ]
         },
