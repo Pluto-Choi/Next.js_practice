@@ -2,12 +2,12 @@
   "date": "2026-05-19",
   "categories": {
     "오늘의 이슈": {
-      "summary": "이준석 대통령 파업 대응 발언 논란·삼성 노조 추가 수당 규정 적발·이란 중동 전쟁 재확전 위기·북한 여자축구단 수상한 방문·미국의 이란 원유제재 해제 협상",
+      "summary": "李대통령 파업 대응으로 기본권 제한 언급·삼성 노조 조합비 규정 논란 · 트럼프 이란 종전안 거부로 유가 반등 · 국민연금 재정산 시행",
       "keywords": [
         {
           "rank": 1,
           "word": "가능",
-          "count": 2,
+          "count": 3,
           "articles": [
             {
               "title": "[속보]파업막으려?…李대통령 “국민기본권 제한 가능”",
@@ -20,69 +20,69 @@
               "source": "연합뉴스"
             },
             {
-              "title": "NATO도 주목한 무인 잠수정 \"호르무즈 해협 기뢰 탐지 가능\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51YmtHT0NVaWpYcWxFM2N1X3ZVS2RCVlhLUG5La2lxNnBieUlUWjYzV1VkRlEzSTZCaWNZdlduMzJEeDZEdUVOang3MDFWSEU?oc=5",
-              "source": "v.daum.net"
+              "title": "法 총파업 제동에…삼성 노조 \"쟁의 가능\" vs 사측 \"법원 결정 호도\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3k1MWV3T2dacXhiOTZBNG9xR2l1Q040V2tvSkNnXzcydFlRSnBTMmZJOTlObzZ1RzlDNWVMWm5zVERRVWNabHBGNkFYSlg4ZjlvTmZ0RnFwREsxUElzMnZmRXVjTVBGRTZyaWRKYktMQlp5MVV5QURRbkU1Sjl4Ng?oc=5",
+              "source": "이데일리"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "공격",
+          "word": "이란",
           "count": 2,
           "articles": [
             {
-              "title": "이란전쟁 재확전 초읽기...사우디·UAE 공격 받자 트럼프는 강한 경고",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HU29BcmNvb29RQi00a3g1UUlqN1gxV2Npb1pES201a3czVG9nZFA3eUYxQzF1cklkV0ZscEVXZ0Y4MnE4b2NvcHo1M1RnNnc?oc=5",
-              "source": "v.daum.net"
+              "title": "트럼프, 이란 최신 종전안에 실망…\"어떤 제안에도 열려 있지 않아\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ibklUSm9mY0cxU1ZjWUw1dllNd1ZRSElhX1FHR01RNnhGeXNCbzJRaXR0UWltc082Nzh6UDFPbmVWZWFQN0tqMklidE0tYlB5UnBEREJDN3lfTzFUdElTb9IBeEFVX3lxTE00elNJY2pPUXhiVEtDcmxjX0lQUmhmbHdaT01FMTlIYUhhei0yV2xYSFJoRFJVOGpzUW5SUUh2eHVwcHV5MFYtaGhBYVhGMm53SUEzVzhkc25OdlFrYllrZG1NbUhhcmdoaGFLbXpPb1pBWExqVnhtYg?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "정상",
+          "word": "유가",
           "count": 2,
           "articles": [
             {
-              "title": "트럼프 대통령과 통화한 이 대통령, \" 미중 정상, 한반도 문제 건설적 협의 평가\"",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MSXNVYW1ETUwyWFBRUzFkT1hCV0J2Yk5TeXlyT3FFMWdmQ1FzaWp2aGtqenhZQXo4TlkzYWFXeHVMWkhzLW9OaVNYYlVVZVFVOUNMcw?oc=5",
-              "source": "JTBC"
+              "title": "이란 종전협상 교착에 유가 반등…브렌트유 다시 110달러대",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xMi1WQ0pJWEpzRjNlOTNGV01TWUFqaTl5V0c1NUJtaUcxNWhGU3dBZTdUcWw3M2xfb3hTLVp6eWllWXl2T2sxd1dYQ1J1aDlvQ0xDSFJXT0xXd9IBVEFVX3lxTE1pZTEtSTdrRUtORzhjV3NoM0hMa08tTHdoM2E3NTVLblhkWTA0SGp0aTZDelpZYkZOc1BxRnFzM0x6ZlFTcGh0SHZ5M0hwMWtPeUVHYQ?oc=5",
+              "source": "한국경제"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "북한",
+          "word": "피격",
           "count": 2,
           "articles": [
             {
-              "title": "방문증명서 있는데 ‘여권’ 내민 북한 여자축구단···환영단 눈길 안 주고 곧바로 공항 떠나",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90elc0eU9SbERUcGFxVVBlamFCR0d1aXN2SXpqNFItcHB2Sm1fdmxmTTdvdldiMnlMZkdvVHhoSVpXVjloampCdFlyZ2ZMWTcyd2Y3RVd1ejNkUdIBX0FVX3lxTFBRMkZxOElYX0pWdjc1LXM5REM1aFZaRjd1aE5PTGRKQjI4cm9TQXhoYzhESU11WnVWRGluM0pDM2g1ZDItc2FldGU2S3NUckJ5R2ZrS25WdFhCSE1pdDNB?oc=5",
-              "source": "경향신문"
+              "title": "[단독]“피격에 납치 위협까지”…긴장 최고조",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Rbm01ejNOYTRXdU5OX01sRnJVSnN0TFh1clktcjRSZkpwejlXbDhzN1NDQ09URWhJUXRLRUlmM2RYVnBuM0ZpQ1d5VTcwbUZLUkFiazdCci00ZXJpdEHSAWNBVV95cUxNd0p6VFRneEdlM01FekZsOTdJeHRYZmRrV2VGYmRMREQwcVhoS3RDSzI3bGlnejlnTnUtSkpVWWtUUlRzcTFzRXBfaXhqZ1UyV3U2XzB3RHNqaDNjTm9XWTU0M2s?oc=5",
+              "source": "채널A"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "이란",
+          "word": "국민",
           "count": 2,
           "articles": [
             {
-              "title": "\"이란, 새 종전안 美에 전달…美, 원유제재 해제 동의\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5meGhtVlYtaFhrMWlHRUNmV0w0d1dPcjJlTUhfRDMwY0RqZF95bndYVTlVdjF4WkFHX2lDSHdkNTd2RzdJOFZ2b1dvMjRVZWVydVF3eTNSMVFwcmM?oc=5",
-              "source": "연합뉴스"
+              "title": "“일하면 깎이던 국민연금”…내달부터 월 519만원 벌어도 전액 받는다",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRNnFleEQ0Tl9QNmpncl9qeU5pVjhPOFdTNThvMUdmWXVHVGVsRUU3UTRzcEFZYW04bEFtLTRrLVNFTmJKWGc?oc=5",
+              "source": "v.daum.net"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "국민 PD 프로그램 아이돌들 복귀 · BTS 진 스탠퍼드 공연 성공 · 넷플릭스 케이팝 콘텐츠 글로벌 확대",
+      "summary": "국민 PD 프로젝트 아이돌 재결성 · 넷플릭스 '케이팝 데몬 헌터스' 월드투어 개시 · BTS 진 스탠퍼드 공연 화제",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 12,
+          "count": 14,
           "articles": [
             {
               "title": "I.O.I, 워너원, 제로베이스원… ‘국민 PD’가 뽑은 아이돌들 한꺼번에 돌아온다",
@@ -90,21 +90,21 @@
               "source": "조선일보"
             },
             {
+              "title": "'와일드씽' 강동원 \"배우로서 아이돌 무대, 하나하나 도전이었다\" [N현장]",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQSm1SQ1NzVVVBUk81S2UwT1dVZ0ZrWHVwTktIRFg1b3NZRXdESjdJUEh1TkxZVU1pMnp5WkNqd2RwTEt4M0ZGRGlqY1BKakk0UUd0bDMyZw?oc=5",
+              "source": "뉴스1"
+            },
+            {
               "title": "‘아이돌픽’ 강다니엘, 야외 페스티벌 분위기와 잘 어울리는 아이돌 1위",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoOVhMOEtuMjQ0S2VxNWZ0dkVMdm1fWXRHamh0dVJCSUpwb2dud3lWX0NwMURtRHpuRmJKamliLUpfVVBSMWlHMEhXMHNYZUk4Z0Vrc25EelRGbGRzd1dWV3FyclR0Rm9BdDh4c3B3?oc=5",
               "source": "스포츠동아"
-            },
-            {
-              "title": "아이돌 외모의 '무명전설' 이대환, 이찬원·박지현과 한솥밥…무명의 기적",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yTUtpYmJuVVFNT3ViLU12ZUl6RzFKdkhpYjAwT0FCTWJJbUQxNWlqSlUtWE9RMGg3Vkgza2duV0twcXZxY0lxWGVHdHFzbVRfdUMtaVg3VQ?oc=5",
-              "source": "뉴스1"
             }
           ]
         },
         {
           "rank": 2,
           "word": "케이팝",
-          "count": 11,
+          "count": 14,
           "articles": [
             {
               "title": "넷플릭스 ‘케이팝 데몬 헌터스’ 공식 글로벌 월드투어 발표",
@@ -115,32 +115,8 @@
         },
         {
           "rank": 3,
-          "word": "방탄소년단",
-          "count": 8,
-          "articles": [
-            {
-              "title": "'미의 남신' 방탄소년단 진, 스탠퍼드 공연 열광 속 빛난 '세이렌'..티셔츠도 바로 품절",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE13YmhnRGFwa3ZTYzFvd21ueHRBUHA0Wi1YdVUtbUtaVnZHMG45Q0cxVnctY3VaZWM5dGc2Q0w2a2E1QU5TM1E?oc=5",
-              "source": "v.daum.net"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "word": "인기",
-          "count": 7,
-          "articles": [
-            {
-              "title": "정읍 신태인농협, 전통 고추장 만들기 체험 ‘인기’",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94bENtZ2ZnVjd3dUF4Zy15STN4OWtJM1pXMFVoYUxBdVpvNFFyWG1FVjhCQWFzRkVTc1NRTEZTeGVzd1k1UEc0cnZNNHlITWdRMTdCNXp3Sm0yZw?oc=5",
-              "source": "농민신문"
-            }
-          ]
-        },
-        {
-          "rank": 5,
           "word": "데몬",
-          "count": 6,
+          "count": 8,
           "articles": [
             {
               "title": "‘케이팝 데몬 헌터스’ 월드 투어가 시작된다",
@@ -148,16 +124,40 @@
               "source": "Vogue korea"
             }
           ]
+        },
+        {
+          "rank": 4,
+          "word": "헌터스",
+          "count": 8,
+          "articles": [
+            {
+              "title": "오늘의 SBS 뉴스헌터스 예고 (5월 18일)",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VR0V2QUxRZ3ItNHZ5U2V6dGFtT0FGSlpjdTZwaV9yYU5Tb00tei03N056enNKa1V2OEdQRFVDRm9BR0VlbXJtaFF0NEFoZUdxeE15MFhEcHB3UFlhLTRSb3dJTEV0ejJpVXc?oc=5",
+              "source": "SBS 뉴스"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "방탄소년단",
+          "count": 6,
+          "articles": [
+            {
+              "title": "'미의 남신' 방탄소년단 진, 스탠퍼드 공연 열광 속 빛난 '세이렌'..티셔츠도 바로 품절",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE13YmhnRGFwa3ZTYzFvd21ueHRBUHA0Wi1YdVUtbUtaVnZHMG45Q0cxVnctY3VaZWM5dGc2Q0w2a2E1QU5TM1E?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
         }
       ]
     },
     "경제": {
-      "summary": "원달러 환율 1500원대 안정 · 코스피 삼성전자 파업 제동에 상승 · 유가 인상 우려로 국채금리 급등, 글로벌 증시 리스크 확대",
+      "summary": "원달러 환율 1500원 돌파·국채금리 급등으로 증시 변동성 확대 · 트럼프 이란 경고로 유가 상승",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 31,
+          "count": 32,
           "articles": [
             {
               "title": "원·달러 환율, 0.4원 오른 1501.2원 개장",
@@ -165,33 +165,21 @@
               "source": "뉴시스"
             },
             {
-              "title": "'당국 개입 경계감' 환율, 7거래일 만에 하락…1,500.3원",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JbnpWVlpFRFhwTWpSa25VbWM1SDl6MkxmZUxkRi1zVTVwcHY1N1RqdnZBYWFyOUpxSllTNmpXd2dweDR0UWV1ZjRrM1JSaXJwa3VFWU5iMktxS3fSAWBBVV95cUxQYmpLYkVtYjNuem9VZFNpazNvaWVLOEdRMFgzOXFRMW5EbXM1RXZhNVJxVVo5WlZSd09Dak1FTHNiMlRqSzJoM1hDMVIzRll6MjVkdFBxN1Y5R1Z4c2FqU2I?oc=5",
-              "source": "연합뉴스"
-            },
-            {
               "title": "미·일 국채 금리 급등…코스피 요동치고 환율 1500원 넘기도",
               "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zaUpjU2FKVllPaUtLMUdRcmo1T1FNUEtkOE5WWFliQmxaN2FXWFlWSjRGV1E2ZWpfeUlzcm5lNGYyZzZRb19kRC1pck4zSVlMRWI3TWl6MURPYmVZNmo4eWtPWllUSEk?oc=5",
               "source": "한겨레"
+            },
+            {
+              "title": "5% 뚫린 美 국채금리에 국내 금리·환율·증시 ‘트리플 충격’",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tbVdwaGZxeWRSU28xQjJkUUxZRE53THE1aWEwSE5GMWljRXJnUkpHeHZXc29yaFpDQURwWnNTSTcxU1VnX2wzNHp6TFVJdU1VU2VmUnh3?oc=5",
+              "source": "헤럴드경제"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "코스피",
-          "count": 28,
-          "articles": [
-            {
-              "title": "7200선 후퇴했던 코스피, 삼성전자 파업 제동 소식에 상승 전환",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLS04MUl0ZEZpMVJSbDVnR1ZKWFNORkgwVHBjeUNXLTUxdkoxOGR4Vlk3d0EyUmJ2ZUlqWTMxTkVaLUJ3dm4xUFZNcVRsZ1J3OEpYR01WWWxScm5iWi00VTB0ZGk3aXJFdW95YjYxMmNheWFGZnFad0Nkb3VVU01aaQ?oc=5",
-              "source": "조선일보"
-            }
-          ]
-        },
-        {
-          "rank": 3,
           "word": "금리",
-          "count": 27,
+          "count": 26,
           "articles": [
             {
               "title": "\"유가 180달러 간다\"…인플레이션 공포에 치솟는 국채금리",
@@ -201,14 +189,26 @@
           ]
         },
         {
-          "rank": 4,
-          "word": "증시",
-          "count": 13,
+          "rank": 3,
+          "word": "코스피",
+          "count": 26,
           "articles": [
             {
-              "title": "글로벌 국채 금리 일제히 급등… 전 세계 증시 ‘새 뇌관’",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNREVNNmVsbEJFZER3LXF0VkZTQU45RVNBeFBucDVjeWo3bmU0cC1pU3JpQUlxVVpEQ01jQnozQV9lRVFYa1hrbXlyZ21SdlJ5aXNmNG1nLUt6Z0RYcm9DU01JUUs0SHBTY3JJVS1YcENTYzNaa3NzY1RHblI1ZWppMG15MEstR0t6S0ow?oc=5",
-              "source": "조선일보"
+              "title": "코스피 매도사이드카 급락에도 상승 마감",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRbHJYRkU2LXhzSFFIZ2dseUh2ckJKUk0zZFpLdE1ibE9iT3N2LTgySWdLRzVaZjFxQUdzTktUOC00ZzQ1Tk5KR2ZtOXQ2Zmc?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "증시",
+          "count": 14,
+          "articles": [
+            {
+              "title": "트럼프 \"시간 얼마 안 남았다\" 對이란 경고…亞 증시 흔들·유가 상승",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NVi16OXlTdjJoRWpUOEF4Z0tSc3cyWjI0U255SlJxRU9GamliTFdPc1NLU080WkZ2Z2pUZVlGQWU1OVhEVkg2bWxpUG5ELUJKam80Qm1Ycm1aMGRhTUQ3ZA?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
