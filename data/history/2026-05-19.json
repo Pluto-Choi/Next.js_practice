@@ -2,82 +2,82 @@
   "date": "2026-05-19",
   "categories": {
     "오늘의 이슈": {
-      "summary": "李대통령 파업 대응으로 기본권 제한 언급·삼성 노조 조합비 규정 논란 · 트럼프 이란 종전안 거부로 유가 반등 · 국민연금 재정산 시행",
+      "summary": "드라마 '대군부인' 역사 왜곡 논란 사과 · 홍명보호 북중미 월드컵 사전캠프 출국 · 트럼프 이란 공격 지시 취소",
       "keywords": [
         {
           "rank": 1,
-          "word": "가능",
+          "word": "만세",
           "count": 3,
           "articles": [
             {
-              "title": "[속보]파업막으려?…李대통령 “국민기본권 제한 가능”",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Db2RaZXV0VnJCV2VoNlJZaExZN0pOaG5xUldodGZ1Q1VHVkFSTUNISWFwY3JPV0lJSDFoZnNjMnBFRFMtSFBuVFgxOUVfRGZm?oc=5",
-              "source": "문화일보"
+              "title": "“만세” 대신 “천세” 외친 ‘21세기 대군부인’, 역사 왜곡 논란에 사과",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRm9TQUxhTkJoSHdQaXpyTHI5MkRiaHR5akphX1drajFvbldvWW9VZUJkbU5LTlZNV1Zoek1XcVJXRjF2Y1hRU2ZYcmRLcWhkQ0pKdWJFNkVYeUU3SzdYcHRtOUR1MmJkTm1BcmVqTEZKbExvMFVndGRVQThNNmhUNkxNRGRUV0Iyc2ZlNg?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "삼성 노조 '조합비 5% 직책수당' 규정…수백만원 추가 수령 가능",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13aExoakdkemdrQnExZ1c3bV9lNW9wNGNSTWFXV1dYMG5aRGE0Y0hLODRNMzVoUndqNGVMZzIwd041bnFvbk1kVnNiMFUteVZ4ZGtMRjZqclpSZjjSAWBBVV95cUxQMDliZmwtV2Z4blBDLVpBS2ZVR2EySF9tNGhBRmxMZ3JETjZIXzdxNjNWX0tuSVRKY09CWkRSV3YwUTluTldCVk1CLXJxekR4d1IySkhqRkdWX0M4UnlKRlg?oc=5",
-              "source": "연합뉴스"
+              "title": "'대군부인' 수정 대본집 떴다…\"만세, 만세, 만만세\"",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zT1pxVnBkTmU2UEZoZElVSkNBZllWSFRZR0dOTkNsZVFTRWdnRlFEMm5WZElFVHRreDdIa0NIR2JmaW5UN3A4c2hxVV82cnZtQVAxc1owRHN3MU9lNFhUYjlNdFdQODZsa0duRkJxVQ?oc=5",
+              "source": "SPOTV NEWS"
             },
             {
-              "title": "法 총파업 제동에…삼성 노조 \"쟁의 가능\" vs 사측 \"법원 결정 호도\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3k1MWV3T2dacXhiOTZBNG9xR2l1Q040V2tvSkNnXzcydFlRSnBTMmZJOTlObzZ1RzlDNWVMWm5zVERRVWNabHBGNkFYSlg4ZjlvTmZ0RnFwREsxUElzMnZmRXVjTVBGRTZyaWRKYktMQlp5MVV5QURRbkU1Sjl4Ng?oc=5",
-              "source": "이데일리"
+              "title": "만세 대신 ‘천세’ 외친 ‘21세기 대군부인’…“역사 고증 부족 사과”",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Td1pIVy1QeDQ3QTJxMEtROWRKT0ZBN1JXQTVhMlRBeWRmUzdyMExZSjJBS3pkd2N2MGdVMWJOLWt0VmI2R1U3Q0UyYmZnODdUTGltSjZwcGNjZ2hLek9HX0JvS3dLWlRTd1VJVW8yQ3VLZw?oc=5",
+              "source": "한겨레"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "이란",
-          "count": 2,
+          "word": "월드컵",
+          "count": 3,
           "articles": [
             {
-              "title": "트럼프, 이란 최신 종전안에 실망…\"어떤 제안에도 열려 있지 않아\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ibklUSm9mY0cxU1ZjWUw1dllNd1ZRSElhX1FHR01RNnhGeXNCbzJRaXR0UWltc082Nzh6UDFPbmVWZWFQN0tqMklidE0tYlB5UnBEREJDN3lfTzFUdElTb9IBeEFVX3lxTE00elNJY2pPUXhiVEtDcmxjX0lQUmhmbHdaT01FMTlIYUhhei0yV2xYSFJoRFJVOGpzUW5SUUh2eHVwcHV5MFYtaGhBYVhGMm53SUEzVzhkc25OdlFrYllrZG1NbUhhcmdoaGFLbXpPb1pBWExqVnhtYg?oc=5",
+              "title": "\"힘내세요!\"…홍명보호, 팬들 응원 속 북중미 월드컵 사전 캠프 출국(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UZlk1YWVXWjkwNkxYMWY2ak5SZWhocFF4YnZ3eUNXbjk3bFRoYmFRbVZTdVJqTVhEdi10c0ppbkVBYWdvd0VRZThmYzNZVk0wcGRILVlpa2xpSDA3TnAzbtIBeEFVX3lxTE9fOC1GdDZ2alhrVnBiT0E2Z252RU8yM0VyVEsyaWNYcTJ4NFpLZlNvdWItSHloa3NLMGgxUXR0YV9JWVoxZll0czhUdTIzS1h3c3hqU2NWSURUQ3dtME1qVzk1NHNPWU1jSkE2SjFBLXBSbVQ3QndLbw?oc=5",
               "source": "뉴시스"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "유가",
+          "word": "국가",
           "count": 2,
           "articles": [
             {
-              "title": "이란 종전협상 교착에 유가 반등…브렌트유 다시 110달러대",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xMi1WQ0pJWEpzRjNlOTNGV01TWUFqaTl5V0c1NUJtaUcxNWhGU3dBZTdUcWw3M2xfb3hTLVp6eWllWXl2T2sxd1dYQ1J1aDlvQ0xDSFJXT0xXd9IBVEFVX3lxTE1pZTEtSTdrRUtORzhjV3NoM0hMa08tTHdoM2E3NTVLblhkWTA0SGp0aTZDelpZYkZOc1BxRnFzM0x6ZlFTcGh0SHZ5M0hwMWtPeUVHYQ?oc=5",
-              "source": "한국경제"
+              "title": "김정은 \"남부 국경 강화하라\"... 李정부 백서 \"사실상 두 국가\"",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNDlBckxaMi1fM2ZwdGJSTE40REN4YXE5V2NGNEtxNWt4YllpTTZRRE9jOEdFS3Y4RGZTWkdJV3pndEhXWUZWZUtTVmRCeFR2YmduR2RTc3N0MGFjN2NXUkxZb0M0QjVoSTNCQzZVTWNTTXZNRWNicXJXNXlfdmg4emlCakltY0JZcmc?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "피격",
+          "word": "이란",
           "count": 2,
           "articles": [
             {
-              "title": "[단독]“피격에 납치 위협까지”…긴장 최고조",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Rbm01ejNOYTRXdU5OX01sRnJVSnN0TFh1clktcjRSZkpwejlXbDhzN1NDQ09URWhJUXRLRUlmM2RYVnBuM0ZpQ1d5VTcwbUZLUkFiazdCci00ZXJpdEHSAWNBVV95cUxNd0p6VFRneEdlM01FekZsOTdJeHRYZmRrV2VGYmRMREQwcVhoS3RDSzI3bGlnejlnTnUtSkpVWWtUUlRzcTFzRXBfaXhqZ1UyV3U2XzB3RHNqaDNjTm9XWTU0M2s?oc=5",
-              "source": "채널A"
+              "title": "트럼프 \"내일로 예정된 이란 공격 하지 말라고 軍에 지시\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vbl9nRG54LW56MFJtNGYxSnB3UWtIazdVYnpheEVIVU9zVWpWa05PYUczOG9zWnVDck9VQi04N29Mc0VQNkxQWGRHR1VZeEU?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "국민",
+          "word": "미국",
           "count": 2,
           "articles": [
             {
-              "title": "“일하면 깎이던 국민연금”…내달부터 월 519만원 벌어도 전액 받는다",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRNnFleEQ0Tl9QNmpncl9qeU5pVjhPOFdTNThvMUdmWXVHVGVsRUU3UTRzcEFZYW04bEFtLTRrLVNFTmJKWGc?oc=5",
-              "source": "v.daum.net"
+              "title": "“이란, 새 14개항 종전안 전달…미국, 석유 제재 중지 수용”",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfTkxmSTd1Y1gyVHZoRnduekVKeFJqMmtXV0ZyRFItalVDUzNFRUNEczRXNnUzRjlxcWNpSkxDaHRDd3RRQUxFRFcyY3VGVkprTjhSY1JxcDVQU2NyeExvb0hSTDVFWGpuTHVSOV9wamFQc1U?oc=5",
+              "source": "한겨레"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "국민 PD 프로젝트 아이돌 재결성 · 넷플릭스 '케이팝 데몬 헌터스' 월드투어 개시 · BTS 진 스탠퍼드 공연 화제",
+      "summary": "프로듀스 시리즈 아이돌 컴백 · BTS 진 스탠퍼드 공연 호평 · 넷플릭스 '케이팝 데몬 헌터스' 월드투어 발표",
       "keywords": [
         {
           "rank": 1,
@@ -152,34 +152,46 @@
       ]
     },
     "경제": {
-      "summary": "원달러 환율 1500원 돌파·국채금리 급등으로 증시 변동성 확대 · 트럼프 이란 경고로 유가 상승",
+      "summary": "코스피 삼성전자 파업 제동에 반등 · 원달러환율 1501원 · 유가 상승에 국채금리 상승 · 부동산 공급 부족 지적",
       "keywords": [
         {
           "rank": 1,
-          "word": "환율",
-          "count": 32,
+          "word": "코스피",
+          "count": 31,
           "articles": [
             {
-              "title": "원·달러 환율, 0.4원 오른 1501.2원 개장",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nMUdIZVA5N0F2RDNMTm8yWkExVUlRVFo4WEMtUDFZQnhnNnFuYW9mdFZLYnFCSnRJSFFtRFZmM1hKSXFja2RNdDFvaFNyOHFrd3N6dGdxY1cySHJEbnhhTA?oc=5",
+              "title": "7200선 후퇴했던 코스피, 삼성전자 파업 제동 소식에 상승 전환",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLS04MUl0ZEZpMVJSbDVnR1ZKWFNORkgwVHBjeUNXLTUxdkoxOGR4Vlk3d0EyUmJ2ZUlqWTMxTkVaLUJ3dm4xUFZNcVRsZ1J3OEpYR01WWWxScm5iWi00VTB0ZGk3aXJFdW95YjYxMmNheWFGZnFad0Nkb3VVU01aaQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "[오늘의 증시]美반도체주 급락에 중동 리스크까지…코스피 '검은 월요일' 오나",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vTWVmWGxmaXNpUWNpZm9HRGRDekUzT0VQYUk3NUU0XzVnN3RGblZTUWw2VDNmR29QN2NYRjRiR1FvM1pRNElXVXRwbjdOZTBFQmdwbnljaElOeGJpXzlhVtIBeEFVX3lxTE5wbDNWeUVYOGZ0Mk92WDJtTEpuLVRYNXh3X04tWm9ERGJnNXpPMWx0cjZfOHI2LTNhVXRibVdIVV9RaE5lcktTd0Q1dDN4S3M1NExYT0hnRlJ1ZEdsZ0xuRUdjNUF2WXpGSlRILUJBMFVWdE1xTGZlRw?oc=5",
               "source": "뉴시스"
             },
             {
-              "title": "미·일 국채 금리 급등…코스피 요동치고 환율 1500원 넘기도",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zaUpjU2FKVllPaUtLMUdRcmo1T1FNUEtkOE5WWFliQmxaN2FXWFlWSjRGV1E2ZWpfeUlzcm5lNGYyZzZRb19kRC1pck4zSVlMRWI3TWl6MURPYmVZNmo4eWtPWllUSEk?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "5% 뚫린 美 국채금리에 국내 금리·환율·증시 ‘트리플 충격’",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tbVdwaGZxeWRSU28xQjJkUUxZRE53THE1aWEwSE5GMWljRXJnUkpHeHZXc29yaFpDQURwWnNTSTcxU1VnX2wzNHp6TFVJdU1VU2VmUnh3?oc=5",
-              "source": "헤럴드경제"
+              "title": "\"코스피 1만 시대 생존전략, 주도주를 사라\"",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sVWxxMWZRR050WUx4MkdTSTNxZTN2RktqU1k5dTVZRUo4cW5BT05LVURiTDJnS1I2clZnSlRDcmEyWEczS1Y1UHZTellicU5aOS0xenFfV1BQbmwxeXA2a0F3?oc=5",
+              "source": "아시아경제"
             }
           ]
         },
         {
           "rank": 2,
+          "word": "환율",
+          "count": 28,
+          "articles": [
+            {
+              "title": "원·달러 환율, 0.4원 오른 1501.2원 개장",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nMUdIZVA5N0F2RDNMTm8yWkExVUlRVFo4WEMtUDFZQnhnNnFuYW9mdFZLYnFCSnRJSFFtRFZmM1hKSXFja2RNdDFvaFNyOHFrd3N6dGdxY1cySHJEbnhhTA?oc=5",
+              "source": "뉴시스"
+            }
+          ]
+        },
+        {
+          "rank": 3,
           "word": "금리",
-          "count": 26,
+          "count": 24,
           "articles": [
             {
               "title": "\"유가 180달러 간다\"…인플레이션 공포에 치솟는 국채금리",
@@ -189,38 +201,26 @@
           ]
         },
         {
-          "rank": 3,
-          "word": "코스피",
-          "count": 26,
-          "articles": [
-            {
-              "title": "코스피 매도사이드카 급락에도 상승 마감",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRbHJYRkU2LXhzSFFIZ2dseUh2ckJKUk0zZFpLdE1ibE9iT3N2LTgySWdLRzVaZjFxQUdzTktUOC00ZzQ1Tk5KR2ZtOXQ2Zmc?oc=5",
-              "source": "v.daum.net"
-            }
-          ]
-        },
-        {
           "rank": 4,
           "word": "증시",
-          "count": 14,
+          "count": 18,
           "articles": [
             {
-              "title": "트럼프 \"시간 얼마 안 남았다\" 對이란 경고…亞 증시 흔들·유가 상승",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NVi16OXlTdjJoRWpUOEF4Z0tSc3cyWjI0U255SlJxRU9GamliTFdPc1NLU080WkZ2Z2pUZVlGQWU1OVhEVkg2bWxpUG5ELUJKam80Qm1Ycm1aMGRhTUQ3ZA?oc=5",
-              "source": "뉴시스"
+              "title": "아침마다 미국증시 보는 당신, 틀리지 않았다",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xX3p0emcwUkFNcEdFajFjdzVhaEZQTEJvVmtVYkxSRXZNRVlHOEVqVC03NVd5XzF1bTRhRk4waFlqcXZXQUVDV3JSa1k2dlRsOC1aa01ZWGsxZDA?oc=5",
+              "source": "KBS 뉴스"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "주식",
-          "count": 11,
+          "word": "부동산",
+          "count": 12,
           "articles": [
             {
-              "title": "전지현, 주식투자 소신 \"목표 수익 달성시 바로 익절\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rMmdqc19FZE04QWlMMHY1ZUdQazU5WThTOGFMN210T1FkWUs2aVFrdzFwSENrUG1YSi1CMmlMVEkxVGxOeDVXZ0xnM241RkxidngzcVNmR3ZQS1RWZHd2MNIBeEFVX3lxTE1xclJrRmlldWE2d3B0WGkxTWthZ1A2QkFsRnhmek0tTnVDb2x4dGZaUTFvRXhhVUw1dmNFOGpDaUs1eG5yWk4ybE5XTTNOTDZkYnNPS1RST3ZKU0duNnJzRTVZM1p5UTVQNVdNUTFpM0dkVlNqM1BvRw?oc=5",
-              "source": "뉴시스"
+              "title": "오세훈 “이재명 정부 출범 후 참담한 부동산 시장…핵심은 공급”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lMmlWTV9NY0dWSTNzUFpBVnJSa3pEZ2xvOU5GZTB6WUdsOV9USGlHWmQzdDdxaWxZMDlKcWg4eEQ0VGRSNWJYVFFTQWRVazVtOGZTTVN3ckt0TG8?oc=5",
+              "source": "KBS 뉴스"
             }
           ]
         }
