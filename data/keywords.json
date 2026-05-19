@@ -2,131 +2,119 @@
   "date": "2026-05-19",
   "categories": {
     "오늘의 이슈": {
-      "summary": "트럼프, 핵협상 진행 중 예정된 이란 공격 전격 보류 · 정용진, 스타벅스 '탱크데이' 논란으로 사과",
+      "summary": "삼성전자 노사 협상 진행 중·트럼프 이란 공격 보류 지시·유가 하락으로 금리 상승 압박·고유가 지원금 2차 신청 진행",
       "keywords": [
         {
           "rank": 1,
-          "word": "공격",
-          "count": 5,
+          "word": "속보",
+          "count": 3,
           "articles": [
             {
-              "title": "트럼프 \"내일 이란 공격 예정했었다…진지한 협상에 보류\"(종합2보)",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nQzJJVkJqeDM1c2w3UFo0cnV5cEdIRjdRVEMxMndlZlpTUFdqSnhOQmN1bm1jcDRNSlMtTUV1SjgxT2RBTGotMkRDa2lkSE45eWJfMFVtZXI5MHc4R1FJQ9IBeEFVX3lxTFBCS0txSVlKOENvakh5TjBzYjZBem9odjVwM1J5OWNaalpFY19sTUkzLUpCbE5Mbl9DZHhRUDh1dDZxdHgtX0JrZkpmTGhBaklUZ3Y3cF91VDJXcWtpZWpQU1ZuNUZJUjdQeTVma21ncE12alJTZmZnOQ?oc=5",
-              "source": "뉴시스"
+              "title": "[속보] 삼성전자, 2차 사후조정 2일차 시작…사측 \"끝까지 최선\" 노조 ‘묵묵부답’",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11UFhENXU0NVV5TWVJTWVLWlUtbklxLXlYZUtZQ00yVXFRS3ZzTHZaNk1QdmJOcVY4NDd3X0JxNHpkV0NmOGFIcmd6MS1NX0NEOEo1YQ?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "이란, 나무호 피격에 “누가 했나 의문”…위장 공격 가능성 제기",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwTFR5WnRtMWJCQWFWWURwakVST19VSjhiTnA4TXlILW9CRDY5Z05rTWFtSG5oSS1sLUN4VWI0azJQNWJoTHVKS1E2aDB0TlVGMWdpNTRRU3JNQXI4TThORDlOdXR1QW84c0d5OERGZktkSkU?oc=5",
-              "source": "한겨레"
+              "title": "[속보]트럼프 “내일 예정된 이란 공격 보류 지시”",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KMDNVcjhXU0lWNE1XeHNHeWxKLVhMaTJHWTRJZFBVRDBvWkc2MWlBZVlIUGxVRlAyWmtUbDNzb1c2RUwyQkxiN2N0b0hPQ2tPa1E?oc=5",
+              "source": "매일경제"
             },
             {
-              "title": "쿠바, \"미군 공격하면 '피바다' 발생할 것\" 경고",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85SjFWM29HRUNDdUs4eDRiUTJMR0xEcWVVUmVYeUFqSTRTM2dxZTA4Rm5aOWpOWkFJMkZTYUMwUVdWOVVhcDFIaFBPb09Mdi1MelZLTnhNU1hlbE5VMnRjZtIBeEFVX3lxTE5yZzlKaEM4MC15c0x2djRSYUsyV3Q3QVhhVmF5VVhBS0tfX21Jb25HS01nY0ItdDIzYXBnbkZ2b2h4bFJBeC1Sb0pqdUw3SHJjaGs4cDR2T1k0Y0xtOU1nSWtvbENZZlhmcC1oLWxGbDZ2VmZja21qeA?oc=5",
-              "source": "뉴시스"
+              "title": "[속보] 이 대통령, 트럼프와 통화 “팩트시트 원활한 이행 대화”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1ZjZnSkI3cGs4QURwaWY0V1NjOHZlTk85V19pV0RxdnpZTUx1V0V1aWhmTTVHWTAwdWdiZjFNVERrSzZNQjVjUnJaazBCSWZiRXdJWFc2aVF3UdIBX0FVX3lxTE9laGUyeFMwS1ZMaFRQdUhraWdTSERSN1YtSS15bnZ1eFVwUzNYeXRudzk3UTA5Q1l3N3UzVkpkalNmOFZLQzBIbkZhMXBXYmRKMjUtY0haOXBxSTU0NGtj?oc=5",
+              "source": "경향신문"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "트럼프",
+          "word": "이란",
           "count": 3,
           "articles": [
             {
-              "title": "D-1 이란 공격 전격 보류…트럼프 “핵무기 금지 포함 협상 중”",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxT3pwNDkzQVRIVEhsYWFYN3RTYUpuNk9TU3E2X3U3U29GZ3hqUGh3VGVoemhUaGUwUFgyLXlFeHVKbG1obWtUYzdyVHE2MmpEbnN5ZVpyWmV6WV9fakZtdkV5SmtLUUYwWGsweFRWQQ?oc=5",
-              "source": "한겨레"
+              "title": "이란전 불똥, 주담대·차 할부까지 번졌다…G7 금리 22년 만에 최고",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WUFJ2c213eWJlamdOeHZud1UxUXlvcHI5S0I4Q3FVcGpHcHdYcmt2bWxsVWJsT0QxcGdEcWttbTBfYjlOaWc2NVZmRVl6dzN2bVhUN2pVR0JMYUhQTTEyWdIBeEFVX3lxTFBmd3B0MGNwc29zVzRzdFRxTExXQU5xRTZuWDl5X1JMZmxqMmQ3Y2wtdmRWU3RCSWNNYi1Vdzhad20zdmVfcWlQR3M3WnRfbnZZRjFWamEyMk9heGpIRHROMmtzZzBtR2lia1QwdGJXV0tSYl9RZlp5Mg?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "국민",
+          "word": "유가",
           "count": 2,
           "articles": [
             {
-              "title": "정용진, 스타벅스 ‘탱크데이’ 사과…“5·18 영령과 국민께 사죄”했지만",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NZC16cUdxVWNrUWRqdHVSU1M2eHo1ZXBBQnZYVnNMMG1BMXlLY3FJbEE2NlY5UUo3aUtrSEJfZjZDVTV4ckptY3hISkhLQVpIYTZ6dldtenRhRDZ5YjAwamFSZWlOdURQUnRnQy1WZC1yZw?oc=5",
-              "source": "한겨레"
+              "title": "가장 저렴해진 두바이 유가…글로벌 석유시장 무슨 일?",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40RFhUVE1UN25KRkRDdDlzUFQyRmVUekt1alFfNm9kTW94OXQtbG5uaWJqSUI3RGRJRU1zNXloMzdnNGx2dldZZnVlbTVFbHc5clZQUWNHSmxOYUE?oc=5",
+              "source": "에너지경제신문"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "이란",
+          "word": "신청",
           "count": 2,
           "articles": [
             {
-              "title": "확전 부담에 마음 바꾼 트럼프 \"이란 공격 보류 결정\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90VW9TNjd5dVo4OE01MngzbHF2bjh3Wm9sNUdKTlpnYkJPS0hzOTNIV05nUmJrU2x4RFQ0TUs1Wlo5cFBmS0MzWkFpXzNvTG5HU2NodmpraHp1VDRrWlE?oc=5",
-              "source": "YTN"
+              "title": "'고유가 지원금' 2차 신청 이틀째…출생연도 끝자리 2·7",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxM2hjYlNMX3N3ZzNGazhJdkNnODhSSkpvbG5tdVJkdEM4NWdpbER4WDk4QTFvZE84aDRNeTdnMDhFaHJhaHdMaTY4cGRlTDFiZnNYMy1nUmFYa2NNRnJUTtIBeEFVX3lxTE5HbE5lNEpteDFMcmJFa0NJazF3bUIyN3plSjJRTTVoY3Rib3k4VlVxZlRwVkRiZmZBWXNjZlliSTBKVkJBRGduSk5SWWk2ZFZuYWV3VTVhZUc3R3p6eF9QbmNsMy01dWdvQlZ1azQ1WHdlbHJIZFFKTg?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "지시",
+          "word": "경기",
           "count": 2,
           "articles": [
             {
-              "title": "트럼프 \"내일로 예정된 이란 공격 하지 말라고 軍에 지시\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MQkZualJzYlBoQW5TRzh3dW1vb01uZzJYV0ZpbHdOakJrNk90VmJMUGhjaTQxZXZKTzIxeGlhTXFTSmJfaFhOanJwRl9XVXFqT3RpYzVPODN6UW_SAWBBVV95cUxQRzNDVnB5MkNEWnZZMmUtWk1hOXpmV3djWTdrVjdBSy0tbU1TSFJMa0p3czhDZFowRlhCSzB0Y0YyQ3RRQnFXckNBWDhvZXdIMUFDckhKNHVwU3FQcExSRkE?oc=5",
-              "source": "연합뉴스"
+              "title": "추미애 “경기남부에 K-반도체 완결형 생태계 구축”",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mSktOdEdmTWNOaVV1c0FFUGphN0FPMmpCNkVBcDBDTzU4TUpILWNIR3d0NWRjb1l1RWNrbVQ5aC1yQWFaRk9FbVZUdXpKY3EtZjlza296LUV6NWRVQktqbGt1d3ZXcC1BeV9jbmxYMA?oc=5",
+              "source": "인천일보"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "박진영 컴백 쇼케이스 성료·다날, 월드케이팝센터와 K-POP 결제 생태계 구축·세븐일레븐, 샤이니헌터스 해킹 피해",
+      "summary": "다날, 월드케이팝센터와 파트너십 체결해 외국인 전용 K-POP 결제 생태계 구축 · I.O.I·워너원·제로베이스원 등 국민 PD 선정 아이돌 컴백 · 세븐일레븐 샤이니헌터스 해킹으로 프랜차이즈 자료 유출 · 케이팝 데몬 헌터스 글로벌 콘서트 투",
       "keywords": [
         {
           "rank": 1,
-          "word": "아이돌",
-          "count": 14,
-          "articles": [
-            {
-              "title": "박진영, 아이돌 모먼트 최고야 짜릿해…팬들과 컴백 쇼케이스 성료",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BN3I3R3lGdV9WbWtDR2hHUGZhampxMnNXeGIwVTU2YXEwazRBX1U0U3BGTVlxUVhYWUhabjlfdFRvUzNKaUh3YTdvSmlnNV9TaDRCSGR1TTVYeU9Palkybm5Ick1zYWxnLU5LNmJ3?oc=5",
-              "source": "스포츠동아"
-            },
-            {
-              "title": "I.O.I, 워너원, 제로베이스원… ‘국민 PD’가 뽑은 아이돌들 한꺼번에 돌아온다",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSGNtUDB2NFk5YkhCOEdvLXFwYzRhLTh4bHktejBHaXViZFJZdW9tMzUwNFJ1UlloVk5LVDJuWEJ2N2l1blRlaVVMWC1fYWlUbXdsSk13bnpUZkMzTXRDX2RJQlRsX1ZZWWNqRkZIZS1FNFFPZzZFcHNuQ09zOE91U3RET0VwcHJ6ZGpwMGFFTERMTkhC?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "'와일드 씽' 아이돌 댄서 강동원→래퍼 엄태구..제대로 돌아버린 코미디(ft.오정세) [Oh!쎈 리뷰]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEbVVSOTRTZzI5T3hXVWpKZG0yZTFyOGdYY29aVlJZX1BoZTRWRTRiMS1XZVAtYVpBa2FsQzgyVXlpcGtxNFB5X3ExVXhmTEE?oc=5",
-              "source": "v.daum.net"
-            }
-          ]
-        },
-        {
-          "rank": 2,
           "word": "케이팝",
-          "count": 13,
+          "count": 14,
           "articles": [
             {
               "title": "다날, 월드케이팝센터와 맞손…외국인 대상 'K-POP 결제 생태계' 구축",
               "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YbTVteXkybXhyZXFQcU1IV3R6VG02Rk9YcEYxZkkzbW1XakFWN1hXQ003NUpzblZScnRfV2RaMGRPMmdKQXZMUkl5RzJlUDBNbFBleGxWY3BHX0RwSWg1ek94alZYVnYwcUNabUx1Zlpiblk?oc=5",
               "source": "디지털투데이"
+            },
+            {
+              "title": "다날, 월드케이팝센터와 파트너십 체결…외국인 전용 결제 생태계 구축",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNMzU3NWtPaWRVTDlvNm8yMktQalRCQ0tJYXpEZFA2VDRwTG9QTVdYaHBNX3g1NXV4RGZOUTRMa0lJM0dENEduUGItNldkdFZaSFVxb19aUXctdG5ZQ2pWclJJUUNrQ3VaMEE?oc=5",
+              "source": "파이낸스스코프"
+            },
+            {
+              "title": "다날, 월드케이팝센터와 K-POP 중심 외국인 결제 생태계 확장 나서",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00VmktWk1tNktlSDlCaG44VkNpNUNDN1FjUnBOZHI4aDVyMmhuempJQldqS1dvc010c3lPYXRLQUlFY3daMUJyTFpuVUYzNDBKOU0zeG5nNGlPZmd4dUgteU8tYVZITVdNVFgzWW9R?oc=5",
+              "source": "뉴스타운"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "아이돌",
+          "count": 12,
+          "articles": [
+            {
+              "title": "I.O.I, 워너원, 제로베이스원… ‘국민 PD’가 뽑은 아이돌들 한꺼번에 돌아온다",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSGNtUDB2NFk5YkhCOEdvLXFwYzRhLTh4bHktejBHaXViZFJZdW9tMzUwNFJ1UlloVk5LVDJuWEJ2N2l1blRlaVVMWC1fYWlUbXdsSk13bnpUZkMzTXRDX2RJQlRsX1ZZWWNqRkZIZS1FNFFPZzZFcHNuQ09zOE91U3RET0VwcHJ6ZGpwMGFFTERMTkhC?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "데몬",
-          "count": 9,
-          "articles": [
-            {
-              "title": "'케이팝 데몬 헌터스' 월드투어 연다",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUeFRXRjFKc2xuQzMwM1ZTeXl0OUFXUUl3Nk5kZmkxcFdvWFZ2c3cxM1lUTnBndFFveTAzMU1BaXc4RHpjdlpKZ0xSbmZDZHM?oc=5",
-              "source": "v.daum.net"
-            }
-          ]
-        },
-        {
-          "rank": 4,
           "word": "헌터스",
           "count": 9,
           "articles": [
@@ -138,64 +126,76 @@
           ]
         },
         {
-          "rank": 5,
-          "word": "케데헌",
-          "count": 6,
+          "rank": 4,
+          "word": "데몬",
+          "count": 8,
           "articles": [
             {
-              "title": "제17회 ALC 20일 개막… ‘케데헌’ 이재가 기조연설",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaWZWZkx4cm1QRnVyU2lFc3J5UUxlcGl6ZWxsZmFDSVUxR3FmZ0dDaGtDMFZGRjZLRlNpUWkySlcyZlBxVzYtS0V6RUZ1eW9zUkdXOVUtNzZxVTlFd1JMd1E0aGViS2hKYTR0anlNYUZpMXFvTTFYZUhkemI1Z044eE4yQlR1MnJQZ2FxLXl3?oc=5",
-              "source": "조선일보"
+              "title": "[Ent+] 케이팝 데몬 헌터스, 글로벌 콘서트 투어 개최한다",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NVFNRSWlLUHUydFl1bFJaNzZVN204cEQtazhyY01Nb3RqZDNZS2JMd3JCTFE1T0V2WW5UTkt4T0RtWWRmQ2VLVUlWUS1sN1dVWWp2U0ZKYW55TVFSbkE?oc=5",
+              "source": "인벤"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "케데헌",
+          "count": 7,
+          "articles": [
+            {
+              "title": "'케데헌' 혼문 완성한다…공식 월드 투어 개최",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43aWdFQWl4TDQ1b0IzbzYwT1NxUVFZaU1BV2JXSUIwWWlzMldwbXBheHRFQmZoSTQ5MWlua05rVGZvSmJ5bVk0UmtYOVhQd2dkMHloVGNFMU9JTDJ3MTF3ZdIBYEFVX3lxTE43aWdFQWl4TDQ1b0IzbzYwT1NxUVFZaU1BV2JXSUIwWWlzMldwbXBheHRFQmZoSTQ5MWlua05rVGZvSmJ5bVk0UmtYOVhQd2dkMHloVGNFMU9JTDJ3MTF3ZQ?oc=5",
+              "source": "연합뉴스"
             }
           ]
         }
       ]
     },
     "경제": {
-      "summary": "원달러 환율 1500원대 유지·주담대 금리 상승으로 대출 원리금 증가·코스피 8000선 고민 속 투자심리 위축",
+      "summary": "코스피 7200대로 하락 · 원달러 환율 1507.8원 · 금융통화위원회 금리 논의 · 대구 부동산 임의경매 급증",
       "keywords": [
         {
           "rank": 1,
-          "word": "환율",
-          "count": 29,
+          "word": "코스피",
+          "count": 33,
           "articles": [
             {
-              "title": "원·달러 환율, 1500.3원 마감…1500원대 이어가",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KOXVxTHVJN3RRTkxlWHQzVWNIOEpHbjZEbEg5dV84anNzeDBTVjd1QXM3M0xIT2NYaEY5WnNJMjBnMkNPSHpZS1h1M3oyVzFLWW8tS3BwbUdubVFrRE5rRNIBeEFVX3lxTE1VYlFDbXFvNFVqMkhVMUdHZnNYNGpfd0Q4V2taTzMzemdXaFh5Y1FBMUxhbERmYzZQTGJIT25zdlk4U0ZMNUdDZTZ2Qnd5b0ZVWEdqRjZONVg0ZXBrZ3BpbEF5dzNTSWFDNFlCREZsdUpoU3B5RkswcA?oc=5",
+              "title": "널뛰는 코스피, ‘만스피’ 유효할까…7200대까지 밀렸다 [투자360]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rcjd3d09pRDdYb25DUDZJUXB5X0toY1FPZjhJZ1E2N3VWLTNrY0JoNVJZdjIwUDRQckJYclE0OEZwb3NOWVRrRG9EUWFNNllEYmk2MXdB?oc=5",
+              "source": "헤럴드경제"
+            },
+            {
+              "title": "떨어진 코스피",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PTjlvdXNETm5nWUdTa2I1UzVIQW90R2pZWlZJcm43OXg4TVd5NTZPN2o3OXMxT3dLb2ZVYmZPU1FrQzdrSDRONnMtTjRQdENEd0NHdEREY2xUOFFGYzEzcA?oc=5",
               "source": "뉴시스"
             },
             {
-              "title": "위안화 대비 원화 환율 이틀 연속 220원...위안화 몸값 오른 이유는?",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzhORUZ5Q2lYNjhRSnpMYlpuRXRqUnlrMzd2V2dhb1VfUnlPU2w3WlJmZmhXSnhOUzg2YmtqdEJES1NnTDdiYVpIRWZGcjVsSXR1WVpUS1hqaFFaQnhJLTRVYUxZeUxOanZDdGZuM2pxME11ZEQzdzNRckNsTTZib1hHZXRVR1kzaXNnZDZ3?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "교보證 \"단기적 환율 상승 압력 크지만 구조적 원화 강세 유효\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGakROUTZKMkR6MEYzZGRacFNGa1B2YnltSGNocmJtdXVrVU5uWUZ1T2lnTEw3QjNCQmtkcW1vaEtwdkJ6QUlqVm92enVCNUpKbWJkX2VzNlg5UTNLa2dQMTJtaTFjSXQweXVBVDMtbUk?oc=5",
-              "source": "연합인포맥스"
+              "title": "[속보]코스피, 3.25% 내린 7271.66 마감",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxY2MybjZCdVVrU2lXNHdwMHZiRUE3R1BKRE1MazRYeTNVSm81SUhLTnpqNi15T1Y3Smpad3RMMG9KbjRXOVdnVUJqcFBidGxMUDBjWlY2MFdEaktBbHprbdIBeEFVX3lxTE0ycTBfVXM0UHo1bkFWVGxPbTlQVVE4am1GTG5ZY0x2dlJiak9lUmR1QmJJNDlsUjNtajR5MFBUdFRlYzRIODZ2NDZlZHhjckdPc0ZURzhOSk1WUnJIS2xKR2JxSVk3YXZkUzNvSWY1TmtpdERQWDJnRA?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "금리",
+          "word": "환율",
           "count": 27,
           "articles": [
             {
-              "title": "“161만원→200만원” 주담대 금리 상승에 한달 새 대출 원리금도 ‘껑충’ [머니뭐니]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LaXd1MkZVQlNpQUM1UTlmSXA4UTVET0tKMERUM3ZMX3NhUUVEbXZvc0paYUZQbEVIU19xNUYxdjJEQk56NVE5SnJsdjFITmtpZHZDcjZn?oc=5",
-              "source": "헤럴드경제"
+              "title": "[속보]원·달러 환율, 7.5원 오른 1507.8원 마감",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uMWhGTlBUUTJ5N3dfVmN3dnp3SmxCaXB5X2J2VmdtdnlPc2d3ZGRyNy1lVExyRjdPYXlYZG4taFByMm5nWDJVT2pESndWbl9FZnZVTkR5SVNqV3VaVHFUddIBeEFVX3lxTE96ZklpOVF4UnZFMG9Ya2JOWmVMZmV5V0RIZEJJMDBXUHlMaTI3NlNzVDRqN1VpdTJHTngza2FaMFFFX05vM0UtTFlyMlk5bUhzekFoN0ZqTmVYX2FOeHBtRUZvVVNsMDBXdFFHSzJxRTZ6cEVxWVhDWQ?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "코스피",
-          "count": 23,
+          "word": "금리",
+          "count": 25,
           "articles": [
             {
-              "title": "코스피 8000이 꼭지?… 피난처 찾는 개미들",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbkpuU1RLSy13SHBVZ09nUkJpdnJ4bkNPXzRzeXlTeHByNng2Z242S25Zb1JRRjRNbWVQR05Ed3BtbjRTdDY4N2xocUlaMFNlV041NGJDcWJLbGRiVUVvVnVQNTBQNmU4NjFLSDhubjVZZVFRSnQyNGNMSVBsQkg3QzNUdkp1eEZYVTJzZmxR?oc=5",
+              "title": "이주열 총재 만난 파월 의장, 금리인상 계획을 듣자…",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORWdCbS13eVU4YmVCcVZrZHpnZUVFQkZfMzBIYW05N3ZsV1pNTlhSZ2dFbmxXVEZubUMzV25DaWxtUWpGOF9HbEE5Yks3akFFMThJMWo2Wi1XWDNPUFFKazcxN2ZldVh1cWI5bHVEWHNNQjRhNHo5dy1TVkhRSUNxaHFlbG1xSTVibndwbWF3?oc=5",
               "source": "조선일보"
             }
           ]
@@ -203,24 +203,24 @@
         {
           "rank": 4,
           "word": "증시",
-          "count": 12,
+          "count": 16,
           "articles": [
             {
-              "title": "아침마다 미국증시 보는 당신, 틀리지 않았다",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xX3p0emcwUkFNcEdFajFjdzVhaEZQTEJvVmtVYkxSRXZNRVlHOEVqVC03NVd5XzF1bTRhRk4waFlqcXZXQUVDV3JSa1k2dlRsOC1aa01ZWGsxZDA?oc=5",
-              "source": "KBS 뉴스"
+              "title": "[주간증시전망] ’8000피' 재등정 주목…엔비디아 실적·삼성전자 파업 ‘변수’ - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnQxUUdlZi1IbmJ5VXVHOE1CeVpzRlBnWlB3MDlmaWFNQ1dYUWwwdVhpQWpSa0FWa1ltcGFEQXJ6V0lUOWh6SzNlckxrVXdmVGstQk5yR3FmZWxzcVppTzhibW1MNVI2eHE5cG9MRWpaSHJkUW5mLVZWU3hTdjNzRGRSdEt4aC1U0gGcAUFVX3lxTFBRWDZaTHQ3MHdJM0V3eVFUcGIwTHc0eFR0Vm4xaHZuSWt6a0VUbVRxU3pMcXdxSkZNcGhWYUxYdWEwNXF6MGlubUg3RXEteWZod2loMnZYUHhWal9GM19NQUlxVC1oRlhRWVZhc1FZd3p2MjRCRHpHMzlXb0M5OVRUTC1ydVVReVdUNklBSXVRZDAzN0dOb1JRakVuOA?oc=5",
+              "source": "Chosunbiz"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "주식",
-          "count": 11,
+          "word": "부동산",
+          "count": 13,
           "articles": [
             {
-              "title": "전지현, 주식투자 소신 \"목표 수익 달성시 바로 익절\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rMmdqc19FZE04QWlMMHY1ZUdQazU5WThTOGFMN210T1FkWUs2aVFrdzFwSENrUG1YSi1CMmlMVEkxVGxOeDVXZ0xnM241RkxidngzcVNmR3ZQS1RWZHd2MNIBeEFVX3lxTE1xclJrRmlldWE2d3B0WGkxTWthZ1A2QkFsRnhmek0tTnVDb2x4dGZaUTFvRXhhVUw1dmNFOGpDaUs1eG5yWk4ybE5XTTNOTDZkYnNPS1RST3ZKU0duNnJzRTVZM1p5UTVQNVdNUTFpM0dkVlNqM1BvRw?oc=5",
-              "source": "뉴시스"
+              "title": "이자 못 갚아 임의경매된 부동산, 대구 넉달만 1천건 돌파",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NODRaUUlzU2t2bm5aQmYtWDBTZl92a1Rvb3kzUmlhUTd1d3AzTXpnU1d2cFZQQVcwVUhLb3Q1SWhlZGxQRmdhUlZnQXdpSy1qNjVjb3Bpd2RWc1FDdW84T21yal9kQ1dqNERn?oc=5",
+              "source": "영남일보"
             }
           ]
         }
