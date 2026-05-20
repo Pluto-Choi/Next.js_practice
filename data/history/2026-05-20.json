@@ -2,107 +2,85 @@
   "date": "2026-05-20",
   "categories": {
     "오늘의 이슈": {
-      "summary": "iOS 27에 AI 기능 추가·보스턴 다이나믹스 아틀라스 현장 투입 임박·스타벅스 5·18 논란·삼성 노조 파업 경고·국내은행 순익 감소·트럼프 압박",
+      "summary": "트럼프 전쟁 반대 결의안 상정·세무조사 영구 금지 합의 / 삼성전자 노사 협상 노동부장관 조정으로 재개",
       "keywords": [
         {
           "rank": 1,
-          "word": "추가",
+          "word": "트럼프",
           "count": 3,
           "articles": [
             {
-              "title": "\"AI가 대신 글 써준다\"…iOS 27에 추가되는 AI 기능 세 가지",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoSVJsT3J2UkZoVTNaUndWN1hycTRKc08zVVJyNm1EcWl5YzMwYTkxb09EeEt1Mk4zZTFtR1I4T2Z5RC1yY3A5ME52WHdLY3NYazN2REFR?oc=5",
-              "source": "지디넷코리아"
+              "title": "미 상원 ‘트럼프 전쟁 반대 결의안’ 8번 만에 상정…공화 4표 이탈",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95OHhtTFR6Sk5uNVFYNEZXWmdOZkEtX1FfQnhlSTJRUVNuNEZhM19kVC1MbXZpWElxcnpubXE1Y1U4MG5lRkk1NHV5X2xPUFdZTWVRWHdFZ2wwWlh1S3hZc0d4M1BfNDAtYnRDV0cyQQ?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "“이젠 냉장고까지 번쩍”···아틀라스 영상 추가 공개, 현장 투입 ‘초읽기’",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpaEV5Rk9ZckYxX1ZDeEN6clJ0bVNBNFdVanFUMnpIUm83cUxGd0hKUWFpakY0Um1uN3lwbkRzajJnU3Y4V1k5SHotOTFUUENIeUFUeERRc1hZUdIBX0FVX3lxTE8yNDMtNXVtVUNGYmpJaV9UVXFnbmFBWUl4MV9uSHF0QTdfcGVjbG5NZFctYnlpajN4VXFLczVhY1hfOVVIV3ZRSW9iS1pUdHlPM2U5dWFTbmpMNldNU1VZ?oc=5",
-              "source": "경향신문"
+              "title": "‘트럼프 세무조사 영원히 금지’, 미 법무부와 합의…“끔찍한 선례”",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LbDVuY1paTlFCWG1VaF9wS1NlelJ2UTZ0WWl6anFPMl9kOVFLSHZ3REZvY1VZQ182R295SWJQcWJTQ2tNdjc0UXVpNGpxMDFVcGhwb3RURVhrSFFLSHFmcFBJbzM5Q3ZubXlSUDQtVQ?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "곽동신 한미반도체 회장 “6월 16일, 80억 주식 추가매입”… 1Q ‘실적 쇼크’ 회복될까 [중기+]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40MGt6OXpGd1lVOFRLWko5cDF0MmxnVl9VQ29pQlZLV2p0VWFRcmNmWUV1aWtsT0dRMkZnQS1xWUx5OGJnQWZuczlBQ0hHcEFRRDBVZFlR?oc=5",
-              "source": "헤럴드경제"
+              "title": "“트럼프 세무조사 영구히 차단” 초유의 대통령 셀프 면책 논란",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvN3dwWDNVbDY0Rm5hUTJRaGg0Z3pHOUdzUkcta0tOc2RPUjQ2VWxkMlhHSHluNFpURlMyWDhkNnpFekVhOUFtcV9GYXZfR3ZYLWt5TTNR?oc=5",
+              "source": "중앙일보"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "사과",
-          "count": 2,
+          "word": "삼성전자",
+          "count": 3,
           "articles": [
             {
-              "title": "스타벅스 '5·18 탱크데이' 논란...오월 단체, 사과 방문 거부",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiaV9JR3J4ZG04Y1R5UFVCNlEtTWM1aHR4ZHZmSXBfRHF0Z2tlS2ZvSWU0cmtrbzlUc0ItdFMwM0lBLVY5d0tTMF9iS1lqSTEtVVp3QnhET1ZHUjNQUHc?oc=5",
-              "source": "YTN"
+              "title": "삼성전자 노사 협상 재개... 노동부장관이 직접 조정",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkZvZU1VSWZTaUJFa3k4akw2akJNdVl6ZFRYdjBEd1l6RmhwWkVyazA5ZGNZWTBubkk2ZWZpVGxuSHl6SVBGWC1tQ0pzalRoZEliZ2s4TUpwZFJBVDN2ZnBlQlEtd2RYVGhOX0FfZVhmZ1hXZU9Ibm9hdXA0ZDlJQUVB?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "필요",
+          "word": "미국",
           "count": 2,
           "articles": [
             {
-              "title": "삼성전자, 노조에 “파업 시 하루 7087명 근무 필요”",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lNzd3cGlLQnZHWWJQQkVaTkxJdXgzQi01M3RtbkNBWUFHWjl5dUlHMWJGeUpQNmh4YWQ4RGNJSUxZdkxXZEhnV1NWSkdEY3g2UDZiWg?oc=5",
-              "source": "이투데이"
+              "title": "“트럼프 ‘미국 우선주의’ 탓에, 한국·일본 더 밀착”",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUHFCcENFQjdSYm4xZ1phV05xZm1Hc2FrVzNXNzBsRTM1RjNXVFdUYWJ4UnBHNFRmWG1INE41dkJtSzM1bWdOSjFhVVM3b2F3c0F0X21kN0VweEk0dGtab1NWbFFPM2pWQVJic0NtejVRbmhRaDl4eEZUV0dyQzZhQjNB?oc=5",
+              "source": "한겨레"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "감소",
+          "word": "노동",
           "count": 2,
           "articles": [
             {
-              "title": "국내은행 1분기 순익 3.9% 감소⋯비이자이익 급감 영향",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmR01JY2pNZ0lmNWxRTWxFVjN6eG1jRVNiM3AwcUV6OGpWS0tsVEJJMGtsNTJBUEV3cXNHX29HbEdxbVcyUklEb0Z5NG80SmFTUXVDcw?oc=5",
-              "source": "이투데이"
+              "title": "노동장관 직접 나선다…삼성전자 노사, 극적 교섭 재개",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HNGJwbEN1U1RNX2o4bGVHX21XeUdXV3JSOGxwODVQWFJXckpiNERkQlNnRDZCYkpyN1Y1bi0yZkZkSE1EWEVEVi0xR2pXQ0NqM2lkbzZLSEY2VkJDaXhLd0hXcWg?oc=5",
+              "source": "한겨레"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "트럼프",
+          "word": "조사",
           "count": 2,
           "articles": [
             {
-              "title": "'연회장 건설 강행'에 '주식 거래 의혹'까지...코너에 몰린 트럼프 [앵커리포트]",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zTEpXR0ROdHduQzVZY3VsRjlpU1cwdjcxbkg3UDYza3VWaXVkMElHNy12WVFYdHFXSU1jUjhqZDBTWGxIcTVsQ25NOWFSNkZzX0ttM2hlczRhX1VKaFE?oc=5",
-              "source": "YTN"
+              "title": "10년 간 ‘0’이었던 연방소득세... 트럼프 “영구히 세무조사 금지”",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMWZBU2RKcXBMOXJ4MWYyc1F3bnlOVmVVMGRuTU1tRzZfQWFSeUhLSlJDVlc3eFIzcHJNWDYyLVY2TERMMTJ4WW1GeDBHMTRPakRMQ0ZCUHRLZE40Z0hNRjhOUXMyYmNEdkRUSVhWZk1LdVpwLXRiMGY0U2tUdU5fX3d3NGtLVFR0bFRqRkctcVZzUnFHQXBuNmg1ZTdvdw?oc=5",
+              "source": "조선일보"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "키라스 'TA TA' 활동 성료로 초긍정 아이돌 입지 강화 · '어서와 한국은 처음이지'에 '케데헌' 감독 출연",
+      "summary": "송가인, 케이팝퀸 1위 수성·YG, 흑인음악 흡수로 K팝 외연 확대·'케데헌' 감독 '어서와 한국은' 출연 예정",
       "keywords": [
         {
           "rank": 1,
-          "word": "아이돌",
-          "count": 14,
-          "articles": [
-            {
-              "title": "키라스, ‘TA TA’ 활동 성료…초긍정 아이돌 존재감 각인",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YeGlGVEc2eDdlbUFwX3Z5WWpLRW40bmREQXJCUnByUnJLSUJ4eWoxMVhGZ2NSVDgyLXA3elQwTTNSZTJDVGp0cFAyOHB1S09VRkRpczgwWnFMM29MTUFDdkoxU08tWVRsaURaYkl3?oc=5",
-              "source": "스포츠동아"
-            },
-            {
-              "title": "키라스, 'TA TA' 활동 성공적 마무리…'초긍정 아이돌'로 성장세",
-              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWmFHcGZ1bGlTbll4TjZkWEo4dFREeDhXb0N2NEZaWS12cU5oaFc1Y0pPYWN6cnJZR05EdW1pSGd3S09Dd2RDbThmcGZ1T0Z1NFhKVUJPYkxKQVNQckt3TzhLX2s4eF80SWZpSGJTMWgwb1BOSThJbGw0amFwMENiQmJaUG5rUG5MbGc?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "KIIRAS (키라스), ‘TA TA’ 활동 성공적 마무리! ‘초긍정 아이돌’ 정체성·글로벌 성장 가능성 확인",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5djJTQTlRbWlnVUMzQklfU2UxcHcwM3BwRkdpdG8ycE1XcGUwVVJCWmtFdU9xY3lSRDNHY1lMdDAtR2p2NkNWcktYOUp1T0xYbmg5dktOYnotWmND?oc=5",
-              "source": "아시아뉴스통신"
-            }
-          ]
-        },
-        {
-          "rank": 2,
           "word": "케이팝",
           "count": 14,
           "articles": [
@@ -110,13 +88,35 @@
               "title": "“내가 노래가 될게, 넌 나의 일기가 돼줘” [마지막회]",
               "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56N01zZVhONFFJLVFOWkpBbTludmRrSmZxTl9LRHNsaktMVzM2dFhVeXJKWFhyZUtCZHl0NXlfOHVTZ0dnLUttZHNsNTRfXzBaa1oxQkVEcmlIUE5UWTVjcW5lNHp3ZmF6VkduUktZOWgydw?oc=5",
               "source": "한겨레"
+            },
+            {
+              "title": "송가인, 케이팝퀸 1위 수성…김태연·김의영 팬덤 추격전",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YZ2tjZmh0Sloxc2tyUG11bDdsSk9MZXpfVUdFem1uaktpYkQ4QzdSelZqMTM2UnZndUV1VldibV9vUDFrcU9QOTZnNnBpenBBeE5BTFlyLThCdU1LMk5JRk9fU1BnTHJ6MkhlNTlSN2N5QQ?oc=5",
+              "source": "톱스타뉴스"
+            },
+            {
+              "title": "다날, 월드케이팝센터와 K-팝 중심 외국인 결제 생태계 확장 나서 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43TzNhWXFUcERsU3dKeXFYZUtlNUtjWkdjbjhscDBuU0xhdEZoaTFMYkpVVEJfeF95WFVxY1RMbDNfS3I4VkFrc2gySi12SDFETm1ieHY2akJHWk1UZW1iUnZta1k3VE1L0gFuQVVfeXFMUE5yakhpNlZZNTVOZXpUSWpXbDhCTnFVVXUzamYzNmZmQlNMZ3g5WWFhejJVc3BPSl9pQ25EdjNqTlVUYkxhNXctYm1GbzgzdV94QUx0aGtlcXdmSTZ4R3pKdjNjc1ZqeDNiZ1VrN0E?oc=5",
+              "source": "머니투데이"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "아이돌",
+          "count": 12,
+          "articles": [
+            {
+              "title": "흑인 음악 흡수·아티스트형 아이돌 제작…K팝 외연 넓힌 YG 30년[파고들기]",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1na2NaMHNNaVlrckkyVTdvR3FtYmxrR2dOenRjS29iVWQtYzR4WU9Vb2E2UVU0RDl4NzVxMHdFZGZTc3RRbmFMZzJpUDByd0I0WXc?oc=5",
+              "source": "nocutnews.co.kr"
             }
           ]
         },
         {
           "rank": 3,
           "word": "데몬",
-          "count": 8,
+          "count": 9,
           "articles": [
             {
               "title": "'케데헌' 감독, '어서와 한국은' 나온다..1600만 흥행 감독 게스트 자처 - 조선비즈",
@@ -128,12 +128,12 @@
         {
           "rank": 4,
           "word": "헌터스",
-          "count": 8,
+          "count": 9,
           "articles": [
             {
-              "title": "‘어서와 한국은 처음이지’ 케데헌 토크",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JTFZUZFFLczFJcjFyU0tLTTNsQmZmSmlVMi11RE9wMEY5WklveEVhRlVyYksweW1CZVVWblZoVkRtakIyYXBqZ1luQXROcVhJMjNWMk90NmlseGF1b1JXQks3X2I?oc=5",
-              "source": "bntnews.co.kr"
+              "title": "몽골 '헌터스FC', 명예구단주에 이상기 케이컬쳐진흥원장 위촉",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvZnhoOHdMSTItS25XUkNycThvVWMtVVh3VVI4ZWVuUnNRZmM2MTdoNEVGcGh3cUpZcEFfMERUODRpS0RRc2c?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
@@ -143,7 +143,7 @@
           "count": 6,
           "articles": [
             {
-              "title": "‘케데헌’ 이재 “격동의 세상, 서로 더 공감·연민해야”",
+              "title": "‘케데헌’ 이재 기조연설... “격동의 세상, 서로 더 공감·연민해야”",
               "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGVab1JTTUllV2hGdEhyVEc0YUZzbGp0cy1BM1JwdExRMXlkSjZOa3llOXpuZkdEY0EzYWdZUkQ3SDFwa1U5cUdsWkFoRjUxQl9oX2NqX052UFlMMzlZdHoxMzlFLVlJNmFQNmxVcUJickhOd1JOaWVOMVNZeVFqbV9IdTJKSFNOWlp2Tw?oc=5",
               "source": "조선일보"
             }
@@ -152,51 +152,51 @@
       ]
     },
     "경제": {
-      "summary": "환율 1512원 도달, 미국채 금리 19년 최고 경신·코스피 8000선 아래로 후퇴·부동산 임의경매 급증",
+      "summary": "미국 국채금리 급등으로 코스피 3% 하락, 환율 1500원대 진입 · 올 1분기 아파트 거래량 급증",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 36,
+          "count": 35,
           "articles": [
             {
+              "title": "美국채금리 급등에…코스피 3% 빠지고, 환율 1510원 돌파",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKeTB1WDVTNzFLeHA4enlFczNKUEczMlB2RWdsOFVqc2dQejloTFdvNkFOeWdnVlFoMEpqd0h2VWZQNjh1WE9RNjhwRGRXcmpOcDN2QjhTdFcyRjh6dXlNbNIBeEFVX3lxTE5jZ043bW03MXoybnVfdDJhNGgyMnZFeGVma0pCWGdMdEZtMGI5eHFPT0t6cW9BVmV2VzRpMkdxU2xNMURUakotVGt6UWc2TFlLUW92YlJ1dl9qLTQwX0ZEX1htQWxDWWtGbEZCekVTbW1uQW5TM21sMw?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "다시 1500원대 환율에…정부 “펀더멘털 대비 변동성 과도, 필요시 적절 조치”",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OVnBETFYwbl91c0hQcUJXd2RJM0dJdkFpN1pNNW1FN2tUclZBblBUNG5hMmRXYmVobEo2NkZTRnpURk9rSjl1S0tHc3BQcFAwaUw5eW9qSnJLb2ZCUGoxcWlVVk9zaHRKUVk2Z1Y0RW5Kdw?oc=5",
+              "source": "한겨레"
+            },
+            {
               "title": "환율 1512원까지 치솟아…美국채 금리 오름세에 달러 수요 늘어",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10Z3hUMXdoVEo1T2dSRHc0d25NS203Sm9Sc1h2VHA4eXBBSW03RzlhX3FhNzJwQy1nX0F5QmNPdlJHVlg0X2xXbV9GMFllTXM?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "中·日, 美국채 줄였다…\"중동발 에너지 쇼크에 환율 방어\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13YzA3MWt4dEJ3aENHTjRsQ0hqeWJGWjRUWkxtdFZ6WjBKa3E4NGNjdXB1Z3lkS0l2aXFjQktVcW5sdmVZWVcwaE4wUnF4RTVzN2x5Yy00Q1NzMENhVkVRYtIBeEFVX3lxTE5GbU53SWp5dDRXWW5XLWNxM0cwYkVQZ0hUYmdmdkVmbVN2aW9fRFlydmhHaXFKUmhzaFM0eV9qRGZoZlNsMTE4YW9idUhiSm14eW9ES3V5aVlYSjF3RUpSblQ1aW1JaUFrQjljODQxZmpGRDhTTXVIVg?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "코스피 3%대 하락, 원·달러 환율 상승 마감",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FbmgxeURCQlJ5X0xzT2g5SW9TblU4SFo0VDBSTHNNMHZONkROMWpJSDRNV3htaHJBS3BYZEVmVHhsZS1xTzZ3aDVQdGtPa0Nqc1oyNFd3WUs4WmRUY2treA?oc=5",
-              "source": "뉴시스"
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yWm0zb0M3Si1yZTdCQ05hVDVZY1UzLXJuRzh3TldkYi1XRldkR2hTN0pGWFprWEhQMXgzX3IwQlNaWFlLWi01dHo1QVg5Y1A1cWJaR1loaWFSSlFLOXpYYkFiSUg1eXdyRENWOUtPRFdtZGg1V0HSAWZBVV95cUxPMUVVc1dacjVKZnVsRnA4RTR4VFhtU2ZPUlZsTnVWRHJXWXV2bjhvUWE3WWdFczZIbnZfUWcwdlMzMFVhQ29YbDJTZ1FmcTMtNkItQmhIS0NSYUg0dnhOLWZSRldsRUE?oc=5",
+              "source": "동아일보"
             }
           ]
         },
         {
           "rank": 2,
           "word": "금리",
-          "count": 34,
+          "count": 33,
           "articles": [
             {
-              "title": "[속보]뉴욕증시, 일제 하락 마감…美국채금리 19년만 최고",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wemJxM3dQNEo1aDh6bWNZZElyZGlhLV9GNnpIaU5OTHFaY1NTbnE4ZGJqVVhzUlNWaWNOellYS05jWUh6ZkpPTzVqTXBuWUZM?oc=5",
-              "source": "문화일보"
+              "title": "인플레이션 공포가 밀어 올린 美 초장기 국채 금리…2007년 이후 최고치",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM05NUm5qSWhEQ3l0a0NGOTA2VXdub0I4Sm41Rmt1U1doQ1ZuRTJGM1hiOGR2cnZNLVQ5RG1FWUU0ZXhWMUcwcEJKNzFVWmR0ZXQ3R1JoTWt6cGgyM1ZKSTZBLTdVZVhwX1NvTXJwVXNoVmdwVDNlanE0QVdBSVpJdUYzSHRGdm5XT3NZdS1Vc21mMlp4YTJLQ3g3UFlYdw?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 3,
           "word": "코스피",
-          "count": 29,
+          "count": 30,
           "articles": [
             {
-              "title": "8000 찍고 휘청이는 코스피...개미들은 상승에 베팅",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUIyQkZILUFMWWxiUWJUN3B2OFRNYUVycV92VzFocjQtcEt2VHpUUnpYbW83d1JqaVVkcHhpZzZKTzNaOTRLX19zTXo1ME5CWU1IYmJoU0RTT0FLbFIzSWF0YVpITUM0S0JDTUFfRVo0TXlnLWJoRzlMRTJhMTl4Tw?oc=5",
-              "source": "조선일보"
+              "title": "삼성전자 파업 위기…코스피 7200선 턱걸이, 환율 1500원대 안착(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xMWxkNWFvdl9jRkRHdEZGZTZfbFRvbHoyOFl1eHc1YWdxZlBaeWlfcHdURjRwMkxBb25tdVlwQm1EcUF6N1lOYVVnOWg3RkhIY3hOWGdCcDZJNmNVVWRpZtIBeEFVX3lxTE44c1NuWG5GN1U1TW5GRGlUNU4xakU4T1g2QXNRaF9zVGdBdENnTF8yVmlIMzVSZUFYRlRRWC1zOVpMUkt3Y2RUM25FOGx2RXlJWGlJdmlycjNYSy10SDBzaC16UUZ6bXJ4VTVpdUVvQjl4UjhiaGYycQ?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
@@ -206,9 +206,9 @@
           "count": 17,
           "articles": [
             {
-              "title": "\"국내 증시 수급 '외국인→개인'으로 머니무브\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BUG42ZlkycE5Qa2I0ZXhOMk9LS3NEeElDeVdDbnhEUklWZ1BpTzB1dkhtVjFFQlgtVFRYTkZ3SDNzeXNFc0k0cDhNNUVVQkJMcV9yYXh4OUxQWWNEUkUteHJoZjU0b2o00gFuQVVfeXFMTUt3ZmxTcjJYZVdqVzUzUzNTS1F6Q3M0c3cwTnpzTlM5VVRybXRQUnh2VjE2WXlNS3drclY0TGx4YUg0bjhsNzJ3TVRLSk0yUW9BZm4wTTZfTEg1LVh1Y2FqTjB3cV83Z215bTE5d2c?oc=5",
-              "source": "머니투데이"
+              "title": "“반도체? 개미들이나 사라”…韓 증시서 84조 던진 외국인 ‘뭉칫돈’ 몰린 곳",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12dThHcmVmaWtpNUpKckh4NGxIS0NLY0Q1elJIYUxKXzBkX2dCUHRhMk5pMnZ2T0lzY2pHeDZMckF2dVIzajB5cldNLTU3YzlFYnfSAVNBVV95cUxNTGs3M0JlRUItUXlETTdQUm9CcjRoNkJBNFZXWG9YU0U3Mk9YaXZEYU13Uk03aTV5WHRKWnRUam1GM1dnbnIyNTRiR0NGOWwtYWdLQQ?oc=5",
+              "source": "서울경제"
             }
           ]
         },
@@ -218,9 +218,9 @@
           "count": 12,
           "articles": [
             {
-              "title": "이자 못 갚아 임의경매된 부동산, 대구 넉달만 1천건 돌파",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NODRaUUlzU2t2bm5aQmYtWDBTZl92a1Rvb3kzUmlhUTd1d3AzTXpnU1d2cFZQQVcwVUhLb3Q1SWhlZGxQRmdhUlZnQXdpSy1qNjVjb3Bpd2RWc1FDdW84T21yal9kQ1dqNERn?oc=5",
-              "source": "영남일보"
+              "title": "올 1분기 아파트 거래량 58.6% ↑… 경기 부동산시장 ‘벼락거지 시즌2’ 간다",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuUXM4V0poRTlwTmlyWFlfbFRQSEJjbUxsTWdmLXdRbFFZSGtZRDYxeEp4V3hYZE1iSXFWT1ZEQ0t4STlINkRFdnk0ZUx2YnN2ZlE?oc=5",
+              "source": "경인일보"
             }
           ]
         }
