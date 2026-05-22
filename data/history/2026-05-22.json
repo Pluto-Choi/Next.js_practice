@@ -2,87 +2,87 @@
   "date": "2026-05-22",
   "categories": {
     "오늘의 이슈": {
-      "summary": "트럼프 쿠바 개입·폴란드 병력 증강 추진 · 광주 스타벅스 불매 운동 확산 · 삼성전자 노사 극적 합의 · 이준석 대통령 소방청장 감찰 지시",
+      "summary": "삼성전자 노사 극적 타결·미·이란 합의 초안 임박·환율 급등에도 시장 차분·엔비디아 12분기 연속 신기록·이재용 사과",
       "keywords": [
         {
           "rank": 1,
-          "word": "트럼프",
-          "count": 3,
-          "articles": [
-            {
-              "title": "역시 내가 나서야 하나...트럼프 \"60년 만의 쿠바 개입, 내가 할 듯\"",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvQi05RUFoUU4xUlBadm1Fd3hJSXpGTEVoRUpHWlVTS0ZxYWdna0FPTkJMaGR4S2Z6OVBWbjlQRWhVT2JvbzRob0xjVlNxVEwtX2Z6Mg?oc=5",
-              "source": "JTBC"
-            },
-            {
-              "title": "트럼프 “폴란드에 병력 5000명 추가 배치”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05V2ZqUWhJZThOM3R4TEk4QjV6SlloT0FId3ZXakM0aGtzenFjSDB4Q0NHVVZ4dnRvSTJHZmNUWTFEUGJzMTVhNUVwOUgtYnRLNldtczFZczFPQdIBX0FVX3lxTFBreXFCZXBBSkJ2TjUwSmlLQ0Zsa0ZyalhSR1h3Z25wUmRrSTdjWXRnWDVka0pHcm4ycEc1TlYySnZHaFk5cG51WjUwb3Jid01INERpLWl6SFdmek1ka3pN?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "유럽, 폴란드 주둔 미군 증원 환영…트럼프 일방 재배치 경계도",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZNmdWMW1IckRvODBwQzVKZmdJcGoxa1RBSnBKN2xpUjVnY1FJdTdJOTljZlJtcXRuX3NYaXgzZ2dLWllFZFRZamc4QW5UbGs?oc=5",
-              "source": "v.daum.net"
-            }
-          ]
-        },
-        {
-          "rank": 2,
-          "word": "진짜",
-          "count": 2,
-          "articles": [
-            {
-              "title": "“진짜 사람 없다” 광주 스타벅스 ‘썰렁’…사과문만 덩그러니 [현장]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kNFREcWtQUEgxR1J0dXl3T21YQjFrcXVHYy1hZEZYRlN1b0lrWDhieXVadVJtbXIyWFFOU2hLdUZTVmRVZzFUekd3a3JCUG9wNWlEdVdqelpQX0puMXlfZA?oc=5",
-              "source": "한겨레"
-            }
-          ]
-        },
-        {
-          "rank": 3,
           "word": "속보",
-          "count": 2,
+          "count": 3,
           "articles": [
             {
               "title": "[속보] 파국 막았다…삼성전자 노사협상 파업 전날 극적 타결, 노조 “총파업 유보”",
               "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjY05OM3JTSmJUQUV1aWdyYmU0OGZuUTEzc0hTYWNaaFRDeUxxTi02ek9vOEtJQ2JRNzJGa3pjSEVhSUFfQVRDaTVudklNVnRxSU1TeGJB?oc=5",
               "source": "매일경제"
+            },
+            {
+              "title": "[속보]사우디 매체 \"미·이란 합의 초안, 수 시간 내 발표 가능성\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRbVdCMjJXaGxBbEk0bXp6c1dHdmo0d3FQajdwN2pvMldIbkxjU3pPVnFzZHVtUml4V2MtMmwwNXBsekRIOGN1MDBYSk1MWkRUTkVzSUdDa1lzZXhiMWVnadIBeEFVX3lxTFBTMEw3S2NvWlp3d2NXMXI1WDUtYmpBWldYVEo4UHJPT19nbnhtVEFZRnRRcjZ4bzZhWTNfY0tWQTgwYkZhQ05RMDE0V1N2TlVkNjBoaWgtTUdvOFdJM0RhWGdpOXVkLVZSMFNCMjVTeWlUMlptXzZQXw?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "[속보]뉴욕증시, 미·이란 협상 기대에 상승 출발…나스닥 0.6%↑",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LTRNOVl5NXFaMzlZNHdacDFUYndyZDVJTDUxcWFTa1JUR1luZkVsN3oyME5oYXVjZV9RekRfNlFkSTJtc05WV0tvRDVuNUdzY2tXbFo5YXdrSFJkTlFsVtIBeEFVX3lxTE1jR0JWTzZudVFpQnp0R1R2MHZrakNsNlFwRGpfYjNuVlV0cnlMTnFGQkNYbEpIQjFrSHp3cnl0eEpjc1hscEdUM2xtSzg0SV8yQVlQc2ZWeGhfRkt0bWdBbllnUjRqdU1UVEN1X25EZ0pjOHEtbV9XUQ?oc=5",
+              "source": "뉴시스"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "이유",
+          "count": 3,
+          "articles": [
+            {
+              "title": "환율 1500원이면 나라 망한다더니…한국인들 차분한 이유",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSWh6cXp1SDI4Y1FxWEthNDRIc0k3VnZwUVdnMGRrRzVXV2hjamFPMmFlWGtuc2Zrc2Y2d0JMXy11WExfWjhHVk9ZZ0JIb053dm5qa04xWlFsUdIBVEFVX3lxTFAtUXhtMGF0R2Q0eWhXdnBsRUVOaUpSLThuSGhsVDFEenp2VVBIXzg2MnphWm1DRVZDbXl0NjNUQjVFam04WGdmZXlyellqWUlLMVRycg?oc=5",
+              "source": "한국경제"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "word": "대구",
+          "count": 2,
+          "articles": [
+            {
+              "title": "대구 선거 등판하는 박근혜…23일 추경호와 유세",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80MWdYNGhpMDlvZzEyQy1EOTloWmxKS043Y1NDXzl4WFlvUUFPNjRlYXREUDloMmtibXJtbDlHLVhVSWlpQXdNUDhndzFsTkk?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "착수",
+          "word": "종합",
           "count": 2,
           "articles": [
             {
-              "title": "[단독] 금융당국 국민참여성장펀드 ‘2차 물량’ 준비 착수",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMzEzcXQ2RmdsTHBZYnF2a0FndVdLOUlxbzlHOXBTWUE5b1NYTXl0YWNFN200R0ZQdV9zM0dRd08xZTlOY3QtUjRYQjAwUEQ1UW90WW54cHdTYWM?oc=5",
-              "source": "KBS 뉴스"
+              "title": "엔비디아, 12분기 연속 매출 신기록…주가는 약세(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56Z0dfZHd6UXZjUzhMZ1RFNnhrMHN6cHlGYXUtbHp6SHF3cnFSRHhTMjJjdnNHc3QxS0tLeDcycWJJRVBOV3pHTGVSVnZoVDBWTGJsdmp4WFFLbzjSAWBBVV95cUxQaHVMd2V1VGVVcW9IOVNxRFg5VzJDLXg2c2ZUQnN0ZVFsVkRZX3lPc1Q0ZE1tdWc2V2gxRW1sSDVfUk9KZEdKdkdHYzVGenl1UE5TQW5hSk5jWmhFX3FIclE?oc=5",
+              "source": "연합뉴스"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "지시",
+          "word": "논란",
           "count": 2,
           "articles": [
             {
-              "title": "李대통령, 소방청장 감찰지시…개인 비위로 추정",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYkFkWTRiaGxTVU9uY1RKZEpEb0tQQ3JDMVIzWXdFMHNTcDUtZ0s0UlpOZFhoejRCQmhaVnBsS2N4WlhyS09WSGRkWnBPQXRHSG81WWRMck1BMnUxYlRZZ2ZsaEtyRnhaVE4tV2FJTWVDYzNvcVNZckRjV01xMXY5RlNoeXdtZWYxRlpUeFV6a2M?oc=5",
-              "source": "조선일보"
+              "title": "\"모두 제 탓\" 고개 숙인 이재용…'탱크데이 논란' 정용진은 어디에?",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZTlpHYVBfSmRYa0c3c0VLdkdkT0VlcDk5RjFHMFVpMlkzaXdCSDRGWG13SU0xY0NLR1FPVUtrbURkX3l5Rm1JNjVhanpjc3c?oc=5",
+              "source": "v.daum.net"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "아이돌 체중 강요 논란 · 케이팝 데몬 헌터스 팝업 서울 오픈 · 샤이니헌터스 해킹으로 편의점 정보 유출",
+      "summary": "아이돌 연습생 극단적 체중 관리 강요 논란·케이팝 일본 공연 증가·샤이니헌터스 사이버 공격으로 편의점 정보 유출",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 16,
+          "count": 15,
           "articles": [
             {
               "title": "170cm에 42kg 강요…'前 아이돌' 도이, 지옥 같았던 연습생 시절 고백 [마데핫리뷰]",
@@ -90,9 +90,9 @@
               "source": "v.daum.net"
             },
             {
-              "title": "아이돌 공항패션",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjNUViWHhwNVU1NnNqNTF0aUIzQ253TzcyVGliMmdEbFFkc1VZYWd2VGduTG8yc3hWNnQxakJ6UzFIblhJRFBlbGpUeUVDVWZIVThHM0hXRmtLRGdiR1plT1RXY2dtTF9oTnRWdjFDUVlHRTQ?oc=5",
-              "source": "네이트"
+              "title": "[에듀플러스]세종대, AI 버추얼 스튜디오 개관…“버추얼 아이돌 공연도 실시간으로”",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VN0FKME9vV2pTSWFLTEZzMGZ2X1ZXSk50RVZUYWpjd0FvOVdzXzBYajAtU3gwbXhiajVKS2RyemdLQlctOFJPSmJ4Ull5dw?oc=5",
+              "source": "전자신문"
             },
             {
               "title": "'아이돌 노조 추진' 방민수, 소속사와 이미 계약만료",
@@ -107,9 +107,9 @@
           "count": 15,
           "articles": [
             {
-              "title": "비마이프렌즈, 케이팝 데몬 헌터스 팝업 서울 오픈",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0aFlCOFpVaFJCT2dZUWNUN3lfUF81R3kzS0U3cVFYSVFTMDhUQ1ZZWVdPWTYtVTdhc2ZNRmU2akdoWkh5Q3ZIcjM2T2h1M0RLdV80Q1FyVDlLWGFvNGt0V3VuOGx5UldhYm5J0gFvQVVfeXFMTW1EVWsydzExTjhHWmhrYnlUQVRZWHlVRUdEWW5IV1Bua1hHczUydDlvMmJLLWU5bkFteElnQlBHbk96VXF1SGxCU3VpTzFnZTkycG53NzdjS0hRYlEtQnRLcVcxblNSWmQ3OVVlYzFn?oc=5",
-              "source": "한스경제"
+              "title": "일본에서 더 많이 열리는 케이팝 공연…이유는",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42UmJjeDhRTDhzbUVKR2hJMzRvMzFDcFU4YzFhVGlWWWNjSUJ3cUdsOFVtdzhOb2VfTmFoZ0dIakppXzdnMWJ0cmc3YVRVZTlMUG9FNnZxT0N2UDAwSVVkdU5LWm9FN2VXb0E?oc=5",
+              "source": "SBS 뉴스"
             }
           ]
         },
@@ -131,9 +131,9 @@
           "count": 9,
           "articles": [
             {
-              "title": "'케이팝 데몬 헌터스' 1주년 공식 팝업 서울서 포문… 아시아 9개 도시를 시작으로 팝업 나선다",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZdE9LMVJpRGNfLUt0UDR6SkdFSFlCbDE5Xy1LOXl0QU0tY0FoZmpCaE4xTFFpbWxTY3p4cGxTOFdleTRtX1FZTXRLc3R6QW1WbGU3NC1rdnpLSHdMZnpRY2pOTThucWNqSkE?oc=5",
-              "source": "뉴스에이"
+              "title": "비마이프렌즈, 케이팝 데몬 헌터스 팝업 서울 오픈",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0aFlCOFpVaFJCT2dZUWNUN3lfUF81R3kzS0U3cVFYSVFTMDhUQ1ZZWVdPWTYtVTdhc2ZNRmU2akdoWkh5Q3ZIcjM2T2h1M0RLdV80Q1FyVDlLWGFvNGt0V3VuOGx5UldhYm5J0gFvQVVfeXFMTW1EVWsydzExTjhHWmhrYnlUQVRZWHlVRUdEWW5IV1Bua1hHczUydDlvMmJLLWU5bkFteElnQlBHbk96VXF1SGxCU3VpTzFnZTkycG53NzdjS0hRYlEtQnRLcVcxblNSWmQ3OVVlYzFn?oc=5",
+              "source": "한스경제"
             }
           ]
         },
@@ -152,7 +152,7 @@
       ]
     },
     "경제": {
-      "summary": "원달러 환율 1506원으로 안정화·코스피 0.41% 상등 코스닥 4.99% 급등·국민성장펀드 기대감으로 개인투자자 중심 ETF 매수·국민연금 130조 수익에도 매도 어려움",
+      "summary": "외환당국 환율 구두개입 · 외인 폭풍 매도에 코스피 출렁 · 국민연금 주식 수익 실현 난제",
       "keywords": [
         {
           "rank": 1,
@@ -160,19 +160,19 @@
           "count": 35,
           "articles": [
             {
-              "title": "환율 장중 1520원 근접…당국 “필요시 단호 조치” 구두개입",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkJIZ0VhZHhieDg5WVNuWjloaGNMRXRRT2lWRUd2cFhReE0tSG9FMFo3Zk1pMUJQU3pYcGwxVVNrajZ6TVhoMFA4MTFwdFhSVzc0VFRwNThvYkUwV1BScHRSUzFMWDFyQ3VPSmx2RDZyXzVqaHBHT0dFUVhHbzk3eTQtYThNckQ2S2xyLU9B?oc=5",
-              "source": "국제신문"
+              "title": "[속보] 외환당국, 환율 구두개입…“필요시 단호 조치”",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VUlh1cjh2Rk8tMG1TcjAyQ1lNN1pSbGEwSHp4ZTc5azhib1BSNC1kWXR1ZjdUSG5fNW5feTJVQlpNQ2RYbm5xRGkxc2Y5S1A5Yi1tOGNTQW5rRUM0QzlyYzBxblNXc2_SAWxBVV95cUxNX0tQOWRyc0hVdXJIdVNtd1BRTDF2WGxlWmxLODI0bEh3aDQxaXNRLVNIbERJU3M5RFBDMHdvMGpmdTd6UWVjS0NoRlhGRGNLbWE3cFNCdi1TbDZQZXljVU8ybGo3NWpXM0JsX2Y?oc=5",
+              "source": "국민일보"
             },
             {
-              "title": "코스피 급등 7815.59 장마감, 원달러 환율 1506원",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83aWJ4Z0FwNnQ2dXI0bzNPdXk2NU5HRkNJRVdyUlIwd0VESmVlZ2Y4SDZDSFNWNEdkemIxWFFuWV9WUlpzUlBuX05xMkhBSkw4cDk1LVp3Tkk4MkV2QlVtYg?oc=5",
+              "title": "환율 1500원이면 나라 망한다더니…한국인들 차분한 이유",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSWh6cXp1SDI4Y1FxWEthNDRIc0k3VnZwUVdnMGRrRzVXV2hjamFPMmFlWGtuc2Zrc2Y2d0JMXy11WExfWjhHVk9ZZ0JIb053dm5qa04xWlFsUdIBVEFVX3lxTFAtUXhtMGF0R2Q0eWhXdnBsRUVOaUpSLThuSGhsVDFEenp2VVBIXzg2MnphWm1DRVZDbXl0NjNUQjVFam04WGdmZXlyellqWUlLMVRycg?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "원달러 환율 1505.60원",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsZXNwd01kWXVleXI0QkNHN19iVmxydEJkV3FUZnJWS2tnWnNjWXlaaDJEM3VEVzJ5cWkzUXRzSmdvWjJYOW91blZqandnS0xMVk5aZWtyTXJNeFZScDl5eA?oc=5",
               "source": "뉴시스"
-            },
-            {
-              "title": "환율 하락 출발했지만 1500원대",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tbk5nZG5nLWpoWEJVeUpkamtPcm5zVXd6SkNZT1JBLTZScjRIdl9wNnk2M01DUnJ4amduZktLS2MtUlJtVUlscGNqUQ?oc=5",
-              "source": "뉴스1"
             }
           ]
         },
@@ -182,9 +182,9 @@
           "count": 30,
           "articles": [
             {
-              "title": "코스피 0.41% 상승 숨고르기‥코스닥은 4.99% 급등 \"국민성장펀드 기대감\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40LWVYX2RsSmJmSnVWY3JaMm9DNWgtNzdZMm11ZTFGaFZIVDFJOHNnTmZoekx6M0NTOGZENGRvNUdGRUhVZkxKWU1tUEpiUVBaSlBDUUg3ZExpb29KcXVJeWlJSWxva2FtSks2b2JqM0Iwd0J30gF0QVVfeXFMTVZnT0MyZng1STdEQlFuNTUxci1TdlRQTWNNenBySjd5UVBaSTN0RC14clpNU181S0tzZHJfblNfdHNWWkxkdnJDbjFMUGFWeHN5aWFnRnNJTG91UFZxY2pLMEFRaC1qbkpuSHhBWE5pdE1ianM?oc=5",
-              "source": "MBC 뉴스"
+              "title": "\"장 열리자마자 던진다\" 외인 9300억 폭풍 매도...코스피 출렁 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15bm5kRlhhOTg4aGtmZ1UxMmxnY1RWd1RXZnEwS3ZlZFlhV3NJemNnWnBsZG1QR0p6djItWVF2ZjdVRFJFMnJtNm1QamprWkVVWFQ3RGliRFAxakU3V1VGLVFSVk0xZDlG0gFuQVVfeXFMTTlZSFRkcURUWFprSGtCUFBvREh5dmZhaDliempoZW90UkdtLVBvOUlMZ0Y4SDhIRWFkVzhsTGpfRVhiWnVtcGR1d0toUUVIdHZqZVEtdUExQ2xFRXRmUk5kc1FlNVBzeHpWaXUxRlE?oc=5",
+              "source": "머니투데이"
             }
           ]
         },
@@ -194,9 +194,9 @@
           "count": 27,
           "articles": [
             {
-              "title": "트럼프 “내버려 둘 것”…금리 인상? 케빈 워시 연준 의장 취임",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NbnlPYmpYRHRQOW1GVWFvUFVuSG5YWnozNFNsWkZzLU93cUhuUVpnU0hXUzFwOElRVFhtWWZpMGEyZUU5eTJ2czcyUEZjbmo5WEpXLVBB?oc=5",
-              "source": "중앙일보"
+              "title": "美 국채금리 인상에 투매 급증…美 채권시장 '흔들'",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02V0RpR1BjeVhQSzlLWXl1bXJRaWQ5TGNNc0FaOE9EM0tHRDMzX2VqOUJlN1RwZXFDZEtIeTcyUkIxT0Z2N1duaHhRem41MTM2Q3c?oc=5",
+              "source": "노컷뉴스"
             }
           ]
         },
