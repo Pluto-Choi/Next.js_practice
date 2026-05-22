@@ -2,143 +2,119 @@
   "date": "2026-05-23",
   "categories": {
     "오늘의 이슈": {
-      "summary": "이란 미국과 종전 협의 진행 중·삼성전자 초기업노조 내일부터 파업·정용진 '탱크데이' 논란 수사 착수",
+      "summary": "미·이란 협상 진전으로 뉴욕증시 사흘째 상승 · 트럼프 쿠바 개입 시사 · 삼성전자 노조 잠정 합의 · 검찰, 관저 이전 특혜 수사 가속화",
       "keywords": [
         {
           "rank": 1,
           "word": "이란",
-          "count": 3,
+          "count": 4,
           "articles": [
             {
-              "title": "이란 측 \"종전 협의 아직, 이견은 좁혀졌다\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43VlotSjJxb1VTUGNSYmU1bHVrU1h6aFEyekVYeXBBLW96bXY5Y1hRNU9YZlRNTG9UTXlfdUFJNmNsVGxCdk1WSmtaSjd1M2JsRmpySTNmczVaNlp5dUxiR1VuSjk2TURU0gFuQVVfeXFMUGZzVnJuR0FIdS1KTUlDSTc4SWhxZmtrc1B5SndUSU0wODhBcXZYNHplREIzRkRVT29EcEswS0o4TWptNWR3R2FEd0MwSXdQQUFrS1YyTE4xbVFlcEgwYWdMcnI5V2MtRjhuc1pRZ0E?oc=5",
-              "source": "머니투데이"
+              "title": "뉴욕증시, 美·이란 '협상 진전' 한목소리에 사흘째↑…다우 또 신기록",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iczlGZFVPQkM3QnFHOGhSMmFJR2VXMGozaE1NZmw3RnpuRFRJQ3BsemJZTUU4Y09xZEVPaVpKOWNKd0tlWHNZZ1JGTnJBOU52b1BWd2Y2eW5JTkNZMnRMSzBCUEpkVDFKeEFHOGhWMWFpUQ?oc=5",
+              "source": "KB Think"
             },
             {
-              "title": "이란 대표팀 월드컵 비자 \"긍정적\"...정치 구호·세리머니 '금지'",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RR3hGNXp4VEdRYzZXeTJmeFNaTVhSMkk0eUFreTRNYkI1TjRhdy1KQ1hNUTg2dFpELTFWeVlBaFd5NkJibnpqZUpvcDdWV1JYcjVtS0hkTENHU2dFWlE?oc=5",
-              "source": "YTN"
+              "title": "뉴욕증시, 미·이란 종전 합의 기대감에 상승 출발",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sSDBDYlFUWWtleG0wckpyQ0hwZEVEd0o3TVZ0djMxMGU1YklFNXR6WERVbERaLUlKdXUyZTc5UWhoQnJ3WjJZb2Z0RnV2c2FsOUhKU20xay1wQdIBX0FVX3lxTE90TUZDZ1JhVDVNbHZuenhoZzVDWndoeW8yVGJfbWh2QXIyQWxBT0xDS2xGZ21yX3lOTXRoRFAwLVhDNjJCZmpNXzBKZV9TRUtXS25XMGM5S2IzZzJlNjNz?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "이란 \"美와 의견차, 핵문제 논의 안돼\"…합의 임박설 부인",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjVVFxQWxmODZRcHBJNU1XSXlKTm8xS3ZUbHVHOTlXcTBtd3dlTXdlUG9JRUF0UFA5OWNvZ2tZRFNWMGtOT2huRVN3OHVFeV9OX1M4bmM5b3RlaUHSAWBBVV95cUxQWklqejZreGtJbG9sTjBzbHJCTXlNQURfZGJtZTNUZWZ4cWJpVGU1Mk9vSHl0RWVUZkJhYVoyQkRVLUFicENITnJYZXNzVUZHUFAybmVGX2FmZmkyWHNMekg?oc=5",
-              "source": "연합뉴스"
+              "title": "이란 휴전 기대 이어가는 뉴욕증시…다우지수 또 최고치(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VMGJRME5lUDQ1QkZlMGRCWEJqdWV1S2tRY0Y1WjlqR1NwOEU1ZGR0cVFMQk9NR24wbklyQW5DbTlZdzlfa2UxMXF4WEJYSGM?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "속보",
-          "count": 2,
+          "word": "개입",
+          "count": 3,
           "articles": [
             {
-              "title": "[속보] 삼성전자 초기업노조 \"사측 조정안 거부에 내일부터 파업\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jWnJzeGR4bVRDbWg0NHV2MUdkNmNGMDRJNU5tRGZFS253TmZBd3ZCWDJObjhlaDRmbTBGQU10bE1VWTM1bDVyajk2c1gtdndQMUlMV2ZqQTJZakc3QmRGWHlnVVg5WHR2OGlFZk1HdGpMaVh40gF0QVVfeXFMUGwxcnVYWGpTaWNmTmJLR1lxd3VfaElVSUFGdEdoazZxOGQ3RlZBY25JcmF6VGRrSWZ0S3Eyc3hLRGN5SktfM1NJRm4yemVtZ25qVE5GVmZaaldycmluRzRvSVhGbHBKYWFEV2tZQ3d0ZEpfRHU?oc=5",
-              "source": "MBC 뉴스"
+              "title": "역시 내가 나서야 하나...트럼프 \"60년 만의 쿠바 개입, 내가 할 듯\"",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvQi05RUFoUU4xUlBadm1Fd3hJSXpGTEVoRUpHWlVTS0ZxYWdna0FPTkJMaGR4S2Z6OVBWbjlQRWhVT2JvbzRob0xjVlNxVEwtX2Z6Mg?oc=5",
+              "source": "JTBC"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "수사",
+          "word": "속보",
           "count": 2,
           "articles": [
             {
-              "title": "경찰, ‘탱크데이’ 논란 정용진 수사 속도... 고발인 조사 착수",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWFFTTlZJdFE5ei0xRW5vai1STDNLU3F2Y0htZ0lJQkhQNGJfWEJRemlvbm9GbjdpQjNiSHlOTFJNai1yWjgtaFBYMUFxWlNBNllXc1F0OXlCQ0lqa1BmcFdFQUZmQWRMa2ZVbi1XNW1BbC1xRXdVVlpaU3l1em54ek8yZGc2dlRCRzVucXBMTzE?oc=5",
-              "source": "조선일보"
+              "title": "속보 삼성전자 노조, '잠정 합의안' 세부 내용 공개",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SSVl1LVVSX3FUR1FuSDJjaF9kUE1CZXR2dk52RjEwQk91Z0xaTW9jR1pOU0Y3SEdCdUdUeUZmQnJsdDRzRFlGR1BpdFJndzEyQThwSkdaOHFVbXBTT3c?oc=5",
+              "source": "YTN"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "호르무즈",
+          "word": "종합",
           "count": 2,
           "articles": [
             {
-              "title": "미국·이란 종전합의 근접했나…사우디 매체 \"호르무즈 개방 합의\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iajlMRmhIOHRvVE9WTEpwdTBxNXJRZVA0dWs0YjZqLV9JODJQZ3F6ZmpGNWFDLW1zS2R2LTk5eTlDTVhXY1ZqTUFhOGNWZUdhR2E5MnY3WXAwNWlObkx6ME9uZ09zakpu0gFuQVVfeXFMTmpTTWxuTno0MExRRTFiYmtLb3JjYzltZHl3ek1ZNmFlbDhhLWVlRlhQRG1TOERKbkxPam5WeWxrZzlFRmlqd1dKZnJ5OXNzUGdsbzRwYVkwbHZZUVVNb1k1bWxNSDVqNXkyUnVGc2c?oc=5",
-              "source": "머니투데이"
+              "title": "[속보]‘관저 이전 특혜’ 김대기·윤재순 구속…김건희 겨냥 종합특검 수사 급진전",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vMldkYmo0SEpodGhUTlRYRTFFRG9fX1lpSlRWVHNmUWtHdGlTckFLZERjajNMRUhEYmI0bjktUzNEVkVTNmtBTktTa1hMY25SejJHTjBzOWRaQdIBX0FVX3lxTFBINlNwbXBaMnpmQVVCVXdvYzFqcTZSZmdLREtrVzN5X1F0Njl4bXloV1RkallDYk5MWWZQbU1iQzlsMzJfN1M2SzFSdTBpeWR4LTQwa2ZfXzB6WmF6UUhJ?oc=5",
+              "source": "경향신문"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "보수",
+          "word": "특검",
           "count": 2,
           "articles": [
             {
-              "title": "이수정 “오늘 중으로 스벅 인증샷 올리세요”…한기호 “스벅은 보수 아지트”",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81dGpQVVlwaG1lRl83MlJULUlFUDlzNlZhQV8wWXNzdnAySXZMdmFidnZrdDhLZ0d5VnN0TS1RWEtDc2twSi0xSE5XUHRzTXBfcTJtQUE1R24xMmZhZFNleDFWMjY1LUpGOGdiM0pxVDlpMUFR?oc=5",
-              "source": "한겨레"
+              "title": "[단독] 특검 “임의제출 우선” 압수수색 영장 집행 논란",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtbHdxVTZNeTd3dW1lU180MFdfU2pFVXI4QlREckE5TjVNNF8tUHltQXhLOTdqNEQ1MFAwSUlwNVYyRzhLVFBuMGFxeE9zaTkzQXhGZ3Fxckgzc0IyUVlBU3VrSEh3bHJha2d5WkN30gFyQVVfeXFMTjlFV3l4T1VnZG4yeFd2QmJOUkhaaG45djFjQ2laamVWZWxxMHpPVFZrb1lUY2xuLTk1dmRiaTlUd2pSeHBuVEVUUmY2MVVTN21pOE0xYUxobHF4QTI2Qy1NbVYwSGtHM0k3SjRLMDJ3Qkxn?oc=5",
+              "source": "법률신문"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "케이팝 공연이 일본에서 증가 중 · 전 아이돌의 극심한 체중 강요 연습생 시절 고백 · 샤이니헌터스 공격으로 가맹점 정보 유출",
+      "summary": "아이돌 체중 강요 논란 · 아이돌 노조 추진 움직임 · 일본서 케이팝 공연 증가 · 해킹 피해 확산",
       "keywords": [
         {
           "rank": 1,
-          "word": "케이팝",
-          "count": 16,
-          "articles": [
-            {
-              "title": "일본에서 더 많이 열리는 케이팝 공연…이유는",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42UmJjeDhRTDhzbUVKR2hJMzRvMzFDcFU4YzFhVGlWWWNjSUJ3cUdsOFVtdzhOb2VfTmFoZ0dIakppXzdnMWJ0cmc3YVRVZTlMUG9FNnZxT0N2UDAwSVVkdU5LWm9FN2VXb0E?oc=5",
-              "source": "SBS 뉴스"
-            },
-            {
-              "title": "“내가 노래가 될게, 넌 나의 일기가 돼줘” [마지막회]",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56N01zZVhONFFJLVFOWkpBbTludmRrSmZxTl9LRHNsaktMVzM2dFhVeXJKWFhyZUtCZHl0NXlfOHVTZ0dnLUttZHNsNTRfXzBaa1oxQkVEcmlIUE5UWTVjcW5lNHp3ZmF6VkduUktZOWgydw?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "비마이프렌즈, 케이팝 데몬 헌터스 팝업 서울 오픈",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0aFlCOFpVaFJCT2dZUWNUN3lfUF81R3kzS0U3cVFYSVFTMDhUQ1ZZWVdPWTYtVTdhc2ZNRmU2akdoWkh5Q3ZIcjM2T2h1M0RLdV80Q1FyVDlLWGFvNGt0V3VuOGx5UldhYm5J0gFvQVVfeXFMTW1EVWsydzExTjhHWmhrYnlUQVRZWHlVRUdEWW5IV1Bua1hHczUydDlvMmJLLWU5bkFteElnQlBHbk96VXF1SGxCU3VpTzFnZTkycG53NzdjS0hRYlEtQnRLcVcxblNSWmQ3OVVlYzFn?oc=5",
-              "source": "한스경제"
-            }
-          ]
-        },
-        {
-          "rank": 2,
           "word": "아이돌",
-          "count": 14,
+          "count": 15,
           "articles": [
             {
               "title": "170cm에 42kg 강요…'前 아이돌' 도이, 지옥 같았던 연습생 시절 고백 [마데핫리뷰]",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92Z3ZKdFdlUWk2NkppRU00YmxmOFlRZ1pKWWgzYlV3Q25kdmp0aTd6QXpLZ2U5dTVmMTMya3J5QTN1WmxVam9FRkdWekFPbGc?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "'아이돌 노조 추진' 방민수, 소속사와 이미 계약만료",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XQ3dpbE15VGdSNjRHSHNjWnlETzF2UW1FREI3ZGRUdXNLM0k0eDRMNHJWZThPQ3dYR0E1RmxxckN5ODhWaGVPb0R1ZVM3c0x4Mkl4eG9saTNFZnRpQ2pwWtIBeEFVX3lxTE5pdjZ4QTJTSktFa2RWQjNqekZEWE1QTFE0Vl91TWotTHBsQ09tN0tTNlBYQUVOU3FlLTdzRU1rMk9lOVdTcEt2S1hZbWJDUmNWYXVoQnRDRkY4X3FVTWtnU3A0emZoV3d2RHl1S1ZiZXl2WnY4T2docg?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "[에듀플러스]세종대, AI 버추얼 스튜디오 개관…“버추얼 아이돌 공연도 실시간으로”",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VN0FKME9vV2pTSWFLTEZzMGZ2X1ZXSk50RVZUYWpjd0FvOVdzXzBYajAtU3gwbXhiajVKS2RyemdLQlctOFJPSmJ4Ull5dw?oc=5",
+              "source": "전자신문"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "케이팝",
+          "count": 14,
+          "articles": [
+            {
+              "title": "일본에서 더 많이 열리는 케이팝 공연…이유는",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42UmJjeDhRTDhzbUVKR2hJMzRvMzFDcFU4YzFhVGlWWWNjSUJ3cUdsOFVtdzhOb2VfTmFoZ0dIakppXzdnMWJ0cmc3YVRVZTlMUG9FNnZxT0N2UDAwSVVkdU5LWm9FN2VXb0E?oc=5",
+              "source": "SBS 뉴스"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "데몬",
-          "count": 10,
-          "articles": [
-            {
-              "title": "워해머 40,000 팩션 집중분석: 카오스 스페이스 마린 및 카오스 데몬",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTRpTklQVlJvSWVZbkFIcktaZFJWZ1lYcmJUb0F4eU1lZUxKeVFydUZ4WDN6YVZSOWcwQmJuREtLN0tWMGE0QjBoNldHZUwxOTJjczJsVkdBbnV0UHBJcEtKeGVDVE0wTDM4Ym9HeXhqSFZORGpZM0R1dEw2eE5zVGJOaUFid1JYTXF2Yk1PLXR2RzE4azJRdWpLYzlIT2tYQ0w3V3hrSGFfOXo4ZHVxS1BCMDNMaGhhWG9RZGYxTkx4YTA4eDRN?oc=5",
-              "source": "Warhammer Community"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "word": "헌터스",
-          "count": 10,
-          "articles": [
-            {
-              "title": "“세븐일레븐도 뚫렸다” 샤이니헌터스 공격에 가맹점 정보 유출 인정",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vMEI1UElmZm9GampjTm9tZlhYMTFGTHpNVGItaVAwcGdTek1tS3c5Z2dpeTFfRFZJRFlUYThHOURqNWxOSVNsTm5jNWUyYzc3d3BaUEhIVWdGTHJheUZMZA?oc=5",
-              "source": "보안뉴스"
-            }
-          ]
-        },
-        {
-          "rank": 5,
           "word": "케데헌",
           "count": 9,
           "articles": [
@@ -148,11 +124,35 @@
               "source": "머니투데이"
             }
           ]
+        },
+        {
+          "rank": 4,
+          "word": "데몬",
+          "count": 8,
+          "articles": [
+            {
+              "title": "비마이프렌즈, 케이팝 데몬 헌터스 팝업 서울 오픈",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0aFlCOFpVaFJCT2dZUWNUN3lfUF81R3kzS0U3cVFYSVFTMDhUQ1ZZWVdPWTYtVTdhc2ZNRmU2akdoWkh5Q3ZIcjM2T2h1M0RLdV80Q1FyVDlLWGFvNGt0V3VuOGx5UldhYm5J0gFvQVVfeXFMTW1EVWsydzExTjhHWmhrYnlUQVRZWHlVRUdEWW5IV1Bua1hHczUydDlvMmJLLWU5bkFteElnQlBHbk96VXF1SGxCU3VpTzFnZTkycG53NzdjS0hRYlEtQnRLcVcxblNSWmQ3OVVlYzFn?oc=5",
+              "source": "한스경제"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "헌터스",
+          "count": 8,
+          "articles": [
+            {
+              "title": "“세븐일레븐도 뚫렸다” 샤이니헌터스 공격에 가맹점 정보 유출 인정",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vMEI1UElmZm9GampjTm9tZlhYMTFGTHpNVGItaVAwcGdTek1tS3c5Z2dpeTFfRFZJRFlUYThHOURqNWxOSVNsTm5jNWUyYzc3d3BaUEhIVWdGTHJheUZMZA?oc=5",
+              "source": "보안뉴스"
+            }
+          ]
         }
       ]
     },
     "경제": {
-      "summary": "환율 1520원 경고에 외환당국 구두개입·외인 폭풍 매도에도 국내 ETF 자금이 증시 지탱·금리인하 어려울 전망",
+      "summary": "환율 1520원 위협에 외환당국 구두개입·외인 폭풍 매도에 코스피 출렁·금리 인상 신호에 증시 변동성 확대·빚투 강제청산 역대 최대 규모",
       "keywords": [
         {
           "rank": 1,
@@ -194,16 +194,16 @@
           "count": 28,
           "articles": [
             {
-              "title": "“케빈 워시의 연준, 트럼프 기대에도 금리인하 단행 어려울 듯”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50TjdMd0pjclYxOTZsdVBfRlRZT0lJb3REWmZzakgwX1h4cURRdHFVVllNdGpqWVdJWGRRVmVRNUJuRGxIeTJVUm1TR0E1R28?oc=5",
-              "source": "v.daum.net"
+              "title": "트럼프 “내버려 둘 것”…금리 인상? 케빈 워시 연준 의장 취임",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NbnlPYmpYRHRQOW1GVWFvUFVuSG5YWnozNFNsWkZzLU93cUhuUVpnU0hXUzFwOElRVFhtWWZpMGEyZUU5eTJ2czcyUEZjbmo5WEpXLVBB?oc=5",
+              "source": "중앙일보"
             }
           ]
         },
         {
           "rank": 4,
           "word": "증시",
-          "count": 14,
+          "count": 15,
           "articles": [
             {
               "title": "‘동학개미 시즌2’… 외국인 매도에도 증시 판 바꾼 ‘ETF 머니’ - 조선비즈",
@@ -218,9 +218,9 @@
           "count": 12,
           "articles": [
             {
-              "title": "국민연금 1800조 육박…수익률 효자 국내주식 늘릴까?",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50dVRsR2lmYXlBTTdaQUczN1pETkk3OVNad0JKVXhRVDg5Mlg0ai1jYVkwYjdWYjZYZ1Z2aVVzUXpsZ1dvWUYzbnZuX2hTYWdiVkVObTJWamVTNHc?oc=5",
-              "source": "KBS 뉴스"
+              "title": "“결국 올 게 왔다” 빚투 했다가 강제로 주식 팔려…‘1458억’ 역대 최대 규모",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lZ1dQMklscEpRRzVMcHZLeXdmQ2p3akd1bEpJQnVuRnRsWFZjUFkySUtpdFhOYmc0WEJMS0NwQ21abXRITmtFaFlIWldhNEE?oc=5",
+              "source": "v.daum.net"
             }
           ]
         }
