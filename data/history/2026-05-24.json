@@ -2,10 +2,32 @@
   "date": "2026-05-24",
   "categories": {
     "오늘의 이슈": {
-      "summary": "이재명 대통령이 스타벅스의 세월호 추도식 당일 사이렌 이벤트를 패륜 행위로 비난 · 트럼프 장남 결혼식 불참 · 북한 여자축구팀 아시아 정상 달성",
+      "summary": "이재명 대통령, 세월호 10주기 추도 중 스타벅스 사이렌 마케팅 비난 · 대법, 문신을 의료행위 아님으로 판결",
       "keywords": [
         {
           "rank": 1,
+          "word": "김부겸",
+          "count": 3,
+          "articles": [
+            {
+              "title": "추경호 손잡고 시장 방문한 박근혜, ‘김부겸 만나나’ 묻자",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fMHR0X2NLVzNySmV5MUUxU0hHZ21JVWkydDNYb3llYmZWSENwS0toYWNzZzBZOUhUeXlVRzNUcUd2TmJSVWhWdHRnUnZRNl9FMnVRSA?oc=5",
+              "source": "JTBC"
+            },
+            {
+              "title": "김부겸 “정부 움직여 예산 확보” vs 추경호 “대구경제 살리기 올인”",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tTi1RNEs3NDE5Y2ppZUF0bk1WakhuajF3RFdYSUxpaG1HVE5FUGM2REFUNTBseFFSejBGOUFIRUtxbjVUMUphUDRuaXBoSFE?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "박근혜 선거판 등장에 반격나선 김부겸 캠프…\"보수결집하면 대구경제 살아나나\"",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jZWJKM25CSFdWN1UwaTlfYnV4S3lxN2Z3dW02cVh4c2lUb1pULVVCeVhTUU9KbXVzLWFYNy0wckc3TWFrMVE?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 2,
           "word": "패륜",
           "count": 2,
           "articles": [
@@ -13,22 +35,24 @@
               "title": "“악질 장사치의 패륜 행위”···이재명 대통령, 이번엔 스벅 ‘4·16 사이렌 이벤트’ 맹비난",
               "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ldEJUdDBVS2wwR0s1WTJBeTJMZk15SGVxNXA3Zkd2dFRrQ0ppX2hRcGhGMV9PZU1ReXhYTUdsakNWUjdTaGI2RzhmMTRqRm93SmloZzFRTVFhZ9IBX0FVX3lxTFB0M1VWWVRDZ0lFMmRSZk5yX3ZMc3RIVnhxZUFnTnNxejg2TmtrUFpYbDlCMWhKS1ZuRkdRRmlCZnJ5ekh4cXdOVXNCUV9GWkN3X21jY19XOGxVTEI5WTM4?oc=5",
               "source": "경향신문"
-            },
-            {
-              "title": "李대통령 \"4·16에 사이렌 이벤트, 패륜행위\"…스타벅스 또 직격",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4WTlpNldkZ0FCWV9VaTFDb2NwckZBcHdZWUpYWmd3YlZOem1xMnJkazRBMEtBVHYzVXVxbk5uSUFYaXZwVEZkRkp5SGs2VVFjZWw1eHMzWEZHZGh6VmRaVdIBYEFVX3lxTFA4WTlpNldkZ0FCWV9VaTFDb2NwckZBcHdZWUpYWmd3YlZOem1xMnJkazRBMEtBVHYzVXVxbk5uSUFYaXZwVEZkRkp5SGs2VVFjZWw1eHMzWEZHZGh6VmRaVQ?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "李대통령, 스타벅스 또 직격 \"4·16에 사이렌 이벤트, 패륜행위\"",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeDVpUkVWeTMtVVJ1Z0dqSUZvc3pjSUdoelNobi1VOFFpWmVZZ1hrRTZxSVMxdFBwNzBnTWdFSlhJVWViZ2FqYTNFTmlSNzNtUUpQcFUyRUV1QWxVdVRPTlhjdHlWRWVmdlMzaXl6RVpVR0ZocUtmbF9IcF9fQUh6ZFlWYkJvZThBT0o2TmZwaUQ?oc=5",
-              "source": "조선일보"
             }
           ]
         },
         {
-          "rank": 2,
-          "word": "스벅",
+          "rank": 3,
+          "word": "행위",
+          "count": 2,
+          "articles": [
+            {
+              "title": "[단독] \"문신은 의료행위 아냐\" 대법 판결→복지부, 문신사법 개정 검토 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vMk1BWTNDZG41NEtsRFVXY1hBeWtVLVl2Mk1KV1RfQWpzSXhBMGdMcm1VU2hpTTlVZmxfN19CUF9KUk9COUpjN2RhVmxrLTBta0lGamhTdmtJakNhZllQcDBwZ1FUZmRDUkHSAW9BVV95cUxPVWdFQnJ3VDJkRW1ESjYxYUlETlpSTWNhSmU0ZmZRdGRkZ3ZCU3FfNjZacWxFYjZVaFdBdDA4VmEyNUlobml6WGprMF9xdkpWTkIwd3RycjR0Um12YVdDc3oxTmYyd3QzVWRobE5Kd1E?oc=5",
+              "source": "머니투데이"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "사이렌",
           "count": 2,
           "articles": [
             {
@@ -39,60 +63,36 @@
           ]
         },
         {
-          "rank": 3,
-          "word": "사이렌",
-          "count": 2,
-          "articles": [
-            {
-              "title": "이 대통령, 스타벅스 또 직격‥\"4·16에 사이렌 이벤트, 패륜행위\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tcDh2bEJqRVlMV1VHRkZlMnRRWVRPSEdmaEtLUVExZWU5UHo5eUFDYUt1UmZ5RmdkcGsxb2VWT3dzaG9QWVoySzdZbmNOd2ZfZTRIRjMyRFNrdkJRdkVnMTR4Z1ZNZUpYZmdMRzBBT1QySC1OeFk0RNIBeEFVX3lxTE9OUjlvaWhQVHpHUjhfQ0VfNGI1d1hiVWhRUUctbDNzM3VfdmgtQXpFbUdPMWc2Qi1CQ1RqWlkxelhjWi1pbGZpZms5YUdiWVRWbk84QjZIbHM3UmtPX2tTOWwwTUNqcjB1RFVZMGpsLVJlbHhoRXluSg?oc=5",
-              "source": "MBC 뉴스"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "word": "트럼프",
-          "count": 2,
-          "articles": [
-            {
-              "title": "트럼프, 장남 결혼식도 불참…“美 ‘공습 재개’로 기울었다”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qa19rQkNuS291djI4d3VaczNuaG9XSkVzNTJydW9ySmtUMmxMZHdBNkdRWFlTUW9nbG1vT3F0VGplcXMwLTJJN0wySm9URHVtZHVocHdR?oc=5",
-              "source": "중앙일보"
-            }
-          ]
-        },
-        {
           "rank": 5,
-          "word": "축구",
+          "word": "이벤트",
           "count": 2,
           "articles": [
             {
-              "title": "북한 ‘내고향’ 축구단, 아시아 여자클럽축구 정상…도쿄에 1-0 승리",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ga3NyaENPRWNaaU5qaFZsbE8yS0l4RDlTMGVfYm93bkNtOVp4Y19udEtaQjdKSHRYdjRNR2N3ZW90d08yTHVrbi0zeXBZVGhnY1JTNzE2T3pQQdIBX0FVX3lxTE03WG16Z0wyREgyaS0wYXduR2ZEWVRueVFOcVNMMkR4NUlVNFI5eVJVSE9mN21KU3FObWVXTHN2OUZELUNuSmlyZEkzT1BSLTlMa242N0YzRG4zYU92RUw4?oc=5",
-              "source": "경향신문"
+              "title": "李대통령, 스타벅스 또 직격…\"싸이렌 이벤트 악질 장사치 패륜\"",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDUHlPZUZ5QVJtWFczd2c4SkNVRzl6RFQwSHZwVnFFa2Z6V0phRDVXemxLUldabGRqODk5U3VhWXlYTzRvTlE?oc=5",
+              "source": "v.daum.net"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "아이돌 과도한 체중 강요·논란 발언 논쟁 · K-POP 결제 생태계 확대 · 편의점 가맹점 정보 유출",
+      "summary": "아이돌 논란 및 연습생 인권 문제 · K-POP 결제 생태계 확대 · 케데헌 공감과 연민 강조",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 15,
+          "count": 16,
           "articles": [
-            {
-              "title": "170cm에 42kg 강요…'前 아이돌' 도이, 지옥 같았던 연습생 시절 고백 [마데핫리뷰]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92Z3ZKdFdlUWk2NkppRU00YmxmOFlRZ1pKWWgzYlV3Q25kdmp0aTd6QXpLZ2U5dTVmMTMya3J5QTN1WmxVam9FRkdWekFPbGc?oc=5",
-              "source": "v.daum.net"
-            },
             {
               "title": "‘일베’ 용어 쓰고 “불편하면 나가”…논란된 유명 아이돌",
               "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFVhNzc0YTFDdDVndFFING02XzB1UFJaWHdEUnRaR3hyVU1FS2Q2RWhfUGluZUJWZ3p6clFXU3I4Ml9FRDM4Tk1XMm9xX21hSHFraDNKamJPeThSREY1aGVvX2YwVU5tX3N5dzFWS2NIV1FPT2JZYmt4dDhCSHpXc3BlMFpBZw?oc=5",
               "source": "서울신문"
+            },
+            {
+              "title": "170cm에 42kg 강요…'前 아이돌' 도이, 지옥 같았던 연습생 시절 고백 [마데핫리뷰]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92Z3ZKdFdlUWk2NkppRU00YmxmOFlRZ1pKWWgzYlV3Q25kdmp0aTd6QXpLZ2U5dTVmMTMya3J5QTN1WmxVam9FRkdWekFPbGc?oc=5",
+              "source": "v.daum.net"
             },
             {
               "title": "플레이브 은호, 오늘(24일) 생일…아이돌픽 이벤트 주인공",
@@ -104,7 +104,7 @@
         {
           "rank": 2,
           "word": "케이팝",
-          "count": 14,
+          "count": 13,
           "articles": [
             {
               "title": "다날, 월드케이팝센터와 손잡고 외국인 대상 K-POP 결제 생태계 확대",
@@ -128,7 +128,7 @@
         {
           "rank": 4,
           "word": "데몬",
-          "count": 9,
+          "count": 8,
           "articles": [
             {
               "title": "워해머 40,000 팩션 집중분석: 카오스 스페이스 마린 및 카오스 데몬",
@@ -140,7 +140,7 @@
         {
           "rank": 5,
           "word": "헌터스",
-          "count": 9,
+          "count": 8,
           "articles": [
             {
               "title": "“세븐일레븐도 뚫렸다” 샤이니헌터스 공격에 가맹점 정보 유출 인정",
@@ -152,7 +152,7 @@
       ]
     },
     "경제": {
-      "summary": "환율이 1,520원 근접하며 당국이 단호한 조치를 경고한 가운데, 외국인의 폭풍 매도로 코스피가 출렁이고 있음. 반면 개인투자자의 ETF 투자가 증시 판을 바꾸고 있음.",
+      "summary": "환율이 1,520원 근처까지 상승하며 외환당국이 필요시 단호한 조치를 예고 · 외인의 대규모 매도로 코스피가 출렁 · 국채금리 상승으로 S공포 확산 중",
       "keywords": [
         {
           "rank": 1,
@@ -165,13 +165,13 @@
               "source": "연합뉴스"
             },
             {
-              "title": "환율 1500원이면 나라 망한다더니…한국인들 차분한 이유",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSWh6cXp1SDI4Y1FxWEthNDRIc0k3VnZwUVdnMGRrRzVXV2hjamFPMmFlWGtuc2Zrc2Y2d0JMXy11WExfWjhHVk9ZZ0JIb053dm5qa04xWlFsUdIBVEFVX3lxTFAtUXhtMGF0R2Q0eWhXdnBsRUVOaUpSLThuSGhsVDFEenp2VVBIXzg2MnphWm1DRVZDbXl0NjNUQjVFam04WGdmZXlyellqWUlLMVRycg?oc=5",
-              "source": "한국경제"
+              "title": "환율 1520원 위협...외환당국 \"필요시 단호히 조치\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpc1k2OVlpRko1ZUFuYWt1cU4wR21qb0RERmFLX01vOTAtMENzaWdxaHAwV2JvdllHcHpwYUNFc1pTeGlyeXR5Z2t1SDBNWEhmZFFDWl9mTGl6NzlJQkxxYzdoSVF5QXByaE5N0gFwQVVfeXFMT21mV3JGMTZnZ3NvOUN3UGdSNkpiRkdnX1JaNWZQelI4OS04RFRraG1zRnZESm1KdEx2ZWlQTXNVeWI5cTFUMUtqQVlJNnlCc1R1ajlDaXpVQjBOaGVFeVF6MHV1RXpNVUJxa2pZX28zMw?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "원·달러 환율 1520원도 위협 …“도대체 내려 가질 않네”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SOEczV1ZFQS1vdDRENU1BdEdObmYyN3BYd1hjQXFyYVVYTG5lVE1ob2Z5OVlMcmVBdDJqbllMUlVtWDBkTXJYdVkwWW1nQW8?oc=5",
+              "title": "환율 1500원이면 나라 망한다더니…한국인들 차분한 이유",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YWVUzVUstWDY3cUdJNmd0aVk5RHF3VXdpc0VRaTBvY0F2SUd6bTY3SkMxVGZaZXJUOXIxUlUzb2lRRVdUeHV4cnJGQ3hSVE0?oc=5",
               "source": "v.daum.net"
             }
           ]
@@ -194,28 +194,28 @@
           "count": 26,
           "articles": [
             {
-              "title": "S&P500, 중동 협상 기대에 8주 연속 상승...美국채 금리도 안정세 [데일리국제금융]",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMSUx2bWRka1pta0VDSVRONGdKRDNWc1gtUXl5OEN1NUhsTHltNE1mRGMxNkE3OTE0ZlhORF9ySjVYb2Q3Q2tESnNzaWY3LWF5a0HSAVNBVV95cUxNcnY3YlcyMTBfYXg0dVBnZ0EzZUYxN05yYUhFRE01T2xteDAtZEp4TkJNMllWVUFNYU1yWm5RZE5KZVBJc2FXWE9WOW9uMU9fUzYxOA?oc=5",
-              "source": "서울경제"
+              "title": "국채금리 발작에 고개드는 S공포…AI 열기로 증시만 호황",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SWnA2aFpreXY4YlB5d3ZPN3FScTFobjRSTWxTOWhLbHFXdjNTdEZMVkRkQmxnMUIyUEwxYWYtR2k1UEFBczlmeG4tVlgyNlRaMlVRa3BR?oc=5",
+              "source": "중앙일보"
             }
           ]
         },
         {
           "rank": 4,
           "word": "증시",
-          "count": 13,
+          "count": 15,
           "articles": [
             {
-              "title": "‘동학개미 시즌2’… 외국인 매도에도 증시 판 바꾼 ‘ETF 머니’ - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDBMUzRyZ1ZWekRKNFcxbWZpSzdBclQyUTR6M3ppdTd0ZlVSRWlzM3FyTDhnLWhSQkZiUnBrekZmMjZoY1NMYTRkR2o2SzA4ZjVBOFdWWHBYREdSdk9lanZDcmFNM3FsNW1FcWpjbU05S0hiMllpeTYwXy01VUhaXzZ5SURrWWk30gGcAUFVX3lxTE54Y0FybUJ6X1lBaTlmMGhKWF80UnAtQkJKUTJyV3pzanVONWtadWE2NFU4NmFFOVJCTWRWNW5aZFpsQnFkUHZjaFhEa0pJWW9OWlExR0lYRVM1MTRvS09nbmRZdlBRSHBlaFhSUVVvZmxkN0NUNk9BanVqbF82QWF0Vzl2LXBqVzJTczBKYVBWOUFYZFBGSGkzQ2YxdA?oc=5",
-              "source": "Chosunbiz"
+              "title": "'삼전닉스' 팔아치우자 증시 휘청이는데…증권가 웃는 이유",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ybmUySzZtempaRDlvV3l5dW0yVXh1Ti1iT1Q2bFRGaDlOTkhMRUV1UWhraF9fYnExelRFbjRQbHZHLWliWmhtTmtHcUVRMkZZNzYwalZ6TDhxUdIBVEFVX3lxTE90Um8tZ1h6dGozTDhnWk5CekVWVDJFcER3VnpGV3VFQkZTbk1MQk51U2o2TUdwWDFMZXpkUDc2d3lvUmdKZHR3Z295bzhKMGhMb2MtUA?oc=5",
+              "source": "한국경제"
             }
           ]
         },
         {
           "rank": 5,
           "word": "주식",
-          "count": 12,
+          "count": 14,
           "articles": [
             {
               "title": "10년 버텼더니 30배 벌었다…‘이 주식’으로 떼돈 번 미국 대학들, 비결이",
