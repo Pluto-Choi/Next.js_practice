@@ -2,56 +2,44 @@
   "date": "2026-05-24",
   "categories": {
     "오늘의 이슈": {
-      "summary": "미-이란 60일 휴전 연장·호르무즈 해협 개방 합의 임박 · 삼성전자 노조 잠정합의안 투표율 80% 돌파",
+      "summary": "민주당 울산시장 단일화 경선 중단으로 진보당 반발 · 삼성전자 노조 잠정합의안 투표율 80% 돌파 · 트럼프 종전협정 곧 발표 예고",
       "keywords": [
         {
           "rank": 1,
-          "word": "이란",
+          "word": "민주당",
           "count": 2,
           "articles": [
             {
-              "title": "\"미-이란, 60일 휴전 연장·호르무즈 무료개방 합의 근접\"",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QWmpfc2l4NkdZOHdPMUVOMGRlWklkVGFDbTQtaEdRT2ZZLVJpVnBoWEZwVTB4MDlRS0FhRTNTNHBUNFJseURvOHNkUms4dFlfSUw1YQ?oc=5",
-              "source": "JTBC"
+              "title": "민주당 김상욱 \"울산시장 단일화경선 중단\"‥진보당 \"납득 못해\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XZklxYl9fMHlPU0p2UURxVmhzMUJJZS10UUZMeHJLeUNtSDZKTE9jWF9ILVhUeXpfY1BxaWZuY3V1NXNGeFhqTGR1NUJ6THhEem9oWVlRbnNnR0JOTTVWSW1udVlISVhrV20yaF9id0F5Nk03Vmx0T9IBeEFVX3lxTFBhWEN3U3pQWWM2bEtvRHhWZUJuVTFvS29YcUozZmNDVXMtUHd0VGNkV2gxRUpOZVA3a1R4QS1rRldoWTVESHFOMlNBSTdHbDhwZzUzY20xdEFsQ005bWRPV3FrU0gwZzlmek54TkhWVWZJVGx1Sk42Yw?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "\"이란, UAE 기업 통해 중국 위성장비 얻어 전쟁에 활용\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HZ21yYlZqWFVSOUswYjN3ZWZ0Rnk2TV83NzNoTExXWVBzY1RiR2VpRUkzc1RIM1dSLThocjgySDBkdHdjUGJZUHY5dTh5Skk?oc=5",
+              "title": "민주당 경선 중단에 진보당 강력 반발…울산시장 단일화 기로",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LQ05LTFdlZHdJRTdSa3RNNFAtX1lrM2NxcHI4N3ZMemVfalQ0Z010dUNIVU00Q1d0NXRfREZ5eWFrMTZmcy0tUTdWYWZsNFdsYmptaWFqUFRfOWvSAWBBVV95cUxNQVRqOFp0eVo4bGZ3bXNzb1BSQ1pPRXM2UWV5TlE4WExGUHBSRmROYm5MREY3TUlJVTViNW9TWXp5cWRRMlUwSWx0OFZrd0Z3S2JvYnhEZVRUWDY5azZQTWQ?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "[속보] 민주당 김상욱 \"울산시장 단일화경선 중단…특정세력 개입 정황\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2QUU1S0lreGprb2FqM21saDl0OEJTcERsN0ppLUxROTQ5M1ZTbkNEZHVNTzFYSk1peldPb1dOTkk3dm9JT2YwYlBvcmUyNEk?oc=5",
               "source": "v.daum.net"
-            },
-            {
-              "title": "트럼프 ″이란과 합의 곧 발표″…백악관서 총격",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55ZHF4VXhoTUc1WF9iWjMzR0xqdlBqdGdIblJjcDNGdkJEdzlhcVBCU1lXRVFuRG9VcUJMaFMwcHBxOEY2YUhzUURySXZrcXRTRTEyTnd5bnVOX1RndmdCemhyNWpkcUE?oc=5",
-              "source": "연합뉴스TV"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "호르무즈",
+          "word": "살림",
           "count": 2,
           "articles": [
             {
-              "title": "휴전 60일 연장·호르무즈 개방...'타결 임박' 미-이란 합의 내용은 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RNVEwbGUxSVNtWnE2WXliVXVyTnQwYTJYb3ZiSjZkYnNYSjZKel90NlRRMjBpNkRvV0s5d2VnQUtSVUlIaTZmdlB5NTBtdUktQ19hcG5odHB0R2dtS2VmTzZENWJNWnF30gFuQVVfeXFMUHByNzBVaHhnR24xbms1dlJnaHVXQ09wbHdwVi1xcjVrZWZ5OUNIbnQ5YlBFOThYeldqRVFSa29POWZwWXRpNVp4UkJpQnhYZmdaQnZUOUxob2hScHB3ekpybGxuQ241QkNyYW9jaUE?oc=5",
-              "source": "머니투데이"
+              "title": "'살림남' 환희, 말 못했던 가족사 최초 공개…母의 담담한 이혼 고백[TV핫샷]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13dHZHeGdKTzdrV0VRU3ZxMDIzOHhsS2NPNkZIZjUtejZKNEZuUWtuT2J6Zk9tSmNocHJyS1BySGdxV0sxMWhCaF96RXhSN2c?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "안전",
-          "count": 2,
-          "articles": [
-            {
-              "title": "정원오 \"대형 참사 반복, 오세훈 안전 불감증 때문\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIaWhLSF8tRzJxSGlsRTMwWUxjcFcwbnZzN0pOWHJvRG5DRXpqZC01QWhmZXh0cXdsQXQ4RWRsbkMxYVNzSXkzYVJiRzFwYjBmRm43S3drWXg1TjdFVGNKc1R0WVNwd2Nqa0xoYWk1ZnRjN25FUkh1V9IBeEFVX3lxTE16SGFNV1FGWUhNUktJQ2VzVW9aV1hxRF9IU2V2QW1ubUVJbkljOHktcEwtZ0hzeEYzN1h2QmdGbFpQV0FVR1R3WmN0MGVycXctUDJrUzkzbExjR2w1a1g0bDNFdE13cUFQTTR5ajZSVERHcy1ndS1UZA?oc=5",
-              "source": "MBC 뉴스"
-            }
-          ]
-        },
-        {
-          "rank": 4,
           "word": "가능",
           "count": 2,
           "articles": [
@@ -59,6 +47,18 @@
               "title": "정부, 스타벅스 과거 '총리 표창' 취소 검토…\"수시 취소 가능\"",
               "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OZjBDa3VxaV82cFpISzFLQk02cE9FVktFZy1sOE55WmVheWN2c2kzTWxLTjIzVC16Z3JWY1ZkY3pQSXFLaTBFazl2Mjc4WG9BWXJlODVCZzVPdjTSAWBBVV95cUxQQWZpZXlUeXNCZFVFTXppQTNTdWxMYmNoNlI4b0N4cHB6eU1heVJzMmJCdWxIOUN1OUxPUUJHR29HN3VQbEszR0RUVFRlSkZTTi1xSE5VRE8tQkZybzkxSWc?oc=5",
               "source": "연합뉴스"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "트럼프",
+          "count": 2,
+          "articles": [
+            {
+              "title": "트럼프 “종전 협정 곧 발표, 호르무즈 해협 개방될 것”···이번엔 진짜일까",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fdzdiak9jQmoza3VKV29acVlGYU1LMzRQSUU2NkwxZUU2QjRuTHhDUUVMeUcxTHZfekJrdzNwSjF5M21zb2JneGFVaGlXQ1JZdW5hVmpYcE1iZ9IBX0FVX3lxTFBEczFHWUVieFA4QzFpREx0OERmUE02Q3BYY2txSzluVGp5cjdkeUJpaUVHV2NtbGVCY1VzR2dKb1gwVk1VQ1psMWJ3bkdaUFdYTjU3UVdFaGxkNzJNRVlV?oc=5",
+              "source": "경향신문"
             }
           ]
         },
@@ -77,7 +77,7 @@
       ]
     },
     "연예": {
-      "summary": "이준영 아이돌→배우 진출 응원 · 플레이브 은호 생일 이벤트 · BTS 공연으로 광화문광장 방문객 134만명 · 샤이니헌터스 공격으로 편의점 정보 유출",
+      "summary": "이준영이 아이돌에서 배우로의 전환을 언급·플레이브 은호 생일 축하 이벤트 개최·다날이 월드케이팝센터와 협력해 K-POP 결제 생태계 확대·BTS 공연으로 광화문광장 방문객 134만명 기록·샤이니헌터스 공격으로 편의점 정보 유출",
       "keywords": [
         {
           "rank": 1,
@@ -86,7 +86,7 @@
           "articles": [
             {
               "title": "'유키스 출신' 이준영, 돌연 임시완·도경수·박지훈 언급…\"아이돌→배우 많아지길\" ('하지영')[종합]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBQldsNFI5SlpjMVQwT1dNdjRlejV5U25pUzZJZjFzQUtVelh6SzdKTExrWUNoc0dYUVlac2RCUnJhZGpHSndZZjdEX3lfY2c?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5qdUo3ODhEOEtRNlNrb0pYbFllNENma0hwZlRyeG00TWEtUXUwQWl6U0JEbkQza3hHYy1hLW5SUW9Wcms0Q3c?oc=5",
               "source": "v.daum.net"
             },
             {
@@ -104,7 +104,7 @@
         {
           "rank": 2,
           "word": "케이팝",
-          "count": 13,
+          "count": 15,
           "articles": [
             {
               "title": "다날, 월드케이팝센터와 손잡고 외국인 대상 K-POP 결제 생태계 확대",
@@ -115,20 +115,8 @@
         },
         {
           "rank": 3,
-          "word": "케데헌",
-          "count": 10,
-          "articles": [
-            {
-              "title": "케데헌에 BTS…광화문광장 방문객, 1년새 2배 늘어",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44MVA4ZWhwYjR1Umt5QU03SzB4RmJyQ1hCaHRpYXZTN0dZWUZiMnc4eWpWMjZ1SlNZM09hblRsOW1weGtHOFc4M0xILU5abXc?oc=5",
-              "source": "v.daum.net"
-            }
-          ]
-        },
-        {
-          "rank": 4,
           "word": "데몬",
-          "count": 8,
+          "count": 10,
           "articles": [
             {
               "title": "BTS 공연에 데몬 헌터스까지…광화문광장 방문객 134만명 몰렸다",
@@ -138,9 +126,9 @@
           ]
         },
         {
-          "rank": 5,
+          "rank": 4,
           "word": "헌터스",
-          "count": 8,
+          "count": 10,
           "articles": [
             {
               "title": "“세븐일레븐도 뚫렸다” 샤이니헌터스 공격에 가맹점 정보 유출 인정",
@@ -148,16 +136,28 @@
               "source": "보안뉴스"
             }
           ]
+        },
+        {
+          "rank": 5,
+          "word": "케데헌",
+          "count": 8,
+          "articles": [
+            {
+              "title": "케데헌에 BTS…광화문광장 방문객, 1년새 2배 늘어",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44MVA4ZWhwYjR1Umt5QU03SzB4RmJyQ1hCaHRpYXZTN0dZWUZiMnc4eWpWMjZ1SlNZM09hblRsOW1weGtHOFc4M0xILU5abXc?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
         }
       ]
     },
     "경제": {
-      "summary": "환율이 1520원 근접하며 당국이 조치 경고·케빈 워시 연준 의장 취임으로 금리 인하 지연 예상·증시 급반등에 사이드카 발동",
+      "summary": "환율이 1,520원 근처까지 상승하며 당국의 개입 우려 속 외국인 매도 가속화 · 연준 신 의장 취임으로 금리 인하 기대 낮아짐 · 개인투자자의 ETF 매수로 증시 방어",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 36,
+          "count": 33,
           "articles": [
             {
               "title": "\"삼전·닉스 100조 판 외국인 빌런\"…환율 1520원 눈앞 [김익환의 부처 핸즈업]",
@@ -170,8 +170,8 @@
               "source": "연합뉴스"
             },
             {
-              "title": "[미국발 고금리] 유가·환율까지 3高에 기업들 비명…양극화 심화 우려도",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1UGdIeWNHV21jTGFPbEFweFBGUGVfVU1nSFN2SHRkVVh0U1RNa0ZTN0NhejBkajhhNUROMUdqMTBOZWpsM1dsV3otdDIzQmc?oc=5",
+              "title": "미 국채 금리 치솟자…\"자금 빨아들인다\" 국장·환율 우려",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ockl5bHplVDdPM3N6elVsNms5eEd5TmZSVzJWNHhPOUZpX0lLZXZWbnRUUkR4X0UxRWYxUWtBaUFTUW5ENzNCMF9oMEdBaDA?oc=5",
               "source": "v.daum.net"
             }
           ]
@@ -191,7 +191,7 @@
         {
           "rank": 3,
           "word": "코스피",
-          "count": 25,
+          "count": 21,
           "articles": [
             {
               "title": "“이 나라 보면 코스피 앞날이 보인다” 놀랄 만큼 닮았다 [투자360]",
@@ -203,19 +203,19 @@
         {
           "rank": 4,
           "word": "증시",
-          "count": 14,
+          "count": 17,
           "articles": [
             {
-              "title": "증시 급반등에 코스피·코스닥, 매수 사이드카 잇단 발동",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14eU9IUmc4aWFZd2RjMEhqZ05MeWhwWEV2dGkwb2cwbHJwZzNySjZ1a0dsQS1HWEdGdkxGemEzV2Qyd1ctTFVRSXVpUWR6emdoOVNlcmU2UDhEXzDSAWBBVV95cUxPT3RWTG4zdE5GNDVRZE9vZGd4Y0RZdGdOZjVGMHNXQzJFekFhSDJlaU5Ga0pCajJyMWxIRTFSc0RBeE5RR21VcTVmWlhpaUtzQWRwMzdtQXNVVDZrd09wWUc?oc=5",
-              "source": "연합뉴스"
+              "title": "‘동학개미 시즌2’… 외국인 매도에도 증시 판 바꾼 ‘ETF 머니’ - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDBMUzRyZ1ZWekRKNFcxbWZpSzdBclQyUTR6M3ppdTd0ZlVSRWlzM3FyTDhnLWhSQkZiUnBrekZmMjZoY1NMYTRkR2o2SzA4ZjVBOFdWWHBYREdSdk9lanZDcmFNM3FsNW1FcWpjbU05S0hiMllpeTYwXy01VUhaXzZ5SURrWWk30gGcAUFVX3lxTE54Y0FybUJ6X1lBaTlmMGhKWF80UnAtQkJKUTJyV3pzanVONWtadWE2NFU4NmFFOVJCTWRWNW5aZFpsQnFkUHZjaFhEa0pJWW9OWlExR0lYRVM1MTRvS09nbmRZdlBRSHBlaFhSUVVvZmxkN0NUNk9BanVqbF82QWF0Vzl2LXBqVzJTczBKYVBWOUFYZFBGSGkzQ2YxdA?oc=5",
+              "source": "Chosunbiz"
             }
           ]
         },
         {
           "rank": 5,
           "word": "주식",
-          "count": 14,
+          "count": 13,
           "articles": [
             {
               "title": "SpaceX S-1 공시에서 주목할 반도체 주식 핵심 포인트",
