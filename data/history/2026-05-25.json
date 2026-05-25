@@ -2,102 +2,102 @@
   "date": "2026-05-25",
   "categories": {
     "오늘의 이슈": {
-      "summary": "투표 관련 스벅 불매 논쟁 · 이란-미국 전쟁 종전 임박 · 지역별 대통령 지지율 변화",
+      "summary": "트럼프 이란 전쟁 종전 협상 갈등 · 삼성전자 임금협상 잠정합의 투표 진행 · 민주당 광양 유세장 논란 공식 사과",
       "keywords": [
         {
           "rank": 1,
-          "word": "투표",
+          "word": "합의",
           "count": 3,
           "articles": [
             {
-              "title": "장동혁 \"스벅 들고 투표\" 외치자…김기현, 스벅서' 모닝 커피' 사진",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sODhkX1hkd3RIZk9PaklyLVJoYnZzUkthejBJODJsWm9WMW50YXctcnBGbjhnNEVrV1NoanpxbDdIci1jX00wWTFZeGVNbmc?oc=5",
+              "title": "‘이란 전쟁 왜 했나?’ 종전 합의 역풍에 트럼프 “협상 안 끝나” 발끈",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tWWZqX1BUOHlhcV93bi1DbU9ibGhzOWp5SmxuVFR2T0hnNmxjZ0pHRUM1cHpNRWY4Z09YUGtFMFVLbzhQUFFCTXFjYXl3d0U?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "장동혁 “스벅 불매는 선거용 인민재판…이재명, 그날 지나면 들고다닐 것”",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KcndPUGV0VW0zS2NPZ21vTFY2MFRjMjFkby1TSldBRTNBX0lGTXlJblhIWUhOR2NmeXhuSTQxTUU3WVA1NnU2T05vb2V1TUszdXRzbG04Q1ZYNnZsbGlEQ1JXcTB2OEh5ZGJNNVhUQnJfUlpo?oc=5",
+              "title": "삼성전자 잠정합의안 투표율 85%...일부 주주 \"합의 무효\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTOGN3OW0wenlyNzFTSlJ5UnZ0cnVWLWl4UWk2ZlNoYVJzeVhTdGwxWHQ4RENFR2owV1NJd190a1E1YUlNNnJpY0hEQVlrN09WUVpzNEMzZEIwY3RJSnc?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "“미-이란, 호르무즈 개방·이란 농축우라늄 폐기 원칙적 합의”",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS3RSejhuX2NSMjZqVmhqNDNvR3JPUUFnNC1iRzNPSU9ETFJQQzhZQnMwODE0X09nZ3h1MGUydUpoTS1hbGJnRFNCZ2JzRWt2ZmpDUHBrNTBnZWlxenhrblh1RVpiT1JsQS1FVE9XUXVSeTFZT1RzWGR4NVhqcVdxVXJR?oc=5",
               "source": "한겨레"
-            },
-            {
-              "title": "장동혁 “스벅 들고 투표하러 가자…선거 끝나면 이재명도 마실것”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vWWZpT3JYWFhfVXBoV1REakE3WmRtNnNrbGNPN3ZPQVZEOEQ3U2FNWm5TaG1MRGZJWlNtTDZLTHFhdXdSWWt0YU9wNUIzenc?oc=5",
-              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "이란",
-          "count": 2,
+          "word": "사망",
+          "count": 3,
           "articles": [
             {
-              "title": "\"美·이란 전쟁 종전 눈앞\"…지금 국장에서 사야 할 것은?",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TSjUwcEtXU01sX3ZCbHhNTlhqMXluc09VTGZqVmE3cXlic2I3U202NmlOdlVVd0h1bUs2amI1QVZXaXRVY3FhUVpUTHJ2ODlGUExZZUItZ1Jid9IBVEFVX3lxTFBjbEF1MVJGTXh2TEhrVjhIc2tpbEFZS0JSRXlrbEVYZ2MyUnEtUXpKUmxKa0ZNOVBtTnR0YXp6VFpDUmJHNFdKZ1JNbEZ0ci1UNk9zYw?oc=5",
-              "source": "한국경제"
+              "title": "\"부족한 잠, 다음 날 바로 보충해야 사망 위험 낮아진다\"",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0x5R0NWWkJNanhtV1d4bnN6Q21IQ3NpQVF6Z1RDOUkxZFdJT0tMNTlhNlBSY1ltRFFIRUxvYmg5U1ZvSndzYkcwRGNJdXFNc2xEQ3FLQVZNdzk0Y3ptMVBFeUNPb25QbF9CS1lRTzY1Zkx3UjByMlhRNFRwRHpvbzJXYw?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "장동",
+          "word": "정청래",
           "count": 2,
           "articles": [
             {
-              "title": "오근장동 지사협, 사랑의 반찬 나눔",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80UVhhTHVzMDhGOW5GZWVGZjlBcDRtNkFsUFVqb3dFa3hzWkFRak9yYklOSDZWZkRFc092cXlibDB2UGdWb2ZESlNXZXRKU1ZGZl9ET285RnhxSkptV2hkMXNoaGJFUm1S?oc=5",
-              "source": "충청타임즈"
+              "title": "정청래, '李 출마 교감' 김관영에 \"대통령 곤경 빠뜨리는 위험 도박\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVkFRTnFyVkY5eFRCV1p2YmtUdXFmUC1KREhLbkJkMVlpcUEtVHhGUTEwSHUyQlZTNEJWLU8yN243YjYyOGtpb29ONEZIbFVvaVY3QW92UnhrN29XZTg4SWtfZzIwTTBacjlaTWxqOFZ6NTBaNWhrS9IBeEFVX3lxTE5xVTYwcmRyUWQ5cUsxSFVxZ2F2ckVua2NBZ1daU0k5Wnl4dTR1ajlLQktKbEJxdWE4YXBQSzYyTk1YTl9iQURNNTdickl4Q01KeEJfbUM0YThJejNHYUNyU0dUTjlKdnEybnNVeFA1LXhQZVdSR0FVSg?oc=5",
+              "source": "MBC 뉴스"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "지지",
+          "word": "조사",
           "count": 2,
           "articles": [
             {
-              "title": "김관영 44.1%, 이원택 40%…與지지자 41% \"金 지지\"[CBS-KSOI]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyNnlnYUFZeDRJS3VBZUhieTdaWDN0TnRXeEQ3UDV2N0p6MjJlSFpuV1JOXzQ5ck1ZcWQ5clJ3OUxqcDlCclNDVnFmdVp0R0E?oc=5",
-              "source": "v.daum.net"
+              "title": "진보당, 김상욱 단일화 조사 중단 선언 관련 \"책임있는 해명하라\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iLWVmdXBDWnRIYWdCY1hpX250S2J2dDhoc2NOZHp2S0RlSzB5SUhfd0Y2TjJ1Z2laVmkzMVdRVDQ1d0hWM3VLLVQyTUpRUFZHamtxYkxLejEzRE5SMy13ZkR4VWlyaUtzZnE1MWlLWkk0b3FBMnhYaNIBeEFVX3lxTFAydmRUajh2SWl1YXNvOUNhNXhJQVZJTEJ6TUlhSE5MLTZoLUlZakF6NDFZSGNodkdPMEcyaG41VUs3TXJGa2FKSlhmS0Z4Z0FRZVQ1SWlGMl8zRFYyeXRRSFNYemkzam5BclFyRGo2ckdMLVNmVm1JQQ?oc=5",
+              "source": "MBC 뉴스"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "서울",
+          "word": "공식",
           "count": 2,
           "articles": [
             {
-              "title": "[리얼미터]이 대통령 지지율 다시 50%대로 내려 59.3%···대구·경북서 하락, 서울·충청서 상승",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Fc0Z6aHpzS3hkLXpJUXhkWjBDbUREcTlyU05TT19uX2VkYV9VMG1LSGpOU0F5b1BTSTBvcUZSclRUeGl5LVR4WnJpTnZnSGEtNkhveTVqWXZJd9IBX0FVX3lxTE54a3JmdVJkVUltcWhpNWNvaXVLMGRpd0JtUjNTd0dQZXNZNUZ1bng5d1d0WXlod0JiY0hISUliTF9oLTdKazdVSWpCSTNza2pyZjZLZlRwTUJXTXJxNktz?oc=5",
-              "source": "경향신문"
+              "title": "정청래 온 날 광양 유세장 '얼차려' 물의…민주당 공식 사과",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TWFBEelRCdndTNUk4aHV6eExVRFNEb3p6Yl9IQ2NyR1V3eHRPSDVxRkVIelJGQ182NDktN012UGVCV2lyVThtWkZkeTM1R21YUHc?oc=5",
+              "source": "노컷뉴스"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "이준영, 아이돌에서 배우로의 전환 응원·남성 아이돌 억대 횡령 피해 고백 · 케이팝 전용 공연장 건립 추진 · 케데헌·BTS 효과로 광화문광장 방문객 증가",
+      "summary": "지민 브랜드평판 1위 · 케이팝 전용 공연장 건립 추진 · 광화문광장 관광 명소화",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 15,
+          "count": 18,
           "articles": [
             {
+              "title": "[BTS News] “K팝 대표 아티스트” 방탄소년단 지민, 5월 보이그룹&아이돌 개인 브랜드평판 1위 싹쓸이",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmSE1mbW9ILWh4dTMtbWhjN1ZPTkxFcmxYc1owR0prRU5YY0I0VWZZMUE5aG9VQlNwOGhKZFBIMnpPazJuYlE3TEhKTEp6QUMyVDNGbHVMQlE?oc=5",
+              "source": "뷰어스"
+            },
+            {
               "title": "'유키스 출신' 이준영, 돌연 임시완·도경수·박지훈 언급…\"아이돌→배우 많아지길\" ('하지영')[종합]",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5qdUo3ODhEOEtRNlNrb0pYbFllNENma0hwZlRyeG00TWEtUXUwQWl6U0JEbkQza3hHYy1hLW5SUW9Wcms0Q3c?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBQldsNFI5SlpjMVQwT1dNdjRlejV5U25pUzZJZjFzQUtVelh6SzdKTExrWUNoc0dYUVlac2RCUnJhZGpHSndZZjdEX3lfY2c?oc=5",
               "source": "v.daum.net"
             },
             {
               "title": "“지장 찍고 100만원만 입금 후 잠적”…男아이돌 억대 횡령 피해 고백",
               "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXpFbE4zLTl3VkNBUzlhWEYxXzYzRF9tM3NmRXJsNnV1UDVoU1NFa2gydEtzQWpYSVZ0bFFWZV9Jd1NUWUNtaVp1alpCbnVtWVQzQVhsbTBXeG1hMW1IWElXUWZENkJXemJVVmhMRGpoVWRHQi1HTmNFZWVocy1VdFZzbUdBdw?oc=5",
               "source": "서울신문"
-            },
-            {
-              "title": "[BTS News] “K팝 대표 아티스트” 방탄소년단 지민, 5월 보이그룹&아이돌 개인 브랜드평판 1위 싹쓸이",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmSE1mbW9ILWh4dTMtbWhjN1ZPTkxFcmxYc1owR0prRU5YY0I0VWZZMUE5aG9VQlNwOGhKZFBIMnpPazJuYlE3TEhKTEp6QUMyVDNGbHVMQlE?oc=5",
-              "source": "뷰어스"
             }
           ]
         },
@@ -116,12 +116,12 @@
         {
           "rank": 3,
           "word": "케데헌",
-          "count": 9,
+          "count": 10,
           "articles": [
             {
-              "title": "케데헌·BTS 효과⋯광화문광장 방문객 두 배 늘었다",
-              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FVzE0aTdyRlp0QngzdVNDMU5uX0ZKSUhjTkNNQTZEOE9hRWtHcTh6R0lGNGtxMHBadUxWVTkwQVRSbGk2M0k2R0xQMEw?oc=5",
-              "source": "아이뉴스24"
+              "title": "‘케데헌’·BTS 뜨자 외국인 몰렸다… 광화문광장 '핫플' 등극",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10ZUpud3FHcG5sSkRNaVNhUnpXVHY5RV9tTFBkOUVlbXdhLXplQ2hzcjYtZ1p3ZWdMejVLX1FXenFRMUtWSm1VcjFnOWxSMkN1YUxTRkVMdHNjVl9HU01UUjdfYVJXREZLSWQybDBoQQ?oc=5",
+              "source": "진일보"
             }
           ]
         },
@@ -143,21 +143,21 @@
           "count": 9,
           "articles": [
             {
-              "title": "몽골프리미어리그,‘2025-2026시즌’헌터스FC vs'센트럴 스탤리온스'경기서 3대 1로 승리",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GUkxpNDl0bWJYeWxuWWlYR0xad05meDdOSEtxQ0dJbnlqMkYtd0V3dTFnRjJPcEFJSUVXZEpVWVA3Zlc5RVNXcnZ4ZnlndGxYcFhKeGZidDZuYndNVGdkcDhtcVdiREZTMFE?oc=5",
-              "source": "뉴스에이"
+              "title": "“세븐일레븐도 뚫렸다” 샤이니헌터스 공격에 가맹점 정보 유출 인정",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtSjhwdjRRcjVsSkQ3Q0pSX2hhaUlHTVRKb09PUWc3ZC1zSTkxZHlLb002RzZsOUpMTGJFeFVyTGJwMGFCRHRIZGw2R2ZWbExLdFMxN1VQb192Ul9tbjZR?oc=5",
+              "source": "보안뉴스"
             }
           ]
         }
       ]
     },
     "경제": {
-      "summary": "환율 1520원 근접으로 당국 조치 예상 · 삼성·닉스 중심 K-ETF 수요 증가 · 주담대 고정금리 5% 돌파 · 반도체주 주목",
+      "summary": "환율 1,520원 근접으로 당국 조치 임박·금리 인하로 주담대 5% 대 진입·ETF 자금 유입으로 코스피 8,000 탈환 시동",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 31,
+          "count": 34,
           "articles": [
             {
               "title": "\"삼전·닉스 100조 판 외국인 빌런\"…환율 1520원 눈앞 [김익환의 부처 핸즈업]",
@@ -170,57 +170,57 @@
               "source": "연합뉴스"
             },
             {
-              "title": "미 국채 금리 치솟자…\"자금 빨아들인다\" 국장·환율 우려",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ockl5bHplVDdPM3N6elVsNms5eEd5TmZSVzJWNHhPOUZpX0lLZXZWbnRUUkR4X0UxRWYxUWtBaUFTUW5ENzNCMF9oMEdBaDA?oc=5",
+              "title": "1500원대 환율 장기화 조짐…구두개입에도 '약발' 안 먹혔다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CenkyamdoeEVleXhKVW1qR19wQm10VWd5dEpydDU3dGxVMzN4eVcyOVI2aGZTR2U4OUkwWnNOVEliZ2xYWVBJd1FhVEtJeUU?oc=5",
               "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "코스피",
-          "count": 22,
+          "word": "금리",
+          "count": 25,
           "articles": [
             {
-              "title": "‘삼전닉스’ 이어 코스피200까지…해외서 커지는 ‘K-ETF’ 수요[마켓시그널]",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vRHNoT0lsMkdrYWRIMkNHMUNXV0hleGh1M1ZPa2VveWQ1emwySUN0dnRxaW02ZXFkYUc2aUlfeDVuWHF3TnlZMzZoZy1YOXJ0SWfSAVNBVV95cUxOdGZjb0Y1bUExZmxBOENINmRiLS1mWURTZXhJX21CczFDNmkzdjYwSWZXOF9nTUFsRFdhbVNSM0p0am8xUFVBaGJNVDAyWXdXMnlxdw?oc=5",
-              "source": "서울경제"
+              "title": "은행 주담대 금리 하단 연 5% 나왔다..\"은행보다 보험사가 싸다\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5S2hwOWFaMlhOUlJVUWlMQ1FvWHB1bm14MlktM0pyUll3bEFXZmtWUnZPUmxpQWVDMXFvdlFxMV9OYlJzNG11bGZPWUtoQXRFZGVlcUxBbGc4UjZjT0x0Ui1pSEw1WTNaNEk40gFwQVVfeXFMTXBhcjFXcFFyRURZUFdCem5LQWpVRkhpTFJOb3BYaVpjWVhNS284em85ejdVVVFQZ1pmTzFrbkFkVmRRb256cWFrNDhOaWJFbU42anJETVJfckZfaGxVSXhkbWVBeTRDQzVrYzEtVEY3Qw?oc=5",
+              "source": "머니투데이"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "금리",
-          "count": 21,
+          "word": "코스피",
+          "count": 24,
           "articles": [
             {
-              "title": "은행 고정금리 주담대 하단 5% 넘었다···3년7개월 만에 최고",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrUFFNTVhpUFZXR1p5bHRycDBUSFNkdDQya09FVWhTT3U0YkJrbDM0ZXhqaDNxR2ZpS3phOHFpMktNVWF5UVczaDFReERLR3ZvaGJGVGJOX2I4Z9IBX0FVX3lxTE9JaG5lazJGOUo5Vk5IZUNQb2dzWjdpVzRWNU8wR0M3ZXBYbDNJdThjQTNaZTh5eWlaQXMzdnNYWHF4elJaeWx4OGJaM0xmdGhaaHprSk96NXdmSG4xZzQ4?oc=5",
-              "source": "경향신문"
+              "title": "[경제]다시 불붙는 코스피, 8천 고지 탈환 시동 거나",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SYjY2a3pHTjdyRGNhcmR0ZlZYSXNaTnpTalM0YlhURTFPN21lV2pWSFRnUUpUSUo1VFVCMGRfTVp0bHk1b3g1emZDeFZHZTNLMUlrSFhySjdOOHExRXRrYUw5Zk5QcmYxWE9zUG9JQQ?oc=5",
+              "source": "YTN"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "주식",
-          "count": 12,
+          "word": "증시",
+          "count": 17,
           "articles": [
             {
-              "title": "1500만 주식 투자자 시대…‘주주공화국’은 기우인가?",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxWGJQX2FTT00wd1E0QUVWSzdoTTJxVXVzdXZPM05tQjdaVFBybDl1ZkFubldzMENMcTBiRnlSSklIUjdxYTJVd2toYldUWk04c0dOaG5wU1JjYkJnQ2VHYmZ4anFJcXpSemoyTXdkUWFtQQ?oc=5",
-              "source": "한겨레"
+              "title": "‘동학개미 시즌2’… 외국인 매도에도 증시 판 바꾼 ‘ETF 머니’ - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDBMUzRyZ1ZWekRKNFcxbWZpSzdBclQyUTR6M3ppdTd0ZlVSRWlzM3FyTDhnLWhSQkZiUnBrekZmMjZoY1NMYTRkR2o2SzA4ZjVBOFdWWHBYREdSdk9lanZDcmFNM3FsNW1FcWpjbU05S0hiMllpeTYwXy01VUhaXzZ5SURrWWk30gGcAUFVX3lxTE54Y0FybUJ6X1lBaTlmMGhKWF80UnAtQkJKUTJyV3pzanVONWtadWE2NFU4NmFFOVJCTWRWNW5aZFpsQnFkUHZjaFhEa0pJWW9OWlExR0lYRVM1MTRvS09nbmRZdlBRSHBlaFhSUVVvZmxkN0NUNk9BanVqbF82QWF0Vzl2LXBqVzJTczBKYVBWOUFYZFBGSGkzQ2YxdA?oc=5",
+              "source": "Chosunbiz"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "증시",
-          "count": 8,
+          "word": "주식",
+          "count": 14,
           "articles": [
             {
-              "title": "“이번주 증시? 또 달린다” 개장만 기다리는 이유…증권가는 반도체 주목 [투자360]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaEVTQ1NueUhFWE13MnAyNDVsZHItV1d4dE43bFVRd1pHSk9wTHJLQ2VRbTE2eFU1Qzk5Z2hYdC16MnJ1OEk2c09xVGxWYnlFVDAxMVJR?oc=5",
-              "source": "헤럴드경제"
+              "title": "1500만 주식 투자자 시대…‘주주공화국’은 기우인가?",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxWGJQX2FTT00wd1E0QUVWSzdoTTJxVXVzdXZPM05tQjdaVFBybDl1ZkFubldzMENMcTBiRnlSSklIUjdxYTJVd2toYldUWk04c0dOaG5wU1JjYkJnQ2VHYmZ4anFJcXpSemoyTXdkUWFtQQ?oc=5",
+              "source": "한겨레"
             }
           ]
         }
