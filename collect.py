@@ -6,6 +6,7 @@ from urllib.parse import quote
 import feedparser
 import anthropic
 import json
+import re
 import os
 import html
 import shutil
@@ -77,7 +78,7 @@ def clean_title(title):
         title = title.rsplit(' - ', 1)[0]
     return title
 
-def extract_keywords(titles, sw=stopwords_common):
+def extract_keywords(titles, sw=stopwords_common, n=15):
     nouns = []
     for title in titles:
         tokens = kiwi.tokenize(clean_title(title))
@@ -85,7 +86,42 @@ def extract_keywords(titles, sw=stopwords_common):
             if token.tag in ('NNG', 'NNP') and len(token.form) > 1:
                 if token.form not in sw:
                     nouns.append(token.form)
-    return Counter(nouns).most_common(5)
+    return Counter(nouns).most_common(n)
+
+def filter_keywords(candidates, category):
+    lines = "\n".join(f"{i+1}. {word} ({count}회)" for i, (word, count) in enumerate(candidates))
+    message = anthropic_client.messages.create(
+        model="claude-haiku-4-5-20251001",
+        max_tokens=100,
+        messages=[{
+            "role": "user",
+            "content": (
+                f"다음은 한국 뉴스에서 형태소 분석으로 추출한 '{category}' 키워드 후보야.\n"
+                "아래 기준으로 노이즈를 제거하고 실제 이슈를 대표하는 단어 5개를 순서대로 골라줘.\n"
+                "- 제거: 그룹명·작품명·브랜드명이 분해된 조각 (예: '데몬', '헌터스', '스파이더')\n"
+                "- 제거: 단독으로 의미없는 동사성·상태성 명사 (예: 검토, 추진, 본격, 시대, 교섭, 누락)\n"
+                "- 유지: 사람 이름, 지명, 기업명, 사건명 등 구체적인 고유명사\n"
+                "- 유지: 경제·사회 현상을 나타내는 핵심 명사\n"
+                "JSON 배열로만 답해줘. 예시: [\"환율\", \"삼성\", \"이란\"]\n\n"
+                f"{lines}"
+            )
+        }]
+    )
+    match = re.search(r'\[.*?\]', message.content[0].text, re.DOTALL)
+    if match:
+        try:
+            words = json.loads(match.group())
+            result = []
+            for word in words:
+                for w, c in candidates:
+                    if w == word:
+                        result.append((w, c))
+                        break
+            if result:
+                return result[:5]
+        except (json.JSONDecodeError, TypeError):
+            pass
+    return candidates[:5]
 
 def generate_summary(keywords, category):
     lines = []
@@ -128,7 +164,10 @@ today = datetime.now(KST).strftime('%Y-%m-%d')  # yesterday → today로 변경
 # ===== 오늘의 이슈 =====
 print("=== 오늘의 이슈 Top 5 키워드 ===")
 feed_issue = feedparser.parse("https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko")
-top5_issue = extract_keywords([e.title for e in feed_issue.entries], stopwords_common)
+top5_issue = filter_keywords(
+    extract_keywords([e.title for e in feed_issue.entries], stopwords_common),
+    "오늘의 이슈"
+)
 
 used_links_issue = set()
 keywords_issue = []
@@ -143,7 +182,10 @@ for i, (word, count) in enumerate(top5_issue):
 # ===== 경제 =====
 print("\n=== 경제 Top 5 키워드 ===")
 feed_economy = feedparser.parse(f"https://news.google.com/rss/search?q={quote('주식 증시 코스피 환율 금리 부동산')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
-top5_economy = extract_keywords([e.title for e in feed_economy.entries], stopwords_economy)
+top5_economy = filter_keywords(
+    extract_keywords([e.title for e in feed_economy.entries], stopwords_economy),
+    "경제"
+)
 
 used_links_economy = set()
 keywords_economy = []
@@ -158,7 +200,10 @@ for i, (word, count) in enumerate(top5_economy):
 # ===== 연예 =====
 print("\n=== 연예 Top 5 키워드 ===")
 feed_ent = feedparser.parse(f"https://news.google.com/rss/search?q={quote('아이돌 K팝 드라마 연예인 영화')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
-top5_ent = extract_keywords([e.title for e in feed_ent.entries], stopwords_entertainment)
+top5_ent = filter_keywords(
+    extract_keywords([e.title for e in feed_ent.entries], stopwords_entertainment),
+    "연예"
+)
 
 used_links_ent = set()
 keywords_ent = []
