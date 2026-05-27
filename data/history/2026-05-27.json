@@ -2,7 +2,7 @@
   "date": "2026-05-27",
   "categories": {
     "오늘의 이슈": {
-      "summary": "트럼프, 이란 핵협상 논의·블루엘리펀트 디자인 모방 논란·서울 고가차도 붕괴로 3명 사망·노화 늦추는 세포 조절 기술 개발",
+      "summary": "이란 대통령 전쟁 종료 의지 표현·美와의 합의 재개 촉구 · GC녹십자 릴리에 미국 백신 개발 인수 추진 · 동남권 해양수도권 조성 추진",
       "keywords": [
         {
           "rank": 1,
@@ -10,101 +10,113 @@
           "count": 3,
           "articles": [
             {
-              "title": "트럼프, 이란과 합의-폭격 기로서 '캠프데이비드 내각회의'",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CM05PeVpiNmJsWV8wYUhfRzlsX3kzdWtONktNVU9nTWkwakUxNlo1RTFEUWxPdDNRUU1WdkdnNGM4UkdCUVIxVzdVaWdnbXJCSnJzMHdlb0FMVWPSAWBBVV95cUxNeU5kZ2JkVndoRDNSMjEwdnFBMVZnWVVBY2pHT0J6ZjVNZWhQTVY0b1E1T0RYUTNseDdINmlXNjBLT2RyU0lSRnhDTkhnYm1fT252eVFTa3Q3WmNuc0xMM2g?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "[속보]트럼프, 이란 농축 우라늄 미국 아닌 ‘현지 폐기’ 방안 첫 언급",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBMUhMR3dTakU3ZmVtRTVEVkhhNjJBQVpwek9EVGlGU0Z6UUprT1hUeU9CRTEwTi1ZcHJxWXpKU1JXOF8yY1VkSzYtZkRYY2hZNF91bVk0bkMwZ9IBX0FVX3lxTE1VeUhraDA0ZXkwNXhlUlVKZDRCYUFmNUhfMmo3RWtCMGwyQ25INVU3U2s4LTBnU3ZaY3hiSHluT1NmSGVGSXJFWWZBUTRaYVRLRjV4RFRCZ0hkYVI0emVj?oc=5",
+              "title": "이란 대통령 “전쟁 끝낼 준비”…미 향해 “이제 의지 보여야”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Pd3ItWnhQdGZmaTdxbkNGcE95UVJwTUt1MG1QSFd2eXFzTE9ZWGEtSnVuQ1A5VEloWjEzYVpNQkQ1MjMzdTloYURWQU1KcW4wVE5pejRremZmUdIBX0FVX3lxTE5ybm95dHpqT0N0TmUyT0ZiUWxQWXN2VVBCdjFyM2ZHMEtBSnF2V1BZUXpTeFhERVhrN3cxRFUzLVc5TFJBeUZDYUZIYUlDVllFczJ5VVEwYTJwNzA1WlEw?oc=5",
               "source": "경향신문"
             },
             {
-              "title": "이란 \"분쟁 끝낼 준비\"…트럼프, 종전 협상 막판 조율",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xZ2doYS1yZnVmb3NHbmV2NU1TeHllQ21Gd3ozSTcySk1tbUFtek5BMVFuOTR6azZiQ1JWeWEwN1JvV21uelRFeEduak1vbEk?oc=5",
+              "title": "이란 대통령 “전쟁 끝낼 준비 완료”…美에 결단 촉구",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5neDd1ZUhHVGZmXzFoeXFTZkV3ZXVnajRxMk82MC1CMVJKdHg2ZmlwN3plOVJMWG1HVXFhSVlXdl9NeW9XSmVGeW5OMGNBTmM?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "“전쟁 끝낼 준비됐다”…이란, 美에 ‘240억 달러 카드’ 걸고 종전 협상",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JRGd0ZUd2S3BiT0Z1TDN4WXFQSFR4TXM2Znd1QVBrXzVfa1htVE5sNHhTR21TYmxlZVF6Q1pCYjVuVTEtZEZmbWJvazB0YjF4bUE?oc=5",
+              "source": "매일경제"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "논란",
-          "count": 2,
+          "word": "면역",
+          "count": 3,
           "articles": [
             {
-              "title": "[단독] ‘젠틀몬스터 모방’ 논란 후…블루엘리펀트 ‘비밀 디자인’ 무더기 출원 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeDJyajNmUkJvSmJpRTRHbVdjXzhWTkdJZGdVQk9zOWUxT3VLMFdrNFl5Q0tSemZGMExSVTV1MnVuMmkzYmkzbmdmV25tLXp2VFFjcUhGUkNvVU44aEJPc29kaFBBOHFaYnRfM2FKRmhKQUgwZGctWlVCWm5iak5ORnRmS2xwWUFLdy1tRS1PTHrSAaQBQVVfeXFMT0h0ZG5kNWU4YUZuVWh6cXpzZjRYbVZ3MlpaQXlpMFBGaWVfRzNYSmVHcTQzTTF0WDRwa0dzbkpWZUhhNG9lWnhHM2twdURaU3I0NWlEYUp0QmRpbVhaVFBrYXNTWi0zeWRHNl9EejRkdm1BdDk4aVB6MmhvWFRYNXJXeDFpaGluaWg0QlFWTVpqUWRnMmxvTlpfOGg4TkI3TkRvSEs?oc=5",
-              "source": "Chosunbiz"
+              "title": "“면역 떨어뜨리는 행동” 샤워할 때 ‘이것’ 하지 말라던데?",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CeWU1MjdPVmNPS3Ftd1JDMkZNNDNKQVRLdDQwc1RPSkV6UUVCdldCVXpJSkhxZnJDdDhrZXNQOUpLaU5DMzR6Smdpc2xrUkdRa2NwdEtpQ0tZdVY3Z1RUZnN0RG5tYmpjS2NtczVGdTUtd1pfdlE?oc=5",
+              "source": "헬스조선"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "합의",
+          "word": "백신",
           "count": 2,
           "articles": [
             {
-              "title": "이란 \"미국, 휴전 합의 또 위반‥좌시 않겠다\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wR2dwMnVyZi0zVzRBLThIVWNleUE5dTlNMFFqR0JoVldMN1FFNVZMMl8wZE9TbUdDcjhWa3o3cTFOMVlsNS1WOGU2NUxGeFUybEtYUVh3VFVzYWM0ekQ1c2J5MjFwZnNJbkhoNkpKb0tmcmp10gF0QVVfeXFMTVcycmN5aFdlaV93X293RC1Ga0U4bDA5QjBWNWg0NmF1NlVoWXBpN3U3WEF4NFhKRXpRdVJWdjBPTUFEamFySzVrMWJYX1V6TFFPazJVTE4xdDF1SDktMnVkTDZBWXI5X2hnSFdmSFBpVnZFaDY?oc=5",
-              "source": "MBC 뉴스"
+              "title": "GC녹십자 美 백신 개발사, 릴리가 품는다…최대 15억 달러",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tLXdKM1QzNE5yaGZKQUpwaFVWQUFUWWZ0MTFoTm9mRlNVd2wwZHdoVWY4TnRxaU5FTGhEdjNwWVhTNlhEMXNCdnpwRTlBYWs?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "세포",
+          "word": "합의",
           "count": 2,
           "articles": [
             {
-              "title": "연구재단, 세포 내 '이중가닥 RNA' 조절로 노화 늦출 수 있어",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wM1JEUWxYdjlFVURVazh0MDBqWWJGdjBoTl9tQ1VXRlBRSDVPTVZjLU94UXBSUkphbVZuaWYwbGR5QmtxTklhcTBSaVZLblcxd0J5Ry1fUklubmJETVlpUtIBeEFVX3lxTE1RUnNlVjFGWG8xZUFYRWVlcjRpSXdicXhCMWFFbzBOcGYzTjdUa2VxUXl5U19KN1pGdWQwejJHNUF3SlVhZld3eGE2UkxVVFVpOTRkZ3NqT0wxUkNsY1AwVFlVTnlWV0FUTHRmTFMweWNlRkpNaFA3bA?oc=5",
-              "source": "뉴시스"
+              "title": "美 “자위권 행사”vs 이란 “합의 위반”…합의 또 멀어지나",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tX244c0l3YXNHak0zUTB4bEowOFN6cVU3R0hJT2R0VnRxbmpULVRfaVhtcU1XbHlFbkZtWEZtaE52S0J6am9IYTZ3cHBOc2JoMGV6bEJnMmVrWE5DNTdQbG9ITF9lWVZQYWQ2SUpTWDBsbUE?oc=5",
+              "source": "마켓인"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "서울",
-          "count": 1,
+          "word": "해양",
+          "count": 2,
           "articles": [
             {
-              "title": "서울 서소문 고가차도 철거 중 붕괴…현장소장·감리단장 등 3명 사망",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15SWJ1MmtQTHRCQ012eFJTVnNTMXd6VVpRTjF6RUtiZHVyX2UxRWJod0dNM0p3Y0EyYmw0YjViSDEzQ2pwbFpkcXdLQTVUVWQ5ZTZYT01HQkFGMGc?oc=5",
-              "source": "경기일보"
+              "title": "“기관·기업 추가 이전…동남권을 해양수도권으로”(종합)",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0w3b2dOX0d5M2VFVFZrTFk4VDRiWkh3ZGdaY0hLMDA4WG96M0kwWnBEM1JYQmFXSTl0UXpTU3ZNUGZnV1NiOE9Zdmh6a3pPQi1MSElmNzMwSlotSUVXQTVmUzE0cV9TU1FReXNWVC00cWh6dzF4d2FlWkZ3ZVFNUnVUTkpiSEdsa2xwbFdn?oc=5",
+              "source": "국제신문"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "BTS 미국 AMA 3관왕·케이팝 4관왕 수상 · 베트남 자국 아이돌 육성 추진 · 한류 장기 인기 확산 · K-콘텐츠 저작권 보호 강화 · '군체' 200만 돌파",
+      "summary": "BTS·케이팝 스타들 아메리칸 뮤직 어워즈 활약 · 미국 LA서 한류 축제 개최 · 차은우 스타덤차트 2주 연속 1위",
       "keywords": [
         {
           "rank": 1,
           "word": "케이팝",
-          "count": 16,
+          "count": 15,
           "articles": [
             {
-              "title": "방탄소년단 미국 AMA에서 대상 포함 3관왕, 캣츠아이·케이팝 데몬 헌터스·트와이스도 수상",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0aUQxYmN5UE4xazh2QzhhVk5uVVlyd004aFJKbHBiVjVHZWgwWUNaZHJxS1lKbTd1c05zdlF0MkRFWHdZNExQNGxneDEyNUhZYW9FdVNJWE1GcUxTOU1sZ3Q4bU1yR0RZRnI2V2VsNHdqOVU?oc=5",
-              "source": "비즈니스포스트"
+              "title": "'아메리칸 뮤직 어워즈' 빛낸 케이팝 가수들에게 축전",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ya3hGejVocGo0X0xLRGZrY3FXaWNYQUxsNnNkQzc1V3hOTTVUalBwSHJ2cjk4OHJhX1NmQmRfY2hYT3NsZnJLLWN6QVJKVENSaHZJb0ZJX25VVUIzY3VFT2FB?oc=5",
+              "source": "서울Pn"
             },
             {
-              "title": "BTS 대상·케데헌 4관왕…케이팝이 휩쓴 美 3대 시상식 ‘2026 AMA’",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4c3ZOSTJ5Yk1uUk1LbGx6aHB1RjQ4d2JWMHU4ckxyOHo0M29mRmd1cTRCQjZUOXpmN01YRFNJSWxjY0h3ckdtbmNlRlJ3TnBnM0pSY2hR0gH6AUFVX3lxTE9KLXN5OFNoSVJLSHg2Z2tOSXEtSFFKOXhRMHJfZXRjOHQyMG9sYmVOYkdEMkhoRGUtTHl5aUpzQW1wMXNKSEplVGpka2dvYXE5c0hRcTJac1VNbk1fLW9pTjctM1U3NWFKb1NpdHBEcmxmSnhfWmJwelBsT2RBLTg0Y20yaGlDVDVjZnpRMlJOcFRzcXpDSUlnZEtaTDlRR01DdWpNTEw2NURjWUhxNVZCbmhrMkFLRjMyejhCdDd4Qjk1ZTlMcDNrRmxyVXEzQlB6Um5fNHIzRXJXWVY3aEtUQlhfeDNFdVdKWVRvb292cHdFME9ueXZlekE?oc=5",
+              "title": "\"BTS에서 케데헌까지\"…아르헨티나에서 K팝 속 국악을 만난다",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PVXRLeDNfYWs1ckY3QkRkRllRZzdOOFM2Ukdkc19pdVlYRWIwbnlTcGROYTdybGVYRi02eU1pWjFqRmVzTEVpaGNXNnF5WkNqZUk1RmVXd1diajjSAWBBVV95cUxOM1puNV9jOGkwU1Z2Tlprb0lOdm1tY0dBRFNZZXdpVC02T1VncmhXRHQ2R1JhWjVvMXFTazhJbTI5X0IycFo2S1ZJWks2QlNhLTJ3RWptOXlqNWt4OTBsd1U?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "보이 그룹 호황…BTS가 끌고, 후배들이 미는 케이팝 앨범 시장 [D:가요 뷰]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XNk1QYmhhMi1LbDJNMVdFZDNpTG1fNER1LXI4RTgwbGJBZjFPRHdRTElvYVlWSVdFenN3V212ZTNxUDJZS1hySVhqdlVQR0tkWlFzcXFR0gH7AUFVX3lxTE0tTnlIYVRmZ3A3OU0xbkNNMEFOc3dkYkxfRmR4MXlqemhjTmZUbkZFUlNWd3hPRmV1QTB0TVUwXzJuZUNublA4VnNjSi02eVNKYTBsUEpPNjl4R3hmNTlWY3FJSFVwTk1FaHplVHJJX2NGRHd1OUJ4d3FmbkdrTXJob1VRdmVtMVBQZk1QX2s3Q19qeUZaOXROcnlFVVZnLWRLMXIybkRpX0pIZXZxYUMzd1ZLTXpHV2JMZzNyanRvWDFwUUN0SHl0NnJTeEgzd01INTBrM0ItOFFzTzU4em1ZdXFUZnlCOTVrLU1wa3BjS0V1ZXFpckVTOE40?oc=5",
               "source": "데일리안"
-            },
-            {
-              "title": "방탄소년단, AMA서 두 번째 대상 도전…케이팝 후보 대거 포진",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJbnR2Q3RKYm5GMzh2SVNSMllRN1JrbXBJdzduQTJpQUwwZnJFT3dsZS0xNVdEYTJwQ2p0UXJJZ0NCcVJ3VG1qc0JfZm1wZ1hKci1n?oc=5",
-              "source": "네이트"
             }
           ]
         },
         {
           "rank": 2,
+          "word": "한류",
+          "count": 8,
+          "articles": [
+            {
+              "title": "美 LA 뒤흔든 이틀간의 한류 축제... K엑스포, K라이프스타일로 즐겼다",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UVkRCWEJIODFVTDZEYzd4WkR0Vzg4TkU2VEI0cFZ5WWFvVHBrcDgyN0pFbExhTFNnODhMTFhKRngtYUNxalB0MkFxQmhDVVhQMEVXZnZfNXRDbkxh?oc=5",
+              "source": "뉴스핌"
+            }
+          ]
+        },
+        {
+          "rank": 3,
           "word": "아이돌",
-          "count": 15,
+          "count": 10,
           "articles": [
             {
               "title": "해외 아이돌 대신 자국 스타로?... 베트남판 'K팝 전략' 시동",
@@ -114,84 +126,72 @@
           ]
         },
         {
-          "rank": 3,
-          "word": "한류",
-          "count": 8,
-          "articles": [
-            {
-              "title": "\"잠깐 유행? 인기 얼마나 가겠어 했는데\"…한류의 '대반전' [K컬처인사이드]",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pbF91RElITEVFV0s0dlJpQmtBWTFwd2RLMFRjQmhZY05MWXcxNGJsa3ZvWk1aRVctdXlKSmNFcFpRTlFoMGIwWGIxc0Q1LXRVWDc5Z0owQmZCUdIBVEFVX3lxTE1EMFdMZmYyOF9ZTGtwT0pzQ0tlZ2JKM0tuVDVGLWlRY2NzaXB4azRzMGJuTzE3bTA0cVB0dWp6NURsUHhRV1licVlVc3BmTXNMMzFXTg?oc=5",
-              "source": "한국경제"
-            }
-          ]
-        },
-        {
           "rank": 4,
-          "word": "콘텐츠",
-          "count": 5,
+          "word": "차은우",
+          "count": 3,
           "articles": [
             {
-              "title": "\"K-콘텐츠 지킨다\"…경콘진, 저작권 법률지원 본격화",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zNEQ5NDdvMFpoekNWcnBGSEhtamJxTHRfSUF0dWlCaEt2ZHlyZ3pqWXJTM0NYamNQMUViSWdZR3ZBZkt1NVk5T09NbnU3ekE?oc=5",
-              "source": "v.daum.net"
+              "title": "차은우, 스타덤차트 배우부문 2주연속 1위…김수현 2위, 변우석 3위",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oUXNVSUZlOVdBR2xyczBwU01mMllmN0dtbnczRHJzWXZhS0JtUTVMM3VEX1BiNERRX3F0VTBBeG9velVUU2tsNUVWNnRtdEZ1TlJidWUtVjZDS0V6aWJsOTRKeWlBLUZwSHM1cWoxRdIBc0FVX3lxTE1xUmphb2c3QlBNaFBxM21rdWQ1RW1mQndkNFE5cWFfYzZnM2piOWxJNEMwVVhYaG1lMDJOZFZCbi1xTHFZRWdRbFJVSTlkek1DSVdKUzVmbF9YVmFvaWVlSUxKcUhPRWlyR2Yxd3lONW5vVUU?oc=5",
+              "source": "SPOTV NEWS"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "흥행",
-          "count": 4,
+          "word": "방탄소년단",
+          "count": 2,
           "articles": [
             {
-              "title": "‘군체’ 200만 돌파로 흥행",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uZk9JMEVpejVNVFdxaW8xWjhlcFB1T1lZQ0xOS1VWaWtDYnJkZXFTTmV1MHlUM1NIb0hEakZUdFU4RkNJRDlYLU1kSzIzV2dXT1NmUklFU0FDTWdFbEJXbmJRUHM?oc=5",
-              "source": "bntnews.co.kr"
+              "title": "방탄소년단, 부산 ‘바가지요금’ 숙소에 “적당히들 하입시다” 일침",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZVZUQkF1ZmNfd3psdmNrb3c3dUkySVk1WUR1Sjhhc1R3YksyVjNpN2diVmdnRGFJd2hZbXN4VjBMdTlDWXQ1dm5ZaUdUVDdlbTlUN0tjNEN1d9IBX0FVX3lxTFB3NmlsYlA2YjhnTjY3cWpyX2RQQnVndkNZdzQwTzJJeVlxSGVnWDBaWTJOdWxqbmlOY0NXeEpPNTNZaURJWlQ4NXZzSkRqRGhESWhScFZzejhDTFB6Zkk0?oc=5",
+              "source": "경향신문"
             }
           ]
         }
       ]
     },
     "경제": {
-      "summary": "코스피 사상 첫 8,000선 돌파·환율 1,500원 근처·미국 금리 인상 우려·부동산 가격 상승 관심",
+      "summary": "환율이 1,500원대로 급등하며 기업 경영을 위협 · 코스피 급등락 · 미국 금리 인상 우려 · 부동산 안정화 정책 강화 · 카카오 업스테이지 주식 가치 급상승",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 37,
+          "count": 35,
           "articles": [
             {
-              "title": "곧 종전인데 환율은 1500원‥이재명 \"외국인 주식 매도 영향\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oN1ZYTDZ1djNCNVV3M2Z6X0F3MjlvdHBLX3JjT1RSOUNJVmFSZ3BlTXpFN3lkazlIMDdQSzR1T2VuRVo4MkJNWDVuSVh5S0RYcExxN3NHNFlZSjZ4N043T0hvTE9kTFVEbzUwaFdCT3lKQXEzY09rctIBeEFVX3lxTE9uelNOYl9za1EzLUQxQ1ZpMW1QR2dJVXhicEk0c3pUVUpRRGxKQW5lSU02RVdxS183dEd5ZEtHbXFtS0VkZnJEeF96bUlCaEhCTm1sVGlkTUNsNkxNT250M0lMZnJhaUJLWU93cnVXM2E4a2w4WVJsdg?oc=5",
-              "source": "MBC 뉴스"
+              "title": "[환율 뉴프레임] 기업 경영계획 흔드는 1,500원대 환율",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mcjJLOGhTczVXNmtYYWJFM1JfZmxhbTNaSk5Jc0RNSzlOM1RqSXJRek56SjlGeXU0NG1FSF9GTUFBd2tmQVpkQ2VzVXQtcUxWLW41OWhCQVV1Snh2ME1KeGhKUnV4YWdQQmstQ2QtMXQ?oc=5",
+              "source": "연합인포맥스"
             },
             {
-              "title": "환율 뛰는데…김용범 “3고는 성공 비용”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaGRsYVJvNzQtWkFzZ1owWlFyN0tlc01vN0RBWmF3bE0xc3ZmcFdNemU4WllGNDBHRU14Nk9xcXNocE5ENmhuSVRJc1RZQlpzYW9HMER4aGtmQdIBX0FVX3lxTE5fTnVNMUEzeEg2cmpWQlZIOXpQbUZHaEJpWDlYTE1RYXhFYmg1YzkwVk9WSThlYVg1MW1zQXNON2FyN2U4Q0FOYTlmaVNYaEtkejdpeDlHVDJ4OWxXQzVn?oc=5",
-              "source": "경향신문"
+              "title": "장동혁 \"'물가·환율·금리' 이재명 입에서 사라져…오로지 주가만\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40ekxMZzJwcEdBNkotcHhuWE80Vm5ueExXQlozY0wwUkU1cFNZaHlydHpVX1RKZzl3ZjJoR3E2c0dMa1dObmh2dTloaGRIWVk?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "환율 1500원 재돌파…은행 자본건전성 부담 가중",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53TU85MXU0OGNwb2pPVGM0MGNyZ0tNX2h6b0VWV2FpUURoR3NKc29hclRYVWx5YVc5XzIyRHlUcjZLRktRa2duXzNHeElNYWVzM2fSAVNBVV95cUxNQkt4d2k5N1VvaEhJcnFXb3BOTHlKSXFIZlQwdUp6aVpzOFVmQ1Y4TG1RTHRaVVFWV2JLdmxhemZJNnJMNTVLQzJVZnFTUjBFbWdHVQ?oc=5",
-              "source": "서울경제"
+              "title": "장동혁 \"李정부, 물가·환율 대책 실종…선거용 돈풀기 탓\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHWXBQYW5OZHc0cUJ2Qkp5MUFJd05MUEs5N3RZdXRfRXFDS0ttLURwd3RuRTVqclE5RndIZGJENWUyWVFrLW9YRGpmS1NKME1lTXBhVnhQN0VHdlJJU2x5Sw?oc=5",
+              "source": "아시아경제"
             }
           ]
         },
         {
           "rank": 2,
           "word": "코스피",
-          "count": 28,
+          "count": 23,
           "articles": [
             {
-              "title": "코스피, 종가 첫 8,000선 돌파…‘200만 닉스’ 달성",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5RVlDMUdHTUp5ZnJEQjBuemwwbkhRX0dneEJPRHo1d2MydzVnamdQams5NW83amV2RW5OcGZvUXlTVlMtOWZsY3FIRnc4ZjQ?oc=5",
-              "source": "v.daum.net"
+              "title": "코스피, 장 초반 4% 넘게 급등‥매수 사이드카 발동",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nd09mbm1KQm41dmlTVFY1UFdUMVJwVUozOEpISEJFV0FHNXViRUZHN1hqVFZhWHA2c0ZIYXJNUmFyM1ZpSGZkbkxkNzZHV1otRW1FUzJDMnh4WUpFZWhkRWVLcEpabENMaHcxTk5WTlYtUTJtcENj0gF3QVVfeXFMUGFDNHN3a2FiYlB5RGVPMkxkdVR1QWdBcTdqMlkybzU5NThMTF9JdDRsLTgzVHRtTy1oNnBTcHdlOVRySXA4U0pXTnVXaTFxZVdkZlJRcmp2Z19YTzRESzhJQVAzUWUzOWlPYnNDZWp3cU92YWtUd3c?oc=5",
+              "source": "MBC 뉴스"
             }
           ]
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 22,
+          "count": 21,
           "articles": [
             {
               "title": "美 경제대통령 워시 시대 개막…세계는 금리 공포에",
@@ -203,7 +203,7 @@
         {
           "rank": 4,
           "word": "부동산",
-          "count": 13,
+          "count": 14,
           "articles": [
             {
               "title": "이 대통령 “집값 다시 오른다는데 대책 있나”…부동산 안정화 정책 점검 지시",
@@ -215,12 +215,12 @@
         {
           "rank": 5,
           "word": "주식",
-          "count": 14,
+          "count": 13,
           "articles": [
             {
-              "title": "곧 종전인데 환율은 1500원‥이재명 \"외국인 주식 매도 영향\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80akJMdlFtdXhfb0E3YzY4X1B2akpTMFhVRzFvRHhUdFBFa1V4ZkdybGo4eG5KdExvX29LaGVnaGlDTDMzYk0xclptVTlfa2c?oc=5",
-              "source": "v.daum.net"
+              "title": "다음 넘기고 업스테이지 주식 받은 카카오... 70억 책정했는데, 5000억 전망까지 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPei1oekpyS1RROGc1Q1JJMFVmZmdCbXAwX0FTUFJzaE1rdk5hcVAzdkp5V1AxLVlMd1dpVEVOMXNDSnhQZF9xRVQxOTVtNHlqYnlReURZcXNic055dkRtWEZ6VEZQV0pjUFVLV3QtbkxwaDdKQlJndDluVUszZ3lIOWw5M2NqdzjSAZsBQVVfeXFMUHlIR3VrTWkydjhJeXNLM1NYdUlnTENRbzRCVnF1M1BLRExvLVZfZUJpT3UtNHhtbjNacUJ6SFA2QnlWTG50RFEzT3B0c1c2Zi1FSmdnSWtnRXRNc0pLUkNaUDlGSWxpcXA1eFdRNS1IN0s4RWtVYldWeGtnUG41ZjlGNVNpY3o4bml2RnhQQjZIVXdrRFpDaHBSYVk?oc=5",
+              "source": "Chosunbiz"
             }
           ]
         }
