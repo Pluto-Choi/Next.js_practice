@@ -68,26 +68,29 @@ export default async function HistoryPage({ params }: Props) {
         </div>
 
         {recentDates.length > 0 && (
-          <div className="flex gap-2 overflow-x-auto pb-1 mb-6 scrollbar-none">
-            <Link
-              href="/"
-              className="px-3 py-1.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors shrink-0"
-            >
-              오늘
-            </Link>
-            {recentDates.slice(1).map((d) => (
+          <div className="relative mb-6">
+            <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-none" role="navigation" aria-label="날짜 선택">
               <Link
-                key={d}
-                href={`/${d}`}
-                className={`px-3 py-1.5 rounded-full text-xs font-medium shrink-0 transition-colors ${
-                  d === date
-                    ? "bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 font-semibold"
-                    : "bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500"
-                }`}
+                href="/"
+                className="px-3 py-1.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors shrink-0"
               >
-                {d.slice(5)}
+                오늘
               </Link>
-            ))}
+              {recentDates.slice(1).map((d) => (
+                <Link
+                  key={d}
+                  href={`/${d}`}
+                  className={`px-3 py-1.5 rounded-full text-xs font-medium shrink-0 transition-colors ${
+                    d === date
+                      ? "bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 font-semibold"
+                      : "bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500"
+                  }`}
+                >
+                  {d.slice(5)}
+                </Link>
+              ))}
+            </div>
+            <div className="pointer-events-none absolute right-0 top-0 h-full w-8 bg-gradient-to-l from-zinc-50 dark:from-zinc-950" aria-hidden="true" />
           </div>
         )}
 

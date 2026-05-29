@@ -13,13 +13,21 @@ export default function ShareButton({ category, summary, keywords, date }: Props
   const [state, setState] = useState<'idle' | 'done'>('idle')
 
   const handleShare = async () => {
-    const isIssue = category === '오늘의 이슈'
-    const title = isIssue
-      ? '오늘 뉴스 1위, 예상했어? 👀'
-      : '오늘 경제 키워드 — 다 알면 경제통 💰'
-    const text = isIssue
-      ? `🔥 나만 알고 있기 아깝다\n\n오늘 핫이슈 TOP5, 몇 개나 알고 있어?\n뉴스 다 읽을 시간 없잖아 — 1분이면 핵심 다 파악 가능`
-      : `💰 오늘 경제 뉴스, 이것만 알면 충분해\n\n핵심 키워드만 뽑아놨어\n모르면 지금 확인해야 해`
+    const shareContent: Record<string, { title: string; text: string }> = {
+      '오늘의 이슈': {
+        title: '오늘 뉴스 1위, 예상했어? 👀',
+        text: '🔥 나만 알고 있기 아깝다\n\n오늘 핫이슈 TOP5, 몇 개나 알고 있어?\n뉴스 다 읽을 시간 없잖아 — 1분이면 핵심 다 파악 가능',
+      },
+      '연예': {
+        title: '오늘 연예계 핫한 이슈 🎤',
+        text: '🎤 오늘 연예 뉴스 키워드 TOP5\n\n누가 뜨고 뭐가 화제인지\n1분이면 다 파악 가능',
+      },
+      '경제': {
+        title: '오늘 경제 키워드 — 다 알면 경제통 💰',
+        text: '💰 오늘 경제 뉴스, 이것만 알면 충분해\n\n핵심 키워드만 뽑아놨어\n모르면 지금 확인해야 해',
+      },
+    }
+    const { title, text } = shareContent[category] ?? shareContent['오늘의 이슈']
     const url = window.location.href
 
     if (navigator.share) {
@@ -43,14 +51,14 @@ export default function ShareButton({ category, summary, keywords, date }: Props
       >
         {state === 'done' ? (
           <>
-            <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
+            <svg width="15" height="15" viewBox="0 0 15 15" fill="none" aria-hidden="true">
               <path d="M2 7.5L6 11.5L13 4" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"/>
             </svg>
             <span>공유됨</span>
           </>
         ) : (
           <>
-            <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
+            <svg width="15" height="15" viewBox="0 0 15 15" fill="none" aria-hidden="true">
               <circle cx="11.5" cy="2.5" r="1.8" stroke="currentColor" strokeWidth="1.4"/>
               <circle cx="11.5" cy="12.5" r="1.8" stroke="currentColor" strokeWidth="1.4"/>
               <circle cx="2.5" cy="7.5" r="1.8" stroke="currentColor" strokeWidth="1.4"/>

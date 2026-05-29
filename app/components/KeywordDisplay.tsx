@@ -113,6 +113,7 @@ export default function KeywordDisplay({ data }: { data: KeywordsData }) {
                   return (
                     <details
                       key={item.word}
+                      aria-label={`${item.rank}위 ${item.word} — 관련 기사 ${item.articles.length}건`}
                       className={`group overflow-hidden rounded-2xl border bg-white dark:bg-zinc-900 transition-shadow ${
                         isTop
                           ? "border-yellow-300 dark:border-yellow-800 shadow-md"
