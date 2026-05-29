@@ -112,7 +112,7 @@ export async function buildOgImage(data: KeywordsData) {
 
         {/* 푸터 */}
         <div style={{ color: '#3f3f46', fontSize: 15, marginTop: 20 }}>
-          3시간마다 자동 업데이트 · Google News RSS
+          6시간마다 자동 업데이트 · Google News RSS
         </div>
       </div>
     ),
