@@ -2,27 +2,27 @@
   "date": "2026-05-29",
   "categories": {
     "오늘의 이슈": {
-      "summary": "미국-이란 60일 휴전·핵협상 합의 체결·사전투표 첫날 투표율 7.02%·서울시장 여론조사 정원오 43% vs 오세훈 38%",
+      "summary": "이란 핵협상 합의 추진·서울시 고가 붕괴 수사·젠슨황 방한으로 IT업계 주목",
       "keywords": [
         {
           "rank": 1,
           "word": "이란",
-          "count": 5,
+          "count": 4,
           "articles": [
             {
-              "title": "\"美, 걸프국 통한 이란 '경제지원' 물밑 추진…3천억달러 규모\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Vc0RacU1VSTJQOFBpUi0zNDVCM1NaNVNMV1k2V1l3a0pOSzdwVXZIcFlFd3pQdDl5aXptVmdTUkpTY3lGN2ZhS3NBdXozb21QSDNjSmxOMGpVVFHSAWBBVV95cUxQZVhKV1k0S0R1RW1XdFVLVGpwUU5oSjBPM28zMTItTWVSNXl3TWpXbnBfMTlTd2p6OE4xMmk0VHo1eHY4anN6WUQtRmdrb0F5QmNZWVhlYlZ3bks3NWhRZWo?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "“트럼프, 이스라엘 등에 이란과 종전합의안 초안 공유”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14SnJmaU50UzFLdjhaT205Z2ExeUlYRFlRbTNZdnV1RzVRak15QnZ6MndaNnU0QUMtNDE5OXpEZUtaRXplUXl6c2REZEt2bVlUU0ZQQzBHLVlHUdIBX0FVX3lxTE1xY3hxZHpxVkZtS2VIbGt6R2FPQnJ5LXJQeEs3c0tZT1FEZ21OQlAwZC1RM29mSVVBcExNNlhtdE1tWmxhQy1CNERBSUNPZ0hPbFpCX2V5UVpHRmxYOXE4?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "“미·이란 ‘60일 휴전연장’ 잠정합의…트럼프 결정만 남았다”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92bkI0ZHNyeE9NSWl1NWphMk5xT00tWnBySjFlcnhhMnFyZm5PbzUxZW1udWxoeFphMTduYXBtMGpzRFZPMjBjNk9XRWdmMVk?oc=5",
+              "title": "이란, 60일 휴전·핵협상 합의... 트럼프 최종 서명만 남았다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85VVdkVUlDWTZ1NUtsNDIxVGdYNVhLWWdhbUU0X1Q0WnZuVXl4NDhsUkpLa21zQ284cWczbjYtTVdkOVBuUnhXQVVpQVg5V1U?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "“트럼프, 이란에 ‘450조원’ 준다”…‘패배 인정’ 배상금 지급하고 전쟁서 발 빼나 [핫이슈]",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SU083VFY0eUE4N0VFWGIxM1lUMXRTREx1OGxINl9yeldxSi1TOUdPSExOWXZJbmYtLUhpaFh2YWRlZTNNNUYyMjBESDhoajFUSkV6bnZaZ3FlbzRkOWFJb193R3RvdTB3bVJPZ0J5U0I?oc=5",
+              "source": "나우뉴스"
+            },
+            {
+              "title": "\"트럼프, 이스라엘 등에 '이란 합의 초안' 의견 청취\"",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtZTdsMk93eVJWMV96clR5NUk3NjJaZWZETHVxUVMyQmNZRnFoX3h5N0poSEtkamI2emVSZl9WcnJFSVM1R1dKWmFFNDRDZ2FsYmlacnB4XzM1bU5BOFkxckJn?oc=5",
+              "source": "뉴스1"
             }
           ]
         },
@@ -32,21 +32,21 @@
           "count": 3,
           "articles": [
             {
-              "title": "사전투표 첫날 오후 2시 투표율 7.02%…전남 14.5% 최고",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHd00xZFYtTVR4WlBaMHRyaGh1ZzhmWnBCSGY2MzJnSENvRGRmR0pGWVhOaTNydGtkTzFfQzNsbHFZZ0dtX1FVMkMzdWpFVkhhYnlCTg?oc=5",
-              "source": "JTBC"
+              "title": "사전투표 중 기표소 나왔다 들어간 李대통령 “반만 찍혀도 괜찮나”",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43NmVmR1E5UnlEemsxS2JrclBMeEVhSGFIM3NET2lRYmxaUHZoeFpSNUZlZW5vYkpqd0ZSdTc0M2tUV3M2TWw0Njl5N21qWkU?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "오세훈",
+          "word": "LG전자",
           "count": 2,
           "articles": [
             {
-              "title": "[JTBC 여론조사] 서울시장 ‘판세’ 달라졌다…정원오 43% 오세훈 38%",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OTjVnbC03WGVMdzlmZGYxRDBVMURLZEx4VnZHd011ME9Jd2tqZVBjNG5ya3pNZXlkSHlVVHFWdmN6Q1k0WU9vWnh0Zm9aYlY2NmhWbg?oc=5",
-              "source": "JTBC"
+              "title": "LG전자도 뛰고 현대차도 뛰고 네이버도 뛴다…젠슨황 방한에 들썩 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82R1NCZ3pIbHlvQVhTamZLbVJLajQ5cF8tajJhTUYtUWpsS3hfcGoyY1RwdkNKOVc1RnI4cE5LUGFiY2VOc3RzLXNmdHA3RE1Pc3hNSEZOX1pibXhsUVlvWVZ6aXRJQlYz0gFuQVVfeXFMTXhkQ3puYWJrR08yRTF6LUdkUVZTaU1ibE9HSXdSN21oSTh1eDE1WFROM0NsNTA3b2JxLVRhcWtjOFZSZzdnMmo1Q05WcWoxaHFvSnJXQUhBcFRaelppbEo5cWxwRHZNNWxvZUFpUXc?oc=5",
+              "source": "머니투데이"
             }
           ]
         },
@@ -64,20 +64,20 @@
         },
         {
           "rank": 5,
-          "word": "트럼프",
+          "word": "서울시",
           "count": 2,
           "articles": [
             {
-              "title": "이란, 60일 휴전·핵협상 합의... 트럼프 최종 서명만 남았다",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85VVdkVUlDWTZ1NUtsNDIxVGdYNVhLWWdhbUU0X1Q0WnZuVXl4NDhsUkpLa21zQ284cWczbjYtTVdkOVBuUnhXQVVpQVg5V1U?oc=5",
-              "source": "v.daum.net"
+              "title": "경찰, '서소문 고가 붕괴' 서울시·시공사 등 7곳 압수수색",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPR3o0eEJUeW8wdmltUXV2VjV3TFNFdXpVb2J3enpWNWdmSHpzMWJuSTBCQll6R1NsOE1QMW1sRlZkcmhQX2xSU0dYMS1mTFJfOWVuTXZQVTk4WXFKR1ZVLTJRZVViZWdFblhkS2VYVUhfWUJ6ZUE40gF3QVVfeXFMTnZENjZRN1d5alUzU0hIVU9DQ2Frc1Z4NDdpSE1lMmJJMXR4UWRXYnhFZXR0SEEydnBnT0dYazlaU2Vhbm5yb2lPX0NhOF83di1RWXkzMUs2cW9jdDJ6QlR2WkxnSk9lMExpVVhhdTNDNWVQOTZtMzA?oc=5",
+              "source": "MBC 뉴스"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "방탄소년단 RM이 군 복무 중 어려움을 겪었음을 고백 · 정국이 가장 영향력 있는 한류스타 솔로 가수 1위 선정 · 차은우 군악대 보직 적절성 논란",
+      "summary": "정국 '가장 영향력 있는 한류스타' 1위·중소 아이돌 유튜브 성공 사례 주목·김수현 성희롱 의혹 피해자 구속",
       "keywords": [
         {
           "rank": 1,
@@ -85,19 +85,19 @@
           "count": 12,
           "articles": [
             {
+              "title": "[트렌드 인사이트] \"300만, 야호~★\"…리센느로 본 아이돌 유튜브 흥행 공식",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kT2k0VmxwbUZHTVdHa205Wk5TM0NweEFDZ194Y1NUeXNFVC1JRVpwRk45RUwtSS1UUXNwZTV6T01pck1jS3g4OVFKRVVvakJxSExUejVIa3lhXzl4al81QzJmVDVrT25WV0hQc9IBcEFVX3lxTE5mN0JVdFY2SGVrV2xPcmI2RUppU2ljMHlRNzk4WGJMWG16TWdWbXJ6QTlJZ0tfZ2ZiWDBMS1RpaHo2Rkx3SDRXLXN5Sm9vVXRSYmU0MzMzTUpXa3BNZ3l5WWRFYW5DS19xMXhtek1VcUM?oc=5",
+              "source": "반론보도닷컴"
+            },
+            {
               "title": "[Opinion] 거제? 야호-! 중소 아이돌이 K-POP 시장에서 살아남는 법 [사람]",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XemNRR3g0c2VuRTZmWW9tY3MzT1FhNWdiMFlLZGdadmVWb1pXbWRuWWNqb3JrdmxXamtzNmF2N1JhOGJrRTZDT1JzLWotLWlKOTVkbVh0MlR4RnBtNUpPSA?oc=5",
               "source": "아트인사이트"
             },
             {
-              "title": "2년만에 그룹 해체된 아이돌, 제주항공 승무원 됐다…“지금 삶에 만족”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrc3hNeTBUZVNXM1NxblVjVUlFU0J2S1E0WV9HclA4QkRHdWl3WVZ2REdmSmJTMlJGM01hbndTYjNKbTZCVmduTjJULUVVbnpneVE0VTVR?oc=5",
-              "source": "헤럴드경제"
-            },
-            {
-              "title": "아이돌은 승무원으로, 승무원은 인플루언서로…'제2의 인생' 찾았다 [엑's 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xb2piVkpUUlFMMDRMUkZvZnloU2VhRlVxVFdtNDM5TkZZMjRWR2tRSTZ5endHN0J6djVBNTBpVkk4YjZYb1EzeDM0UDk2X28?oc=5",
-              "source": "v.daum.net"
+              "title": "강동원 주연 '와일드 씽', 아이돌 콘셉트 OST 앨범 발매",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zRXlKUExLMG13N2JTSEdMbGJ0bzdtaEc5ZkcxZmdPVGtxaEoyV00tdHh3Xy1wMlVENW1NOGQzN0N2NGNST1NXSnEyVHg5R3VDYXZfSVU1NnlUSk3SAWBBVV95cUxNV3JEUHZDeThsUkZuWFJNRUdhRnJwWGVGUjhod0RuYi1tX1l1WTBYcDlVbkRSeURRVXRmRzdwTzk4WVJ5NkRFMUZybUhnWjNYdnVKeVlha1h1eVQ4Sm1ENXQ?oc=5",
+              "source": "연합뉴스"
             }
           ]
         },
@@ -139,20 +139,20 @@
         },
         {
           "rank": 5,
-          "word": "방탄소년단",
-          "count": 3,
+          "word": "배우",
+          "count": 4,
           "articles": [
             {
-              "title": "BTS RM “펑펑 울고 멘탈도 안 좋아” 군백기 회고",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TMUFKQks5NGxURk81SmxuQ09oeElralVuN3M1ZzZQMVZ3NHgyemRJcmp3bW02QlZJRjk1bE41RUpXUldoZlkteTNYSVV5Q3Y4WllZN0NfSjBZR18tSVHSAWNBVV95cUxPQXdmS2hVNldxazN4OVpSbzB0eHRBUDQwbDl2eXVabFFwQjdJTWJ6WGFBRjFwb1VPSlgwNEdyd3JUbk8zZ21pdDZFNW0wT2VQRDNPQWFMY3JBS3JPcWZRcTNPbVk?oc=5",
-              "source": "스포츠경향"
+              "title": "배우 김수현 측 '가세연' 김세의 구속에 \"마침내 진실 증명\"",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55bEZfQUkyX2p6a25XdUhFWkN5UmtrdWNlbi1WNzBocEo0dXFtWGdqakNWcUpVTTAxbEQzQjFfb0NfZElWZE93aFVoWTVLYXVDbVE?oc=5",
+              "source": "노컷뉴스"
             }
           ]
         }
       ]
     },
     "경제": {
-      "summary": "한은 기준금리 인상 신호·5월 코스피 24% 랠리·외인 매도에도 개미투자자 ETF 매수로 증시 지탱·부동산 거래 증가",
+      "summary": "환율 상승 압력 속 한은 금리인상 공식화 · 코스피 하락세 속 개인투자자가 ETF로 증시 주도 · 삼성전자 주가 하락에 관련 종사자들의 부동산 투자 활발",
       "keywords": [
         {
           "rank": 1,
@@ -160,9 +160,9 @@
           "count": 36,
           "articles": [
             {
-              "title": "신현송 한은총재 “기준금리 인상 필요…물가·환율·부동산 모두 갈길 명확”",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YZ0NLai0xZDh0NzZka1JKN0c2QzVKTjh3R1pSTUhTd3RXTElLX0hmSUlfbnhHeE5rMWxEY0VIcmhtdmFZc1RQMThaOUVaU1RVc21Iek1XaF9HTWxWSE1lcl9XcS1mRkJnMVhvTmVjZXFMcEE4bnfSAWZBVV95cUxQMHNrVENMMzhkeE45RElwbFJ4b3R0eXdqN1h3Z2FLUF95RXZlRGZ4UkNVaWxIY0NZUFFubHllRklLMUM2Qm8zWFVMY1R3UGk3d2U0V2lrUWs0NkkxUHhKOWFMa2lwSXc?oc=5",
-              "source": "동아일보"
+              "title": "신현송 “환율 쏠림에 단호히 대처할 것”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvZTE5Y2Jua3lpNGVSSlhSWVA0NUg5cC1yUlhGOHBCU2pZZ1VGaDBlYzdCdHFfT3Jlcmtxa1M5RmMtXy1MN0xwbUx4Qkt0SWxuZGdzczhyTWZQUdIBX0FVX3lxTE5xeXBPOHVCaDdZNDZVR2syY1FuT2syMG4yZGk5X2doQlMyNFZJcy00Yk5iZXAzQ0NzX3g2eUYwQU1VZkEwTzkzcU5LUVVhWmFXZTQ2b3BPLWx3RGxTZFlV?oc=5",
+              "source": "경향신문"
             },
             {
               "title": "[외환] 원/달러 환율 7.3원 내린 1,495.5원(개장)",
@@ -170,9 +170,9 @@
               "source": "연합뉴스"
             },
             {
-              "title": "코스피, 2%대 상승출발해 장중 8,400 회복‥환율 1,495원",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ITmRvY2I2NUNHZ0pIUTlBbFdubmdMMkIydlFDZ2tQeXpJbmxoSVlXS1NwREJWb2tuaUVWejZXbk83OGVxcERnUmFnaXpCWXpKc0c2T1F3dHN3eGpmN2lhdVQtUkZtdnNUOE1nbUpSZU1TWFVq0gF0QVVfeXFMTzJMdExXRHNvRzI5QmJoeHJ2Mkp3NWtrYTJPcHQtSkNaNUhOa01OeHpoODVoUGxpdVZQYmZCaVlEelM3ZnJfUTR1YXJ3MnFLTEx0bm9DcG43R0FDb0lSUnN2YmJuc0JhNHY4U1EzVFR6Ym1Vbmk?oc=5",
-              "source": "MBC 뉴스"
+              "title": "엔화 방어에 111조 투입…日 정부 개입액 ‘역대 최대’",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fZWg5U0RZVGN2Qk93NHRqcDBQWTZfWGhCU3RMcVQ4bU9FSW5xdGl2X0tfN0NkYnhmRnhqMnhpU2F0RE1kaWkxM29nQUJkQm1rWEHSAVNBVV95cUxQUGlXM3BDSnlJcVVqMVo4T0Q2RE1vMHZPUi1YcGJVTVhhTUFZXzh4T3hIZUg3bjF2Tm5wSnNqdjI4RUh2V3gwRjdocDFmbUFHZmNNWQ?oc=5",
+              "source": "서울경제"
             }
           ]
         },
@@ -182,28 +182,28 @@
           "count": 27,
           "articles": [
             {
-              "title": "'5월에 팔아라'는 없었다…코스피, 이달 '역대급 랠리' 24%↑",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MdEZKZTBmdGpqVGMzczJ1WkQtOENwVTlmVl9TdXRzal8xY1p3N2FwUUhBN1o4TlgtN2Z4dTEyNE5WczV3aE14QmcxNG9ydFF0ZExkUm1JSW85THZFMDFJNtIBeEFVX3lxTFBOOThaeE1sUk52b0M1UngwcHNpMEM2NzhOTFgwTmdvYUlCb0t1aXVOZlY5SjVIRkwwRWVSdDk1ZHpPRHg1N3JSTUJ2d2toSURtQ0FrajVXNkVUbFZuVWJxR01XQzNkM2ZZUUZlbVJTSHhaTm5kNWpxRA?oc=5",
-              "source": "뉴시스"
+              "title": "\"아, 삼전닉스 살 걸\" 후회만...코스피 10종목 중 9종목은 하락 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41dGQwSzViU09NTk1lRkltRXBsbU9UVXVoRDNyTEJvbm9vcXIzMEEwWWZyMWxMR3R4d0tjdTFzMlZSWXFtLWt5NzQyMTBTN2JKc3hwNVcya3ZqdzZ0a09YVTF6S2hrTzZo0gFuQVVfeXFMTzVLNXBXVzJKNDgzRFA2Vk8tYWpvdEFHMmRBR3RpNUxFSk1yVEtkbkpRWUV1dl9VazBmUE41ZlVpMkZsVklETzRWVjZBM083aFhsWllGRHlCNzVRaVV1V0ZhN3JON0lDSUdLalctUHc?oc=5",
+              "source": "머니투데이"
             }
           ]
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 23,
+          "count": 24,
           "articles": [
             {
-              "title": "'7월 금리인상' 신호…대출금리 더 오른다",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5S3JURGVWakdlNGxHRVJkdmxveHBxY0l4OWNLcGpoRXc5TDZtajhOd1hoalJIU0lHSTI2a1pfZ3Q2VEVxWEtmNXdGTXlaR3lTRVBFMTVTYkVHYUMtTmNIUdIBeEFVX3lxTE1ITndpTXE2c1RKVWNWWjBSamYyRVdDZGdOWmZHRDd5Rm1OV01HcnF4UDNCeTN1aC1TVjhhNFNLcjBNYUJhZEZYQmdMZGpLWTBwQWpLcXpHRzg2eEdtbFVpNmJhcjAtQzlTZ1JMdWphRUI2OUFBdF9OTA?oc=5",
-              "source": "뉴시스"
+              "title": "‘매 발톱’ 드러낸 신현송 한은 총재…금리인상 공식화",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpN0JqUzU0RnZaczNkMVpVeE5rYkI2LW5mQjNqT1hDQTRSdkRNbzJxV0JvT3VOdHVVLV9ka19PS0UzTzdhbnFPSllTcURnQQ?oc=5",
+              "source": "dt.co.kr"
             }
           ]
         },
         {
           "rank": 4,
           "word": "부동산",
-          "count": 15,
+          "count": 16,
           "articles": [
             {
               "title": "\"김 대리, 집 샀어? 나도 계약했어\"… 삼전닉스 군단, 부동산으로 진격",
@@ -215,7 +215,7 @@
         {
           "rank": 5,
           "word": "증시",
-          "count": 14,
+          "count": 15,
           "articles": [
             {
               "title": "'큰손' 외인, 매도 폭탄 던져도 든든…'500조' ETF 개미가 증시 이끈다 - 머니투데이",
