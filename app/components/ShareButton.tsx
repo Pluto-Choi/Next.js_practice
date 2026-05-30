@@ -13,21 +13,8 @@ export default function ShareButton({ category, summary, keywords, date }: Props
   const [state, setState] = useState<'idle' | 'done'>('idle')
 
   const handleShare = async () => {
-    const shareContent: Record<string, { title: string; text: string }> = {
-      '오늘의 이슈': {
-        title: '오늘 뉴스 1위, 예상했어? 👀',
-        text: '🔥 나만 알고 있기 아깝다\n\n오늘 핫이슈 TOP5, 몇 개나 알고 있어?\n뉴스 다 읽을 시간 없잖아 — 1분이면 핵심 다 파악 가능',
-      },
-      '연예': {
-        title: '오늘 연예계 핫한 이슈 🎤',
-        text: '🎤 오늘 연예 뉴스 키워드 TOP5\n\n누가 뜨고 뭐가 화제인지\n1분이면 다 파악 가능',
-      },
-      '경제': {
-        title: '오늘 경제 키워드 — 다 알면 경제통 💰',
-        text: '💰 오늘 경제 뉴스, 이것만 알면 충분해\n\n핵심 키워드만 뽑아놨어\n모르면 지금 확인해야 해',
-      },
-    }
-    const { title, text } = shareContent[category] ?? shareContent['오늘의 이슈']
+    const title = '나 매일 이거 보는데 너도 볼래? 👀'
+    const text = '오늘 대한민국이 가장 주목한 키워드 TOP5\n같이 확인해봐 👇'
     const url = window.location.href
 
     if (navigator.share) {
