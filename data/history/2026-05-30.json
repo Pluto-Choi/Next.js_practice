@@ -2,87 +2,87 @@
   "date": "2026-05-30",
   "categories": {
     "오늘의 이슈": {
-      "summary": "트럼프, 이란 핵협상 결론 없이 회의 종료…종전협상 백악관 회의 임박 · 홍명보 감독, 정몽규 대한축구협회장 사의에 당황",
+      "summary": "트럼프 이란 협상 막판 고심 중 · 전남 사전투표율 38.95% 전국 최고 · 대구시장 선거 민심 팽팽 · 한국 군작전통제권 전환 추진 · 정몽규 축협회장 월드컵 후 사퇴",
       "keywords": [
         {
           "rank": 1,
           "word": "트럼프",
-          "count": 2,
+          "count": 3,
           "articles": [
+            {
+              "title": "트럼프 “최종 결정 위해 백악관서 회의”…‘휴전 MOU’ 합의 임박한 듯",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yQVI2bzU0azZYVko0Q1RuOGR3QTk1ekstOEdmX2NsWFBPT0xoUmlkemI3TWhfRXFEQjNkajVwdGJteXNVU21meXl5X3hTVkZ6OEtfcmYxajNpNXdKNjZJM3hFS1lJVG5FZS1naGphVQ?oc=5",
+              "source": "한겨레"
+            },
             {
               "title": "‘승인만 남았다’더니…트럼프, 이란 협상 막판 고심 왜",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zMWJaWFJsM0FwM2xNTWhKQXNsMi1OTU03LXhCX3ZxUl9WUkJEZElVcHJkaGtrY0ZoZXMyTVZXdnVLcHVKODc3eVNuSmNDRG8?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "美 법원 \"트럼프-케네디 센터에서 트럼프 이름 빼라\"",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWtxZldzZVJxS3Voc1B6VzNwbXcxb3V6THBWZzVoYi1GT19PYXNMVTRlSTh2aVZHUUdmMTdrRVFGX0FPeXR1WGJvMjhwMlVHNTk0N3ByNlRQNTBVRGtsRGRFZHp1ZUhBSVhOcVRZZ0JIWkNyYnpOeWxHLVRJNUFBN1JLWXBhb1JjeS05OWFuX1FoRGYyeGdpTHZrcktjUQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "美법원 \"케네디센터서 트럼프 이름 빼야\"…트럼프 '발끈'(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NdU1LUXJXaHZFbTFQU1Z0U3dUNXU1RFZDT0pDUGlTN2tUV2h3cldoZ1NCR1dscXhpOTU2MDdLdFp4MWFseExKSG5mVUt3V01lX21xRUoxTld2cTjSAWBBVV95cUxPWnBvX296OEgzTVBkLTZZRDcwOEdqNnd0SmxZcjQtOTlOTE4ybG9aUDlYZjNzdFBTTHdRVXZyWklaY0g5ZkNTWHN1NzQyWnowY01PcVJJNXNBQTlwU2dGaEU?oc=5",
-              "source": "연합뉴스"
-            }
-          ]
-        },
-        {
-          "rank": 2,
-          "word": "이란",
-          "count": 2,
-          "articles": [
-            {
-              "title": "트럼프, '이란 합의' 결론 없이 회의 종료…핵·호르무즈 이견 여전(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1paW1xRUh5bURvNUZEN1p4ZnR1cjZuNXB2M18yaGd2d1MzNm52LXpPMUFraWdobUcyNXAwc2dCOGF4eGdSOVktbEtDbTl1REE?oc=5",
+              "title": "트럼프도 \"빨리 사라\"며 쓸어담더니…하룻밤 새 39% 급등한 종목",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85Wk5ZN095SU93YktncGhtSVBHeGt4emZyMkFVRzYxUnlIT1ZHSzlQTzVKVUprZUdvZlROVndsdTdpOFByWmc?oc=5",
               "source": "v.daum.net"
             }
           ]
         },
         {
-          "rank": 3,
-          "word": "종전",
+          "rank": 2,
+          "word": "전남",
           "count": 2,
           "articles": [
             {
-              "title": "트럼프 \"종전협상 최종결정 위해 백악관서 회의\"…MOU 임박한듯",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnUVp5SnhrOThYRVRndW00Z3lFaldZcVlxRVNCckhHZ2dodjlteDBUX1dpYXZLd1J4cHBkWW0xWENPelc1OEdpZTFSbGNwd0tTcnBnM08tRDJwd0nSAWBBVV95cUxNbTg2N0w3bVoyZ2RWX2tIN1Riem93UkpVNm50RERHMEExODBjMW9EVzRmdjdxX0RtVEJlR3dPNXZROWswMGtBVHo3c0l3N0R2LWhvOG10Sk0yWTBLeHlzWk0?oc=5",
+              "title": "[사전투표] 전남 투표율 38.95％ 전국 최고…광주 27.83％",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WYWNWbDFfN3NDZC1mMGs0ZC1pWTF3VWs4elkyMHg2ajBfYmpDaXRZVVp4V201bF92c1B5RjY1LUppVndmZW9PNUdlZEFobnI5NXdXLW1jUGwwVTTSAWBBVV95cUxNa0lMVWpoNnZSdXJnbU1UX0p2V2FuQnduT3d3ZklJU3dETGNZY0hmUlltRGdPZ3E2UnRKd1VhdUZacnhvc1ctVFJzT3BhczdtTldxTkRnbF9INmQ0RkxrNDI?oc=5",
               "source": "연합뉴스"
             }
           ]
         },
         {
-          "rank": 4,
-          "word": "주식",
+          "rank": 3,
+          "word": "대구",
           "count": 2,
           "articles": [
             {
-              "title": "주식으로 10억 만든 직장인 \"회사, 강제 유급휴가 뒤숭숭…난 걱정 없다\"",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuTzY3VEVqNU9WQVQ2a3RLNGNiSmRPenBqNWFad1dmQk00YjJuMElKN09QRjlUam9GVnlQdmdsNEhfLXp0SHBfa0RQR3FLSm83SjZJUXlNMGZVMDl4aXkxSDR3?oc=5",
-              "source": "뉴스1"
+              "title": "[르포] \"김부겸이 돼야\" vs \"그래도 추경호\"…대구시장 선거 민심 팽팽",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HRTVJVFY5cTBucmtheG1qOXhOaUhGQkx1emVCazI4WVd1VllUOWg0eG90Rkh4em5NRnl1MmtfdTExX3g0RGc?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "작전",
+          "count": 2,
+          "articles": [
+            {
+              "title": "美국방 \"한국 같은 동맹국, 軍작전통제권 신속 주도 고무적\"",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPODlEcUwxc0dnWDh0dFZwR1JPVWE1R1hldWxGd0tpWGVSczRGcEZvc3pweHhqNmhxSmhvT0I3LVk5NmZndU83QlNGUGg0Q3RsYnFpZkVSZVowY1NCXzVKWlBXQ0lqTHVSZVJHSllaTVBzTmRWR29IbDBxUnd0MlNsTUViZ3pmMmEzWmVJeGtBN2pQeEpnbWE3engyQkNDUQ?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "홍명보",
+          "word": "사퇴",
           "count": 2,
           "articles": [
             {
-              "title": "홍명보 “정몽규 사의 굉장히 당황스럽다”",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiSVp0cmRtYWdJSmkwTDBRb2t2bTItb0FXWGN5NFJHSi1OUEpjRC1HLXRIVjN4cmxtRmZtaVhpUkk0ckY2eHltYkhoVXFlYWJmUldmaUdSVXRVcENqeXFmWWkyNFMzRVRTcDNjMXhsdjJpRjBpVnfSAWZBVV95cUxNcG1xZDJSbG1DOEEwOHAxRTRkWldBYzFibUw5T1BGUDc2Tk8zTXpmRVZlMlllWUJSUTFSdXpCQVNmSXJFaWlwOXJIaXJhVnNVd3ZFQ25KN3NyZllZTlpuTVI1cnNWenc?oc=5",
-              "source": "동아일보"
+              "title": "정몽규 축협회장, 월드컵 끝나고 사퇴‥'13년 만의 퇴진'",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03dnRudmpqb3ZYQkwzZktRYmt4NVdaTW5pTllqMFpaazBrV2VDeGctNXVwTmIwVVB1VkRpa0l2T2dlb0VBZ3Q2TTRmS18ySEVZXy1uQWtzLUFCSGRxTDlRNWVPS0lyemEyRllxNE9iSnFsckx5LV9vRNIBeEFVX3lxTE9sOXhVUkVkcm9mRklselJxNkx2RmRaR1NId194WFRJaThhWTgxNTRJOXExcktZR2lLV3kzOXZpNjMzWWpDU0xMRk9XQlJQYloxTkEwcEI1MDlray1ad19MWWw5bGpkWWNLelU4eVZ3YlJqWGllWXM0bA?oc=5",
+              "source": "MBC 뉴스"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "에스파 섭외비 1억원대 · 정국 가장 영향력 있는 한류스타 1위 · 이병헌 CNN 다큐 출연",
+      "summary": "에스파 등 아이돌 축제 섭외비 급등·유튜브 콘텐츠로 인기층 확대 · 한류 지속적 성장 · 차은우 군악대 보직 논란 · 이병헌 CNN 다큐 출연",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 12,
+          "count": 13,
           "articles": [
             {
               "title": "\"에스파 부르면 1억?\" 학생회비 '영끌'...대학 축제 '아이돌 섭외' 전쟁 - 머니투데이",
@@ -104,11 +104,11 @@
         {
           "rank": 2,
           "word": "케이팝",
-          "count": 11,
+          "count": 12,
           "articles": [
             {
               "title": "포천38문화예술창작소, 청소년 위한 실전형 케이팝 교육 ‘포천38 케이팝 헌터스’ 운영 > 뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBFeTdlZHFoT3Z0S2MtbEc5bDgwZ0U0LWhCSDFkN21NN25fdTZRT2RxR2djQTc2b3JIZHhPMjdTa3JfaEk?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YTGJKd3FfUEZSbzdmUEJEWlMtOHdpLXc1akxGSmFLbmQxMlowS1A4ZjBwY1pvOHlhcG9EMkw0SlFzRTFWUURRZnpjcV80c2U1TFFDYmFseHMydDQxbnBja2o5X0xOakNJRE1aNmZKYjg?oc=5",
               "source": "더코리아"
             }
           ]
@@ -119,9 +119,9 @@
           "count": 8,
           "articles": [
             {
-              "title": "방탄소년단 정국, '가장 영향력 있는 한류스타' 솔로 가수 종합 1위..2026 해외한류실태조사",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMSndiWUlaM0EtVGNfcXRPcTFaSElQdWY1VzBoaGZ0cWNNQk9nWk8tU3NQanlBQ1VpZzRUeWw0ZTVEWVp6dU41RlJJYUpJZTg?oc=5",
-              "source": "v.daum.net"
+              "title": "\"잠깐 유행? 인기 얼마나 가겠어 했는데\"…한류의 '대반전' [K컬처인사이드]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pbF91RElITEVFV0s0dlJpQmtBWTFwd2RLMFRjQmhZY05MWXcxNGJsa3ZvWk1aRVctdXlKSmNFcFpRTlFoMGIwWGIxc0Q1LXRVWDc5Z0owQmZCUdIBVEFVX3lxTE1EMFdMZmYyOF9ZTGtwT0pzQ0tlZ2JKM0tuVDVGLWlRY2NzaXB4azRzMGJuTzE3bTA0cVB0dWp6NURsUHhRV1licVlVc3BmTXNMMzFXTg?oc=5",
+              "source": "한국경제"
             }
           ]
         },
@@ -152,18 +152,13 @@
       ]
     },
     "경제": {
-      "summary": "원달러 환율 1500원 돌파로 경제 불안 심화·코스피 대폭 하락·전세난민 증가로 부동산 단기임대 급증",
+      "summary": "원달러 환율 1500원선 돌파·전세 난민 증가로 단기임대 급증·코스피 하락장 지속",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
           "count": 33,
           "articles": [
-            {
-              "title": "1500원 넘어선 환율 어쩌나…李 \"주가 안정되면 멈추겠네요\"",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94V1I5XzJMbU04a2YtVm0tbUN4S1BfZktHZlFVZnc2c0FXNXNNTGVyd0RfYzJSWE9EY2J5Q3FxR3JUTjdHdWIyVWQ2MFNuTUppTXJDWjFrdElDQdIBVEFVX3lxTFBxaV9IcGJwLVVBaVFTUGxKMHEweDFyWEdaWEVvS1JNT1F3TGEyRzRPX0xuU0hhT1pscWdoRDV2djFTR2h3VkZwQnVLSlh2WkMwa1Q4aw?oc=5",
-              "source": "한국경제"
-            },
             {
               "title": "1500원선 뚫은 원달러 환율… 통화스와프는 감감무소식",
               "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XYVRYakU5Y1ZwdXg0Zk9JbDlWbE1aU2UteXZfc29SSm8ycFI4OTNnRTJJblhOU0lOaVFhR3pWa0RJRFE0RGVXd19tQk9Pd0d0TWZPcC1MTGFBbkJMLXVQbXVidks0c0EyMHfSAW5BVV95cUxNRmtRdXBLOW5TNnVta0tSUkRXZjg4eGN1Y2hsd09TLW5FZTFVcEJaRzZsQ0hXUlVfc2x6QmxoZDVmdGhDY0xOMUNxZ21MUWd1NkktSWJKZXB0Ym9NbnhSMmM3U29Qd0lZeDhuYm9NQQ?oc=5",
@@ -173,25 +168,18 @@
               "title": "달러-원 환율, 종전 MOU 준비에 오름폭 줄여…1,504.70원 마감",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzMEctcWxuN2daR3h2bllYak4zdndFZWJKZlNVRlI4eERpWlBFdXZfczVFQnIybW02SkJMUmJEcFdkZ29LSnVrMzhJeFFSVjg?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "1500원대 복귀한 환율…외인 순매도·배당 송금에 환전 수요↑(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qNGlQbHhOWkh0UVRmQU4wd1VxLWZtdl9qbFJRc3NRMTFGR0RsaVgzeEtEUDlVc1R6MjlTenhGc2lPQl9lTUMwZElGNHV4THdZaVREVXNtMXhlNDZ5bnZZ?oc=5",
+              "source": "뉴스1"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "코스피",
-          "count": 27,
-          "articles": [
-            {
-              "title": "\"아, 삼전닉스 살 걸\" 후회만...코스피 10종목 중 9종목은 하락 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41dGQwSzViU09NTk1lRkltRXBsbU9UVXVoRDNyTEJvbm9vcXIzMEEwWWZyMWxMR3R4d0tjdTFzMlZSWXFtLWt5NzQyMTBTN2JKc3hwNVcya3ZqdzZ0a09YVTF6S2hrTzZo0gFuQVVfeXFMTzVLNXBXVzJKNDgzRFA2Vk8tYWpvdEFHMmRBR3RpNUxFSk1yVEtkbkpRWUV1dl9VazBmUE41ZlVpMkZsVklETzRWVjZBM083aFhsWllGRHlCNzVRaVV1V0ZhN3JON0lDSUdLalctUHc?oc=5",
-              "source": "머니투데이"
-            }
-          ]
-        },
-        {
-          "rank": 3,
           "word": "금리",
-          "count": 22,
+          "count": 26,
           "articles": [
             {
               "title": "청년미래적금 최대 연 8%…농협·신한·국민 등 우대금리 3%p",
@@ -201,9 +189,21 @@
           ]
         },
         {
+          "rank": 3,
+          "word": "코스피",
+          "count": 24,
+          "articles": [
+            {
+              "title": "\"아, 삼전닉스 살 걸\" 후회만...코스피 10종목 중 9종목은 하락 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41dGQwSzViU09NTk1lRkltRXBsbU9UVXVoRDNyTEJvbm9vcXIzMEEwWWZyMWxMR3R4d0tjdTFzMlZSWXFtLWt5NzQyMTBTN2JKc3hwNVcya3ZqdzZ0a09YVTF6S2hrTzZo0gFuQVVfeXFMTzVLNXBXVzJKNDgzRFA2Vk8tYWpvdEFHMmRBR3RpNUxFSk1yVEtkbkpRWUV1dl9VazBmUE41ZlVpMkZsVklETzRWVjZBM083aFhsWllGRHlCNzVRaVV1V0ZhN3JON0lDSUdLalctUHc?oc=5",
+              "source": "머니투데이"
+            }
+          ]
+        },
+        {
           "rank": 4,
           "word": "부동산",
-          "count": 16,
+          "count": 13,
           "articles": [
             {
               "title": "강제 '한 달 살기' 내몰린 전세 난민들 … 부동산 단기임대 거래 급증",
