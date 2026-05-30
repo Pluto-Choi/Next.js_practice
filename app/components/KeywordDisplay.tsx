@@ -170,12 +170,14 @@ export default function KeywordDisplay({ data }: { data: KeywordsData }) {
                 })}
               </div>
 
-              <ShareButton
-                category={category}
-                summary={categoryData.summary ?? ""}
-                keywords={categoryData.keywords.map((k) => ({ rank: k.rank, word: k.word }))}
-                date={data.date}
-              />
+              {category === "오늘의 이슈" && (
+                <ShareButton
+                  category={category}
+                  summary={categoryData.summary ?? ""}
+                  keywords={categoryData.keywords.map((k) => ({ rank: k.rank, word: k.word }))}
+                  date={data.date}
+                />
+              )}
             </div>
 
             {index === 0 && (
