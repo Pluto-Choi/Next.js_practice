@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 import KeywordDisplay, { type KeywordsData } from "./components/KeywordDisplay";
 import Logo from "./components/Logo";
 import InstallButton from "./components/InstallButton";
+import { buildJsonLd } from "./jsonld";
 
 async function loadData(): Promise<KeywordsData> {
   const filePath = path.join(process.cwd(), "data", "keywords.json");
@@ -41,9 +42,14 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default async function Home() {
   const [data, recentDates] = await Promise.all([loadData(), getRecentDates()]);
+  const jsonLd = buildJsonLd(data);
 
   return (
     <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <div className="max-w-lg mx-auto px-4 py-6">
 
         <div className="mb-8 text-center">
