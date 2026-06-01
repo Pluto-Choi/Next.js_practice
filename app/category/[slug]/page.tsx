@@ -1,5 +1,3 @@
-import { promises as fs } from "fs";
-import path from "path";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
@@ -8,11 +6,7 @@ import Logo from "../../components/Logo";
 import { buildJsonLd } from "../../jsonld";
 import { CATEGORIES, categoryBySlug } from "../../categories";
 import { SITE_URL as SITE } from "../../site";
-
-async function loadData(): Promise<KeywordsData> {
-  const raw = await fs.readFile(path.join(process.cwd(), "data", "keywords.json"), "utf-8");
-  return JSON.parse(raw);
-}
+import { loadCurrentData, getRankChanges } from "../../data";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -20,7 +14,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const cat = categoryBySlug(slug);
   if (!cat) return { title: "오늘의 뉴스" };
-  const data = await loadData();
+  const data = await loadCurrentData();
   const words = data.categories[cat.name]?.keywords.slice(0, 3).map((k) => k.word) ?? [];
   const kw = words.join(" · ");
   const title = `${cat.name} 키워드${kw ? ` | ${kw}` : ""} - 오늘의 뉴스`;
@@ -38,11 +32,12 @@ export default async function CategoryPage({ params }: Props) {
   const cat = categoryBySlug(slug);
   if (!cat) notFound();
 
-  const data = await loadData();
+  const data = await loadCurrentData();
   const catData = data.categories[cat.name];
   if (!catData) notFound();
 
   const single: KeywordsData = { date: data.date, categories: { [cat.name]: catData } };
+  const rankChanges = await getRankChanges(single);
   const jsonLd = buildJsonLd(single);
 
   return (
@@ -86,7 +81,7 @@ export default async function CategoryPage({ params }: Props) {
           ))}
         </div>
 
-        <KeywordDisplay data={single} />
+        <KeywordDisplay data={single} rankChanges={rankChanges} />
 
         <p className="text-center text-zinc-400 text-xs pb-4">
           6시간마다 자동 업데이트 · Google News RSS 기반

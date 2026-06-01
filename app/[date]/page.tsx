@@ -1,36 +1,10 @@
-import { promises as fs } from "fs";
-import path from "path";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import KeywordDisplay, { type KeywordsData } from "../components/KeywordDisplay";
+import KeywordDisplay from "../components/KeywordDisplay";
 import Logo from "../components/Logo";
 import { buildJsonLd } from "../jsonld";
-
-async function loadHistoryData(date: string): Promise<KeywordsData | null> {
-  try {
-    const filePath = path.join(process.cwd(), "data", "history", `${date}.json`);
-    const raw = await fs.readFile(filePath, "utf-8");
-    return JSON.parse(raw);
-  } catch {
-    return null;
-  }
-}
-
-async function getRecentDates(): Promise<string[]> {
-  try {
-    const historyDir = path.join(process.cwd(), "data", "history");
-    const files = await fs.readdir(historyDir);
-    return files
-      .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
-      .map((f) => f.replace(".json", ""))
-      .sort()
-      .reverse()
-      .slice(0, 7);
-  } catch {
-    return [];
-  }
-}
+import { loadHistoryData, getRecentDates, getRankChanges } from "../data";
 
 type Props = { params: Promise<{ date: string }> };
 
@@ -38,13 +12,27 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { date } = await params;
   const data = await loadHistoryData(date);
   if (!data) return { title: "오늘의 뉴스" };
-  const issueKeywords = data.categories["오늘의 이슈"]?.keywords.slice(0, 3).map((k) => k.word) ?? [];
+  const issue = data.categories["오늘의 이슈"];
+  const issueKeywords = issue?.keywords.slice(0, 3).map((k) => k.word) ?? [];
   const keywordStr = issueKeywords.join(" · ");
+  const title = keywordStr ? `${date} 뉴스 | ${keywordStr}` : `${date} 뉴스 | 오늘의 뉴스`;
+  const description = issue?.summary
+    ? `${date} 핫이슈 — ${issue.summary}`
+    : `${date}의 핫이슈, 연예, 경제 뉴스 키워드 TOP5.`;
+  const ogImage = `/opengraph-image?v=${encodeURIComponent(`${date}-${issueKeywords[0] ?? ""}`)}`;
   return {
-    title: keywordStr ? `${date} 뉴스 | ${keywordStr}` : `${date} 뉴스 | 오늘의 뉴스`,
+    title,
+    description,
     alternates: { canonical: `/${date}` },
     openGraph: {
-      title: keywordStr ? `${date} 뉴스 | ${keywordStr}` : `${date} 뉴스 | 오늘의 뉴스`,
+      title,
+      description,
+      images: [{ url: ogImage, width: 1200, height: 630 }],
+    },
+    twitter: {
+      title,
+      description,
+      images: [ogImage],
     },
   };
 }
@@ -58,6 +46,7 @@ export default async function HistoryPage({ params }: Props) {
 
   if (!data) notFound();
 
+  const rankChanges = await getRankChanges(data);
   const jsonLd = buildJsonLd(data);
 
   return (
@@ -104,7 +93,7 @@ export default async function HistoryPage({ params }: Props) {
           </div>
         )}
 
-        <KeywordDisplay data={data} />
+        <KeywordDisplay data={data} rankChanges={rankChanges} />
 
         <p className="text-center text-zinc-400 text-xs pb-4">
           6시간마다 자동 업데이트 · Google News RSS 기반

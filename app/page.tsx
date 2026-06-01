@@ -1,37 +1,15 @@
-import { promises as fs } from "fs";
-import path from "path";
 import Link from "next/link";
 import type { Metadata } from "next";
-import KeywordDisplay, { type KeywordsData } from "./components/KeywordDisplay";
+import KeywordDisplay from "./components/KeywordDisplay";
 import Logo from "./components/Logo";
 import InstallButton from "./components/InstallButton";
 import NotificationButton from "./components/NotificationButton";
 import { buildJsonLd } from "./jsonld";
 import { CATEGORIES } from "./categories";
-
-async function loadData(): Promise<KeywordsData> {
-  const filePath = path.join(process.cwd(), "data", "keywords.json");
-  const raw = await fs.readFile(filePath, "utf-8");
-  return JSON.parse(raw);
-}
-
-async function getRecentDates(): Promise<string[]> {
-  try {
-    const historyDir = path.join(process.cwd(), "data", "history");
-    const files = await fs.readdir(historyDir);
-    return files
-      .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
-      .map((f) => f.replace(".json", ""))
-      .sort()
-      .reverse()
-      .slice(0, 7);
-  } catch {
-    return [];
-  }
-}
+import { loadCurrentData, getRecentDates, getRankChanges } from "./data";
 
 export async function generateMetadata(): Promise<Metadata> {
-  const data = await loadData();
+  const data = await loadCurrentData();
   const issue = data.categories["오늘의 이슈"];
   const issueKeywords = issue?.keywords.slice(0, 3).map((k) => k.word) ?? [];
   const keywordStr = issueKeywords.join(" · ");
@@ -60,7 +38,8 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 export default async function Home() {
-  const [data, recentDates] = await Promise.all([loadData(), getRecentDates()]);
+  const [data, recentDates] = await Promise.all([loadCurrentData(), getRecentDates()]);
+  const rankChanges = await getRankChanges(data);
   const jsonLd = buildJsonLd(data);
 
   return (
@@ -77,7 +56,9 @@ export default async function Home() {
           <div className="flex justify-center mb-2">
             <Logo />
           </div>
-          <p className="text-xs text-zinc-400 dark:text-zinc-500">{data.date} · Google News RSS</p>
+          <p className="text-xs text-zinc-400 dark:text-zinc-500">
+            {data.updated_at ? `${data.updated_at} 업데이트` : data.date} · Google News RSS
+          </p>
         </div>
 
         <InstallButton />
@@ -116,7 +97,7 @@ export default async function Home() {
           ))}
         </div>
 
-        <KeywordDisplay data={data} />
+        <KeywordDisplay data={data} rankChanges={rankChanges} />
 
         <p className="text-center text-zinc-400 text-xs pb-4">
           6시간마다 자동 업데이트 · Google News RSS 기반

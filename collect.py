@@ -9,6 +9,7 @@ import re
 import os
 import html
 import shutil
+import time
 
 stopwords_common = {
     # 시간
@@ -54,9 +55,21 @@ stopwords_entertainment = stopwords_common | {
     '감독', '시즌',
 }
 
+def parse_feed_with_retry(url, retries=3, delay=3):
+    """Google News RSS가 일시적으로 빈 응답을 줄 때 재시도한다."""
+    feed = feedparser.parse(url)
+    for attempt in range(1, retries):
+        if feed.entries:
+            return feed
+        print(f"  RSS 빈 응답 — 재시도 {attempt}/{retries - 1}")
+        time.sleep(delay)
+        feed = feedparser.parse(url)
+    return feed
+
+
 def fetch_articles_google(keyword, count, used_links):
     url = f"https://news.google.com/rss/search?q={quote(keyword)}&when=1d&hl=ko&gl=KR&ceid=KR:ko"
-    feed = feedparser.parse(url)
+    feed = parse_feed_with_retry(url)
     articles = []
     for entry in feed.entries:
         if len(articles) >= count:
@@ -89,26 +102,26 @@ def extract_keywords(titles, sw=stopwords_common, n=20):
 
 def filter_keywords(candidates, category):
     lines = "\n".join(f"{i+1}. {word} ({count}회)" for i, (word, count) in enumerate(candidates))
-    message = anthropic_client.messages.create(
-        model="claude-haiku-4-5-20251001",
-        max_tokens=100,
-        messages=[{
-            "role": "user",
-            "content": (
-                f"다음은 한국 뉴스에서 형태소 분석으로 추출한 '{category}' 키워드 후보야.\n"
-                "아래 기준으로 노이즈를 제거하고 실제 이슈를 대표하는 단어 5개를 순서대로 골라줘.\n"
-                "- 제거: 그룹명·작품명·브랜드명이 분해된 조각 (예: '데몬', '헌터스', '스파이더')\n"
-                "- 제거: 단독으로 의미없는 동사성·상태성 명사 (예: 검토, 추진, 본격, 시대, 교섭, 누락)\n"
-                "- 유지: 사람 이름, 지명, 기업명, 사건명 등 구체적인 고유명사\n"
-                "- 유지: 경제·사회 현상을 나타내는 핵심 명사\n"
-                "JSON 배열로만 답해줘. 예시: [\"환율\", \"삼성\", \"이란\"]\n\n"
-                f"{lines}"
-            )
-        }]
-    )
-    match = re.search(r'\[.*?\]', message.content[0].text, re.DOTALL)
-    if match:
-        try:
+    try:
+        message = anthropic_client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=100,
+            messages=[{
+                "role": "user",
+                "content": (
+                    f"다음은 한국 뉴스에서 형태소 분석으로 추출한 '{category}' 키워드 후보야.\n"
+                    "아래 기준으로 노이즈를 제거하고 실제 이슈를 대표하는 단어 5개를 순서대로 골라줘.\n"
+                    "- 제거: 그룹명·작품명·브랜드명이 분해된 조각 (예: '데몬', '헌터스', '스파이더')\n"
+                    "- 제거: 단독으로 의미없는 동사성·상태성 명사 (예: 검토, 추진, 본격, 시대, 교섭, 누락)\n"
+                    "- 유지: 사람 이름, 지명, 기업명, 사건명 등 구체적인 고유명사\n"
+                    "- 유지: 경제·사회 현상을 나타내는 핵심 명사\n"
+                    "JSON 배열로만 답해줘. 예시: [\"환율\", \"삼성\", \"이란\"]\n\n"
+                    f"{lines}"
+                )
+            }]
+        )
+        match = re.search(r'\[.*?\]', message.content[0].text, re.DOTALL)
+        if match:
             words = json.loads(match.group())
             result = []
             for word in words:
@@ -118,8 +131,8 @@ def filter_keywords(candidates, category):
                         break
             if result:
                 return result[:5]
-        except (json.JSONDecodeError, TypeError):
-            pass
+    except Exception as e:
+        print(f"  filter_keywords 실패 — 형태소 빈도순 사용: {e}")
     return candidates[:5]
 
 def generate_summary(keywords, category):
@@ -128,17 +141,21 @@ def generate_summary(keywords, category):
         titles = " / ".join(a["title"] for a in item["articles"][:2])
         lines.append(f"- {item['word']}: {titles}")
     articles_text = "\n".join(lines)
-    message = anthropic_client.messages.create(
-        model="claude-haiku-4-5-20251001",
-        max_tokens=150,
-        messages=[
-            {
-                "role": "user",
-                "content": f"다음은 오늘의 {category} 뉴스 키워드별 기사 제목이야. 실제 기사 내용을 바탕으로 오늘의 주요 이슈를 60자 이내로 요약해줘. 서로 관련 없는 주제가 섞여 있다면 억지로 연결하지 말고 '·'로 구분해줘. 요약문만 출력해줘.\n\n{articles_text}"
-            }
-        ]
-    )
-    return message.content[0].text
+    try:
+        message = anthropic_client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=150,
+            messages=[
+                {
+                    "role": "user",
+                    "content": f"다음은 오늘의 {category} 뉴스 키워드별 기사 제목이야. 실제 기사 내용을 바탕으로 오늘의 주요 이슈를 60자 이내로 요약해줘. 서로 관련 없는 주제가 섞여 있다면 억지로 연결하지 말고 '·'로 구분해줘. 요약문만 출력해줘.\n\n{articles_text}"
+                }
+            ]
+        )
+        return message.content[0].text.strip()
+    except Exception as e:
+        print(f"  generate_summary 실패 — 키워드 나열로 대체: {e}")
+        return " · ".join(item["word"] for item in keywords[:5])
 
 anthropic_client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
@@ -157,59 +174,44 @@ for word in compound_words:
 KST = timezone(timedelta(hours=9))
 today = datetime.now(KST).strftime('%Y-%m-%d')  # yesterday → today로 변경
 
-# ===== 오늘의 이슈 =====
-print("=== 오늘의 이슈 Top 5 키워드 ===")
-feed_issue = feedparser.parse("https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko")
-top5_issue = filter_keywords(
-    extract_keywords([e.title for e in feed_issue.entries], stopwords_common),
-    "오늘의 이슈"
+def collect_category(feed_url, stopwords, category_name):
+    """한 카테고리의 키워드+기사를 수집한다. 실패해도 빈 리스트 반환."""
+    print(f"=== {category_name} Top 5 키워드 ===")
+    try:
+        feed = parse_feed_with_retry(feed_url)
+        top5 = filter_keywords(
+            extract_keywords([e.title for e in feed.entries], stopwords),
+            category_name,
+        )
+        used_links = set()
+        keywords = []
+        for i, (word, count) in enumerate(top5):
+            article_count = 3 if i == 0 else 1
+            articles = fetch_articles_google(word, article_count, used_links)
+            keywords.append({"rank": i + 1, "word": word, "count": count, "articles": articles})
+            print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
+            for a in articles:
+                print(f"  - {a['title']}")
+        return keywords
+    except Exception as e:
+        print(f"  {category_name} 수집 실패: {e}")
+        return []
+
+keywords_issue = collect_category(
+    "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko",
+    stopwords_common,
+    "오늘의 이슈",
 )
-
-used_links_issue = set()
-keywords_issue = []
-for i, (word, count) in enumerate(top5_issue):
-    article_count = 3 if i == 0 else 1
-    articles = fetch_articles_google(word, article_count, used_links_issue)
-    keywords_issue.append({"rank": i+1, "word": word, "count": count, "articles": articles})
-    print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
-    for a in articles:
-        print(f"  - {a['title']}")
-
-# ===== 경제 =====
-print("\n=== 경제 Top 5 키워드 ===")
-feed_economy = feedparser.parse(f"https://news.google.com/rss/search?q={quote('주식 증시 코스피 환율 금리 부동산')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
-top5_economy = filter_keywords(
-    extract_keywords([e.title for e in feed_economy.entries], stopwords_economy),
-    "경제"
+keywords_economy = collect_category(
+    f"https://news.google.com/rss/search?q={quote('주식 증시 코스피 환율 금리 부동산')}&when=1d&hl=ko&gl=KR&ceid=KR:ko",
+    stopwords_economy,
+    "경제",
 )
-
-used_links_economy = set()
-keywords_economy = []
-for i, (word, count) in enumerate(top5_economy):
-    article_count = 3 if i == 0 else 1
-    articles = fetch_articles_google(word, article_count, used_links_economy)
-    keywords_economy.append({"rank": i+1, "word": word, "count": count, "articles": articles})
-    print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
-    for a in articles:
-        print(f"  - {a['title']}")
-
-# ===== 연예 =====
-print("\n=== 연예 Top 5 키워드 ===")
-feed_ent = feedparser.parse(f"https://news.google.com/rss/search?q={quote('아이돌 K팝 드라마 연예인 영화')}&when=1d&hl=ko&gl=KR&ceid=KR:ko")
-top5_ent = filter_keywords(
-    extract_keywords([e.title for e in feed_ent.entries], stopwords_entertainment),
-    "연예"
+keywords_ent = collect_category(
+    f"https://news.google.com/rss/search?q={quote('아이돌 K팝 드라마 연예인 영화')}&when=1d&hl=ko&gl=KR&ceid=KR:ko",
+    stopwords_entertainment,
+    "연예",
 )
-
-used_links_ent = set()
-keywords_ent = []
-for i, (word, count) in enumerate(top5_ent):
-    article_count = 3 if i == 0 else 1
-    articles = fetch_articles_google(word, article_count, used_links_ent)
-    keywords_ent.append({"rank": i+1, "word": word, "count": count, "articles": articles})
-    print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
-    for a in articles:
-        print(f"  - {a['title']}")
 
 # ===== 요약 생성 =====
 summaries = {}
@@ -221,6 +223,7 @@ for category, keywords in [("오늘의 이슈", keywords_issue), ("연예", keyw
 # ===== keywords.json 저장 (summary 포함) =====
 result = {
     "date": today,
+    "updated_at": datetime.now(KST).strftime('%Y-%m-%d %H:%M'),
     "categories": {
         "오늘의 이슈": {
             "summary": summaries["오늘의 이슈"],

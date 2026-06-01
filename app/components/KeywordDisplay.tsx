@@ -1,6 +1,7 @@
 import { Fragment } from "react";
 import AdFitBanner from "./AdFitBanner";
 import ShareButton from "./ShareButton";
+import type { RankChange, RankChanges } from "../data";
 
 export type Article = {
   title: string;
@@ -22,6 +23,7 @@ export type CategoryData = {
 
 export type KeywordsData = {
   date: string;
+  updated_at?: string;
   categories: {
     [category: string]: CategoryData;
   };
@@ -85,7 +87,36 @@ const cleanTitle = (title: string) => {
   return idx !== -1 ? title.slice(0, idx) : title;
 };
 
-export default function KeywordDisplay({ data }: { data: KeywordsData }) {
+function RankChangeBadge({ change }: { change?: RankChange }) {
+  if (!change || change.type === "same") return null;
+  if (change.type === "new") {
+    return (
+      <span className="text-[10px] font-bold px-1.5 py-0.5 rounded-full bg-emerald-100 text-emerald-700 dark:bg-emerald-900/60 dark:text-emerald-300 shrink-0">
+        NEW
+      </span>
+    );
+  }
+  const isUp = change.type === "up";
+  return (
+    <span
+      className={`text-[10px] font-bold tabular-nums shrink-0 ${
+        isUp ? "text-rose-500 dark:text-rose-400" : "text-blue-500 dark:text-blue-400"
+      }`}
+      aria-label={isUp ? `${change.delta}계단 상승` : `${change.delta}계단 하락`}
+    >
+      {isUp ? "▲" : "▼"}
+      {change.delta}
+    </span>
+  );
+}
+
+export default function KeywordDisplay({
+  data,
+  rankChanges,
+}: {
+  data: KeywordsData;
+  rankChanges?: RankChanges;
+}) {
   return (
     <>
       {Object.entries(data.categories).map(([category, categoryData], index) => {
@@ -126,6 +157,7 @@ export default function KeywordDisplay({ data }: { data: KeywordsData }) {
                             <span className={`text-xs font-bold px-2 py-0.5 rounded-full shrink-0 ${rankBadgeStyle(item.rank)}`}>
                               {item.rank}위
                             </span>
+                            <RankChangeBadge change={rankChanges?.[category]?.[item.word]} />
                             <div className="min-w-0">
                               <p className={`${isTop ? "text-base" : "text-sm"} font-bold leading-tight truncate`}>
                                 {item.word}
