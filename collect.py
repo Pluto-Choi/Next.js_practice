@@ -1,6 +1,6 @@
 from kiwipiepy import Kiwi
 from collections import Counter
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta, timezone, date as date_cls
 from urllib.parse import quote
 import feedparser
 import anthropic
@@ -197,57 +197,6 @@ def collect_category(feed_url, stopwords, category_name):
         print(f"  {category_name} 수집 실패: {e}")
         return []
 
-keywords_issue = collect_category(
-    "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko",
-    stopwords_common,
-    "오늘의 이슈",
-)
-keywords_economy = collect_category(
-    f"https://news.google.com/rss/search?q={quote('주식 증시 코스피 환율 금리 부동산')}&when=1d&hl=ko&gl=KR&ceid=KR:ko",
-    stopwords_economy,
-    "경제",
-)
-keywords_ent = collect_category(
-    f"https://news.google.com/rss/search?q={quote('아이돌 K팝 드라마 연예인 영화')}&when=1d&hl=ko&gl=KR&ceid=KR:ko",
-    stopwords_entertainment,
-    "연예",
-)
-
-# ===== 요약 생성 =====
-summaries = {}
-for category, keywords in [("오늘의 이슈", keywords_issue), ("연예", keywords_ent), ("경제", keywords_economy)]:
-    summary = generate_summary(keywords, category)
-    summaries[category] = summary
-    print(f"{category} 요약: {summary}")
-
-# ===== keywords.json 저장 (summary 포함) =====
-result = {
-    "date": today,
-    "updated_at": datetime.now(KST).strftime('%Y-%m-%d %H:%M'),
-    "categories": {
-        "오늘의 이슈": {
-            "summary": summaries["오늘의 이슈"],
-            "keywords": keywords_issue,
-        },
-        "연예": {
-            "summary": summaries["연예"],
-            "keywords": keywords_ent,
-        },
-        "경제": {
-            "summary": summaries["경제"],
-            "keywords": keywords_economy,
-        },
-    }
-}
-
-os.makedirs("data", exist_ok=True)
-with open("data/keywords.json", "w", encoding="utf-8") as f:
-    json.dump(result, f, ensure_ascii=False, indent=2)
-
-os.makedirs("data/history", exist_ok=True)
-shutil.copy("data/keywords.json", f"data/history/{today}.json")
-
-print(f"\n{today} 키워드 저장 완료!")
 
 # ===== 오래된 history 정리 (날짜 기반) =====
 # CI checkout이 파일 mtime을 새로 찍어서 find -mtime 방식은 동작하지 않으므로
@@ -270,7 +219,113 @@ def prune_history(retention_days=HISTORY_RETENTION_DAYS):
             removed += 1
     print(f"오래된 history {removed}개 삭제 (보관 {retention_days}일)")
 
-# ===== 트렌드 집계 (키워드별 시계열) =====
+
+# ===== 1위 연속기록 집계 (기간별) =====
+# 보관 기간이 1년이므로 그 안에서 의미 있는 구간만 노출한다.
+STREAK_PERIODS = {"30": 30, "90": 90, "180": 180, "365": 365}
+STREAK_TOP_N = 8
+STREAK_MIN = 2
+STREAK_CACHE_PATH = "data/streak_summaries.json"
+
+
+def _to_date(s):
+    return datetime.strptime(s, '%Y-%m-%d').date()
+
+
+def compute_streaks(trends, window_days, today_date):
+    """기간(window_days) 안에서 키워드×카테고리별 최장 1위 연속 구간을 구한다."""
+    cutoff = today_date - timedelta(days=window_days)
+    results = []
+    for word, entries in trends.items():
+        by_cat = {}
+        for e in entries:
+            if e.get("rank") != 1:
+                continue
+            d = _to_date(e["date"])
+            if d < cutoff or d > today_date:
+                continue
+            by_cat.setdefault(e["category"], set()).add(e["date"])
+        for category, date_set in by_cat.items():
+            dates = sorted(date_set)
+            best_len, best_start, best_end = 1, dates[0], dates[0]
+            cur_len, cur_start = 1, dates[0]
+            for i in range(1, len(dates)):
+                if (_to_date(dates[i]) - _to_date(dates[i - 1])).days == 1:
+                    cur_len += 1
+                else:
+                    cur_len, cur_start = 1, dates[i]
+                if cur_len > best_len:
+                    best_len, best_start, best_end = cur_len, cur_start, dates[i]
+            if best_len >= STREAK_MIN:
+                results.append({
+                    "word": word,
+                    "category": category,
+                    "streak": best_len,
+                    "start": best_start,
+                    "end": best_end,
+                })
+    results.sort(key=lambda s: (-s["streak"], s["word"]))
+    return results[:STREAK_TOP_N]
+
+
+def gather_streak_articles(word, category, start, end):
+    """연속 구간(start~end)의 history에서 해당 키워드 기사 제목을 모은다."""
+    titles = []
+    seen = set()
+    d, last = _to_date(start), _to_date(end)
+    while d <= last:
+        path = os.path.join("data/history", f"{d.isoformat()}.json")
+        d += timedelta(days=1)
+        try:
+            with open(path, encoding="utf-8") as f:
+                day = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            continue
+        cat = day.get("categories", {}).get(category, {})
+        for kw in cat.get("keywords", []):
+            if kw.get("word") != word:
+                continue
+            for a in kw.get("articles", []):
+                t = a.get("title")
+                if t and t not in seen:
+                    seen.add(t)
+                    titles.append(t)
+    return titles
+
+
+def streak_ai_summary(word, category, start, end, titles):
+    """1위를 오래 유지한 이유를 한 문장으로 요약한다. 실패하면 None."""
+    if not titles:
+        return None
+    joined = "\n".join(f"- {t}" for t in titles[:12])
+    try:
+        message = anthropic_client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=120,
+            messages=[{
+                "role": "user",
+                "content": (
+                    f"'{word}'(이)가 '{category}' 분야에서 {start}부터 {end}까지 여러 날 연속 뉴스 1위 키워드였어.\n"
+                    "아래는 그 기간 동안의 기사 제목이야. 왜 이 키워드가 이렇게 오래 화제였는지 핵심 이유를 50자 이내 한 문장으로 설명해줘. 요약문만 출력해줘.\n\n"
+                    f"{joined}"
+                )
+            }]
+        )
+        return message.content[0].text.strip()
+    except Exception as e:
+        print(f"  streak 요약 실패({word}): {e}")
+        return None
+
+
+def _load_json(path, default):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return default
+
+
+# ===== 트렌드 집계 (키워드별 시계열 + 기간별 연속기록) =====
 def build_trends():
     trends = {}
     files = sorted(
@@ -295,14 +350,103 @@ def build_trends():
                     "rank": kw.get("rank"),
                     "count": kw.get("count"),
                 })
+
+    today_date = datetime.now(KST).date()
+
+    # 기간별 연속기록 계산 (중복 구간은 한 번만 AI 요약)
+    cache = _load_json(STREAK_CACHE_PATH, {})
+    streaks_out = {}
+    needed = {}
+    for label, win in STREAK_PERIODS.items():
+        lst = compute_streaks(trends, win, today_date)
+        streaks_out[label] = lst
+        for s in lst:
+            key = f"{s['word']}|{s['category']}|{s['start']}|{s['end']}"
+            needed[key] = s
+
+    for key, s in needed.items():
+        if key in cache:
+            continue
+        titles = gather_streak_articles(s["word"], s["category"], s["start"], s["end"])
+        cache[key] = streak_ai_summary(s["word"], s["category"], s["start"], s["end"], titles)
+
+    # 더 이상 노출되지 않는 캐시 정리
+    cache = {k: v for k, v in cache.items() if k in needed}
+    with open(STREAK_CACHE_PATH, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+    for lst in streaks_out.values():
+        for s in lst:
+            s["ai_summary"] = cache.get(f"{s['word']}|{s['category']}|{s['start']}|{s['end']}")
+
     out = {
         "generated_at": datetime.now(KST).strftime('%Y-%m-%d %H:%M'),
         "days": len(files),
         "keywords": trends,
+        "streaks": streaks_out,
     }
     with open("data/trends.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
-    print(f"트렌드 집계 완료: {len(files)}일 / 고유 키워드 {len(trends)}개")
+    total_streaks = sum(len(v) for v in streaks_out.values())
+    print(f"트렌드 집계 완료: {len(files)}일 / 고유 키워드 {len(trends)}개 / 연속기록 {total_streaks}건")
 
-prune_history()
-build_trends()
+
+def main():
+    keywords_issue = collect_category(
+        "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko",
+        stopwords_common,
+        "오늘의 이슈",
+    )
+    keywords_economy = collect_category(
+        f"https://news.google.com/rss/search?q={quote('주식 증시 코스피 환율 금리 부동산')}&when=1d&hl=ko&gl=KR&ceid=KR:ko",
+        stopwords_economy,
+        "경제",
+    )
+    keywords_ent = collect_category(
+        f"https://news.google.com/rss/search?q={quote('아이돌 K팝 드라마 연예인 영화')}&when=1d&hl=ko&gl=KR&ceid=KR:ko",
+        stopwords_entertainment,
+        "연예",
+    )
+
+    # ===== 요약 생성 =====
+    summaries = {}
+    for category, keywords in [("오늘의 이슈", keywords_issue), ("연예", keywords_ent), ("경제", keywords_economy)]:
+        summary = generate_summary(keywords, category)
+        summaries[category] = summary
+        print(f"{category} 요약: {summary}")
+
+    # ===== keywords.json 저장 (summary 포함) =====
+    result = {
+        "date": today,
+        "updated_at": datetime.now(KST).strftime('%Y-%m-%d %H:%M'),
+        "categories": {
+            "오늘의 이슈": {
+                "summary": summaries["오늘의 이슈"],
+                "keywords": keywords_issue,
+            },
+            "연예": {
+                "summary": summaries["연예"],
+                "keywords": keywords_ent,
+            },
+            "경제": {
+                "summary": summaries["경제"],
+                "keywords": keywords_economy,
+            },
+        }
+    }
+
+    os.makedirs("data", exist_ok=True)
+    with open("data/keywords.json", "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+
+    os.makedirs("data/history", exist_ok=True)
+    shutil.copy("data/keywords.json", f"data/history/{today}.json")
+
+    print(f"\n{today} 키워드 저장 완료!")
+
+    prune_history()
+    build_trends()
+
+
+if __name__ == "__main__":
+    main()

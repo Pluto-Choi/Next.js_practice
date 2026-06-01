@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 02:37",
+  "generated_at": "2026-06-02 04:51",
   "days": 21,
   "keywords": {
     "이란": [
@@ -2032,6 +2032,272 @@
         "category": "오늘의 이슈",
         "rank": 3,
         "count": 2
+      }
+    ]
+  },
+  "streaks": {
+    "30": [
+      {
+        "word": "환율",
+        "category": "경제",
+        "streak": 12,
+        "start": "2026-05-22",
+        "end": "2026-06-02",
+        "ai_summary": null
+      },
+      {
+        "word": "아이돌",
+        "category": "연예",
+        "streak": 5,
+        "start": "2026-05-28",
+        "end": "2026-06-01",
+        "ai_summary": null
+      },
+      {
+        "word": "케이팝",
+        "category": "연예",
+        "streak": 3,
+        "start": "2026-05-19",
+        "end": "2026-05-21",
+        "ai_summary": null
+      },
+      {
+        "word": "논란",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-05-25",
+        "end": "2026-05-26",
+        "ai_summary": null
+      },
+      {
+        "word": "속보",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-05-22",
+        "end": "2026-05-23",
+        "ai_summary": null
+      },
+      {
+        "word": "이란",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-06-01",
+        "end": "2026-06-02",
+        "ai_summary": null
+      },
+      {
+        "word": "코스피",
+        "category": "경제",
+        "streak": 2,
+        "start": "2026-05-20",
+        "end": "2026-05-21",
+        "ai_summary": null
+      },
+      {
+        "word": "트럼프",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-05-19",
+        "end": "2026-05-20",
+        "ai_summary": null
+      }
+    ],
+    "90": [
+      {
+        "word": "환율",
+        "category": "경제",
+        "streak": 12,
+        "start": "2026-05-22",
+        "end": "2026-06-02",
+        "ai_summary": null
+      },
+      {
+        "word": "아이돌",
+        "category": "연예",
+        "streak": 5,
+        "start": "2026-05-28",
+        "end": "2026-06-01",
+        "ai_summary": null
+      },
+      {
+        "word": "케이팝",
+        "category": "연예",
+        "streak": 3,
+        "start": "2026-05-19",
+        "end": "2026-05-21",
+        "ai_summary": null
+      },
+      {
+        "word": "논란",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-05-25",
+        "end": "2026-05-26",
+        "ai_summary": null
+      },
+      {
+        "word": "속보",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-05-22",
+        "end": "2026-05-23",
+        "ai_summary": null
+      },
+      {
+        "word": "이란",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-06-01",
+        "end": "2026-06-02",
+        "ai_summary": null
+      },
+      {
+        "word": "코스피",
+        "category": "경제",
+        "streak": 2,
+        "start": "2026-05-20",
+        "end": "2026-05-21",
+        "ai_summary": null
+      },
+      {
+        "word": "트럼프",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-05-19",
+        "end": "2026-05-20",
+        "ai_summary": null
+      }
+    ],
+    "180": [
+      {
+        "word": "환율",
+        "category": "경제",
+        "streak": 12,
+        "start": "2026-05-22",
+        "end": "2026-06-02",
+        "ai_summary": null
+      },
+      {
+        "word": "아이돌",
+        "category": "연예",
+        "streak": 5,
+        "start": "2026-05-28",
+        "end": "2026-06-01",
+        "ai_summary": null
+      },
+      {
+        "word": "케이팝",
+        "category": "연예",
+        "streak": 3,
+        "start": "2026-05-19",
+        "end": "2026-05-21",
+        "ai_summary": null
+      },
+      {
+        "word": "논란",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-05-25",
+        "end": "2026-05-26",
+        "ai_summary": null
+      },
+      {
+        "word": "속보",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-05-22",
+        "end": "2026-05-23",
+        "ai_summary": null
+      },
+      {
+        "word": "이란",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-06-01",
+        "end": "2026-06-02",
+        "ai_summary": null
+      },
+      {
+        "word": "코스피",
+        "category": "경제",
+        "streak": 2,
+        "start": "2026-05-20",
+        "end": "2026-05-21",
+        "ai_summary": null
+      },
+      {
+        "word": "트럼프",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-05-19",
+        "end": "2026-05-20",
+        "ai_summary": null
+      }
+    ],
+    "365": [
+      {
+        "word": "환율",
+        "category": "경제",
+        "streak": 12,
+        "start": "2026-05-22",
+        "end": "2026-06-02",
+        "ai_summary": null
+      },
+      {
+        "word": "아이돌",
+        "category": "연예",
+        "streak": 5,
+        "start": "2026-05-28",
+        "end": "2026-06-01",
+        "ai_summary": null
+      },
+      {
+        "word": "케이팝",
+        "category": "연예",
+        "streak": 3,
+        "start": "2026-05-19",
+        "end": "2026-05-21",
+        "ai_summary": null
+      },
+      {
+        "word": "논란",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-05-25",
+        "end": "2026-05-26",
+        "ai_summary": null
+      },
+      {
+        "word": "속보",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-05-22",
+        "end": "2026-05-23",
+        "ai_summary": null
+      },
+      {
+        "word": "이란",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-06-01",
+        "end": "2026-06-02",
+        "ai_summary": null
+      },
+      {
+        "word": "코스피",
+        "category": "경제",
+        "streak": 2,
+        "start": "2026-05-20",
+        "end": "2026-05-21",
+        "ai_summary": null
+      },
+      {
+        "word": "트럼프",
+        "category": "오늘의 이슈",
+        "streak": 2,
+        "start": "2026-05-19",
+        "end": "2026-05-20",
+        "ai_summary": null
       }
     ]
   }

@@ -18,10 +18,20 @@ export type TrendEntry = {
   count: number;
 };
 
+export type Streak = {
+  word: string;
+  category: string;
+  streak: number;
+  start: string;
+  end: string;
+  ai_summary: string | null;
+};
+
 export type TrendsData = {
   generated_at: string;
   days: number;
   keywords: { [word: string]: TrendEntry[] };
+  streaks: { [period: string]: Streak[] };
 };
 
 export async function loadTrends(): Promise<TrendsData | null> {
