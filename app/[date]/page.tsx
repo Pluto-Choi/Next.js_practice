@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import KeywordDisplay from "../components/KeywordDisplay";
 import Logo from "../components/Logo";
+import ThemeToggle from "../components/ThemeToggle";
 import { buildJsonLd } from "../jsonld";
 import { loadHistoryData, getRecentDates, getRankChanges } from "../data";
 
@@ -59,7 +60,8 @@ export default async function HistoryPage({ params }: Props) {
 
         <h1 className="sr-only">{date} 뉴스 키워드 — 핫이슈 · 연예 · 경제 TOP5</h1>
 
-        <div className="mb-8 text-center">
+        <div className="relative mb-8 text-center">
+          <ThemeToggle />
           <div className="flex justify-center mb-2">
             <Logo />
           </div>

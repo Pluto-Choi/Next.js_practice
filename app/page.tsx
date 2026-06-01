@@ -4,6 +4,7 @@ import KeywordDisplay from "./components/KeywordDisplay";
 import Logo from "./components/Logo";
 import InstallButton from "./components/InstallButton";
 import NotificationButton from "./components/NotificationButton";
+import ThemeToggle from "./components/ThemeToggle";
 import { buildJsonLd } from "./jsonld";
 import { CATEGORIES } from "./categories";
 import { loadCurrentData, getRecentDates, getRankChanges } from "./data";
@@ -52,7 +53,8 @@ export default async function Home() {
 
         <h1 className="sr-only">오늘의 뉴스 — {data.date} 핫이슈 · 연예 · 경제 키워드 TOP5</h1>
 
-        <div className="mb-8 text-center">
+        <div className="relative mb-8 text-center">
+          <ThemeToggle />
           <div className="flex justify-center mb-2">
             <Logo />
           </div>

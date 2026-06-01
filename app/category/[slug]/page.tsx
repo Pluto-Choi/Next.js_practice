@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import KeywordDisplay, { type KeywordsData } from "../../components/KeywordDisplay";
 import Logo from "../../components/Logo";
+import ThemeToggle from "../../components/ThemeToggle";
 import { buildJsonLd } from "../../jsonld";
 import { CATEGORIES, categoryBySlug } from "../../categories";
 import { SITE_URL as SITE } from "../../site";
@@ -50,7 +51,8 @@ export default async function CategoryPage({ params }: Props) {
 
         <h1 className="sr-only">{cat.name} 뉴스 키워드 TOP5 — {data.date}</h1>
 
-        <div className="mb-8 text-center">
+        <div className="relative mb-8 text-center">
+          <ThemeToggle />
           <div className="flex justify-center mb-2">
             <Logo />
           </div>
