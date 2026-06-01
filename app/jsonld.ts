@@ -1,6 +1,5 @@
 import type { KeywordsData } from "./components/KeywordDisplay";
-
-const SITE = "https://whymystockisboom.vercel.app";
+import { SITE_URL as SITE } from "./site";
 
 export function buildJsonLd(data: KeywordsData) {
   const itemLists = Object.entries(data.categories).map(([category, cat]) => ({

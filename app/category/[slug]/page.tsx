@@ -7,8 +7,7 @@ import KeywordDisplay, { type KeywordsData } from "../../components/KeywordDispl
 import Logo from "../../components/Logo";
 import { buildJsonLd } from "../../jsonld";
 import { CATEGORIES, categoryBySlug } from "../../categories";
-
-const SITE = "https://whymystockisboom.vercel.app";
+import { SITE_URL as SITE } from "../../site";
 
 async function loadData(): Promise<KeywordsData> {
   const raw = await fs.readFile(path.join(process.cwd(), "data", "keywords.json"), "utf-8");

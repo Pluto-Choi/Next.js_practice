@@ -2,8 +2,7 @@ import type { MetadataRoute } from 'next'
 import { promises as fs } from 'fs'
 import path from 'path'
 import { CATEGORIES } from './categories'
-
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://whymystockisboom.vercel.app'
+import { SITE_URL as BASE_URL } from './site'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   let dates: string[] = []

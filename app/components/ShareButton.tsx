@@ -2,14 +2,7 @@
 
 import { useState } from 'react'
 
-interface Props {
-  category: string
-  summary: string
-  keywords: { rank: number; word: string }[]
-  date: string
-}
-
-export default function ShareButton({ category, summary, keywords, date }: Props) {
+export default function ShareButton() {
   const [state, setState] = useState<'idle' | 'done'>('idle')
 
   const handleShare = async () => {

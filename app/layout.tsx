@@ -4,6 +4,7 @@ import "./globals.css";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Analytics } from "@vercel/analytics/next";
 import { GoogleAnalytics } from "@next/third-parties/google";
+import { SITE_URL } from "./site";
 
 const GA_ID = process.env.NEXT_PUBLIC_GA_ID ?? "G-KGFN3B01DW";
 
@@ -28,7 +29,7 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://whymystockisboom.vercel.app"),
+  metadataBase: new URL(SITE_URL),
   title: "오늘의 뉴스 | 핫이슈 · 연예 · 경제 키워드",
   description: "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.",
   keywords: ["오늘의 뉴스", "핫이슈", "연예 뉴스", "경제 키워드", "경제 뉴스", "트렌드 키워드", "오늘의 이슈", "K팝"],
@@ -45,7 +46,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "오늘의 뉴스 | 핫이슈 · 연예 · 경제 키워드",
     description: "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.",
-    url: "https://whymystockisboom.vercel.app/",
+    url: `${SITE_URL}/`,
     siteName: "오늘의 뉴스",
     locale: "ko_KR",
     type: "website",
