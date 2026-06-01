@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next'
 import { promises as fs } from 'fs'
 import path from 'path'
+import { CATEGORIES } from './categories'
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://whymystockisboom.vercel.app'
 
@@ -22,6 +23,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: 'hourly',
       priority: 1,
     },
+    ...CATEGORIES.map((c) => ({
+      url: `${BASE_URL}/category/${c.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'hourly' as const,
+      priority: 0.8,
+    })),
     ...dates.map((date) => ({
       url: `${BASE_URL}/${date}`,
       lastModified: new Date(date),

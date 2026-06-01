@@ -6,6 +6,7 @@ import KeywordDisplay, { type KeywordsData } from "./components/KeywordDisplay";
 import Logo from "./components/Logo";
 import InstallButton from "./components/InstallButton";
 import { buildJsonLd } from "./jsonld";
+import { CATEGORIES } from "./categories";
 
 async function loadData(): Promise<KeywordsData> {
   const filePath = path.join(process.cwd(), "data", "keywords.json");
@@ -80,6 +81,18 @@ export default async function Home() {
             <div className="pointer-events-none absolute right-0 top-0 h-full w-8 bg-gradient-to-l from-zinc-50 dark:from-zinc-950" aria-hidden="true" />
           </div>
         )}
+
+        <div className="flex gap-2 mb-6 justify-center flex-wrap" role="navigation" aria-label="카테고리별 보기">
+          {CATEGORIES.map((c) => (
+            <Link
+              key={c.slug}
+              href={`/category/${c.slug}`}
+              className="px-3 py-2.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
+            >
+              {c.emoji} {c.name}
+            </Link>
+          ))}
+        </div>
 
         <KeywordDisplay data={data} />
 
