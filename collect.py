@@ -2,7 +2,6 @@ from kiwipiepy import Kiwi
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
-# from supabase import create_client
 import feedparser
 import anthropic
 import json
@@ -141,9 +140,6 @@ def generate_summary(keywords, category):
     )
     return message.content[0].text
 
-# SUPABASE_URL = os.environ.get("SUPABASE_URL")
-# SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
-# supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 anthropic_client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
 kiwi = Kiwi()
@@ -249,24 +245,3 @@ os.makedirs("data/history", exist_ok=True)
 shutil.copy("data/keywords.json", f"data/history/{today}.json")
 
 print(f"\n{today} 키워드 저장 완료!")
-
-# ===== Supabase 저장 (임시 비활성화) =====
-# try:
-#     for category, keywords in [("오늘의 이슈", keywords_issue), ("경제", keywords_economy)]:
-#         for item in keywords:
-#             supabase.table("keywords").insert({
-#                 "date": today,
-#                 "rank": item["rank"],
-#                 "word": item["word"],
-#                 "category": category,
-#             }).execute()
-#
-#         supabase.table("daily_summary").insert({
-#             "date": today,
-#             "category": category,
-#             "summary": summaries[category],
-#         }).execute()
-#
-#     print("Supabase 저장 완료!")
-# except Exception as e:
-#     print(f"Supabase 저장 실패 (무시하고 계속): {e}")
