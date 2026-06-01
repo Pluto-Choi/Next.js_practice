@@ -11,6 +11,28 @@ export async function loadCurrentData(): Promise<KeywordsData> {
   return JSON.parse(raw);
 }
 
+export type TrendEntry = {
+  date: string;
+  category: string;
+  rank: number;
+  count: number;
+};
+
+export type TrendsData = {
+  generated_at: string;
+  days: number;
+  keywords: { [word: string]: TrendEntry[] };
+};
+
+export async function loadTrends(): Promise<TrendsData | null> {
+  try {
+    const raw = await fs.readFile(path.join(DATA_DIR, "trends.json"), "utf-8");
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
+}
+
 export async function loadHistoryData(date: string): Promise<KeywordsData | null> {
   try {
     const raw = await fs.readFile(path.join(HISTORY_DIR, `${date}.json`), "utf-8");

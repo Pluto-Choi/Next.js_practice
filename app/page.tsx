@@ -97,6 +97,12 @@ export default async function Home() {
               {c.emoji} {c.name}
             </Link>
           ))}
+          <Link
+            href="/trends"
+            className="px-3 py-2.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
+          >
+            📊 트렌드
+          </Link>
         </div>
 
         <KeywordDisplay data={data} rankChanges={rankChanges} />
