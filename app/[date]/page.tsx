@@ -5,9 +5,13 @@ import KeywordDisplay from "../components/KeywordDisplay";
 import Logo from "../components/Logo";
 import ThemeToggle from "../components/ThemeToggle";
 import { buildJsonLd } from "../jsonld";
-import { loadHistoryData, getRecentDates, getRankChanges } from "../data";
+import { loadHistoryData, getRecentDates, getRankChanges, getAllDates } from "../data";
 
 type Props = { params: Promise<{ date: string }> };
+
+export async function generateStaticParams() {
+  return (await getAllDates()).map((date) => ({ date }));
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { date } = await params;

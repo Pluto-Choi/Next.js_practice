@@ -37,6 +37,10 @@ export async function getRecentDates(limit = 7): Promise<string[]> {
   return (await listHistoryDates()).slice(0, limit);
 }
 
+export async function getAllDates(): Promise<string[]> {
+  return listHistoryDates();
+}
+
 export type RankChange =
   | { type: "new" }
   | { type: "up" | "down"; delta: number }

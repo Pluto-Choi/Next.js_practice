@@ -17,6 +17,7 @@ type Status = 'unsupported' | 'default' | 'granted' | 'denied' | 'loading'
 
 export default function NotificationButton() {
   const [status, setStatus] = useState<Status>('loading')
+  const [justSubscribed, setJustSubscribed] = useState(false)
 
   useEffect(() => {
     if (
@@ -50,6 +51,7 @@ export default function NotificationButton() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(sub),
       })
+      setJustSubscribed(true)
       setStatus('granted')
     } catch {
       setStatus('default')
@@ -59,6 +61,8 @@ export default function NotificationButton() {
   if (status === 'unsupported' || status === 'denied') return null
 
   if (status === 'granted') {
+    // 이미 구독한 재방문자에게는 안내 문구를 숨기고, 방금 구독한 경우에만 확인 문구를 보여준다.
+    if (!justSubscribed) return null
     return (
       <p className="mb-6 text-center text-xs text-zinc-400 dark:text-zinc-500">
         🔔 매일 낮 12시 알림 설정됨

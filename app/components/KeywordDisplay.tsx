@@ -202,7 +202,6 @@ export default function KeywordDisplay({
                 })}
               </div>
 
-              {category === "오늘의 이슈" && <ShareButton />}
             </div>
 
             {index === 0 && (
@@ -211,6 +210,8 @@ export default function KeywordDisplay({
           </Fragment>
         );
       })}
+
+      <ShareButton />
     </>
   );
 }

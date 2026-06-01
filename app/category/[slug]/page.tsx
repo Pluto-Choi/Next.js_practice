@@ -11,6 +11,10 @@ import { loadCurrentData, getRankChanges } from "../../data";
 
 type Props = { params: Promise<{ slug: string }> };
 
+export function generateStaticParams() {
+  return CATEGORIES.map((c) => ({ slug: c.slug }));
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const cat = categoryBySlug(slug);
