@@ -26,7 +26,7 @@ export default function AdFitBanner({ adUnit, width, height }: Props) {
     ref.current.appendChild(ins)
 
     const script = document.createElement('script')
-    script.src = '//t1.daumcdn.net/kas/static/ba.min.js'
+    script.src = '//t1.kakaocdn.net/kas/static/ba.min.js'
     script.async = true
     ref.current.appendChild(script)
   }, [adUnit, width, height])

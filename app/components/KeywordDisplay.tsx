@@ -174,7 +174,7 @@ export default function KeywordDisplay({ data }: { data: KeywordsData }) {
             </div>
 
             {index === 0 && (
-              <AdFitBanner adUnit="DAN-XXXXXXXXXX" width={300} height={250} />
+              <AdFitBanner adUnit="DAN-yItNPmN2B2cR2RlZ" width={300} height={250} />
             )}
           </Fragment>
         );
