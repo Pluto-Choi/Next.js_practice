@@ -1,52 +1,53 @@
 {
   "date": "2026-06-01",
+  "updated_at": "2026-06-01 20:32",
   "categories": {
     "오늘의 이슈": {
-      "summary": "대전 한화에어로스페이스 폭발사고 · 미얀마 북부 폭발 120명 사상 · 코스피 반도체 의존도 심화 · 중동 휴전협상 난항",
+      "summary": "이란·미국 중동 군사 긴장 고조 · 한화에어로스페이스 대전공장 폭발로 5명 사망 · 반도체 업종 양극화 심화 · 네이버 월드컵 중계 부분 유료화",
       "keywords": [
         {
           "rank": 1,
-          "word": "폭발",
+          "word": "이란",
           "count": 2,
           "articles": [
             {
-              "title": "[속보] 대전 한화에어로스페이스서 폭발 신고 접수…“폭발음 들려”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwY2N6d2ZKakMzXzNhdE5XbzExRC1nN2RpNlFoMVRQU1pYTzNRUFRHVmlPUjAwYlpmYWd1eTQ3VE5JNmxVaHVzbF9ueEVPdXlXMzFsUVJn?oc=5",
+              "title": "[속보] 이란 “미국이 이란영토 타격에 사용한 기지 공격”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uOHRTN3RuYXVwa0xLand6dWdfRzBtQkdCLVdoUGgzTDVhdUJiX202YUpTWGlmMElfZlNsam9IN2dMRWxzeGtqanFlWGpNVnNIdFJpRmZR?oc=5",
               "source": "중앙일보"
             },
             {
-              "title": "거대한 폭죽 터지듯…미얀마 북부 폭발사고 120명 사상 [지금뉴스]",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lbldkRHMyVTZId0p6VGF4a1VPbDJIVmZiTkZUWEFVSWVQNklndWhFa0hRR3pfeFlTd3lSRVhCVHlEMlItcmZfUzZiaUFRc0tMS1BIZnRIMEg3bjA?oc=5",
-              "source": "KBS 뉴스"
+              "title": "종전 MOU 불발 속 보복전…美 케슘섬 공격에 이란 \"출격기지 타격\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pb181c19yT1FWN3RFcXF5eWhRQXZYS0txZkY1ODV2dnd5ZVF0TUc2OFNJY1FSdVFHalhfRUJmNTc2WFEwZ0t0UmdkRXN2VmFtTnR3NjhZYTZ4ejJub3prSNIBeEFVX3lxTFBZZHJoTkJwLUYxMGNjWEVQN0Y1WjRCS3NicWd5MmlXX3VDbTJTeGtsYWE1MHNuNzF5a0NnVHEzc0lnSVBTQ1MzeUxUNl9UeVBVTVpSZlNHRUIyYTB2Z0FsR0N5U3NuVkJWOUg4bGdjU3FKNEhUOXNyaA?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "미얀마서 광산 채굴용 폭약 폭발…어린이 포함 최소 46명 사망",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01cVdudnc0elpuUUZ2MURDdXdBYzZYYXBVbVNTenNDbmJsVVBQdFFrdmZnT095RkdRZ1Y4RG1iZzBRbVpyYkNUMXRualR3YXdoVWJTQzY5OHpqblp1UWc5aGZZbXJaOVJaa1ZzUk5WWUlLZ0nSAWZBVV95cUxPY3VaOTlhU0xiNVpFY2R4aGl1bnk3SlFiZE5tMWh5QnRXd0hzS1RpTmJEVk5qSE8wQU5UT2ZTeFNCTHNhWDFRT2xFQ25wLXBNeTFhYk9RM1NSdjdrMzhDcl9rVzNsS1E?oc=5",
-              "source": "동아일보"
+              "title": "美 트럼프 \"이란도 비핵화 동의\"...이란 \"전부 추측에 불과\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzMTZsbW00T0IxZEhGeFRrQjVZaVVhNkg2QWJNcVFlbmZmOW41bDhicWFYdFJDVDBER2FualhIUUNLMlRVQmNkUGFYNDROWkk?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "정원오",
+          "word": "미국",
           "count": 2,
           "articles": [
             {
-              "title": "정원오, 오세훈 향해 \"서울시장, 정부와 싸우라고 있는 자리 아냐\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SWxnNnphZHpVXzlBeV9Pb0o1aUdBV19YV2Z0S2lCbEwydXM0LVUyQUd3THFJb0FHSjlHaGdmeUw3OWdMWElIYkhRSGtvb1dWZ0cyYjVBcXh1bWtsVG5JNktlLXR6Q3BfeEJCNTFjeTlMNzJUU19xOdIBeEFVX3lxTE9FX055V1VlaERiR2k2ZFRzMWRLX0ROLTV3YmIwUnZQLU80eUFJOE1jeU1aTkRwYkIzUEJWWjRPalFUR25LTXNRc1NtTDRUQ0x0Rk5OZW1YTlRzWXJvUkNPY3FhN2R6S0lHbDFhWXI2ZlJmd1ktQU9zZw?oc=5",
-              "source": "MBC 뉴스"
+              "title": "[속보]“종전 물 건너가나” 미국·이란 주말 새 국지전…미국 “주말 이란 시설 공습”·이란 “미국 기지 반격",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qajF2bHlmZG9iR1hTcHRYdmpZcWl0dDV0cjMyS2pORy1fZUhIeW9ab0dXLV9pT0hZRzJwaFVKcE4wbUJncHlXZUlzTGIyQTlp?oc=5",
+              "source": "문화일보"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "코스피",
+          "word": "반도체",
           "count": 2,
           "articles": [
             {
-              "title": "‘착시’ 빠진 증시… 반도체 빼면 코스피 4100선 불과",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CN1UwVGxkNDFXSFVBcnUtWW9iQ08wRmItZTFRUHJQYm9paDFfYTFsQVp1aVkxX3NkLUw2UGh5bENYYzk2bTF3aWpRNk9ZbW8?oc=5",
-              "source": "v.daum.net"
+              "title": "유진투자 “반도체 제외 코스피 4100∼4200 추정…업종 간 양극화 심화”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zZVpKX3VOSHBXRklGeU9KWHBLaVRyY2dpamJKbHUtc0YwOVIzd0k1S2gwRXR3QkRBZUdTQzd3TmhPaVBJaTVjTnctLTRmd3NlbXJoZG5HSFJzUdIBX0FVX3lxTE5VMFdrY3ljOVBnaUJ2RGc2Ukh2Rm1Od2N1cFN4b1pKR0F2dmpTMGZvLXdDS3FlLUlCc2tfX09uSmxwenZQRVVXOWFjS1pqdEJtYlB5UV91MFd6LWdhOTlF?oc=5",
+              "source": "경향신문"
             }
           ]
         },
@@ -56,60 +57,60 @@
           "count": 1,
           "articles": [
             {
-              "title": "[속보] 대전 한화에어로스페이스 화재 11시49분께 초진",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NXzJfMjM2TWJDRHNnZi1vR2tqRHV3R0R6QWVqOUhmeERFSkFQQ2ZHZ2x1WnBoRTI1UHRJVDI2cTJCLXBtQUpDZmJFblFOMGc?oc=5",
-              "source": "v.daum.net"
+              "title": "한화에어로스페이스 대전공장서 폭발 사고‥5명 사망·2명 중경상",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjXzZ0d0ppQWhxT01vdHJ5NWZjNkdjNjFkS3RvTl9tNDVtUFZNMFRsdHI2ZmZoZzFhSEJWNzd2UnlNQlRuRDZPUzNkX0xabVVkZXhYbFpVTzh1TDlpNUR1c3pEajVfUEpaMV96TEhFMzRYcEtqMUF30gF3QVVfeXFMTldXeVRGaXhFWDhFWG5TQjJQRTF5STJkVkpiODl5NWdNUXE5YTFmemxQaWF5NUQydTE1QXl2d1RtT3hPUy1vYzBIYTVjRWJtMzFlVkVQcXc3TGpHZ09LMFEwMHl2c3BIWTRPZ1VNQ3VmRkJmdXc3OUU?oc=5",
+              "source": "MBC 뉴스"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "휴전",
-          "count": 1,
+          "word": "월드컵",
+          "count": 2,
           "articles": [
             {
-              "title": "휴전 MOU 막판 진통…이란 ‘노딜 가능성’ 언급에 미 ‘군사행동’ 경고",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rUUpoRkx3WWRPYUYyM05UZUpkMTMtWFNKa05qd3FqSTNERmcxa1IyM1ljRGVURGpoMmlYTUROQ3Z6cEFIdi1tMTZSN0NydjRuS0loNXVXRnpjRTNmNlYxa2dCRVdGUGhILVJyVlpNN1JyeE0?oc=5",
-              "source": "한겨레"
+              "title": "\"한국전만 공짜\"…네이버, 북중미 월드컵 '부분 유료화' 승부수",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zMmxWX1VsNTlNSHBWU203eFllakZaLXQzWHlCSEpXUnU4N19DR0c2SXlyOGx5dHY2UjNFWEdoYjZOV1owLVdVWkZ5Mkh3WEZrOW1hZlctX0ZPVVVtdDJGS9IBeEFVX3lxTE9UbE44R21Jb1l4ck5zNTdGTVpoallWRXQ4RDRZZVZQWVJJeWVDZFRKMlhZVENDVWVQQVdwSmV5UXVjLVloYWRRNWJGb095bmwyU1lZdlA0X0RPV2M3M2pqN3JzZ2RnaHhoSGp3Z19ScWpvUGlkbm4wRQ?oc=5",
+              "source": "뉴시스"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "브랜드와의 협업으로 확장되는 케이팝 · 해체 후 새로운 길 찾는 전 아이돌 · 미국서 한류 열풍으로 성장하는 파리바게뜨 · 지민 금발 변신으로 팬 열광",
+      "summary": "前아이돌 연예계 밖으로 진출·아이돌 섭외 대학축제 '가격 폭등'·정국 AMAs 등장으로 글로벌 화제",
       "keywords": [
         {
           "rank": 1,
-          "word": "케이팝",
-          "count": 12,
-          "articles": [
-            {
-              "title": "스포츠와 케이팝 협업은 계속된다! 나이키 X BTS, 나이키 X 지드래곤, 솔로몬 X 지수",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQjVWSGdUX29jWVJ3MjZRN21keUdvTldtdTFYUHZMdDNGWkF0b1d4S3dITXFqS1JDaFAtQ0V6eHZmbkNVZm9nN3ZWbWYzejN5YnhLcGtoaV9yejY5S3FUaWdKVW95TFZJdkpRdzhOakdjR191dGZ2Sl9kUzQxUjRudnpFSVJpdG93a092T213MDZ3OFdGZUtOaDRGVQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "울산학생교육문화회관, 전통 군악 대취타와 케이팝이 만났다",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fbC16M1ZRQmh2X0hCcEhSLVdES2toVUJTUmM3S3dXMVZQQmNQTXktbm1DUkFaYzlkT0t0QUJjVzlQMmdWdlg1V1JB?oc=5",
-              "source": "미디어투데이"
-            },
-            {
-              "title": "팬들과 함께 아메리칸 뮤직 어워즈(AMA)를 휩쓴 케이팝 아티스트들 🏆🎵",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvQ1hTdlAyTVV5dUdmdzZtV3lzMWRiOFUxRlZlRzNmZU9CSXdoUFVXUVQtRHpGWkQyTmhuN3dvNjhJRUhucFFJWnhFOGpGMnFSSUxn?oc=5",
-              "source": "뉴닉"
-            }
-          ]
-        },
-        {
-          "rank": 2,
           "word": "아이돌",
-          "count": 10,
+          "count": 11,
           "articles": [
             {
               "title": "[아이돌, 해체 그다음의 삶①] 연예계 밖 세상에 뛰어든 '前아이돌'",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VcDJ4ak5tdlh4WFk2T0pEb1hVcDdKSWFxeGRwc3BwazVIaE1iTEUxSjU4ZE1pREQ1ZXVfc1JxSlo1dUlSZkUxZm9Ob1lxZWc?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "\"에스파 부르면 1억?\" 학생회비 '영끌'...대학 축제 '아이돌 섭외' 전쟁 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5a2J1N01xek92Vl9QcW9FcUF5S2VPX2prYkRlSWdUaFFXdlZlMnZ3V0w1dDF1dDIxNGxRcVJiUXZhT29mMk1mVGZwb1J4R2FqU0tEZ2tYNEFYU00tUWJaQVRKVVZ4ZWFyYy000gFwQVVfeXFMT0R4WERSVVM0TW41RTNMRURJVDJZQmlURFBfQ3B5ajJ5djNYdEdweno5M01tX0VOQnBVYTVRMEN3M1ZRM0V0NThUQ0ItRzlUZ19Rd3U0Vjk2Tk1HSTJ4cjFndVdQcVBvU2duYlR4aElzTg?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "[포토] 일본 국민아이돌 '아라시'",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0d0Y5NDNtMzNtc2NDQUVxZ256MjJ3TUc1UDNUQ3FrWjhLZzVSUE9LQkd0WTB1c0R6WWNzR2p3NDlNU0hzRVhHVE1Ddw?oc=5",
+              "source": "뉴스1"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "케이팝",
+          "count": 11,
+          "articles": [
+            {
+              "title": "tripleS 마유, 일본어 헷갈린 일본인 케이팝 가수 '폭소' [영상]",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ma3pDSVdzbVlxaEtBd3NER25ZbHM0a2xfZ3Y4U1BxbXlNYkp6Vk1sb2NVYnd1Q3RiX2FCUnBuOENucC1Qa1piNWdMT3hXRm04dVh2SlV1Q09GcERpOGNSRE16YXFZRG9qaVBEYjlCd2hEX0E?oc=5",
+              "source": "starnewskorea.com"
             }
           ]
         },
@@ -119,9 +120,9 @@
           "count": 10,
           "articles": [
             {
-              "title": "[주목-e분석] 美 진출 24년 '파리바게뜨', \"한류품고 1K넘어 2.2K까지~\"",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9samdWQzhDRk90eFpOMlB4N1dRdXdGX3oyTi1zY3lRcC1oRXhkdUlINFlHZ1RPUFFfNWlVRVBMM29iVk5WaTZrQnJCNU5ORjNtTExQOWhrMFhsdlFYc1VYV2ZVeGpQY0ZaUldKbA?oc=5",
-              "source": "이코노미톡뉴스"
+              "title": "\"잠깐 유행? 인기 얼마나 가겠어 했는데\"…한류의 '대반전' [K컬처인사이드]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pbF91RElITEVFV0s0dlJpQmtBWTFwd2RLMFRjQmhZY05MWXcxNGJsa3ZvWk1aRVctdXlKSmNFcFpRTlFoMGIwWGIxc0Q1LXRVWDc5Z0owQmZCUdIBVEFVX3lxTE1EMFdMZmYyOF9ZTGtwT0pzQ0tlZ2JKM0tuVDVGLWlRY2NzaXB4azRzMGJuTzE3bTA0cVB0dWp6NURsUHhRV1licVlVc3BmTXNMMzFXTg?oc=5",
+              "source": "한국경제"
             }
           ]
         },
@@ -131,9 +132,9 @@
           "count": 3,
           "articles": [
             {
-              "title": "\"차은우 군악대 보직 적절한가\" 민원에… 국방부 답변은",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV0hHa1d1c1VmM3I2UWZUTWZraFdqLVNNOXlsS1kzUG1kMHRhdVRHN3V2TlZBVEc3a3JTMlY1bkRScjJIeGxSSVF1Qks4cllFR3NfZXM5RFNUM1FZNTYwaDJfMWxDbU11cWt5Z2JqVzdLSGx3dFBfQ0RkT2hZeTdWT2xTbUdUV05DMnZKaA?oc=5",
-              "source": "조선일보"
+              "title": "차은우, 스타덤차트 배우부문 3주연속 1위…김수현 2위, 변우석 3위",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBcWpRN3RkRE1DNkh2dDZWWkJTQno3NXV0THVHaHdhdUpTSVRFQk0wWDBvNG1uSVdhTVBwTFVCY3VURlkxdE9UVl9FT0wtT2c?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
@@ -143,55 +144,43 @@
           "count": 2,
           "articles": [
             {
-              "title": "방탄소년단 지민, 다채로운 '금발 변신'→팬 심장에 불",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wNVhTUmxDX3VPc0pkZ3FuVUhSWE5LRFJmWWtXdWR2aUVGUktFcG43UVoyOU1NcHR4WmlzS1AwaU1CYk80bVRJWk0yMzIxcnhGeUpJRXMwZkRVdzgxYUNhbW4xcjVlS05EZjFad3pEYUFDMEI1?oc=5",
-              "source": "starnewskorea.com"
+              "title": "[BTS News] 방탄소년단 정국, AMAs 등장과 동시에 SNS 전세계 키워드 점령",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByVGpCUjZEZ1Y5c2RPMVRIQ1c3emNkTWgwaTJ2OEdkaEtndklUQVpDUXRXZERHRElYRmwzWE42NGVEVFUxeGdxcFdqZGJEMGhOVmRrYjlhbGU?oc=5",
+              "source": "뷰어스"
             }
           ]
         }
       ]
     },
     "경제": {
-      "summary": "원/달러 환율 상승 · 금리인상 우려로 빚투족 부담 가중 · 반도체 제외 코스피 약세 · 정부, 부동산 투기 규제 강화 · 국민연금 국내주식 비중 확대",
+      "summary": "환율 상승에도 외국인 자금 유출 지속·반도체 제외 시 코스피 저조·부동산 탈세 적극 단속·강달러 추세 약화",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 30,
+          "count": 34,
           "articles": [
             {
-              "title": "비상장 스페이스X도 사고판다…환율·시차 없는 24시간 거래소 [코인랩 ①]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ONDlVS1FJRlQ4SHdpdWpWQzNvSXRMMldsdHJWOHdUcEN4T0hjNkdXQmJqal9BZXFfZjF3NnFGMWdoa3ZfV2RuTmkySFF5dDh3Q2tUOUNn?oc=5",
-              "source": "중앙일보"
+              "title": "고환율에도 종전·AI 기대감에 첫 8800…외국인은 17거래일 연속 매도 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02SGk5ZzN4azFJaUlXZjdCQUtReElDLWJ4UW5GWW16YUpsZnVWNGpaSy1OV2VxODBKR040bFJQWmJvdnJWMXJuT2JDWWQ4bUtIeFZ4akJtOE5QSTFTYWhmeFR2cW5lejho0gFuQVVfeXFMTXQybGFZZUM0dkhQWjZTcnYzeEl6UmtSM0RRbGduSnY5YXNRcmJxU184cXdZeDhXWVQ0ekpGcDhXbGIxX2Z4UmtoOTZCWWhPdTR4N2R2dnhzZ2dzTlN5enRmSjBNMW90Y0tQYVFsVFE?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "종전 협상 불투명에도…환율 3.6원 내린 1504.3원",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94R2kxeF9oTnhSS1JsRC05RWJ5UU5WdGhxRHVvT2NQNTYxZENZSTZzcFBrWnRmRXlkQjlnZzZFN0N2UlR5N2cyZUNseHJpUlk?oc=5",
+              "source": "v.daum.net"
             },
             {
               "title": "[외환] 원/달러 환율 0.9원 오른 1,508.8원(개장)",
               "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yTWhxVjZsTWhuVVBvOVhUMEM1NGNBRnYyUU5FQlZ1dk9rV1Zad0JqdklFdmxUa3hmWUVmYXhmLXhJTG1XeUIxX0lielU3WUNOVUw3WlVUcFJETFXSAWBBVV95cUxNTV96cWpZbFdRU0lmdlFJMGlmZHNEYmZHU2l6Z0g5amVkVWpyZ0J4R29Leks5S3pmN2d4MTJJUTU0QWNWbHMzV3plTTFYZXM4RGtrYkpMb2hkSWE4WnI0Nm4?oc=5",
               "source": "연합뉴스"
-            },
-            {
-              "title": "7월6일부터 원·달러 24시간 거래된다…“환율 변동 부작용 줄여야”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVmV0SzVzLTZ6U2ZaZXpEVWU3YWJkV3BPNTVDbXBiVVJsSE4tdEJTYXBWdWE5ZnoxSUROMG5pSHpsYWhjWE53U3R2NXFyN0dQVnNJN2QwMjYxQdIBX0FVX3lxTE9JUzZOZ2NrVnMxd21xSU5rVERhbnRnNXBySTdPMUxZQ3daLUdpeHUxT3BrUXNmMUxfUnY5UkZIN1M5OVZDcVZFX0dRUDdPaW9yOFhuZkhnVlJ1UzZYVVJr?oc=5",
-              "source": "경향신문"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "금리",
-          "count": 24,
-          "articles": [
-            {
-              "title": "마통·신용대출 끌어 주식했는데…금리인상 '만지작', 빚투족 비명 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xV0VPd0ptWUNjMmV4ZEdnbVlaSlAwOUFHTDNOVC1ScEI1Ni16clVtNVZ3SGVJbTFMY3FSSG52R1NHMWV2NmtkUTZtVGVQdlpqZjJVNXZPWm9iNFZSUHM4cDk1cFl0b0lFQkJZ0gFwQVVfeXFMUDNocVJESlFJb1JVWkxORTlIeERrd1k4ckg0UTdZVUNISmtPREVnYVM3QjhuZWdNX3NUQ1N4R2ZHRlI2VzVDVWJ1SDY5bHhKbUpZRjBoeVlTcUNIdHpkYlhIVWlzM09jNGxwU29DN0NSWQ?oc=5",
-              "source": "머니투데이"
-            }
-          ]
-        },
-        {
-          "rank": 3,
           "word": "코스피",
-          "count": 23,
+          "count": 26,
           "articles": [
             {
               "title": "‘착시’ 빠진 증시… 반도체 빼면 코스피 4100선 불과",
@@ -201,26 +190,38 @@
           ]
         },
         {
-          "rank": 4,
-          "word": "부동산",
-          "count": 14,
+          "rank": 3,
+          "word": "금리",
+          "count": 26,
           "articles": [
             {
-              "title": "이 대통령 “불법투기·탈세 이제 안돼···망국적 부동산 불로소득 반드시 탈출”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YVFNBb1BNMS14U19kVUxqeXkxbC0zRy0wY25Pb25FTUZ1RkphTlRBbE56ZVVNTXhtSnYxVnpjZWpvRFRUOXd2QjBDY0hFbmxCOXd3eFU1MlVFZ9IBX0FVX3lxTFBWblZTYTRPeEVLaWtSNG9DSHpvQ21aV2IyN1AzMUMwc2FrREdpWDh6VkZVc3o1aXZadGNBTkNBNFlVZ3JwM0NHUjliYWFtejJGLTd4WEdRM3p2REhkOUlr?oc=5",
-              "source": "경향신문"
+              "title": "[경제 포커스] ‘美 국채 금리 상승하면 强달러’ 공식 깨졌다 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObUZqTzFEYlVXVjlMWmE4TnpSb0JLRVJBcWlYSm1SWU9TT1o1SmdVTWJxbHlKMUgwbmd3NVBhazYxdnp6VXBEbEJaUXJTTHhubGpqdnNRQnFtZThaQlVPci1mejlkU1doanRaUXFVSnJHc2lKSVVfYnc0TEt0VTRPemdCT3RyZ9IBmgFBVV95cUxQbW5iY194b182cE0zYUZsOTRMQS1WcXY3REJpbGphMVF5SE4tVi1mZlVneDItcEprM0k3TXZuZ3g3WXlYYWtvdloxVGZHRzUyaUJ6bDNaVUctZFBCR2hnQUU5bXNRRFoyLTRFbkVvaEswS0dEcTlZZlFvM2pYNWE3S1FBOVhzdzJkS3J0TVZ4QUhfWWZBWno2UDhB?oc=5",
+              "source": "Chosunbiz"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "부동산",
+          "count": 15,
+          "articles": [
+            {
+              "title": "이 대통령 \"부동산 탈세 이제 안돼‥불로소득 공화국 반드시 탈출\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5acjF1RzNQcjh2NjFEYll2UkVfY1NmNWdJa0xqNl9uRGRjZzlGUTBxWEVib2lURzd1ZUh0ZmxWYUI4eklCTkpVWjh3U2J3YmdSMGtrc3JqaWRWZ1lmTHFqN1QxVzczOURDdmI1R1RUTml2SDFJY2pDTtIBeEFVX3lxTE9iNG5JN0dHX1hBYXBjRzFYdEVoTnJWclY2LVhWdDljVEpnMG1vS0NEZ2dpUVBmRHFYbnlYcFl2Z0FKVzBzeGJnX09DRktKdXVnS0o0Wi1fQXZJSFI2MXpadWFZblRWbkhDd096T3pId2pmU0FPR05aZQ?oc=5",
+              "source": "MBC 뉴스"
             }
           ]
         },
         {
           "rank": 5,
           "word": "주식",
-          "count": 11,
+          "count": 15,
           "articles": [
             {
-              "title": "김성주 국민연금 이사장 “국내주식 목표 비중 상향, 증시 부양 아닌 장기 수익성 위한 조치”",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BU0VPd1kySzNJc3dfd2pRM0w0b1VadGhXd2QzZXoyWi1WZHBRekppLXNWUEU3allfVkV3WWR0X3RlcEtIVkJURzI1Ni16N0dWdFHSAVNBVV95cUxQSDIta2ZCb2c5MHhWYVFWa1hJOUtIREhic19helQ4RThrdXdYb2dmcmFPVkpqWW5sanZlNDZyMkExTnhEMzhISnozMzM0YWZ0Y2Z6QQ?oc=5",
-              "source": "서울경제"
+              "title": "뭘 샀길래…2007년생 아이돌 \"14살 때부터 주식, 수익률 8000%\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UQm8yNEdmX1BqZHZGam51UFZIQlZFbGtFc2xoTmMtaHhvWm1BemdTR0JYYmtLTTJqamtscW9MbTdpZ28tNExKV1RVNTVjMGFKNm5qbFJxdXRkaVpCUmdJS044UlBncXBFVlJRa0tGMlp6R03SAXhBVV95cUxQeXBEX19fQXRWTF9OenYtVklTYmlqVTJWMXRDUmVoOTFiLUQ4ZE1OS2lnZTI4bkI5aUN6djhtYlBCRVdWQk96QW1iUVFybjdPQ3BFME54bXlXMkoxTE45WUlXaXcxV19mUkgyejJfS0pxVzR3UkxvN0Y?oc=5",
+              "source": "머니투데이"
             }
           ]
         }
