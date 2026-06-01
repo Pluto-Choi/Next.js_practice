@@ -99,7 +99,7 @@ export default async function Home() {
           ))}
         </div>
 
-        <KeywordDisplay data={data} rankChanges={rankChanges} />
+        <KeywordDisplay data={data} rankChanges={rankChanges} searchable />
 
         <p className="text-center text-zinc-400 text-xs pb-4">
           6시간마다 자동 업데이트 · Google News RSS 기반
