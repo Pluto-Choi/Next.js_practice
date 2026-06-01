@@ -77,7 +77,7 @@ def clean_title(title):
         title = title.rsplit(' - ', 1)[0]
     return title
 
-def extract_keywords(titles, sw=stopwords_common, n=15):
+def extract_keywords(titles, sw=stopwords_common, n=20):
     nouns = []
     for title in titles:
         tokens = kiwi.tokenize(clean_title(title))
