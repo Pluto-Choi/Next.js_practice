@@ -17,8 +17,8 @@ export async function buildOgImage(data: KeywordsData) {
   const font = await loadFont()
 
   const issueKws = data.categories['오늘의 이슈']?.keywords.slice(0, 5) ?? []
-  const entKws = data.categories['연예']?.keywords.slice(0, 3) ?? []
-  const econKws = data.categories['경제']?.keywords.slice(0, 3) ?? []
+  const entKws = data.categories['연예']?.keywords.slice(0, 5) ?? []
+  const econKws = data.categories['경제']?.keywords.slice(0, 5) ?? []
 
   const badge = (rank: number) => ({
     fontSize: 13,
@@ -45,18 +45,23 @@ export async function buildOgImage(data: KeywordsData) {
         }}
       >
         {/* 헤더 */}
-        <div style={{ display: 'flex', alignItems: 'center', marginBottom: '40px' }}>
+        <div style={{ display: 'flex', alignItems: 'center', marginBottom: '36px' }}>
           <div style={{ display: 'flex', alignItems: 'flex-end', gap: 5, marginRight: 16 }}>
             <div style={{ width: 13, height: 22, backgroundColor: '#fb7185', borderRadius: 3 }} />
             <div style={{ width: 13, height: 34, backgroundColor: '#a78bfa', borderRadius: 3 }} />
             <div style={{ width: 13, height: 46, backgroundColor: '#60a5fa', borderRadius: 3 }} />
           </div>
-          <span style={{ color: 'white', fontSize: 30, fontWeight: 700 }}>오늘의 뉴스</span>
+          <div style={{ display: 'flex', flexDirection: 'column' }}>
+            <span style={{ color: 'white', fontSize: 30, fontWeight: 700, lineHeight: 1.1 }}>오늘의 뉴스</span>
+            <span style={{ color: '#a1a1aa', fontSize: 17, fontWeight: 400 }}>
+              지금 한국에서 가장 핫한 뉴스 키워드
+            </span>
+          </div>
           <span style={{ color: '#52525b', fontSize: 18, marginLeft: 'auto' }}>{data.date}</span>
         </div>
 
         {/* 세 칼럼 */}
-        <div style={{ display: 'flex', gap: 36, flex: 1 }}>
+        <div style={{ display: 'flex', gap: 36, flex: 1, alignItems: 'center' }}>
           {/* 오늘의 이슈 */}
           <div style={{ flex: 1.2, display: 'flex', flexDirection: 'column' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 18 }}>
