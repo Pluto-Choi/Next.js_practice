@@ -1,2 +1,2 @@
 export const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? 'https://whymystockisboom.vercel.app'
+  process.env.NEXT_PUBLIC_SITE_URL ?? 'https://whatnewstoday.com'

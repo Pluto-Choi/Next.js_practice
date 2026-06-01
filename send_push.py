@@ -8,7 +8,7 @@ SUPABASE_URL = os.environ["SUPABASE_URL"].rstrip("/")
 SUPABASE_SERVICE_KEY = os.environ["SUPABASE_SERVICE_KEY"]
 VAPID_PRIVATE_KEY = os.environ["VAPID_PRIVATE_KEY"]
 VAPID_SUBJECT = os.environ.get("VAPID_SUBJECT", "mailto:syoung.choi327@gmail.com")
-SITE_URL = os.environ.get("SITE_URL", "https://whymystockisboom.vercel.app")
+SITE_URL = os.environ.get("SITE_URL", "https://whatnewstoday.com")
 
 HEADERS = {
     "apikey": SUPABASE_SERVICE_KEY,
