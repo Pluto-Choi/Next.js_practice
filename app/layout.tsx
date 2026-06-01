@@ -34,6 +34,11 @@ export const metadata: Metadata = {
   description: "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.",
   keywords: ["오늘의 뉴스", "핫이슈", "연예 뉴스", "경제 키워드", "경제 뉴스", "트렌드 키워드", "오늘의 이슈", "K팝"],
   manifest: "/manifest.json",
+  alternates: {
+    types: {
+      "application/rss+xml": [{ url: "/rss.xml", title: "오늘의 뉴스" }],
+    },
+  },
   icons: {
     icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
     apple: [{ url: "/apple-touch-icon.png", sizes: "512x512" }],
