@@ -66,6 +66,8 @@ def main():
                 data=payload,
                 vapid_private_key=VAPID_PRIVATE_KEY,
                 vapid_claims={"sub": VAPID_SUBJECT},
+                ttl=86400,
+                headers={"Urgency": "high"},
             )
             sent += 1
         except WebPushException as e:
