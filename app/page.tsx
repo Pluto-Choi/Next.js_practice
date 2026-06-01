@@ -24,7 +24,12 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     title,
     description,
-    alternates: { canonical: "/" },
+    alternates: {
+      canonical: "/",
+      types: {
+        "application/rss+xml": [{ url: "/rss.xml", title: "오늘의 뉴스" }],
+      },
+    },
     openGraph: {
       title,
       description,
