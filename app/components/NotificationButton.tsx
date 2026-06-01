@@ -64,7 +64,7 @@ export default function NotificationButton() {
     // 이미 구독한 재방문자에게는 안내 문구를 숨기고, 방금 구독한 경우에만 확인 문구를 보여준다.
     if (!justSubscribed) return null
     return (
-      <p className="mb-6 text-center text-xs text-zinc-400 dark:text-zinc-500">
+      <p className="mb-6 text-center text-xs text-zinc-500 dark:text-zinc-400">
         🔔 매일 낮 12시 알림 설정됨
       </p>
     )

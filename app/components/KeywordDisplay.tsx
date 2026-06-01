@@ -45,21 +45,21 @@ const categoryStyle: {
   };
 } = {
   "오늘의 이슈": {
-    text: "text-rose-500 dark:text-rose-400",
+    text: "text-rose-700 dark:text-rose-400",
     line: "bg-rose-400 dark:bg-rose-700",
     summaryBg: "bg-rose-50 dark:bg-rose-950/40",
     summaryBorder: "border-rose-200 dark:border-rose-900/60",
     summaryText: "text-rose-700 dark:text-rose-300",
   },
   연예: {
-    text: "text-fuchsia-500 dark:text-fuchsia-400",
+    text: "text-fuchsia-700 dark:text-fuchsia-400",
     line: "bg-fuchsia-400 dark:bg-fuchsia-700",
     summaryBg: "bg-fuchsia-50 dark:bg-fuchsia-950/40",
     summaryBorder: "border-fuchsia-200 dark:border-fuchsia-900/60",
     summaryText: "text-fuchsia-700 dark:text-fuchsia-300",
   },
   경제: {
-    text: "text-blue-500 dark:text-blue-400",
+    text: "text-blue-600 dark:text-blue-400",
     line: "bg-blue-400 dark:bg-blue-700",
     summaryBg: "bg-blue-50 dark:bg-blue-950/40",
     summaryBorder: "border-blue-100 dark:border-blue-900/60",
@@ -79,7 +79,7 @@ const rankBadgeStyle = (rank: number) => {
   if (rank === 1) return "bg-yellow-400 text-yellow-900";
   if (rank === 2) return "bg-zinc-300 text-zinc-700 dark:bg-zinc-600 dark:text-zinc-100";
   if (rank === 3) return "bg-orange-300 text-orange-900 dark:bg-orange-700 dark:text-orange-100";
-  return "bg-zinc-100 text-zinc-500 dark:bg-zinc-700 dark:text-zinc-400";
+  return "bg-zinc-100 text-zinc-600 dark:bg-zinc-700 dark:text-zinc-300";
 };
 
 const cleanTitle = (title: string) => {
@@ -100,7 +100,7 @@ function RankChangeBadge({ change }: { change?: RankChange }) {
   return (
     <span
       className={`text-[10px] font-bold tabular-nums shrink-0 ${
-        isUp ? "text-rose-500 dark:text-rose-400" : "text-blue-500 dark:text-blue-400"
+        isUp ? "text-rose-600 dark:text-rose-400" : "text-blue-600 dark:text-blue-400"
       }`}
       aria-label={isUp ? `${change.delta}계단 상승` : `${change.delta}계단 하락`}
     >
@@ -163,14 +163,14 @@ export default function KeywordDisplay({
                                 {item.word}
                               </p>
                               {item.articles[0] && (
-                                <p className="group-open:hidden mt-0.5 text-xs text-zinc-400 dark:text-zinc-500 line-clamp-1 leading-snug">
+                                <p className="group-open:hidden mt-0.5 text-xs text-zinc-500 dark:text-zinc-400 line-clamp-1 leading-snug">
                                   {cleanTitle(item.articles[0].title)}
                                 </p>
                               )}
                             </div>
                           </div>
                           <div className="flex items-center gap-1.5 shrink-0">
-                            <span className="text-xs text-zinc-400 dark:text-zinc-500">{item.articles.length}건</span>
+                            <span className="text-xs text-zinc-600 dark:text-zinc-400">{item.articles.length}건</span>
                             <span className="text-zinc-300 dark:text-zinc-600 text-xs transition-transform duration-200 group-open:rotate-180">▾</span>
                           </div>
                         </div>
@@ -191,7 +191,7 @@ export default function KeywordDisplay({
                                 {cleanTitle(article.title)}
                               </p>
                               {article.source && (
-                                <p className="text-zinc-400 text-xs mt-0.5">{article.source}</p>
+                                <p className="text-zinc-500 dark:text-zinc-400 text-xs mt-0.5">{article.source}</p>
                               )}
                             </div>
                           </a>

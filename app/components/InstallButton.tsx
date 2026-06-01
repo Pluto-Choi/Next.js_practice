@@ -84,8 +84,8 @@ export default function InstallButton() {
           </ol>
         </div>
         <div className="border-t border-zinc-100 dark:border-zinc-800 px-4 py-2.5 flex justify-between items-center">
-          <span className="text-xs text-zinc-400">Safari에서만 설치 가능해요</span>
-          <button onClick={() => setState('ios')} className="text-xs text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300 transition-colors">닫기</button>
+          <span className="text-xs text-zinc-500 dark:text-zinc-400">Safari에서만 설치 가능해요</span>
+          <button onClick={() => setState('ios')} className="text-xs text-zinc-500 dark:text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300 transition-colors">닫기</button>
         </div>
       </div>
     )
@@ -97,7 +97,7 @@ export default function InstallButton() {
         <div className="flex items-start justify-between mb-3">
           <div>
             <p className="text-sm font-semibold text-zinc-800 dark:text-zinc-200">앱으로 설치하기</p>
-            <p className="text-xs text-zinc-400 dark:text-zinc-500 mt-0.5">더 빠르고 편하게 뉴스 확인</p>
+            <p className="text-xs text-zinc-500 dark:text-zinc-400 mt-0.5">더 빠르고 편하게 뉴스 확인</p>
           </div>
           <button onClick={() => setState('hidden')} className="text-zinc-300 dark:text-zinc-600 hover:text-zinc-500 dark:hover:text-zinc-400 transition-colors text-sm leading-none mt-0.5">✕</button>
         </div>
@@ -120,7 +120,7 @@ export default function InstallButton() {
         <div className="border-t border-zinc-100 dark:border-zinc-800 px-4 py-2.5">
           <button
             onClick={() => setState('ios-guide')}
-            className="w-full text-xs text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300 transition-colors text-center"
+            className="w-full text-xs text-zinc-500 dark:text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300 transition-colors text-center"
           >
             iPhone이라면? 설치 방법 보기 →
           </button>

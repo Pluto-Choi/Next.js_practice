@@ -60,7 +60,7 @@ export default async function HistoryPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <div className="max-w-lg mx-auto px-4 py-6">
+      <main className="max-w-lg mx-auto px-4 py-6">
 
         <h1 className="sr-only">{date} 뉴스 키워드 — 핫이슈 · 연예 · 경제 TOP5</h1>
 
@@ -69,7 +69,7 @@ export default async function HistoryPage({ params }: Props) {
           <div className="flex justify-center mb-2">
             <Logo />
           </div>
-          <p className="text-xs text-zinc-400 dark:text-zinc-500">{data.date} · Google News RSS</p>
+          <p className="text-xs text-zinc-500 dark:text-zinc-400">{data.date} · Google News RSS</p>
         </div>
 
         {recentDates.length > 0 && (
@@ -101,10 +101,10 @@ export default async function HistoryPage({ params }: Props) {
 
         <KeywordDisplay data={data} rankChanges={rankChanges} />
 
-        <p className="text-center text-zinc-400 text-xs pb-4">
+        <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pb-4">
           6시간마다 자동 업데이트 · Google News RSS 기반
         </p>
-      </div>
+      </main>
     </div>
   );
 }

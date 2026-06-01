@@ -58,7 +58,7 @@ export default function StreakTrends({
       </div>
 
       {list.length === 0 ? (
-        <p className="text-center text-zinc-400 dark:text-zinc-500 text-sm py-10">
+        <p className="text-center text-zinc-500 dark:text-zinc-400 text-sm py-10">
           이 기간엔 2일 이상 연속 1위 기록이 없어요.
         </p>
       ) : (
@@ -70,14 +70,14 @@ export default function StreakTrends({
             >
               <div className="flex items-center gap-3">
                 <span className="text-sm font-bold truncate flex-1 min-w-0">{s.word}</span>
-                <span className="text-xs text-zinc-400 dark:text-zinc-500 shrink-0">
+                <span className="text-xs text-zinc-500 dark:text-zinc-400 shrink-0">
                   {categoryEmoji[s.category] ?? "📌"} {s.category}
                 </span>
                 <span className="text-xs font-bold text-amber-600 dark:text-amber-400 tabular-nums shrink-0">
                   {s.streak}일 연속
                 </span>
               </div>
-              <div className="mt-1 text-xs text-zinc-400 dark:text-zinc-500 tabular-nums">
+              <div className="mt-1 text-xs text-zinc-500 dark:text-zinc-400 tabular-nums">
                 {md(s.start)} ~ {md(s.end)}
               </div>
               {s.ai_summary && (

@@ -18,13 +18,13 @@ export default async function TrendsPage() {
 
   return (
     <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
-      <div className="max-w-lg mx-auto px-4 py-6">
+      <main className="max-w-lg mx-auto px-4 py-6">
         <div className="relative mb-8 text-center">
           <ThemeToggle />
           <div className="flex justify-center mb-2">
             <Logo />
           </div>
-          <p className="text-xs text-zinc-400 dark:text-zinc-500">
+          <p className="text-xs text-zinc-500 dark:text-zinc-400">
             📊 키워드 트렌드{trends ? ` · 최근 ${trends.days}일` : ""}
           </p>
         </div>
@@ -39,17 +39,17 @@ export default async function TrendsPage() {
         </div>
 
         {!hasStreaks ? (
-          <p className="text-center text-zinc-400 dark:text-zinc-500 text-sm py-16">
+          <p className="text-center text-zinc-500 dark:text-zinc-400 text-sm py-16">
             아직 집계할 데이터가 부족해요. 곧 채워질 거예요.
           </p>
         ) : (
           <StreakTrends streaks={trends!.streaks} />
         )}
 
-        <p className="text-center text-zinc-400 text-xs pb-4">
+        <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pb-4">
           누적 수집 데이터 기반 · Google News RSS
         </p>
-      </div>
+      </main>
     </div>
   );
 }

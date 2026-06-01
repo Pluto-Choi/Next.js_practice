@@ -49,7 +49,7 @@ export default async function Home() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <div className="max-w-lg mx-auto px-4 py-6">
+      <main className="max-w-lg mx-auto px-4 py-6">
 
         <h1 className="sr-only">오늘의 뉴스 — {data.date} 핫이슈 · 연예 · 경제 키워드 TOP5</h1>
 
@@ -58,7 +58,7 @@ export default async function Home() {
           <div className="flex justify-center mb-2">
             <Logo />
           </div>
-          <p className="text-xs text-zinc-400 dark:text-zinc-500">
+          <p className="text-xs text-zinc-500 dark:text-zinc-400">
             {data.updated_at ? `${data.updated_at} 업데이트` : data.date} · Google News RSS
           </p>
         </div>
@@ -107,10 +107,10 @@ export default async function Home() {
 
         <KeywordDisplay data={data} rankChanges={rankChanges} />
 
-        <p className="text-center text-zinc-400 text-xs pb-4">
+        <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pb-4">
           6시간마다 자동 업데이트 · Google News RSS 기반
         </p>
-      </div>
+      </main>
     </div>
   );
 }
