@@ -1,8 +1,6 @@
 import { Fragment } from "react";
 import AdFitBanner from "./AdFitBanner";
 import ShareButton from "./ShareButton";
-import KeywordShareButton from "./KeywordShareButton";
-import KeywordSearch from "./KeywordSearch";
 import type { RankChange, RankChanges } from "../data";
 
 export type Article = {
@@ -115,20 +113,17 @@ function RankChangeBadge({ change }: { change?: RankChange }) {
 export default function KeywordDisplay({
   data,
   rankChanges,
-  searchable = false,
 }: {
   data: KeywordsData;
   rankChanges?: RankChanges;
-  searchable?: boolean;
 }) {
   return (
     <>
-      {searchable && <KeywordSearch />}
       {Object.entries(data.categories).map(([category, categoryData], index) => {
         const style = categoryStyle[category] ?? defaultCategoryStyle;
         return (
           <Fragment key={category}>
-            <div className="mb-8" data-cat-block>
+            <div className="mb-8">
               <div className="flex items-center gap-2 mb-3">
                 <span className="text-base">{categoryEmoji[category] || "📌"}</span>
                 <h2 className={`text-sm font-bold tracking-wide ${style.text}`}>{category}</h2>
@@ -149,7 +144,6 @@ export default function KeywordDisplay({
                   return (
                     <details
                       key={item.word}
-                      data-kw={item.word}
                       aria-label={`${item.rank}위 ${item.word} — 관련 기사 ${item.articles.length}건`}
                       className={`group overflow-hidden rounded-2xl border bg-white dark:bg-zinc-900 transition-shadow ${
                         isTop
@@ -176,7 +170,6 @@ export default function KeywordDisplay({
                             </div>
                           </div>
                           <div className="flex items-center gap-1.5 shrink-0">
-                            <KeywordShareButton word={item.word} />
                             <span className="text-xs text-zinc-400 dark:text-zinc-500">{item.articles.length}건</span>
                             <span className="text-zinc-300 dark:text-zinc-600 text-xs transition-transform duration-200 group-open:rotate-180">▾</span>
                           </div>

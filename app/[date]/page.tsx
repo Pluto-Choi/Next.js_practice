@@ -95,7 +95,7 @@ export default async function HistoryPage({ params }: Props) {
           </div>
         )}
 
-        <KeywordDisplay data={data} rankChanges={rankChanges} searchable />
+        <KeywordDisplay data={data} rankChanges={rankChanges} />
 
         <p className="text-center text-zinc-400 text-xs pb-4">
           6시간마다 자동 업데이트 · Google News RSS 기반
