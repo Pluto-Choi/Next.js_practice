@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 import KeywordDisplay, { type KeywordsData } from "./components/KeywordDisplay";
 import Logo from "./components/Logo";
 import InstallButton from "./components/InstallButton";
+import NotificationButton from "./components/NotificationButton";
 import { buildJsonLd } from "./jsonld";
 import { CATEGORIES } from "./categories";
 
@@ -64,6 +65,8 @@ export default async function Home() {
         </div>
 
         <InstallButton />
+
+        <NotificationButton />
 
         {recentDates.length > 1 && (
           <div className="relative mb-6">
