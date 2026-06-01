@@ -248,3 +248,61 @@ os.makedirs("data/history", exist_ok=True)
 shutil.copy("data/keywords.json", f"data/history/{today}.json")
 
 print(f"\n{today} 키워드 저장 완료!")
+
+# ===== 오래된 history 정리 (날짜 기반) =====
+# CI checkout이 파일 mtime을 새로 찍어서 find -mtime 방식은 동작하지 않으므로
+# 파일명의 날짜를 직접 파싱해 보관 기간을 넘긴 것만 삭제한다.
+HISTORY_RETENTION_DAYS = 365
+
+def prune_history(retention_days=HISTORY_RETENTION_DAYS):
+    cutoff = datetime.now(KST).date() - timedelta(days=retention_days)
+    removed = 0
+    for fname in os.listdir("data/history"):
+        m = re.match(r'(\d{4}-\d{2}-\d{2})\.json$', fname)
+        if not m:
+            continue
+        try:
+            file_date = datetime.strptime(m.group(1), '%Y-%m-%d').date()
+        except ValueError:
+            continue
+        if file_date < cutoff:
+            os.remove(os.path.join("data/history", fname))
+            removed += 1
+    print(f"오래된 history {removed}개 삭제 (보관 {retention_days}일)")
+
+# ===== 트렌드 집계 (키워드별 시계열) =====
+def build_trends():
+    trends = {}
+    files = sorted(
+        f for f in os.listdir("data/history")
+        if re.match(r'\d{4}-\d{2}-\d{2}\.json$', f)
+    )
+    for fname in files:
+        date = fname[:-5]
+        try:
+            with open(os.path.join("data/history", fname), encoding="utf-8") as f:
+                day = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            continue
+        for category, cat in day.get("categories", {}).items():
+            for kw in cat.get("keywords", []):
+                word = kw.get("word")
+                if not word:
+                    continue
+                trends.setdefault(word, []).append({
+                    "date": date,
+                    "category": category,
+                    "rank": kw.get("rank"),
+                    "count": kw.get("count"),
+                })
+    out = {
+        "generated_at": datetime.now(KST).strftime('%Y-%m-%d %H:%M'),
+        "days": len(files),
+        "keywords": trends,
+    }
+    with open("data/trends.json", "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    print(f"트렌드 집계 완료: {len(files)}일 / 고유 키워드 {len(trends)}개")
+
+prune_history()
+build_trends()

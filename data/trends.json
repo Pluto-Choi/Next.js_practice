@@ -1,0 +1,1948 @@
+{
+  "generated_at": "2026-06-01 19:39",
+  "days": 20,
+  "keywords": {
+    "이란": [
+      {
+        "date": "2026-05-13",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 4
+      },
+      {
+        "date": "2026-05-16",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      },
+      {
+        "date": "2026-05-17",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      },
+      {
+        "date": "2026-05-18",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      },
+      {
+        "date": "2026-05-21",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 3
+      },
+      {
+        "date": "2026-05-23",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      },
+      {
+        "date": "2026-05-26",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      },
+      {
+        "date": "2026-05-27",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      },
+      {
+        "date": "2026-05-28",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      },
+      {
+        "date": "2026-05-29",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 4
+      }
+    ],
+    "미국": [
+      {
+        "date": "2026-05-13",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 4
+      },
+      {
+        "date": "2026-05-29",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "트럼프": [
+      {
+        "date": "2026-05-13",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      },
+      {
+        "date": "2026-05-16",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      },
+      {
+        "date": "2026-05-19",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      },
+      {
+        "date": "2026-05-20",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      },
+      {
+        "date": "2026-05-24",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      },
+      {
+        "date": "2026-05-27",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      },
+      {
+        "date": "2026-05-28",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      },
+      {
+        "date": "2026-05-30",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      },
+      {
+        "date": "2026-05-31",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 3
+      }
+    ],
+    "대만": [
+      {
+        "date": "2026-05-13",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "호르무즈": [
+      {
+        "date": "2026-05-13",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      },
+      {
+        "date": "2026-05-15",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      }
+    ],
+    "환율": [
+      {
+        "date": "2026-05-13",
+        "category": "경제",
+        "rank": 1,
+        "count": 28
+      },
+      {
+        "date": "2026-05-14",
+        "category": "경제",
+        "rank": 1,
+        "count": 35
+      },
+      {
+        "date": "2026-05-15",
+        "category": "경제",
+        "rank": 2,
+        "count": 25
+      },
+      {
+        "date": "2026-05-16",
+        "category": "경제",
+        "rank": 1,
+        "count": 31
+      },
+      {
+        "date": "2026-05-17",
+        "category": "경제",
+        "rank": 1,
+        "count": 32
+      },
+      {
+        "date": "2026-05-18",
+        "category": "경제",
+        "rank": 1,
+        "count": 29
+      },
+      {
+        "date": "2026-05-19",
+        "category": "경제",
+        "rank": 1,
+        "count": 30
+      },
+      {
+        "date": "2026-05-20",
+        "category": "경제",
+        "rank": 3,
+        "count": 27
+      },
+      {
+        "date": "2026-05-21",
+        "category": "경제",
+        "rank": 3,
+        "count": 27
+      },
+      {
+        "date": "2026-05-22",
+        "category": "경제",
+        "rank": 1,
+        "count": 35
+      },
+      {
+        "date": "2026-05-23",
+        "category": "경제",
+        "rank": 1,
+        "count": 35
+      },
+      {
+        "date": "2026-05-24",
+        "category": "경제",
+        "rank": 1,
+        "count": 33
+      },
+      {
+        "date": "2026-05-25",
+        "category": "경제",
+        "rank": 1,
+        "count": 33
+      },
+      {
+        "date": "2026-05-26",
+        "category": "경제",
+        "rank": 1,
+        "count": 33
+      },
+      {
+        "date": "2026-05-27",
+        "category": "경제",
+        "rank": 1,
+        "count": 38
+      },
+      {
+        "date": "2026-05-28",
+        "category": "경제",
+        "rank": 1,
+        "count": 34
+      },
+      {
+        "date": "2026-05-29",
+        "category": "경제",
+        "rank": 1,
+        "count": 36
+      },
+      {
+        "date": "2026-05-30",
+        "category": "경제",
+        "rank": 1,
+        "count": 33
+      },
+      {
+        "date": "2026-05-31",
+        "category": "경제",
+        "rank": 1,
+        "count": 30
+      },
+      {
+        "date": "2026-06-01",
+        "category": "경제",
+        "rank": 1,
+        "count": 30
+      }
+    ],
+    "코스피": [
+      {
+        "date": "2026-05-13",
+        "category": "경제",
+        "rank": 2,
+        "count": 28
+      },
+      {
+        "date": "2026-05-14",
+        "category": "경제",
+        "rank": 3,
+        "count": 25
+      },
+      {
+        "date": "2026-05-15",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      },
+      {
+        "date": "2026-05-15",
+        "category": "경제",
+        "rank": 1,
+        "count": 27
+      },
+      {
+        "date": "2026-05-16",
+        "category": "경제",
+        "rank": 3,
+        "count": 27
+      },
+      {
+        "date": "2026-05-17",
+        "category": "경제",
+        "rank": 2,
+        "count": 30
+      },
+      {
+        "date": "2026-05-18",
+        "category": "경제",
+        "rank": 2,
+        "count": 29
+      },
+      {
+        "date": "2026-05-19",
+        "category": "경제",
+        "rank": 2,
+        "count": 28
+      },
+      {
+        "date": "2026-05-20",
+        "category": "경제",
+        "rank": 1,
+        "count": 30
+      },
+      {
+        "date": "2026-05-21",
+        "category": "경제",
+        "rank": 1,
+        "count": 29
+      },
+      {
+        "date": "2026-05-22",
+        "category": "경제",
+        "rank": 2,
+        "count": 30
+      },
+      {
+        "date": "2026-05-23",
+        "category": "경제",
+        "rank": 2,
+        "count": 28
+      },
+      {
+        "date": "2026-05-24",
+        "category": "경제",
+        "rank": 3,
+        "count": 21
+      },
+      {
+        "date": "2026-05-25",
+        "category": "경제",
+        "rank": 2,
+        "count": 23
+      },
+      {
+        "date": "2026-05-26",
+        "category": "경제",
+        "rank": 3,
+        "count": 28
+      },
+      {
+        "date": "2026-05-27",
+        "category": "경제",
+        "rank": 2,
+        "count": 27
+      },
+      {
+        "date": "2026-05-28",
+        "category": "경제",
+        "rank": 2,
+        "count": 28
+      },
+      {
+        "date": "2026-05-29",
+        "category": "경제",
+        "rank": 2,
+        "count": 27
+      },
+      {
+        "date": "2026-05-30",
+        "category": "경제",
+        "rank": 3,
+        "count": 24
+      },
+      {
+        "date": "2026-05-31",
+        "category": "경제",
+        "rank": 2,
+        "count": 24
+      },
+      {
+        "date": "2026-06-01",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      },
+      {
+        "date": "2026-06-01",
+        "category": "경제",
+        "rank": 3,
+        "count": 23
+      }
+    ],
+    "금리": [
+      {
+        "date": "2026-05-13",
+        "category": "경제",
+        "rank": 3,
+        "count": 22
+      },
+      {
+        "date": "2026-05-14",
+        "category": "경제",
+        "rank": 2,
+        "count": 31
+      },
+      {
+        "date": "2026-05-15",
+        "category": "경제",
+        "rank": 3,
+        "count": 24
+      },
+      {
+        "date": "2026-05-16",
+        "category": "경제",
+        "rank": 2,
+        "count": 29
+      },
+      {
+        "date": "2026-05-17",
+        "category": "경제",
+        "rank": 3,
+        "count": 26
+      },
+      {
+        "date": "2026-05-18",
+        "category": "경제",
+        "rank": 3,
+        "count": 22
+      },
+      {
+        "date": "2026-05-19",
+        "category": "경제",
+        "rank": 3,
+        "count": 23
+      },
+      {
+        "date": "2026-05-20",
+        "category": "경제",
+        "rank": 2,
+        "count": 27
+      },
+      {
+        "date": "2026-05-21",
+        "category": "경제",
+        "rank": 2,
+        "count": 28
+      },
+      {
+        "date": "2026-05-22",
+        "category": "경제",
+        "rank": 3,
+        "count": 27
+      },
+      {
+        "date": "2026-05-23",
+        "category": "경제",
+        "rank": 3,
+        "count": 22
+      },
+      {
+        "date": "2026-05-24",
+        "category": "경제",
+        "rank": 2,
+        "count": 26
+      },
+      {
+        "date": "2026-05-25",
+        "category": "경제",
+        "rank": 3,
+        "count": 21
+      },
+      {
+        "date": "2026-05-26",
+        "category": "경제",
+        "rank": 2,
+        "count": 28
+      },
+      {
+        "date": "2026-05-27",
+        "category": "경제",
+        "rank": 3,
+        "count": 22
+      },
+      {
+        "date": "2026-05-28",
+        "category": "경제",
+        "rank": 3,
+        "count": 24
+      },
+      {
+        "date": "2026-05-29",
+        "category": "경제",
+        "rank": 3,
+        "count": 24
+      },
+      {
+        "date": "2026-05-30",
+        "category": "경제",
+        "rank": 2,
+        "count": 26
+      },
+      {
+        "date": "2026-05-31",
+        "category": "경제",
+        "rank": 3,
+        "count": 24
+      },
+      {
+        "date": "2026-06-01",
+        "category": "경제",
+        "rank": 2,
+        "count": 24
+      }
+    ],
+    "증시": [
+      {
+        "date": "2026-05-13",
+        "category": "경제",
+        "rank": 4,
+        "count": 20
+      },
+      {
+        "date": "2026-05-14",
+        "category": "경제",
+        "rank": 4,
+        "count": 15
+      },
+      {
+        "date": "2026-05-15",
+        "category": "경제",
+        "rank": 4,
+        "count": 18
+      },
+      {
+        "date": "2026-05-16",
+        "category": "경제",
+        "rank": 5,
+        "count": 10
+      },
+      {
+        "date": "2026-05-17",
+        "category": "경제",
+        "rank": 4,
+        "count": 12
+      },
+      {
+        "date": "2026-05-18",
+        "category": "경제",
+        "rank": 4,
+        "count": 17
+      },
+      {
+        "date": "2026-05-19",
+        "category": "경제",
+        "rank": 4,
+        "count": 16
+      },
+      {
+        "date": "2026-05-20",
+        "category": "경제",
+        "rank": 4,
+        "count": 18
+      },
+      {
+        "date": "2026-05-21",
+        "category": "경제",
+        "rank": 4,
+        "count": 17
+      },
+      {
+        "date": "2026-05-22",
+        "category": "경제",
+        "rank": 4,
+        "count": 14
+      },
+      {
+        "date": "2026-05-23",
+        "category": "경제",
+        "rank": 5,
+        "count": 11
+      },
+      {
+        "date": "2026-05-24",
+        "category": "경제",
+        "rank": 4,
+        "count": 17
+      },
+      {
+        "date": "2026-05-25",
+        "category": "경제",
+        "rank": 5,
+        "count": 11
+      },
+      {
+        "date": "2026-05-26",
+        "category": "경제",
+        "rank": 4,
+        "count": 14
+      },
+      {
+        "date": "2026-05-29",
+        "category": "경제",
+        "rank": 5,
+        "count": 15
+      },
+      {
+        "date": "2026-05-31",
+        "category": "경제",
+        "rank": 5,
+        "count": 14
+      }
+    ],
+    "부동산": [
+      {
+        "date": "2026-05-13",
+        "category": "경제",
+        "rank": 5,
+        "count": 13
+      },
+      {
+        "date": "2026-05-15",
+        "category": "경제",
+        "rank": 5,
+        "count": 13
+      },
+      {
+        "date": "2026-05-20",
+        "category": "경제",
+        "rank": 5,
+        "count": 10
+      },
+      {
+        "date": "2026-05-21",
+        "category": "경제",
+        "rank": 5,
+        "count": 11
+      },
+      {
+        "date": "2026-05-26",
+        "category": "경제",
+        "rank": 5,
+        "count": 11
+      },
+      {
+        "date": "2026-05-27",
+        "category": "경제",
+        "rank": 4,
+        "count": 15
+      },
+      {
+        "date": "2026-05-28",
+        "category": "경제",
+        "rank": 4,
+        "count": 15
+      },
+      {
+        "date": "2026-05-29",
+        "category": "경제",
+        "rank": 4,
+        "count": 16
+      },
+      {
+        "date": "2026-05-30",
+        "category": "경제",
+        "rank": 4,
+        "count": 13
+      },
+      {
+        "date": "2026-05-31",
+        "category": "경제",
+        "rank": 4,
+        "count": 14
+      },
+      {
+        "date": "2026-06-01",
+        "category": "경제",
+        "rank": 4,
+        "count": 14
+      }
+    ],
+    "살해": [
+      {
+        "date": "2026-05-14",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 2
+      }
+    ],
+    "여성": [
+      {
+        "date": "2026-05-14",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      },
+      {
+        "date": "2026-05-31",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "조선비즈": [
+      {
+        "date": "2026-05-14",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      }
+    ],
+    "유언장": [
+      {
+        "date": "2026-05-14",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "장윤기": [
+      {
+        "date": "2026-05-14",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 1
+      }
+    ],
+    "아이돌": [
+      {
+        "date": "2026-05-14",
+        "category": "연예",
+        "rank": 1,
+        "count": 14
+      },
+      {
+        "date": "2026-05-15",
+        "category": "연예",
+        "rank": 1,
+        "count": 14
+      },
+      {
+        "date": "2026-05-16",
+        "category": "연예",
+        "rank": 1,
+        "count": 15
+      },
+      {
+        "date": "2026-05-17",
+        "category": "연예",
+        "rank": 2,
+        "count": 11
+      },
+      {
+        "date": "2026-05-18",
+        "category": "연예",
+        "rank": 1,
+        "count": 14
+      },
+      {
+        "date": "2026-05-19",
+        "category": "연예",
+        "rank": 2,
+        "count": 13
+      },
+      {
+        "date": "2026-05-20",
+        "category": "연예",
+        "rank": 2,
+        "count": 12
+      },
+      {
+        "date": "2026-05-21",
+        "category": "연예",
+        "rank": 2,
+        "count": 10
+      },
+      {
+        "date": "2026-05-22",
+        "category": "연예",
+        "rank": 1,
+        "count": 15
+      },
+      {
+        "date": "2026-05-23",
+        "category": "연예",
+        "rank": 1,
+        "count": 15
+      },
+      {
+        "date": "2026-05-24",
+        "category": "연예",
+        "rank": 1,
+        "count": 17
+      },
+      {
+        "date": "2026-05-25",
+        "category": "연예",
+        "rank": 1,
+        "count": 17
+      },
+      {
+        "date": "2026-05-26",
+        "category": "연예",
+        "rank": 2,
+        "count": 12
+      },
+      {
+        "date": "2026-05-27",
+        "category": "연예",
+        "rank": 2,
+        "count": 11
+      },
+      {
+        "date": "2026-05-28",
+        "category": "연예",
+        "rank": 1,
+        "count": 16
+      },
+      {
+        "date": "2026-05-29",
+        "category": "연예",
+        "rank": 1,
+        "count": 12
+      },
+      {
+        "date": "2026-05-30",
+        "category": "연예",
+        "rank": 1,
+        "count": 13
+      },
+      {
+        "date": "2026-05-31",
+        "category": "연예",
+        "rank": 1,
+        "count": 12
+      },
+      {
+        "date": "2026-06-01",
+        "category": "연예",
+        "rank": 2,
+        "count": 10
+      }
+    ],
+    "케이팝": [
+      {
+        "date": "2026-05-14",
+        "category": "연예",
+        "rank": 2,
+        "count": 13
+      },
+      {
+        "date": "2026-05-15",
+        "category": "연예",
+        "rank": 2,
+        "count": 14
+      },
+      {
+        "date": "2026-05-16",
+        "category": "연예",
+        "rank": 2,
+        "count": 13
+      },
+      {
+        "date": "2026-05-17",
+        "category": "연예",
+        "rank": 1,
+        "count": 13
+      },
+      {
+        "date": "2026-05-18",
+        "category": "연예",
+        "rank": 2,
+        "count": 13
+      },
+      {
+        "date": "2026-05-19",
+        "category": "연예",
+        "rank": 1,
+        "count": 14
+      },
+      {
+        "date": "2026-05-20",
+        "category": "연예",
+        "rank": 1,
+        "count": 14
+      },
+      {
+        "date": "2026-05-21",
+        "category": "연예",
+        "rank": 1,
+        "count": 14
+      },
+      {
+        "date": "2026-05-22",
+        "category": "연예",
+        "rank": 2,
+        "count": 15
+      },
+      {
+        "date": "2026-05-23",
+        "category": "연예",
+        "rank": 2,
+        "count": 14
+      },
+      {
+        "date": "2026-05-24",
+        "category": "연예",
+        "rank": 2,
+        "count": 15
+      },
+      {
+        "date": "2026-05-25",
+        "category": "연예",
+        "rank": 2,
+        "count": 12
+      },
+      {
+        "date": "2026-05-26",
+        "category": "연예",
+        "rank": 1,
+        "count": 16
+      },
+      {
+        "date": "2026-05-27",
+        "category": "연예",
+        "rank": 1,
+        "count": 15
+      },
+      {
+        "date": "2026-05-28",
+        "category": "연예",
+        "rank": 2,
+        "count": 12
+      },
+      {
+        "date": "2026-05-29",
+        "category": "연예",
+        "rank": 2,
+        "count": 11
+      },
+      {
+        "date": "2026-05-30",
+        "category": "연예",
+        "rank": 2,
+        "count": 12
+      },
+      {
+        "date": "2026-05-31",
+        "category": "연예",
+        "rank": 2,
+        "count": 11
+      },
+      {
+        "date": "2026-06-01",
+        "category": "연예",
+        "rank": 1,
+        "count": 12
+      }
+    ],
+    "한류": [
+      {
+        "date": "2026-05-14",
+        "category": "연예",
+        "rank": 3,
+        "count": 9
+      },
+      {
+        "date": "2026-05-15",
+        "category": "연예",
+        "rank": 5,
+        "count": 8
+      },
+      {
+        "date": "2026-05-26",
+        "category": "연예",
+        "rank": 5,
+        "count": 8
+      },
+      {
+        "date": "2026-05-27",
+        "category": "연예",
+        "rank": 3,
+        "count": 9
+      },
+      {
+        "date": "2026-05-28",
+        "category": "연예",
+        "rank": 3,
+        "count": 8
+      },
+      {
+        "date": "2026-05-29",
+        "category": "연예",
+        "rank": 3,
+        "count": 9
+      },
+      {
+        "date": "2026-05-30",
+        "category": "연예",
+        "rank": 3,
+        "count": 8
+      },
+      {
+        "date": "2026-05-31",
+        "category": "연예",
+        "rank": 3,
+        "count": 10
+      },
+      {
+        "date": "2026-06-01",
+        "category": "연예",
+        "rank": 3,
+        "count": 10
+      }
+    ],
+    "데몬": [
+      {
+        "date": "2026-05-14",
+        "category": "연예",
+        "rank": 4,
+        "count": 7
+      },
+      {
+        "date": "2026-05-15",
+        "category": "연예",
+        "rank": 3,
+        "count": 8
+      },
+      {
+        "date": "2026-05-16",
+        "category": "연예",
+        "rank": 3,
+        "count": 8
+      },
+      {
+        "date": "2026-05-17",
+        "category": "연예",
+        "rank": 3,
+        "count": 8
+      },
+      {
+        "date": "2026-05-18",
+        "category": "연예",
+        "rank": 3,
+        "count": 7
+      },
+      {
+        "date": "2026-05-19",
+        "category": "연예",
+        "rank": 3,
+        "count": 8
+      },
+      {
+        "date": "2026-05-20",
+        "category": "연예",
+        "rank": 3,
+        "count": 9
+      },
+      {
+        "date": "2026-05-21",
+        "category": "연예",
+        "rank": 3,
+        "count": 10
+      },
+      {
+        "date": "2026-05-22",
+        "category": "연예",
+        "rank": 4,
+        "count": 9
+      },
+      {
+        "date": "2026-05-23",
+        "category": "연예",
+        "rank": 4,
+        "count": 9
+      },
+      {
+        "date": "2026-05-24",
+        "category": "연예",
+        "rank": 3,
+        "count": 10
+      },
+      {
+        "date": "2026-05-25",
+        "category": "연예",
+        "rank": 4,
+        "count": 8
+      },
+      {
+        "date": "2026-05-26",
+        "category": "연예",
+        "rank": 3,
+        "count": 12
+      }
+    ],
+    "헌터스": [
+      {
+        "date": "2026-05-14",
+        "category": "연예",
+        "rank": 5,
+        "count": 7
+      },
+      {
+        "date": "2026-05-15",
+        "category": "연예",
+        "rank": 4,
+        "count": 8
+      },
+      {
+        "date": "2026-05-16",
+        "category": "연예",
+        "rank": 4,
+        "count": 8
+      },
+      {
+        "date": "2026-05-17",
+        "category": "연예",
+        "rank": 4,
+        "count": 8
+      },
+      {
+        "date": "2026-05-18",
+        "category": "연예",
+        "rank": 4,
+        "count": 7
+      },
+      {
+        "date": "2026-05-19",
+        "category": "연예",
+        "rank": 4,
+        "count": 8
+      },
+      {
+        "date": "2026-05-20",
+        "category": "연예",
+        "rank": 4,
+        "count": 9
+      },
+      {
+        "date": "2026-05-21",
+        "category": "연예",
+        "rank": 4,
+        "count": 10
+      },
+      {
+        "date": "2026-05-22",
+        "category": "연예",
+        "rank": 5,
+        "count": 9
+      },
+      {
+        "date": "2026-05-23",
+        "category": "연예",
+        "rank": 5,
+        "count": 9
+      },
+      {
+        "date": "2026-05-24",
+        "category": "연예",
+        "rank": 4,
+        "count": 10
+      },
+      {
+        "date": "2026-05-25",
+        "category": "연예",
+        "rank": 5,
+        "count": 8
+      },
+      {
+        "date": "2026-05-26",
+        "category": "연예",
+        "rank": 4,
+        "count": 12
+      }
+    ],
+    "주식": [
+      {
+        "date": "2026-05-14",
+        "category": "경제",
+        "rank": 5,
+        "count": 14
+      },
+      {
+        "date": "2026-05-16",
+        "category": "경제",
+        "rank": 4,
+        "count": 11
+      },
+      {
+        "date": "2026-05-17",
+        "category": "경제",
+        "rank": 5,
+        "count": 11
+      },
+      {
+        "date": "2026-05-18",
+        "category": "경제",
+        "rank": 5,
+        "count": 11
+      },
+      {
+        "date": "2026-05-19",
+        "category": "경제",
+        "rank": 5,
+        "count": 11
+      },
+      {
+        "date": "2026-05-22",
+        "category": "경제",
+        "rank": 5,
+        "count": 11
+      },
+      {
+        "date": "2026-05-23",
+        "category": "경제",
+        "rank": 4,
+        "count": 15
+      },
+      {
+        "date": "2026-05-24",
+        "category": "경제",
+        "rank": 5,
+        "count": 13
+      },
+      {
+        "date": "2026-05-25",
+        "category": "경제",
+        "rank": 4,
+        "count": 12
+      },
+      {
+        "date": "2026-05-27",
+        "category": "경제",
+        "rank": 5,
+        "count": 13
+      },
+      {
+        "date": "2026-05-28",
+        "category": "경제",
+        "rank": 5,
+        "count": 15
+      },
+      {
+        "date": "2026-06-01",
+        "category": "경제",
+        "rank": 5,
+        "count": 11
+      }
+    ],
+    "단일": [
+      {
+        "date": "2026-05-15",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      }
+    ],
+    "국내": [
+      {
+        "date": "2026-05-15",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      }
+    ],
+    "외국인": [
+      {
+        "date": "2026-05-15",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "서울": [
+      {
+        "date": "2026-05-16",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 3
+      }
+    ],
+    "중국": [
+      {
+        "date": "2026-05-16",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      }
+    ],
+    "실종": [
+      {
+        "date": "2026-05-16",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "방탄소년단": [
+      {
+        "date": "2026-05-16",
+        "category": "연예",
+        "rank": 5,
+        "count": 6
+      },
+      {
+        "date": "2026-05-27",
+        "category": "연예",
+        "rank": 4,
+        "count": 3
+      },
+      {
+        "date": "2026-05-28",
+        "category": "연예",
+        "rank": 4,
+        "count": 4
+      },
+      {
+        "date": "2026-06-01",
+        "category": "연예",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "경찰": [
+      {
+        "date": "2026-05-17",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 2
+      }
+    ],
+    "원전": [
+      {
+        "date": "2026-05-17",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      }
+    ],
+    "관리": [
+      {
+        "date": "2026-05-17",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "조정": [
+      {
+        "date": "2026-05-17",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "콘텐츠": [
+      {
+        "date": "2026-05-17",
+        "category": "연예",
+        "rank": 5,
+        "count": 6
+      },
+      {
+        "date": "2026-05-27",
+        "category": "연예",
+        "rank": 5,
+        "count": 5
+      }
+    ],
+    "가능": [
+      {
+        "date": "2026-05-18",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      },
+      {
+        "date": "2026-05-24",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      }
+    ],
+    "대구": [
+      {
+        "date": "2026-05-18",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      },
+      {
+        "date": "2026-05-22",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      },
+      {
+        "date": "2026-05-30",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      }
+    ],
+    "공격": [
+      {
+        "date": "2026-05-18",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "파업": [
+      {
+        "date": "2026-05-18",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "케데헌": [
+      {
+        "date": "2026-05-18",
+        "category": "연예",
+        "rank": 5,
+        "count": 6
+      },
+      {
+        "date": "2026-05-19",
+        "category": "연예",
+        "rank": 5,
+        "count": 6
+      },
+      {
+        "date": "2026-05-20",
+        "category": "연예",
+        "rank": 5,
+        "count": 6
+      },
+      {
+        "date": "2026-05-21",
+        "category": "연예",
+        "rank": 5,
+        "count": 7
+      },
+      {
+        "date": "2026-05-22",
+        "category": "연예",
+        "rank": 3,
+        "count": 9
+      },
+      {
+        "date": "2026-05-23",
+        "category": "연예",
+        "rank": 3,
+        "count": 9
+      },
+      {
+        "date": "2026-05-24",
+        "category": "연예",
+        "rank": 5,
+        "count": 8
+      },
+      {
+        "date": "2026-05-25",
+        "category": "연예",
+        "rank": 3,
+        "count": 10
+      }
+    ],
+    "훈련": [
+      {
+        "date": "2026-05-19",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 3
+      }
+    ],
+    "피해": [
+      {
+        "date": "2026-05-19",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      }
+    ],
+    "백신": [
+      {
+        "date": "2026-05-19",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      },
+      {
+        "date": "2026-05-27",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "치매": [
+      {
+        "date": "2026-05-19",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "계약": [
+      {
+        "date": "2026-05-20",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      }
+    ],
+    "지분": [
+      {
+        "date": "2026-05-20",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      }
+    ],
+    "한국인": [
+      {
+        "date": "2026-05-20",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "논란": [
+      {
+        "date": "2026-05-20",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      },
+      {
+        "date": "2026-05-22",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      },
+      {
+        "date": "2026-05-25",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      },
+      {
+        "date": "2026-05-26",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      }
+    ],
+    "전쟁": [
+      {
+        "date": "2026-05-21",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      }
+    ],
+    "홍명보호": [
+      {
+        "date": "2026-05-21",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 3
+      }
+    ],
+    "청년": [
+      {
+        "date": "2026-05-21",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "단독": [
+      {
+        "date": "2026-05-21",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "속보": [
+      {
+        "date": "2026-05-22",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      },
+      {
+        "date": "2026-05-23",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      }
+    ],
+    "이유": [
+      {
+        "date": "2026-05-22",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 3
+      }
+    ],
+    "종합": [
+      {
+        "date": "2026-05-22",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "축구": [
+      {
+        "date": "2026-05-23",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      }
+    ],
+    "폭발": [
+      {
+        "date": "2026-05-23",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      },
+      {
+        "date": "2026-06-01",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 2
+      }
+    ],
+    "영어": [
+      {
+        "date": "2026-05-23",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "민주당": [
+      {
+        "date": "2026-05-24",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 2
+      }
+    ],
+    "살림": [
+      {
+        "date": "2026-05-24",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      }
+    ],
+    "투표": [
+      {
+        "date": "2026-05-24",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      },
+      {
+        "date": "2026-05-29",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 3
+      }
+    ],
+    "스타벅스": [
+      {
+        "date": "2026-05-25",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      }
+    ],
+    "합의": [
+      {
+        "date": "2026-05-25",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      }
+    ],
+    "정청래": [
+      {
+        "date": "2026-05-25",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "지지": [
+      {
+        "date": "2026-05-25",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "사과": [
+      {
+        "date": "2026-05-26",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      }
+    ],
+    "폐기": [
+      {
+        "date": "2026-05-26",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "공식": [
+      {
+        "date": "2026-05-26",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "우주": [
+      {
+        "date": "2026-05-27",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      }
+    ],
+    "월드컵": [
+      {
+        "date": "2026-05-27",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "시장": [
+      {
+        "date": "2026-05-28",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 4
+      }
+    ],
+    "이스라엘": [
+      {
+        "date": "2026-05-28",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      }
+    ],
+    "부산": [
+      {
+        "date": "2026-05-28",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "배우": [
+      {
+        "date": "2026-05-28",
+        "category": "연예",
+        "rank": 5,
+        "count": 5
+      },
+      {
+        "date": "2026-05-29",
+        "category": "연예",
+        "rank": 5,
+        "count": 4
+      },
+      {
+        "date": "2026-05-31",
+        "category": "연예",
+        "rank": 5,
+        "count": 4
+      }
+    ],
+    "LG전자": [
+      {
+        "date": "2026-05-29",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      }
+    ],
+    "서울시": [
+      {
+        "date": "2026-05-29",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "차은우": [
+      {
+        "date": "2026-05-29",
+        "category": "연예",
+        "rank": 4,
+        "count": 4
+      },
+      {
+        "date": "2026-05-30",
+        "category": "연예",
+        "rank": 4,
+        "count": 4
+      },
+      {
+        "date": "2026-05-31",
+        "category": "연예",
+        "rank": 4,
+        "count": 3
+      },
+      {
+        "date": "2026-06-01",
+        "category": "연예",
+        "rank": 4,
+        "count": 3
+      }
+    ],
+    "전남": [
+      {
+        "date": "2026-05-30",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      }
+    ],
+    "작전": [
+      {
+        "date": "2026-05-30",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
+      }
+    ],
+    "사퇴": [
+      {
+        "date": "2026-05-30",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "이병헌": [
+      {
+        "date": "2026-05-30",
+        "category": "연예",
+        "rank": 5,
+        "count": 3
+      }
+    ],
+    "주가": [
+      {
+        "date": "2026-05-30",
+        "category": "경제",
+        "rank": 5,
+        "count": 7
+      }
+    ],
+    "종전": [
+      {
+        "date": "2026-05-31",
+        "category": "오늘의 이슈",
+        "rank": 1,
+        "count": 3
+      }
+    ],
+    "미사일": [
+      {
+        "date": "2026-05-31",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
+      }
+    ],
+    "지선": [
+      {
+        "date": "2026-05-31",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 1
+      }
+    ],
+    "정원오": [
+      {
+        "date": "2026-06-01",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 2
+      }
+    ],
+    "한화에어로스페이스": [
+      {
+        "date": "2026-06-01",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 1
+      }
+    ],
+    "휴전": [
+      {
+        "date": "2026-06-01",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 1
+      }
+    ]
+  }
+}
