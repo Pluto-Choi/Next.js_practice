@@ -49,6 +49,12 @@ jobs:
           print(f'OK: {len(cats)}개 카테고리, 총 {sum(len(c[\"keywords\"]) for c in cats.values())}개 키워드')
           "
 
+      - name: Threads 자동 게시
+        run: python post_threads.py
+        env:
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+
       - name: 결과 저장 (Git commit + push)
         run: |
           git config user.name "github-actions"

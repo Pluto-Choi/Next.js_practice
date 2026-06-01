@@ -1,0 +1,41 @@
+name: Refresh Threads Token
+
+# Threads 장기 토큰은 60일 후 만료된다. 매월 1일 갱신해 만료를 방지한다.
+# 시크릿 자동 업데이트에는 secrets 쓰기 권한이 있는 PAT(GH_PAT)가 필요하다.
+# GH_PAT가 없으면 갱신만 시도하고 수동 업데이트 안내 후 종료한다.
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # 매월 1일 UTC 00:00
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 코드 가져오기
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 토큰 갱신
+        id: refresh
+        run: python post_threads_refresh.py
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+
+      - name: 시크릿 업데이트
+        if: steps.refresh.outputs.new_token != ''
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          NEW_TOKEN: ${{ steps.refresh.outputs.new_token }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "GH_PAT 미설정 → 시크릿 자동 업데이트 불가. THREADS_ACCESS_TOKEN을 수동으로 갱신하세요."
+            exit 0
+          fi
+          gh secret set THREADS_ACCESS_TOKEN --body "$NEW_TOKEN"
+          echo "THREADS_ACCESS_TOKEN 갱신 완료"
