@@ -4,6 +4,8 @@ import { useEffect, useState } from 'react'
 
 type State = 'hidden' | 'installable' | 'ios' | 'ios-guide'
 
+const INSTALLED_KEY = 'pwa-installed'
+
 const benefits = [
   { icon: '⚡', text: '빠른 실행' },
   { icon: '📲', text: '홈 화면 바로가기' },
@@ -15,12 +17,28 @@ export default function InstallButton() {
   const [prompt, setPrompt] = useState<Event & { prompt(): void; userChoice: Promise<{ outcome: string }> } | null>(null)
 
   useEffect(() => {
-    if (window.matchMedia('(display-mode: standalone)').matches) return
+    const standalone =
+      window.matchMedia('(display-mode: standalone)').matches ||
+      (navigator as Navigator & { standalone?: boolean }).standalone === true
+
+    // 설치된 앱으로 열었으면 그 사실을 기억해두고 카드를 숨긴다.
+    if (standalone) {
+      try { localStorage.setItem(INSTALLED_KEY, '1') } catch {}
+      return
+    }
+    // 한 번이라도 설치된 앱을 연 적 있으면 브라우저 탭에서도 더는 띄우지 않는다.
+    try { if (localStorage.getItem(INSTALLED_KEY)) return } catch {}
+
+    const onInstalled = () => {
+      try { localStorage.setItem(INSTALLED_KEY, '1') } catch {}
+      setState('hidden')
+    }
+    window.addEventListener('appinstalled', onInstalled)
 
     const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent)
     if (isIOS) {
       setState('ios')
-      return
+      return () => window.removeEventListener('appinstalled', onInstalled)
     }
 
     const handler = (e: Event) => {
@@ -29,7 +47,10 @@ export default function InstallButton() {
       setState('installable')
     }
     window.addEventListener('beforeinstallprompt', handler)
-    return () => window.removeEventListener('beforeinstallprompt', handler)
+    return () => {
+      window.removeEventListener('beforeinstallprompt', handler)
+      window.removeEventListener('appinstalled', onInstalled)
+    }
   }, [])
 
   const handleInstall = async () => {
