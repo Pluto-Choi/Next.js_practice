@@ -54,6 +54,8 @@ export default async function CategoryPage({ params }: Props) {
       />
       <div className="max-w-lg mx-auto px-4 py-6">
 
+        <h1 className="sr-only">{cat.name} 뉴스 키워드 TOP5 — {data.date}</h1>
+
         <div className="mb-8 text-center">
           <div className="flex justify-center mb-2">
             <Logo />

@@ -8,11 +8,14 @@ interface Props {
   height: number
 }
 
+const isPlaceholder = (adUnit: string) => !adUnit || adUnit.includes('XXX')
+
 export default function AdFitBanner({ adUnit, width, height }: Props) {
   const ref = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     if (!ref.current) return
+    if (isPlaceholder(adUnit)) return
 
     const ins = document.createElement('ins')
     ins.className = 'kakao_ad_area'
@@ -27,6 +30,8 @@ export default function AdFitBanner({ adUnit, width, height }: Props) {
     script.async = true
     ref.current.appendChild(script)
   }, [adUnit, width, height])
+
+  if (isPlaceholder(adUnit)) return null
 
   return (
     <div

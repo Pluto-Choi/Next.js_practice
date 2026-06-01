@@ -35,6 +35,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const keywordStr = issueKeywords.join(" · ");
   return {
     title: keywordStr ? `오늘의 뉴스 | ${keywordStr}` : "오늘의 뉴스 | 핫이슈 & 경제 키워드",
+    alternates: { canonical: "/" },
     openGraph: {
       title: keywordStr ? `오늘의 뉴스 | ${keywordStr}` : "오늘의 뉴스 | 핫이슈 & 경제 키워드",
     },
@@ -52,6 +53,8 @@ export default async function Home() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <div className="max-w-lg mx-auto px-4 py-6">
+
+        <h1 className="sr-only">오늘의 뉴스 — {data.date} 핫이슈 · 연예 · 경제 키워드 TOP5</h1>
 
         <div className="mb-8 text-center">
           <div className="flex justify-center mb-2">

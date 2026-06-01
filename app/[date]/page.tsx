@@ -42,6 +42,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const keywordStr = issueKeywords.join(" · ");
   return {
     title: keywordStr ? `${date} 뉴스 | ${keywordStr}` : `${date} 뉴스 | 오늘의 뉴스`,
+    alternates: { canonical: `/${date}` },
     openGraph: {
       title: keywordStr ? `${date} 뉴스 | ${keywordStr}` : `${date} 뉴스 | 오늘의 뉴스`,
     },
@@ -66,6 +67,8 @@ export default async function HistoryPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <div className="max-w-lg mx-auto px-4 py-6">
+
+        <h1 className="sr-only">{date} 뉴스 키워드 — 핫이슈 · 연예 · 경제 TOP5</h1>
 
         <div className="mb-8 text-center">
           <div className="flex justify-center mb-2">
