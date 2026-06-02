@@ -15,9 +15,12 @@ function urlBase64ToUint8Array(base64String: string) {
 
 type Status = 'unsupported' | 'default' | 'granted' | 'denied' | 'loading'
 
+const DISMISS_KEY = 'notif-dismissed'
+
 export default function NotificationButton() {
   const [status, setStatus] = useState<Status>('loading')
   const [justSubscribed, setJustSubscribed] = useState(false)
+  const [dismissed, setDismissed] = useState(false)
 
   useEffect(() => {
     if (
@@ -29,9 +32,17 @@ export default function NotificationButton() {
       setStatus('unsupported')
       return
     }
+    if (localStorage.getItem(DISMISS_KEY) === '1') setDismissed(true)
     navigator.serviceWorker.register('/sw.js').catch(() => {})
     setStatus(Notification.permission as Status)
   }, [])
+
+  function dismiss() {
+    try {
+      localStorage.setItem(DISMISS_KEY, '1')
+    } catch {}
+    setDismissed(true)
+  }
 
   async function subscribe() {
     setStatus('loading')
@@ -58,7 +69,7 @@ export default function NotificationButton() {
     }
   }
 
-  if (status === 'unsupported' || status === 'denied') return null
+  if (status === 'unsupported' || status === 'denied' || dismissed) return null
 
   if (status === 'granted') {
     // 이미 구독한 재방문자에게는 안내 문구를 숨기고, 방금 구독한 경우에만 확인 문구를 보여준다.
@@ -71,7 +82,7 @@ export default function NotificationButton() {
   }
 
   return (
-    <div className="mb-6 flex justify-center">
+    <div className="mb-6 flex justify-center items-center gap-1.5">
       <button
         onClick={subscribe}
         disabled={status === 'loading'}
@@ -79,6 +90,16 @@ export default function NotificationButton() {
       >
         {status === 'loading' ? '설정 중…' : '🔔 매일 12시 키워드 알림 받기'}
       </button>
+      {status !== 'loading' && (
+        <button
+          onClick={dismiss}
+          aria-label="알림 안내 닫기"
+          title="다시 보지 않기"
+          className="w-7 h-7 shrink-0 flex items-center justify-center rounded-full text-zinc-400 hover:text-zinc-700 dark:hover:text-zinc-200 hover:bg-zinc-200/70 dark:hover:bg-zinc-700/70 transition-colors"
+        >
+          <span className="text-sm leading-none">✕</span>
+        </button>
+      )}
     </div>
   )
 }
