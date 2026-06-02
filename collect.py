@@ -157,6 +157,114 @@ def generate_summary(keywords, category):
         print(f"  generate_summary 실패 — 키워드 나열로 대체: {e}")
         return " · ".join(item["word"] for item in keywords[:5])
 
+def load_history_ranks(category, lookback_days=14):
+    """최근 lookback_days일 history에서 해당 카테고리 키워드별 {날짜: 순위}를 모은다."""
+    today_date = datetime.now(KST).date()
+    cutoff = today_date - timedelta(days=lookback_days)
+    ranks = {}
+    try:
+        fnames = os.listdir("data/history")
+    except OSError:
+        return ranks
+    for fname in fnames:
+        m = re.match(r'(\d{4}-\d{2}-\d{2})\.json$', fname)
+        if not m:
+            continue
+        try:
+            d = datetime.strptime(m.group(1), '%Y-%m-%d').date()
+        except ValueError:
+            continue
+        if d < cutoff or d >= today_date:  # 오늘 파일은 제외
+            continue
+        day = _load_json(os.path.join("data/history", fname), {})
+        cat = day.get("categories", {}).get(category, {})
+        for kw in cat.get("keywords", []):
+            w = kw.get("word")
+            if w:
+                ranks.setdefault(w, {})[m.group(1)] = kw.get("rank")
+    return ranks
+
+
+def keyword_trend_note(word, today_rank, history_ranks, today_date):
+    """history 기반으로 키워드의 트렌드 맥락을 계산값으로만 만든다(추측 없음)."""
+    hist = history_ranks.get(word, {})
+    if not hist:
+        return "오늘 처음 등장한 키워드"
+    notes = []
+    # 연속 1위 집계
+    if today_rank == 1:
+        streak = 1
+        d = today_date - timedelta(days=1)
+        while hist.get(d.isoformat()) == 1:
+            streak += 1
+            d -= timedelta(days=1)
+        if streak >= 2:
+            notes.append(f"{streak}일 연속 1위")
+    # 어제 대비 순위 변동
+    yesterday = (today_date - timedelta(days=1)).isoformat()
+    y_rank = hist.get(yesterday)
+    if y_rank is not None and y_rank != today_rank and not any("연속 1위" in n for n in notes):
+        notes.append(f"어제 {y_rank}위 → 오늘 {today_rank}위")
+    elif y_rank is None and not notes:
+        notes.append(f"최근 {len(hist)}일 내 다시 등장")
+    if not notes:
+        appeared = len(hist)
+        notes.append(f"최근 {appeared}일간 꾸준히 상위권 유지")
+    return ", ".join(notes)
+
+
+def generate_descriptions(keywords, category, history_ranks, today_date):
+    """키워드별 자체 설명문을 생성해 각 dict에 description으로 붙인다(in-place)."""
+    if not keywords:
+        return
+    blocks = []
+    for item in keywords:
+        titles = "\n".join(f"    · {a['title']}" for a in item["articles"][:3])
+        note = keyword_trend_note(item["word"], item["rank"], history_ranks, today_date)
+        item["_trend_note"] = note  # 디버그/검증용, 저장 전 제거
+        blocks.append(
+            f"[{item['word']}]\n  트렌드 정보: {note}\n  기사 제목:\n{titles}"
+        )
+    joined = "\n\n".join(blocks)
+    prompt = (
+        f"다음은 오늘의 '{category}' 분야 화제 키워드들이야. 키워드마다 기사 제목과 "
+        "트렌드 정보(우리 사이트가 매일 집계한 순위 데이터에서 계산한 값)를 준다.\n"
+        "키워드별로 우리 웹사이트만의 독자적인 설명문을 작성해줘. 아래 3가지를 한 문단"
+        "(2~3문장, 120자 내외)으로 자연스럽게 녹여줘:\n"
+        "1) 이 키워드가 무엇인지 한 줄 정의\n"
+        "2) 오늘 왜 화제가 됐는지 (기사 제목에서 확인되는 사실만)\n"
+        "3) 트렌드 맥락 (제공된 트렌드 정보를 활용)\n\n"
+        "엄격한 규칙:\n"
+        "- 기사 제목과 트렌드 정보에서 확인되는 사실만 써라. 추측·과장·없는 정보 생성 금지.\n"
+        "- 제목만으로 정의가 불확실하면 무리하게 단정하지 마라.\n"
+        "- 트렌드 정보(순위/연속 기록)는 제공된 값 그대로만 사용하고 새 숫자를 지어내지 마라.\n"
+        "JSON 배열로만 답해라. 형식: [{\"word\": \"키워드\", \"description\": \"설명문\"}]\n\n"
+        f"{joined}"
+    )
+    try:
+        message = anthropic_client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=1500,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        match = re.search(r'\[.*\]', message.content[0].text, re.DOTALL)
+        if match:
+            arr = json.loads(match.group())
+            desc_map = {
+                d["word"]: d["description"].strip()
+                for d in arr
+                if isinstance(d, dict) and d.get("word") and d.get("description")
+            }
+            for item in keywords:
+                if item["word"] in desc_map:
+                    item["description"] = desc_map[item["word"]]
+    except Exception as e:
+        print(f"  generate_descriptions 실패({category}): {e}")
+    finally:
+        for item in keywords:
+            item.pop("_trend_note", None)
+
+
 anthropic_client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
 kiwi = Kiwi()
@@ -414,6 +522,15 @@ def main():
         summary = generate_summary(keywords, category)
         summaries[category] = summary
         print(f"{category} 요약: {summary}")
+
+    # ===== 키워드별 자체 설명문 생성 (AdFit 자체 콘텐츠 보강) =====
+    today_date = datetime.now(KST).date()
+    for category, keywords in [("오늘의 이슈", keywords_issue), ("연예", keywords_ent), ("경제", keywords_economy)]:
+        history_ranks = load_history_ranks(category)
+        generate_descriptions(keywords, category, history_ranks, today_date)
+        for item in keywords:
+            if item.get("description"):
+                print(f"  [{category}] {item['word']}: {item['description']}")
 
     # ===== keywords.json 저장 (summary 포함) =====
     result = {

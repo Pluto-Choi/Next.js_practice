@@ -14,6 +14,7 @@ export type Keyword = {
   word: string;
   count: number;
   articles: Article[];
+  description?: string;
 };
 
 export type CategoryData = {
@@ -162,9 +163,9 @@ export default function KeywordDisplay({
                               <p className={`${isTop ? "text-base" : "text-sm"} font-bold leading-tight truncate`}>
                                 {item.word}
                               </p>
-                              {item.articles[0] && (
+                              {(item.description || item.articles[0]) && (
                                 <p className="group-open:hidden mt-0.5 text-xs text-zinc-500 dark:text-zinc-400 line-clamp-1 leading-snug">
-                                  {cleanTitle(item.articles[0].title)}
+                                  {item.description || cleanTitle(item.articles[0].title)}
                                 </p>
                               )}
                             </div>
@@ -177,6 +178,16 @@ export default function KeywordDisplay({
                       </summary>
 
                       <div className="border-t border-zinc-100 dark:border-zinc-800 bg-zinc-50/80 dark:bg-zinc-800/30 px-4 py-3 flex flex-col gap-3">
+                        {item.description && (
+                          <p className="text-zinc-700 dark:text-zinc-300 text-sm leading-relaxed">
+                            {item.description}
+                          </p>
+                        )}
+                        {item.description && item.articles.length > 0 && (
+                          <p className="text-[11px] font-semibold tracking-wide text-zinc-400 dark:text-zinc-500 uppercase">
+                            관련 기사
+                          </p>
+                        )}
                         {item.articles.map((article, idx) => (
                           <a
                             key={idx}
