@@ -1,71 +1,71 @@
 {
   "date": "2026-06-03",
-  "updated_at": "2026-06-03 01:49",
+  "updated_at": "2026-06-03 02:10",
   "categories": {
     "오늘의 이슈": {
-      "summary": "김세의 명예훼손 혐의 구속유지 · 여고생 성폭행 살해 장윤기 구속기소 · 엔비디아 주가 급등으로 반도체 랠리 지속 · 여야 대표, 전현직 대통령 브랜드 활용한 유세 · 구글, 모기 3200만마리 방사",
+      "summary": "사전투표 '유권자 실어나르기' 의혹 수사·한화에어로 폭발 3번째 원인 불명·삼성, 폴드 울트라로 폴더블폰 시장 공략",
       "keywords": [
         {
           "rank": 1,
-          "word": "구속",
+          "word": "투표",
           "count": 3,
           "articles": [
             {
-              "title": "'김수현 명예훼손' 김세의 구속유지…法, 구속적부심 기각",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YOTZaQjBrSnhWWGVFUHBKbFJSajdGMWVNM29pM3I3LVdLVC10MVVIZlhpMEFkU0drQWF2VkFVN1IwMDA2Um5MUTdMcll5VDQ?oc=5",
+              "title": "경찰, 대구 사전투표 ‘유권자 실어나르기’ 의혹 수사···김부겸 측 “복지시설 4곳 선거법 위반” 주장",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50UGdBdVJkWFdYSHF2VHRqcVZ5RTdsMldBZm1LNlNnanp6SDhOVnhWQXY4cmJsbUdMalo5dllaVEJLdkFxWVZsLV9NNUFBcDRzZG9naHMxRHpRZ9IBX0FVX3lxTE9KTi10dnZINDZla0xfd1pRdEh1WDcwM2xGdXRuMlhEZW5aTk5vS2diUnlIanlzY2VaTE1VWHNZSk84bkhjSFVEazN1SDMzcnZTQjRWd29za3BhOGFZaUc4?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "이준석, '투표 새치기 논란'에 다른 각도 영상 공개",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9meTBONGlKcWNIZ0RwcE9GN1Q0bVZROC1FSEd4dTFZNFFLNHBpaWhQNXI2d09BWGE1djlXYlVGSkhsc3owQlN1NVVNOWJQWS1yNjVuakNaS0hDVU9DWkE?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "대국민 호소 나선 장동혁…“투표만이 내 재산과 후손 미래 지켜”",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWR3E1NEVzdXJuaHQ0TmpzSk56UjF5QlVNbkN3a3djY2J4elRCZm9JTWUyN1JMeWJJT0FjN1c2blhQVTZBdlc1eWlEc1hBSkU?oc=5",
               "source": "v.daum.net"
-            },
-            {
-              "title": "“성범죄 목적으로 범행”…‘여고생 살해’ 장윤기 구속기소",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTTBnaUljbzBDbmRUeWVKTXA4OTkzbW41RjNaZTFpXzYyR2d6dWFRYUQ3U2M5YzNqV0I0SThJNDE2OTRHaHlyZV9za2tYcGhaTGMybGdqZzJpZEE?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "'신호위반 사망사고' 지게차 운전자, 구속영장 기각 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41VVVONnNlZ1hLVGZUbGtzeFM1QlJQR1JKRkFYRGlYcXltc1YwQnFGY3dCUXZlNV9vZHZPREhtY090T2MwLUFRWllNM1VYMXhEQWJsZXZjbFRsdWJuZERpal9tRHQyc3hHZS1n0gFwQVVfeXFMT2RNekJYX0FTMGthU1p3clNYTVh3TFg5dFltR0xfNXpZdHYwWTVHSWQ1YTcxRXhaVlUxTXNNLS0yb0x2RDRGWE9EcXlKY3RoN2x5d0w4WWdXbHF0OEhMOTNsUFRYQlM2dVlLTVphalBLWQ?oc=5",
-              "source": "머니투데이"
             }
           ],
-          "description": "김수현 명예훼손 사건 피고인 김세의 구속이 유지되고, 여고생 살해 사건의 장윤기가 강간 살인 혐의로 구속기소되는 등 주요 사건들의 구속 관련 결정이 나왔다."
+          "description": "대구 사전투표에서 유권자를 실어나르는 의혹이 경찰 수사에 올랐고, 이준석의 투표 새치기 논란, 장동혁의 투표 호소 등 선거 관련 논란이 잇따르고 있다."
         },
         {
           "rank": 2,
-          "word": "엔비디아",
-          "count": 2,
+          "word": "한화에어로",
+          "count": 1,
           "articles": [
             {
-              "title": "[마켓 프리뷰] 엔비디아 6% 급등에 뉴욕증시 또 최고치…반도체 랠리 이어지나",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yRG54Wml1cUdDbUtRSjV1Z1JnY3pQbDA0UWNFdFNwcUpIV1NkcENSdFRYZUE2aTRxNU5SZ2xXc3l2OU5vSE1xd2JnY1VCS1k?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "미국 뉴욕증시에서 엔비디아가 6% 급등하며 증시가 또다시 최고치를 경신했다. 반도체 업종 랠리가 지속되고 있다."
-        },
-        {
-          "rank": 3,
-          "word": "살인",
-          "count": 2,
-          "articles": [
-            {
-              "title": "고교생 성폭행 하려다 살해…장윤기 ‘강간 살인’ 혐의 구속기소",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4SlFxbUxVcHJOU0M0NHFrd0o5ek5iR3o4MkVBX3N0Mi1pT1RVQnlmakNYekh0OHBvLTJCd3JOUzhVYUkxeUZOTzBhN1JWcTFxRGVRVm9JdllOa2t4VGFWag?oc=5",
+              "title": "한화에어로 ‘법 위반 486건’ 걸리고도…폭발 3번째, 원인도 모른다",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TQjhLcXRKaGZSLVFJRTY1cFhHVGV6aEE3ekRRUHBHQlkzNjFpNHRHZmQ1WnI5M3FRQlNrZEE0NU82d0x6R3VySnZaY3ljeEd1ZW9TMlJXNHBEWEQ4VGpNV0l1dF80c3FB?oc=5",
               "source": "한겨레"
             }
           ],
-          "description": "고교생을 성폭행하려다 살해한 혐의로 장윤기가 강간 살인죄로 구속기소됐다."
+          "description": "방위사업체 한화에어로가 법 위반 486건으로 적발되고도 폭발 사고가 3번째 발생했으나 원인 파악이 안 되는 상황이다."
         },
         {
-          "rank": 4,
-          "word": "여야",
+          "rank": 3,
+          "word": "트럼프",
           "count": 2,
           "articles": [
             {
-              "title": "격전지 유세 자제한 여야 대표…전현직 대통령 브랜드 적극 활용",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZd3lqbVFOZE9ra1NiYldPdU90UWxuRnhQRllRMWUtSzV1eW5hUjdub3BsXzBhSm05Skw1aGFYdU5fV2paSlZ1anlfREtyYTV2OG9TWWxHWGZ3X2fSAWBBVV95cUxOenVyT0RmbWk5bTc2LWV4eVBiYnVRVng3eE9FSGFka0pIQWlJVEVtT0lnSTViemdpd2VFbjdRLXpXNGd4VzVvSHVvdy1KWjVqdGVjT3Fla3pfX0xlaWtUWEY?oc=5",
-              "source": "연합뉴스"
+              "title": "\"나 아니면 이미 감옥…완전 미쳐\" 트럼프, 네타냐후에 격노",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtb1Z4cGdKUXhaeU9EbjFkSkxvSHpuYmRkd2Fxd0E1dUFEY3k1MzlqeG5HNUMwY1lYbk05ZVpRdmppYzRvRnhNaXhZUjVqRGUwRE42bQ?oc=5",
+              "source": "JTBC"
             }
           ],
-          "description": "총선 격전지에서 여야 대표들이 유세를 자제하는 가운데, 전현직 대통령의 브랜드를 적극 활용하는 선거 전략을 펼치고 있다."
+          "description": "트럼프 전 대통령이 네타냐후 이스라엘 총리에게 \"나를 안 뽑으면 감옥 간다\"며 극단적인 발언을 했다. 어제 1위에서 오늘 3위."
+        },
+        {
+          "rank": 4,
+          "word": "갤럭시",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"애플 첫 폴더블 코앞에\"…삼성, '폴드 울트라'로 승부수 될까",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hekwwTEx2bWtCdVZZUzF3Um9sRG55LWFZYjhLNFZKeXZ2VWRJUFQycGJDbmZCcl9CTWVHTnMybEl2cGFvRGxaa0h2V21WTmYtejR4SDRfVVhFLUJMenhTdtIBeEFVX3lxTE53VTNhbFA0LUd6dEJKYXJMMXBvYVJQSmp3SHFERl9KTVhJZnZla2hYYTlsVVhkVkRxbkNIeVg4ZFpXT3RmTjdDaVVBM0VfekQ0VVp1Vm5NSEZaeFg1a3phdkdGQkM3YXBIUzBxMTRWa2M0OE9aXzJyNw?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "삼성이 애플의 첫 폴더블 출시 앞두고 '폴드 울트라'로 경쟁에 나선다."
         },
         {
           "rank": 5,
@@ -78,38 +78,15 @@
               "source": "조선일보"
             }
           ],
-          "description": "구글이 미국 캘리포니아와 플로리다에 3200만 마리의 모기를 방사한다. 질병 매개 모기를 줄이기 위한 프로젝트로 보인다."
+          "description": "구글이 미국 캘리포니아와 플로리다에 3200만 마리의 모기를 방사하는 프로젝트를 진행 중이다."
         }
       ]
     },
     "연예": {
-      "summary": "신인 아이돌 일베 의혹 논란 · 가요계 계속되는 일베 주의보 · 안효섭과 채원빈 첫 키스신 촬영 · 삼둥이 자녀 교육 이야기",
+      "summary": "케이팝 브랜드 협업 확대·넷플릭스 한국 드라마 인기·중국 외교부 시진핑 방북설 언급 회피",
       "keywords": [
         {
           "rank": 1,
-          "word": "아이돌",
-          "count": 11,
-          "articles": [
-            {
-              "title": "신인 아이돌, '일베 의혹' 제기에 \"사실 아냐\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRSUJMY2E0LTgxNGE0X0NxSmNXZWxYSmk2SnNOTm5XbV9UZDJ3d2VVMXhHelVNeE92bFBPVGpmZUd2Q2hDZE5pOTZPZUhSQUJQdldKM21ubVkzcHRzNHZia9IBeEFVX3lxTE5rN0s5NzRGZEtfQk9oYlpQS1hNaC1mQV9iV29vT2NDVUZ4ODFibkxrSk5ZY08xWm8wcklYRFVYUm9ia19kWk9FVWstYUNRT0FtQW1jZ0dDd0VEQ016Zjd3eXlzWEw4WjhJNFplVXhSakttVWozVVJhbw?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "래퍼부터 아이돌까지…계속되는 가요계 '일베' 주의보 [엑's 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02NWh2SlJ4b0llY1JweVRJa09VbE5MUVEzVDQxR0tSM2JDbkdJYUJyYzRKdDctajF5LTIyWXJ0ellJNEhWMmkxTFhtVTlnbm8?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "거꾸로 찍은 영상에 '일베' 논란 아이돌 멤버…\"어떠한 의도도 없었다\"",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMbXpfb3JBSmtub2pYa0h1NHc0cFE1TVA1dUViN0NzSjIydmRsQUgyQ2N0aWxrbWs3U3QybDBWa0xVYi1qZnhtd19oZnBKSVA1UzVTelFmUEtUdE9UUnR1RU1wV3NKNmc4UFE?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "신인 아이돌이 '일베 의혹'으로 논란에 휩싸였다. 거꾸로 찍은 영상과 관련된 의혹에 \"의도 없었다\"며 해명하고 있으며, 가요계 전반에서 같은 논란이 계속 불거지는 상황이다. 7일 연속 1위."
-        },
-        {
-          "rank": 2,
           "word": "케이팝",
           "count": 11,
           "articles": [
@@ -117,58 +94,68 @@
               "title": "보드 게임으로 만나는 케데헌…'도블 케이팝 데몬 헌터스' 팬들과 만난다",
               "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XXy04QUpPOUFXaVU5Y3VCTnRvTXNZckZxdnVBejhEVFc2RThkdnBRLUJiQ1M3aGg4TC1FZmxsWEZwR1JZbFAyY1FHOUU2S1V1bFpoMA?oc=5",
               "source": "엑스포츠뉴스"
+            },
+            {
+              "title": "스포츠와 케이팝 협업은 계속된다! 나이키 X BTS, 나이키 X 지드래곤, 솔로몬 X 지수",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nTUItS0tIRkEwSWJBdHZNQWlkTU1fVTdUTEFreXVmdDZ4bWlsVUdWRXZ2REs0UXBvZW93QXN0emlJXzBTdW9xTE9Pa1lOMjkxSkNQQQ?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "케이팝 데몬 헌터스, 이제 보드게임으로 즐긴다",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42M1VsYUJFdkNvS2Y4c2U3Q3kyUXJyVlR2OUY0MU9DNU5IWnotVGVicnRBeWlyWVpiV2d3d0l1YmNhY1pkVG5KYUtacGhIVDJfQjlz?oc=5",
+              "source": "네이트"
             }
           ],
-          "description": "케이팝 팬덤 문화와 보드 게임을 결합한 '도블 케이팝 데몬 헌터스'가 출시되며 팬들의 관심을 받고 있다."
+          "description": "보드 게임, 스포츠 협업 등 다양한 분야로 케이팝의 콘텐츠 확장이 이어지고 있다. BTS, 지드래곤 등 글로벌 스타들이 나이키·솔로몬 같은 브랜드와 손잡으며 팬층을 넓혀가는 중이다. 최근 2주간 꾸준히 상위권"
+        },
+        {
+          "rank": 2,
+          "word": "케데헌",
+          "count": 4,
+          "articles": [
+            {
+              "title": "채원빈 \"'케데헌' 애청자…안효섭과 같은 현장에 신나\"[인터뷰②]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NYXd0NUpYU19jdGNzb05ybEtobGFWQWw4dVZILUk2Wk1iZ2daMzV3MnFLeldvNkFWVWhKNDkxM3V1MXdnQ1E5ZW1kZmlXVUk?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "배우 채원빈이 오디오 드라마 '케데헌'의 애청자임을 밝혔다. 같은 현장에서 배우 안효섭과 만난 소식도 전해졌다."
         },
         {
           "rank": 3,
-          "word": "한류",
-          "count": 6,
+          "word": "넷플릭스",
+          "count": 2,
           "articles": [
             {
-              "title": "[단독] 크래비티 앨런, 아리랑TV ‘K-Culture Dive : 한류피플’ 4일 생방송 인터뷰",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YMkQ3eThSS24wckg1RmI5NWJYenZsckxzRTQ1cG82eHJ0UHEtNy1nNnZBMFdZRDIxcEJ0cGFtNVJMTkNYQ2JITzFFYUptRVRFamtOYk9KUHdmNURsT0HSAWNBVV95cUxQWXF6NHhGZkN5Ynk5bXVXdHJCcExITkRhZWtFNVRvLU5LWG15N3JVVnlBS2JnVE13NTRiUmc2NzREV05HaGRuUHhjdG90NTZ0TG1kOFEzRnlwYWxyVmp2YmJzd2c?oc=5",
-              "source": "스포츠경향"
+              "title": "미쳤다…오늘 넷플릭스에 뜬 화제작 1위 '한국 드라마'",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oZE93MWctb1ZMdGs5R0QxcVpvU3BEYzhBVnRXZzFkOFpaNlkzZlI5ZVMtZXIydVREdkxTTUJuTFF1a1d1SlVIN3NCanJ3d2dlMS1XcGd3?oc=5",
+              "source": "위키트리"
             }
           ],
-          "description": "크래비티 멤버 앨런이 아리랑TV의 한류 프로그램 'K-Culture Dive : 한류피플'에 출연해 한류 스타로서의 활동을 소개한다."
+          "description": "넷플릭스 화제작 순위 1위에 한국 드라마가 올랐다. 오늘 처음 등장한 키워드"
         },
         {
           "rank": 4,
-          "word": "안효섭",
-          "count": 3,
+          "word": "중국",
+          "count": 2,
           "articles": [
             {
-              "title": "'오매진' 채원빈 \"안효섭과 데뷔 후 첫 키스신, 현장서 덜덜 떨었다\" [인터뷰②]",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVFpQd1VkdDZkT2RSWk5LbnNXUXV6anNLR3BBVGQ2VDJMRHZiVTBVd2E0RXg5TXFzYUk5Wlgtb01OTVBiOTh3WjZLS21SM05tSjFZaFB0SlZHYWlsYmJCc1d4WGlacEdvaXZFUzlYRFZpdzJYRWVMenlJTUpMRlYtRDVB?oc=5",
-              "source": "starnewskorea.com"
+              "title": "중국 외교부, 시진핑 방북설에 함구…\"제공할 정보 없어\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oSjYwRGlxelo3QlpMTUpucTVoM0F1cTc2eEV0eWllZ3BMaF95TUZrUXlSQ1RibURjTUpadlFzRlU5TXN0Tm9KNTQxZFVySkU?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "드라마 '오매진'에서 배우 채원빈과 데뷔 후 첫 키스신을 촬영한 안효섭이 현장 스토리를 공개했다. 오늘 처음 주목받는 키워드."
-        },
-        {
-          "rank": 5,
-          "word": "배우",
-          "count": 3,
-          "articles": [
-            {
-              "title": "\"삼둥이, 중2병 한창… 배우보다 판사 남편이 힘들어\"",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMV9LbVV4VFo4ZlVKTVgzTDNWb0xzQ0JYcmJqMFhXNUZDQTVjQzI4c2JIemZ0SzhHdFRDTHlyMUo1eFhIWDNYSThRNkloVklyVy1yVENkLXhmQ1AzWkoxb3BtbUVmWHgtb2k3NlJzQWxGZ3VrMElISjgtSnZReWdxZEliN2FRUjl3LTVuREJuckZEZFVU?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "배우이자 판사 아내를 둔 연예인이 삼둥이 양육 과정에서의 일상을 공개하며 자녀 교육 이야기가 화제다."
+          "description": "중국 외교부가 시진핑의 북한 방문설에 대해 '제공할 정보가 없다'며 함구했다. 오늘 처음 등장한 키워드"
         }
       ]
     },
     "경제": {
-      "summary": "원달러 환율 12일 연속 1500원대로 금융위기 수준 심화 · 중동 유가 상승으로 7월 금리인상 가능성 · 코스피 8800선 보합권 혼조 · 정부 부동산 규제 강화 예고 · 개별주 수익률 부진",
+      "summary": "원달러 환율이 12일 연속 1500원대 유지되며 금융위기 수준 근접 · 물가·금리·환율 3高로 경제 부담 심화 · 외국인 투자자 103조 규모 매도로 코스피 약세",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 27,
+          "count": 32,
           "articles": [
             {
               "title": "원·달러 환율, 12일 연속 1500원대…금융위기 때 ‘11일’ 넘어서",
@@ -186,33 +173,33 @@
               "source": "조선일보"
             }
           ],
-          "description": "원·달러 환율이 12일 연속 1,500원대를 유지하며 2008년 금융위기 때 기록(11일)을 넘어섰다. 수출 경쟁력 약화와 금융시장 불안으로 고환율이 지속되고 있다. 13일 연속 1위"
+          "description": "원·달러 환율이 12일 연속 1500원대를 유지하며 2008년 금융위기 때의 기록(11일)을 넘어섰다. 환율 13일 연속 1위"
         },
         {
           "rank": 2,
           "word": "금리",
-          "count": 26,
+          "count": 25,
           "articles": [
             {
-              "title": "중동발 기름값 쇼크, 7월 금리인상 불씨 키웠다",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyaVEyT2hRbTYyTElEd3BuU2Y2RU1XSHJNRXRqU3JDYVB6UV9NODBnRmJkT2M4SlBMNWlxbTB6eE5fanR3c3NsRlJLRmZYMDQ?oc=5",
-              "source": "v.daum.net"
+              "title": "물가·금리·환율 '3高' 가속화…'반도체 소외계층' 고통 커질 듯",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JcmhfYW1Qb2pBMF80dklSZXZ4M3pxQTAwejlHVjc0bnNMX2RUT2JjbVRfYnZGcnItWUZRWVVMU2lPSFRJb1VOc0lrb2M1YVlHM2wzcmRkcEJ4Z9IBVEFVX3lxTE5zU1ppZnJhNkJZTG1Vak84VXRHdjZHQ2o0SUE4ZFcxMW1XdWlGWUlUV1RKM2xXQ3BSeHVweTV5d2pnX3F1XzVhNm9NcDhITzVWLURaWA?oc=5",
+              "source": "한국경제"
             }
           ],
-          "description": "중동의 유가 상승이 인플레이션 우려를 키우면서 7월 금리인상 가능성이 높아지고 있다."
+          "description": "물가와 환율 상승 속에서 금리도 함께 오르는 '3高' 현상이 심화되고 있다."
         },
         {
           "rank": 3,
           "word": "코스피",
-          "count": 20,
+          "count": 21,
           "articles": [
             {
-              "title": "코스피, '9천피' 턱밑에서 숨고르기…8,800선 보합권 혼조(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WTzBpUDlBSVFhVkhTcHJIdTNaMUR5bXMzaUpCek91ckNXT1NxZDMtRWZmUHpEWHpGSmNFZGxzUTdCcGoxaDhxXzA0WUFsNC1HMkp2aHhVWmNXWll5REFVMNIBYEFVX3lxTE9WTzBpUDlBSVFhVkhTcHJIdTNaMUR5bXMzaUpCek91ckNXT1NxZDMtRWZmUHpEWHpGSmNFZGxzUTdCcGoxaDhxXzA0WUFsNC1HMkp2aHhVWmNXWll5REFVMA?oc=5",
-              "source": "연합뉴스"
+              "title": "9000피 코앞에서 코스피 미끌...외국인 올해 103조 매도폭탄, 왜? - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Pc2h6UndwX09DWjhwZVd5TFJNM05mX0RSWHBId2RwYTRPVXVsTDlPR0ViX2V5b051alRod2lkRmhfUTdWdnVyQkJ6djhtS3FuVlRYZjlkYm5HaU1TejBiZHRLMjZud3VI0gFuQVVfeXFMTWJkdFRoM25ZUXhBcHJqd1dTaXBGdnBBU3NDUFhtSDI4YzFucmhHa1RVa3p5c19tcUJFMFVXSGlMYkE3cXo1bjJIQmE0Tjk2ak9KOXJKcW93eUhMYUxuMDdFb2JOdEVSN2RGRGh4cnc?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "코스피가 8,800선 근처에서 보합세를 보이며 9,000선 회복을 앞두고 있다."
+          "description": "9000선 진입을 앞두고 외국인의 올해 누적 매도폭탄(103조 원대)으로 인해 상승세가 주춤하고 있다."
         },
         {
           "rank": 4,
@@ -225,20 +212,20 @@
               "source": "MBC 뉴스"
             }
           ],
-          "description": "지방선거 이후 정부가 부동산 규제 강화를 예고하며 '불로소득 구조' 개혁에 나설 것으로 보인다."
+          "description": "지방선거 이후 정부가 부동산 규제를 강화하는 '강공' 정책을 추진할 예정이다."
         },
         {
           "rank": 5,
-          "word": "주식",
-          "count": 9,
+          "word": "외국인",
+          "count": 3,
           "articles": [
             {
-              "title": "“코스피 35% 폭등했다는데 내 주식은 왜?”… 동일가중 수익률은 ‘마이너스’ - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkZxZXZIVEhwSC1nZXNMdE9xckZtWHFhLUQyUXd6NEdGanVNNmtnQVFzZ1pfaElTVEg1RDlXOVdoMlNvdEpFSHJQYWNyMnpRRkg0Rk92WDVtUU1oNkxJdjdRY1FIQ2xEYkFRbnJNeHljdlRBRFZqWllLQXFyQmJoRGVOaGRhOUwz0gGcAUFVX3lxTE1jNzFaUFZidnNfSlpybnVfdWhhX2lwRzJCeURpRTNuQzVYdkozRkFuX0RUSDBDSHY2eGtGMTFqWFI1cUczeXRvUEdoUzB3cFBSRmVuaWU4QzdvbWtKUlJyMTVsN2gzQ3RrUU1mZHMyVTdiQUo3bmdEckFBaTBJZnYzdkgwMWZkVk1rMkpzS2FPelpSeDFJMmhHNkhweA?oc=5",
-              "source": "Chosunbiz"
+              "title": "외국인들 남산·광화문 보다 자주 찾는 이곳",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zWVAtZG5GT2psM0EtWTF2bTdFOXJTcWJyQkdjNHRTY1pHQldwODVnYlZBWnlsZEFzd20wQWE1aTNONzl1ZFRCcncxNHNMUGxW?oc=5",
+              "source": "문화일보"
             }
           ],
-          "description": "코스피가 35% 올랐지만 개별 주식의 동일가중 수익률은 마이너스인 상황으로, 소수 대형주 중심의 상승장을 보여준다."
+          "description": "관광객들이 남산·광화문보다 다른 지역을 더 자주 방문하는 추세를 보이고 있다."
         }
       ]
     }
