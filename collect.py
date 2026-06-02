@@ -149,11 +149,21 @@ def filter_keywords(candidates, category, titles=None):
         if match:
             words = json.loads(match.group())
             result = []
+            chosen = set()
             for word in words:
                 for w, c in candidates:
-                    if w == word and w not in [r[0] for r in result]:
+                    if w == word and w not in chosen:
                         result.append((w, c))
+                        chosen.add(w)
                         break
+            # 매핑 불일치 등으로 5개 미만이면 빈도순 후보로 채운다
+            if 0 < len(result) < 5:
+                for w, c in candidates:
+                    if w not in chosen:
+                        result.append((w, c))
+                        chosen.add(w)
+                        if len(result) >= 5:
+                            break
             if result:
                 return result[:5]
     except Exception as e:
