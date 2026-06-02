@@ -101,12 +101,12 @@ export default function InstallButton() {
           </div>
           <button onClick={() => setState('hidden')} className="text-zinc-300 dark:text-zinc-600 hover:text-zinc-500 dark:hover:text-zinc-400 transition-colors text-sm leading-none mt-0.5">✕</button>
         </div>
-        <div className="flex gap-3 mb-4">
+        <div className="flex flex-wrap items-center gap-x-3 gap-y-1 mb-4">
           {benefits.map(({ icon, text }) => (
-            <div key={text} className="flex-1 flex flex-col items-center gap-1 bg-zinc-50 dark:bg-zinc-800 rounded-xl py-2.5">
-              <span className="text-lg leading-none">{icon}</span>
-              <span className="text-xs text-zinc-500 dark:text-zinc-400 font-medium text-center leading-tight">{text}</span>
-            </div>
+            <span key={text} className="inline-flex items-center gap-1 text-xs text-zinc-500 dark:text-zinc-400">
+              <span className="text-sm leading-none">{icon}</span>
+              {text}
+            </span>
           ))}
         </div>
         <button
