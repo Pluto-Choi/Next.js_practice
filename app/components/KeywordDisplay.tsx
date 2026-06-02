@@ -179,9 +179,12 @@ export default function KeywordDisplay({
 
                       <div className="border-t border-zinc-100 dark:border-zinc-800 bg-zinc-50/80 dark:bg-zinc-800/30 px-4 py-3 flex flex-col gap-3">
                         {item.description && (
-                          <p className="text-zinc-700 dark:text-zinc-300 text-sm leading-relaxed">
-                            {item.description}
-                          </p>
+                          <div className="flex overflow-hidden rounded-xl border border-zinc-100 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-sm">
+                            <div className={`w-1 shrink-0 ${style.line}`} />
+                            <p className="text-zinc-900 dark:text-zinc-50 text-[15px] font-medium leading-relaxed px-3.5 py-3">
+                              {item.description}
+                            </p>
+                          </div>
                         )}
                         {item.description && item.articles.length > 0 && (
                           <p className="text-[11px] font-semibold tracking-wide text-zinc-400 dark:text-zinc-500 uppercase">
@@ -198,7 +201,7 @@ export default function KeywordDisplay({
                           >
                             <span className="text-zinc-300 dark:text-zinc-600 text-xs font-medium mt-0.5 shrink-0 w-3">{idx + 1}</span>
                             <div className="min-w-0">
-                              <p className="text-zinc-700 dark:text-zinc-300 text-sm leading-snug group-hover/link:text-zinc-950 dark:group-hover/link:text-white transition-colors">
+                              <p className="text-zinc-500 dark:text-zinc-400 text-[13px] leading-snug group-hover/link:text-zinc-900 dark:group-hover/link:text-white transition-colors">
                                 {cleanTitle(article.title)}
                               </p>
                               {article.source && (
