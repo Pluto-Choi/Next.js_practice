@@ -1,35 +1,74 @@
 {
   "date": "2026-06-03",
-  "updated_at": "2026-06-03 04:17",
+  "updated_at": "2026-06-03 05:48",
   "categories": {
     "오늘의 이슈": {
-      "summary": "이란 유가 협상 중단 보도에 국제유가 상승·한화에어로 법 위반 적발 후에도 폭발 반복·대구 보선 보수 진영 결집·기록적 이른 태풍 상륙·구글 모기 방사 프로젝트",
+      "summary": "지방선거 D-1 민주당 우세 전망 · 트럼프-네타냐후 갈등 심화 · 이재명, 환율 조작설 유포자 처벌 경고 · 이강인 합류 홍명보호호 본선 점검 · 한화에어로 법 위반 적발에도 폭발 반복",
       "keywords": [
         {
           "rank": 1,
-          "word": "이란",
-          "count": 2,
+          "word": "지방",
+          "count": 3,
           "articles": [
             {
-              "title": "국제유가, 이란 협상중단 보도에 상승…WTI 5%대↑",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lSldjSHJ3ekl5SU1KYnBXN0RGclNGRUxULVhXSGIyVUlwZWVYMmszWlIwa0tYQ3ZRZXFYaEpYQ2J5STVjUklZcFlwcWhERDNHWjdKRThCRnJxUVnSAWBBVV95cUxOdndwM0JaSHA3MFdaYkZvdVM4b1oyYVI2d1R3bllhRlg2Rk9qVnFheWVIVS1sdkR3OExtemxfVHhOazJXSy1McE1mcFdrY0RaUHY0cDRCN1RLdk1MdTNuRFE?oc=5",
+              "title": "지방선거 D-1…전문가 6명 중 4명 “민주당 12~13곳 우세”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jR2gyV2xlZm9aY0xWdVNvTzRsak1WS0hlel9YbHp4alBVVFZjdk1Kb0lvWmRfNnc2QXVueFBGX3VtYUZrbHhROXdFLTBCUGdsMk9kZmd3QVlFUdIBX0FVX3lxTE04dUNYOHZYbDJ2WHFwRzBvSjJqS244bzBsMXVUV2drUVRvSUxPTXRxTDdqUk1qdTZwVTJZZnhqN2dMS3pmdlZhWkNoMnBqX3E2dkdpMmZzR2pmZnNRZDhv?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "\"한표라도 더\"…지방선거 D-1, 후보들 막판 표심잡기 총력전",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wU2EzNFN6NUNWU1otaGMwM3pEZGRZcGR6Z1gxSTk4eG9qdURpRVNEVFdjTGZ6Z1BOZTBUVnhPa09pak5MLVJ6Q09uUXY4UGxWbnF1WlVQNnRCNTTSAWBBVV95cUxQTFhPbkp2ZUNFOFJQT0p6NzV3UXVVZC02R2JIN1NoZ0hxaUR6SzdSLVVORFpOaFhZWVpWbGRmcTlUWldxSTNveW8tVWxkTmpHZnBxN0FjYTlYXzlHalpZcC0?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "이란·사우디, 지역 긴장 완화 논의",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tM2c2Z2ZQQU9naW9ITThMaHdGcTA5aVo1TTdEbWdEYVVLRXNqcEFtNzR0N2RfYjJWRHpfR1RjRjFpYi1tUzYxX25maFNjRVpobzJuMHJUZERpLWFOcVBMRUtWNTlWZmpCdFVITXJ2LUY?oc=5",
-              "source": "Investing.com 한국어"
-            },
-            {
-              "title": "이란 전쟁 와중에도 현대차·기아, 5월 하이브리드 '역대 최고' 실적",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmxnaERYWllyQ1Q2RW54aHRDYXotRHFzRmRRNHdsWnkxcEg2NU9SM1U4TFZiRW03UTdqZEptdFBlek5BZ2IwNGhKMTZLd0pIbERCNHlkcmJUZ2IzeUE?oc=5",
-              "source": "YTN"
+              "title": "16·14·19.7%‥숫자로 보는 지방선거",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLNmRRd3RBeTdRSDYzT0k3NW92dzJJdl9fQVEzRVhXZFZNbVpoa2FONmh0ZzFzOGhVNGNhTGkyRzdyZ0p1Nm5XYTczRnNJVVM4SlVZeFVKN3hJZUFIVlFtOHdiRmtKWWZHSkp5aDlScEdQNjlSSFE0UdIBeEFVX3lxTFBrU2FwdTNSSG1fRVNkSGF5ckhwZ0JFWVY2QjBHV1N2aVZZYy1nYUdXRlAwMTlwaVNBUE95MklJdGlhblA1LWdKZ0dlUTdnc1lHdXdpNjVWNmJOanRVSUtuUnVIUDhzWU9mWXFQbTBmR3FGMlFISmtIOQ?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "이란의 핵협상 중단 보도에 국제유가가 배럴당 5% 이상 올랐다. 한편 이란과 사우디는 지역 긴장 완화를 논의 중이며, 현대차·기아 등 한국 기업들도 현지 시장 활동을 지속하고 있다."
+          "description": "지방선거를 하루 앞두고 전문가들은 민주당이 12~13곳에서 우세할 것으로 전망했다. 후보들은 막판 표심 확보에 총력을 기울이고 있다."
         },
         {
           "rank": 2,
+          "word": "트럼프",
+          "count": 3,
+          "articles": [
+            {
+              "title": "\"나 아니면 이미 감옥…완전 미쳐\" 트럼프, 네타냐후에 격노",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtb1Z4cGdKUXhaeU9EbjFkSkxvSHpuYmRkd2Fxd0E1dUFEY3k1MzlqeG5HNUMwY1lYbk05ZVpRdmppYzRvRnhNaXhZUjVqRGUwRE42bQ?oc=5",
+              "source": "JTBC"
+            }
+          ],
+          "description": "트럼프 전 대통령이 네타냐후 이스라엘 총리에게 격노하며 \"나 아니면 이미 감옥\"이라는 표현을 썼다."
+        },
+        {
+          "rank": 3,
+          "word": "이재명",
+          "count": 2,
+          "articles": [
+            {
+              "title": "이재명 대통령, \"달러 강제매각설 유포자 반드시 찾아내 엄단\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnam5TWXpIOXI2T0JSTEJMTFIxZDB2WUZzT1ZyS0tINW0way1RbkFRQmV0NHdSeW5VTk9sUjdwWXI0Mm93TExuZk5kV0F1VWs?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "이재명 대통령이 달러 강제매각설을 유포한 자를 찾아내 엄단하겠다고 밝혔다."
+        },
+        {
+          "rank": 4,
+          "word": "이강인",
+          "count": 2,
+          "articles": [
+            {
+              "title": "이강인 합류로 '완전체' 홍명보호, 엘살바도르전서 본선 전 마지막 점검",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WOXNsdkhGT2pnbThPUko4c0FZUXJCajlmQjczQXFGY2tLdXJWdzB0ejhzRXVqS0FUNFVmOGlsZ0phVDFZVU02TWFFQzV1MTg?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "이강인 선수가 홍명보 감독의 팀에 합류해 엘살바도르전에서 본선 전 마지막 점검을 한다."
+        },
+        {
+          "rank": 5,
           "word": "한화에어로",
           "count": 1,
           "articles": [
@@ -39,62 +78,18 @@
               "source": "한겨레"
             }
           ],
-          "description": "방위산업 기업 한화에어로가 법 위반 486건으로 적발됐으나 시설 폭발이 세 번째 일어났는데도 원인 파악이 안 된 상태다."
-        },
-        {
-          "rank": 3,
-          "word": "김부겸",
-          "count": 1,
-          "articles": [
-            {
-              "title": "김부겸·추경호 초접전, 전례없이 승부처 된 ‘보수의 심장’ 대구···‘정치 변화’ 시험대 서다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KX1hGUmd4RGtUV0pTMjlWRFdkR1ZWekRIZVFJZEMtV3U1YWRHc04xRERrX3NOMlptY1F0V2h4b0N0Z2s4NEd2QWk2QWxLbGt2c190Z0c5Q0d5QdIBX0FVX3lxTE0tRHNMLWNldjFmZ0dNSW9yN1k5Nmp4WlRnY2FPcTFoV2l1UmNJMFFqS19ESXdzdDhsbzEyT25yR1hBbXBHYlJqeFlEeDlEZDg2VUV2eklodGwyaTlKUHVB?oc=5",
-              "source": "경향신문"
-            }
-          ],
-          "description": "전 국무총리 김부겸과 부총리 추경호가 보수 진영의 텃밭인 대구에서 전례 없이 초접전을 벌이며 정치 지형 변화를 시험하는 중이다."
-        },
-        {
-          "rank": 4,
-          "word": "태풍",
-          "count": 1,
-          "articles": [
-            {
-              "title": "역대 3번째 이른 태풍…수도권은 34도 더위, 해안엔 5m 파도",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LTVV1S3VHNzVrWlhQTjlMN1FpaVFvenZzWGVQcllOLXBQbnVjR2J1Sl9lOEF4OXFGaWdxcDJrSUpPdEUxVjNVZnBLUEEta1F3WnNoNElR?oc=5",
-              "source": "중앙일보"
-            }
-          ],
-          "description": "역대 3번째로 이른 태풍이 접근하면서 수도권은 34도 폭염, 해안엔 5m 파도가 예상된다. 어제 2위에서 4위로 하락."
-        },
-        {
-          "rank": 5,
-          "word": "모기",
-          "count": 2,
-          "articles": [
-            {
-              "title": "구글이 미 캘리포니아와 플로리다에 모기 3200만마리 방사하는 이유는?",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1VzZGpXNWJTWG1sVXBHQVVVeE5KQXliTy0xN3c5SDl6LXJwMURNT09NWnVlQzdWeG5iMkZlN2ZWNVpLbk5DVlRLYjEwVzhMRWZSNDktTHdCeEZyWGZ4NGVENHBIUDRHWjYxdXVGS2dKcUJTWnU2RDFBWWxZVzZzT3U5VQ?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "구글이 미국 캘리포니아와 플로리다에 유전자 변형 모기 3200만 마리를 방사하는 프로젝트를 진행 중이다."
+          "description": "한화에어로가 법 위반 486건을 적발받았음에도 불구하고 폭발 사고가 3번째 발생했으며, 원인 파악이 이뤄지지 않았다."
         }
       ]
     },
     "연예": {
-      "summary": "케이팝 브랜드 협업 확대·넷플릭스 한국 드라마 화제작 1위·신인 아이돌 논란 해명",
+      "summary": "케이팝 보드게임 출시 · 넷플릭스 에피소드 길이 개선 추진 · 지창욱 수십억 추징 · 블랙핑크 글로벌 앰배서더 선정 · 크래비티 앨런 한류 방송 출연",
       "keywords": [
         {
           "rank": 1,
           "word": "케이팝",
           "count": 11,
           "articles": [
-            {
-              "title": "스포츠와 케이팝 협업은 계속된다! 나이키 X BTS, 나이키 X 지드래곤, 솔로몬 X 지수",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nTUItS0tIRkEwSWJBdHZNQWlkTU1fVTdUTEFreXVmdDZ4bWlsVUdWRXZ2REs0UXBvZW93QXN0emlJXzBTdW9xTE9Pa1lOMjkxSkNQQQ?oc=5",
-              "source": "v.daum.net"
-            },
             {
               "title": "보드 게임으로 만나는 케데헌…'도블 케이팝 데몬 헌터스' 팬들과 만난다",
               "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XXy04QUpPOUFXaVU5Y3VCTnRvTXNZckZxdnVBejhEVFc2RThkdnBRLUJiQ1M3aGg4TC1FZmxsWEZwR1JZbFAyY1FHOUU2S1V1bFpoMA?oc=5",
@@ -104,9 +99,14 @@
               "title": "케이팝 데몬 헌터스, 이제 보드게임으로 즐긴다",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42M1VsYUJFdkNvS2Y4c2U3Q3kyUXJyVlR2OUY0MU9DNU5IWnotVGVicnRBeWlyWVpiV2d3d0l1YmNhY1pkVG5KYUtacGhIVDJfQjlz?oc=5",
               "source": "네이트"
+            },
+            {
+              "title": "울산학생교육문화회관, 전통 군악 대취타와 케이팝이 만났다",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PMDlSUzBEYlpjcFZkZlVMbW1qQkFkV2h6N19UR3QyNXhKNUxnLVhlSi05Nkx5V19tNjY0cHZ2NVlONUpvSUJNUGppaw?oc=5",
+              "source": "뉴스체인지"
             }
           ],
-          "description": "나이키·솔로몬 등 글로벌 브랜드와의 협업이 이어지면서 스포츠·보드게임 등 다양한 분야로 확장 중이다. 최근 2주간 꾸준히 상위권."
+          "description": "케이팝 콘텐츠가 보드게임과 전통 공연 등 다양한 장르로 확장되며 팬들과 만나고 있다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 2,
@@ -114,15 +114,41 @@
           "count": 2,
           "articles": [
             {
-              "title": "미쳤다…오늘 넷플릭스에 뜬 화제작 1위 '한국 드라마'",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oZE93MWctb1ZMdGs5R0QxcVpvU3BEYzhBVnRXZzFkOFpaNlkzZlI5ZVMtZXIydVREdkxTTUJuTFF1a1d1SlVIN3NCanJ3d2dlMS1XcGd3?oc=5",
-              "source": "위키트리"
+              "title": "‘12회는 너무 길다’ ‘1회 보다 말았다’ 이런 사람 많다더니…넷플릭스, 특단의 조치",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0S3VhSko2V2dxT3hIb0F2QkltUGZiNG1rWElabDFheDN1WmVla2JVVzh4WFRYWUVkS3ZLMTJWZnhJUy1McjZXd0tZYWVLN1M1Qms5S0tn?oc=5",
+              "source": "헤럴드경제"
             }
           ],
-          "description": "넷플릭스의 한국 드라마가 플랫폼 내 화제작 1위를 차지했다."
+          "description": "장편 시리즈의 긴 회차가 이탈률을 높인다는 지적에 따라 넷플릭스가 에피소드 길이 단축 등 대책을 마련했다."
         },
         {
           "rank": 3,
+          "word": "차은우",
+          "count": 2,
+          "articles": [
+            {
+              "title": "차은우·김선호 이어…지창욱, 국세청 세무조사 후 '수십억 추징' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fWnZmMDJsaUd6MG50aHVtem4xVENSYUpvelNHc0V6bVgtLU53YjNBT0h0WVhtVEZWNDJkZU9SSDVFcHdILUUyUTJKMGlFRXlvckhGRHYwLUQ3U1NYZ1J3cGM5WHdTTlZZdXhN0gFwQVVfeXFMTnJXUnp3OU5YckVnbjRKMzg3aGpxS0U0d00zaWdjbXE5MUNkYU5WRkZvalVPTFJzNEs2aWROeU5ZeGVvM0JYY0x0dWM5eENudms4NDJESHRvcjZWYnZKbUJtbmJHWlNaVm1OVDIwNmVLUg?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "배우 차은우가 국세청 세무조사 후 수십억대 추징금을 받게 됐다. 최근 연예인 세무 논란이 잇따르고 있다."
+        },
+        {
+          "rank": 4,
+          "word": "블랙핑크",
+          "count": 2,
+          "articles": [
+            {
+              "title": "살로몬, 블랙핑크 지수 글로벌 앰배서더 발탁",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcE1WZFZJZGpScUM2Z0hUWHk4Yzg5eDdzLXFnTGZFd3B0Wi1UcE9vLTRBcW1ZaWNEQmZzbnViRDU1TTNkTTN6bXp6U1FzOWNWSk9xYVBwaWo4eUd6c2F2SU1aRnhNUUlpWk11SkVBQnI5VnZFZWdiUWtwNGg2YUktWE04NEtVSHp3R1E?oc=5",
+              "source": "Hypebeast.KR"
+            }
+          ],
+          "description": "블랙핑크 멤버 지수가 스포츠 브랜드 살로몬의 글로벌 앰배서더로 발탁됐다."
+        },
+        {
+          "rank": 5,
           "word": "한류",
           "count": 10,
           "articles": [
@@ -132,48 +158,22 @@
               "source": "스포츠경향"
             }
           ],
-          "description": "크래비티 멤버 앨런이 아리랑TV의 한류 관련 프로그램에 출연한다."
-        },
-        {
-          "rank": 4,
-          "word": "중국",
-          "count": 2,
-          "articles": [
-            {
-              "title": "중국 외교부, 시진핑 방북설에 함구…\"제공할 정보 없어\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oSjYwRGlxelo3QlpMTUpucTVoM0F1cTc2eEV0eWllZ3BMaF95TUZrUXlSQ1RibURjTUpadlFzRlU5TXN0Tm9KNTQxZFVySkU?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "중국 외교부가 시진핑 국가주석의 북한 방문설에 대해 입장을 밝히지 않았다."
-        },
-        {
-          "rank": 5,
-          "word": "아이돌",
-          "count": 9,
-          "articles": [
-            {
-              "title": "신인 아이돌, '일베 의혹' 제기에 \"사실 아냐\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRSUJMY2E0LTgxNGE0X0NxSmNXZWxYSmk2SnNOTm5XbV9UZDJ3d2VVMXhHelVNeE92bFBPVGpmZUd2Q2hDZE5pOTZPZUhSQUJQdldKM21ubVkzcHRzNHZia9IBeEFVX3lxTE5rN0s5NzRGZEtfQk9oYlpQS1hNaC1mQV9iV29vT2NDVUZ4ODFibkxrSk5ZY08xWm8wcklYRFVYUm9ia19kWk9FVWstYUNRT0FtQW1jZ0dDd0VEQ016Zjd3eXlzWEw4WjhJNFplVXhSakttVWozVVJhbw?oc=5",
-              "source": "뉴시스"
-            }
-          ],
-          "description": "신인 아이돌이 온라인 커뮤니티 관련 의혹에 대해 부인했다. 어제 1위에서 오늘 5위로 하락."
+          "description": "크래비티 멤버 앨런이 아리랑TV 한류 관련 프로그램에 출연하며 한류 확산을 주도하고 있다. 어제 3위 → 오늘 5위"
         }
       ]
     },
     "경제": {
-      "summary": "반도체 호황으로 환율 안정, 물가 압박에 금리 상승·외국인 매도로 코스피 약세·부동산 규제 강화 추진",
+      "summary": "원달러 환율 12일 연속 1500원대 진입·코스피 9000선 붕괴 위기·외국인 투자자 103조 매도·물가 상승으로 금리 인상 가시화",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 23,
+          "count": 26,
           "articles": [
             {
-              "title": "원화값 1510원에도 정부가 느긋한 이유… “반도체 호황이 환율 공포 눌렀다?”",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YOWYtVzhWeVR3LU1UdkNONS11dUdoOTR2U0hLNjZIR3RNTlZCQXpfaVp2N24yeXJXWTVPMVptV21oV3d3QjJtZFpzM2tQQXJHWFU5Vg?oc=5",
-              "source": "매일경제"
+              "title": "원·달러 환율, 12일 연속 1500원대…금융위기 때 ‘11일’ 넘어서",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zUXpuLTJVeXBINEd6eEJMZEN5b2kwVG5DYkNKTG44ZjhmMTRHaHFSaTBjZ2JwQ0c3WWkySGlvSTBRMm5mZDJQbXd3bF9tWWZ3amZiRTFaV1NyQdIBX0FVX3lxTE5LNUF3LThmY3A1YlRQa1R5NFBIbmdHYVNicTVaLTlhWkJHVU56Nm5lcUpKUmVMS1J2Z1M0TktBeEtVeTNONG1oUnlISUJFemkyVGRzRXJjc2tEclE3T0VZ?oc=5",
+              "source": "경향신문"
             },
             {
               "title": "[이재명정부 1년] 코스피 8000·환율 1500원…'먹고사는 문제' 명과 암",
@@ -186,25 +186,12 @@
               "source": "연합뉴스"
             }
           ],
-          "description": "원화가 1,520원까지 올라 두 달 만에 최고치를 기록했다. 반도체 호황이 환율 상승 심리를 완화하면서 정부도 시장 개입에 신중한 모습이다. 13일 연속 1위"
+          "description": "원·달러 환율이 12일 연속 1500원대를 유지하며 금융위기 당시 기록(11일)을 넘어섰다. 장중 1,520원까지 올라 두 달 만에 최고치를 기록했다. 13일 연속 1위."
         },
         {
           "rank": 2,
-          "word": "금리",
-          "count": 20,
-          "articles": [
-            {
-              "title": "국고 3년 금리 2년7개월來 최고치…물가 충격에 심리적 상단 뚫어",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jUVVuUWFVWmlMRUpJZ05lcTRob2Jxb3VFNnd3Q0stN0szMjN3NkZ0TkhGMThNdF82MVREUVQwMy1SVHYyd2t3bExvRVNpVU1lUVcxczBFekNIZE1VeHo5QnVfSWNWcjl5bG5hY25TMkY?oc=5",
-              "source": "연합인포맥스"
-            }
-          ],
-          "description": "국고 3년물 금리가 2년7개월 만에 최고치에 도달했다. 높아진 물가 압박에 금리 상단이 한 단계 올라간 상황이다."
-        },
-        {
-          "rank": 3,
           "word": "코스피",
-          "count": 19,
+          "count": 26,
           "articles": [
             {
               "title": "9000피 코앞에서 코스피 미끌...외국인 올해 103조 매도폭탄, 왜? - 머니투데이",
@@ -212,12 +199,25 @@
               "source": "머니투데이"
             }
           ],
-          "description": "9,000포인트를 앞두고 외국인의 올해 103조 규모 매도 압박에 주가가 주춤하고 있다."
+          "description": "외국인의 올해 누적 매도폭탄(103조)이 계속되면서 코스피가 9000선 진입을 앞두고 미끄러지고 있다."
+        },
+        {
+          "rank": 3,
+          "word": "금리",
+          "count": 24,
+          "articles": [
+            {
+              "title": "물가 지난달 3.1% 껑충… 금리 7월 인상 힘실려",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91bHlRNXpyVy1UTnRNNTJySU53azQzNDdvNGw1R3V6VkhMcjJsWVlHRVVKR25HWE56em1vdmNFNGRwRWxwTUR0NnRWeERZY1k?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "지난달 물가가 3.1% 올라 기대인플레이션이 높아지는 가운데, 7월 기준금리 인상 가능성을 놓고 주목된다."
         },
         {
           "rank": 4,
           "word": "부동산",
-          "count": 13,
+          "count": 18,
           "articles": [
             {
               "title": "잠잠했던 ‘부동산 엑스’ 다시 꺼낸 이 대통령…“망국적 부동산 공화국 탈출할 것”",
@@ -225,13 +225,20 @@
               "source": "경향신문"
             }
           ],
-          "description": "대통령이 '부동산 공화국' 탈출을 다시 거론하며 부동산 개혁 의지를 드러냈다."
+          "description": "대통령이 '부동산 공화국' 탈피를 명분으로 부동산 정책을 다시 꺼내며 정책 변화 신호를 보였다."
         },
         {
           "rank": 5,
-          "word": "코인",
-          "count": 2,
-          "articles": []
+          "word": "외국인",
+          "count": 4,
+          "articles": [
+            {
+              "title": "외국인들 남산·광화문 보다 자주 찾는 이곳",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zWVAtZG5GT2psM0EtWTF2bTdFOXJTcWJyQkdjNHRTY1pHQldwODVnYlZBWnlsZEFzd20wQWE1aTNONzl1ZFRCcncxNHNMUGxW?oc=5",
+              "source": "문화일보"
+            }
+          ],
+          "description": "외국인 관광객들이 남산·광화문 같은 전통 관광지보다 특정 지역을 더 자주 찾는 것으로 나타났다."
         }
       ]
     }
