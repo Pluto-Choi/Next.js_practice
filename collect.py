@@ -186,31 +186,36 @@ def load_history_ranks(category, lookback_days=14):
 
 
 def keyword_trend_note(word, today_rank, history_ranks, today_date):
-    """history 기반으로 키워드의 트렌드 맥락을 계산값으로만 만든다(추측 없음)."""
+    """history 기반 트렌드 맥락을 계산값으로만 만든다(추측 없음).
+
+    독자에게 의미 있는 신호만 반환하고, 약한 신호는 None으로 죽인다.
+    - 처음 등장 / 3일 이상 연속 1위 / 2계단 이상 순위 변동 / 2주간 꾸준히 상위권
+    """
     hist = history_ranks.get(word, {})
     if not hist:
         return "오늘 처음 등장한 키워드"
-    notes = []
-    # 연속 1위 집계
+
+    # 1위 연속 기록 (3일 이상만 노출)
     if today_rank == 1:
         streak = 1
         d = today_date - timedelta(days=1)
         while hist.get(d.isoformat()) == 1:
             streak += 1
             d -= timedelta(days=1)
-        if streak >= 2:
-            notes.append(f"{streak}일 연속 1위")
-    # 어제 대비 순위 변동
+        if streak >= 3:
+            return f"{streak}일 연속 1위"
+
+    # 어제 대비 순위 변동 (2계단 이상만 노출)
     yesterday = (today_date - timedelta(days=1)).isoformat()
     y_rank = hist.get(yesterday)
-    if y_rank is not None and y_rank != today_rank and not any("연속 1위" in n for n in notes):
-        notes.append(f"어제 {y_rank}위 → 오늘 {today_rank}위")
-    elif y_rank is None and not notes:
-        notes.append(f"최근 {len(hist)}일 내 다시 등장")
-    if not notes:
-        appeared = len(hist)
-        notes.append(f"최근 {appeared}일간 꾸준히 상위권 유지")
-    return ", ".join(notes)
+    if y_rank is not None and abs(y_rank - today_rank) >= 2:
+        return f"어제 {y_rank}위 → 오늘 {today_rank}위"
+
+    # 장기 꾸준함 (최근 14일 중 10일 이상 등장)
+    if len(hist) >= 10:
+        return "최근 2주간 꾸준히 상위권"
+
+    return None  # 노출할 만한 신호 없음
 
 
 def generate_descriptions(keywords, category, history_ranks, today_date):
@@ -222,22 +227,29 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
         titles = "\n".join(f"    · {a['title']}" for a in item["articles"][:3])
         note = keyword_trend_note(item["word"], item["rank"], history_ranks, today_date)
         item["_trend_note"] = note  # 디버그/검증용, 저장 전 제거
+        trend_line = f"  트렌드 정보: {note}\n" if note else ""
         blocks.append(
-            f"[{item['word']}]\n  트렌드 정보: {note}\n  기사 제목:\n{titles}"
+            f"[{item['word']}]\n{trend_line}  기사 제목:\n{titles}"
         )
     joined = "\n\n".join(blocks)
     prompt = (
-        f"다음은 오늘의 '{category}' 분야 화제 키워드들이야. 키워드마다 기사 제목과 "
-        "트렌드 정보(우리 사이트가 매일 집계한 순위 데이터에서 계산한 값)를 준다.\n"
-        "키워드별로 우리 웹사이트만의 독자적인 설명문을 작성해줘. 아래 3가지를 한 문단"
-        "(2~3문장, 120자 내외)으로 자연스럽게 녹여줘:\n"
-        "1) 이 키워드가 무엇인지 한 줄 정의\n"
-        "2) 오늘 왜 화제가 됐는지 (기사 제목에서 확인되는 사실만)\n"
-        "3) 트렌드 맥락 (제공된 트렌드 정보를 활용)\n\n"
+        f"다음은 오늘의 '{category}' 분야 화제 키워드들이야. 키워드마다 관련 기사 제목과, "
+        "있는 경우 트렌드 정보(우리 사이트가 매일 집계한 순위 데이터에서 계산한 값)를 준다.\n\n"
+        "키워드별로 우리 웹사이트만의 독자적인 설명문을 작성해줘. 뉴스를 보러 온 독자가 "
+        "한눈에 '오늘 무슨 일인지' 파악하게 하는 게 목적이야. 다음 원칙을 지켜:\n\n"
+        "1) **첫 문장은 반드시 오늘의 뉴스로 시작**해라. 이 키워드가 오늘 왜 화제인지, "
+        "기사 제목에서 확인되는 구체적 사실(인물·사건·수치)을 앞세워라. 사전적 정의로 시작하지 마라.\n"
+        "2) **정의는 생략이 기본**이다. 환율·코스피·넷플릭스·방탄소년단처럼 일반 한국인이 다 아는 "
+        "단어는 절대 설명하지 마라. 정말 생소한 용어(낯선 기업·기관·전문 용어)일 때만 한 구절로 짧게 곁들여라.\n"
+        "3) 트렌드 정보가 주어진 키워드만 마지막에 짧게 한 마디로 덧붙여라(예: '환율 13일 연속 1위'). "
+        "트렌드 정보가 없으면 트렌드 얘기를 아예 꺼내지 마라. '지속적인 관심을 받고 있다' 같은 군더더기 표현 금지.\n"
+        "4) 날카로운 당일 트리거가 없는 상시 키워드(케이팝·증시 등)는 사소한 기사 하나를 억지로 이유로 만들지 말고, "
+        "여러 제목을 관통하는 큰 흐름을 담담히 요약해라.\n\n"
+        "분량: 1~2문장, 100자 내외로 간결하게.\n\n"
         "엄격한 규칙:\n"
         "- 기사 제목과 트렌드 정보에서 확인되는 사실만 써라. 추측·과장·없는 정보 생성 금지.\n"
-        "- 제목만으로 정의가 불확실하면 무리하게 단정하지 마라.\n"
-        "- 트렌드 정보(순위/연속 기록)는 제공된 값 그대로만 사용하고 새 숫자를 지어내지 마라.\n"
+        "- 제목만으로 사실이 불확실하면 무리하게 단정하지 마라.\n"
+        "- 트렌드 정보(순위/연속 기록)는 제공된 값 그대로만 쓰고 새 숫자를 지어내지 마라.\n\n"
         "JSON 배열로만 답해라. 형식: [{\"word\": \"키워드\", \"description\": \"설명문\"}]\n\n"
         f"{joined}"
     )
