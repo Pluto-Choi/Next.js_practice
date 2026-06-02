@@ -1,87 +1,109 @@
 {
   "date": "2026-06-02",
-  "updated_at": "2026-06-02 12:53",
+  "updated_at": "2026-06-02 19:22",
   "categories": {
     "오늘의 이슈": {
-      "summary": "2026 월드컵 한국 저화질 방송 확정 · 한화에어로 폭발사고 사망자 13명 · 트럼프-네타냐후 갈등 · 이란 중국서 미사일 연료 조달 · 석유류 급등으로 물가 상승세",
+      "summary": "트럼프 네타냐후와 갈등 · 태풍 장미 일본 규슈 접근 · 검찰 대통령에 무오류 함정 경고 · 젠슨 황 삼성전자 언급 회피 · 법무부 교도소 온열질환 관리 강화",
       "keywords": [
         {
           "rank": 1,
-          "word": "월드컵",
-          "count": 3,
+          "word": "트럼프",
+          "count": 2,
           "articles": [
             {
-              "title": "일본은 2026 월드컵 104경기 모두 4K 시청→칠레·니카과라·과테말라도 선명하게 보는데…한국은 저화질 FHD 확정",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15SHhWT1NsSnhFUVBIUWI5dnhsdG9MY2lPZWd3MXF4TkxGTFY0Yy1MU2l0MXExRWhicEVhOXBoNWRjQk1XWDJFN0dwa1EyeUlpdHVyQ2JQUGxISU0y?oc=5",
-              "source": "네이트"
+              "title": "\"나 아니면 이미 감옥…완전 미쳐\" 트럼프, 네타냐후에 격노",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtb1Z4cGdKUXhaeU9EbjFkSkxvSHpuYmRkd2Fxd0E1dUFEY3k1MzlqeG5HNUMwY1lYbk05ZVpRdmppYzRvRnhNaXhZUjVqRGUwRE42bQ?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "[SC 오늘]32년 만의 월드컵, '넘사벽' 골든보이, 본선 첫 득점 환희…'4강 신화'는 그렇게 시작됐다",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalNnQ0taTXB4RG05d3VLVURMZmlOMTdYZEtWbGQ3MHVqTW5UR0dadWFxUmp5SU53MlBrOHc0MExoTXhaSjR6WW4waUZEaEg0cWFaTUt4Uzl1TlpuRFZrN01TVThhYkpBUGRpUzBJd25PQldSN01rX25COWNkS2FvTEhuVQ?oc=5",
-              "source": "조선일보"
+              "title": "공화당 반대 직면 트럼프… ‘반무기화 기금’ 철회하나",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waVZSY2Nsdk1HanFGNFhzeVRWak56NFdScW9URG4wZTVodFF2ZWpyZkNJcGNwb3dxMDR4M2tEaWhmUFA0M01ISmdvTDZvRkg4?oc=5",
+              "source": "문화일보"
             },
             {
-              "title": "홍명보호, 월드컵 체코전서 붉은 유니폼 입는다…2차전 보라색",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IVWc1YVRXSGtRb0RESF81UFlYSm5TZE90NV9ldXNORkp6WGdFRzRIMlNDcndyWTY3cFQwbXpWWTh1M2VSQTB0SXZuTnAtOEtYdVpSUmtNWWhvZ3pfVU5LSGhjdkhYWU10Q0o4ZXZ2dEhZNllT0gFmQVVfeXFMUFZqMnhfekRvNW40YkI5TWQxUDhyWkR3cGVUWXBUZGMwM3J3OVJpeFBvclBUZ0R6V3VXc0dHbDQxSkdwVm0wS05USjFPZ2RqUXhKS1kwejNfRGtlbk5kOFgzOWQxMnRB?oc=5",
-              "source": "동아일보"
+              "title": "비판 여론에 밀린 트럼프, 2.7조원 ‘反무기화 기금’ 결국 철회",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnMHRmcDgyUlcxeTNxdlc2Y0FPLWFyYXhVTWkyeGlsLTNPWHhsV1R0WG03X0lhU2VSSUVCajNCVFJWU3JQbXdtTTg1UjY3UjA?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "폭발",
+          "word": "태풍",
           "count": 2,
           "articles": [
             {
-              "title": "한화에어로 ‘반복된 참사’ 희생자 13명째…“폭발 원인 모르겠다”",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TQjhLcXRKaGZSLVFJRTY1cFhHVGV6aEE3ekRRUHBHQlkzNjFpNHRHZmQ1WnI5M3FRQlNrZEE0NU82d0x6R3VySnZaY3ljeEd1ZW9TMlJXNHBEWEQ4VGpNV0l1dF80c3FB?oc=5",
-              "source": "한겨레"
+              "title": "태풍 '장미' 일본 규슈 접근...집중 호우 우려",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BbW8wc1FVN1BLODdQa25yUExLdWE5N2FNd0ZyNUp2ZTJvNmtZX0JBRU1ET1RZYTVLX0EtTzVOYjNrS1NrUmdvYWc3SHR1WTJwMnRXd0Q1dFExelFRV3c?oc=5",
+              "source": "YTN"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "트럼프",
+          "word": "검찰",
           "count": 2,
           "articles": [
             {
-              "title": "\"나 아니면 감옥 갔을 사람\"... 트럼프, 네타냐후에 욕설",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1BTQlphWGloV2dOTmdOalh5VEE4RG85UzROaTQzNW9RcnpzaFJOWFQ2MnF0TVZJem9vS1ljVVVMd1BBazJBZDB0TUVjQzlCRVE5UjZQSWRvdlVWUmF0UW0wdDQ2TF9taUw0T1l1RVJQOTFwQ1dtVWlXMGMzX1VCU2VNcm1MUDZlNXRjNW9XenM3VlVjbkVzWXd3M0kxQQ?oc=5",
-              "source": "조선일보"
+              "title": "이 대통령, 검찰에 “잘못하면 사과·취소해야…무오류 함정 안 돼”",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVZkROazRtdzBuOGxvLTlQYW5YUHlsRUZKendLUEpkRi1ZQXJRZ25jSnhxZkdaTXVPQ21RTVlCbWRNSFJKUnN5WUo1MUFCWWdjTi1uOFpMYXJUR05JWHFLRjdySXpNVldBdXNV?oc=5",
+              "source": "한겨레"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "이란",
+          "word": "삼성전자",
           "count": 2,
           "articles": [
             {
-              "title": "이란, 중국서 탄도미사일 연료 조달 정황…“2500개 만들 분량”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWSFRrRzYtYUY3T1d1TG1NQ181Yl9UYW9Bc0ZMakl1SXVUNXN5M2dvSmYwX3NPNV92c25LM2VXY3I0NUM5ZHBuWDlSYWJaQUp6VnJPeThn?oc=5",
-              "source": "중앙일보"
+              "title": "젠슨 황 ‘선택적 침묵’ 왜?... 삼성전자 언급 않고 하이닉스만 칭찬",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHNqN0t3ejg5bGtHSUc5Q1haWnVwUjJ4Tl9jWURINW5UWlIyZTVJLXVDXzdRQUQtMVBwbEJ0V0xXeVRIWENjS1ppRmNxZWZwalA0bGtYX2htVmxnWHRZa1V1dGJicjdHa1pHam9ZckZLcmRPYUtEUUZLSy1xbVZIbU9qSQ?oc=5",
+              "source": "조선일보"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "물가",
+          "word": "질환",
           "count": 2,
           "articles": [
             {
-              "title": "석유류 24.2% 급등…5월 소비자물가 3.1%↑ 26개월만에 최고(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tVGM0S3JMT0Q3QVlSbzY5S0Z4SV9CVGhXdnowUEJtdnNmQlMyR2s5MkxrY0xBXzhzQ3RYLWE4TTFDVXIzNC16aEhWMzdieVlERjVJVnRUSmY3aDjSAWBBVV95cUxQQUZPUXVGLVYyQ1ZQdmdKYTg2VnYyU25jbkNVRDltS2lhbXFjNVdpWmE5RHh5V1lFbnVHUERNMEItNUVZOTY3VlFqUjNleUZxd193NUhpYXhlQklPVlp6dFg?oc=5",
-              "source": "연합뉴스"
+              "title": "\"교도소가 호텔이냐\" 논란에…법무부 \"온열질환 취약자 보호\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wZmM5V3FBZ2J2ZEFodFg4TWt1UlQzUnVaa1dfMUNEd0ZNVU9ST091aDEtRkJGczZoQU5qb25qci16eUQ2bHpZckM4bGtXa3c?oc=5",
+              "source": "v.daum.net"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "케이팝이 보드게임·전통 음악과 결합 · 신인 아이돌 논란 영상 해명 · 한류스타 뉴욕 타임스 스퀘어 진출",
+      "summary": "신인 아이돌 일베 의혹 부인 · 가요계 일베 논란 지속 · 케이팝 데몬 헌터스 보드게임 출시 · 크래비티 앨런 한류 방송 출연 · 박성온 일상 공개 · 숏폼 드라마 글로벌 공개",
       "keywords": [
         {
           "rank": 1,
+          "word": "아이돌",
+          "count": 12,
+          "articles": [
+            {
+              "title": "신인 아이돌, '일베 의혹' 제기에 \"사실 아냐\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRSUJMY2E0LTgxNGE0X0NxSmNXZWxYSmk2SnNOTm5XbV9UZDJ3d2VVMXhHelVNeE92bFBPVGpmZUd2Q2hDZE5pOTZPZUhSQUJQdldKM21ubVkzcHRzNHZia9IBeEFVX3lxTE5rN0s5NzRGZEtfQk9oYlpQS1hNaC1mQV9iV29vT2NDVUZ4ODFibkxrSk5ZY08xWm8wcklYRFVYUm9ia19kWk9FVWstYUNRT0FtQW1jZ0dDd0VEQ016Zjd3eXlzWEw4WjhJNFplVXhSakttVWozVVJhbw?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "래퍼부터 아이돌까지…계속되는 가요계 '일베' 주의보 [엑's 이슈]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02NWh2SlJ4b0llY1JweVRJa09VbE5MUVEzVDQxR0tSM2JDbkdJYUJyYzRKdDctajF5LTIyWXJ0ellJNEhWMmkxTFhtVTlnbm8?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "거꾸로 찍은 영상에 '일베' 논란 아이돌 멤버…\"어떠한 의도도 없었다\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMbXpfb3JBSmtub2pYa0h1NHc0cFE1TVA1dUViN0NzSjIydmRsQUgyQ2N0aWxrbWs3U3QybDBWa0xVYi1qZnhtd19oZnBKSVA1UzVTelFmUEtUdE9UUnR1RU1wV3NKNmc4UFE?oc=5",
+              "source": "조선일보"
+            }
+          ]
+        },
+        {
+          "rank": 2,
           "word": "케이팝",
           "count": 12,
           "articles": [
@@ -89,40 +111,18 @@
               "title": "케이팝 데몬 헌터스, 이제 보드게임으로 즐긴다",
               "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42M1VsYUJFdkNvS2Y4c2U3Q3kyUXJyVlR2OUY0MU9DNU5IWnotVGVicnRBeWlyWVpiV2d3d0l1YmNhY1pkVG5KYUtacGhIVDJfQjlz?oc=5",
               "source": "네이트"
-            },
-            {
-              "title": "울산학생교육문화회관, 전통 군악 대취타와 케이팝이 만났다",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PMDlSUzBEYlpjcFZkZlVMbW1qQkFkV2h6N19UR3QyNXhKNUxnLVhlSi05Nkx5V19tNjY0cHZ2NVlONUpvSUJNUGppaw?oc=5",
-              "source": "뉴스체인지"
-            },
-            {
-              "title": "방탄소년단 뷔·백현, 유픽 6월 ‘스페셜픽’ 초반 상위권 경쟁",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05SVZyczFSNE5jaVo3NTk3VVNQcGdNd3lxS2NIdFFHc0FsQ21abVhKZFhSWkdxTTgzTHAxQnpGMU9VOEV6ZWhVV0NwYlBYaHFqT2tTTW1ObkE0YV8xRFJrUG5ldndXV3B1QVoyaEUzUXJZdw?oc=5",
-              "source": "톱스타뉴스"
-            }
-          ]
-        },
-        {
-          "rank": 2,
-          "word": "아이돌",
-          "count": 10,
-          "articles": [
-            {
-              "title": "‘일베 의혹’ 제기된 신인 아이돌…“논란 영상 어떤 의도도 없어”",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UUWJwcW44YTl4ZkdIYUhwZzJOdTJyckpwbWQtNlhMSTdKN2dNQXV1RVFYYnR6d2c5al9aWUxlOUNYNjNuWmpyS1U3VExMUFpoQkMxSndrNnYyOFluWWpoMjE3R2dDdV9MUHpqa21ySkx3eTIxY1HSAWZBVV95cUxOMzN5MHlsbnEzUURHMWRQcU9WeGRZdmlYUy1SU2FQcnlTR0N2VnBHSTdjNjJlZDAwRHJmUW45TzY1SGs2VGhaelhGSUZsUlE0Z1F1WE12VUZZX2k4QVRnQWxueXRGSnc?oc=5",
-              "source": "동아일보"
             }
           ]
         },
         {
           "rank": 3,
           "word": "한류",
-          "count": 9,
+          "count": 8,
           "articles": [
             {
-              "title": "한류연예대상 수상자들, 뉴욕 타임스 스퀘어 전광판 빛냈다",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LRXo4OF92azVwNHVIbjlaRmp1Sm54M2ppd01lNHRmbWhqX2ZHcEJ2dE10RXN0c0JiR01RSXpIdXZ3NmNreVh6NGxreHpUTk5sMDVtN18yVHRUbXpRVHp3TWVTMEo?oc=5",
-              "source": "bntnews.co.kr"
+              "title": "[단독] 크래비티 앨런, 아리랑TV ‘K-Culture Dive : 한류피플’ 4일 생방송 인터뷰",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YMkQ3eThSS24wckg1RmI5NWJYenZsckxzRTQ1cG82eHJ0UHEtNy1nNnZBMFdZRDIxcEJ0cGFtNVJMTkNYQ2JITzFFYUptRVRFamtOYk9KUHdmNURsT0HSAWNBVV95cUxQWXF6NHhGZkN5Ynk5bXVXdHJCcExITkRhZWtFNVRvLU5LWG15N3JVVnlBS2JnVE13NTRiUmc2NzREV05HaGRuUHhjdG90NTZ0TG1kOFEzRnlwYWxyVmp2YmJzd2c?oc=5",
+              "source": "스포츠경향"
             }
           ]
         },
@@ -134,94 +134,94 @@
             {
               "title": "박성온, 울산 무대 마치고 엄마와 귀가…차 안 셀카로 전한 일상",
               "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wenZ1NnduZWpkVWRDZFFwekpveG1GV2dTa3F5WkR3MzZTNjJYclZBOHd2VUlsRENuRURheXpuSmhOVkJCVkg1UmFzNjNUSUt0ZjRVWXFXRWFkaU9uamZCOFE4RDdYdTM0aUR1UGloSEhfdw?oc=5",
-              "source": "톱스타뉴스"
+              "source": "TopStarNews"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "인기",
+          "word": "약혼자",
           "count": 4,
           "articles": [
             {
-              "title": "아이폰18 프로 4개 색상 모형 공개…‘다크 체리’ 새 인기색상 될까",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wTnR0NnpGcWp0UlZXdVlscHRyancxV3V6dEk2Q0l1dWtFMXFybTg3djZyOEhOSFZrR2k3ZklJdVdGZ0ZwNjVmMU80ZTBoR0hkQ0xYRXh3?oc=5",
-              "source": "지디넷코리아"
+              "title": "숏폼 드라마 ‘약혼자의 동생을 사랑한 게 죄일까요?’ 글로벌 동시 공개",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqODM1WmZyVDRCSnR4Z2RVQXB1OERBRDVYXzNsVVltaDlkR05Ba1hJbjVtNzhjbkpBQ0lBeW1nOTdlbzZOSVVacVBKWUtndGphS29ydDBn?oc=5",
+              "source": "중앙일보"
             }
           ]
         }
       ]
     },
     "경제": {
-      "summary": "코스피 사상 최고치 경신, 개미 삼전닉스 53조 순매수 · 기준금리 3회 인상론 부상 · 부동산 탈세 규제 강화",
+      "summary": "원달러 환율 1516원까지 상승하며 12거래일 연속 1500원대 기록 · 외국인 1.5조 투매로 코스피 반락 · 물가 3%대 전망에 금리 인상 가시화로 서민 부담 증가",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 33,
+          "count": 29,
           "articles": [
             {
-              "title": "코스피 사상 최고치 경신, 원·달러 환율 하락 마감",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBraG5Vd1pkRkp4NGxVcUNCNEVFelBSVU1yNTVaeWhrdTFBZXpHQlZybk55cGhwLU1ZcklHdXdkUXNoN2otTFExOFI2UTduZ3lRYVY3a2VlWHAxa0FwZWhaZA?oc=5",
-              "source": "뉴시스"
+              "title": "코스피 8800 돌파…원·달러 환율 1516.4원까지 올라",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnMEM5VjdKSWlnU0U4X0U0ZGpJLXZPYlhlbjRWNlVPSmh2NDR2akxueDhZVURPenZJSFNDVGJ6X0duUzIwb1Via1FSM3R3LUZOYjllZHNR?oc=5",
+              "source": "지디넷코리아"
+            },
+            {
+              "title": "환율 12거래일 연속 1500원대, 금융위기 기록 넘어서... 수출·증시·금리도 못 막은 고환율",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0xnaDY2VUItR1N6OVV3d2pBc0phNDAyQ3pJR1hLYThzdng4OFdSLUZHT3hlVWxTdTh4LVhFYnk5NkNlTXM4TUphN1d0VGZjVWRXaG0yeEMyS1FCVmY2OVA2XzNQQ1EyQjZHempiY21fQjNaODByWlMwVEtFc0F3QldZNl80dDVQVTNBS293?oc=5",
+              "source": "조선일보"
             },
             {
               "title": "[외환] 원/달러 환율 7.7원 오른 1,512.0원(개장)",
               "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KamdDMEhMYjViSFl1WXZHZWhabFpZRTlWMmRyeVJuNkNJWUc0Z2RnYnJUZS1GeFE2SU90U0pHeEpiNFpNakl2bWhHSGtNbmRrVDhJMmJudWhlV2PSAWBBVV95cUxNdDREWnhBUm0wV2phMS1SU1NNQzRaZ1BoVVlHLS1ub3FmRy1wTnA3SHE0Y29TbDNzaFJUWlhsaXR6M2RPaXNYcko0QUpZaUdDSVN3YUJ5SlR4elVwUUZhMUg?oc=5",
               "source": "연합뉴스"
-            },
-            {
-              "title": "환율, 국제유가 뛰자 다시 1510원대 상승",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fYTVvdlJRNndXZ0JDUmZDU0ZVNzFrR0RablMxMnE4ZHoxLWxFVVNIODdnR0tMNUJmSjhPUHRocHpqamhmNGlxZzJUTWY0MGc?oc=5",
-              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "금리",
-          "count": 27,
+          "word": "코스피",
+          "count": 25,
           "articles": [
             {
-              "title": "연말 3.0% 넘어 내년 3.25%까지…기준금리 '3회 인상론' 부상",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02RzBCdllMcklPRXU5ZDNjWnluYllKdDhoVjZJVFZOM28wcTFQX0o5MjFDNnZJam5GMU1nMTNjV3VOSkQtRXg0Y0ZkeHRxRU43MUtUNDllVkNCX3B0S3djNnZTOGEwdw?oc=5",
-              "source": "뉴스1"
+              "title": "외국인, 코스피 1.5조 투매…역대 최고치 찍고 반락[개장시황]",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kQzdQZDZJa2FWV0tHZFQ4dk5XdU8zS0R4VGRINnZsQ0VkWS1kVlRQUkxKdlgtY0VXTnNDZWcxdkxReTE5Y1E?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "코스피",
+          "word": "금리",
           "count": 24,
           "articles": [
             {
-              "title": "코스피 또 사상 '최고'… 개미, 올해 삼전닉스 53조 순매수 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UaXZ3ZHJ5cTdBMkxFdVZCVEJkd010N1k2bURLTVBRVTNqNWNBVGFyaDNSZGtLUzVDLWNTMlA0bUtLblIwQmgxc1VrcVpuMWhQSy0wWEZFcDBjcDRaOEwwNFo3UE9QQ3py0gFuQVVfeXFMUHVTcUpGSkZOWkI2NE00dXRGY0ZWSV82bjJRdmFERDNTc0N3NnZJdjdLZ1hIX1JmTGowd3RwX2k5WE1PdFVpbVcyUWdkWnVyb05PcENrOVhrRFNKbUg5T2ZYNVRvVHk3ZE5rdHA5Y1E?oc=5",
-              "source": "머니투데이"
+              "title": "물가 당분간 3%대 예측에 금리 인상 '가시화'…서민 고통 가중",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80WUtNOEZYMlNoOWNTVHRYSHA1ejAxUDJzM0U1bVZ6M3hvQzl1UTFXS2hyem53UWpHQk5ZZ21yTjgzNDZQTDg1Z3JRdWk3Z2dNMG9iMURn?oc=5",
+              "source": "지디넷코리아"
             }
           ]
         },
         {
           "rank": 4,
           "word": "부동산",
-          "count": 17,
+          "count": 16,
           "articles": [
             {
-              "title": "이 대통령 \"부동산 탈세 이제 안돼‥불로소득 공화국 반드시 탈출\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5acjF1RzNQcjh2NjFEYll2UkVfY1NmNWdJa0xqNl9uRGRjZzlGUTBxWEVib2lURzd1ZUh0ZmxWYUI4eklCTkpVWjh3U2J3YmdSMGtrc3JqaWRWZ1lmTHFqN1QxVzczOURDdmI1R1RUTml2SDFJY2pDTtIBeEFVX3lxTE9iNG5JN0dHX1hBYXBjRzFYdEVoTnJWclY2LVhWdDljVEpnMG1vS0NEZ2dpUVBmRHFYbnlYcFl2Z0FKVzBzeGJnX09DRktKdXVnS0o0Wi1fQXZJSFI2MXpadWFZblRWbkhDd096T3pId2pmU0FPR05aZQ?oc=5",
-              "source": "MBC 뉴스"
+              "title": "잠잠했던 ‘부동산 엑스’ 다시 꺼낸 이 대통령…“망국적 부동산 공화국 탈출할 것”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPN1dpanQ1a21ZT0dXUjNudXB5d1RIU25KWTdSSnBtOEQ1b2V4dEx5d3dyakxsdzNxZmNNVVhPel85M0pIUWtWVzhFbzJfbm1ramV4d3N3M1UtZ9IBX0FVX3lxTE9jQ1BRbzVNSUNtU2phR0drMkc2dHhybTdEbm44aDVzeHpMWnFvWm9DZWh0MUtPbXp5Q2ExS1MzSHRVcmZfa2hMU2NRSHhLbkV5eE5kN3NxTU5tMTRUWjNn?oc=5",
+              "source": "경향신문"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "주식",
+          "word": "증시",
           "count": 13,
           "articles": [
             {
-              "title": "고수는 절대 하지 않는다, 주식으로 고통받는 사람들 최악의 실수",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa2F2djJkc2N5SGY1bS1GZUt1WW9ac0w0UnBReXF5VldoRDFLUF8yTlZPbFM5Z2w4WnZpNmpwaml4R3RZbE9kZXAtTzdfYTZKQm9GMkdXSnFGTm12SVB6V1Z3QnFuVTdzek41LUs5LWh5OVMtMlpaZzV1dkZBLU9McA?oc=5",
-              "source": "조선일보"
+              "title": "한국 증시, 인도 제치고 세계 6위 시가총액",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fdnF1TVNWYkNXYW1ZeWFrOGR5bUVrZ283RmR4VUFMVXlXWUdrM2hBUVNQX1pldkpNUEt3X2R4ZGF4YUZuc25wbEp6aWFDLVI4RkloeFN6N3NpOHBhV0lHN3N1X1JYZldYSVo4ODBhdG5QeS1B0gF0QVVfeXFMTVppRkppd3ZwM3FDZmtfd01Ubl8zaUVlclpxMzFFR0RqSkZNdFMxbnhtd09UcjYzQzlBOHhGYmtxX0dadm1CQ0JmNVJxM2FQYkRSbFYyNHBRWUlFbFNrX1hqU0g4di04dXBFRkJBcEZKQTRkZlE?oc=5",
+              "source": "MBC 뉴스"
             }
           ]
         }
