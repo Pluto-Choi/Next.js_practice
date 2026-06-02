@@ -24,6 +24,15 @@
   -webkit-tap-highlight-color: transparent;
 }
 
+/* 가로 스크롤 영역의 스크롤바를 숨긴다 (날짜 알약 등). */
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
