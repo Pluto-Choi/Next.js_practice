@@ -52,7 +52,7 @@ stopwords_entertainment = stopwords_common | {
     '출연', '드라마', '영화', '인터뷰', '화보', '스타',
     '남자', '여자', '사랑', '결혼', '열애', '이별', '교제',
     '문화', '플러스', '앨리', '리스트', '미소', '오프', '온', '지급',
-    '감독', '시즌',
+    '감독', '시즌', '콘텐츠',
 }
 
 def parse_feed_with_retry(url, retries=3, delay=3):
