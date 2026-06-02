@@ -100,22 +100,47 @@ def extract_keywords(titles, sw=stopwords_common, n=20):
                     nouns.append(token.form)
     return Counter(nouns).most_common(n)
 
-def filter_keywords(candidates, category):
-    lines = "\n".join(f"{i+1}. {word} ({count}회)" for i, (word, count) in enumerate(candidates))
+def _candidate_examples(word, titles, k=2):
+    """후보 단어가 들어간 기사 제목 예시를 k개까지 모은다(중복 판단·구체성 근거)."""
+    ex = []
+    for t in titles or []:
+        ct = clean_title(t)
+        if word in ct and ct not in ex:
+            ex.append(ct)
+            if len(ex) >= k:
+                break
+    return ex
+
+
+def filter_keywords(candidates, category, titles=None):
+    if titles:
+        lines = "\n".join(
+            f"{i+1}. {word} ({count}회) — 예: "
+            + " / ".join(_candidate_examples(word, titles) or ["(예시 없음)"])
+            for i, (word, count) in enumerate(candidates)
+        )
+    else:
+        lines = "\n".join(f"{i+1}. {word} ({count}회)" for i, (word, count) in enumerate(candidates))
     try:
         message = anthropic_client.messages.create(
             model="claude-haiku-4-5-20251001",
-            max_tokens=100,
+            max_tokens=120,
             messages=[{
                 "role": "user",
                 "content": (
-                    f"다음은 한국 뉴스에서 형태소 분석으로 추출한 '{category}' 키워드 후보야.\n"
-                    "아래 기준으로 노이즈를 제거하고 실제 이슈를 대표하는 단어 5개를 순서대로 골라줘.\n"
-                    "- 제거: 그룹명·작품명·브랜드명이 분해된 조각 (예: '데몬', '헌터스', '스파이더')\n"
-                    "- 제거: 단독으로 의미없는 동사성·상태성 명사 (예: 검토, 추진, 본격, 시대, 교섭, 누락)\n"
-                    "- 유지: 사람 이름, 지명, 기업명, 사건명 등 구체적인 고유명사\n"
-                    "- 유지: 경제·사회 현상을 나타내는 핵심 명사\n"
-                    "JSON 배열로만 답해줘. 예시: [\"환율\", \"삼성\", \"이란\"]\n\n"
+                    f"다음은 한국 뉴스에서 형태소 분석으로 추출한 '{category}' 키워드 후보야. "
+                    "각 후보에는 빈도와, 그 단어가 들어간 기사 제목 예시가 붙어 있어.\n"
+                    "제목 예시를 근거로, 오늘의 서로 다른 이슈를 대표하는 키워드 5개를 순서대로 골라줘.\n\n"
+                    "선정 규칙:\n"
+                    "- **같은 사건을 가리키는 후보가 여러 개면 그중 가장 구체적인 것 하나만 골라라.** "
+                    "예: '구속'과 '살인'의 제목 예시가 같은 사건이면 둘 중 하나만. 5개는 5개의 서로 다른 이슈여야 한다.\n"
+                    "- **구체적 고유명사를 우선하라**(인물·기업·지명·사건명). '구속'·'살인'·'여야'·'배우'·'주식' 같은 "
+                    "두루뭉술한 일반명사 조각보다, 같은 사건을 가리키는 구체적 이름이 후보에 있으면 그쪽을 골라라.\n"
+                    "- 제거: 그룹명·작품명·브랜드명이 분해된 조각(예: '데몬', '헌터스', '스파이더').\n"
+                    "- 제거: 단독으로 의미없는 동사성·상태성 명사(예: 검토, 추진, 본격, 시대, 교섭, 누락).\n"
+                    "- 경제·사회 현상을 나타내는 핵심 명사(환율·금리 등)는 유지해도 좋다.\n\n"
+                    "반드시 위 후보 목록에 있는 단어 중에서만 골라라. JSON 배열로만 답해줘. "
+                    "예시: [\"환율\", \"삼성\", \"이란\"]\n\n"
                     f"{lines}"
                 )
             }]
@@ -126,7 +151,7 @@ def filter_keywords(candidates, category):
             result = []
             for word in words:
                 for w, c in candidates:
-                    if w == word:
+                    if w == word and w not in [r[0] for r in result]:
                         result.append((w, c))
                         break
             if result:
@@ -299,9 +324,11 @@ def collect_category(feed_url, stopwords, category_name):
     print(f"=== {category_name} Top 5 키워드 ===")
     try:
         feed = parse_feed_with_retry(feed_url)
+        feed_titles = [e.title for e in feed.entries]
         top5 = filter_keywords(
-            extract_keywords([e.title for e in feed.entries], stopwords),
+            extract_keywords(feed_titles, stopwords, n=30),
             category_name,
+            feed_titles,
         )
         used_links = set()
         keywords = []
