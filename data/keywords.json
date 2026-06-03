@@ -1,75 +1,62 @@
 {
   "date": "2026-06-03",
-  "updated_at": "2026-06-03 12:59",
+  "updated_at": "2026-06-03 19:58",
   "categories": {
     "오늘의 이슈": {
-      "summary": "투표소 투표용지 공개 소란 · 이란혁명수비대 미 5함대 기지 미사일 공격 · 손흥민 월드컵 베스트11 · 한화에어 산재 사법처리 미흡 · 중국 반도체 여제 젠슨황 견제",
+      "summary": "송파구 투표용지 부족으로 투표 중단·MBC출구조사 민주당 11곳 우세·미국 \"이란 미사일 공격 실패\"·중국 반도체 여제 젠슨황 견제·국내 로봇주 150% 상승",
       "keywords": [
         {
           "rank": 1,
           "word": "투표",
-          "count": 4,
+          "count": 3,
           "articles": [
             {
-              "title": "“대통령도 이렇게 하지 않았느냐”···투표용지 공개하려 한 40대, 투표소서 소란",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyaDZ5ZjFidjR1SHRuREl2ZWpGMzd4VGRHQ2xBb3VYanV5UFoxajczc2ZHdmVIOHl6WWpuNHpqeXkwWjExQllJV085MDE0YTlvQlp6ODVaWHVkd9IBX0FVX3lxTE9GSnBjaHE4RHdQOW1DLXY0R01tM0lfaXQzcXNkMVN6N0hBTEVJMEFPRTJQUUhhRGh3OFB2WTh5SXNOSjhNU2IwYnNId3VrV3VVMHl3cW1kOVRZY3NabjFR?oc=5",
-              "source": "경향신문"
+              "title": "서울 송파구서 투표용지 부족으로 투표 중단‥\"용지 이송 중\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52NnFZZHQxekZSXy1TTFItbG1QYTd2cHFyT1lIZFhTQmlfNnZsV3RfOXpmV0VHbHhTT1dZdy1KZW1lcTJNWGVnVU1PM3ZaUFF0TU9oTnl0d19saFNmMG51UzM1UXl2SDVHNzFzUnZGdC1SVW5Rd243WtIBeEFVX3lxTE82azJCT1gtM1A2ZzBqcWYtTFlLWGZRdlVYQWEwdktYZml3d0dkNHY4bGFMWEpxM19WTTdnU3JHVXdGQk9Wdy1tZnprbFk4U2RNcHpENFFPN0JHMzUxc3doMWprWGgyeDVuWEdxMV9oOE0tQmFpc1NKYg?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "생애 첫 투표 나선 18세 유권자들…\"한 표 영향력, 책임감 느껴요\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oZXlqaVVKNFJmTmJBSGxldUVEMFBuNXNiTlVrLTBzaEJpWUtYSjNjb2lKektvR05Pc1BLWTZtMDRPbXY3SHFZTkktRnVEdVU?oc=5",
-              "source": "v.daum.net"
+              "title": "대구·경북 엇갈린 투표율… 대구 ‘도시형 균일 투표’, 경북 ‘군 단위 폭발’",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SS3dlT2g3T3VucFdkbU1TVGlWOTNnaXpESXRqTDl6WWlJZ1lWZk5lajJ1MzJYQVZWR0hOcnFkWHBuTEhLQzg2bHhPZ1gxTVNZRzlfaXpiZDFMYjF6T2Y4N0plR0N0RTVhZl94bUVwd3ZPaWfSAXdBVV95cUxPTDVwQi05TEFXZkZ3NVJES1pYSDdXeWZJSUVTQlRwdmNfTW1XWlRyNDlEOFBCRjBRUkE3UEpJUzN6ZU1na3hONGotbVhwOU05SFBhM2pVWU1ZaFhSRDZXR3VmdWNXMUpOYmpvdjRuQXM5SXBfVDlZRQ?oc=5",
+              "source": "스트레이트뉴스"
             },
             {
-              "title": "'온가족이 함께하는 투표'",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoQUlfUFFsWTNDRk8tUkVxVGdtdlhZTV9mcFNZMW8xSW0ySWlHd05EUHJkRGVOZzV4cFBOVjZrcXBFeU9OTklPMndLck5jeWQwem9TbzJKTGVQQlBSYjJTSQ?oc=5",
-              "source": "뉴시스"
+              "title": "[6·3 지선] 인천 계양을 김현태, 본인 투표 못해…주소지 '계양갑'",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FOFJ0SjctWXFJY202ek1ZXzBsOHVQVGtneWhhS1RPTEdqRGk3Y3FScGtGUk1fbm1IRmRyaWxvV3Y3ZTZVZW5RRTJDU2VKajlmZ0NBdjVVOGRla1nSAWBBVV95cUxPTVZUbkI4VmpMNXBWUTNUUW9IMFNmWVAwc0JKMG11WGJpcWZMZHAtenE5VUYxLWhkVFVtcGd6eDVrbko3aWpzTEFiY1pfamxxMTZoWS03R3JOOEV4U3NKY1I?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "18세 유권자 투표가 시작되며 세대 변화가 감지되는 가운데, 투표소에서 투표용지를 공개하려던 40대가 소란을 피우는 등 투표 과정에서의 논란이 이어지고 있다."
+          "description": "서울 송파구에서 투표용지 부족으로 투표가 중단되는 등 전국 곳곳에서 투표 진행 중이다. 지역별로 투표율 패턴도 뚜렷이 갈렸다."
         },
         {
           "rank": 2,
+          "word": "출구조사",
+          "count": 2,
+          "articles": [
+            {
+              "title": "[선택2026] MBC출구조사‥더불어민주당 11곳, 경합 4곳, 국민의힘 1곳",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnRFJrbXREYzdJa09fYVFVTnZfM09jRDZnZlVMblJfekZrcmwyWXNGREt4NlcyTVNLQnotVE5BaWNscW5zTVNCcVFJOENFOTBjLXE3MXoyRFhERmtRQUlSVGttX25FZnNrd3ZDRXpDSE1LcS16Z0Z2SNIBeEFVX3lxTE9NS19XaFlPTVVPVHlTNjRLaUxIVlZQdWRRRUlqX2hWNlg4Y094MXFyM3ZmaHVkVFlqTmstYnBBN01weUF5X3pONXpuZ1JMYmhqRVpkY3p1M24zMDFZQlVfZDk4algzY3RaWUJpdEVNQjJTaHl4dkUyQQ?oc=5",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "description": "MBC 출구조사에서 더불어민주당이 11곳으로 우위를 보인 가운데 경합 지역도 4곳 나타났다."
+        },
+        {
+          "rank": 3,
           "word": "이란",
           "count": 2,
           "articles": [
             {
-              "title": "[속보] 이란혁명수비대 \"미 5함대 기지 미사일·드론으로 공격\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnaHptZzlhNGtkNGNnYW9WakdYTUVuejVGLVdPZnBsSjM5Vl8xNDF0LU9iMlBSQl90S1hwSV82SGY2Y1V5QmpYOXV6dUpzc3c?oc=5",
-              "source": "v.daum.net"
+              "title": "미국 \"이란의 미군기지 향한 모든 미사일·드론 공격 실패\"",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zM2RoV1NVOWQ0ZHZmY3FBajBBb2FiOEwxOXFfUlBOZkFsNDRZOHNFOUZwb0E1RUl5X2lXRHFUam5IdFJjbmx3UFA3QXpRbFVrNi1SXw?oc=5",
+              "source": "JTBC"
             }
           ],
-          "description": "이란혁명수비대가 미국 5함대 기지를 미사일과 드론으로 공격했다고 발표했다."
-        },
-        {
-          "rank": 3,
-          "word": "홍명보호",
-          "count": 2,
-          "articles": [
-            {
-              "title": "손흥민 '라스트 댄스'…홍명보호 예상 베스트11은[월드컵 D-10①]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LQjRrZEtZei1oQWNxNmJOcTk3bWZzOXI2ZDJxMy1ZTDIzc2tLVVA3emduWVdqeUpGRHUxSmNPWnRpOUdvZDJ5OE9vMW1xem1qRjdkS25Gc2VfM1cxemN3WtIBeEFVX3lxTFB5RkNEMkdfLWxESUIxVHB2eUJOeDhQLVlPUXZEemUxcHFPcGxRMFRFZlRkTXBVQ1UxclQ3WGZiYjM0ZFhzODlqT1RQR3dubjhjWk54UkN4NklTZmk4a2ZzVjNsZm9VR3RkZ19ZbmlPU3dvUHoxN3EyRg?oc=5",
-              "source": "뉴시스"
-            }
-          ],
-          "description": "월드컵을 앞둔 손흥민의 마지막 국가대표 경기와 홍명보 감독의 예상 최종 베스트11이 주목받고 있다."
+          "description": "미국이 이란의 미군기지 향 미사일·드론 공격이 모두 실패했다고 발표했다."
         },
         {
           "rank": 4,
-          "word": "한화에어",
-          "count": 1,
-          "articles": [
-            {
-              "title": "5명 사망산재에도…사법처리건수, 절반만 줄었던 ‘한화에어’",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXSURyQ2FVM1lrcmkwOFRwVjlVaXpFeV91S0tQZUZrNEZ2Tl9TU2N3Ul9CUU1aeHFkSk45QV83Wl9DUnpySlQwREdINHFWeU1pamfSAVNBVV95cUxOMmFwcDV2Wi1fSTF0QjdfODNGemJnVDFzNjVsWEpkcVRwN1VHUDJBcW8yZTNyeTFNNnRfNHhDaGhXMnltWnl2bENsV1piZ0x3ZHdEYw?oc=5",
-              "source": "서울경제"
-            }
-          ],
-          "description": "5명이 사망한 산재 발생 후에도 사법처리 건수가 절반 수준에 그친 한화에어의 안전 관리 실태가 논란이다. 오늘 처음 등장한 키워드"
-        },
-        {
-          "rank": 5,
-          "word": "젠슨 황",
+          "word": "젠슨",
           "count": 2,
           "articles": [
             {
@@ -78,95 +65,131 @@
               "source": "중앙일보"
             }
           ],
-          "description": "엔비디아 CEO 젠슨 황이 중국 반도체 기업과의 경쟁에서 열위를 보이면서 '칩 전쟁'의 흐름이 변화하고 있다. 오늘 처음 등장한 키워드"
+          "description": "엔비디아 CEO 젠슨황이 중국 반도체 기업 경영진에게 이목을 끌면서 '칩 전쟁'의 최전선 인물로 주목받고 있다."
+        },
+        {
+          "rank": 5,
+          "word": "로봇",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"젠슨 황 효과?\"…올해 국내 대형 로봇주 150% 상승",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwZnFkWlFjbmFrSnMwRUxXUWxzVm1tNHd2cFZBRGlyOFhWa2xMVkNHSXlHZm1hSzZTWVRvOUVDSjAwc1c2cTZXNExxdTFSaVFTUUo0aw?oc=5",
+              "source": "mbn.co.kr"
+            }
+          ],
+          "description": "국내 대형 로봇주들이 올해 150% 이상 급등하며 AI·반도체 관심 확대의 영향을 받고 있다."
         }
       ]
     },
     "연예": {
-      "summary": "신인 아이돌 일베 의혹 부인 · 샤이니 새 미니앨범 'Atmos' 발표 · 해외 한식문화 확산 논의",
+      "summary": "샤이니 새 미니앨범 발매 · 케이팝킹·퀸 경쟁 심화 · 안효섭 멜로 장인의 재발견 · 한국 반도체 중국 수입 1위",
       "keywords": [
         {
           "rank": 1,
-          "word": "아이돌",
-          "count": 12,
-          "articles": [
-            {
-              "title": "신인 아이돌, '일베 의혹' 제기에 \"사실 아냐\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRSUJMY2E0LTgxNGE0X0NxSmNXZWxYSmk2SnNOTm5XbV9UZDJ3d2VVMXhHelVNeE92bFBPVGpmZUd2Q2hDZE5pOTZPZUhSQUJQdldKM21ubVkzcHRzNHZia9IBeEFVX3lxTE5rN0s5NzRGZEtfQk9oYlpQS1hNaC1mQV9iV29vT2NDVUZ4ODFibkxrSk5ZY08xWm8wcklYRFVYUm9ia19kWk9FVWstYUNRT0FtQW1jZ0dDd0VEQ016Zjd3eXlzWEw4WjhJNFplVXhSakttVWozVVJhbw?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "[아이돌, 해체 그다음의 삶①] 연예계 밖 세상에 뛰어든 '前아이돌'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VcDJ4ak5tdlh4WFk2T0pEb1hVcDdKSWFxeGRwc3BwazVIaE1iTEUxSjU4ZE1pREQ1ZXVfc1JxSlo1dUlSZkUxZm9Ob1lxZWc?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "일본 국민 아이돌 ‘아라시’ 27년 만에 활동 종료···'꽃남' 마쓰모토 준 등 5인조 도쿄돔서 피날레",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NdWc0M2VIU1ZReFYxMmV1UGRwdDdVNnU2cE1yNDFSdnk2MVI5S2FJQ1hPMDIwQkh2SmdCaWNpcFo4ZEphWFZfellTdVVlR05RRkcwMHlmTzVOQQ?oc=5",
-              "source": "경향신문"
-            }
-          ],
-          "description": "신인 아이돌의 논란 해명, 해체 후 삶의 변화, 일본의 아라시 27년 활동 종료 등 아이돌 산업의 다양한 이슈가 관심을 모으고 있다. 7일 연속 1위"
-        },
-        {
-          "rank": 2,
           "word": "케이팝",
           "count": 11,
           "articles": [
             {
-              "title": "케이팝의 자존심, 샤이니의 새 미니앨범 'Atmos' - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yaFNvVXl4T2JjUUJTZExBYTA4Q1dLeG40c2ttTWZFazJGbExtWGZVN2hPbjBBNHNvTjhjQnhkVkZMSlU4Uzhyc0JOWFRjakROUWZOM1lTNGFUcHp1aC1Ubm14aEJ0ZGhpVmliSUxoQ2FoVjTSAXhBVV95cUxPX2tPOERYNXJPbXktS21GOVgwdWhESkNDekJ3QWVNRGRHa1NmUlZNb0I4OVI2MFNrZnVWWkFRVTJyWGlvQndtbmp1ZGttaWxEUjVYMDlWVEd5QzVkdVlRTnlITVM2YXNDUlZvWnBQcmhXUVFib2RwV2o?oc=5",
-              "source": "머니투데이"
+              "title": "케이팝의 자존심, 샤이니의 새 미니앨범 'Atmos'",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VSTl5YUIwcC1hVmpUOWRMV3pJbUUwYTdPZ1pUR2dQa0JsLXdfRDV0dlBGaUNXNUJ2RUk0WXZNcEZDMW02eG9Wdnl0QnpHN2c?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "안성훈 앞선 케이팝킹 경쟁, 송가인 중심 케이팝퀸 상승세와 팬덤 결집 주목",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fdktuOXhCR0ZZdkFWZDVlWXJfUURaOW4yRlo1QjE4X0k2S0Ftcmp6bmxQakdyM0FCamhSaDkyTkdPZXFuaEl0V0RBS3luOVBiQnVJeGZpMEFKQ1FTUkZ0TUQybGpCaHlrX3hKYktfbHhKdw?oc=5",
+              "source": "TopStarNews"
+            },
+            {
+              "title": "한소희, 걸어 다니는 화보 ‘공항이 런웨이’ [케이팝 헌터스] - 스타투데이",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aWGZTMjlUcGZuVnVZV3RUbk15SUdUZHRXT3AxekNrUGY2UFlNdUlPakNXY0JXWTZDcXRqa0NHQW1ZX2owOVEyNlBNbm05NHJ6TE53?oc=5",
+              "source": "매일경제"
             }
           ],
-          "description": "샤이니가 새 미니앨범 'Atmos'를 발매하며 케이팝의 경쟁력을 보여주는 중이다. 최근 2주간 꾸준히 상위권"
+          "description": "샤이니 신곡 공개, 케이팝킹·퀸 경쟁 등 가수들의 활발한 활동이 이어지고 있다. 최근 2주간 꾸준히 상위권 화제다."
+        },
+        {
+          "rank": 2,
+          "word": "방탄소년단",
+          "count": 4,
+          "articles": [
+            {
+              "title": "투표 마치고 나오는 방탄소년단 진",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1feVR3UDA3WTcxZHNBZ1VoOS01UHBFM2t1blBpVU94WHZOTnhQcUZRRzE4OEdxUlRtTXZvUzg4eUVRWks0TTdrdnlRQ2dZZ0V2U1JMUzNlUjY4eHUw?oc=5",
+              "source": "뉴스핌"
+            }
+          ],
+          "description": "멤버 진이 투표 현장에 모습을 드러냈다."
         },
         {
           "rank": 3,
-          "word": "데몬",
-          "count": 6,
+          "word": "안효섭",
+          "count": 3,
           "articles": [
             {
-              "title": "워해머 40,000 팩션 집중분석: 카오스 스페이스 마린 및 카오스 데몬",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTRpTklQVlJvSWVZbkFIcktaZFJWZ1lYcmJUb0F4eU1lZUxKeVFydUZ4WDN6YVZSOWcwQmJuREtLN0tWMGE0QjBoNldHZUwxOTJjczJsVkdBbnV0UHBJcEtKeGVDVE0wTDM4Ym9HeXhqSFZORGpZM0R1dEw2eE5zVGJOaUFid1JYTXF2Yk1PLXR2RzE4azJRdWpLYzlIT2tYQ0w3V3hrSGFfOXo4ZHVxS1BCMDNMaGhhWG9RZGYxTkx4YTA4eDRN?oc=5",
-              "source": "Warhammer Community"
+              "title": "‘오매진’ 안효섭, 멜로 장인의 재발견 “떠나보내려니 아쉬워” [일문일답]",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrVUM5S045WnBDb25jVG5HSjR0X3E0N1ZRMm0xdW8xZlV0SVRiZDZNejltTHlmVnNjSHpSRkoxZTNFejduQ1I0ZldlYU1LcVpwM2VtRw?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "워해머 40,000의 카오스 스페이스 마린과 카오스 데몬 팩션에 대한 게임 분석 콘텐츠가 다뤄졌다."
+          "description": "드라마 '오매진'의 배우 안효섭이 멜로 장르에서의 연기력을 재평가받고 있다. 오늘 처음 화제 키워드로 떠올랐다."
         },
         {
           "rank": 4,
-          "word": "헌터스",
-          "count": 6,
+          "word": "중국",
+          "count": 3,
           "articles": [
             {
-              "title": "퀘스트 도전하고 선물까지! 서울숲에서 즐기는 보물찾기 '가든헌터스'",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LY1c4YkxqbEwtMGNKOE9SdzBjWExTNk5vQlVyck8ycjJKWnFOcDZKb3liTTRxNGJWMnR3NUE0LTZGUTRkVVV0U2lXY2paaXRiSi1IakJCMDQ?oc=5",
-              "source": "서울특별시"
+              "title": "[경제 포커스] 한국 반도체 수입 1위 국가는 중국… 미국은 4위 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRzdSQk9EalZYRjB4cElRTXR5Vkk5SWItOWxjdElCYjFuQmVLTVBmWmFxMVF2YV9Gbng3anZHLTF3ZUM1YzhFTFVOU2NXUXlnNC11MjZFeFFUaXRNaHkzR1c1UkxtcmI0UEdzcU5PWWxXUGpXSXdHRTZBYnJPTmxFLVRDWjBGd9IBmgFBVV95cUxQOE1YMTkxVHQtT1hxZ2RzbjhqY1FCQW5ZbDB3WFlua3NxcXZyNzUtNlVMZHREai1fcS1fLTZfaW5wVHVRWnJPLXdnZndabGcyRlBxYzhabmFXWWE2NUE5NHI4R1ZodGFEWTBYeDQza0c4Z0ZKX0M3dDhmeXYtdTU0RDNibkhVRnpqR3Voczd2eDl1MDlYYU94bHFn?oc=5",
+              "source": "Chosunbiz"
             }
           ],
-          "description": "서울숲에서 진행되는 보물찾기 게임 '가든헌터스'에서 퀘스트를 완료하고 선물을 얻을 수 있다."
+          "description": "한국 반도체 수입에서 중국이 1위 국가로 나타났으며, 미국은 4위에 그쳤다. 오늘 처음 관련 뉴스가 올랐다."
         },
         {
           "rank": 5,
-          "word": "한류",
-          "count": 6,
+          "word": "아이돌",
+          "count": 10,
           "articles": [
             {
-              "title": "'한류 타고 한식 확산'…해외 한식문화 재점검 세미나 열려",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SRG8ybkp3b05HR3dPSHA2cEtxc1pyanN3TzBWUzBkOC0tVjVsS3hUWm1Bb1BicFY0cGtZVEJUeWV6VmtEZlByc3VhY3Fhb2xlMTZncjhUUkVzYnR5REFKQ0JvNkRhcGxTc2hCdg?oc=5",
-              "source": "재외동포신문"
+              "title": "영상 거꾸로 찍고 \"이야!\"…일베 의혹 아이돌 \"의도 없었다\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzdFYxR0E3T3dULXdPY1BGZGRDX3FqWk5fRUJsOWZoNjlvUlBWNFE0M1V5LWstbUZocGJ6bGotZVp6OVBrMEFvMXdLbFh2WENoTjc3UWV4ekVtLVA2TEE?oc=5",
+              "source": "YTN"
             }
           ],
-          "description": "해외 한식문화 재점검 세미나 개최로 한류를 통한 한식 확산 현황을 살펴보는 움직임이 나타났다. 어제 3위 → 오늘 5위"
+          "description": "일베 의혹을 받은 아이돌이 영상 촬영 의도와 무관하다고 해명했다. 어제 1위에서 오늘 5위로 내려앉았다."
         }
       ]
     },
     "경제": {
-      "summary": "원달러 환율 1500원대 지속 속 코스피 변동성 확대·물가-금리-환율 3高 심화·부동산 규제 강화 예고",
+      "summary": "골드만삭스 코스피 목표치 1만2000으로 상향 · 원달러 환율 1500원대 지속 · 물가 3.1% 상승으로 7월 금리인상 불투명 · 중국 반도체 굴기",
       "keywords": [
         {
           "rank": 1,
+          "word": "코스피",
+          "count": 31,
+          "articles": [
+            {
+              "title": "골드만삭스 \"코스피 목표치 9,000→1만2,000 상향\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TTFdLOFZyWl9wbUozS09vbXJHajVuQ0pTbUhhNG1kR0xqN3BOU1hXWU1Ia29SemtjT0UwVm04ZkRMemEyMGYyOWtUUGwwRTA?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "골드만삭스 \"코스피 목표치 9000→1만2000 상향…메모리 호황 장기화\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iUTUyRnVlYndxS3huZWtWekFNQ2Jjc2ZUQzVPOHgyVE0zQk5WMFptbzdWUE5GczF4ZmtWaXJxOEFpTHRrQW92TXpUUzV5c1ZVb19GZWxBZ20tM3NjdGNoVNIBeEFVX3lxTE5ZZ0ktYXBhZzJSWkFieWtBSWIydXBVZWJpUmNBZUVzeGsxVlYza1lDcUVsU0R6djZreXpJeGJkM1FNZkxmMEw4Y1NqLWVuZTV0ekJ6b2RqUXVFREl2V0NzNU5vcWV2Y1UzTjVaVXVEUUp4ZDFEbk5tOA?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "골드만삭스 \"코스피 1만2000 간다\"…반도체 슈퍼사이클에 역대급 전망",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EYVlWOW94WHF4OVpiRkFxWGdhV042WXRIVm56TVB6YXF6d2xuQ2Z2WXlTWXV5VWVrY3JKV0FpOWRGYVA1eTI2alg3OVA3WUtEN2hGTmEwR2daeWhnamlXbA?oc=5",
+              "source": "아시아경제"
+            }
+          ],
+          "description": "골드만삭스가 코스피 목표치를 9,000에서 1만2,000으로 대폭 상향 조정했다. 메모리 반도체 호황이 장기화될 것으로 예상하면서 역대급 전망을 제시했다. 최근 2주간 꾸준히 상위권."
+        },
+        {
+          "rank": 2,
           "word": "환율",
           "count": 29,
           "articles": [
@@ -174,71 +197,48 @@
               "title": "원·달러 환율 1500원대 지속",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1USmk0Wk5kTHROZk9ZS2JVWEgyeTlQUER4NEZZVWlLTEhmUFo2ZmY5b211Y0JpbjM0ZmZ0M1RDT280RlRRWW9nbjZkR21PdWhHa2hCWkkyN1lTallYYThBbw?oc=5",
               "source": "뉴시스"
-            },
-            {
-              "title": "코스피, 최고 8900선 터치 후 숨 고르기…환율 1516.4원",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jZDlOcG9pZEoxYVlyV0JZTDZjVkFTTERNbDVPZzFDUVVTUUhKOUFNNy1SZTNISmVQbUt6TTZHZC1xRVFhSUNKMUhNUDJkd1E?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "코스피 사상 최고치 경신, 원·달러 환율 하락 마감",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBraG5Vd1pkRkp4NGxVcUNCNEVFelBSVU1yNTVaeWhrdTFBZXpHQlZybk55cGhwLU1ZcklHdXdkUXNoN2otTFExOFI2UTduZ3lRYVY3a2VlWHAxa0FwZWhaZA?oc=5",
-              "source": "뉴시스"
             }
           ],
-          "description": "원·달러 환율이 1500원대를 지속하며 변동성을 보이고 있다. 13일 연속 1위 키워드."
-        },
-        {
-          "rank": 2,
-          "word": "금리",
-          "count": 29,
-          "articles": [
-            {
-              "title": "물가·금리·환율 '3高' 가속화…'반도체 소외계층' 고통 커질 듯",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JcmhfYW1Qb2pBMF80dklSZXZ4M3pxQTAwejlHVjc0bnNMX2RUT2JjbVRfYnZGcnItWUZRWVVMU2lPSFRJb1VOc0lrb2M1YVlHM2wzcmRkcEJ4Z9IBVEFVX3lxTE5zU1ppZnJhNkJZTG1Vak84VXRHdjZHQ2o0SUE4ZFcxMW1XdWlGWUlUV1RKM2xXQ3BSeHVweTV5d2pnX3F1XzVhNm9NcDhITzVWLURaWA?oc=5",
-              "source": "한국경제"
-            }
-          ],
-          "description": "물가·환율과 함께 금리 상승이 가속화되면서 경제 전반에 미치는 영향이 커지고 있다."
+          "description": "원·달러 환율이 1,500원대에서 지속되고 있다. 최근 2주간 꾸준히 상위권."
         },
         {
           "rank": 3,
-          "word": "코스피",
-          "count": 24,
+          "word": "금리",
+          "count": 22,
           "articles": [
             {
-              "title": "코스피, 8900 돌파 뒤 한때 8500대로 추락…급락 전환",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNSHJBVFNXZDdZSVFQd1Jmc2RvbktEbnRuMEl2T2pFbUNlWXhQWDQ2SThiamk4ZElXbnB4cTJiRkNvTUlQYXhYU2Q4alRxeVFSUUlneQ?oc=5",
-              "source": "JTBC"
+              "title": "물가 지난달 3.1% 껑충… 금리 7월 인상 힘실려",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91bHlRNXpyVy1UTnRNNTJySU53azQzNDdvNGw1R3V6VkhMcjJsWVlHRVVKR25HWE56em1vdmNFNGRwRWxwTUR0NnRWeERZY1k?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "사상 최고치 경신 후 8500대까지 급락하는 등 변동성이 확대되고 있다."
+          "description": "지난달 물가가 3.1% 상승하면서 7월 금리 인상 가능성이 약해지고 있다. 최근 2주간 꾸준히 상위권."
         },
         {
           "rank": 4,
           "word": "부동산",
-          "count": 16,
+          "count": 14,
           "articles": [
             {
-              "title": "\"불로소득 공화국 반드시 탈출\"‥지선 뒤 부동산 '강공 드라이브' 예고",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LcFVoMDUwT3Y5cmNlYXExUmFYemtLS2M2SGRqcGdNM25OMWt1WHhOZmZkMi01SmxtRXd4Qi1KWHgyNUZUU0ljUnFXQkdvVFRHOGVFSi1hRWlpTFJoV2VNeHBUNzhxZWQwX29TVnE5TkN1SHVXbklfSNIBeEFVX3lxTE1BUnhoQzhCb3JTVmRVY1J1VGkxczdOanVwQVVKT2N0ZktjM01MWXB0TTVGcGxaTktkMmNNSmNuQzlhWktLRDM4eGxrWVZqbHVldU1CVk53dW5sX3ZsTGdoS0prbWtDOWQ0YTRGZy1xZEpoVC1sLVVndw?oc=5",
-              "source": "MBC 뉴스"
+              "title": "이 대통령 “반드시 부동산투기공화국 탈출…투표 참가, 세계에 자랑할 대한민국 만들어”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkQlZDRVkyc05WRWMxMTYwLURPVHQ1ZWdLZ096X3piZ3pRcERmUEp5a3cycE5Ib2daMW15dTE0eFl1aXFIRkoxTUR0c2I4YnV6ajFzVzVMdWZOVlU?oc=5",
+              "source": "KBS 뉴스"
             }
           ],
-          "description": "지자체 선거 이후 부동산 규제 강화 정책이 본격화될 것으로 예상되고 있다."
+          "description": "정부가 부동산투기공화국 탈출을 위한 정책 의지를 재강조하며 관련 논의가 계속되고 있다. 최근 2주간 꾸준히 상위권."
         },
         {
           "rank": 5,
-          "word": "외국인",
-          "count": 4,
+          "word": "반도체",
+          "count": 3,
           "articles": [
             {
-              "title": "\"광장시장, 이미 너무 유명해\" 다른 곳으로...K미식 성지 찾는 외국인들[르포] - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tNDFUaVZBVjJXMjVWeGtFQ2RXNERWT19KMjZoQjhVYXJ2SWFGaS1HSVFtTG5ISGI1SXg3MkZwQTFhNEIxV1pWOHVTWE9UZ1NHQnpNem43Ung3M1NaMjNjWmFqWF8wS2lYeWfSAW9BVV95cUxQTDdBc1cwQWd6OTc5NnFVaU1fdTJoNzdUbWhwZXFieHpsNkZ5c21KUkJoNUFvZl9kSTM5a21iLUd1OFhVNnJZb214ZDNCQnRMZFpadEFFek9ET0tMRFZVVHJXbXl4UnZxX1dKdmlpR00?oc=5",
-              "source": "머니투데이"
+              "title": "‘짜장면쇼’에도 칩 까였다…젠슨황 굴욕 준 中 반도체 여제",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JRnZpXzZpMUViX3FuMjJ5Y2xhRmVKWDU3NDd4Wm1GYUh0U2twclN6Yi1WV1dZUVY4SWFhbjdfOHFtMkZlZzBhTUhHWFZWWGxKaGVWbzh3?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "관광객들이 익숙한 명소를 피하고 새로운 한식 맛집을 찾아다니는 추세가 나타나고 있다."
+          "description": "중국의 반도체 여제가 국제 행사에서 최신 칩을 공개하며 글로벌 반도체 시장 경쟁이 심화되고 있다."
         }
       ]
     }
