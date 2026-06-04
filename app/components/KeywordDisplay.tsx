@@ -137,7 +137,7 @@ export default function KeywordDisplay({
                           : "border-zinc-100 dark:border-zinc-800 shadow-sm"
                       }`}
                     >
-                      <summary className={`cursor-pointer list-none select-none ${isTop ? "px-4 py-4" : "px-4 py-3.5"}`}>
+                      <summary className={`cursor-pointer list-none select-none transition-colors active:bg-zinc-50 dark:active:bg-zinc-800/40 ${isTop ? "px-4 py-4" : "px-4 py-3.5"}`}>
                         <div className="flex items-center justify-between gap-3">
                           <div className="flex items-center gap-3 min-w-0">
                             <span className={`text-xs font-bold px-2 py-0.5 rounded-full shrink-0 ${rankBadgeStyle(item.rank)}`}>
