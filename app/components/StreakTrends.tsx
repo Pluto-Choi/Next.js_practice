@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import type { Streak } from "../data";
+import { categoryEmoji } from "../categories";
 
 const PERIODS: { key: string; label: string }[] = [
   { key: "30", label: "1개월" },
@@ -9,12 +10,6 @@ const PERIODS: { key: string; label: string }[] = [
   { key: "180", label: "6개월" },
   { key: "365", label: "1년" },
 ];
-
-const categoryEmoji: { [k: string]: string } = {
-  "오늘의 이슈": "🔥",
-  연예: "🎤",
-  경제: "💰",
-};
 
 // 2026-05-22 → 05.22
 function md(date: string) {

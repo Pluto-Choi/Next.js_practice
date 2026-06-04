@@ -1,15 +1,16 @@
+import { cache } from "react";
 import { promises as fs } from "fs";
 import path from "path";
-import type { KeywordsData } from "./components/KeywordDisplay";
+import type { Article, KeywordsData } from "./components/KeywordDisplay";
 
 const DATA_DIR = path.join(process.cwd(), "data");
 const HISTORY_DIR = path.join(DATA_DIR, "history");
 const DATE_RE = /^\d{4}-\d{2}-\d{2}\.json$/;
 
-export async function loadCurrentData(): Promise<KeywordsData> {
+export const loadCurrentData = cache(async (): Promise<KeywordsData> => {
   const raw = await fs.readFile(path.join(DATA_DIR, "keywords.json"), "utf-8");
   return JSON.parse(raw);
-}
+});
 
 export type TrendEntry = {
   date: string;
@@ -34,23 +35,23 @@ export type TrendsData = {
   streaks: { [period: string]: Streak[] };
 };
 
-export async function loadTrends(): Promise<TrendsData | null> {
+export const loadTrends = cache(async (): Promise<TrendsData | null> => {
   try {
     const raw = await fs.readFile(path.join(DATA_DIR, "trends.json"), "utf-8");
     return JSON.parse(raw);
   } catch {
     return null;
   }
-}
+});
 
-export async function loadHistoryData(date: string): Promise<KeywordsData | null> {
+export const loadHistoryData = cache(async (date: string): Promise<KeywordsData | null> => {
   try {
     const raw = await fs.readFile(path.join(HISTORY_DIR, `${date}.json`), "utf-8");
     return JSON.parse(raw);
   } catch {
     return null;
   }
-}
+});
 
 async function listHistoryDates(): Promise<string[]> {
   try {
@@ -72,6 +73,55 @@ export async function getRecentDates(limit = 7): Promise<string[]> {
 export async function getAllDates(): Promise<string[]> {
   return listHistoryDates();
 }
+
+export async function getAllKeywords(): Promise<string[]> {
+  const trends = await loadTrends();
+  return trends ? Object.keys(trends.keywords) : [];
+}
+
+export type KeywordDetail = {
+  word: string;
+  entries: TrendEntry[]; // 날짜 내림차순
+  daysCount: number;
+  peakRank: number;
+  categories: string[];
+  latestDate: string;
+  description?: string;
+  articles: Article[];
+};
+
+export const getKeywordDetail = cache(async (rawTerm: string): Promise<KeywordDetail | null> => {
+  const trends = await loadTrends();
+  if (!trends) return null;
+
+  let word = rawTerm;
+  let entries = trends.keywords[word];
+  if (!entries) {
+    try {
+      word = decodeURIComponent(rawTerm);
+      entries = trends.keywords[word];
+    } catch {}
+  }
+  if (!entries || entries.length === 0) return null;
+
+  const sorted = [...entries].sort((a, b) => b.date.localeCompare(a.date));
+  const latest = sorted[0];
+
+  // 오늘 등장한 키워드는 history에 아직 없으므로 현재 데이터로 폴백.
+  const source = (await loadHistoryData(latest.date)) ?? (await loadCurrentData().catch(() => null));
+  const keyword = source?.categories[latest.category]?.keywords.find((k) => k.word === word);
+
+  return {
+    word,
+    entries: sorted,
+    daysCount: entries.length,
+    peakRank: Math.min(...entries.map((e) => e.rank)),
+    categories: [...new Set(entries.map((e) => e.category))],
+    latestDate: latest.date,
+    description: keyword?.description,
+    articles: keyword?.articles ?? [],
+  };
+});
 
 export type RankChange =
   | { type: "new" }

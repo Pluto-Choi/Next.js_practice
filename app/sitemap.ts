@@ -3,9 +3,11 @@ import { promises as fs } from 'fs'
 import path from 'path'
 import { CATEGORIES } from './categories'
 import { SITE_URL as BASE_URL } from './site'
+import { getAllKeywords } from './data'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   let dates: string[] = []
+  const keywords = await getAllKeywords()
   try {
     const files = await fs.readdir(path.join(process.cwd(), 'data', 'history'))
     dates = files
@@ -45,6 +47,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(date),
       changeFrequency: 'never' as const,
       priority: 0.7,
+    })),
+    ...keywords.map((word) => ({
+      url: `${BASE_URL}/keyword/${encodeURIComponent(word)}`,
+      lastModified: new Date(),
+      changeFrequency: 'daily' as const,
+      priority: 0.6,
     })),
   ]
 }

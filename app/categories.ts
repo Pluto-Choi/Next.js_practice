@@ -7,3 +7,7 @@ export const CATEGORIES = [
 export function categoryBySlug(slug: string) {
   return CATEGORIES.find((c) => c.slug === slug);
 }
+
+export const categoryEmoji: Record<string, string> = Object.fromEntries(
+  CATEGORIES.map((c) => [c.name, c.emoji]),
+);

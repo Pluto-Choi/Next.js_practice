@@ -1,7 +1,10 @@
 import { Fragment } from "react";
+import Link from "next/link";
 import AdFitBanner from "./AdFitBanner";
 import ShareButton from "./ShareButton";
 import type { RankChange, RankChanges } from "../data";
+import { categoryEmoji } from "../categories";
+import { rankBadgeStyle, cleanTitle } from "../lib/format";
 
 export type Article = {
   title: string;
@@ -28,12 +31,6 @@ export type KeywordsData = {
   categories: {
     [category: string]: CategoryData;
   };
-};
-
-const categoryEmoji: { [key: string]: string } = {
-  "오늘의 이슈": "🔥",
-  연예: "🎤",
-  경제: "💰",
 };
 
 const categoryStyle: {
@@ -74,18 +71,6 @@ const defaultCategoryStyle = {
   summaryBg: "bg-zinc-50 dark:bg-zinc-950/40",
   summaryBorder: "border-zinc-200 dark:border-zinc-900/60",
   summaryText: "text-zinc-600 dark:text-zinc-300",
-};
-
-const rankBadgeStyle = (rank: number) => {
-  if (rank === 1) return "bg-yellow-400 text-yellow-900";
-  if (rank === 2) return "bg-zinc-300 text-zinc-700 dark:bg-zinc-600 dark:text-zinc-100";
-  if (rank === 3) return "bg-orange-300 text-orange-900 dark:bg-orange-700 dark:text-orange-100";
-  return "bg-zinc-100 text-zinc-600 dark:bg-zinc-700 dark:text-zinc-300";
-};
-
-const cleanTitle = (title: string) => {
-  const idx = title.lastIndexOf(" - ");
-  return idx !== -1 ? title.slice(0, idx) : title;
 };
 
 function RankChangeBadge({ change }: { change?: RankChange }) {
@@ -210,6 +195,12 @@ export default function KeywordDisplay({
                             </div>
                           </a>
                         ))}
+                        <Link
+                          href={`/keyword/${encodeURIComponent(item.word)}`}
+                          className="mt-1 inline-flex items-center justify-center gap-1 rounded-xl border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-3 py-2 text-xs font-medium text-zinc-600 dark:text-zinc-300 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
+                        >
+                          📈 '{item.word}' 키워드 추이 보기
+                        </Link>
                       </div>
                     </details>
                   );
