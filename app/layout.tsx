@@ -5,6 +5,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Analytics } from "@vercel/analytics/next";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import { SITE_URL } from "./site";
+import ScrollToTop from "./components/ScrollToTop";
 
 const GA_ID = process.env.NEXT_PUBLIC_GA_ID ?? "G-KGFN3B01DW";
 
@@ -104,6 +105,7 @@ export default function RootLayout({
       </head>
       <body className="min-h-full flex flex-col">
         {children}
+        <ScrollToTop />
         <SpeedInsights />
         <Analytics />
       </body>
