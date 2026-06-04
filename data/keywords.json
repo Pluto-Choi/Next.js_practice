@@ -1,89 +1,89 @@
 {
   "date": "2026-06-04",
-  "updated_at": "2026-06-04 05:55",
+  "updated_at": "2026-06-04 12:54",
   "categories": {
     "오늘의 이슈": {
-      "summary": "경기 평택·부산 북갑 보궐선거 국힘 당선, 지방선거 여당 승리 · 미 증시 엔비디아·델 하락으로 랠리 마무리",
+      "summary": "한동훈 부산북갑 당선·오세훈 서울시장 5선 당선 · 트럼프, 이란과 전면전 재개 안 할 방침 · 이정후 11경기 연속 안타",
       "keywords": [
         {
           "rank": 1,
-          "word": "당선",
-          "count": 4,
+          "word": "한동훈",
+          "count": 2,
           "articles": [
             {
-              "title": "[속보] ‘5파전’ 경기 평택을, 국힘 유의동 당선 “주어진 소임 다할 것”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90MTl5d1ZPcEgyc2JZS3RoNWEwXzJGc2hJMHJEU2hvcl9ZUlYxYkpIU09wcG42c0Y4d2RSRkNDMWZQTXJTNVNyTVN4Q1lMMlN3cDVnbkRuRFJ6QdIBX0FVX3lxTE1RZEZjSU96VjFqUGNRc2h4VWVsb3pPaU1ncUhMM0Fza3VGaHJiUWpQMUtXb2RzN3BLWG1pTlZ1aThqNmJ1R3ZRZmR1RlVLLUtWYmY5Q2t0ckxlbWUxX19Z?oc=5",
-              "source": "경향신문"
+              "title": "[속보]조갑제 “한동훈 돌아왔으니 장동혁, 정치적으로 죽어야 할 때”",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pcjQ5T0NMTkN0d3F5N0JlM2Y5d3ZnZFFYV0ZUUVR6R0ZPR1FVUklMY0Y4bzNENGNwZHkzb2xwTVVuNGdHbEo2aFdjWUt0VGpJ?oc=5",
+              "source": "문화일보"
             },
             {
-              "title": "[속보] 부산 북갑 보궐선거, 무소속 한동훈 당선 “보수 재건하고 이재명 정권 폭주 제어할 것”",
+              "title": "부산북갑 대역전 드라마…한동훈 ‘금배지’ 거머쥐며 날개 달았다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tb2VIUmdBZUZ3LWtmZVV5cF9rMklja0FsV1llWVdFZnp0cEwwalhUVmlzLTZTTWNGSGdTVnRIYllrMGxaeGZDUnUtVFZ4M1dsbW5NTjVR?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "[속보] ‘새벽 2시 역전극’ 무소속 한동훈 부산 북갑 보궐선거 당선 “보수 재건하고 이재명 정권 폭주 제어할 것”",
               "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fXzNjYkNWMkhQc1VCQUR2UzB4ZjVCUGo0Y0VJYnV2d0VqSEtkaE9aVW5JWVdYTmwxRGZ5dTR0M0hSeVIzN0ZFcU12aTR0UHVmUXVTRGlUYVFRd9IBX0FVX3lxTE1ub3R2QzNSYkRhWTRQUThxYXpzM3I3OU9DR0p1Nzc0Vm1VRGFsYlhFY2JsWHUwSllPMFd0QUFMd3czOWE3WDZBNVREUzdPZzM2S0x2SlVrekJhdUFTdWpr?oc=5",
               "source": "경향신문"
-            },
-            {
-              "title": "[6.3 지선] '국회의원에서 기초의원으로'…손혜원 당선",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CSUtQZGp1eXhPNU91a1NCeHhyNG5fUVpqa2ZWVVFUZXRZT1lFd0hzcElpblRMTnNDS0FuMjlJQmhsMU00UDdCX1hia25nVHhodF9makt5YVRPc0nSAWBBVV95cUxNZTF3UEdVc29FaFIzcmotcldRaGdGckotZXBzV1BEd2F0NDB5WlgtNXNMLVN6bmJaZ3dsNFlqNHBUQm1WMGdDc2VWUmtLb05wNTZRMUlmdHg2NkRpMjhPcEQ?oc=5",
-              "source": "연합뉴스"
             }
           ],
-          "description": "오늘 치러진 보궐선거에서 국힘 유의동이 경기 평택을, 무소속 한동훈이 부산 북갑을 당선했다. 지방선거도 동시 진행 중이다."
+          "description": "무소속 한동훈이 부산 북갑 보궐선거에서 새벽 역전극 끝에 당선됐다. 출구조사를 뒤집고 '금배지'를 거머쥐며 정치 복귀를 확실히 했다."
         },
         {
           "rank": 2,
-          "word": "지방",
-          "count": 3,
+          "word": "오세훈",
+          "count": 1,
           "articles": [
             {
-              "title": "여당, 지방선거 승리…이재명에 힘실어준 민심",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZNzRnNEltQXJGWkZZVHVQVEt6QUQ4ejkxY3oxZ2lQTWpvSG9LbUw5WERpUzR0OEdVdW9HSUFhNXJYdDRZRVJGdVYtSnpqVkZNSWFmaHlBcjN0MVVzVEdzdVFicEFHdWVKY3poejEtVjNOelBR?oc=5",
-              "source": "한겨레"
+              "title": "[속보] 오세훈, 출구조사 뒤집고 대역전…사상 첫 5선 서울시장",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aY1VVVjlYSEtvYXlhdjNyOWJNZTRHc25EX29JSmk1SkFXRXN6NkMxanFhSU1CdWF1MnMxNHUwZDRuclY4NEkydDRMVHduRi1jN2lyWE53?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "여당이 지방선거에서 승리를 거두며 이재명에 대한 견제 움직임이 나타났다."
+          "description": "오세훈 서울시장이 출구조사를 뒤집고 대역전 당선되며 사상 첫 5선 서울시장이 된다."
         },
         {
           "rank": 3,
-          "word": "속보",
-          "count": 3,
+          "word": "이란",
+          "count": 2,
           "articles": [
             {
-              "title": "[속보] 랠리 끝낸 美증시 엔비디아·델↓…유가·국채금리 ＇부담＇",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFWDh4ckk3Si1VSnc3b2hBSW9fOGhram9vcTM0bTNYY0JNak4waF9COWdUM0hLUFhoclJ1UXZLRnlTY21fQ1lYdXpnNG1ScjhhWm42aEFZVDhQWVlkbS10YXFhdUVnamdLV2hkOUlOR2Qzamt4S25MSVdtUW8?oc=5",
-              "source": "한국경제TV"
+              "title": "\"트럼프 '미군 사망자 없는 한 이란과 전면전 재개 안 해'\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pTm5vQjROODBPMlJXOGtHRHRocExjbThxN1ZaZUhDdDRJb0ZpVHp5azRZUmtDZ1FublptMTVhN3V0SGROWm0zQkF6UzM5MlpBWWJsMFVmU3hiSjTSAWBBVV95cUxOWk1DTS1pLVdGNUtVREl0Vi15X1YyUmZETkQyNlctLWpkNHZMeDFmTVN0RVFxMGlkcEdtX3owVzgwbFhwRnBTZ09MLVRjc05oRGkybEVsNGZOaFR5Z1FsX0k?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "미국 증시의 랠리가 멈추면서 엔비디아·델 등 기술주가 하락했고, 유가와 국채금리 상승이 시장의 부담으로 작용했다."
+          "description": "트럼프 미국 대통령이 미군 사망자가 없는 한 이란과의 전면전 재개는 하지 않겠다고 밝혔다."
         },
         {
           "rank": 4,
-          "word": "오세훈",
-          "count": 2,
+          "word": "모기",
+          "count": 3,
           "articles": [
             {
-              "title": "20대 여성은 정원오, 남성은 오세훈 더 지지 [출구조사]",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DT0otLW5TekpnMkc3eUtBWk1VN3d4X0ZHWXhSQkp0eWJacFVxenRQem5hZVN5eHBnMUxLeFJsTDI2Yk1ZMndSMzhqbUtrb1kzRFB6T1VqZjdIZ3o0bjByZEdXZlpQUGtwSzNzN2RIQXhqLWZt?oc=5",
-              "source": "한겨레"
+              "title": "“구글이 왜 모기를?”…6400만 마리 풀겠다니, 美 발칵 뒤집힌 이유 [핫이슈]",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lZHA3RVUtVzdvQ0J6LTFZQUZ0aWpOYTR6VjF1ck1kU0FUcTl1TVRhX3NrdENBLS0yM09jOXdJekk5YWx5SzNXRHNubHBsVnN6ZVBBSE9BSDVKRUNQOWVraHhuT08zbFZnQXFSenFrZUE?oc=5",
+              "source": "나우뉴스"
             }
           ],
-          "description": "출구조사에서 20대 남성은 오세훈 지지도가, 같은 연령대 여성은 정원오 지지도가 높게 나타났다."
+          "description": "구글이 유전자 변형 모기 6400만 마리를 방사할 계획을 발표하면서 미국 사회가 큰 관심을 보이고 있다."
         },
         {
           "rank": 5,
-          "word": "접전",
-          "count": 2,
+          "word": "안타",
+          "count": 3,
           "articles": [
             {
-              "title": "지방선거 D-1, 與 \"6곳 접전, 한동훈 거품\" vs 野 \"광역 11곳 수성\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IczFzYUhiemRKNkViSkJvV2JiaF8xcVkyQUZyX1ZXYjhEYktfS0JkUjY4dUM2azUzUW9pVlROemVBUVhHYTdaSlFUZlowWVVEbGU2M1VMbjZ5YTRMckVMUzZyd0VhS2pVMXUyddIBckFVX3lxTE1TQjZIT2JDMlB3NmFqaVVZOS1DTmlTakVQeEwtUWlid1pjc3MyNlo1TUIxWTNZUUtoQkV0ZFhRai1pNmZiWmtKcTMzLVg3VUd2YV9xWWVON0hwX0V1WGZiek5NeG1CUW0xMHZTQUJYalNPdw?oc=5",
-              "source": "머니투데이"
+              "title": "이정후, 기습 번트로 완성한 멀티히트… 11경기 연속 안타 행진",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc2lCQm54MnhaS0ZLQi0zNGw1RmV1bjJzeHBsQm15SDBDN0xlMDhnakY0d1dSNENQSmdpZk1XZ3R6SndVOFhLQ3hqalVDMERKVmNDZWstcWx5b3kyYXozb2h1ejl2cUR6X2JEdFdudVZZYV8xWnRWN3ZOMzJkcThGbGYxeGstZXVuQ1JV?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "지방선거를 앞두고 여당과 야당이 광역·기초 지역을 놓고 치열한 경합을 벌이고 있다."
+          "description": "이정후가 기습 번트로 멀티히트를 완성하며 11경기 연속 안타 행진을 이어가고 있다."
         }
       ]
     },
     "연예": {
-      "summary": "안성훈 vs 송가인 케이팝킹·퀸 경쟁, 나이키·솔로몬 등 스포츠 브랜드 케이팝 협업 확대 · 해체 아이돌의 새로운 삶 모색",
+      "summary": "케이팝 월드컵 현장서 한류 축제 개최 · 신인 아이돌 논란 영상 해명 · 스타벅스 카톡 선물 인기 1위",
       "keywords": [
         {
           "rank": 1,
@@ -91,22 +91,22 @@
           "count": 12,
           "articles": [
             {
-              "title": "안성훈 앞선 케이팝킹 경쟁, 송가인 중심 케이팝퀸 상승세와 팬덤 결집 주목",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fdktuOXhCR0ZZdkFWZDVlWXJfUURaOW4yRlo1QjE4X0k2S0Ftcmp6bmxQakdyM0FCamhSaDkyTkdPZXFuaEl0V0RBS3luOVBiQnVJeGZpMEFKQ1FTUkZ0TUQybGpCaHlrX3hKYktfbHhKdw?oc=5",
-              "source": "TopStarNews"
+              "title": "케이팝 데몬 헌터스 감독, 화개장터서 보여준 남다른 한국 사랑",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xcWtIdUVkcXk3MDROSVZ0RVkyZ2pzMDM0WnpvWHBuSjZ0MXUyTUhGSDB0ZUZEWWUwUHd1dEpDM3RfMmZES2g2bjVoN256X1o5OXp4dE9RNGU0em9DaXVqS2Y0Yk1kbzA?oc=5",
+              "source": "2news.co.kr"
             },
             {
-              "title": "스포츠와 케이팝 협업은 계속된다! 나이키 X BTS, 나이키 X 지드래곤, 솔로몬 X 지수",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xYjd3Ym5LbVlwNE96bzdybnQwQ2pLT0g1b3poNEZlaW9PYkJSMjVRcDZEcHdUb1l4RjNyaFZRM3czVFR3UVk2TVdHckFTZnc?oc=5",
-              "source": "v.daum.net"
+              "title": "멕시코 월드컵 현장서 K컬처 축제…미디어파사드·전통연희·케이팝 총출동",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05cUJnaXd6ZGJnRVVvUzc4Z3cxWi1pOEpnQzRaM3RpS3ZpNk9yVURhOGtUblVwelRZZFZpQjBCOXhtaHpnOF9oNG1NS3htcGtnaWVyZ0dmZG1hWmJf?oc=5",
+              "source": "뉴스핌"
             },
             {
-              "title": "케이팝의 자존심, 샤이니의 새 미니앨범 'Atmos'",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Id0pDVXpzcmhLZlFySXN5MU9vLVVCMDE2OFBPNE1WS2lCYmpIcFhsY1pLVHRvM1Z2aVRUR0luZE5GcktKMWVYUWNrX0hNd0dSRnhZQy1GRFBGdUo2UnNsS1oyQ1VKZ9IBakFVX3lxTE1Dd1FrRnhZX2xoM3NIV05fbTJHWWNTU0N1R1RzWDZEQXc0OUpZSUd5MVhHaHpZUnJHUTc1S2xRSmJURlQyTUU5RnJnYlNnb0hQVTk5ZE1KaTE1WTBPS1NkcEM5aHE1b2hfUmc?oc=5",
-              "source": "아이즈(ize)"
+              "title": "케이팝 조상은 바로 나, 6월5일 국악의 날 전국이 들썩인다",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIMG5WNnBUTFZlUG5xVHFuemJGVFNpSF81cFJrT1FTcVJMMTdrckIxeDNtQThOdW1ham5rcG90OS16Z3ludV83OVA2SmM5MXZtNGQ2S2VVRFlLRDJPVWV0S1B0TzhpMnZS?oc=5",
+              "source": "이치저널"
             }
           ],
-          "description": "케이팝킹 경쟁과 케이팝퀸 상승세가 주목받는 가운데, 나이키·솔로몬 등 글로벌 브랜드와의 협업과 샤이니 신곡 발매가 이어지고 있다. 최근 2주간 꾸준히 상위권을 기록 중이다."
+          "description": "멕시코 월드컵 현장과 국악의 날 행사 등에서 K컬처를 대표하는 콘텐츠로 주목받고 있다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 2,
@@ -114,30 +114,17 @@
           "count": 11,
           "articles": [
             {
-              "title": "[아이돌, 해체 그다음의 삶①] 연예계 밖 세상에 뛰어든 '前아이돌'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VcDJ4ak5tdlh4WFk2T0pEb1hVcDdKSWFxeGRwc3BwazVIaE1iTEUxSjU4ZE1pREQ1ZXVfc1JxSlo1dUlSZkUxZm9Ob1lxZWc?oc=5",
-              "source": "v.daum.net"
+              "title": "‘일베 의혹’ 제기된 신인 아이돌…“논란 영상 어떤 의도도 없어”",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UUWJwcW44YTl4ZkdIYUhwZzJOdTJyckpwbWQtNlhMSTdKN2dNQXV1RVFYYnR6d2c5al9aWUxlOUNYNjNuWmpyS1U3VExMUFpoQkMxSndrNnYyOFluWWpoMjE3R2dDdV9MUHpqa21ySkx3eTIxY1HSAWZBVV95cUxOMzN5MHlsbnEzUURHMWRQcU9WeGRZdmlYUy1SU2FQcnlTR0N2VnBHSTdjNjJlZDAwRHJmUW45TzY1SGs2VGhaelhGSUZsUlE0Z1F1WE12VUZZX2k4QVRnQWxueXRGSnc?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "해체 후 연예계를 떠난 전직 아이돌들의 새로운 삶을 조명하는 기획물이 주목받고 있다. 어제 5위에서 오늘 2위로 순위를 올렸다."
+          "description": "신인 아이돌이 논란 영상 관련 의혹에 휘말려 해명에 나섰다. 어제 5위에서 오늘 2위로 급상승"
         },
         {
           "rank": 3,
-          "word": "한류",
-          "count": 9,
-          "articles": [
-            {
-              "title": "동국대, 한류 성찰 국제컨퍼런스 개최",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSZ3FkT19oQ0JRZm52UlM4djVTR1BNelNubG50MEtiQjZkdnphVHUyRHpWQ2pQNFIxUVo5N1hYZ2ZHeWhWbFE?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "동국대가 한류의 현황과 과제를 짚는 국제컨퍼런스를 개최했다."
-        },
-        {
-          "rank": 4,
           "word": "데몬",
-          "count": 8,
+          "count": 7,
           "articles": [
             {
               "title": "워해머 40,000 팩션 집중분석: 카오스 스페이스 마린 및 카오스 데몬",
@@ -145,10 +132,10 @@
               "source": "Warhammer Community"
             }
           ],
-          "description": "워해머 40,000의 카오스 팩션 캐릭터들에 대한 분석 콘텐츠가 공개됐다."
+          "description": "워해머 40,000의 게임 팩션인 카오스 스페이스 마린과 카오스 데몬에 대한 전략 분석이 다뤄지고 있다."
         },
         {
-          "rank": 5,
+          "rank": 4,
           "word": "헌터스",
           "count": 7,
           "articles": [
@@ -158,66 +145,79 @@
               "source": "서울특별시"
             }
           ],
-          "description": "서울숲에서 즐기는 보물찾기 게임 '가든헌터스'가 운영 중이며, 퀘스트 클리어로 선물을 획득할 수 있다."
+          "description": "서울숲에서 진행되는 보물찾기 게임 '가든헌터스'를 통해 퀘스트 도전과 선물을 즐길 수 있다."
+        },
+        {
+          "rank": 5,
+          "word": "인기",
+          "count": 6,
+          "articles": [
+            {
+              "title": "스타벅스 \"무슨 일 있었나?\"…카톡 선물 ‘인기 1위’ 재탈환",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NY1VOTEgzMHdKc1dWZllVeDItb2lSc09pZ0tjdGYxT3hlX3BzWWNtWUhmVFB3Z1JuVFNvbFBZdVBac19UX1JNSTdhbllxYjExVWVudw?oc=5",
+              "source": "JTBC"
+            }
+          ],
+          "description": "스타벅스 카톡 선물이 인기 순위 1위를 되찾으며 소비자들의 관심을 모으고 있다. 오늘 처음 등장한 키워드"
         }
       ]
     },
     "경제": {
-      "summary": "원달러 환율 1530원 돌파 금융위기 이후 최고 수준·국고채 금리 상승 후 하락·코스피 저평가 평가·부동산 투기 억제 필요·中 반도체 굴기",
+      "summary": "원화 약세로 환율이 금융위기 후 처음 1,530원대 진입, 한은이 외환보유액 투입 · 금리인상 기대로 단기예금 수요 증가 · 코스피 목표치 상향 · 부동산 투기 규제 강화",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 30,
+          "count": 29,
           "articles": [
             {
-              "title": "원달러 환율, 야간거래서 1530원 돌파…금융위기 이후 최고 수준",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Gc0lGRDlxVGY2ZlBCaUp0TUV5SUFiSl9wY3dGaC1uYlNDQ2NCYWdCaHdJeURPUlRnV0dIWjVyTGgzcHQxa0FWUjBtelNtOHVjNDl5RmlR?oc=5",
-              "source": "중앙일보"
+              "title": "[경제]원·달러 환율 1,530원대 개장...금융위기 후 처음",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlTENwb2dSNzlVSmtLT1AtYTFKZUZHWm4wbnllVmJJemZJMVZYTE1tYVpVeDJfeXB5U3R3Um5UZXNmajFkVnNEYi1RNlVzQ2JKanlFU19HZXRZWjZNX2V4QWRwOVV5QkJWMkg3Q3gwWQ?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "한은 경고에도…1500원대에서 꿈쩍않는 환율",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SbVR2bzd5cFlvYlQza3NCemloNUE3NW5JdExYV1RFTjJiUGF6M3MzRGFseHdLaXpyY1VnY0M3QVIwaVBQVVpDRExjeVZBOEhrNFozTFNlNzJJY1NBWHdQQ09XTEJ0ZTI3MldBMFlhcVJZUQ?oc=5",
-              "source": "한겨레"
+              "title": "\"환율 방어에 투입\"…한은 외환보유액 한 달 만에 감소 전환",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmpBTGxibTRINUZyUHozOEFSX3E3S0YtcGpCcXhxS2xrNkRGRkxXU1JJRWg4VDNaQnVRV0NQOUNrUk5faWlnb3N4X092ODdmcHNUa2lTV0pCUkVVb0pmN2xNUGJYUE5BdFFIbHlZX052LUdaTlBOcVdTbHh3SkwtSmZoaTdFcHRfUzR0Zkp3?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "다카이치 日 총리 \"투기적 거래, 환율에 큰 영향…적절히 대응할 것\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BN054RG5SNFB5cEgyRm10QmluNVBkeG9xMlJYVjdHbDc2bVRlQmNlNW5RdExQOGE4V0NDR1BzWTNvMDRHQ3BlWGZwSkNQQVM1SzFXb1VQam5iY2ZtcW9DNFA0X2o5LW9IU1U5dVNNc2w?oc=5",
-              "source": "연합인포맥스"
+              "title": "환율 방어에 투입된 달러…5월 외환보유액 8.8억 달러 감소",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rUE04TjNSRE9GTGJ3UUhCNF94d010cHo4ckFVUkV6UVYxSnliQlBmbVV6VUp2NXR4a0swRGc4NFV1elNfTEUwTFRiMUZTYUZUTWN3U0R2OERJcmI3My0tYtIBeEFVX3lxTE9UNGFFcUZmUksxWkxROXJNWGxkdWhob3hMUnVybU5WMF9TTkpyMW1MSXZ3dFV3SFR6UlkwR291TGlPNEpLM1dWQWlrbGJvSFByVzhBeHVNUjIzdGhZemlxTVpxeVR2b0ExeUZsT2d6WFRtWHladzhvcw?oc=5",
+              "source": "뉴시스"
             }
           ],
-          "description": "원달러 환율이 야간거래에서 1530원을 돌파하며 금융위기 이후 최고 수준을 기록했다. 한은의 경고에도 1500원대에서 안정화되지 않고 있다. 최근 2주간 꾸준히 상위권."
+          "description": "원·달러 환율이 1,530원대까지 오르며 금융위기 이후 처음의 수준을 기록했다. 환율 방어를 위해 투입된 외환보유액이 한 달 만에 감소로 돌아섰다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 2,
-          "word": "코스피",
-          "count": 30,
+          "word": "금리",
+          "count": 27,
           "articles": [
             {
-              "title": "\"한국 증시 아직 싸다\"...골드만삭스, 코스피 1만2000 '깜짝 전망'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YenEzcm1fR09ScFRvU2pkSlczdjNFdG9CUkJPaTJSZnhfVlUtNldla2RKVVkwa1VzTGJ1b2RCZFVUalgwaHpid0NmRG5jcms?oc=5",
-              "source": "v.daum.net"
+              "title": "“금리인상 온다” 배트 짧게 잡는 투자자… 단기예금으로 ‘머니무브’",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpZnhWbEZqczN3Zndib3k0aGJwdjMwUnEzWVlQcU9TdVB4bUNQU2gwRjJlRWZvclJWamx0RkdOVER0emNtb3FGSld6SDdER29PSkFWTFc5emhNY0pKOUltMDZ2ZUVqYnBtcW9MQzkwWlpKaFg2VVHSAWZBVV95cUxNOExuTWVEWlc0SUFtNUhBdUExNUNScmVhSktELS1KLWkyV3o1Tnpha1h4ZnNqQlIzVUYwV25xLXF3c0s1NC1GZC1heFBOMDc0dV9Sc2w3SUl6dW1XelRNTlp4ZjRhTEE?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "골드만삭스가 코스피 1만2000을 전망하며 한국 증시가 여전히 저평가되어 있다고 평가했다. 최근 2주간 꾸준히 상위권."
+          "description": "금리 인상 가능성에 투자자들이 단기예금으로 몰리고 있다. 배팅 기간을 짧게 잡는 '머니무브'가 이뤄지는 중이다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 3,
-          "word": "금리",
-          "count": 20,
+          "word": "코스피",
+          "count": 26,
           "articles": [
             {
-              "title": "'물가 급등에' 국고채 금리 상승 후 하락…3년물 연 3.773%(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZaDU1b0M5QkhYbkxkb2pWcGgwdUVaTUlaVHdEaDVUQXpXT01mbVptV1hIVzVnbG1KOERwdVcyVWtKNHlSS280UGhLMV9ZemRMNmViUm9PaHBUZDA?oc=5",
+              "title": "골드만삭스 \"코스피 목표치 9,000→12,000…강한 실적 모멘텀\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DSDBZWWpPdGN2UjNOaDhVTVF4WnEwVXhjSTVmUWRhT1hfLVJhcldBbExHRGRURVlKTk8tNmZXeWxseElzN0tMbmloYk9QdGhENnVDc2NfQ2RCTlHSAWBBVV95cUxPNm90VzktbGRkckZWNFVIdHZVN2twdGVhNmRsREcybFN4TF9RVml5eVNHcHVaZGFkdElQTWZsQ1ZSS3EtdUZzSkxMVExqdDZydTFvQVZzOTlVaXpKOWdXUW8?oc=5",
               "source": "연합뉴스"
             }
           ],
-          "description": "물가 급등 속에서 국고채 금리가 오른 뒤 하락세를 보이며, 3년물 기준 연 3.773%를 기록했다. 최근 2주간 꾸준히 상위권."
+          "description": "골드만삭스가 코스피 목표치를 9,000에서 12,000으로 상향 조정하며 한국 주가의 실적 모멘텀에 강한 신뢰를 드러냈다. 어제 1위에서 오늘 3위로"
         },
         {
           "rank": 4,
           "word": "부동산",
-          "count": 14,
+          "count": 17,
           "articles": [
             {
               "title": "이대통령 \"집값 비싸도 너무 비싸…부동산 투기 공화국 탈출해야\"",
@@ -225,20 +225,20 @@
               "source": "조선일보"
             }
           ],
-          "description": "이준석 대통령이 집값이 과도하게 비싸다며 부동산 투기 공화국에서 벗어나야 한다고 지적했다. 최근 2주간 꾸준히 상위권."
+          "description": "이준석 대통령이 '부동산 투기 공화국' 탈출을 강조하며 집값 문제의 심각성을 언급했다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 5,
-          "word": "반도체",
-          "count": 3,
+          "word": "외국인",
+          "count": 4,
           "articles": [
             {
-              "title": "‘짜장면쇼’에도 칩 까였다…젠슨황 굴욕 준 中 반도체 여제",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JRnZpXzZpMUViX3FuMjJ5Y2xhRmVKWDU3NDd4Wm1GYUh0U2twclN6Yi1WV1dZUVY4SWFhbjdfOHFtMkZlZzBhTUhHWFZWWGxKaGVWbzh3?oc=5",
-              "source": "중앙일보"
+              "title": "외국인 600여명 바이어로 위장해 국내 초청한 브로커 검찰 송치",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJVHRKSWRuYnFqUHNoaG5xT1ZqcThEZ2tXbDdJWVNxY2JLcG1VZ1U1Qi02OVNJYWtfWHNMUmM3MnNOZE5XcFp1Mi01SGpnMFBsU0JlZXFkSGI4Q1HSAWBBVV95cUxQMjVwSkNIdE9RSl9uME1FVnkwOHZYSXFYdTdNVzZlVUFZWUFxZlNYRUd3VFlLbXdwQnlKa2Z5bUZtR0JRZmlrVGdpdzE3SXg2cVpNelhrSkRJXy1BcTUxM3k?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "중국 반도체 업체가 젠슨 황 엔비디아 CEO가 출연한 예능 프로그램에도 제품을 납입하며 기술 격차를 좁혀가고 있다."
+          "description": "해외 바이어로 위장한 외국인 600여명을 국내에 초청한 브로커가 검찰에 송치됐다. 오늘 처음 등장한 키워드"
         }
       ]
     }
