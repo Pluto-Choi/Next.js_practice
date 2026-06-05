@@ -1,97 +1,98 @@
 {
   "date": "2026-06-05",
-  "updated_at": "2026-06-05 18:47",
+  "updated_at": "2026-06-05 23:49",
   "categories": {
     "오늘의 이슈": {
-      "summary": "투표 용지 부족으로 투표 중단 사태 발생·미 석유업계 유가 급등 경고·오세훈 시장, 명태균 관련 금고 이상 확정시 직위 상실 가능·이 대통령 다음주 유럽 G7 정상회의 참석·이 대통령 소년범 모스 탄 출국정지 유지",
+      "summary": "조정식 국회의장 선출·남인순·박덕흠 부의장 선임 · 이란·이스라엘 중동 갈등 심화 · 투표용지 부족 선관위원장 사의 표명 · 민주당 지방선거 압승",
       "keywords": [
         {
           "rank": 1,
-          "word": "경고",
-          "count": 2,
+          "word": "의장",
+          "count": 3,
           "articles": [
             {
-              "title": "“잔여용지 500매 미만” 경고…4시41분 ‘투표 중단’ 카톡 보니",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qZk9UQURTMTdjRXY4T1ZkMy16QmdSX1JzWU5pSkRibThzS254T2oxNXY2QXpHNzIzWTJ3alhlbmlMUUxuNmZnenZ3X1N0U2g2RUItVnZXUmtIU3RnTDBWU2FIWTJFNFpDcExQejNxZllZQQ?oc=5",
-              "source": "한겨레"
+              "title": "국회의장 조정식 선출…부의장에 민주 남인순·국힘 박덕흠",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UemxkZnpfbVpVT0FlZDNISVZGYXhLczhMdFhwNV92djJoXy1NaENFTjJOUEI0Q29wWGlDOFotc3pDU0pJSFVHWHRsNFAxUmF1Vmltcg?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "미 석유업계, 트럼프 정부에 \"몇 주내 유가 급등\" 경고",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OekVRTFpHcm4wM2ZjMUh1V2FIU2ZGZ2ZnaGVEd2xiU044MlMxUGt6XzZpc1ZRTkxFSHVYenR1Zktfc0M2MlVSTEtDR3Z0QWZZZFFXMm51OXJjalF1eXQ2OFR6bmM4aE9JTVV3b2kwWVJfa2FR0gF0QVVfeXFMTmVNUGtaSzk0cUREZTFndG00LVR2d1RicmJDXzY2dGpvQTRHdlZGT3JPekw5Ymd6LWRyRTJ3X2w2N2tGVmtnQlFaYUZ1UXBUUmVWVkpSUE9rcVlGMHduYlhpaEpHZEdHa09YY09JcEVnLVFyR2o?oc=5",
-              "source": "MBC 뉴스"
+              "title": "레바논 의회의장 \"이스라엘군·헤즈볼라 남부서 동시 철수 지지\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWHhDY2dFa2RtNlpGXzlmVzdUUk1kUmk2MHZ6UHhRdkNGYmhoTGd3Sy1vbjZGN3NjN2tKLWQ0VEkyLU5WZHEyX1pjY3FteDFuRzFkdGdEZVN5MVHSAWBBVV95cUxQVVVEWEtRajJuMkRCR0tna1VpdUs3Vm42MF83RXViVGt4ZDlQN3d2WFpQVjlaaklTNlRWcUxJTnVINGZmVVBFUlQydHRVd1psV1ZWVWk3NEJlMTQ4V2JuUmU?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "\"핸드크림 바른 손으로 '이것' 만지면 큰일\"…의사 경고한 이유",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MaUVvVjJmdGJaOEF6R1FwSzFudktHWjZwdC0xRDlhY0xHekd4dTNXQW1UVmY4RXI3VmloUDE0T2lFejlIZ3VRUlpUZ2tDNDJzeldqck83ZDVWWkNrMUx0MFp3?oc=5",
-              "source": "아시아경제"
+              "title": "국회의장에 조정식 선출… \"속도감 있는 입법\" 약속",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObWgxYkpJbS1sRmtLVElSYXpOa1hQNUtIT2dHOExsQWlMb0cwUGVFY3FFVXdBR2pKNnNQLTg4VXdLWDc1U2N1MkprN09IazdsNnFEaVlUXzhDdGk3WkpUUnluZUp6dTNiWTZDTDdTb3pLd2tQYV96azJNSmlrQ1ZyUGFEMFZVZw?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "투표 용지 부족으로 투표 중단 조치, 유가 급등 우려, 핸드크림 사용 시 주의 필요 등 다양한 분야에서 경고 메시지가 잇따르고 있다."
+          "description": "국회의장에 조정식이 선출됐다. 민주당 남인순과 국민의힘 박덕흠이 부의장으로 선출되며 새 의회 지도부가 출범했다."
         },
         {
           "rank": 2,
-          "word": "오세훈",
-          "count": 2,
+          "word": "철수",
+          "count": 3,
           "articles": [
             {
-              "title": "5선 오세훈에게 남은 ‘명태균 리스크’···금고 이상 확정되면 시장직 잃을 수도",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EdDFEQ3J6SDMxT3RabG1mOFJSbVBZX0d6eEMtNU1PLVRTaXlGQkR4S3BENU5ueTl3bDVuZTI1TFdRa3UwRkdObkxPZEhYSEh5VlF5Z21PV2VDUQ?oc=5",
-              "source": "경향신문"
+              "title": "이란 혁명수비대 \"이스라엘, 전쟁 전 위치로 철수해야…휴전안 반발\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tdDF6TUF0cXd0YmlBMkRfTW1PVzJxWGF0ZHNDM3l4N29BTzJVbWFneWZPc0MxQ2MybVJrQWQ5d0xwNnlHZ1VxaC1pTDR3MnVqNUxCY0E3akpGMEc0VDAyd9IBeEFVX3lxTE5XazRidXVUb0sxMW5jNk0ydFY5WTNJWG9zLXp0X3MzYzFYMHRqd3JuR2dFQ3JVa0l6WjFhb2I1WHp1WXo2bHdXbEU5Xzg0Y1Iya2RiUlc4TjdjVXFmMncwMFYtR1VkYkluMWVCcG95WXJNb0ExUHhRbg?oc=5",
+              "source": "뉴시스"
             }
-          ]
+          ],
+          "description": "이란 혁명수비대가 이스라엘의 전쟁 전 위치 철수를 요구하며 현재 진행 중인 휴전안에 반발했다."
         },
         {
           "rank": 3,
-          "word": "트럼프",
+          "word": "투표",
           "count": 2,
           "articles": [
             {
-              "title": "트럼프 '탈모약' 끊었나... 대통령 의료기록서 사라진 '피나스테리드'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMT2pQazl0Z29vY3ZWajZTYjVjMWttUmZJSUdQR0h3LVVsS0RrU1p4OHVpZEJoVzJWU3NCXzVwZDMtcldiQVZTdExuN3lVRmM?oc=5",
-              "source": "v.daum.net"
+              "title": "노태악 선관위원장, 투표용지 부족 사태에 '사의 표명'‥\"책임 통감\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44QU11NWE0bHJjbWZYQnRNd2c4S3FYYU1uUXppVlJlZjI3X0RYbDFRbkNvMFY2a1BiOHNkVUlMX19WSm5DMXFwVmRKbjNRYUlCNlBIcGs2ems0eHU2d2FKbEFiVVRCLUlTTjFtaGtWazlaTTk2VWdKYdIBeEFVX3lxTE9qMUxHLTREU2Q3YTJUUHY3VURNMmNSaW9WalNvSnRWTEtLbG8zYUlvRG9kTXpJZVhNMGkxelNNcjBNNzJ2Uk83TGoyUGpOTnY1N3lKQUQ4dTJZRkw1SGxPUm1sTF93TEhtTTJGeXN1SERLU2NFU3lLVQ?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "트럼프 대통령의 의료기록에서 탈모약 성분이 사라진 것으로 확인되면서 약물 복용 중단 여부가 관심사가 되고 있다."
+          "description": "노태악 선관위원장이 투표용지 부족 사태에 책임을 통감하며 사의를 표명했다."
         },
         {
           "rank": 4,
-          "word": "정상",
+          "word": "의회",
           "count": 2,
           "articles": [
             {
-              "title": "이 대통령, 다음주 유럽행…G7 정상회의 참석, 교황도 만나",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84TXhrMkpPMWNkUUNPWURvTWlCUmhXMjBoYV9pZ3RnZHQyMEVSSzdEVWV5dHZ4YzMweU9IcmZIb0VFdnJuRHpTTk1HLVJpVDdGVHRFSw?oc=5",
-              "source": "JTBC"
+              "title": "의회 권력 이어 지방 권력도 쥐었다…이재명·민주당의 승리",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tTEZlamFBUWJOVmt6Wk5McjVmTHRMMmVZNTBZa3JnU0FqblJJejZPWFJseENaUF9TOW1KYlZKZE83bGsxSWFQRmltZmdqaEVpcU1VUjhB?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "한국 대통령이 다음주 유럽을 방문해 G7 정상회의에 참석하고 교황을 만날 예정이다."
+          "description": "이재명과 민주당이 의회 권력에 이어 지방 권력까지 장악하며 정치 지형을 주도하고 있다."
         },
         {
           "rank": 5,
-          "word": "유지",
+          "word": "영상",
           "count": 2,
           "articles": [
             {
-              "title": "[속보]‘이 대통령 소년범’ 모스 탄 출국정지 유지···법원, 집행정지 신청 기각",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zYTZPa2RJRDduTlZSdEx3OW5OOEd0aGE1X0xWWjhQRHp4VHU5bVZ0WUE4eWhDTWJzeWdsRVhnRUM4QkUzLWptbzRJVUZoZGhIdUdLa0pWNGZWZ9IBX0FVX3lxTFBvbVl3QXNwaUJZdDMzemw3ZmlVNFY1OG5aVnJJdFN1cWdPb01fcURrQlJqTWlsbFJUT1VneDhHVWlnUjIzdWZNMnpEb0hEbVV0clpCd21lRHJrSkZLSEhN?oc=5",
-              "source": "경향신문"
+              "title": "민주당, 선관위-KBS 홍보영상 '홍어' 논란에 \"일베 대리인이냐\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55aGVpZVdRYlJzMHBRWGtkcy1TMDlMSjFTTlN3R3pRa3ZTT3BWeGZJS01tbmpIcGlIMWRlZ1VBQnVCX1E2ZE16Y1BKR2xHRnFPYm5TbTRSOHU2eVNEMjZJT3NidUNLcmpPUjRTREJudFZocjduYnVpddIBeEFVX3lxTE03WkZOdndBYXhWajZhZ09yNTBaVEllekdrN2wxX3hrdlhYemUzb0xVVS1mSkhNVzFkQ0YxZUhCNkNtOHBQQUJOdHhFU2E2SmZjcEdqbjUtcUlmWVJwTkFib0duX2s1M2U3WmZaUHJUS3drMXlwRS04Ng?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "한 대통령의 소년범 관련 인물에 대한 출국정지 조치가 법원의 집행정지 신청 기각으로 유지되었다."
+          "description": "선관위와 KBS의 홍보영상이 '홍어' 논란을 빚자 민주당이 강하게 반발하고 있다."
         }
       ]
     },
     "연예": {
-      "summary": "크래비티 등 아이돌들의 밈 현상과 샤이니 신곡 'Atmos' 화제 · 스타벅스 카톡 선물 인기 1위 재탈환",
+      "summary": "크래비티 수능 한국사 출연·'레드레드' 등 밈으로 K팝 판 뜨는 코르티스 신드롬·진, 키윙 레이스 1위로 광화문 전광판 장식",
       "keywords": [
         {
           "rank": 1,
           "word": "아이돌",
-          "count": 11,
+          "count": 14,
           "articles": [
             {
-              "title": "크래비티가 EBS에 왜 나와? 아이돌이 들려주는 수능 한국사",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YQ0tVMkhNQnpXRElVTWVodjI2UlRDMnVaeGNxNnpxY1BIM2JFS29qYVR5eHpfb3pwcEozdjJtZGtnVTJIaGJFSkpnbE1jc1U?oc=5",
+              "title": "크래비티, '아이돌이 들려주는 수능 한국사' 세 번째 주자",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZdWU3UGVmX2Mwb0pFZllmdFJMWVhKbFY2VGlnYjZXdDlwcUVIZGUwalBUVGI5U1dxcTJibnI0YlJ5X0RXWkhMVEpGUUU5MTQ?oc=5",
               "source": "v.daum.net"
             },
             {
@@ -100,30 +101,56 @@
               "source": "경향신문"
             },
             {
-              "title": "'망한 아이돌'의 대기업 취준기…'망돌의 이력서' 출간",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CVDdIMjhkam0zTU9lWWdfQW5rU1BFdmlyQV9LVjA0Sm05a0ZXc1NGQXZqME91X0hIeTRCZjR1bHB1YXdHYmQ5Y0F1UnBrdURrR3h6b2JWQndDOGvSAWBBVV95cUxQUWdzTHo1QmRWNHdNSzB1dS1WXzFXbU9OcjRsZ2U1RjZ2NXZSREloaE91SXpESVpDeFE1UmdoN1ctUUpJN0lseEgxdHJfcDdoMWhpX0FVVHR5TERfdUw4T3U?oc=5",
-              "source": "연합뉴스"
+              "title": "르세라핌: 멤버간 문제도, 대중의 비난도 음악으로 풀어내는 '피어리스'한 아이돌",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nUUY5cDhCUUlfdW1tWEdGNWtjaEJLX3lWOTliYnk1b2FjODlrZjhZZmRMYmVfdkV0UUVUUnkzV01pUTR1X1l3ZGp5SmhMX3VJd3kxcWV5OTBvUEZj0gFiQVVfeXFMTWFLUEN3QjkzcVdSOXFMTWhvcndvTEtYS0dRbHh4Z1pMY09XRFNLNkxMQmJJUGtiSnFIczVNbURNQ2RScFhod1pnYUxDWnEtWU5EMGxaM2l4bE5ic2VYMVpZNXc?oc=5",
+              "source": "BBC"
             }
           ],
-          "description": "크래비티의 수능 한국사 출연부터 '레드레드', '영크크' 같은 밈까지, 아이돌들이 교육·문화 전반으로 영역을 넓히는 중이다. 최근 2주간 꾸준히 상위권."
+          "description": "크래비티부터 르세라핌까지 아이돌들이 수능·밈·음악으로 대중과 소통하며 K팝 씬을 주도 중이다. 최근 2주간 꾸준히 상위권."
         },
         {
           "rank": 2,
           "word": "케이팝",
-          "count": 11,
+          "count": 12,
           "articles": [
             {
-              "title": "케이팝의 자존심, 샤이니의 새 미니앨범 'Atmos'",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85YXRxMFRTSXJxSTQ1MC1YY21CX0xsZ3g2TWJuM0hkQkd1T1VaWjdoVnFPbDhhdVp4dEI3NWh2cklxMTl1d2c?oc=5",
-              "source": "v.daum.net"
+              "title": "세종시, '청소년 케이팝 댄스 경연대회' 참가팀 모집",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OcGVzMGJobUdSejRFSm9RUmRXUjRScmZpQm1ZaTJhSExJa0JJSm5VNlRHWVN2MklfTXpaMzFHUkRkMlpxVUpRdExPT1VpZGJkVlVPMmhjbzdoNEnSAWBBVV95cUxNMm92ZmFMOWtyNERXMmtBaUpEZUVqc1NxRDRxYTZ6X3JOZnhyd2UwbW5vem1SR05EM1U1STZwZXlEQnVUV2N5Zm81NzJCcF85SHR3WVZmZnZNZ01rS2E1Vkk?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "샤이니가 새 미니앨범 'Atmos'로 돌아왔다. 최근 2주간 꾸준히 상위권."
+          "description": "세종시 청소년 케이팝 댄스 경연대회 참가팀 모집을 비롯해 K팝 팬 참여 행사들이 활발하다. 최근 2주간 꾸준히 상위권."
         },
         {
           "rank": 3,
+          "word": "한류",
+          "count": 6,
+          "articles": [
+            {
+              "title": "한류 팬들을 위한 특별한 제주 여행...'퍼플 위크 인 제주' 개최",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mYVo1YlMtYmVqSFR1OUZjUnVRMjJMLW9uUTBIcUtwQ1laeERVU3ByRGdMcnBNNXpiUzZoVHFXOFp5a3lTLVBFc2o0NWtySDVLZS1kOHJyYWRNbV9VZDNzZ1FCcHk3V0dEcmJKenRR?oc=5",
+              "source": "헤드라인제주"
+            }
+          ],
+          "description": "제주에서 '퍼플 위크 인 제주' 개최로 한류 팬들을 위한 특별 여행 프로그램이 마련됐다."
+        },
+        {
+          "rank": 4,
+          "word": "방탄소년단",
+          "count": 3,
+          "articles": [
+            {
+              "title": "방탄소년단 진, 키윙 5회차 레이스 1위..광화문 초대형 전광판 장식",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dUN0VUVRTG80SWN2RmpQOFBOem9mM01uMUdkcVJndDU1c0hlb2xBY2VfZlhoYUY1MWZxWXBNd3pYRWdtdGM2X0htaTBhYmc2eEdhSy1FRVhFUzJDOTR5X29JWU93VG9EOXRtY3VoMnlxbzhB?oc=5",
+              "source": "starnewskorea.com"
+            }
+          ],
+          "description": "방탄소년단 진이 키윙 5회차 레이스에서 1위를 차지, 광화문 초대형 전광판에 장식됐다."
+        },
+        {
+          "rank": 5,
           "word": "데몬",
-          "count": 7,
+          "count": 8,
           "articles": [
             {
               "title": "워해머 40,000 팩션 집중분석: 카오스 스페이스 마린 및 카오스 데몬",
@@ -131,105 +158,66 @@
               "source": "Warhammer Community"
             }
           ],
-          "description": "워해머 40,000의 카오스 진영 팩션인 카오스 스페이스 마린과 카오스 데몬에 대한 집중분석이 나왔다."
-        },
-        {
-          "rank": 4,
-          "word": "헌터스",
-          "count": 7,
-          "articles": [
-            {
-              "title": "가부장의 폭력과 자본의 폭력 [정덕현의 문화 헌터스]",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sR181LUszTTRZRlBNaVl1anIxbkZxU1lKNGJKbFJkLVYwdG0zbnFMMDIwNkF0WkRRN1dWQ25EeXUxZkVHVlBRM0xMTWpWX3pJWTBjeDN1ZGpCRW1DQzFwNC1rZnFuRkE2dWRzci1tSdIBc0FVX3lxTE1mMUdodDhCUmQ5Vmgwbm1QZVRUNy1NOVVvcFVNSHUzSTd0TXk1OHlhbVdqMEMxZGZQWFFXeHVJRU52OU9ld2dGSXhHc1ZyT1F5S0NIRkJTTXMtX21vd2pPVnVrc3B6MG1YYVJjYlR5RzBGZzg?oc=5",
-              "source": "여성신문"
-            }
-          ],
-          "description": "가부장의 폭력과 자본의 폭력을 다루는 '정덕현의 문화 헌터스'가 문화 현상을 비판적으로 분석한다."
-        },
-        {
-          "rank": 5,
-          "word": "인기",
-          "count": 6,
-          "articles": [
-            {
-              "title": "스타벅스 \"무슨 일 있었나?\"…카톡 선물 ‘인기 1위’ 재탈환",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NY1VOTEgzMHdKc1dWZllVeDItb2lSc09pZ0tjdGYxT3hlX3BzWWNtWUhmVFB3Z1JuVFNvbFBZdVBac19UX1JNSTdhbllxYjExVWVudw?oc=5",
-              "source": "JTBC"
-            }
-          ],
-          "description": "스타벅스 카톡 선물이 다시 '인기 1위'를 탈환했다."
+          "description": "워해머 40,000의 카오스 데몬 팩션에 대한 분석 기사가 나왔다. 어제 3위에서 오늘 5위로 하락."
         }
       ]
     },
     "경제": {
-      "summary": "환율 1,550원 위협하며 금융위기 이후 최고 수준 · 코스피 4% 급락 · 연준 금리 인하 여력 부족 · 삼성전자 반도체 성과 공유 · 부동산 정책에 서울 30대女 등돌림",
+      "summary": "브로드컴 쇼크로 코스피 급락·달러 강세로 환율 1550원 돌파 · 연준 매파 기조로 금리인상론 재부상 · 부동산 정책에 서울 30대 여성 이탈",
       "keywords": [
         {
           "rank": 1,
-          "word": "환율",
-          "count": 29,
+          "word": "코스피",
+          "count": 32,
           "articles": [
             {
-              "title": "1,550원도 위협하는 환율...금융위기 이후 최고",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43emw3ZUR3U25lZEVieWpMWDJtd1ZOcnQ1TkVUQ0J3TkcySzZ2TVBONWEwaklvUGN4SXhJREE2My1qWmt1MjFKMUozT09FdVJQT3haNC1kcnA5WkxrYUE?oc=5",
-              "source": "YTN"
+              "title": "'브로드컴 충격'에 코스피 급락, 개장 직후 '매도 사이드카'",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6YmZqVFlNaFZnc1lUMjYyai1QcjI4cG80Y1JHSFZfZndTelYxMnBQSFZCTXFQVjBTMUM2S2NvZWhkeVBHc3JEOUtDd0dDYWc?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "'스페이스X' 청약에 수조원 미국으로…환율 변동성 키우나 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FT3l0bl81WVhVZUtORGlicXFaR01DNzhmLXVzTEhDeXBMblpOYTNnMW1SdVpwVXRxOGNwRTU4TmkzZmFwMnRFMkNud1BmVHZCUk9TckswczNUaXFiRmNQcjhLZEt4VWlZ0gFuQVVfeXFMT0paLW5vMndMY1dzcEpoQmNnWnNNYzlaenZiZmlySjE4NXFwM2hhZ2tNbWJUQXc4UVJVbEVRLW9MbmFPWDFXMTRLNDRlTlRCd1NraUJVOEphQ1g3YmxZQVNrSlFMODJVbm15eFFwRHc?oc=5",
-              "source": "머니투데이"
+              "title": "금융주는 왜 올랐나요?…코스피 급락 속 나홀로 강세",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZMHgtanZnRnJGM25TTnVoclJwUXlRTjJ4cDBPQXVFLXV3emhfZ3BmWXZaMVp3aXFubEQzaXZQVmc0cldQbW5DWFBtTmdEY01NWjBIS1p2T0dnUdIBVEFVX3lxTE5Pc3l1RTBsSllfbjUwYlZic25JUzJIT3ZtOWZ5V1VuaWtTREFJVktvNExaLURHWVpQYjROeTlyV0E0dnhUY2VocC1ISlFvVkp1YzVjZQ?oc=5",
+              "source": "한국경제"
             },
             {
-              "title": "[표] 외국환율고시표",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QLUdtbTJPNUNzVkVBLWZlMFdnWWJGUVVPdHBoNkxIdXVHUjBVVDdOREpwaTRSdHJSbF9OT3k2VTRnNmlNbW1Vb2NCeV9uSzZqdlE?oc=5",
-              "source": "매일경제 마켓"
+              "title": "코스피 파랗게 물들었는데 '빨간 기둥'…악재 털어내자 투심 쏠렸다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1STFJocVhqQjVaQ0I2SGVRaXFVNWR2R3FSQlI1THBBOHdDeTJaUThDdWlHZlFfWU5VNldqTC13aTdtUHllWDNFYm56eHJvYXM?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "환율이 금융위기 이후 최고 수준인 1,550원대를 위협하고 있다. 스페이스X 청약 등으로 해외 자금 이동이 늘면서 변동성이 커지는 상황이다. 최근 2주간 꾸준히 상위권"
+          "description": "브로드컴 실적 부진으로 코스피가 급락해 거래 중단(사이드카)까지 발동했으나, 금융주 강세로 낙폭을 좁혔다. 3일 연속 1위."
         },
         {
           "rank": 2,
-          "word": "코스피",
-          "count": 27,
+          "word": "환율",
+          "count": 31,
           "articles": [
             {
-              "title": "[속보] 4% 급락한 코스피, 매도사이드카 발동",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sWkNYME02VmxuN3NES3FrSkZWMFlSZ0xPQ0YyWVlvYllYQXcyZGl5dVBHQ0R6d0JfczliRGtjeFFDX3BONVFncUg2S2hPb3d5THpoMXRVRlFsQdIBX0FVX3lxTFB1SXF1S04tV2lwTFJZME5uU3EyM1VKOUJXOG1yT003RllyOHVGdlZRTGs2bGkxWXNMck5vN2w2c3M5X0JuVnFJOHpjVkhkQnlMSVF3bWVBTWF3YUsxbVBB?oc=5",
-              "source": "경향신문"
+              "title": "달러·원 환율 야간 거래서 1550원 돌파…\"금융위기 이후 최고치\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zZld4ZUFCblBHZXI5YWhCMjR6d0o3Ty1fT01aT3lDVU9LYS1FSGd5a2d1SUNlZ0Q5cDIzNWZ4MDhCMU56QXE1cjE5RXFnQTNrV0RCVnFhYmNka0E?oc=5",
+              "source": "뉴스1"
             }
           ],
-          "description": "코스피가 4% 급락하며 매도사이드카가 발동했다. 최근 2주간 꾸준히 상위권"
+          "description": "달러-원 환율이 야간 거래에서 1550원을 돌파, 금융위기 이후 최고치를 기록했다. 최근 2주간 꾸준히 상위권."
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 17,
+          "count": 16,
           "articles": [
             {
-              "title": "마크 잔디 \"연준, 현재 금리 인하 추진할 여력 없어\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hd2lGQVk0MEtkNS1NUGZoNWdvaXhkMlhBU1ZiNFYxbEZfU0JVcmJuZmV2Sm9NdTFGc3prYk9hd1diYzMzUDB5dVlkcHdMajllVVgwMWE5NGdLR0lMUDBTU0dUU1E0a1pPMUdzZk91U0o?oc=5",
-              "source": "연합인포맥스"
+              "title": "매파 날아든 연준… 금리인상론 고개 든다 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDbEJDTXE2NVFxcC1UVVRQV3N3c3U5djV5QnA0OTZjX1RzeDJjV3pXcElrTkVEWS1WWkFRcHJBY29NWnVkcTlDVlA3WHk4YVpHeTI2bXpmN3RaWnNUUVpKeVdLbVFrMXB30gFuQVVfeXFMUFNrTUxpMk1SX3Fmb2MwZ1Q4QUhmemVWZ3liS2JtLWpSXzJiRFNBWmpIOURET0pBeTFWN2RTNU9BMVZfNFRGa3o3bnluS3c5aTJ1MlVHVmJ3ZUY3VWVBWUJRVTktRk5LektEalNNMWc?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "미 연방준비제도(Fed)가 현 수준의 금리를 인하할 여력이 없다는 평가가 나오고 있다. 최근 2주간 꾸준히 상위권"
+          "description": "연방준비제도의 매파적 입장으로 미국의 금리인상론이 대두되고 있다. 최근 2주간 꾸준히 상위권."
         },
         {
           "rank": 4,
-          "word": "반도체",
-          "count": 3,
-          "articles": [
-            {
-              "title": "삼성전자 ″반도체 성장 성과 국민께″…구매액 20% 온누리로 지급",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0Z1ktcHJmZ1JHUTFIRUxBN0NFbWttWmxEQ3R0R0VHSEN4UGl2OUNBWXhqRDVRa2lSNk9JT2FUS01ZT3F1UmNlX3kxXzNrUWhXU0F1ZEZGaXRJbHY0RHVFZHpyUWNJSDQ?oc=5",
-              "source": "연합뉴스TV"
-            }
-          ],
-          "description": "삼성전자가 반도체 부문 성장을 국민과 함께 나누기 위해 구매액의 20%를 온누리상품권으로 지급하기로 했다."
-        },
-        {
-          "rank": 5,
           "word": "부동산",
-          "count": 19,
+          "count": 18,
           "articles": [
             {
               "title": "“부동산에 민감한 서울 30대女 등돌려”…與내부 자성론 솔솔",
@@ -237,7 +225,20 @@
               "source": "v.daum.net"
             }
           ],
-          "description": "부동산 정책에 민감한 서울 30대 여성 유권자들이 여당에서 등을 돌리고 있다는 분석이 나온다. 어제 3위에서 오늘 5위로 하락"
+          "description": "정부의 부동산 정책에 서울 30대 여성 유권자들이 등을 돌리고 있다며 여권 내에서 자성론이 나오고 있다. 최근 2주간 꾸준히 상위권."
+        },
+        {
+          "rank": 5,
+          "word": "전쟁",
+          "count": 3,
+          "articles": [
+            {
+              "title": "트럼프, ‘전쟁 권한 제한’ 결의안 통과에 분노…쿠바 대통령에 제재 부과",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kZFlUdVc4dlN2R3JkNHZvNXNMbjBiZjY1WkIzeENmX19OU2VGbnRXUkpZWXNRQkZ3OFo4S0NQYnNzX0lJVVpjOFRXRk4zVDA?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "트럼프 대통령이 전쟁 권한 제한 결의안 통과에 분노하며 쿠바 대통령에 제재를 부과했다."
         }
       ]
     }
