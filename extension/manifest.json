@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "오늘의 뉴스 — 오늘의 이슈",
+  "version": "1.0.0",
+  "description": "지금 가장 핫한 '오늘의 이슈' 키워드를 툴바에서 바로 확인하세요.",
+  "action": {
+    "default_title": "오늘의 이슈",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon.png",
+      "48": "icons/icon.png",
+      "128": "icons/icon.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon.png",
+    "48": "icons/icon.png",
+    "128": "icons/icon.png"
+  },
+  "host_permissions": ["https://www.whatnewstoday.com/*"]
+}
