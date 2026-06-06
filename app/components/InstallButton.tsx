@@ -4,6 +4,8 @@ import { useEffect, useState } from 'react'
 
 type State = 'hidden' | 'installable' | 'ios' | 'ios-guide' | 'manual' | 'manual-guide'
 
+type BipEvent = Event & { prompt(): void; userChoice: Promise<{ outcome: string }> }
+
 const INSTALLED_KEY = 'pwa-installed'
 
 const benefits = [
@@ -20,7 +22,7 @@ function isInAppBrowser(ua: string) {
 export default function InstallButton() {
   const [state, setState] = useState<State>('hidden')
   const [inApp, setInApp] = useState(false)
-  const [prompt, setPrompt] = useState<Event & { prompt(): void; userChoice: Promise<{ outcome: string }> } | null>(null)
+  const [prompt, setPrompt] = useState<BipEvent | null>(null)
 
   useEffect(() => {
     const standalone =
@@ -53,13 +55,28 @@ export default function InstallButton() {
     // 기본값: 안내 카드를 항상 보여준다(수동 설치 안내).
     // beforeinstallprompt가 뜨면 원탭 설치로 업그레이드한다.
     setState('manual')
+
+    const win = window as typeof window & { __bipEvent?: BipEvent | null }
+    const useStashed = () => {
+      // layout의 head 스크립트가 하이드레이션 전에 미리 잡아둔 이벤트를 읽는다.
+      if (win.__bipEvent) {
+        setPrompt(win.__bipEvent)
+        setState('installable')
+      }
+    }
+    // 이미 잡혀 있으면 즉시 반영, 늦게 뜨면 bip-ready로 반영.
+    useStashed()
+    window.addEventListener('bip-ready', useStashed)
+
+    // 드물게 head 스크립트보다 늦게 마운트돼 직접 받는 경우도 대비.
     const handler = (e: Event) => {
       e.preventDefault()
-      setPrompt(e as Event & { prompt(): void; userChoice: Promise<{ outcome: string }> })
+      setPrompt(e as BipEvent)
       setState('installable')
     }
     window.addEventListener('beforeinstallprompt', handler)
     return () => {
+      window.removeEventListener('bip-ready', useStashed)
       window.removeEventListener('beforeinstallprompt', handler)
       window.removeEventListener('appinstalled', onInstalled)
     }
@@ -71,6 +88,8 @@ export default function InstallButton() {
       const { outcome } = await prompt.userChoice
       if (outcome === 'accepted') setState('hidden')
       setPrompt(null)
+      // 프롬프트 이벤트는 1회용이므로 전역 스태시도 비운다.
+      ;(window as typeof window & { __bipEvent?: BipEvent | null }).__bipEvent = null
     }
   }
 

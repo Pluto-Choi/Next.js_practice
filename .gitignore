@@ -55,4 +55,12 @@ HEARTBEAT.md
 IDENTITY.md
 SOUL.md
 TOOLS.md
-USER.md.openclaw-cli-images/
+USER.md
+.openclaw-cli-images/
+
+# python cache
+__pycache__/
+*.pyc
+
+# misc local artifacts
+notion_body.json

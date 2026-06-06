@@ -100,6 +100,14 @@ export default function RootLayout({
             __html: `(function(){try{var t=localStorage.getItem('theme');var d=t?t==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;if(d)document.documentElement.classList.add('dark');}catch(e){}})();`,
           }}
         />
+        {/* PWA 설치 프롬프트(beforeinstallprompt)는 React 하이드레이션 전에 한 번만
+            발생하므로 여기서 미리 잡아둔다. InstallButton이 window.__bipEvent를 읽어
+            안드로이드 원탭 설치 버튼을 띄운다. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){window.__bipEvent=null;window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();window.__bipEvent=e;window.dispatchEvent(new Event('bip-ready'));});window.addEventListener('appinstalled',function(){window.__bipEvent=null;try{localStorage.setItem('pwa-installed','1');}catch(e){}});if('serviceWorker'in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('/sw.js').catch(function(){});});}})();`,
+          }}
+        />
         <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
         {/* Pretendard를 렌더 비차단으로 로드한다 (media=print → onload 시 all). */}
         <script
