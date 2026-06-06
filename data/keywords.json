@@ -1,143 +1,156 @@
 {
   "date": "2026-06-06",
-  "updated_at": "2026-06-06 12:23",
+  "updated_at": "2026-06-06 17:33",
   "categories": {
     "오늘의 이슈": {
-      "summary": "서울시장 선거에서 20·30 여성의 민주당 이탈로 오세훈 당선 · 이란의 드론·미사일에 미군 요격 · 미국의 추가 관세에 정부 협의 촉구",
+      "summary": "윤석열 전 대통령 종합특검 첫 출석·계엄 정당화 혐의 조사 · 미·이란 군사 긴장 고조 · 트럼프, 우크라이나 종전협상 추진",
       "keywords": [
         {
           "rank": 1,
-          "word": "민주당",
+          "word": "종합",
           "count": 2,
           "articles": [
             {
-              "title": "‘열성 지지층’ 아닌 ‘심판자’였다…서울시장 선거에서 ‘민주당 불신’ 드러낸 20·30 여성들",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MN0VEYnJsZlZFS0ZKc3dCSHJMY2Noa0RwRjVkYXBYVjZOYXFudG5JRlMyWXUyYUJWb2p6ZExGRnBCSFpfRU8xVndUYTk2Ml9HWmZLUlpDcmVuQdIBX0FVX3lxTFBWelIySEJuUUIwZFJXbGd0RmkxQ1F4SEw2QjhZaVVuUFc3VllMYzE3RjZiVUNObm13YTZ2aGE3QVJESFJvRnMtNnNyel9CNjl0ZTdSeU5IZmtQMTJxaHlB?oc=5",
-              "source": "경향신문"
+              "title": "윤석열, 종합특검 첫 출석…‘계엄 정당화 메시지’ 지시 혐의로 조사",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZNjlhTnAwWHpQUHE5ZUFGOEp2NHBuVGdVcjU2MExpc0N1ZU9jSExzWUN1bXByaUh5WTRwYXg5N1EyaG9OUWN1WkNPR3VLbEw5cHVpeGtSUlA3U2kwN29hLW56RUM0NU5tWWlsVXZ2Qy1IZw?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "“민주당 승리에도 서울 패배, 대통령에 타격” 외신도 주목",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95bDh4SGhFdVlxMFVPbDNUekdZTzdRR2FlYzh2Wi04XzFLZXhzc1JCNURudmlnQjAwYUttRnM5YzZfRnRHQ2VQNkQtbEJ2OTBTUUJRZGRB?oc=5",
-              "source": "중앙일보"
+              "title": "잠실개표소 봉쇄 시위 이틀째…태극기 흔들며 '재선거' 요구(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HaFVEcl8ySVlKY2M2THBvWU15YTlZdHVKQUU4Vy11c2JpQUV4eTE3VzltTzU3YTZFbllvX0pFSVJRcG9jRTg1Z0NYdVNlM2p0TG5vQVNWM2xucWfSAWBBVV95cUxNb0xOeGs2eTQ5QjJ3Q01raklVSWp1eHFnakk5TzZEZTd6RU1odS1zT1UwQ3FOMERkV1dxZGwwSktLLWdxaEV1QVlhLTdsNkkzOTQwSlFmZGw4X0JEOWJMODk?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "고양시 광역의원 12석 민주당 '싹쓸이'…추미애 도정과 시너지 기대",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtSnFneVVYemVJZzVIMEwzRlVlRFJ2WnpiX3JwSzM4SWVnanBpcEpjek5tNkNTWThFVm9uOGR2SjhKQ09OOUtLaTVmSDd6NldCbEU0azR3?oc=5",
-              "source": "뉴스1"
+              "title": "송파 투표지 모자라 수백명 대기…양산선 선거사무원 폭행(종합)",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEJVM0RUSlFqUkVRS2tuTHIwSm5ydDhyamtzaHVIaHpSa0g3MGxuZ3pDeVJ1b09WQVdYd092WVVwaWVqY21yS29CZFFGMy1TWE9MU0Q2X1AwZHNiR0xJbU43T1hkQTRzNHhDVE9zZnF0NXVpdWJYcGVDX0NQR1pySVV0QVlGVnEzY3dpME53?oc=5",
+              "source": "국제신문"
             }
           ],
-          "description": "서울시장 선거에서 오세훈 국민의힘 후보가 승리하면서 민주당의 약세가 뚜렷해졌다. 특히 20·30 여성층이 민주당을 심판하는 모습을 보였고, 외신도 여권의 타격으로 평가했다."
+          "description": "윤석열 대통령이 종합특검에 첫 출석해 계엄 관련 혐의로 조사를 받는 가운데, 개표소 봉쇄 시위와 선거 운영 차질이 이어지고 있다."
         },
         {
           "rank": 2,
-          "word": "지지",
-          "count": 2,
-          "articles": [
-            {
-              "title": "20대 여성은 정원오, 남성은 오세훈 더 지지 [출구조사]",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DT0otLW5TekpnMkc3eUtBWk1VN3d4X0ZHWXhSQkp0eWJacFVxenRQem5hZVN5eHBnMUxLeFJsTDI2Yk1ZMndSMzhqbUtrb1kzRFB6T1VqZjdIZ3o0bjByZEdXZlpQUGtwSzNzN2RIQXhqLWZt?oc=5",
-              "source": "한겨레"
-            }
-          ],
-          "description": "서울시장 선거 출구조사에서 20대 여성은 민주당 정원오 후보를, 20대 남성은 국민의힘 오세훈 후보를 더 많이 지지한 것으로 나타났다."
-        },
-        {
-          "rank": 3,
           "word": "이란",
           "count": 2,
           "articles": [
             {
-              "title": "[속보] 미군 \"호르무즈·걸프국들 겨냥한 이란 드론·미사일 요격\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EQi1tdElZSGRIdWw5a2dhWndlWFZlaFBEVXAwWEpmYmdpQkJYcE0wMHZ3bWJ5OUlQMlVSSk5PUjBaQ1RqV3Npc25DMUdjNzdBbHRkWkJUUEFaOUHSAWBBVV95cUxOWXg3cDlZS2txNTZPRWtsTDRISDc1Nk95TWlTNWt1dVQwUGh5aFFGYk55U0pmMVVOM1JSUXlyVFh5TDctZDRmdVRYNEFaMmRhOEszdUxhcW9BcmhWYjZYLW4?oc=5",
-              "source": "연합뉴스"
+              "title": "미, 이란 해안 군시설 폭격…이란, 걸프국 미군기지에 보복 시도",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KOUNZYTMyTlhGYVloS29uNlJRYUJ0RUJmd0Z3V2pkbkZIU2NrZ3VFU2lRSi1vYzBiQ0cyOHJZb2dwOXhWYnhGM2RENmo0RlU?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "미군이 호르무즈 해협과 걸프 국가들을 겨냥한 이란의 드론과 미사일을 요격했다고 발표했다."
+          "description": "미국이 이란 해안 군시설을 폭격한 후 이란이 걸프국 미군기지에 보복을 시도하며 중동 긴장이 고조되고 있다."
+        },
+        {
+          "rank": 3,
+          "word": "트럼프",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘반란표’에 ‘유가 대란’ 진퇴양난…트럼프, 농축 우라늄까지 포기?",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MS0lsZFdMUGdWeXNEUllkcjh4Xzk5OU1kVTdONHp3OWxzUU1CZEtJTHlqSUFOVFlydktLbW5XbHBrZFowUmJiQjh5Y1VnMUpPNlNhdHZ3?oc=5",
+              "source": "중앙일보"
+            }
+          ],
+          "description": "트럼프 전 대통령이 반란 혐의와 유가 급등 속에서 이란 핵 협상 포기까지 논의되며 국제 이슈에 휘말려 있다."
         },
         {
           "rank": 4,
-          "word": "서울",
+          "word": "종전",
           "count": 2,
           "articles": [
             {
-              "title": "서울 선거 이틀 만에 개표 완료…오세훈, 최종 6만259표 차 승리",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xRUR4bG1FMG1ER2JnNUdlREo5cFNQOWV2aWtHWHkxMUlQUGVQVWFqbkJ5QVVJOWs4Q29UWkhEZllacklSLWxDQ0RrYnNUUGltXy1IY3RJdUI4eDNMNEFZMmRXdUlRV0ZPNGtMS0RrOEFrUFYy?oc=5",
-              "source": "한겨레"
+              "title": "트럼프 “문서로든 군사력으로든 미국이 이길 것”···종전협상 자신감",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94YnY1SGRjZXBJZUtmZEFGcDNwYTd6dEp0b3QwN2lOVHY0Z3NVUVpIUVBDNXdKMFFvMjlOVGRJMUU1aXZ5dGFodUN1bFVPbGFyUUdnd1k5VGU0d9IBX0FVX3lxTE9DNllEOGphbEd0bk1HcGZYN2FfajNzektjNk5KSmJSd2pVMzUxX2R6SFktTF9qeUtHZDRVdmtFY09ScXQ3elNMOGU3eGhRM2hOZGRPbDZtdV9yZVZBQVRN?oc=5",
+              "source": "경향신문"
             }
           ],
-          "description": "서울시장 선거에서 오세훈 국민의힘 후보가 최종 6만259표 차로 승리했으며, 이틀 만에 개표가 완료됐다. 오늘 처음 등장한 키워드."
+          "description": "트럼프가 우크라이나 전쟁 종전 협상에 자신감을 드러내며 미국의 군사력을 강조하고 있다."
         },
         {
           "rank": 5,
-          "word": "미국",
+          "word": "협상",
           "count": 2,
           "articles": [
             {
-              "title": "‘12.5%’ 301조 추가 관세…정부, 미국에 “기존 합의 틀 내에서 협의해야”",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qOWU5MGVwZVAtUm1VQVJOMnRZZ0duQlgwaGlDdTZTTW9TSlRiVDhiMFAwNHRoYzdaQ1hiOHBBcy1SdHM2cXN0UHlOQ3gwR2JBb3BET3AyQ2tvWU1NV0k1Y01vNldONVhJaVpHMk9rekhOUQ?oc=5",
-              "source": "한겨레"
+              "title": "레바논 대통령 \"이란, 우리를 對美 협상카드로 사용…용납 못해\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NWjFpTlNRSjh2bHBNd3NleE9CZXNBRjI0ZF9mcW0wQU5uY3QwMVBCVEFscm9JZEY0RVhyWEg1UGF6c0tDSEprS1l1bFRxb2FiQUdYRktwRXZGM2vSAWBBVV95cUxPLXl1Wm45d3g5LWkybXh4VkI3SGlxcWducTliQ0pHaFdGRV9NSGl0bEJzZHhBYmxJTTJjWVNIMU1USG9SWUd1bGphalRUd3FHWWhXQ1RhRW5NX3IyNnc1ZEE?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "미국이 301조 규모의 12.5% 추가 관세 부과를 예고하자, 정부는 기존 합의 틀 내에서의 협의를 촉구했다."
+          "description": "레바논 대통령이 이란이 자국을 對美 협상 도구로 이용한다고 비판하며 중동 외교 갈등이 심화되고 있다."
         }
       ]
     },
     "연예": {
-      "summary": "한류 창작자들이 AI 숏폼 드라마 추진 · 차은우 군악대 보직 논란 · 넷플릭스 '참교육' 공개",
+      "summary": "방탄소년단 진 솔로랭킹 36주 연속 1위 · 제주 '퍼플 위크'로 한류 관광 활성화",
       "keywords": [
         {
           "rank": 1,
           "word": "한류",
-          "count": 9,
+          "count": 6,
           "articles": [
             {
-              "title": "한국 드라마 한류의 미래를 고민해 온 원조 창작자들이 ‘한국형 AI 숏폼 드라마’라는 새로운 실험에 나선다.",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jZGdBVVFCQWJBM2dybXl2VGRRTzY1WkoxZ0xGRktjUnJ3RTBSc0pQTXRPUWFkbnRMaFU0VnFJY3N1YVFjSGhYM2Jtb0ZpdWhKRzFvaGhwMEU5YkFsM2RCRHdnUWlxU00?oc=5",
-              "source": "파이낸스투데이"
-            },
-            {
-              "title": "동국대, 한류 성찰 국제컨퍼런스 개최",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSZ3FkT19oQ0JRZm52UlM4djVTR1BNelNubG50MEtiQjZkdnphVHUyRHpWQ2pQNFIxUVo5N1hYZ2ZHeWhWbFE?oc=5",
+              "title": "공항에서 받은 스탬프북 하나… 한류 팬들은 왜 제주 골목을 찾아 들어갔을까",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lSFRfUlpNMXJVTHRYNGNJR1NPbDJIVXdNZ2FxNmd4OWZ1cF9ubWs4aVNOTklWeVdxOHB0X2d3UXBpeFpHekl3TUdTLVFFd2M?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "[포토] 제주에도 부는 K-열풍…한류 팬들이 찾는 특별한 여행",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uQzBfWjRjWVB1d3RFRmljdi1rb2hId0x6emZ0bXlqLVd6aWlLR2JEQ1JMNmJzdks4c2FJR2p6dzNYNjZKMzMwdVNPXzctUU9zbnplTkNIWnhUYUp0WmM0bmE0VGNLWHMwSUlz?oc=5",
-              "source": "일간제주"
+              "title": "제주서 한류 관광 즐기고 선물 받자…20일까지 '퍼플 위크' 운영",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Bc0duZjc1bHFaOVhfY2YtZUNUOTVzbl9ZQ2pHSG5uQWlVX1phRE4ycjNsUk1UelREUThyZ2lhS0ZSSTgyUExYZk9SYnNXTl9fY1JwU1NYYjFrTlnSAWBBVV95cUxNY1ptcXlEcXp3MWY5RUwza20yMjZZLWVIcFY3bTVfY2VxTkp6X21BN005cy1kaHRPalJ2ZGNOMHQzenhORFBXRHFNU0p0WFZiNmU1dDlMR09HX0ctb2ZwQ3U?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "BTS·K드라마 등 활용한 한류 콘텐츠로 한국어 배운다",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zU0ZodS1CMHNjY0czY2dKWHc1VjVCUElveHVwYW5VcWVBajRqVWpVcE5feEltdUxfdmRKbGtsRkF2X3QyTFhhR081bHd1NUNKRGZv?oc=5",
+              "source": "네이트"
             }
           ],
-          "description": "한국 드라마 제작진들이 'AI 숏폼 드라마'라는 새로운 형식으로 한류의 미래를 모색 중이다. 한류 성찰 국제컨퍼런스 개최, 제주 여행지로서의 한류 열풍 등 다각적 화제가 이어지고 있다. 어제 3위에서 오늘 1위."
+          "description": "제주에서 진행 중인 '퍼플 위크' 등 한류 관광 콘텐츠가 인기를 끌면서 한류 키워드가 어제 3위에서 오늘 1위로 상승했다. BTS, K드라마 등을 활용한 한류 체험과 관광이 활성화되고 있다."
         },
         {
           "rank": 2,
-          "word": "차은우",
+          "word": "방탄소년단",
           "count": 3,
           "articles": [
             {
-              "title": "\"차은우 군악대 보직 적절한가\" 민원에… 국방부 답변은",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV0hHa1d1c1VmM3I2UWZUTWZraFdqLVNNOXlsS1kzUG1kMHRhdVRHN3V2TlZBVEc3a3JTMlY1bkRScjJIeGxSSVF1Qks4cllFR3NfZXM5RFNUM1FZNTYwaDJfMWxDbU11cWt5Z2JqVzdLSGx3dFBfQ0RkT2hZeTdWT2xTbUdUV05DMnZKaA?oc=5",
-              "source": "조선일보"
+              "title": "방탄소년단 진, ‘팬앤스타’ 솔로랭킹 36주 연속 1위…50주 특전 향해 순항",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wYmxwWEY4bWVtdm5LVHMwVHZYOXBVRXh6QUppVGhqVVh3Si1jc1JhS2pOc0dxclZuSDk3MDZwSzJWYmplU1AtcVNvNzZvMFc1eUdKMndyUno1a0pfTjRraUQzNNIBXkFVX3lxTE1RRGtPSmw5dWN6RDVHeE05VFdqMmw3UzdjbFdhWlFnRUlhV3NTVUYtR1gtMWd2S0pVQzlSWGxpRTBSb1pnYnpPQTBUeFE3Yjg5WVkwNHI0ZG1pOUJOdmc?oc=5",
+              "source": "더팩트"
             }
           ],
-          "description": "배우 차은우의 군악대 보직 배정을 두고 적절성 문제가 민원으로 제기됐으며, 국방부가 이에 대한 답변을 내놓았다."
+          "description": "방탄소년단 진이 '팬앤스타' 솔로 랭킹에서 36주 연속 1위를 유지하며 50주 특전을 향해 나아가고 있다."
         },
         {
           "rank": 3,
-          "word": "넷플릭스",
+          "word": "안효섭",
           "count": 2,
           "articles": [
             {
-              "title": "학폭 가해자에 ‘사이다 액션’…원작 논란 넷플릭스 ‘참교육’ 공개",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HYXpsUkd3bWhrWGkwR09LS3BKVE96d3NwamlTTXRsVXdtREZUMFFjQnhnOG9CWTRtWFVGVlpBZTU0M3hGZXhPUjN1QV92eW5mbWRaYW9heVBMREl1Ym9QZHNR?oc=5",
-              "source": "미주중앙일보"
+              "title": "안효섭, 촬영장서도 다정했다…김서안 \"먼저 다가와 주셔서 감사\" ('오매진')[인터뷰②]",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOMW5iS013bS02ODN0SXFORUR4bDA5MUozc2FMZkhJRVl3WkpmZXRFUUI2UmQ5YkhBUzNmTk82UW9wZURrTWFZQzNlUVd1aURuX1N1SFE1ZlRXdjg?oc=5",
+              "source": "텐아시아"
             }
           ],
-          "description": "넷플릭스 신작 '참교육'이 학폭 가해자에 대한 '사이다 액션'을 다루되, 원작 논란 속에서 공개됐다."
+          "description": "드라마 '오매진' 촬영장에서 안효섭이 공동 출연진 김서안에게 먼저 다가가며 다정한 모습을 보였다."
         },
         {
           "rank": 4,
+          "word": "외국인",
+          "count": 3,
+          "articles": [
+            {
+              "title": "외국인 노동자 빰 때리고, 머리채 잡은 30대 사장 구속영장 기각",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oYTFILUlheXduM1VLaFM0V2ktZU5wVWhIX0pmMXk3T3FiMWtsVENSRkc1RVJvX3BZUFh6VWIzTnM1TldTMkRPR3pfaGRrek03T3pyRXpoZnBRd9IBX0FVX3lxTE82MlNwbmJ0cElPU3VUZzFOSkZoOEhYUGZ5bEJUbjBiRlNucEdzbXNPNk1SLVZZcWVCSVJvSU9pdmN2ekg3cHNscXdTSF92MnR4YmdxbUpZaGNna3JwOFZV?oc=5",
+              "source": "경향신문"
+            }
+          ],
+          "description": "외국인 노동자를 폭행한 30대 사장의 구속영장이 기각됐다. 오늘 처음 등장한 키워드다."
+        },
+        {
+          "rank": 5,
           "word": "데몬",
-          "count": 9,
+          "count": 7,
           "articles": [
             {
               "title": "워해머 40,000 팩션 집중분석: 카오스 스페이스 마린 및 카오스 데몬",
@@ -145,25 +158,12 @@
               "source": "Warhammer Community"
             }
           ],
-          "description": "게임 '워해머 40,000'의 카오스 스페이스 마린과 카오스 데몬 팩션에 대한 전략 분석 기사가 게재됐다."
-        },
-        {
-          "rank": 5,
-          "word": "헌터스",
-          "count": 9,
-          "articles": [
-            {
-              "title": "오늘의 SBS 뉴스헌터스 예고 (6월 5일)",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVVprQ1VNRUlmUHNraFNid1hoRktWWFR3N2dDNTNoWDYyRERaNFc1bllqQllaX3A0bS1BT1JOdTc4bXM4RXNYTGdKV2NMcU5PVTBKenVEX0dZcWhuOWNuTGpsVXA1NnNhdXliYWZjeGQxbWNfX2xyR1hQU0doSDMtOWU1NjlqOTFpRFZMU1JINA?oc=5",
-              "source": "SBS 뉴스"
-            }
-          ],
-          "description": "SBS 시사프로그램 '뉴스헌터스'의 당일 방송 예고가 공개됐다."
+          "description": "워해머 40,000의 카오스 스페이스 마린과 카오스 데몬 진영에 대한 분석 콘텐츠가 게재됐다."
         }
       ]
     },
     "경제": {
-      "summary": "원·달러 환율이 1,550원을 돌파하며 금융위기 이후 최고치 기록 · 코스피 4%대 급락으로 매도 사이드카 발동 · 미 연은 금리 결정 방향 불투명",
+      "summary": "미국 고용 부진으로 뉴욕증시 급락하며 환율 1,560원 돌파 · 코스피 동반 하락 · 부동산 시장 악화 우려",
       "keywords": [
         {
           "rank": 1,
@@ -171,74 +171,74 @@
           "count": 29,
           "articles": [
             {
-              "title": "원·달러 환율, 야간 거래서 1550원 돌파…“금융위기 이후 최고치”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DZk8xUFRwQ0hsc0t3STY4R01QS2QwaXhfbngwV3J6VDgzdnV5bDhsY2FaMXczVW1RbkFPaVZHbTQ4V1N0anNVYzhQb2xLLVY5OFJ5TWFn?oc=5",
-              "source": "중앙일보"
+              "title": "美 ‘깜짝 고용’에 뉴욕증시 급락... 환율 1560원 돌파",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGdlazJmRkNjd0l3TjZ4LTdYSlU2bTBzTFhpbHFoNTdkaXEzVXM2S2JRR1dicXlJZkQ4bURVeDZBd2hkRFY1NkpENmwtN1BQbWZqbUtJN2ZkejZiV0pXLWJjRUtYM1lCOUNhX0VwcThTdWh2SFdoemhwRlNOV08zUkZ4MUtSWVItT0w0?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "당국 개입에도 1,550원 넘보는 환율…\"단기간 진정 어려워\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03U09TYUZSM0p1UjhEN3ZNX3oweENLWEZmb3FvSm5kMVU2aUw4RHYxNDhHc0dVMkNiVHYyMkN5QUZaaGY5VHh1OVVrdk81ajJJNEloQ1pFcmdjZDDSAWBBVV95cUxOYVo4ODQzd1pJTFpGb0kxTk5oYkZEOVpQYmFNY0trU1RaWllqN1hXZVFSYmJ4Rk1DT05rQl92ZENhajY1cWVobjRyRHlEcEpaNG8weVBVS2hBcjMxOU9ZZ3I?oc=5",
-              "source": "연합뉴스"
+              "title": "마이크론 -13%, 나스닥 -4.2% 급락…원달러 환율 1,555원",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qWGdMcS10WWpJVUhVZTl4T3Vid3lEb0hoc2FDaTZQOTZfVHN4ejBncHF5WDltZGY1TU1aYUtobEUxdzdDV09MekhPSmQ2Rms?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "코스피 5% 이상 급락…환율, 금융위기 이후 최고치",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85Ym1VYk53WnpLYy1fb0tPR25BMmMtYlVGR1FyaEVXWDFKSmlTWHYyNXYyZF9la2hBZFBwMThDcm82THZyT0lkSTJaMWZ4YUdwWVA5Vm8yZXZEWFU?oc=5",
-              "source": "KBS 뉴스"
+              "title": "마이크론 -13%, 나스닥 -4.2% 급락…원달러 환율 1,555원",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rLTk1M1kzZ2N1bkp6eFJ2U1FUa0ZUdmE2R1NnbEdfUEExV0F5b1BpbFZBR1dES3c3RndSeWJYdnh2a2xSN0FNY0hxQUVXSDhKQnNINjUydFRBUGFiaVBlNXZBWHZoVVUzalHSAWZBVV95cUxPbGJGRmRTSTY2R2tpckxYTmt3bExnU19JaFBRZ1piaVh6QWJtNHc0VU1uTnh5dWIxVTluUWtXbFNYOXk4MEIweGZZdlozV3gwTGVTNGZtSHQ3RFd1N2ZrLVdOLXJyaVE?oc=5",
+              "source": "SBS 뉴스"
             }
           ],
-          "description": "원·달러 환율이 야간 거래에서 1550원을 돌파하며 금융위기 이후 최고치를 기록했다. 당국의 개입에도 진정이 쉽지 않은 상황이다. 최근 2주간 꾸준히 상위권."
+          "description": "미국 고용 부진으로 뉴욕증시가 급락하면서 원달러 환율이 1,560원을 넘었다. 나스닥 4.2% 하락 등 글로벌 주가 약세가 환율 상승을 주도하고 있다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 2,
           "word": "코스피",
-          "count": 27,
+          "count": 28,
           "articles": [
             {
-              "title": "[속보]코스피, 4%대 급락에 매도 사이드카 발동",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuOHlPbG9Ma0pXUUYxN25ONW1ESzRZMHoyTGpzNW1SRG9FQ3g0b19pRnJSNUZ5a05rWlNqc2FuTklzRUtDQjVHUGh5bTdOVTNK?oc=5",
-              "source": "문화일보"
+              "title": "코스피 '검은 월요일' 온다…\"떨어지는 칼날 잡지마라\"",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wa29ZbFFpUkx2U2xWLXVKd2ppUWNIbmxqMXVOWVgtTjUwd2VSN3AwOFhLT29CUTd4QjhmQlIxLWx5MWgyaGtoeUptRUJBU3lSTDREQXYxakkxRUFUTGZZWmVnb1BlZ2hxRzItNG9RSjA?oc=5",
+              "source": "연합인포맥스"
             }
           ],
-          "description": "코스피가 4%대 급락으로 매도 사이드카(거래 일시 정지 장치)가 발동됐다. 최근 2주간 꾸준히 상위권."
+          "description": "글로벌 증시 약세로 코스피도 내리막길에 접어들었다. 전문가들은 '검은 월요일' 우려 속 신중한 투자 자세를 당부하고 있다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 19,
+          "count": 18,
           "articles": [
             {
-              "title": "샌프란 연은 총재 \"금리 인상·인하 모두 가능…AI 효과 아직 제한적\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMdk9HZUlnMEMyYW9GXzBycjJjMHU5ZzQ0eW1VSG1ZRnFvTnhiQ19ySlFxX0Zmc1ZWVlZvYWI3S21BaGJiUkwtem91S0JDeEpnX19TUnprQXlQajlPZEo4atIBeEFVX3lxTE93U1owWkVJWFU0REp2NkFmZFB4Q1hkLXctOWxqZ1FBMzBndmJjSUgzUjhRRG9mdWFrZlBZNmNXZFAzN3lGcktPRFNyM1JsM2oxSGdrUVFZMy1aZGRyZ0lWZUk0Ym9QVnp0SUpmWEV3ZWxPSnJsZWJMNQ?oc=5",
-              "source": "뉴시스"
+              "title": "금리인상 공포에 패닉셀…주식·채권·금 '트리플 약세'[뉴욕마감] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GSEoyTGJfeU1MOVlfWmh5WkZuM3RQeVI1elNzMGgyS1l5S2NhSTh0czFOZG0wUTNlcHF6djEtenotWUtUSEtlN3BPcGV4VXRpb29MVWlTeS15TmlkMUJEcWF5UUctSW1V0gFuQVVfeXFMUEx0ZUltM2pVbmZkcWw5QksyOXE1M01JWG5UZWJYSGdmc29oN3FmMTFnYjdjQ0VZWlN2WmhoN1I1S3d4ZmpPMzE2VS1NRXhtSkd1WjVWbTNUbW5jSkRSQUxERWF5cmw3TDVDNm4zYmc?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "샌프란시스코 연방준비제도(미국 중앙은행) 총재가 금리 인상과 인하 모두 가능하다며 AI의 경제 영향이 아직 제한적이라고 평가했다. 최근 2주간 꾸준히 상위권."
+          "description": "금리인상 우려로 투자자들이 패닉셀에 나서면서 주식·채권·금 등 주요 자산이 동반 약세를 기록했다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 4,
           "word": "부동산",
-          "count": 19,
+          "count": 14,
           "articles": [
             {
-              "title": "“부동산 민감 서울30대女 등돌려” 여당의 패배 분석",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90NDREV3lPd2lIdUxfVWVZLTRaQ0RGMVc5S0d3b24ya0JpUTRpOHJrY0FaU2E0M2Rmd2ZXYjctb1dCbEM4cDVqTFdzMGxhRnh5?oc=5",
+              "title": "오세훈 “1~2년 내 부동산 참사, 李대통령에 민심 전달”",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QS2VQVzNPSDFCNUJ0Ni10M2RLMDlvSXlwOWd3UkVOOXJPUExQS3BBazNYUkxjUi10eDJrVW4zb3IyeTZSSmVWbjloWTJUUXNa?oc=5",
               "source": "문화일보"
             }
           ],
-          "description": "부동산 정책에 민감한 서울 30대 여성 유권자들이 여당으로부터 돌아선 것으로 분석되고 있다. 최근 2주간 꾸준히 상위권."
+          "description": "서울시장이 1~2년 내 부동산 '참사' 가능성을 경고하며 정부의 정책 변화를 촉구했다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 5,
           "word": "전쟁",
-          "count": 3,
+          "count": 5,
           "articles": [
             {
-              "title": "73년 만에 돌아온 한국전쟁 정전협정문…英장교 소장본 있었다",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SMG1aSVJkN2RObEJBaHBkOXZwazQtYkctWXg3MEZPNWpDNlNTdnJ4eDV1SlphbGozVS0xMDY0VmZVa0lzMFppN0todHJrbVYwM0p0MjFnRWVYeDZhdmlsVw?oc=5",
+              "title": "중동전쟁 끝나야 이득 보는 방산주가 있다고? [주末머니]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MMFluSGZ5b2pydTNWMU43U1BJWkJUYjNyc1ZWc0RqYmNKdlZ1RXZiTG5Da09TMEdBWTlWZG9HUzlvOG9JNVVsMDl2Wl9ENmJtZHdGMVNjaFpNb1g0V0Z1Rg?oc=5",
               "source": "아시아경제"
             }
           ],
-          "description": "73년 만에 영국 장교가 소장하고 있던 한국전쟁 정전협정문 원본이 공개되었다."
+          "description": "중동전쟁과 방위산업주 수익성의 관계에 관심이 쏠리고 있다. 지정학적 긴장과 국방 산업의 영향을 분석하는 투자 전략이 주목받고 있다."
         }
       ]
     }
