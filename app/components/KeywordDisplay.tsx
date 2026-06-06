@@ -164,17 +164,26 @@ export default function KeywordDisplay({
 
                       <div className="border-t border-zinc-100 dark:border-zinc-800 bg-zinc-50/80 dark:bg-zinc-800/30 px-4 py-3 flex flex-col gap-3">
                         {item.description && (
-                          <div className="flex overflow-hidden rounded-xl border border-zinc-100 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-sm">
-                            <div className={`w-1 shrink-0 ${style.line}`} />
-                            <p className="text-zinc-900 dark:text-zinc-50 text-[15px] font-medium leading-relaxed px-3.5 py-3">
-                              {item.description}
-                            </p>
+                          <div className="overflow-hidden rounded-xl border border-zinc-100 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-sm">
+                            <div className={`flex items-center gap-1.5 px-3.5 pt-2.5 pb-1.5`}>
+                              <span className="text-sm leading-none">🤖</span>
+                              <span className={`text-[11px] font-bold tracking-wide ${style.summaryText}`}>AI 요약</span>
+                            </div>
+                            <div className="flex overflow-hidden">
+                              <div className={`w-1 shrink-0 ${style.line}`} />
+                              <p className="text-zinc-900 dark:text-zinc-50 text-[15px] font-medium leading-relaxed px-3.5 pb-3 pt-0.5">
+                                {item.description}
+                              </p>
+                            </div>
                           </div>
                         )}
-                        {item.description && item.articles.length > 0 && (
-                          <p className="text-[11px] font-semibold tracking-wide text-zinc-400 dark:text-zinc-500 uppercase">
-                            관련 기사
-                          </p>
+                        {item.articles.length > 0 && (
+                          <div className="flex items-center gap-1.5 mt-1">
+                            <span className="text-xs leading-none">🔗</span>
+                            <p className="text-[11px] font-semibold tracking-wide text-zinc-500 dark:text-zinc-400 uppercase">
+                              관련 기사 {item.articles.length}건
+                            </p>
+                          </div>
                         )}
                         {item.articles.map((article, idx) => (
                           <a
@@ -182,17 +191,18 @@ export default function KeywordDisplay({
                             href={article.link}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="flex items-start gap-3 group/link -mx-2 px-2 py-1 rounded-lg transition-colors active:bg-zinc-100 dark:active:bg-zinc-700/40"
+                            className="flex items-start gap-3 group/link -mx-2 px-2 py-1.5 rounded-lg transition-colors hover:bg-white dark:hover:bg-zinc-900/60 active:bg-zinc-100 dark:active:bg-zinc-700/40"
                           >
-                            <span className="text-zinc-300 dark:text-zinc-600 text-xs font-medium mt-0.5 shrink-0 w-3">{idx + 1}</span>
-                            <div className="min-w-0">
-                              <p className="text-zinc-500 dark:text-zinc-400 text-[13px] leading-snug group-hover/link:text-zinc-900 dark:group-hover/link:text-white transition-colors">
+                            <span className="text-zinc-400 dark:text-zinc-500 text-xs font-semibold mt-0.5 shrink-0 w-3 tabular-nums">{idx + 1}</span>
+                            <div className="min-w-0 flex-1">
+                              <p className="text-zinc-700 dark:text-zinc-200 text-[13px] leading-snug group-hover/link:text-blue-600 dark:group-hover/link:text-blue-400 group-hover/link:underline underline-offset-2 transition-colors">
                                 {cleanTitle(article.title)}
                               </p>
                               {article.source && (
-                                <p className="text-zinc-500 dark:text-zinc-400 text-xs mt-0.5">{article.source}</p>
+                                <p className="text-zinc-400 dark:text-zinc-500 text-xs mt-0.5">{article.source}</p>
                               )}
                             </div>
+                            <span className="text-zinc-300 dark:text-zinc-600 text-xs mt-0.5 shrink-0 group-hover/link:text-blue-600 dark:group-hover/link:text-blue-400 transition-colors" aria-hidden="true">↗</span>
                           </a>
                         ))}
                         <Link
