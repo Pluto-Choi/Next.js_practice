@@ -14,7 +14,8 @@ export default function AdFitBanner({ adUnit, width, height }: Props) {
   const ref = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
-    if (!ref.current) return
+    const host = ref.current
+    if (!host) return
     if (isPlaceholder(adUnit)) return
 
     const ins = document.createElement('ins')
@@ -23,12 +24,17 @@ export default function AdFitBanner({ adUnit, width, height }: Props) {
     ins.setAttribute('data-ad-unit', adUnit)
     ins.setAttribute('data-ad-width', String(width))
     ins.setAttribute('data-ad-height', String(height))
-    ref.current.appendChild(ins)
+    host.appendChild(ins)
 
     const script = document.createElement('script')
     script.src = '//t1.kakaocdn.net/kas/static/ba.min.js'
     script.async = true
-    ref.current.appendChild(script)
+    host.appendChild(script)
+
+    // 광고 단위/크기가 바뀌거나 언마운트될 때 중복 주입을 막는다.
+    return () => {
+      host.replaceChildren()
+    }
   }, [adUnit, width, height])
 
   if (isPlaceholder(adUnit)) return null

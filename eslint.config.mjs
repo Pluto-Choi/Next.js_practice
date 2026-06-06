@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // 앱 코드가 아닌 로컬 Node(CommonJS) 헬퍼 스크립트.
+    "webhook-sync.js",
   ]),
 ]);
 

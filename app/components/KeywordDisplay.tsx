@@ -209,7 +209,7 @@ export default function KeywordDisplay({
                           href={`/keyword/${encodeURIComponent(item.word)}`}
                           className="mt-1 inline-flex items-center justify-center gap-1 rounded-xl border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-3 py-2 text-xs font-medium text-zinc-600 dark:text-zinc-300 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
                         >
-                          📈 '{item.word}' 키워드 추이 보기
+                          📈 ‘{item.word}’ 키워드 추이 보기
                         </Link>
                       </div>
                     </details>

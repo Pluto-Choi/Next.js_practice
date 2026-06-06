@@ -57,7 +57,7 @@ export default function InstallButton() {
     setState('manual')
 
     const win = window as typeof window & { __bipEvent?: BipEvent | null }
-    const useStashed = () => {
+    const syncInstallPrompt = () => {
       // layout의 head 스크립트가 하이드레이션 전에 미리 잡아둔 이벤트를 읽는다.
       if (win.__bipEvent) {
         setPrompt(win.__bipEvent)
@@ -65,8 +65,8 @@ export default function InstallButton() {
       }
     }
     // 이미 잡혀 있으면 즉시 반영, 늦게 뜨면 bip-ready로 반영.
-    useStashed()
-    window.addEventListener('bip-ready', useStashed)
+    syncInstallPrompt()
+    window.addEventListener('bip-ready', syncInstallPrompt)
 
     // 드물게 head 스크립트보다 늦게 마운트돼 직접 받는 경우도 대비.
     const handler = (e: Event) => {
@@ -76,7 +76,7 @@ export default function InstallButton() {
     }
     window.addEventListener('beforeinstallprompt', handler)
     return () => {
-      window.removeEventListener('bip-ready', useStashed)
+      window.removeEventListener('bip-ready', syncInstallPrompt)
       window.removeEventListener('beforeinstallprompt', handler)
       window.removeEventListener('appinstalled', onInstalled)
     }
