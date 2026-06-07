@@ -14,14 +14,22 @@ export default function Error({
           문제가 발생했어요
         </h2>
         <p className="text-sm text-zinc-500 dark:text-zinc-400 mb-6">
-          잠시 후 다시 시도해 주세요.
+          일시적인 오류일 수 있어요. 다시 시도하거나 홈으로 돌아가 주세요.
         </p>
-        <button
-          onClick={reset}
-          className="px-5 py-2.5 rounded-full bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 text-sm font-medium hover:opacity-80 transition-opacity"
-        >
-          다시 시도
-        </button>
+        <div className="flex items-center justify-center gap-2">
+          <button
+            onClick={reset}
+            className="px-5 py-2.5 rounded-full bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 text-sm font-medium hover:opacity-80 transition-opacity"
+          >
+            다시 시도
+          </button>
+          <a
+            href="/"
+            className="px-5 py-2.5 rounded-full border border-zinc-300 dark:border-zinc-600 text-zinc-700 dark:text-zinc-200 text-sm font-medium hover:border-zinc-500 dark:hover:border-zinc-400 transition-colors"
+          >
+            홈으로
+          </a>
+        </div>
       </div>
     </div>
   )

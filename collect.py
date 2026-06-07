@@ -29,6 +29,8 @@ stopwords_common = {
     '계획', '목표', '효과', '결과', '사업', '행사', '기관', '현장',
     '대응', '혁신', '시행', '후보', '선거', '전시', '총력',
     '의혹', '책임', '완료',
+    # 수식·클릭베이트성 노이즈(광고문구·헤드라인 감탄어에서 단독 추출되는 형용사성 명사)
+    '완벽', '화제', '눈길', '포착', '충격', '깜짝', '감동', '대박',
     # 일반 명사 노이즈
     '뉴스', '한국', '지역', '사회', '국제', '관련', '사진', '인기',
     '이유', '종합', '참고', '세계', '전국', '당시', '경우', '모습',
@@ -243,6 +245,8 @@ def filter_keywords(candidates, category, titles=None):
                     "두루뭉술한 일반명사 조각보다, 같은 사건을 가리키는 구체적 이름이 후보에 있으면 그쪽을 골라라.\n"
                     "- 제거: 그룹명·작품명·브랜드명이 분해된 조각(예: '데몬', '헌터스', '스파이더').\n"
                     "- 제거: 단독으로 의미없는 동사성·상태성 명사(예: 검토, 추진, 본격, 시대, 교섭, 누락).\n"
+                    "- 제거: 광고·홍보 문구나 헤드라인 감탄·수사에서 나온 수식성 명사(예: '완벽', '화제', '눈길', '충격', '깜짝'). "
+                    "사건의 주체·대상이 아니라 기자의 수사일 뿐인 단어는 키워드가 아니다. 제목 예시가 광고/홍보성이면 그 후보는 거르라.\n"
                     "- 경제·사회 현상을 나타내는 핵심 명사(환율·금리 등)는 유지해도 좋다.\n\n"
                     "반드시 위 후보 목록에 있는 단어 중에서만 골라라. JSON 배열로만 답해줘. "
                     "예시: [\"환율\", \"삼성\", \"이란\"]\n\n"
@@ -426,8 +430,10 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
                 if isinstance(d, dict) and d.get("word") and d.get("description")
             }
             for item in keywords:
-                if item["word"] in desc_map:
-                    item["description"] = desc_map[item["word"]]
+                desc = desc_map.get(item["word"])
+                # 요약과 동일하게, 본문이 없다며 거절·사과한 응답은 설명문으로 저장하지 않는다
+                if desc and not _looks_like_refusal(desc):
+                    item["description"] = desc
     except Exception as e:
         print(f"  generate_descriptions 실패({category}): {e}")
     finally:

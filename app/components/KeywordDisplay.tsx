@@ -149,7 +149,7 @@ export default function KeywordDisplay({
                                 {item.word}
                               </p>
                               {(item.description || item.articles[0]) && (
-                                <p className="group-open:hidden mt-0.5 text-xs text-zinc-500 dark:text-zinc-400 line-clamp-1 leading-snug">
+                                <p className={`group-open:hidden mt-0.5 text-xs text-zinc-500 dark:text-zinc-400 leading-snug ${isTop ? "line-clamp-2" : "line-clamp-1"}`}>
                                   {item.description || cleanTitle(item.articles[0].title)}
                                 </p>
                               )}
