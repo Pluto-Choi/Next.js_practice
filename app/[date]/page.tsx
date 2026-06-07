@@ -77,7 +77,7 @@ export default async function HistoryPage({ params }: Props) {
             <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-none" role="navigation" aria-label="날짜 선택">
               <Link
                 href="/"
-                className="px-3 py-1.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors shrink-0"
+                className="px-3 py-2.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors shrink-0"
               >
                 오늘
               </Link>
@@ -85,7 +85,7 @@ export default async function HistoryPage({ params }: Props) {
                 <Link
                   key={d}
                   href={`/${d}`}
-                  className={`px-3 py-1.5 rounded-full text-xs font-medium shrink-0 transition-colors ${
+                  className={`px-3 py-2.5 rounded-full text-xs font-medium shrink-0 transition-colors ${
                     d === date
                       ? "bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 font-semibold"
                       : "bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500"
