@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 import KeywordDisplay, { type KeywordsData } from "../../components/KeywordDisplay";
 import Logo from "../../components/Logo";
 import ThemeToggle from "../../components/ThemeToggle";
-import { buildJsonLd } from "../../jsonld";
+import { jsonLdHtml } from "../../jsonld";
 import { CATEGORIES, categoryBySlug } from "../../categories";
 import { SITE_URL as SITE } from "../../site";
 import { loadCurrentData, getRankChanges } from "../../data";
@@ -43,13 +43,12 @@ export default async function CategoryPage({ params }: Props) {
 
   const single: KeywordsData = { date: data.date, categories: { [cat.name]: catData } };
   const rankChanges = await getRankChanges(single);
-  const jsonLd = buildJsonLd(single);
 
   return (
     <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: jsonLdHtml(single) }}
       />
       <main className="max-w-lg mx-auto px-4 py-6">
 

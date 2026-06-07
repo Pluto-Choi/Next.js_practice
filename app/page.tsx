@@ -5,7 +5,7 @@ import Logo from "./components/Logo";
 import InstallButton from "./components/InstallButton";
 import NotificationButton from "./components/NotificationButton";
 import ThemeToggle from "./components/ThemeToggle";
-import { buildJsonLd } from "./jsonld";
+import { jsonLdHtml } from "./jsonld";
 import { CATEGORIES } from "./categories";
 import { loadCurrentData, getRecentDates, getRankChanges } from "./data";
 
@@ -46,13 +46,12 @@ export async function generateMetadata(): Promise<Metadata> {
 export default async function Home() {
   const [data, recentDates] = await Promise.all([loadCurrentData(), getRecentDates()]);
   const rankChanges = await getRankChanges(data);
-  const jsonLd = buildJsonLd(data);
 
   return (
     <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: jsonLdHtml(data) }}
       />
       <main className="max-w-lg mx-auto px-4 py-6">
 

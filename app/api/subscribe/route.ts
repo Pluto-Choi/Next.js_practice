@@ -8,6 +8,24 @@ type PushSubscriptionJSON = {
   keys: { p256dh: string; auth: string }
 }
 
+// 정식 웹푸시 서비스 도메인만 구독을 허용한다(저장소 없이 스팸 유입 차단).
+const ALLOWED_PUSH_HOSTS = [
+  "fcm.googleapis.com",
+  "push.apple.com", // *.push.apple.com
+  "notify.windows.com", // *.notify.windows.com
+  "push.services.mozilla.com",
+]
+
+function isAllowedEndpoint(endpoint: string): boolean {
+  try {
+    const { protocol, hostname } = new URL(endpoint)
+    if (protocol !== "https:") return false
+    return ALLOWED_PUSH_HOSTS.some((h) => hostname === h || hostname.endsWith(`.${h}`))
+  } catch {
+    return false
+  }
+}
+
 function supabaseHeaders() {
   return {
     apikey: SUPABASE_SERVICE_KEY as string,
@@ -30,6 +48,10 @@ export async function POST(req: Request) {
 
   if (!sub?.endpoint || !sub?.keys?.p256dh || !sub?.keys?.auth) {
     return NextResponse.json({ error: 'invalid subscription' }, { status: 400 })
+  }
+
+  if (!isAllowedEndpoint(sub.endpoint)) {
+    return NextResponse.json({ error: 'invalid endpoint' }, { status: 400 })
   }
 
   // upsert on endpoint conflict

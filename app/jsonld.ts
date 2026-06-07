@@ -47,3 +47,10 @@ export function buildJsonLd(data: KeywordsData) {
     ],
   };
 }
+
+// <script> 태그에 안전하게 박기 위한 직렬화.
+// 키워드는 뉴스 제목에서 오므로 '<'를 \u003c로 이스케이프해
+// 데이터에 '</script>'가 섞여도 태그를 깨고 나오지 못하게 한다.
+export function jsonLdHtml(data: KeywordsData): string {
+  return JSON.stringify(buildJsonLd(data)).replace(/</g, "\\u003c");
+}

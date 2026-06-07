@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 import KeywordDisplay from "../components/KeywordDisplay";
 import Logo from "../components/Logo";
 import ThemeToggle from "../components/ThemeToggle";
-import { buildJsonLd } from "../jsonld";
+import { jsonLdHtml } from "../jsonld";
 import { loadHistoryData, getRecentDates, getRankChanges, getAllDates } from "../data";
 
 type Props = { params: Promise<{ date: string }> };
@@ -52,13 +52,12 @@ export default async function HistoryPage({ params }: Props) {
   if (!data) notFound();
 
   const rankChanges = await getRankChanges(data);
-  const jsonLd = buildJsonLd(data);
 
   return (
     <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: jsonLdHtml(data) }}
       />
       <main className="max-w-lg mx-auto px-4 py-6">
 

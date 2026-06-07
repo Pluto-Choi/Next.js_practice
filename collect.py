@@ -39,6 +39,9 @@ stopwords_common = {
 }
 
 stopwords_economy = stopwords_common | {
+    # 검색 시드 자체(쿼리어)는 표본에 항상 최상위로 박혀 빈도 신호가 무의미해지므로 제외.
+    # 시드를 빼야 그 아래 실제 차별 키워드(물가·투자자·외국인·리스크 등)가 드러난다.
+    '주식', '증시', '코스피', '환율', '금리', '부동산',
     '경제', '재경부', '관리관', '국장', '개발', '활성', '서울', '대한',
     '센터', '브리핑', '강화', '대책', '구윤철', '글로벌', '실용',
     '미래', '인사이트', '리포트', '뉴스룸', '핵심', '유통',
@@ -60,6 +63,8 @@ stopwords_entertainment = stopwords_common | {
     '남자', '여자', '사랑', '결혼', '열애', '이별', '교제',
     '문화', '플러스', '앨리', '리스트', '미소', '오프', '온', '지급',
     '감독', '시즌', '콘텐츠',
+    # 토픽피드(ENTERTAINMENT) 전환 후 올라오는 일반명사·섹션라벨 노이즈
+    '공개', '근황', '자택', '댓글', '성공', '사태', '아들', '스타이슈',
 }
 
 def parse_feed_with_retry(url, retries=3, delay=3):
@@ -686,8 +691,11 @@ def main():
         stopwords_economy,
         "경제",
     )
+    # 연예는 검색 쿼리(시드 편향) 대신 토픽피드를 쓴다.
+    # 검색 시드(아이돌·K팝·영화 등)에 겹쳐 과대계상되던 키워드(예: 케데헌)를 없애고
+    # 중립 표본에서 빈도=중요도 가설이 정직하게 성립하도록 한다.
     keywords_ent = collect_category(
-        f"https://news.google.com/rss/search?q={quote('아이돌 K팝 드라마 연예인 영화')}&when=1d&hl=ko&gl=KR&ceid=KR:ko",
+        "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=ko&gl=KR&ceid=KR:ko",
         stopwords_entertainment,
         "연예",
     )
