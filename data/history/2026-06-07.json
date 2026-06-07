@@ -1,94 +1,68 @@
 {
   "date": "2026-06-07",
-  "updated_at": "2026-06-07 17:55",
+  "updated_at": "2026-06-07 22:57",
   "categories": {
     "오늘의 이슈": {
-      "summary": "투표용지 사태로 재선거 논의 · 환율이 외환위기 이후 최고 수준 · 선관위 외부감사 논의 · 잠실개표소 시위 지속.",
+      "summary": "이란이 미국과 핵 협상 메시지를 교환하며 자산 해제를 요구·한동훈 의원이 선관위 감시 공약 추진·원화 약세에 정부가 투기거래 단속 경고.",
       "keywords": [
         {
           "rank": 1,
-          "word": "투표",
+          "word": "이란",
           "count": 3,
           "articles": [
             {
-              "title": "[속보]장동혁, 투표용지 사태 재선거 요구…“사전투표도 없애야” 대통령 회담 요구",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pMUs4NVlzSE9KVF9MZm9FaWF4YUhzcjJXQlBuOWc2UmgtMERTeUJOZWhOV1M0bVJnRlliT3BSS1RNYmdWcmRwYWFaZlFoOF85?oc=5",
-              "source": "문화일보"
-            },
-            {
-              "title": "윤상현, 장동혁 ‘사전투표 폐지’ 반박…“당일 현장 개표가 현실적”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51MlppZmpSTUhDRTRLaFYyT2UwZ1VuMzhLSFlPTHZuU1FFZU5hYWFNNzVxWW1qUWoyTDJmcjZNejBScHBSd1ZrQU1ocDZsS00?oc=5",
+              "title": "이란 “파키스탄 통해 메시지 교환중”…美에 ‘동결자산 해제·평화적 핵농축’ 공개통첩",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xMWpHRFJYT3l0RWpBU2xxSkFxVWRXbVJhX0EyZV9QX082a1U2dG9hblJIeEY1TDJVc0lScVcxcXFUT082WmtLd1ZkVlVCMlU?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "여야, `투표용지 부족` 진상 규명 목소리…장동혁 “재선거” 주장",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjNJbkVFWHVqdDdpYVBxVnBObkNmZmVidHZFQ1o3UUljUlNjX1k2TDE2MTItT0xveVNmam95NG5XNDBUSUp4amFMWUZCX3pCLW5seW5NckdSbTVvSzRLV3R0aldUZG5wZ0RuWGN3WmNIYXZNYTZ3VHg3SWhHT1UwcWdDT1ppWFE5a3hkMW13?oc=5",
-              "source": "국제신문"
+              "title": "미군 \"대이란 해상봉쇄로 지금까지 132척 회항·6척 무력화\"",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd09ObmROUW9pN19TbXNFUnBzWXBYQXBXaG1OWGpabFBMcmFYZHRMbkNrRDNCX25vMERXeVRINElTb1dZaVFVbXo5aFJQam5YeXFIUXJJRGQxMjBBNVRXTVI5ejRvR1liaHUwNzRDOE9zcEJCbXBrWXF3UWdoeDk3THk0TzhyTlY4aWdQOFBQbw?oc=5",
+              "source": "SBS 뉴스"
+            },
+            {
+              "title": "전쟁 100일 넘겼다…이란, 마음 급한 트럼프에 ‘추가 요구’ 공세",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkMzdCMkZudks1czRWVmdJeGxtRndCYzRyOHRoX01jNUVrQldMRnROam5mdFpwMXdXU2lQX3ZzdkJnQzc1WFdnMWl0NzhLSWc?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "지난 투표에서 투표용지 부족 사태가 발생한 가운데, 야권에서 재선거를 요구하며 사전투표 폐지까지 주장하고 있다. 여야가 진상 규명에 나섰다."
+          "description": "이란이 파키스탄을 통해 미국과 메시지를 교환하며 동결자산 해제와 평화적 핵농축을 요구하고 있다. 미군은 해상봉쇄로 132척 회항, 6척 무력화를 보고했다."
         },
         {
           "rank": 2,
-          "word": "환율",
-          "count": 2,
+          "word": "한동훈",
+          "count": 1,
           "articles": [
             {
-              "title": "외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CaEpPSWJ3THhHZ1dtYjJwUnpQU1NaOUl2c0t2Vi1JX2VnTkZRNGQxQVpPN09OTUhRZjd4a1RYYWxSNkE3TVRwZk5ta3RGQmZPNTJFOTVxX1gwbXfSAWBBVV95cUxQWGVTOWxQeWtQdnpEU1hOOHRoUzlqblJNMFYzQkpCSVJRSVYwbmVFZzBNZ2lfTE5ZcTM4U1BZSUxDYmhvaVp3RmNXcUVDZEdFZXNibk52V3JkSkU3V210WXQ?oc=5",
-              "source": "연합뉴스"
+              "title": "국회의원 된 한동훈 첫 일성 “선관위 외부감사 받게 할 것”…감사원법 개정안 발의 예고",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uYWdIX0RlM2FvbWNib0RwM1V5VEEzRFRqWGZsN2dPUFVOU1pVNFFfSFJSdjNsQ05aenlBbkRibnNIM2hXa0gtaGJCamhEaldk?oc=5",
+              "source": "문화일보"
             }
           ],
-          "description": "외국인 매도세에 밀린 2분기 환율이 외환위기 이후 최고치를 기록했다. 공항철도 역에서는 달러당 1,620원대로 거래됐다."
+          "description": "국회의원이 된 한동훈이 선관위 외부감사를 실행하기 위해 감사원법 개정안 발의를 예고했다."
         },
         {
           "rank": 3,
-          "word": "손목",
+          "word": "투기",
           "count": 2,
           "articles": [
             {
-              "title": "\"몸 만들려다 손목부터 다친다\"…여름철 손목건초염 주의",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoOFlrZjROTFZrWGl2NDJBOGI1TWxPUm85cFBQVHM4WVhwUGZoRWg1UzdCcXluaVpFT1JsMzBtRXJZSDhnZzRfS2JIZ0oxcUpaUlBOZWF1azdoYndKZHFZeFhMVlhLa2lycG9Ueg?oc=5",
-              "source": "매경헬스"
+              "title": "원화값 1560원까지 밀리자 … 정부 \"투기거래 용인 않겠다\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tanlLRUVkOWFJcnhiLVZYR1NIQllBdlJ2c00tT2ZCWlRfQ19pV1ZKNUdwWnZubVF5NXlVU1RwajV4VkpYbUdPY19ZTW1JdHc?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "여름철 운동으로 인한 손목건초염 증가에 대한 주의가 나오고 있다. 전문가들은 운동 전 충분한 스트레칭과 올바른 운동 자세를 강조한다."
-        },
-        {
-          "rank": 4,
-          "word": "선관위",
-          "count": 2,
-          "articles": [
-            {
-              "title": "한동훈 “선관위 외부감사 받아야…감사원법 개정안 발의”",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0YWtiNlpQU2RHZG9hemFNMmV5MlJOcDFPM1VWX192RVp0eFdHYXYtOEsyN1AtWDNUblgzTXJxYUhrNENIWWh3clNsQThMWEcyN3F1NFdpdWp0NXFHQ0p5YklvbkotdGZyUURZZHRFUVJ4QV9PTEY00gFmQVVfeXFMUERYaW4ycU1GNXN3WHJESTEwM0I4UjNLWFFhcjhuN1I4UllmNXhMUS1NUTMyWHEtZ240REdaY0ZQSGtSZzZGY0lUdUplRnhjTUUySTNwenZONTVDaVUyZ3NQSm1GVnBn?oc=5",
-              "source": "동아일보"
-            }
-          ],
-          "description": "한동훈 의원이 선거관리위원회의 외부감사를 주장하며 감사원법 개정안을 발의했다. 선관위 투명성 강화 논의가 대두됐다."
-        },
-        {
-          "rank": 5,
-          "word": "시위",
-          "count": 2,
-          "articles": [
-            {
-              "title": "잠실개표소 봉쇄시위 사흘째…\"성조기 자제\" 지침에 갈등도",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xRnJlYWJzbHNqbl9fRVJKb2dlN0NNNnI5WlAxMnQwSnNHS1Y5d0I0MGRmQjVLZDN6enpKTWNQYXNMV25fRldrQTV4NURUT2p4OWpHWjRuVnlVZXPSAWBBVV95cUxNaFNPdzV1dkhhY1BIVHVpdzFDVnY1MTVoTnpWeHdlYW1PVk5ILThadGxKRm5FYXJpM25SSmFBaS0wbnR0Z3B2S2N5R044YUxpMGdoekp0bTNaTlctNVhFVks?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "개표소 봉쇄 시위가 사흘째 계속되며 성조기 자제 지침을 두고 참여자 간 갈등이 빚어지고 있다."
+          "description": "원화값이 1560원까지 약세를 보이자 정부가 투기거래를 용인하지 않겠다는 입장을 밝혔다. 오늘 처음 등장한 키워드"
         }
       ]
     },
     "연예": {
-      "summary": "한류 제주 관광 확산·김새론 광고주 손배소 재개·방탄소년단 진 솔로랭킹 1위 지속·제니 패션 트렌드.",
+      "summary": "한류 팬덤이 제주 로컬여행으로 확산되고, 방탄소년단 진이 일본 빌보드 차트 1위를 차지했으며, 블랙핑크가 고티에와 협업하며 한류 영향력을 넓혀가고 있다.",
       "keywords": [
         {
           "rank": 1,
           "word": "한류",
-          "count": 6,
+          "count": 11,
           "articles": [
             {
               "title": "제주에도 부는 K관광 바람… 한류 팬덤, 제주 로컬여행으로 잇는다",
@@ -106,69 +80,56 @@
               "source": "네이트"
             }
           ],
-          "description": "제주 관광부터 순수예술, 서울 강북 재정비까지 한류 영향력이 관광·문화·도시정책 전반으로 확대되고 있다. 최근 2주간 꾸준히 상위권"
+          "description": "제주 관광부터 서울 강북 재개발까지 한류가 지역 관광과 도시 정책을 움직이고 있다. K팝을 넘어 순수예술 영역으로 확산되는 추세 속에서 정부도 한류 전담조직을 신설하며 지원에 나섰다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 2,
-          "word": "김새론",
-          "count": 2,
+          "word": "케데헌",
+          "count": 7,
           "articles": [
             {
-              "title": "‘김수현 의혹 제기’ 김세의 검찰 넘겨지자… 광고주 손배소도 속속 재개",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHNzS2k2Q2hlWWJNRUNhX2RDbkhqUXJMcHNSS3BPd24yVzdvcU5ZQVZhaUJ1aGlQM3JxVjdMLUg4MDE2S0pPbVh4bmhRU1M4ZDdUb05UQXBHVEwtNzNlR2VtZFRqY3J2ZGNyYXB5Ync3cHBqRVl1V2FldEt0cmxaTkVaSkhrekk?oc=5",
-              "source": "조선일보"
+              "title": "유재석 만난 젠슨황…‘케데헌-골든’에 어깨춤까지",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BQ2RwVkFpeU8yUmFiX2xqSndrOWxFVW9tNGtEUGR3NUszcUtyaTdBd1JCaUhxWVZVemNDczRGVVVKWjBjRE5PWUUzUEVLemxi?oc=5",
+              "source": "문화일보"
             }
           ],
-          "description": "배우 김새론이 검찰에 넘겨지면서 연루된 광고주들의 손해배상소송이 속속 재개되고 있다."
+          "description": "엔비디아 최고경영자 젠슨황이 유재석을 만나며 한국 방송과 글로벌 기업계의 만남이 화제다. 케이팝 페스티벌과 골든글로브 같은 대형 문화 행사들이 동시에 주목받는 중이다."
         },
         {
           "rank": 3,
           "word": "방탄소년단",
-          "count": 3,
-          "articles": [
-            {
-              "title": "방탄소년단 진, ‘팬앤스타’ 솔로랭킹 36주 연속 1위…50주 특전 향해 순항",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wYmxwWEY4bWVtdm5LVHMwVHZYOXBVRXh6QUppVGhqVVh3Si1jc1JhS2pOc0dxclZuSDk3MDZwSzJWYmplU1AtcVNvNzZvMFc1eUdKMndyUno1a0pfTjRraUQzNNIBXkFVX3lxTE1RRGtPSmw5dWN6RDVHeE05VFdqMmw3UzdjbFdhWlFnRUlhV3NTVUYtR1gtMWd2S0pVQzlSWGxpRTBSb1pnYnpPQTBUeFE3Yjg5WVkwNHI0ZG1pOUJOdmc?oc=5",
-              "source": "더팩트"
-            }
-          ],
-          "description": "방탄소년단 진의 솔로곡이 '팬앤스타' 솔로랭킹에서 36주 연속 1위를 기록했다."
-        },
-        {
-          "rank": 4,
-          "word": "제니",
           "count": 2,
           "articles": [
             {
-              "title": "제니가 짧은 치마 대신 고른 '이 스타일'이 뜹니다",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Nb2duSW40VUhaSEZiRlpVRnlRTVVHYTRPWUNiOVdJYlhzOVNtSTZFMzYyNFZ3X1lVamJ1TWVGQ0tpd2ZVdWp0NmR1SzhiRms?oc=5",
-              "source": "ELLE"
+              "title": "방탄소년단 진, 日서도 K팝 대표 주자 우뚝! '빌보드 재팬 2026 상반기 결산' 핫100·아티스트100 K팝 솔로 1위·유일",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rdTF0RjN1WDBXTl9vNnE2dVU0M2YzRkZkajZiOThwUHZaZ2FMdGpUVlpqTkFGTWIyNXFWNnFMRy15TFhLT3c?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "제니가 짧은 치마 대신 선택한 새로운 스타일이 패션 트렌드로 주목받고 있다."
+          "description": "방탄소년단 진이 일본 빌보드 2026년 상반기 결산에서 K팝 솔로 아티스트로는 유일하게 핫100과 아티스트100 차트 1위를 동시 석권했다."
         },
         {
-          "rank": 5,
-          "word": "완벽",
-          "count": 4,
+          "rank": 4,
+          "word": "블랙핑크",
+          "count": 2,
           "articles": [
             {
-              "title": "계획대로 안 돼도 괜찮아…에어비앤비, 완벽하지 않아 완벽한 여행 제안",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOR0RTR1FhVG9zRzhmNXVWQ3FZN0laZlluZzQ2c3V1dWVrOExPVDZLT3kzZmtrX2tPOTNuM0JRTmNOMHM4Wnd2ejl2aE5MMUVCdWQwRUQ1aTBfZ9IBWEFVX3lxTE5lSmJnWXpWLXFaZkJTNVhQOHRCRjE1bFNVRUNGS3Y3aWNCN3FUNkZUd0l3dWl4THlGM3hjUTI2SExnamdvaTQtT0FhRU0tSVI3SldqUzM4RlE?oc=5",
-              "source": "아주경제"
+              "title": "고티에 카퓌송 “블랙핑크 협업, 문화적 충격이자 경이” [인터뷰]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JVDRBRklWTXFqVXZvOU1JUkF4UkVGSjdiQTR3dTc1NjduZ0lzWkgyU2ZFdHc3U2JNNU43YnlFRk1WMFUxU3VQMHBiTGwwY0l0ZmJOTDJR?oc=5",
+              "source": "헤럴드경제"
             }
           ],
-          "description": "에어비앤비가 '완벽하지 않은 것도 좋은 여행'이라는 메시지로 새로운 여행 트렌드를 제안하고 있다."
+          "description": "블랙핑크가 명품 브랜드 고티에와 협업하며 '문화적 충격'으로 평가받고 있다. 오늘 처음 화제의 중심에 올랐다."
         }
       ]
     },
     "경제": {
-      "summary": "외국인 매도로 환율이 2분기 이후 최고치를 기록했고, 연준 금리인상 전망에 뉴욕증시가 급락하면서 코스피도 변동성이 커질 것으로 예상된다 · 부동산 정책에 서울 30대 여성이 등을 돌리고 있다 · 불닭 창시자가 회장 취임 후 자녀에게 주식을 증여했다.",
+      "summary": "환율 급등으로 외환위기 이후 최고치 기록하며 변동성 확대·금리 인상 우려로 빚투족 비명·코스피 급락·부동산 정책에 야당 자성론·이란-트럼프 협상 교착.",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 16,
+          "count": 26,
           "articles": [
             {
               "title": "외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대",
@@ -186,38 +147,38 @@
               "source": "조선일보"
             }
           ],
-          "description": "외국인 매도로 환율이 2분기 외환위기 후 최고 수준까지 오르면서 변동성 우려가 커지고 있다. 당국은 투기 거래에 대한 엄정 조치를 예고했다. 최근 2주간 꾸준히 상위권."
+          "description": "외국인 매도로 2분기 환율이 외환위기 이후 최고치를 경신했다. 투기 거래의 변동성 확대에 금융당국이 엄정 조치를 경고하고 있다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 2,
-          "word": "코스피",
-          "count": 13,
+          "word": "금리",
+          "count": 26,
           "articles": [
             {
-              "title": "코스피, 내일 ‘검은 월요일’ 오나···“당분간 변동성 커질 듯”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lZW9mU3hhQ2xReG1wUXVpSHNsamhlWTJtMzFZMkZ4VFNKdm91eVJxRG5xUm50cTdVYk5BZl9tckxYdzBNajZMbHMyNnI2cnp5ZnBEVzBnTlVaUdIBX0FVX3lxTFBkOGgxMmJQM0I3dzJLeXlpNzRlVnBybEY2aUFyUnNZQjFELVhfRzZjeHM5Zm9VUFpldmRQSkF1ZWFUVkhoVWdyMTY3MzVGaDg4d2w4REY4YV9GOXhFVFlr?oc=5",
-              "source": "경향신문"
+              "title": "[금리 인상 카운트다운] 커지는 '빚투족' 비명…주담대 금리 8% 찍나",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MbGdWal9WaDhkVXhTMTVYbWtydjVfNlZfMFl5Q0FCNzFER01raWFyaFBLZkpuWnRwMUdPMlpaWWx1eG1yX1poUi1rSlNIZDQ?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "연준의 금리인상 전망으로 뉴욕증시가 급락하면서 국내 증시도 당분간 큰 변동성이 예상되고 있다. 최근 2주간 꾸준히 상위권."
+          "description": "금리 인상이 임박하면서 빚투족의 비명이 커지고 있다. 주담대 금리가 8%대 진입을 앞두고 있는 상황이다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 3,
-          "word": "금리",
-          "count": 5,
+          "word": "코스피",
+          "count": 25,
           "articles": [
             {
-              "title": "뉴욕증시, 연준 금리인상 전망에 힘실리자 급락…나스닥 4%↓",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OLTRIMjd4bTVENFpXekt5TXc5YmEwXzlkdTd6bDM4U1NlRlhSeUNmTDNJNWo5bUFZNDNoakc2bXBNR2Z2aFBGWlJQWlpTWTVlX2prczF0UktKcEnSAWBBVV95cUxQaHdOTjFYSm9RSVltRzN5NFQzM3BrWVFhbzZzSHZsY3BjYjE4NDNVejNHdE1NTjhkUU5mQmdRWDFlNDJrbE4xNy1ibXJfY3JEQjhCUjRtXzZpeEJnbktMelk?oc=5",
-              "source": "연합뉴스"
+              "title": "코스피 '검은 월요일' 온다…\"떨어지는 칼날 잡지마라\"",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wa29ZbFFpUkx2U2xWLXVKd2ppUWNIbmxqMXVOWVgtTjUwd2VSN3AwOFhLT29CUTd4QjhmQlIxLWx5MWgyaGtoeUptRUJBU3lSTDREQXYxakkxRUFUTGZZWmVnb1BlZ2hxRzItNG9RSjA?oc=5",
+              "source": "연합인포맥스"
             }
           ],
-          "description": "연준의 금리인상 전망이 강해지면서 뉴욕증시가 나스닥 4% 급락 등 큰 낙폭을 기록했다. 최근 2주간 꾸준히 상위권."
+          "description": "코스피가 '검은 월요일'을 앞두고 낙폭 심화 우려가 나오고 있다. 전문가들은 투자 주의를 당부하고 있다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 4,
           "word": "부동산",
-          "count": 1,
+          "count": 15,
           "articles": [
             {
               "title": "“부동산에 민감한 서울 30대女 등돌려”…與내부 자성론 솔솔",
@@ -225,20 +186,20 @@
               "source": "동아일보"
             }
           ],
-          "description": "서울 30대 여성들이 부동산으로부터 눈을 돌리고 있는 가운데, 여당 내에서 부동산 정책에 대한 자성론이 나오고 있다. 최근 2주간 꾸준히 상위권."
+          "description": "부동산에 민감한 서울 30대 여성들이 정부 정책에 등을 돌리면서 여당 내부에서 자성론이 나오고 있다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 5,
-          "word": "주식",
+          "word": "전쟁",
           "count": 3,
           "articles": [
             {
-              "title": "‘불닭 창시자’ 김정수, 회장 되자마자 자녀들에 주식 증여…3세 승계 속도?",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vVU9HcV9keFdVZEdFMHNaNFdxS0xXdklsQlRodDJRRU5iMWZLd3Uta2hqbXV1b3NmTHBHRXdqcWw2Z0tLQ0pGLU5TWXVzNE1NM0tDaUdaQmItb3g4YkYwWXAxelNvVEdsQ3c?oc=5",
-              "source": "한겨레"
+              "title": "전쟁 100일 넘겼다…이란, 마음 급한 트럼프에 ‘추가 요구’ 공세",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkMzdCMkZudks1czRWVmdJeGxtRndCYzRyOHRoX01jNUVrQldMRnROam5mdFpwMXdXU2lQX3ZzdkJnQzc1WFdnMWl0NzhLSWc?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "'불닭' 창시자 김정수가 회장 취임 직후 자녀들에게 주식을 증여하면서 3세 승계 속도를 높이는 것 아니냐는 관측이 나온다."
+          "description": "100일을 넘긴 전쟁 와중에 이란이 마음 급한 트럼프에 추가 요구를 공세적으로 제기하고 있다."
         }
       ]
     }
