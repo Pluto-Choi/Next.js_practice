@@ -129,20 +129,39 @@ def _title_noun_sets(titles):
     return out
 
 
+def _adjacency_ratio(a, b, clean_titles, cooccur_idx):
+    """두 후보가 함께 나온 제목들 중, 둘이 공백만 사이에 두고 '붙어서'
+    (예: '데몬 헌터스', '삼성 전자') 나타나는 비율. 한 고유명사/합성어가
+    형태소로 쪼개진 경우 이 값이 높다."""
+    if not cooccur_idx:
+        return 0.0
+    pat = re.compile(
+        rf"{re.escape(a)}\s*{re.escape(b)}|{re.escape(b)}\s*{re.escape(a)}"
+    )
+    hits = sum(1 for i in cooccur_idx if pat.search(clean_titles[i]))
+    return hits / len(cooccur_idx)
+
+
 def merge_fragment_candidates(
-    candidates, titles, contain_thr=0.8, size_ratio=0.6, min_overlap=2
+    candidates, titles, contain_thr=0.8, size_ratio=0.6, min_overlap=2,
+    adj_ratio=0.5,
 ):
     """형태소 분석이 한 고유명사 구(句)를 여러 조각으로 쪼갠 경우
     (예: '케이팝 데몬 헌터스' → 데몬/헌터스/케데헌) 같은 기사들에 함께
     등장하는 후보를 묶어 대표 1개만 남긴다. 프롬프트가 아닌 결정론적 처리.
 
-    오탐(이란/미국처럼 관련은 있으나 다른 키워드) 방지를 위해:
-      1) 작은 집합이 큰 집합에 거의 포함되고(inter/min >= contain_thr)
-      2) 두 후보의 등장 빈도가 비슷할 때만(min/max >= size_ratio) 병합한다.
+    오탐(이란/미국처럼 관련은 있으나 다른 키워드) 방지를 위해 containment
+    가드(inter/min >= contain_thr)는 항상 요구하고, 그 위에서 둘 중 하나면 병합:
+      1) 두 후보의 등장 빈도가 비슷하다(min/max >= size_ratio), 또는
+      2) 제목에서 둘이 실제로 인접해 나타난다(adjacency >= adj_ratio).
+    인접성 조건은 빈도가 크게 달라 (1)에 걸리던 진짜 구(句) 분절
+    ('삼성'/'전자', 약어 등)을 구제하되, containment 가드가 유지되므로
+    공동출현만 잦은 별개 키워드의 연쇄병합은 막는다.
     """
     if not titles or len(candidates) < 2:
         return candidates
     noun_sets = _title_noun_sets(titles)
+    clean_titles = [clean_title(t) for t in titles]
     occ = {
         w: {i for i, s in enumerate(noun_sets) if w in s}
         for w, _ in candidates
@@ -162,11 +181,16 @@ def merge_fragment_candidates(
         for j in range(i + 1, len(words)):
             a, b = words[i], words[j]
             sa, sb = occ[a], occ[b]
-            inter = len(sa & sb)
+            cooccur = sa & sb
+            inter = len(cooccur)
             if inter < min_overlap:
                 continue
             lo, hi = min(len(sa), len(sb)), max(len(sa), len(sb))
-            if inter / lo >= contain_thr and lo / hi >= size_ratio:
+            if inter / lo < contain_thr:
+                continue
+            similar_freq = lo / hi >= size_ratio
+            adjacent = _adjacency_ratio(a, b, clean_titles, cooccur) >= adj_ratio
+            if similar_freq or adjacent:
                 ra, rb = find(a), find(b)
                 if ra != rb:
                     parent[ra] = rb
@@ -237,14 +261,8 @@ def filter_keywords(candidates, category, titles=None):
                         result.append((w, c))
                         chosen.add(w)
                         break
-            # 매핑 불일치 등으로 5개 미만이면 빈도순 후보로 채운다
-            if 0 < len(result) < 5:
-                for w, c in candidates:
-                    if w not in chosen:
-                        result.append((w, c))
-                        chosen.add(w)
-                        if len(result) >= 5:
-                            break
+            # LLM이 고른 '서로 다른 이슈'만 신뢰한다. 5개 미만이어도
+            # 거절된 빈도순 후보(조각·일반명사 노이즈)로 억지로 채우지 않는다.
             if result:
                 return result[:5]
     except Exception as e:
