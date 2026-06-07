@@ -58,8 +58,6 @@ stopwords_entertainment = stopwords_common | {
     '남자', '여자', '사랑', '결혼', '열애', '이별', '교제',
     '문화', '플러스', '앨리', '리스트', '미소', '오프', '온', '지급',
     '감독', '시즌', '콘텐츠',
-    # 한 작품/그룹이 분해된 조각 (예: '케이팝 데몬 헌터스')
-    '데몬', '헌터스', '케데헌',
 }
 
 def parse_feed_with_retry(url, retries=3, delay=3):
@@ -117,6 +115,82 @@ def _candidate_examples(word, titles, k=2):
             if len(ex) >= k:
                 break
     return ex
+
+
+def _title_noun_sets(titles):
+    """각 기사 제목을 형태소 분석해 명사(2글자+) 집합 리스트로 만든다."""
+    out = []
+    for t in titles or []:
+        toks = kiwi.tokenize(clean_title(t))
+        out.append({
+            tk.form for tk in toks
+            if tk.tag in ('NNG', 'NNP') and len(tk.form) > 1
+        })
+    return out
+
+
+def merge_fragment_candidates(
+    candidates, titles, contain_thr=0.8, size_ratio=0.6, min_overlap=2
+):
+    """형태소 분석이 한 고유명사 구(句)를 여러 조각으로 쪼갠 경우
+    (예: '케이팝 데몬 헌터스' → 데몬/헌터스/케데헌) 같은 기사들에 함께
+    등장하는 후보를 묶어 대표 1개만 남긴다. 프롬프트가 아닌 결정론적 처리.
+
+    오탐(이란/미국처럼 관련은 있으나 다른 키워드) 방지를 위해:
+      1) 작은 집합이 큰 집합에 거의 포함되고(inter/min >= contain_thr)
+      2) 두 후보의 등장 빈도가 비슷할 때만(min/max >= size_ratio) 병합한다.
+    """
+    if not titles or len(candidates) < 2:
+        return candidates
+    noun_sets = _title_noun_sets(titles)
+    occ = {
+        w: {i for i, s in enumerate(noun_sets) if w in s}
+        for w, _ in candidates
+    }
+    words = [w for w, _ in candidates]
+    parent = {w: w for w in words}
+
+    def find(x):
+        r = x
+        while parent[r] != r:
+            r = parent[r]
+        while parent[x] != r:
+            parent[x], x = r, parent[x]
+        return r
+
+    for i in range(len(words)):
+        for j in range(i + 1, len(words)):
+            a, b = words[i], words[j]
+            sa, sb = occ[a], occ[b]
+            inter = len(sa & sb)
+            if inter < min_overlap:
+                continue
+            lo, hi = min(len(sa), len(sb)), max(len(sa), len(sb))
+            if inter / lo >= contain_thr and lo / hi >= size_ratio:
+                ra, rb = find(a), find(b)
+                if ra != rb:
+                    parent[ra] = rb
+
+    groups = {}
+    for w in words:
+        groups.setdefault(find(w), []).append(w)
+    count_map = dict(candidates)
+    result, seen = [], set()
+    for w, c in candidates:
+        r = find(w)
+        if r in seen:
+            continue
+        seen.add(r)
+        members = groups[r]
+        if len(members) == 1:
+            result.append((w, c))
+            continue
+        # 대표: 등장 기사 수 최다 → 빈도 최다 → 더 긴(구체적) 표현
+        best = max(members, key=lambda x: (len(occ[x]), count_map[x], len(x)))
+        union_idx = set().union(*(occ[x] for x in members))
+        result.append((best, max(count_map[best], len(union_idx))))
+        print(f"  조각 병합: {'/'.join(members)} → {best}")
+    return result
 
 
 def filter_keywords(candidates, category, titles=None):
@@ -366,11 +440,9 @@ def collect_category(feed_url, stopwords, category_name):
     try:
         feed = parse_feed_with_retry(feed_url)
         feed_titles = [e.title for e in feed.entries]
-        top5 = filter_keywords(
-            extract_keywords(feed_titles, stopwords, n=30),
-            category_name,
-            feed_titles,
-        )
+        candidates = extract_keywords(feed_titles, stopwords, n=30)
+        candidates = merge_fragment_candidates(candidates, feed_titles)
+        top5 = filter_keywords(candidates, category_name, feed_titles)
         used_links = set()
         keywords = []
         for i, (word, count) in enumerate(top5):
