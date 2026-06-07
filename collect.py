@@ -31,14 +31,14 @@ stopwords_common = {
     '의혹', '책임', '완료',
     # 일반 명사 노이즈
     '뉴스', '한국', '지역', '사회', '국제', '관련', '사진', '인기',
-    '이유', '종합',
+    '이유', '종합', '참고', '세계', '전국', '당시', '경우', '모습',
     # 기사 형식 태그
     '속보',
 }
 
 stopwords_economy = stopwords_common | {
     '경제', '재경부', '관리관', '국장', '개발', '활성', '서울', '대한',
-    '센터', '브리핑', '강화', '대책', '세계', '구윤철', '글로벌', '실용',
+    '센터', '브리핑', '강화', '대책', '구윤철', '글로벌', '실용',
     '미래', '인사이트', '리포트', '뉴스룸', '핵심', '유통',
     '전략', '도입', '가능', '트렌드', '접목', '전망', '공략',
     '브런치', '변경', '계열사', '기반', '연구',
@@ -58,6 +58,8 @@ stopwords_entertainment = stopwords_common | {
     '남자', '여자', '사랑', '결혼', '열애', '이별', '교제',
     '문화', '플러스', '앨리', '리스트', '미소', '오프', '온', '지급',
     '감독', '시즌', '콘텐츠',
+    # 한 작품/그룹이 분해된 조각 (예: '케이팝 데몬 헌터스')
+    '데몬', '헌터스', '케데헌',
 }
 
 def parse_feed_with_retry(url, retries=3, delay=3):
@@ -175,12 +177,25 @@ def filter_keywords(candidates, category, titles=None):
         print(f"  filter_keywords 실패 — 형태소 빈도순 사용: {e}")
     return candidates[:5]
 
+def _looks_like_refusal(text):
+    """모델이 본문이 없다며 거절/사과한 응답을 요약으로 저장하지 않도록 감지."""
+    if not text:
+        return True
+    markers = (
+        "죄송", "요약이 어렵", "요약하기 어렵", "요약이 불가", "제공해주시면",
+        "제공해 주시면", "본문이 필요", "내용이 필요", "기사 내용 없이",
+        "실제 기사 내용", "어렵습니다", "어렵네요", "알 수 없",
+    )
+    return any(m in text for m in markers)
+
+
 def generate_summary(keywords, category):
     lines = []
     for item in keywords:
         titles = " / ".join(a["title"] for a in item["articles"][:2])
         lines.append(f"- {item['word']}: {titles}")
     articles_text = "\n".join(lines)
+    fallback = " · ".join(item["word"] for item in keywords[:5])
     try:
         message = anthropic_client.messages.create(
             model="claude-haiku-4-5-20251001",
@@ -188,14 +203,25 @@ def generate_summary(keywords, category):
             messages=[
                 {
                     "role": "user",
-                    "content": f"다음은 오늘의 {category} 뉴스 키워드별 기사 제목이야. 실제 기사 내용을 바탕으로 오늘의 주요 이슈를 60자 이내로 요약해줘. 서로 관련 없는 주제가 섞여 있다면 억지로 연결하지 말고 '·'로 구분해줘. 요약문만 출력해줘.\n\n{articles_text}"
+                    "content": (
+                        f"다음은 오늘의 '{category}' 분야 주요 키워드와 각 키워드의 대표 기사 제목이야. "
+                        "이 제목들을 근거로 오늘 이 분야에서 무슨 일이 있었는지 60자 이내 한 문장으로 요약해줘. "
+                        "서로 관련 없는 주제가 섞여 있으면 억지로 연결하지 말고 '·'로 구분해. "
+                        "제목만으로 단정하기 어려운 부분은 무리하게 지어내지 마. "
+                        "사과·변명·부연 설명 없이 요약문 한 줄만 출력해.\n\n"
+                        f"{articles_text}"
+                    ),
                 }
             ]
         )
-        return message.content[0].text.strip()
+        result = message.content[0].text.strip()
+        if _looks_like_refusal(result):
+            print("  generate_summary 거절성 응답 감지 — 키워드 나열로 대체")
+            return fallback
+        return result
     except Exception as e:
         print(f"  generate_summary 실패 — 키워드 나열로 대체: {e}")
-        return " · ".join(item["word"] for item in keywords[:5])
+        return fallback
 
 def load_history_ranks(category, lookback_days=14):
     """최근 lookback_days일 history에서 해당 카테고리 키워드별 {날짜: 순위}를 모은다."""
