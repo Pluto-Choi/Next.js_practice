@@ -1,74 +1,48 @@
 {
   "date": "2026-06-07",
-  "updated_at": "2026-06-07 12:47",
+  "updated_at": "2026-06-07 17:55",
   "categories": {
     "오늘의 이슈": {
-      "summary": "이란 긴장 속 美국방부 장관 가족동반 출장 논란 · 北 김여정 핵보유국 지위 강조 · 한동훈 선관위 외부감사 법안 추진 · 메타 AI API 출시 연기 · 여름철 손목건초염 주의",
+      "summary": "투표용지 사태로 재선거 논의 · 환율이 외환위기 이후 최고 수준 · 선관위 외부감사 논의 · 잠실개표소 시위 지속.",
       "keywords": [
         {
           "rank": 1,
-          "word": "이란",
-          "count": 2,
+          "word": "투표",
+          "count": 3,
           "articles": [
             {
-              "title": "이란전 와중에…美국방, 부인과 6명 자녀 데리고 프랑스 출장",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWaE9vamJjQml0eHhUU2VlWm1jOVdCR3dvN19xVHRSQzl6UFBVcUVDZE1XOEotLWNnWThyckJRT1ZDbDRSSWpQeV8tS255QjA?oc=5",
+              "title": "[속보]장동혁, 투표용지 사태 재선거 요구…“사전투표도 없애야” 대통령 회담 요구",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pMUs4NVlzSE9KVF9MZm9FaWF4YUhzcjJXQlBuOWc2UmgtMERTeUJOZWhOV1M0bVJnRlliT3BSS1RNYmdWcmRwYWFaZlFoOF85?oc=5",
+              "source": "문화일보"
+            },
+            {
+              "title": "윤상현, 장동혁 ‘사전투표 폐지’ 반박…“당일 현장 개표가 현실적”",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51MlppZmpSTUhDRTRLaFYyT2UwZ1VuMzhLSFlPTHZuU1FFZU5hYWFNNzVxWW1qUWoyTDJmcjZNejBScHBSd1ZrQU1ocDZsS00?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "이란전 와중에…美국방, 부인과 6명 자녀 데리고 프랑스 출장",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3SkRaU29pQU9PUVc4WmpJYmhGcHNDa05qczBtcnM4M2xNQ1J4OURQM3VBNGM2N0xxMDJNUVAyalJ5Y2FoYWNqMGUtQmx1ZWR5b2FMNXBR?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "이란전쟁 중 프랑스 출장 가며 아내·여섯 자녀 데려간 美국방",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIdFFpaWhhLUk3dC1pMVMxQVBXcWN1X0JXSlZmZmN5dU9YZl81akNDTkRidlFZZ1dVcnBqMlp6UjNnV3pfMURwUVBwek9MMlVGeW53Vkc2U3JSTGPSAWBBVV95cUxQdUJFdDdnV05vOXo4dEdTemNvZTV2Tlpuc2pGbHVnWkg4R19JRjZrb2ZaX2dlZ3gzdzdoMzlHSnlBNk9PTElFc1pLZ1YxNzl2Y0N2NkxQM3U1SEc4eGxValk?oc=5",
-              "source": "연합뉴스"
+              "title": "여야, `투표용지 부족` 진상 규명 목소리…장동혁 “재선거” 주장",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjNJbkVFWHVqdDdpYVBxVnBObkNmZmVidHZFQ1o3UUljUlNjX1k2TDE2MTItT0xveVNmam95NG5XNDBUSUp4amFMWUZCX3pCLW5seW5NckdSbTVvSzRLV3R0aldUZG5wZ0RuWGN3WmNIYXZNYTZ3VHg3SWhHT1UwcWdDT1ppWFE5a3hkMW13?oc=5",
+              "source": "국제신문"
             }
           ],
-          "description": "미국 국방부 고위 관계자가 이란과의 긴장 와중에 가족을 데리고 프랑스로 출장을 떠나 논란이 일고 있다."
+          "description": "지난 투표에서 투표용지 부족 사태가 발생한 가운데, 야권에서 재선거를 요구하며 사전투표 폐지까지 주장하고 있다. 여야가 진상 규명에 나섰다."
         },
         {
           "rank": 2,
-          "word": "김여정",
+          "word": "환율",
           "count": 2,
           "articles": [
             {
-              "title": "北 김여정, 시진핑 방북 전날 \"핵보유국 지위 불퇴\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oeG9iNXg5ZERBajVSQi1MWVNxRE1Xdy1uVjZVU3QwMWc3b3ZIOGNwNWFCaXMtUU1Ia2FWUnVtNjFXVWhfZGx1WU81cWZGdW8?oc=5",
-              "source": "v.daum.net"
+              "title": "외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CaEpPSWJ3THhHZ1dtYjJwUnpQU1NaOUl2c0t2Vi1JX2VnTkZRNGQxQVpPN09OTUhRZjd4a1RYYWxSNkE3TVRwZk5ta3RGQmZPNTJFOTVxX1gwbXfSAWBBVV95cUxQWGVTOWxQeWtQdnpEU1hOOHRoUzlqblJNMFYzQkpCSVJRSVYwbmVFZzBNZ2lfTE5ZcTM4U1BZSUxDYmhvaVp3RmNXcUVDZEdFZXNibk52V3JkSkU3V210WXQ?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "북한 김여정이 시진핑 방북을 앞두고 핵보유국 지위를 절대 포기하지 않겠다는 입장을 명시했다."
+          "description": "외국인 매도세에 밀린 2분기 환율이 외환위기 이후 최고치를 기록했다. 공항철도 역에서는 달러당 1,620원대로 거래됐다."
         },
         {
           "rank": 3,
-          "word": "선관위",
-          "count": 2,
-          "articles": [
-            {
-              "title": "한동훈 1호 법안은 ‘선관위 외부감사’ 근거 만들 감사원법 개정안",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuWEgyQVdMc2JCN1ZLUldSekI3UlhmVkR0UXBUaUhvQ0NIbS1naUxWMFBVT3JxXzFjT1NxTnA2dGNkdVYzTzNBYWNVUFN2M0hfNklKcU9FNkU2ZjRNSUZyQVpqYVRSLVJ0ZXRONHZHXzhSMUdJ?oc=5",
-              "source": "한겨레"
-            }
-          ],
-          "description": "한동훈 국민의힘 대표가 선관위의 독립적 감시 체계를 강화하는 감사원법 개정안을 1호 법안으로 추진한다."
-        },
-        {
-          "rank": 4,
-          "word": "출시",
-          "count": 2,
-          "articles": [
-            {
-              "title": "메타, '뮤즈 스파크' API 출시 두 달째 연기…AI 수익화 비상",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VU3ZqMEVfU0NXdDVCVEhoUVRjQW5YYkgybzVQcE9Qa19VTVdEMzdvcWRTcUJjWS15a21iejJHY3IwUG1qWEo4VFJNN19VVTZmeXl6UXUtR1E1Sm9wQ1d2QTJra0tKVnNGM1E?oc=5",
-              "source": "AI타임스"
-            }
-          ],
-          "description": "메타가 AI 콘텐츠 생성 도구 '뮤즈 스파크' API 출시를 두 달째 연기하면서 AI 수익화 전략의 차질이 예상된다."
-        },
-        {
-          "rank": 5,
           "word": "손목",
           "count": 2,
           "articles": [
@@ -78,97 +52,123 @@
               "source": "매경헬스"
             }
           ],
-          "description": "여름철 운동으로 인한 손목건초염(힘줄 염증) 부상이 늘고 있어 주의가 필요하다."
+          "description": "여름철 운동으로 인한 손목건초염 증가에 대한 주의가 나오고 있다. 전문가들은 운동 전 충분한 스트레칭과 올바른 운동 자세를 강조한다."
+        },
+        {
+          "rank": 4,
+          "word": "선관위",
+          "count": 2,
+          "articles": [
+            {
+              "title": "한동훈 “선관위 외부감사 받아야…감사원법 개정안 발의”",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0YWtiNlpQU2RHZG9hemFNMmV5MlJOcDFPM1VWX192RVp0eFdHYXYtOEsyN1AtWDNUblgzTXJxYUhrNENIWWh3clNsQThMWEcyN3F1NFdpdWp0NXFHQ0p5YklvbkotdGZyUURZZHRFUVJ4QV9PTEY00gFmQVVfeXFMUERYaW4ycU1GNXN3WHJESTEwM0I4UjNLWFFhcjhuN1I4UllmNXhMUS1NUTMyWHEtZ240REdaY0ZQSGtSZzZGY0lUdUplRnhjTUUySTNwenZONTVDaVUyZ3NQSm1GVnBn?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "한동훈 의원이 선거관리위원회의 외부감사를 주장하며 감사원법 개정안을 발의했다. 선관위 투명성 강화 논의가 대두됐다."
+        },
+        {
+          "rank": 5,
+          "word": "시위",
+          "count": 2,
+          "articles": [
+            {
+              "title": "잠실개표소 봉쇄시위 사흘째…\"성조기 자제\" 지침에 갈등도",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xRnJlYWJzbHNqbl9fRVJKb2dlN0NNNnI5WlAxMnQwSnNHS1Y5d0I0MGRmQjVLZDN6enpKTWNQYXNMV25fRldrQTV4NURUT2p4OWpHWjRuVnlVZXPSAWBBVV95cUxNaFNPdzV1dkhhY1BIVHVpdzFDVnY1MTVoTnpWeHdlYW1PVk5ILThadGxKRm5FYXJpM25SSmFBaS0wbnR0Z3B2S2N5R044YUxpMGdoekp0bTNaTlctNVhFVks?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "개표소 봉쇄 시위가 사흘째 계속되며 성조기 자제 지침을 두고 참여자 간 갈등이 빚어지고 있다."
         }
       ]
     },
     "연예": {
-      "summary": "죄송하지만 실제 기사 내용 없이 제목만으로는 정확한 요약이 어렵습니다. 제시된 키워드들이 워해머 게임, K-pop, 스포츠, 국제뉴스 등 서로 다른 분야로 보이는데, 실제 기사 본문이 필요합니다. \n\n기사 내용을 함께 제공해주시면 60자 이내로 요약해드리겠습니다.",
+      "summary": "한류 제주 관광 확산·김새론 광고주 손배소 재개·방탄소년단 진 솔로랭킹 1위 지속·제니 패션 트렌드.",
       "keywords": [
         {
           "rank": 1,
-          "word": "데몬",
-          "count": 9,
+          "word": "한류",
+          "count": 6,
           "articles": [
             {
-              "title": "워해머 40,000 팩션 집중분석: 카오스 스페이스 마린 및 카오스 데몬",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTRpTklQVlJvSWVZbkFIcktaZFJWZ1lYcmJUb0F4eU1lZUxKeVFydUZ4WDN6YVZSOWcwQmJuREtLN0tWMGE0QjBoNldHZUwxOTJjczJsVkdBbnV0UHBJcEtKeGVDVE0wTDM4Ym9HeXhqSFZORGpZM0R1dEw2eE5zVGJOaUFid1JYTXF2Yk1PLXR2RzE4azJRdWpLYzlIT2tYQ0w3V3hrSGFfOXo4ZHVxS1BCMDNMaGhhWG9RZGYxTkx4YTA4eDRN?oc=5",
-              "source": "Warhammer Community"
+              "title": "제주에도 부는 K관광 바람… 한류 팬덤, 제주 로컬여행으로 잇는다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtMEFkdGF3Z2VhMm5COGE5MUVlU3pQSWNNVWpfdVkxVmhoQmdXY2pKbWlibVJuSWw5ckcwS2FWQ3RlaW5qOXVfYWs2MnJ0SDg?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "케이팝 데몬 헌터스 감독, 화개장터서 보여준 남다른 한국 사랑",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xcWtIdUVkcXk3MDROSVZ0RVkyZ2pzMDM0WnpvWHBuSjZ0MXUyTUhGSDB0ZUZEWWUwUHd1dEpDM3RfMmZES2g2bjVoN256X1o5OXp4dE9RNGU0em9DaXVqS2Y0Yk1kbzA?oc=5",
-              "source": "2news.co.kr"
+              "title": "[기고] K팝 다음은 순수예술 한류 열풍 불어야",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16U2ZTWmNYRDRuc3NobWpLUWwtMnhlc01nb0dqV0RrcGZUV1NnQmVmMDlaSFVJU1Rhd1FwaXFBb0RRbFF2X3FiZDYwTThCN0xyRXdmVWNpQWZOQ1E?oc=5",
+              "source": "매일경제"
             },
             {
-              "title": "Amazon ECS 관리형 인스턴스에 관리형 데몬(Managed Daemon) 지원 출시",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTmZwS3RHQU9nV1AtUV9tUW0wNlg5emUxeU9adEkyOXhOYWR1NUdDREotakZ3WmtNQkMtNXZ1TzZyaGFKZ1RUbFM2Y3NZd3FBSkd1YzNzMXBjNVlGYlItNUdDZ1ZxQTEwSmFoMHFVeWZmTjRYeXZnS0RVbnE2SXZJUFNVNTJWcC1pWVA5VkJad1BUU3g0eDF2X3ZaY3l6YkN4YnJ1OWxhMzU?oc=5",
-              "source": "Amazon Web Services (AWS)"
+              "title": "'강북 전성시대' 이어간다…서울시, 한류 전담조직 신설",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wRERlQ1NxMjZXQ0g4U0NBdnNaSWtvZUkyWW0xeVFuZ1ZmeUN3T2lQcVpTUnRNOS1UVFFWaGZhVjZLZkg4ZWVqVG1TQXo2dlhsNmd6WmhqMWVKNnFLT05iWG9QWTcxR0xTOGpGZ3RhRHliVmVBOGRqWA?oc=5",
+              "source": "네이트"
             }
           ],
-          "description": "케이팝 그룹 데몬 헌터스의 감독이 화개장터에서 한국 문화에 대한 애정을 드러냈다. 어제 4위에서 오늘 1위로 급상승했다."
+          "description": "제주 관광부터 순수예술, 서울 강북 재정비까지 한류 영향력이 관광·문화·도시정책 전반으로 확대되고 있다. 최근 2주간 꾸준히 상위권"
         },
         {
           "rank": 2,
-          "word": "헌터스",
-          "count": 9,
-          "articles": [
-            {
-              "title": "가부장의 폭력과 자본의 폭력 [정덕현의 문화 헌터스]",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sR181LUszTTRZRlBNaVl1anIxbkZxU1lKNGJKbFJkLVYwdG0zbnFMMDIwNkF0WkRRN1dWQ25EeXUxZkVHVlBRM0xMTWpWX3pJWTBjeDN1ZGpCRW1DQzFwNC1rZnFuRkE2dWRzci1tSdIBc0FVX3lxTE1mMUdodDhCUmQ5Vmgwbm1QZVRUNy1NOVVvcFVNSHUzSTd0TXk1OHlhbVdqMEMxZGZQWFFXeHVJRU52OU9ld2dGSXhHc1ZyT1F5S0NIRkJTTXMtX21vd2pPVnVrc3B6MG1YYVJjYlR5RzBGZzg?oc=5",
-              "source": "여성신문"
-            }
-          ],
-          "description": "케이팝 그룹 데몬 헌터스가 관심을 모으고 있다. 어제 5위에서 오늘 2위로 올랐다."
-        },
-        {
-          "rank": 3,
-          "word": "참고",
-          "count": 3,
-          "articles": [
-            {
-              "title": "부상 참고 뛰었던 저지 \"팀을 위해 버텼으나…스윙할 수 없었다\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qUWVpaXQ2bFFRVGlhTTBWR3Zxam42UGZwRExxdGxOenpLeWNMc05jV3g4YzY5UzZVbTg4aTFrZVN0TEVta3JSYTBva1pqVzlubGROVzRrWE9sa2d2d3pFdtIBYEFVX3lxTE1qUWVpaXQ2bFFRVGlhTTBWR3Zxam42UGZwRExxdGxOenpLeWNMc05jV3g4YzY5UzZVbTg4aTFrZVN0TEVta3JSYTBva1pqVzlubGROVzRrWE9sa2d2d3pFdg?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "부상을 안고 뛴 저지 선수가 팀을 위해 버텼지만 결국 스윙할 수 없었다고 밝혔다."
-        },
-        {
-          "rank": 4,
-          "word": "세계",
-          "count": 3,
-          "articles": [
-            {
-              "title": "전 세계 기자들 미국 '비자 장벽'에 발 동동…FIFA에 공식 항의",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QNTNOc1l0dmxfbk9iWEdhMXlaaHdSQndUdUhiMjNfLTFBVml5RkhGMldSWFBtX00zbjFkZzN4WkUyMU1LVGRJOXhFQzFIV0VwakVMUHhKNnBmd1nSAWBBVV95cUxNdU5rWEFGdDBxYThZODZCZ2labFgwOTFaRF9kMEF1dk1TcWtTcFBfZzhrcWNVQWFhbmIycUkxbXh4Ukk0aC1jblhYZFQ4Zktvakt3RTRXMHV5WWMybjVxTjI?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "전 세계 기자들이 미국의 비자 발급 지연으로 어려움을 겪자 FIFA에 공식 항의했다."
-        },
-        {
-          "rank": 5,
-          "word": "케데헌",
+          "word": "김새론",
           "count": 2,
           "articles": [
             {
-              "title": "유재석 만난 젠슨황…‘케데헌-골든’에 어깨춤까지",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BQ2RwVkFpeU8yUmFiX2xqSndrOWxFVW9tNGtEUGR3NUszcUtyaTdBd1JCaUhxWVZVemNDczRGVVVKWjBjRE5PWUUzUEVLemxi?oc=5",
-              "source": "문화일보"
+              "title": "‘김수현 의혹 제기’ 김세의 검찰 넘겨지자… 광고주 손배소도 속속 재개",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHNzS2k2Q2hlWWJNRUNhX2RDbkhqUXJMcHNSS3BPd24yVzdvcU5ZQVZhaUJ1aGlQM3JxVjdMLUg4MDE2S0pPbVh4bmhRU1M4ZDdUb05UQXBHVEwtNzNlR2VtZFRqY3J2ZGNyYXB5Ync3cHBqRVl1V2FldEt0cmxaTkVaSkhrekk?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "유재석이 젠슨황을 만나 '케데헌-골든' 무대에서 어깨춤을 췄다. 어제 2위에서 오늘 5위로 하락했다."
+          "description": "배우 김새론이 검찰에 넘겨지면서 연루된 광고주들의 손해배상소송이 속속 재개되고 있다."
+        },
+        {
+          "rank": 3,
+          "word": "방탄소년단",
+          "count": 3,
+          "articles": [
+            {
+              "title": "방탄소년단 진, ‘팬앤스타’ 솔로랭킹 36주 연속 1위…50주 특전 향해 순항",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wYmxwWEY4bWVtdm5LVHMwVHZYOXBVRXh6QUppVGhqVVh3Si1jc1JhS2pOc0dxclZuSDk3MDZwSzJWYmplU1AtcVNvNzZvMFc1eUdKMndyUno1a0pfTjRraUQzNNIBXkFVX3lxTE1RRGtPSmw5dWN6RDVHeE05VFdqMmw3UzdjbFdhWlFnRUlhV3NTVUYtR1gtMWd2S0pVQzlSWGxpRTBSb1pnYnpPQTBUeFE3Yjg5WVkwNHI0ZG1pOUJOdmc?oc=5",
+              "source": "더팩트"
+            }
+          ],
+          "description": "방탄소년단 진의 솔로곡이 '팬앤스타' 솔로랭킹에서 36주 연속 1위를 기록했다."
+        },
+        {
+          "rank": 4,
+          "word": "제니",
+          "count": 2,
+          "articles": [
+            {
+              "title": "제니가 짧은 치마 대신 고른 '이 스타일'이 뜹니다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Nb2duSW40VUhaSEZiRlpVRnlRTVVHYTRPWUNiOVdJYlhzOVNtSTZFMzYyNFZ3X1lVamJ1TWVGQ0tpd2ZVdWp0NmR1SzhiRms?oc=5",
+              "source": "ELLE"
+            }
+          ],
+          "description": "제니가 짧은 치마 대신 선택한 새로운 스타일이 패션 트렌드로 주목받고 있다."
+        },
+        {
+          "rank": 5,
+          "word": "완벽",
+          "count": 4,
+          "articles": [
+            {
+              "title": "계획대로 안 돼도 괜찮아…에어비앤비, 완벽하지 않아 완벽한 여행 제안",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOR0RTR1FhVG9zRzhmNXVWQ3FZN0laZlluZzQ2c3V1dWVrOExPVDZLT3kzZmtrX2tPOTNuM0JRTmNOMHM4Wnd2ejl2aE5MMUVCdWQwRUQ1aTBfZ9IBWEFVX3lxTE5lSmJnWXpWLXFaZkJTNVhQOHRCRjE1bFNVRUNGS3Y3aWNCN3FUNkZUd0l3dWl4THlGM3hjUTI2SExnamdvaTQtT0FhRU0tSVI3SldqUzM4RlE?oc=5",
+              "source": "아주경제"
+            }
+          ],
+          "description": "에어비앤비가 '완벽하지 않은 것도 좋은 여행'이라는 메시지로 새로운 여행 트렌드를 제안하고 있다."
         }
       ]
     },
     "경제": {
-      "summary": "외국인 매도로 환율이 1,620원대까지 급등하면서 3高(물가·환율·금리) 부담이 커지는 가운데, 뉴욕증시 급락에 코스피도 낙폭 확대 · 부동산 표심이 정치에 영향",
+      "summary": "외국인 매도로 환율이 2분기 이후 최고치를 기록했고, 연준 금리인상 전망에 뉴욕증시가 급락하면서 코스피도 변동성이 커질 것으로 예상된다 · 부동산 정책에 서울 30대 여성이 등을 돌리고 있다 · 불닭 창시자가 회장 취임 후 자녀에게 주식을 증여했다.",
       "keywords": [
         {
           "rank": 1,
           "word": "환율",
-          "count": 27,
+          "count": 16,
           "articles": [
             {
               "title": "외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대",
@@ -176,61 +176,35 @@
               "source": "연합뉴스"
             },
             {
-              "title": "3高(물가·환율·금리)에 부담 커지는데…그래도 식지 않는 '빚투'",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WaW5fak1RbkJzS2tCX1FoUS12QTNlTkhLd3N2UGpka0FzLUFnNXB6Tk1rd2c4WjZSc292Y0Vxa0taVGQ3VzhfNlFxclc3aWgzZUx2MGNJNVBEUmg0bVNNNmxjSjhYbEMwY0VFZWlxdFU5cFU?oc=5",
-              "source": "마켓인"
+              "title": "구윤철 \"투기로 환율 변동성↑…환율 일방향 쏠림 용인 안해\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aa3JaNlZTQjRHTXAwazQ2TzBEYnp2TDNNUFNWYXk5SnhCSDRjT0M5OTBIVTNBYVF1Mm9Ka3F0bEZpU1NYcVhQY2VxR3UweGs?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "환율 한때 1560원도 뚫었다…한은 '긴축 페달' 밟을까",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LQ2JfaGdvSWFReXl1SFFYZndlbWY0MWxHMWZySGlncjRUbnZBdTZkUlhWTWZDWEozVkRtcm45dmRWVGhJQVJXb0JqajBEVDA?oc=5",
-              "source": "v.daum.net"
+              "title": "구윤철 \"투기 거래가 환율 변동성 키워... 엄정 조치\"",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODNkMHNDbjNCSG41bEg5UlNqcEk1aW1qUWRNV3c3a2JsdmdkLXpZbWkwc1JSUHdmd2JObURGeVFwZi1Kbnk4NU55ckkzUW1ScS1xNUNnTktNeWxja0hBV05jbHF3TUd2Q1NvUEZpRVF2bnJBQS1ndmMzaGdtV0E4SWNpdG1CazZQdVVsV0d3?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "외국인 매도로 환율이 2분기 기준 외환위기 이후 최고 수준까지 올랐다. 물가·금리와 함께 경제에 미치는 부담이 커지는 상황이다. 최근 2주간 꾸준히 상위권"
+          "description": "외국인 매도로 환율이 2분기 외환위기 후 최고 수준까지 오르면서 변동성 우려가 커지고 있다. 당국은 투기 거래에 대한 엄정 조치를 예고했다. 최근 2주간 꾸준히 상위권."
         },
         {
           "rank": 2,
           "word": "코스피",
-          "count": 26,
+          "count": 13,
           "articles": [
             {
-              "title": "코스피 '검은 월요일' 온다…\"떨어지는 칼날 잡지마라\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wa29ZbFFpUkx2U2xWLXVKd2ppUWNIbmxqMXVOWVgtTjUwd2VSN3AwOFhLT29CUTd4QjhmQlIxLWx5MWgyaGtoeUptRUJBU3lSTDREQXYxakkxRUFUTGZZWmVnb1BlZ2hxRzItNG9RSjA?oc=5",
-              "source": "연합인포맥스"
+              "title": "코스피, 내일 ‘검은 월요일’ 오나···“당분간 변동성 커질 듯”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lZW9mU3hhQ2xReG1wUXVpSHNsamhlWTJtMzFZMkZ4VFNKdm91eVJxRG5xUm50cTdVYk5BZl9tckxYdzBNajZMbHMyNnI2cnp5ZnBEVzBnTlVaUdIBX0FVX3lxTFBkOGgxMmJQM0I3dzJLeXlpNzRlVnBybEY2aUFyUnNZQjFELVhfRzZjeHM5Zm9VUFpldmRQSkF1ZWFUVkhoVWdyMTY3MzVGaDg4d2w4REY4YV9GOXhFVFlr?oc=5",
+              "source": "경향신문"
             }
           ],
-          "description": "코스피가 약세장에 진입하면서 투자자들의 손실 우려가 커지고 있다. 최근 2주간 꾸준히 상위권"
+          "description": "연준의 금리인상 전망으로 뉴욕증시가 급락하면서 국내 증시도 당분간 큰 변동성이 예상되고 있다. 최근 2주간 꾸준히 상위권."
         },
         {
           "rank": 3,
           "word": "금리",
-          "count": 23,
-          "articles": [
-            {
-              "title": "美금리까지 올리면 1600원 넘는 ‘원·달러 재앙’ [트럼프 스톡커]",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tejk3UTM3M09KLU0zSlNuZGs1V3N0ck9FOGt4RWFVRl9tR3h0b3RWcDJQajU1UUt5ZHNPSzFOaHQ1bm1KWHAzVkJJY0pfMUlKLWfSAVNBVV95cUxONHRmQVB5OWc0TUc5QjJUZl9CMThOcWVDVVZLSS1HN0xDMmx4YnlZcmRjbEdwdHRjdEt1SU8wWjhVZGxmdjZhT2lyTzdHbmtoLXBhWQ?oc=5",
-              "source": "서울경제"
-            }
-          ],
-          "description": "미국 금리 인상 전망이 현실화하면 원·달러 환율이 1600원을 넘을 수 있다는 우려가 나오고 있다. 최근 2주간 꾸준히 상위권"
-        },
-        {
-          "rank": 4,
-          "word": "부동산",
-          "count": 16,
-          "articles": [
-            {
-              "title": "서울시장 역전극 뒤엔 부동산 표심, 집값 상승 톱10중 8곳 승리",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HOWFvdFUwb2x6TFFSUm1NNVNra3lTT3JNNDBWdW9ycE5xQUpDS2J4SmhqMFF3aWFWdVFmV1hBWFVwR0U3RElEOTJlSWdxQ0ZpVlRON3RMYXdudzlSUmcyN2lpZG1PSGJZQXZkQXFFNTlGcW1jRGo40gFmQVVfeXFMTTFOMXctamV0MlVITHdNeEg1WkF0NFd0UHh4dG5henN4ZHREdmZudlJzUlJjb24xTVVQMmVPaDRicjlsNVQ5Qi1EODJTV1U0RHJBcERpUU42ck12MmpDYWFGZ0VjSmJn?oc=5",
-              "source": "동아일보"
-            }
-          ],
-          "description": "서울시장 선거에서 집값 상승 지역 10곳 중 8곳이 여권 후보 승리 지역이었다. 부동산 정책이 유권자 표심에 미치는 영향이 큰 것으로 나타났다. 최근 2주간 꾸준히 상위권"
-        },
-        {
-          "rank": 5,
-          "word": "증시",
-          "count": 19,
+          "count": 5,
           "articles": [
             {
               "title": "뉴욕증시, 연준 금리인상 전망에 힘실리자 급락…나스닥 4%↓",
@@ -238,7 +212,33 @@
               "source": "연합뉴스"
             }
           ],
-          "description": "뉴욕증시가 미국 연준의 금리인상 전망에 나스닥 4% 급락하며 약세를 보였다. 글로벌 증시 부담이 확대되고 있다."
+          "description": "연준의 금리인상 전망이 강해지면서 뉴욕증시가 나스닥 4% 급락 등 큰 낙폭을 기록했다. 최근 2주간 꾸준히 상위권."
+        },
+        {
+          "rank": 4,
+          "word": "부동산",
+          "count": 1,
+          "articles": [
+            {
+              "title": "“부동산에 민감한 서울 30대女 등돌려”…與내부 자성론 솔솔",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RU201dlpzTlhBcXA1elB4MWJlOGNLUWdTMm5DUzc4X2RwRkw4ZnNXcWt6VlpreDdEYU1aQ055OWp3NW1scXlZckE3Vm1ydnhMVHR3VFI5MjRiYUs2UG5QTno1aFhVZFpCa29sSThldmVsaXZEOTFj0gFmQVVfeXFMT083T1p6UTktRF9ibk1XUXU2VEtzTVplMmhJSm9janIwNmV3cV9WalJYNFc4RlB1bV9USV8zbDdSeUY0eWRmU0UxUXluSTQyTUszWlctMTVKaFpmdTR6Ymt2MmhGU09R?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "서울 30대 여성들이 부동산으로부터 눈을 돌리고 있는 가운데, 여당 내에서 부동산 정책에 대한 자성론이 나오고 있다. 최근 2주간 꾸준히 상위권."
+        },
+        {
+          "rank": 5,
+          "word": "주식",
+          "count": 3,
+          "articles": [
+            {
+              "title": "‘불닭 창시자’ 김정수, 회장 되자마자 자녀들에 주식 증여…3세 승계 속도?",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vVU9HcV9keFdVZEdFMHNaNFdxS0xXdklsQlRodDJRRU5iMWZLd3Uta2hqbXV1b3NmTHBHRXdqcWw2Z0tLQ0pGLU5TWXVzNE1NM0tDaUdaQmItb3g4YkYwWXAxelNvVEdsQ3c?oc=5",
+              "source": "한겨레"
+            }
+          ],
+          "description": "'불닭' 창시자 김정수가 회장 취임 직후 자녀들에게 주식을 증여하면서 3세 승계 속도를 높이는 것 아니냐는 관측이 나온다."
         }
       ]
     }
