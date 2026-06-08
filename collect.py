@@ -436,6 +436,35 @@ def ner_candidates(titles, keep, n=30):
     return [(surf[k].most_common(1)[0][0], c, typ[k]) for k, c in ranked[:n]]
 
 
+def _event_anchor(word, titles, keep=("PS", "OG", "LC", "AF", "EV")):
+    """일반명사 키워드(심장 등)의 관련기사가 무관한 동음 기사로 새는 걸 막는다.
+    그 단어가 처음 등장한 헤드라인(피드 중요도 1순위 = 대시보드에 뜨는 그 제목)에서
+    핵심 개체명 하나를 뽑아 검색 보조어로 돌려준다(심장 → 에릭센). 결정론적.
+    개체명이 없으면 None → 호출부는 단독 검색으로 폴백한다."""
+    pipe = _get_ner()
+    if pipe is None:
+        return None
+    wkey = word.replace(" ", "")
+    pref = {t: r for r, t in enumerate(keep)}
+    for t in titles or []:
+        ct = clean_title(t)
+        if wkey not in ct.replace(" ", ""):
+            continue
+        best = None  # (선호순위, 표면형)
+        for e in pipe(ct):
+            base = e["entity_group"].split("-")[-1]
+            if base not in pref:
+                continue
+            s = _ner_clean(ct[e["start"]:e["end"]])
+            if len(s) < 2 or s.replace(" ", "") == wkey:
+                continue
+            cand = (pref[base], s)
+            if best is None or cand[0] < best[0]:
+                best = cand
+        return best[1] if best else None  # 1순위 제목만 본다(그게 그 키워드의 사건)
+    return None
+
+
 def filter_keywords(candidates, category, titles=None, ner_tags=None):
     if titles:
         # 일반명사 후보 뒤에 숨은 '핵심 고유명사'를 결정론적으로 찾아
@@ -785,9 +814,16 @@ def collect_category(feed_url, stopwords, category_name, strategy="kiwi"):
         keywords = []
         for i, (word, count) in enumerate(top5):
             article_count = 3  # 모든 키워드 기사 최소 1·최대 3개
-            articles = fetch_articles_google(word, article_count, used_links)
+            # 개체명 태그가 없는 일반명사(심장 등)는 동음 무관기사가 섞이므로
+            # 그 사건의 핵심 개체명을 검색에 붙여 좁힌다(심장 → "심장 에릭센").
+            query = word
+            if ner_tags is not None and word not in ner_tags:
+                anchor = _event_anchor(word, feed_titles)
+                if anchor:
+                    query = f"{word} {anchor}"
+            articles = fetch_articles_google(query, article_count, used_links)
             keywords.append({"rank": i + 1, "word": word, "count": count, "articles": articles})
-            print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
+            print(f"\n{i+1}위. {word} ({count}회, 검색='{query}') — 기사 {article_count}개")
             for a in articles:
                 print(f"  - {a['title']}")
         return keywords
