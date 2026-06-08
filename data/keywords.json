@@ -1,9 +1,9 @@
 {
   "date": "2026-06-09",
-  "updated_at": "2026-06-09 00:51",
+  "updated_at": "2026-06-09 05:14",
   "categories": {
     "오늘의 이슈": {
-      "summary": "트럼프 생일 백악관 UFC 행사에 중단 소송 제기 · 선관위 투표용지 부족 투표소 91곳 확인되며 부정선거 논란 확산 · 시진핑 7년 만에 평양 국빈방문",
+      "summary": "이란·이스라엘 교전 재개 후 트럼프 중재 속 휴전 논의 · 이정후 15경기 연속 안타 · 선관위 투표용지 부족 논란",
       "keywords": [
         {
           "rank": 1,
@@ -11,122 +11,168 @@
           "count": 3,
           "articles": [
             {
-              "title": "“트럼프 생일날 백악관 UFC 대회는 ‘부패 행위’”···미 시민단체, 중단 소송 제기",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rQWItS1NJc1lpdzA4bjJadFVTd2tiY2F4YzJwbkx0NktGZ182Vk5RUEF2RzVSYV9hTEV6Ulc0QlFOdjFwbjRYd1M1MTA1SDFJbWpGUTNvTnRrZ9IBX0FVX3lxTE93SlhaT2t1dUpuQVp5SmNRY0pUdFE4aDJNMmt5T0g5RmY0QlViRi1ocTZEREtqUzJoSW9ranQ0TTVTOEFtMlhLcHQ4S3BzSjRhd1A5eXgzM05PWWowTlI4?oc=5",
-              "source": "경향신문"
+              "title": "트럼프 말도 이젠 소용 없다‥이란·이스라엘 사실상 전쟁 재개",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NZUhZb0xKNldyRW1FdGdtaHMzZVlyX20xYjZYMEhWRjh4aldSSnpOMU5WV3gwMmZFMk9MTm15NElWSEVwYmF4MzlWSXZaU3c?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "“트럼프 생일 이벤트 중단하라”…법정 공방 간 ‘백악관 UFC’",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPcjFCeFVpV0hRNWhiVE15TVoxVWxCVEYxT2V4M1V2N3FNSl9aYm1Tb1BxQzIzWEl1SlhYaklXblIxaGlHcHNOVF84OWM5T2RRUEs1YnVnNHMwRzlsM0c3RHJ3?oc=5",
-              "source": "미주중앙일보"
+              "title": "美 케네디센터, 법원 명령에 '트럼프' 이름 철거 착수",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QbnctV0ZSV3NPb0dhZG9ic25fVlJDd3diVGVWRDVPZHFWTFdSaXZ3eVZybGowS1gtZGIwNXBhaWRxM3RJcGpmTFo1Mlp6Qjg?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "“트럼프 생일 이벤트 중단하라”…법정 공방 간 ‘백악관 UFC’",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PRjhKZmVjUlBrN3BSanVBSk1QWE1KZFdfdHBBQXA4cUlBS1AwYy1PUnd4TXhKNkN2UDhINUkwbDZWcjg1RHRiVlI1b0tmRkZYdG40clJn?oc=5",
-              "source": "중앙일보"
+              "title": "트럼프 \"금리 올릴 이유 없어…연준 의장, 벌 줘서는 안 돼\"",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nNHZQdDRMaWFZS0otYjFFRURPMGNybG9wM0NlaVVmTzFsb3dxSUNMWEJzZF9KTEZIM1l4MEFWVVlIeHhlQUtjRm5rT3VaaHNYckIyN0FXdk1qalF2cGZxYnhxXzJJWUs5T1Y3SGZFZEg?oc=5",
+              "source": "연합인포맥스"
             }
           ],
-          "description": "트럼프 생일에 맞춰 백악관에서 열릴 예정인 UFC 대회를 두고 미국 시민단체가 '부패 행위'라며 중단 소송을 제기해 법정 공방이 벌어지고 있다."
+          "description": "이란·이스라엘 교전 재개 속 트럼프 대통령이 '즉시 총격 중단'을 경고하는 한편, 연준 금리 인상 불필요를 주장하고, 케네디센터에서는 법원 명령에 따라 '트럼프' 이름 철거가 시작됐다."
         },
         {
           "rank": 2,
+          "word": "경기",
+          "count": 3,
+          "articles": [
+            {
+              "title": "샌프란시스코 이정후, 15경기 연속 안타",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYU9oRHh6VFJzMl9iTkZfdDk0Z3ZyX0R6eVU1UTVlSW9LVjJCWEgwLVRxZjB5T1dPM0l2aXdXTnd0T08td3BlUWdQQXhqSlhicHpPZzlBSnROd1dOTmFQSXBSLVUtM09LYWo3Z2FGN2RzenBOVmVsM3JFQVU0M1NKZkFBYUotbEJNZktr?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "이러다 이치로도 넘겠네…이정후 또 안타 15경기 연속 행진",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmRqamxtNjFqQk53VWMwRWhkOHk0S1dmeTg3UkRtWDEwN0Vzbl9iYXFxSy0yOEtKQW9zRnJ2UnRUbDEwRjBtSlNwUGprWkh0R3VqckNvT0F2bTFNejlMcDRpYjVKMzY1UUwweE1xUk9sZEgtSlFzbjBnSDlxejRwY0ZmYU1VWVRQNDlDeA?oc=5",
+              "source": "서울신문"
+            },
+            {
+              "title": "이정후, 15경기 연속 안타 행진…컵스전 1안타 1도루",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05eEhaczlDZmVrZ3NmODNremFkZk11Mjg3eGY1M2Qzc0cxcVpaM2VVUGk4UE5UMi0xclY1MzRtVXFZd1Jyd2diY3dzZFdHTFpWQlJFSHVoUzVmSTZ4SGt5UW1aampMaGFlOTdpcTR3?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "이정후가 컵스전에서 1안타 1도루를 기록하며 15경기 연속 안타 행진을 이어가고 있다. 오늘 처음 등장한 키워드다."
+        },
+        {
+          "rank": 3,
           "word": "선관위",
           "count": 2,
           "articles": [
             {
-              "title": "선관위 \"투표용지 부족 투표소 91곳\"",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFFfQTF5NUkwd1huTFZISE5kdU5NV2k4bWhpUmlmbFVVdFFILU1kNjQxOFRYSDhPRGtjT25Wd3JhUTNQd3dKeGNTWll1X3pUWk44WmdZYTNLU0VlRXE3V1Z6NzBFc1EwV2tTRTlnUERyblRuaFNWbUotem95VEtNa2RUUzZlT3RFOU9B?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "선관위 “투표용지 부족 투표소 전국 91곳”…사흘 만에 2배↑",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtV3FjTXQ3RXlDNVpTQzlIRndjSTFoVUZQUlpZdnRoc29XOWRMU3Rxb0hMM3M0X0RKOUZfRVpJaVlJWC1oR0JFSVRHLUtxSC14ZUp4ekFn?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "대구선관위, 투표용지 부족 사과…\"시민 불편 깊이 사과\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pT19UVS0zbkxmRFBxU2tGY011bjV6U0N1Q0hkd0NuUHhJTGNxN2tDT01YRHJCQnNlWjdMMEFpMmxLanRPbE5iVW1WNGZoZFJBamZYMG1xNkY2QkhJdGJfYdIBeEFVX3lxTE5OMklzUDlSSkIyR0F0RjBiYjBDQWREdHhBcmNwZU1uNWx4bGpycWtaYlVfWlhmY3FQUGZIVGdIWEtzV1pabFpxdVRxTzVnQUxscE41bnVYcDNhTTdsaTVEWGtmVWhvSnlkQ29mTGNpOVRhMVVsbVRSdQ?oc=5",
-              "source": "뉴시스"
-            }
-          ],
-          "description": "선관위가 투표용지 부족 투표소가 전국 91곳으로 사흘 만에 2배 늘었다고 밝혔으며, 대구선관위는 시민 불편에 공식 사과했다. 오늘 처음 등장한 키워드다."
-        },
-        {
-          "rank": 3,
-          "word": "평양",
-          "count": 2,
-          "articles": [
-            {
-              "title": "시진핑 주석, 평양 도착…7년 만의 북한 국빈방문 시작",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96RGtxLUQwamVCNGZsYW5hNTJ3UzhWeWpndnVuXzluZnpXMTBnVFp5YkczZ2lwOFJDaE56d3FJQTJTRTVBZ1pvbm1neHNhTmRVS3pYWg?oc=5",
-              "source": "JTBC"
-            },
-            {
-              "title": "\"세계서 가장 놀라운 경제 성공담은 북한\"…평양에 주목한 외신들, 왜",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vc1Y3dEctOFozenJvNWJZQWtVVTVJaXJPZnJSUU9xcTRrRGNWNlh1UVpUbFk3U0lWSXU3Z1dSZGtFRlhPUG44QVRQNl9oM2FDdHFjNUsya0doclBEbjhoNnVYV09hRXJ0ZWd3?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "시진핑, 김정은과 평양서 7번째 정상회담",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vaDFGUjlkTGIwMndEQ2YyTklJMmNEcFp2NDg3ZG45T2xYWjVua0tHQjJ6RXlTR2R2dXFPeVl2WVVTS2JrZmp3a3RpNU0wdUFyd2hndnpKQ2RmSXI4NXVkWdIBYEFVX3lxTE9vaDFGUjlkTGIwMndEQ2YyTklJMmNEcFp2NDg3ZG45T2xYWjVua0tHQjJ6RXlTR2R2dXFPeVl2WVVTS2JrZmp3a3RpNU0wdUFyd2hndnpKQ2RmSXI4NXVkWQ?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "시진핑 주석이 7년 만에 북한을 국빈방문해 평양에 도착, 김정은과 정상회담을 가졌다. 오늘 처음 등장한 키워드다."
-        },
-        {
-          "rank": 4,
-          "word": "투표",
-          "count": 2,
-          "articles": [
-            {
-              "title": "청주 선거인 명부 1295명 누락까지…“투표 못 한 유권자 있다”",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02VmVXQWcyMVd2dDhlNTNWTm1XWEstRk12VlFaTEhOdUpWejBnNUZWOE90NHFtVV81aVlBSi1nSmczc2poa2x6N2V6QnhlalFtWENYR1NVdnVsUWQ1NVprQzhTSzRvWEQz?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "인천시장선거 송도1·2동, 사전투표 득표수 똑같다…유정복 “나올 수 없는 결과”",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3Ty02RkpUOXFXb2lESmdpUVhESGNaR3FKVDlKWGJrNUdZWGFmOC1YQmd2UHFtSFowRFZRZVR4aWNMMEVBZm16STdtcXFGVDdf?oc=5",
-              "source": "문화일보"
-            },
-            {
-              "title": "임태희, 사전투표 폐지 등 선거제도 대대적 개혁 요구",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JVGp0eEZ4SlVCNE1RZTFWMEpCdGxQZkplRjAxQ2xKSUxjNVdGMHY4eFltdkctVGF0V2VUTUgzZEg2cFRjd2JyUFdPWHYySFVDR2fSAVNBVV95cUxOaml4YnRUd25ybW03WW51ZjVuQ2tfQTExSm81ZkFEUlZUa18zN1d3YnpBcEg0TEs1dzQ5Wm5IZkRFejZzb1ltZ3IyYzBWT2l2ZzYxbw?oc=5",
-              "source": "서울경제"
-            }
-          ],
-          "description": "청주에서 선거인 명부 1,295명 누락, 인천 사전투표 득표수 동일 논란 등 투표 관리 문제가 잇따르면서 사전투표 폐지 등 선거제도 개혁 요구까지 나오고 있다."
-        },
-        {
-          "rank": 5,
-          "word": "부정",
-          "count": 2,
-          "articles": [
-            {
-              "title": "모락모락 피어오르는 “부정선거” 음모론…투표관리원들 “부정선거 불가능한 환경”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03Z085QWdoRVc4aldMdEFwWVlldTdrX1ZOTUozaDdNakZmOUg1Ukp1c21SRVlRUHZialp5akJDajJkaDRoclRZcWxjanRaUjdJYVhHdDV2Y19BQdIBX0FVX3lxTE9NVUtGVGJCeUNiNUFxd0cta1pZcUFreEZqUHdWQUFITDItUGpfOFI5RFRjaHl2bE1KRkQyTmtISmdhMjRxY051SlZuYkhReEhCd0JlTE1HTmM2ZU05d284?oc=5",
+              "title": "사흘 전엔 50곳이라더니···선관위 “선거 당일 투표용지 부족 투표소 91곳”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05bERSN2d3bWhsQ0FDVm5oeU9SNWVFRjRrVnY4aTlCMl9CTHRseDB5LWlBWG9sUFVaZkdVY1BLU1pkQ2ZWOG5IVUZSdnp0TG9Tbk8ydmdpdXNad9IBX0FVX3lxTFA4MVlxWl8wMDB6MTVMVmIxOTZwWGY1UklhQ1FQUklyZGNHb0RwUFBta0ROZnJxbFdfVkZuc0NoTFVJWUF2T0FwT1M5eml3Z0NLSi00ZUdhWkpZUURXYi1n?oc=5",
               "source": "경향신문"
             },
             {
-              "title": "'부정선거론자' 모스 탄 \"북중, 총칼로 못 이기니 투표로 이기려 한다\"",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14RmxtRThuSmxseU9RblFxd0NVay1ldW42OWxiSmtBZXd0bGtpUWNJR185N3V2RzhkVTlyblEyWXF5NTZ3enc5UmRlRV8tRExUVE9zcGc4LWxyS1ktNUlkSm4zWXhfS3ljN1lNRlVtNU5PcUdWVHYw0gF3QVVfeXFMT0NZdm1ZQWdZaUVXSkpXTFlvSDNfNGZNVFJ4SkpqSjdDV1hjc2NCWFhrLXl5bk1BbWxQank5T1k4OVhkX3hpYVBuOXZBR3dVVk5RblJPaVFoTkZINVp3TEE1TTBvZU83QlVhdmx6UWp6VGFRWVhDNFk?oc=5",
-              "source": "MBC 뉴스"
+              "title": "피로 쓴 헌법을 무능으로 허문 선관위 [세상읽기]",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsRTNNWWpmN0xSSUtzaXhDbDNOT3VHQWgyQ0prODNlQUZFN3lON3c5U3dhVWJTTkRDUkZUMzFDSmZnLVdyc3FkRnJxOUVWekljcFAybkY4YXhwYnVRVjFndE5KY3Mydw?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "이 대통령 \"투표지 부족사태 부정선거론과 달라…저도 반성\"",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16TjltTjk5bVpLUjNjNmVrUHZKNWZkaWt3SzhuREpFVUlKZkxXTkkwMnkzd2F4blp3UGJvMVNReVNtRWJkYlN5N1FJX3djZkM4cHdPcQ?oc=5",
-              "source": "JTBC"
+              "title": "논란 때마다 말로만 “쇄신”…선관위 사과 못 믿겠는 이유",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iSXJBNXptckVCaElLNXVpUzZiZ2lZMHlvbi1CWHRkWlU0V2Z6SkNqczVZWmRxeXBaLTJ2SV9CbUtnZDhiMkdFVkJOYWJybXc?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "투표용지 부족 사태를 계기로 부정선거 음모론이 확산되는 가운데, 이 대통령은 '부정선거론과는 다르다'며 선을 긋고 투표관리 측도 부정선거는 불가능한 환경이라고 반박했다."
+          "description": "선관위가 선거 당일 투표용지 부족 투표소가 91곳이었다고 밝혀 사흘 전 50곳 발표와 엇갈리며 신뢰 논란이 커지고 있다. 오늘 처음 등장한 키워드다."
+        },
+        {
+          "rank": 4,
+          "word": "이스라엘",
+          "count": 2,
+          "articles": [
+            {
+              "title": "트럼프 “즉시 총질 멈춰라” 경고에…이란-이스라엘 교전 중단",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1NWVwc3l2TE53alJLUjVOcGNoT3lxeUwxRGpmamJqNlhkZXE1VEZqZnhtVkNzczZLWl9wZUs0Yzc3eWdDLUptMXZKNGE4aWM?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "속보 이스라엘, 이란 본토 보복 공습...종전 협상 '치명타'",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WTXZqY21QRy1LdGRPLUJTRTdGRDd6ckpKbndQSXJFR3dTTG9uRDN3NjVGRmJjZHFHSVZyTnY4OVBzdUhLVjN4XzROTkpveXpjQy1CVXBXVDdiTnpKeUE?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "네타냐후 총리 \"이란 공습 중단…이스라엘 피습 시 강력 대응\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtNzQ0ZUcwNHZLSTBUeWY3Nk9EZ1lMU2hTeUJocm1PZGUzVFE5X3Fpb1RHWVBqODZmZFBWcjRHdzRZb25seTNOakpsMjdUVG8?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "이스라엘이 이란 본토에 보복 공습을 단행했으나, 트럼프의 즉각 중단 경고 후 네타냐후 총리가 공습 중단을 발표하며 긴장이 고조와 소강을 반복하고 있다."
+        },
+        {
+          "rank": 5,
+          "word": "휴전",
+          "count": 2,
+          "articles": [
+            {
+              "title": "휴전 흔든 이란 미사일 공세…트럼프 \"보복 만류\" 진화 총력(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XQ2drNEIySi1ZVnNQT0FCNlk3dXNuOUVZaktRdmtoQ1BhVnh0ckFGbm9tOWhqdVEzRVZDTV9ZS1poMWFQS001NU9Ddm9kaVE?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "트럼프 \"자존심 강한 이란, 결국 합의할 수밖에 없어\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jaDloS2xVdzlXbmpIZG1RQzJnOWJJXzRRd2hPaGk4blFwQTNSN3dMYUN0V24yeGI3TUdkbzRBQjBPYlZ6WE5CV1N3NnNPMDlHQUE0S0VtNDNsczFqVF8xadIBeEFVX3lxTE0xd0dKTmNhRzRTSjFfOGtQRDY2ejRfal9vaXViVTRhTjRxWWowTm5YVG51YVpFN25Pa2pYbE44bmhuRGRkV3Bld2l0WlI0bnBYT2dvVHhjWC1TUUp0OW5iS3pDdmh0MGp0S0xJa3ZhbnNqNWF1ZVNpUg?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "美국방 \"이란과 휴전 유지…좋은 합의 조만간 이뤄질 가능성 커\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RVEFXU0xFOVB2VjVINy1EUmcyaUJYWnhXdF8tbFVrSGlmSjNJUjdOYVpMZFRxc0RBWVZVMzBobEVzbU1iVEh1VVFib2t1RkFZZFRNVTdwRkRRQTjSAWBBVV95cUxQa2N2UDVyQW8wcmNGdERtU3pORHV2RXgwdDI4NnRvc2xROWNDbUVHaURpWEdEdjRKN2NFNU5sUVdFZkplWlVfVDJfNi0wZ1FYdktISEdRNnhSVXhiUVJpWlM?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "이란의 미사일 공세로 휴전 분위기가 흔들렸으나, 미 국방부가 이란과 휴전 유지를 확인하며 '좋은 합의가 조만간 이뤄질 가능성이 크다'고 밝혔다. 오늘 처음 등장한 키워드다."
         }
       ]
     },
     "연예": {
-      "summary": "솔로지옥·환연4 출연자 논란 지속 · 이승환, 윤서인 사생활 비하에 손배소 · 김수현 해외 광고로 활동 재개",
+      "summary": "김수현 해외 광고 촬영으로 복귀 시동 · 이승환, 윤서인 발언에 손배소 · 시크릿 12년 만에 컴백 · 넷플릭스 '참교육' 화제",
       "keywords": [
         {
           "rank": 1,
+          "word": "김수현",
+          "count": 1,
+          "articles": [
+            {
+              "title": "김수현, 복귀한다…“필리핀 브랜드 광고 촬영”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XZW95aDQ0ZFZRZ1R0MUJPU3Y5MEJLSUVnUU85WlRnNWI0X1ctLWM4UWtHaWo3R0NBTDUzN292dUl2azFxWGZzM2pWa0J3QkxLZGlVTVZ4XzV3V0tOMXfSAWNBVV95cUxPS29LWjduY01tamd1RXZqWnVaeFo0dHNGc2tmU2UwZzI2WWFpVmpGRTQyczE1X1lMUzdxQUNIUzlRNUxxU2pPQmFpMGRQYVpfWFMyTURMSk1XOW43QlhSTHZ0RVE?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "김수현, 멈췄던 활동 1년 만에 재개…해외 광고 촬영으로 복귀 시동",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GUVE1MkVwZDRJRG01Nm9mZ1VYa0JyM2ZkanNmeGZZV2tiQjEwLTdGMUtZTk5NWHRmVDVKWGdqVURTcHcwekpsWVRqb0JJcTJEb0ZkanhYLVhzdVJYOTExcUZVckZoX296NFE?oc=5",
+              "source": "SBS 뉴스"
+            },
+            {
+              "title": "‘김수현 의혹 제기’ 김세의 검찰 넘겨지자… 광고주 손배소도 속속 재개",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHNzS2k2Q2hlWWJNRUNhX2RDbkhqUXJMcHNSS3BPd24yVzdvcU5ZQVZhaUJ1aGlQM3JxVjdMLUg4MDE2S0pPbVh4bmhRU1M4ZDdUb05UQXBHVEwtNzNlR2VtZFRqY3J2ZGNyYXB5Ync3cHBqRVl1V2FldEt0cmxaTkVaSkhrekk?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "약 1년간 멈췄던 활동을 재개하며 필리핀 브랜드 광고 촬영으로 복귀에 시동을 걸었다. 한편 김세의 검찰 송치에 따라 광고주 손해배상 소송도 속속 재개되는 중이다."
+        },
+        {
+          "rank": 2,
+          "word": "이승환",
+          "count": 1,
+          "articles": [
+            {
+              "title": "“이혼이나 당하고” 발언에…이승환, 윤서인에 5000만원 손배소",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeG8xRUMzQ1c1SXlUdzNiWU1rRFJoenVFT1Q4b2cwZ21Jb0M3Y2xDM1Q4Z2hINDY4QTIyRXBSbk95dkpEWi13QVpxd2RWUE8yZHBWTnNn?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "이승환, \"이혼이나 당한 선동꾼\" 윤서인 발언에 5000만원 손배소",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMUlWam80Um05Y0ktVGIyT0FUUEFQT1U4eEJQalpsb1FWSllkY3dsOUNweFZiSE9mMU1SNlIzS1VENWVDY0tCaEliVVBYSVloWmZ1UGVSbF9ta2trNkFMYXhfTmNOTkZmNnc?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "친일파는 '갑부'·독립운동가는 '거지' 묘사한 윤서인…이승환 \"모욕죄 고소\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMT2xoSENRbFFsYTdpTWltVUVGVTM3YjZIaW5jTnppRDFmNlROcGRJbVNDdEZDbHZ5TVlNejFaRDFnXzVHRXFGUzI1UE1EaDA?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "만화가 윤서인이 '이혼이나 당한 선동꾼'이라고 발언한 데 대해 5000만 원 손해배상 소송과 모욕죄 고소를 제기했다."
+        },
+        {
+          "rank": 3,
           "word": "솔로지옥",
           "count": 1,
           "articles": [
@@ -146,109 +192,63 @@
               "source": "SBS 뉴스"
             }
           ],
-          "description": "'솔로지옥5' 출연자 박희선이 사생활 허위 루머에 대해 직접 반박하며 피의자가 검찰 송치됐다고 밝혔고, 시즌3 이관희·최혜선은 2년 만에 생존 경쟁 프로그램으로 재회했다. 오늘 처음 등장한 키워드다."
-        },
-        {
-          "rank": 2,
-          "word": "이승환",
-          "count": 1,
-          "articles": [
-            {
-              "title": "\"이혼이나 당하고\" 이승환, '사생활 비하' 윤서인에 5천만원 손배소",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLbmdLbVhRVUp1eWVoU1MtcWE4cjY0QlRsNFFQUkdsalhBVXE1WUtxQ3p4a0RkT2FoV2pUTjRpb1dsOC1hNVVydGd3Znd5ZGs0U0swTUE5cmFHLTV5M3Jwb9IBeEFVX3lxTFBaWDY0cWZEN0pkazlzTTQ0c1V0NUxkYm9TcVRSdXNVdFhyRzdHSkdoeGg5U0hEOG1hcEpVbUt4OG9CdzMxWG04cDdnSWhCa2RIbnQ3TGFXN180NEhCQVRWYi1XZGZiZWRNXzBPUzhwWWNmSjVsOTNQTA?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "“이혼이나 당하고” 발언에…이승환, 윤서인에 5000만원 손배소",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeG8xRUMzQ1c1SXlUdzNiWU1rRFJoenVFT1Q4b2cwZ21Jb0M3Y2xDM1Q4Z2hINDY4QTIyRXBSbk95dkpEWi13QVpxd2RWUE8yZHBWTnNn?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "\"사과문이라더니\"...이승환, '이혼 조롱' 윤서인에 5천만원 손배소",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTExsUUlrSUhwX2stWWl0Qkp4YnM2ODFCMTFTVS1MaFRWRWV3Rm1JNkRoQndWNlVWZlp1NUpWME9LSEllSFhvM1JaMWVLSTBDa2tfdlU1Ty15VG9RenBtNmhfbmw4QjR0ZGEzWHF1WXh1bFVGOWozblRaQ1A2YTJscQ?oc=5",
-              "source": "이데일리"
-            }
-          ],
-          "description": "이승환이 자신의 사생활을 비하·조롱한 만화가 윤서인을 상대로 5천만원 손해배상 소송을 제기했다. 오늘 처음 등장한 키워드다."
-        },
-        {
-          "rank": 3,
-          "word": "김수현",
-          "count": 1,
-          "articles": [
-            {
-              "title": "김수현, 1년여 만에 활동 재개…\"필리핀 브랜드 광고 촬영\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yb2pSdmNzN2NGVjZKWWYyTmtkTDgzVTJJX1U3SEVnclk5d1c4ZUpzNTBScG1JR2ZQSlZkbzFPRXdXc05SNXNnbmVFaXVDb191U1M2ME5PcU5tWnPSAWBBVV95cUxNOTRUdVBqZmloTk5XeTVsMXVybnhibXlTRS1sbFBoYjBHdzZNTDktQjBQSzBlaUY0VXFmVlc0TjAzRERUblVyMmprQXhtbXBUaVVHODF0MmRfNmstRi1ielo?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "김수현, 멈췄던 활동 1년 만에 재개…해외 광고 촬영으로 복귀 시동",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GUVE1MkVwZDRJRG01Nm9mZ1VYa0JyM2ZkanNmeGZZV2tiQjEwLTdGMUtZTk5NWHRmVDVKWGdqVURTcHcwekpsWVRqb0JJcTJEb0ZkanhYLVhzdVJYOTExcUZVckZoX296NFE?oc=5",
-              "source": "SBS 뉴스"
-            },
-            {
-              "title": "‘김수현 의혹 제기’ 김세의 검찰 넘겨지자… 광고주 손배소도 속속 재개",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHNzS2k2Q2hlWWJNRUNhX2RDbkhqUXJMcHNSS3BPd24yVzdvcU5ZQVZhaUJ1aGlQM3JxVjdMLUg4MDE2S0pPbVh4bmhRU1M4ZDdUb05UQXBHVEwtNzNlR2VtZFRqY3J2ZGNyYXB5Ync3cHBqRVl1V2FldEt0cmxaTkVaSkhrekk?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "김수현이 약 1년 만에 활동을 재개하며 필리핀 브랜드 광고 촬영으로 복귀 시동을 걸었고, 의혹을 제기했던 김세의가 검찰에 넘겨지면서 광고주 손배소도 속속 재개되고 있다. 오늘 처음 등장한 키워드다."
+          "description": "'솔로지옥5' 출연자 박희선이 사생활 허위 루머를 직접 반박하며 피의자가 검찰 송치됐다고 밝혔고, '솔로지옥3' 이관희·최혜선은 2년 만에 생존 경쟁 프로그램으로 재회해 화제다."
         },
         {
           "rank": 4,
-          "word": "환연4",
+          "word": "참교육",
           "count": 1,
           "articles": [
             {
-              "title": "'환연4' 조유식, 곽민경 언급 후 \"비방 법적 대응\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xX3ZySER1V3hRSHI5ckd1YkVJTzdua0ZkaE5kczh3OFRqbkxHcmU0eE1uZjhDRHQtWk1BLTJsM0xVZVlkekhaUGwycHJ4d0JvRzdEc2NlWUhOcEFlWWtPd0hsU0o4YU0wU21vUF96MVRZdm5oUjlOVtIBeEFVX3lxTE0xX3ZySER1V3hRSHI5ckd1YkVJTzdua0ZkaE5kczh3OFRqbkxHcmU0eE1uZjhDRHQtWk1BLTJsM0xVZVlkekhaUGwycHJ4d0JvRzdEc2NlWUhOcEFlWWtPd0hsU0o4YU0wU21vUF96MVRZdm5oUjlOVg?oc=5",
-              "source": "뉴시스"
+              "title": "'짜릿 도파민' 터졌다! '참교육' 김무열, 교권보호국의 '화타'",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HS0RaUTdJd25Ba2tLbUJBQ21xM2ZyNkh2LThTR0NjU01tbGEwSlQtWnVseWhuNG5MY05SSHB1WmVVcG82QlJlV3hiLXh0UQ?oc=5",
+              "source": "전자신문"
             },
             {
-              "title": "'환연4' 정원규, '♥박지현' 뒷담화 목격담 유포..\"결혼 확신해\" [스타이슈]",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPMGNxcUgtU1dJRnoxeXJnRGd5U1dCWEkzY3hhNnpHdmxEWjRmTl90bzJ3cGdIeVMyT0VsNFlyT2h5b3BvYmRVOFUwMnQ5TGVURi1IN0gxN3A5VklfZlhzSVFjd252dFBNcW9sbWVBUFBZMmc?oc=5",
-              "source": "starnewskorea.com"
-            },
-            {
-              "title": "댓글창 닫은 ‘환연4’ 조유식…”악플 법적 대응 준비 중”",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wNlpGbHJ5ZkUwOTRCS1hvN0l4R0VoNFh1dHV3QTdzeURmXzJMWHFaZmlSX1BzVmxMVGFWalVKMldvMG1mSzFSQ2lTSjJ2Tm9CbE5IZWpRdzBOM2JuYjNhVFV2OWlSbzTSAWdBVV95cUxPcDZaRmxyeWZFMDk0QktYbzdJeEdFaDRYdXR1d0E3c3lEZl8yTFhxWmZpUl9Qc1ZsTFRhVmpVSjJXbzBtZksxUkNpU0oydk5vQmxOSGVqUXcwTjNibmIzYVRVdjlpUm80?oc=5",
-              "source": "mhnse.com"
-            }
-          ],
-          "description": "'환승연애4' 출연자 조유식이 악플과 비방에 대해 법적 대응을 예고했고, 정원규는 박지현 관련 뒷담화 목격담 유포 속에서도 결혼 확신을 밝혔다. 오늘 처음 등장한 키워드다."
-        },
-        {
-          "rank": 5,
-          "word": "미우새",
-          "count": 3,
-          "articles": [
-            {
-              "title": "“혼자도 행복해”…린, 돌싱 10개월차 근황(‘미우새’) - 스타투데이",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41VlR0Vl9ZX0tzdi0tbG5ESnAtMXhHUC03RXZUT0l4Y0wwZnlEMnFLa25XWXBOb3QwQjg2WlJnbmRQVVd3TlJlMXVZVk9YSUp3YmF4REVXZXU?oc=5",
-              "source": "매일경제"
-            },
-            {
-              "title": "강예원 “당장 갚아야 돼요?”…사망한 부친 11억 부채에 눈물 (미우새)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNNTQ1d2I4S3hna3FWdHBOcWlyRmZacWJFZjJYNUF1VWpmSWFCaWprb1JXa2VRcktBU2dxel9vT2wyS1F3X2hkYmUtSHN1QzA?oc=5",
+              "title": "15년차 교사인 내가 넷플릭스 '참교육' 보고 불편했던 까닭",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yN0twNUY4b2J6T0p1NUlsYnNpaWNocFhRWHZvRjFBeG90MG83N0FOR3pmVVozd1c2Ujd3N0pNQU5NZFItRHc?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "강예원, 부친 사망 후 11억 빚…“5월 안에 갚아야 하나” 눈물 (미우새)",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mdUdsYkRlZGlNaGNueTlBcmxIcDNIU01SNm00WDNTYWhOMHdJWHpIc2pfc3NDS051dU04bENqUjlxNjZnaExROHY4ZTk4T3NUbV9US1Bma1VSbGxaS3fSAWNBVV95cUxNTzg5clNpTU5hR3Y5VlVEb0NMa2hSamw3N19hcFZqTHZNS2lNRVVoTTRmRFk0SzlnN0gzd1NrZGtBTzRoS3BpUmZ2SHdES1NWcWlDdkJLYTQ1dXZKb1B2NWMtcVU?oc=5",
-              "source": "스포츠경향"
+              "title": "\"쌍욕 날리며 잘 봤습니다\" 김희철, '참교육' 박지연 역대급 빌런 연기 '극찬'",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GWjVhc2VYZDdiTEdubTBVcEU3X245N2pFRndoMkpDdFNpYWJtZWtQQ1BydjhiSEo3ODJ0Ri1UX2NFQllVZUE?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "'미우새'에서 가수 린이 돌싱 10개월차 근황을 공개했고, 배우 강예원은 부친 사망 후 남겨진 11억 빚 문제에 눈물을 보였다."
+          "description": "넷플릭스 '참교육'이 공개 후 뜨거운 반응을 얻고 있다. 김무열의 통쾌한 활약과 박지연의 역대급 빌런 연기에 호평이 쏟아지는 한편, 현직 교사의 불편한 시선도 함께 나오고 있다."
+        },
+        {
+          "rank": 5,
+          "word": "시크릿",
+          "count": 1,
+          "articles": [
+            {
+              "title": "시크릿, 12년 만에 컴백…'추억 소환' 스페셜 앨범 발매",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90TFhkM3Bna2NocE5XOWJsNW1oQWwwUVN4cVh6U1V0bmNXRHFwNThTRFlwUU9rRjNyMWtiak9hdnpwVUY2OFpVREVMaWF3U1VFZmxLZlRHVEdtVjhXNlphdtIBeEFVX3lxTE40anBsdXplcXlLOXpqNDI5SGdzS2w1emtNNmh4MG5DalFXMXl2VVk4U0J4Ry1mQWlHWFZnbEpXbm9DVDlURm14bjhKOEtmZEIweFVEaGFqUXdoTElfdng1cEJCc21wTXRKMnZpb2RwbVoxd0VpUHFPTQ?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "\"10년 전 탈퇴했는데\"…한선화, 시크릿 소환에 '난감'→센스 있는 대응 [MD현장]",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RTHVHNDN6NXVKTGxuQ2VPSFJkWDRHQ09KZjd3RDVTT0hIQk9RY3NVVVF2STJxV0NxeFZCY2JVUnhFX3RiUVItbjRXMlVKaXVVV1lR?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "걸그룹 시크릿, 18일 새앨범…3인조로 12년만 컴백",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZU2ZKc2FEY3lRcnctNTRPbEZHUmhKNDhYWkp1TlFKZjFLdDRLbDh1RkUzaEdMR3FZbjBCR0J5c1YwSUprclNjUGdBUHZDcEF1enhzTXRUZ092LUlmU0VUMdIBYEFVX3lxTE1ZU2ZKc2FEY3lRcnctNTRPbEZHUmhKNDhYWkp1TlFKZjFLdDRLbDh1RkUzaEdMR3FZbjBCR0J5c1YwSUprclNjUGdBUHZDcEF1enhzTXRUZ092LUlmU0VUMQ?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "걸그룹 시크릿이 3인조로 12년 만에 컴백하며 스페셜 앨범을 발매한다. 과거 탈퇴한 한선화가 시크릿 소환 소식에 난감한 반응을 보이며 화제가 됐다."
         }
       ]
     },
     "경제": {
-      "summary": "코스피 8% 폭락으로 서킷브레이커 발동 · 젠슨 황, 네이버·삼성과 AI 협력 논의 · 원화 약세 심화",
+      "summary": "코스피 8% 폭락·서킷브레이커 발동 속 환율 1,550원대 급등 · 젠슨 황 방한해 한국 투자·새만금 데이터센터 참여 논의",
       "keywords": [
         {
           "rank": 1,
           "word": "코스피",
-          "count": 2,
+          "count": 3,
           "articles": [
             {
               "title": "코스피, 8% 폭락에 서킷브레이커 발동…8000선 붕괴",
@@ -256,86 +256,109 @@
               "source": "경향신문"
             },
             {
-              "title": "'검은 월요일' 코스피 8% 내린 7,484 마감...코스닥 9% 폭락",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WVWdFM2otS1JvNnUtTUt2dkdDRWI3dnpiTGhsdUNOc3ZObG5UWkJvUHF1MlJzOWNjZ1cyNUlKWlpaVkI3MkFzajF3cXJkd2NkSlBYdWZQLUNuRmZnVXc?oc=5",
-              "source": "YTN"
+              "title": "피하지 못한 ‘블랙먼데이’... 코스피 7400선으로 폭락 후 소폭 반등",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2xTaWtkMThCY1lkM25fbEVlTDc0al9Cb0hDVDNkT29NdmUydTlRUnFZYjNVcjd0X2xjVVgxN0hqNHFRclZ0RjlUcFRack8wVXJkTGVocm5tUDNWV2Z0eEpVNm9aVXBvd2JmeHZBdlhnclpKd19FbFhjNnhyOXVuSnBkQ2dmM3pUMmY0?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "'검은 월요일' 코스피, 8.3% 급락 마감…코스닥 9%↓",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBscGJsaDBtUEdUYXhYUnVNUkcxR2RmaldkU0V2TTFOTjNha3BWSDNMZ09BdmpYRGEwUnVVYnByc1BDaXp3UUdzZnVtTkZ1VFQzZHFmb2h2R05yek3SAWBBVV95cUxPTkJqcDlqXzlXQnZ2T2Zsd0Z3YWRlTFgwWG1WU0JJWkZCQndGbkNNZzVFMEVtMzZjR2IzajFsY09XTm9xZVp2Ym9QMm9EVzEzemFJNXl0RW1zS3hfd0NuYUU?oc=5",
-              "source": "연합뉴스"
+              "title": "코스피 폭락에 삼성전자 글로벌 시총 11위로 밀려",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PdGlwei1ud2Z1cHNnRDZYU1NlSlZkNXFtb0VxeU9iWm9jOXVySnhOMjdXZnYtLUNrUENzYU93dXZ2ejQ0dHRWc3RNamJJRU5DdnNQNWhiTmVmOFBtblE?oc=5",
+              "source": "YTN"
             }
           ],
-          "description": "코스피가 8%대 폭락하며 서킷브레이커가 발동됐고, 7,484에 마감해 8,000선이 붕괴됐다. 코스닥도 9% 급락하며 '검은 월요일'로 불리고 있다. 최근 2주간 꾸준히 상위권 키워드."
+          "description": "코스피가 장중 8% 폭락하며 서킷브레이커가 발동됐고, 한때 7,400선까지 밀렸다가 소폭 반등했다. 삼성전자도 급락해 글로벌 시총 11위로 밀려났다. 최근 2주간 꾸준히 상위권 키워드."
         },
         {
           "rank": 2,
           "word": "젠슨 황",
-          "count": 4,
+          "count": 3,
           "articles": [
+            {
+              "title": "젠슨 황 \"한국에 수천억달러 사업 가져왔다\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tSnBvRDR4Tk9qTEVMaFMwNnVrMG1RT2gwLXFBZzNTa3hGMTZwV1pvVWZBb1pCVkZPT2ZDblJvQXVLV1lZWG5CbWk1R0J3UlYtNExjNlBUb1BtMW_SAWBBVV95cUxOY3hBSV9NZ2x3Q1hPcjJJaW5QeXZkTG5YRWh3WUlfY2NMSnN1MFE5b09JVTlWTDAySlFvYjdTQlA3LUZaZE1wak8yelBudDJrY0cwcXRtb1JEWGFXZWViYmk?oc=5",
+              "source": "연합뉴스"
+            },
             {
               "title": "젠슨 황 “네이버 10배 커질 것”... 이해진 “삼겹살 항상 쏘겠다”",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iNG5tazJiU043SENvX1otMXJ4UFhYMkoyQ1lQc3ZYVFh5N2JmU2lHQzZzZy1sb0hvdUJmQ01fdnBTbi1RRjRVTmRFVHQ2bHM?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "젠슨 황, 네이버와 AI 팩토리 구축…스타트업과도 협력",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XRzE0VTlDbGhoWG1sWk9PenlFNWVMUDZRdE1ta3U5Y1VENUhWcjkzcjhHV1NfSXJPWHpEcjFUQjdNWU9NS2FyeUJVXzEtemc?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "젠슨 황 “네이버, 10배 더 큰 회사 된다”⋯협력 방향은 ‘AI팩토리·프론티어 모델·로봇’",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDeUd2OHRaeER0aHIwVHpCdVd3WWxjMlF1dmRkU2Z6Qmc4ODI1RGV2cTIwaDNUVFRkbU05bUtkb2psYTdkY3lGcW91WEx4N0Zja0hJMw?oc=5",
-              "source": "이투데이"
+              "title": "젠슨 황 만나 조용히 실리 챙긴 경영자들",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZUhpLTZqRlUxN1RwRF9lTlAzYzVOdWlIS0RpVVJTTnQwTklVV2VJOGxRTlVUVGlqVWlIc1FkQklQZ0dZWnhkLTJlV3BuR1o3dU96Zi1lcDFNOTNLemg0WEpQOHZaeGJQTlo4Y0VHc1RBUC1pM0NEWUxaRW56OE10OVhWemM4TFhXMTgyNHZpSQ?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "엔비디아 CEO 젠슨 황이 네이버와 AI 팩토리 구축 협력을 발표하며 \"네이버가 10배 더 큰 회사가 될 것\"이라고 언급했다."
+          "description": "엔비디아 CEO 젠슨 황이 방한해 \"한국에 수천억달러 사업을 가져왔다\"고 밝히고, 네이버·현대차 등 주요 경영자들과 잇달아 만남을 가졌다."
         },
         {
           "rank": 3,
-          "word": "원화",
+          "word": "환율",
           "count": 1,
           "articles": [
             {
-              "title": "韓주식 보유하지만 원화는 판다…환율 쏠림 키우는 '외국인 환헤지'",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xckQ3ZnpycEgySkVTZ0RVOXk4Y3ZyT05PUVMxSEllb01vaUtJR1RvU0NPUTlnby1VcFJUcGJmeV95eDVrdlBSZVBPSXd0WHZHNFdxVGFMY25Rd9IBVEFVX3lxTE00VzNjRlB0NW40WTJhTlcwOWpTd2NENVlFSlF3MUd3RHJLaW9kS0twX1dwb1dDRk5XcVNoLXg3QnhtUnlaUWFad3hmUkZ3cWs3Ny1xMQ?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "동남아·아르헨티나보다 더 떨어진 원화",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYVo3d0xzSzVqamdSZ0JRWW5NS1lRc29JLTBQcXFhZGd4NkFXZ0xuWGVxZlo1YlBGdFhWSUhXTXBaMVM5R2w3ZmdlM3pnTjhXb1BaT0ExSGNMSUVpUVdPekVxX0I4ZDVKcEZDRDBpV1htdmYyb0VtX3pDRmlXbzc4Uk9kOWFTbC1CWVUyeTF3?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "3200억달러 시장 열린다…원화 스테이블코인 놓고 금융권 각축전",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4teGEwU1dWd2pGVk1CUndFNW1TcFlUNHVsUkxPNVQ5bURjMDJqZ3c5bFVlVW5sNF95bjhXa1JHWExpQ3lPZ1ByOWNKeEdCSDluTlE?oc=5",
-              "source": "매일경제 마켓"
-            }
-          ],
-          "description": "원화 가치가 동남아·아르헨티나보다 더 떨어졌다는 분석이 나오는 가운데, 외국인 환헤지에 따른 환율 쏠림과 원화 스테이블코인 시장 경쟁도 주목받고 있다. 오늘 처음 등장한 키워드."
-        },
-        {
-          "rank": 4,
-          "word": "삼성",
-          "count": 1,
-          "articles": [
-            {
-              "title": "“부모님 휴대전화 바꿔 드릴까”…삼성전자, 오늘부터 20% 온누리상품권 행사 [잇슈 머니]",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQWkJMc2tvMlhLU3ZLVWt2UW9jRkk3ZmVEZzlLVXNFMnFNeDFYZHFmV0x5dHVsdEFwT3VRVDZhTlNSd1BGbXZsOGQtVi1rQjVDa3l0VUlBOEZ0UVE?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "젠슨 황 만난 삼성 전영현 \"HBM4E·HBM5 등 장기적 협력 논의\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IVkJKczdiRDBWSHFMVnR6NHI4UlVTdm9kMVVPUFNLMXZUMTdid3ZsdXNQRU5zdDFkYXFVZG93QWFhNWQ2YU9mdTdkcjNSLVU?oc=5",
+              "title": "환율 1,550원대로 출발해 1,530원대 마감…구두개입에 하락",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHcWl3c0owVUU5NTNrUVRFRTRadVBPRllPRGx3cnZzMEt2bWF1elVqSEY1VHhDMlI4R202alhKZVRVSTQyc1R6Vl9vLXhIQTA?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "삼성바이오로직스 노조, 삼성그룹 초기업노조 탈퇴 추진",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xSHRMZ2M4VmNDWmlFTmZWamhXdUl1SGRwbVNsVE5ERDRXRWZ0WGJZcGJyWjZGVEZYWXlNZnlBNHQyU0hLY0dRT3J4VUhFeTV1TWlFTG12OC0ycUppVUhhVU00VnlmcXM?oc=5",
-              "source": "연합뉴스TV"
+              "title": "코스피 7,500 하회·환율 1,555원 위로…금융시장 '검은 월요일'",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12X0dKVG9paC1yNXEzUDhPMDU1NGF4Y3BCSHpEZDBRSkp0YU93a3FsaUJFcS1Td2lCdTZWdXdKWTdUb0tXdmRkQ1p1a2ZvNzFVT0YyUFZwdmpVLXfSAWBBVV95cUxNMWJwVndpcWZ1ZXpFM3NwUjNnTzUwRnJOeUx3TTFEQXJ1YjNHTTdNSzRJVGhOaVpJVXNlUGp1b19Pa2R4NVc4TndXeG9JbENqTUFDMU82RUVVS2NETXlDaVA?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "\"1500원대 환율에 대한 진단은?\"...날카로운 질문에 이 대통령의 답 [현장영상+]",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsRXRmQlB2RFJlcTVncXZUeGRzWkhJOXFJdWRvenpkeFZuaFEwYUMwWEVWM0dNbThhQ0FTdmRHSGJKUjFRSlYxSW5hdDcwOWx5c0NWVFZtU1QzdXBuZmc?oc=5",
+              "source": "YTN"
             }
           ],
-          "description": "삼성 전영현 부회장이 젠슨 황을 만나 HBM4E·HBM5 등 장기 협력을 논의했고, 삼성전자 온누리상품권 행사와 삼성바이오로직스 노조의 초기업노조 탈퇴 추진 소식도 함께 전해졌다. 오늘 처음 등장한 키워드."
+          "description": "원·달러 환율이 장중 1,555원대까지 치솟았다가 당국 구두개입에 1,530원대로 하락 마감했다. 이창용 한은 총재에게 1,500원대 환율 진단을 묻는 질문도 이어졌다. 최근 2주간 꾸준히 상위권."
+        },
+        {
+          "rank": 4,
+          "word": "하이닉스",
+          "count": 2,
+          "articles": [
+            {
+              "title": "하이닉스 8% 떨어졌는데…ACE단일종목 레버리지 50%↑'이상거래'(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iU1B1d0dFcWhJWlBoVk5mY1Z2dHBiTElaLS1VeGItVDN4QlpnczVKWEwwUlkweXFXLXdZbFhIZFRTZVlLOG0ySlZyV0lReFE?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "하이닉스 본주 8% 떨어졌는데 레버리지는 50% 폭등, 무슨 일?",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TcXdHSERVU01nQkZJM1VkemE5U1pfemlLQV9weEItX0RqRkxQLXRReGJSQ2hvSFNVRExOUjZtbGtCLS1yanZiWjZsc0dCRExwWmVUVENCWEZUUdIBX0FVX3lxTE9oN2RSeEpzcGRMYlVIeDB1RzE1NEF3YkhNd1pyS2VROVlGV25sSlRDMkhHaWJhTEFaUG1XR1FscXpFWUctV3BJRE9ReEQ2RS1qbDVsMHkteGwtcm5WSmlZ?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "급락장서 '하이닉스 레버리지' 50% 뛴 까닭",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1raHRrU0dvUzRzMWh3Q09ZOV92N29KQm9RVjliSzRtSV95dXpmM3lGN3hxS0hLQXZualRkWXRpSGY3eXNIZHVkMFQ4OUFrYnNUWDhQUnhxeXZrZ9IBVEFVX3lxTE9UU2xMUE5KQUpNTGthZUFQNU4xZEM3WWZTc1NldW9ZcnMtZlhkX0djY1hhdzBhNXY1SzFMOHpLZ1h4Nnp3Mnp5QWJ3eTJnaWxVd1o1YQ?oc=5",
+              "source": "한국경제"
+            }
+          ],
+          "description": "SK하이닉스 본주가 8% 급락한 가운데, ACE 단일종목 레버리지 ETN이 50% 폭등하는 이상거래가 발생해 원인에 관심이 쏠렸다. 오늘 처음 등장한 키워드."
+        },
+        {
+          "rank": 5,
+          "word": "정의선",
+          "count": 1,
+          "articles": [
+            {
+              "title": "젠슨황, 정의선 새만금 데이터센터 제안에 \"짓게 돼 기뻐\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ka0kxU1QxWXJGbXR5NGd2MlNPdGlGYzFDenMyQTQ3SW1LbTF4eGlEbFlUbGtFaXZIcjg0SFlQU0JySUhBVHF0U1huMVcxX0I5MldlTHh0VXpsYm_SAWBBVV95cUxPN1U0Tm5DOVVyRTFfRDJYRkJHNUo3dTFqalUxZ3M1bEJlbE1NVHZZaFJOc29hR1lBTUtOcFc2a1ZrNFc1c3M2YlBZTlNncUNDTVI1b1BLaFNUTS1hMlNyVDA?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "정의선 \"젠슨 황에 새만금 프로젝트 설명…AI·데이터센터 참여 제안\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85RWxwS0E3NDM0T1JFcTVBc0EtajlfWU8yX3RRNXhCQmR3VDRwR05wWHJkVVRUb2dFS2d4SWVPVlhJMmVLeFdvNzRSdGJXNU9BODhId2xId0dwaGg2NjZ5d9IBeEFVX3lxTE84OENlWWZ2S2QzeEUzUk43bW1IMVU5XzQ4bnR3SHJTakExTE1yUE9zcDRKMFBmeUxnQVJ2X1Fva2h1OE5LeDBLOWNhVEJxWlFoOHdhYXpLZGY3enY4NElROHdkVlRmTU9iN1JteDVEOVZxUndLbTBmeg?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "취재진 질문에 답하는 정의선 회장",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1eExRTDZiUmFKcnhzOUlGcWtVUE12MnJ4a3NOcW1Sdy03NE1HZW40Y1I5bjRyazd1VlY1S05SZXNxS0lMelFmeWtZVm52LTRHdUYyTlU1ZE52R0xKR0NDedIBYEFVX3lxTFA1eExRTDZiUmFKcnhzOUlGcWtVUE12MnJ4a3NOcW1Sdy03NE1HZW40Y1I5bjRyazd1VlY1S05SZXNxS0lMelFmeWtZVm52LTRHdUYyTlU1ZE52R0xKR0NDeQ?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "정의선 현대차그룹 회장이 젠슨 황에게 새만금 데이터센터 프로젝트를 설명하며 AI·데이터센터 분야 참여를 제안했고, 젠슨 황은 \"짓게 돼 기쁘다\"고 화답했다. 오늘 처음 등장한 키워드."
         }
       ]
     }
