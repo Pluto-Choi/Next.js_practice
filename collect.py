@@ -290,7 +290,7 @@ def filter_keywords(candidates, category, titles=None):
         lines = "\n".join(f"{i+1}. {word} ({count}회)" for i, (word, count) in enumerate(candidates))
     try:
         message = anthropic_client.messages.create(
-            model="claude-sonnet-4-6",
+            model="claude-opus-4-6",
             max_tokens=120,
             messages=[{
                 "role": "user",
@@ -363,7 +363,7 @@ def generate_summary(keywords, category):
     fallback = " · ".join(item["word"] for item in keywords[:5])
     try:
         message = anthropic_client.messages.create(
-            model="claude-sonnet-4-6",
+            model="claude-opus-4-6",
             max_tokens=150,
             messages=[
                 {
@@ -486,7 +486,7 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
     )
     try:
         message = anthropic_client.messages.create(
-            model="claude-sonnet-4-6",
+            model="claude-opus-4-6",
             max_tokens=1500,
             messages=[{"role": "user", "content": prompt}],
         )
@@ -654,7 +654,7 @@ def streak_ai_summary(word, category, start, end, titles):
     joined = "\n".join(f"- {t}" for t in titles[:12])
     try:
         message = anthropic_client.messages.create(
-            model="claude-sonnet-4-6",
+            model="claude-opus-4-6",
             max_tokens=120,
             messages=[{
                 "role": "user",
