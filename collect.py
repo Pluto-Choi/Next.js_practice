@@ -98,10 +98,20 @@ def fetch_articles_google(keyword, count, used_links):
         })
     return articles
 
+_DESK_TAG = re.compile(r'^\s*(?:\[[^\]]{1,12}\]|【[^】]{1,12}】)\s*')
+
+
 def clean_title(title):
     # "기사 제목 - 출처명" 형식에서 출처 제거
     if ' - ' in title:
         title = title.rsplit(' - ', 1)[0]
+    # 선두 매체·포맷 데스크 태그 제거([스타투데이]·[OSEN]·【속보】·[종합] 등).
+    # 매체 브랜드명이 키워드로 잡히는 노이즈를 근원에서 차단한다(연달아 붙으면 반복 제거).
+    while True:
+        stripped = _DESK_TAG.sub('', title)
+        if stripped == title:
+            break
+        title = stripped
     return title
 
 def extract_keywords(titles, sw=stopwords_common, n=20):
@@ -176,6 +186,46 @@ def _is_dispersed(word, titles, min_titles=3, thr=0.5):
     않으면(집중도 < thr) 분산 후보로 본다 → 일반명사 노이즈 의심 신호."""
     n, conc = _candidate_dispersion(word, titles)
     return n >= min_titles and conc < thr
+
+
+def _title_pos_sets(titles):
+    """제목별 (전체 명사집합, 고유명사(NNP)집합) 튜플 리스트를 만든다.
+    일반명사가 어떤 고유명사에 들러붙어 있는지 판정하는 데 쓴다."""
+    out = []
+    for t in titles or []:
+        toks = kiwi.tokenize(clean_title(t))
+        alln, nnp = set(), set()
+        for tk in toks:
+            if tk.tag in ('NNG', 'NNP') and len(tk.form) > 1:
+                alln.add(tk.form)
+                if tk.tag == 'NNP':
+                    nnp.add(tk.form)
+        out.append((alln, nnp))
+    return out
+
+
+def _dominant_entity(word, pos_sets, min_frac=0.6, min_titles=2):
+    """word가 등장한 제목들에서 word를 제외하고 '가장 많은 제목에 공통으로
+    나오는 명사'를 찾는다. 그 명사가 word 제목의 min_frac 이상을 점유하면
+    (=이 단어의 기사들이 사실은 그 명사를 중심으로 돈다), 그 명사를 반환한다.
+    배우→박지훈, 논란→선관위처럼 껍데기 일반명사 뒤의 진짜 주체를
+    결정론적으로 끄집어낸다. 한국어 고유명사는 Kiwi가 NNG로 태깅하는 경우가
+    많아(선관위·코스피 등) NNP로 제한하지 않고 전체 명사에서 찾는다. 대신
+    '껍데기인지 그 자체가 주제인지'(환율·금리)의 최종 판단은 LLM에 맡긴다.
+    조건 미달이면 None."""
+    with_word = [alln for alln, _ in pos_sets if word in alln]
+    n = len(with_word)
+    if n < min_titles:
+        return None
+    cnt = Counter()
+    for alln in with_word:
+        for e in alln:
+            if e != word:
+                cnt[e] += 1
+    if not cnt:
+        return None
+    ent, c = cnt.most_common(1)[0]
+    return ent if c / n >= min_frac else None
 
 
 _HANGUL = re.compile(r'[가-힣]')
@@ -322,12 +372,34 @@ def merge_fragment_candidates(
 
 def filter_keywords(candidates, category, titles=None):
     if titles:
+        # 일반명사 후보 뒤에 숨은 '핵심 고유명사'를 결정론적으로 찾아
+        # (배우→박지훈, 논란→선관위), 그 고유명사를 후보 풀에 넣어 선택
+        # 가능하게 하고, 일반명사 줄에 힌트로 노출한다.
+        pos_sets = _title_pos_sets(titles)
+        nnp_words = set().union(*(nnp for _, nnp in pos_sets)) if pos_sets else set()
+        cand_words = {w for w, _ in candidates}
+        entity_of = {}
+        for w, _ in candidates:
+            if w in nnp_words:
+                continue  # 이미 고유명사인 후보는 치환 대상이 아니다
+            ent = _dominant_entity(w, pos_sets)
+            if ent and ent != w:
+                entity_of[w] = ent
+        extra = []
+        for ent in dict.fromkeys(entity_of.values()):
+            if ent not in cand_words:
+                freq = sum(1 for alln, _ in pos_sets if ent in alln)
+                extra.append((ent, freq))
+                cand_words.add(ent)
+        candidates = list(candidates) + extra
+
         def _line(i, word, count):
             pos = _candidate_feed_position(word, titles)
             pos_str = f"피드 {pos}번째 첫등장" if pos else "피드 위치 미상"
             ex = " / ".join(_candidate_examples(word, titles) or ["(예시 없음)"])
             disp = " ⚠️분산(무관한 여러 기사에 흩어짐)" if _is_dispersed(word, titles) else ""
-            return f"{i+1}. {word} ({count}회, {pos_str}{disp}) — 예: {ex}"
+            hint = f" 〔핵심대상:{entity_of[word]}〕" if word in entity_of else ""
+            return f"{i+1}. {word} ({count}회, {pos_str}{disp}{hint}) — 예: {ex}"
         lines = "\n".join(_line(i, word, count) for i, (word, count) in enumerate(candidates))
     else:
         lines = "\n".join(f"{i+1}. {word} ({count}회)" for i, (word, count) in enumerate(candidates))
@@ -340,12 +412,14 @@ def filter_keywords(candidates, category, titles=None):
                 "content": (
                     f"너는 한국 뉴스 편집자다. 아래는 구글 뉴스 '{category}' 피드의 기사 제목들을 "
                     "형태소 분석해 뽑은 키워드 후보 목록이야. 각 줄의 형식은 다음과 같아:\n"
-                    "  번호. 단어 (N회, 피드 위치[, ⚠️분산]) — 예: 그 단어가 들어간 실제 기사 제목\n"
+                    "  번호. 단어 (N회, 피드 위치[, ⚠️분산][, 〔핵심대상:X〕]) — 예: 그 단어가 들어간 실제 기사 제목\n"
                     "- N회: 그 단어가 등장한 기사 수(빈도).\n"
                     "- 피드 위치: 구글이 오늘 중요도 순으로 정렬한 헤드라인에서 그 단어가 처음 나온 순서. "
                     "앞쪽(작은 숫자)일수록 오늘 더 크게 다뤄진 이슈다.\n"
                     "- ⚠️분산: 그 단어가 나온 제목들이 '서로 무관한 여러 사건'에 흩어져 있다는 결정론적 신호다. "
-                    "제목 예시들을 보면 공통 맥락(같은 인물·기관·사건)이 없을 거야.\n\n"
+                    "제목 예시들을 보면 공통 맥락(같은 인물·기관·사건)이 없을 거야.\n"
+                    "- 〔핵심대상:X〕: 그 후보의 기사들이 특정 명사 X(인물·작품·기관) 하나를 중심으로 돈다는 "
+                    "결정론적 신호다. 그 후보가 껍데기 일반명사라면 사실은 X 이야기라는 뜻이다. X는 이 후보 목록에 따로 들어 있다.\n\n"
                     "★가장 중요한 주의점★ — 이 피드는 구글이 중복을 걸러 큐레이션한 목록이라 빈도가 낮다. "
                     "그래서 '순간·배우·캠프·논란·합의·단독' 같은 두루뭉술한 일반명사가 여러 무관한 기사에 "
                     "한 번씩 박히면서 오히려 높은 빈도를 얻는다. 즉 **높은 빈도 ≠ 중요한 이슈**일 수 있다. "
@@ -360,6 +434,11 @@ def filter_keywords(candidates, category, titles=None):
                     "  3) 사회적 파급력 — 더 많은 사람에게 영향을 주거나 관심이 큰 사안일수록 중요하다.\n"
                     "- 1~5위를 위 기준으로 명확히 줄세워라. 후보 목록 순서대로 두지 말고 실제 중요도로 재정렬하라.\n\n"
                     "선정 규칙:\n"
+                    "- **〔핵심대상:X〕가 붙은 후보가 껍데기 일반명사면, 그 후보 대신 X를 골라라.** "
+                    "예: '배우 〔핵심대상:박지훈〕'이면 '박지훈'을, '논란 〔핵심대상:선관위〕'이면 '선관위'를 골라라. "
+                    "껍데기 일반명사가 아니라 그 뒤의 진짜 주체가 키워드다. X가 이미 다른 후보로 뽑혔다면 그 일반명사는 버려라. "
+                    "단, 그 후보가 껍데기가 아니라 그 자체로 하나의 주제인 단어(환율·금리·반도체처럼 경제·사회 현상)면 "
+                    "〔핵심대상〕이 붙었어도 그대로 두고 X로 바꾸지 마라. 바꿀지는 '껍데기냐 주제냐'로 네가 판단하라.\n"
                     "- **⚠️분산이 붙은 후보가 두루뭉술한 일반명사(순간·배우·캠프·논란·합의·운세·단독 등)면 반드시 제거하라.** "
                     "이건 한 이슈가 아니라 여러 무관한 기사에 우연히 섞인 단어다. 그 단어가 박힌 기사들 각각의 진짜 주제를 "
                     "대표하는 구체적 이름(인물·작품·기업)이 후보 목록에 따로 있으면 그쪽을 골라라.\n"
