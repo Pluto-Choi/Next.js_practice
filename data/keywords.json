@@ -1,35 +1,12 @@
 {
   "date": "2026-06-08",
-  "updated_at": "2026-06-08 10:08",
+  "updated_at": "2026-06-08 10:20",
   "categories": {
     "오늘의 이슈": {
-      "summary": "이란의 이스라엘 미사일 보복에 트럼프가 확전 자제 촉구하며 휴전 합의 가능성 부각 · 선관위 쇄신 요구 · 이 대통령 지지도 하락",
+      "summary": "이란, 미국 자산 압류 구상에 반발·선관위 쇄신 요구 분출·민주당 국조·개헌·특검 등 개혁 카드 제시",
       "keywords": [
         {
           "rank": 1,
-          "word": "이스라엘",
-          "count": 2,
-          "articles": [
-            {
-              "title": "이란, 이스라엘에 미사일 보복 공격···트럼프 “확전 말라”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NUk5Hbkc1WkxhSVNXRExGQVhqcnNhOXhBS1hNeHZZcHZxNllLZy1IbldfLTBNazV6MWpDRWl6aTNuSnNHcnJtUFhWZmdpNGZ0bmhzOVJDLUtFUdIBX0FVX3lxTE9hYkNqZ0tjYm50d1VXc2N5Rm50TWROWnJKNThxa1NyYnFLbU9FOUFZR3dxNVhCM280WFY1cURuZzNHREhxU1ZCZWoxYzRmUTk3VDdmaGwxMnJ0MTdKVkFZ?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "트럼프 네타냐후에 “보복 말라”…이란-이스라엘 충돌 ‘단도리’",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CMXhBUkROQ1BUaXQtbm9PRmk1dk1VMEJ4eUpiRjhRTHZUVkFWZDVzMDFacm83dXB3QjlsZ2JOa3BRN0NpVTNnbkdfdHF1MEZDVUtncmdVRlB4S3Y0d0RxNHZxNmJweFd4cXpna3dyU1BxeXM?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "트럼프 \"이스라엘, 보복하지 않길...합의 무산 원치않아\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nR3YzQ2haLWtVTUloRGE1M1RaWmllNVhsY05aU1E5N08xd0I2NmM4dXZrLU5pVFc4ZWE3a1dZQVUxODl4SWNQZU5UY190bnJ6ZVZjTTRhcVp3aUFLN2c?oc=5",
-              "source": "YTN"
-            }
-          ],
-          "description": "이란이 이스라엘에 미사일 보복 공격을 감행한 가운데, 트럼프 대통령이 네타냐후 총리에게 재보복 자제를 촉구하며 확전 방지에 나섰다."
-        },
-        {
-          "rank": 2,
           "word": "이란",
           "count": 2,
           "articles": [
@@ -37,25 +14,22 @@
               "title": "“우리 돈으로 걸프국 복구?”…이란, 美 자산 압류 구상에 강력 반발",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85V1VpNGhGZTNTUU8tS0RncnMyQzJycEhrNWRiS3lxN1oyaWNaeU80emhFTVFoSXlPN05GUEVxMU0wcW0waHh1aG5lamZlZVE?oc=5",
               "source": "v.daum.net"
-            }
-          ],
-          "description": "미국의 이란 자산 압류 구상에 이란이 강력 반발하며 '걸프국 복구에 우리 돈을 쓸 수 없다'고 맞서고 있다."
-        },
-        {
-          "rank": 3,
-          "word": "합의",
-          "count": 2,
-          "articles": [
+            },
             {
-              "title": "미 국방 “이란과 휴전 유지…조만간 합의 의뤄질 가능성 커”",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xNjRpTzc1M2ZrUmd6T3lhaDJ2WkdxeHczMTh1WXNVVWZmaVF4YXY4bkdFOFREWXRtQlFqVkc1RVdPOW1RM3JyRWZhazMzMVU3aF81UkNHMHlzTGc?oc=5",
-              "source": "KBS 뉴스"
+              "title": "이란 주재 中대사관, 자국민에 긴급 안전 통지",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rc29taW8zVWFNT0RlZm5yZHdFUHgwMS00MEI1LXNTeGZlX0hxbHJMTkQ3YUxLTjJhTktwNFMxVEZ2ZjRmT3pPN3E4WEViVUNFUlRTbVJHUzdCaWvSAWBBVV95cUxObkwxMk1rQzVobUxzY2ZCTllKTFgyVHVEX0I0b3FDRjVITE9MZUs0LVlkSFRZQUdjaEhnc0dZTGY5blQyX0ZBRHpDSFhpaFdWLXFQYzlOdzhnRlFBaHhfZEo?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "트럼프 “월~수 이란과 합의문 서명 예상했는데 미사일 쏴” [폭스뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rYl9URXBUQmpsSEtKSlZSV2FSclhOVlZjR2ZpNkdIUEFYbURDODZTWkgwZGZCaktLZFpfUjlGSnFXei05bTVmeGdmYUZMNG5xYzAyZWh3?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "미 국방부가 이란과의 휴전이 유지되고 있으며 조만간 합의가 이뤄질 가능성이 크다고 밝혔다."
+          "description": "트럼프 대통령이 합의 직전 이란의 미사일 발사를 언급하며 협상 경과를 공개했고, 이란은 미국의 자산 압류 구상에 강력 반발하는 등 양국 간 긴장이 고조되고 있다."
         },
         {
-          "rank": 4,
+          "rank": 2,
           "word": "선관위",
           "count": 2,
           "articles": [
@@ -65,172 +39,159 @@
               "source": "한겨레"
             }
           ],
-          "description": "선관위의 '무소불위 권력'에 대해 감사원 감사를 받아야 한다는 근본적 쇄신 요구가 분출되고 있다. 오늘 처음 등장한 키워드다."
+          "description": "투표지 부족 사태 이후 선관위의 근본적 쇄신 요구가 분출하며, 감사원 감사 도입 등 '무소불위 권력' 견제 논의가 본격화되고 있다. 오늘 처음 등장한 키워드다."
         },
         {
-          "rank": 5,
+          "rank": 3,
           "word": "민주",
           "count": 2,
           "articles": [
             {
-              "title": "이 대통령 지지도 55.2%로 3.9%p↓…민주 41.8%·국힘 41.1%[리얼미터]",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YMEQzQmJoUlRUcXd2dzRENW05UGowWENDdjVTWjUzaHNrTjFnOHNDM2pwanJydjlxWE5lQnRJbm0yTHVtTmJZdEJWU21fNG5RLVBfWGhSYy1Id9IBX0FVX3lxTE1FUjJZdjBMcnFRNXFKaXRFWk5vdVUyODJwVl91dW14ZWprNmFVRl9OSXV5V0VwSlFBUkdKdHZyamtybEd4UFFZd0hTMlJrcUxzLVpPOGZod25xQWN0Z0o0?oc=5",
-              "source": "경향신문"
+              "title": "민주, '투표지 부족' 국조에 개헌·특검카드까지…\"천지개벽 개혁\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TalhJdGt3bFRvcnkwMGJORUJEQU5fWFBWd01qS2s5TW94M3lfRFhTeFdQNzI0OEJWeS14NEZSN3ZQUGtWX29UVXJwc25femM?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "리얼미터 조사에서 이재명 대통령 지지도가 55.2%로 3.9%p 하락했고, 정당 지지율은 민주 41.8%, 국힘 41.1%로 접전 양상이다. 오늘 처음 등장한 키워드다."
+          "description": "더불어민주당이 투표지 부족 사태에 대한 국정조사와 함께 개헌·특검 카드까지 꺼내며 '천지개벽 개혁'을 예고했다. 오늘 처음 등장한 키워드다."
         }
       ]
     },
     "연예": {
-      "summary": "故 헐크 호건 임종 정황 공개 · 박지훈 겸손 발언 화제 · 비와이 선관위 논란 관련 입장 표명",
+      "summary": "서인영 6세 연상 CEO와 재혼 발표 · 이승기 105억 전세 진실공방 속 팬 응원에 감격",
       "keywords": [
         {
           "rank": 1,
-          "word": "순간",
-          "count": 3,
+          "word": "서인영",
+          "count": 2,
           "articles": [
             {
-              "title": "[요즘말 사전] ‘중꺾마’가 필요한 순간!",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTY1gwNGNxVUhWLWdzaWlwR283ZVh2R3I1YmtSWGNqT1lGSWVLVVdRRmoyUHl0Q0l1X1dRSVVHa0czdEtyOThvMFBnYkxnY1FGaFlwN2JPZVJFdw?oc=5",
-              "source": "이투데이"
+              "title": "“결혼 또 할 거야” 서인영, 이혼 2년 만에 6세 연상 CEO와 재혼",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JZ3dubGViUGlpQWhqYmdNbjhTcjFKVTB4ZHQ1NDFCYnJ2VmNqX3RKSWlUWHRZb3pkcExhXzk4VFhIUE03eFdTTldLV29EVGtYeEM3VFMyQVJZV191TmfSAWNBVV95cUxQbjBXWFJybVh4WXhKUGdRVTVoWGZfcV9QN1NieEpqYjhweFAtMVp2dmtEN2F0MEx4TktwQlVYeURuRjk1RXNXRUZvUlBfLS1nRzhsTnZZdWxJZFk5eWp4VHBZbG8?oc=5",
+              "source": "스포츠경향"
             },
             {
-              "title": "임종 순간 공개 \"이미 맥박 없는 상태였다\"...故 헐크 호건 사망 직전 정황 드러났다 \"상태 매우 좋지 않았어\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1VXdnQTJtZ3pBU2NkVmlkOHlhaE5XT0VuTmQ0ckxra1hZUWY3Z25qWTkxNGVfdXhpb3dpM3hmR29KZjBndE9BS1h4RXkwaVU?oc=5",
-              "source": "v.daum.net"
+              "title": "“연애 중” 이라던 서인영, 재혼한다…6세 연상 사업가 누구",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5acmFpOE01NFNVbzJ5NjUzNllfTFpBR2pGd2JBVjVub25sV2xfMWhQWUxUMG43bGFxQ0ZnRXhOMjRBVGh0a2M0T1RXUDJpMTEtNkc2Y2pB?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "와인이 특별한 건 찰나의 순간이 담겨서다",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GUmVsM2hrYVpIQ0cwVWFJQkhTM0xIblBtUnd4MVhGVGRzTy1NLXZ3ZE0wa2FKOWJTejk5a3YwdUFWc1JKdjktdDZuX1VOOHY3bzZKbWRkWnB4QVR1dDZsX2F4MXVLWmhhc2fSAW5BVV95cUxOZzE3VjMtVkNBSERIX0NJSTlHOWFjVnJhVXFFVU1mSERqdllnYzVGT3Y1azF5MVFCYndLcXRhS0F5YVlJeU5RWW9uRVBRdHl1aENnWUhKQjRLQmFoY1BVd25LSllDcHk2YmRndUxPQQ?oc=5",
-              "source": "조선일보"
+              "title": "쥬얼리 출신 서인영, “하반기 재혼”…예비신랑은 최지훈 대표",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSdXlXOXlmZDh1R3JDQTZVME9NdVBnRVVFcnNsSkxERUpYaEpESFZQNEVmeDRIM2Vvd3VuZlZnU3dYZ2dnczdyem1YZ2RRWDd3?oc=5",
+              "source": "문화일보"
             }
           ],
-          "description": "故 헐크 호건의 임종 직전 정황이 공개되며 사망 당시 이미 맥박이 없는 상태였던 것으로 알려졌다."
+          "description": "쥬얼리 출신 서인영이 이혼 2년 만에 6세 연상 사업가 최지훈 대표와 하반기 재혼 소식을 알렸다. 오늘 처음 등장한 키워드다."
         },
         {
           "rank": 2,
-          "word": "캠프",
+          "word": "변우석",
           "count": 3,
           "articles": [
             {
-              "title": "잉글랜드 월드컵 대표팀 베이스캠프 인근서 총격…9명 부상 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fZHdET09iZEJOcWVLNWFKNXJ6Z3lIWXhjd3pkQmZoeUZvZXRRRENfbWdRNW54aS1iRmMybzAzZjN0ZE1Cd0tlS05Ra3RtOHMwa0h4MlJpeWNhVW5RODJ0a0ZVbXVfS2dO0gFuQVVfeXFMUEczb3VDSDFTUVdsbXhkX0JZZnNPbHdtek9zYjZWU05VVnNOd09ZODZhRTg1MnMtTjNOaFZmQ3Y3RmVsc24zTEpHczQ0LVM2MTRKOUJydVR5TExNRzlzV0tMSlRobXVKWnBwMzJxRXc?oc=5",
-              "source": "머니투데이"
+              "title": "변우석, 2주 만에 SNS 복귀…비주얼 ‘눈부시네’ [DA★]",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TUUU0YVR1QzV1OXdtSjN3SGh1Q0UxdXlhVWpLSGJKSTJKdkNIYlRnRXo5N0VWV05COWZYdW43RlhXZmREMEloQUMxRThJV3A1M0haVmtOTEM0aHFFdktEQUhuTkVhVm9LSTUzYmNR?oc=5",
+              "source": "스포츠동아"
             }
           ],
-          "description": "잉글랜드 월드컵 대표팀 베이스캠프 인근에서 총격 사건이 발생해 9명이 부상한 것으로 전해졌다."
+          "description": "변우석이 약 2주 만에 SNS에 복귀하며 근황을 공개했다. 오늘 처음 등장한 키워드다."
         },
         {
           "rank": 3,
-          "word": "배우",
-          "count": 3,
+          "word": "할리우드",
+          "count": 2,
           "articles": [
             {
-              "title": "박지훈 \"저는 초중급 배우... 으스대는 거, 꼴보기 싫다\"",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcS1lcHlZeWF3WFFvVjV0eEkzM1RDemVpWXBBUEptYTBCWG0tQURhNjl2eXhteVJsMXhVeFRlanlxekp2QW5zUVhjd0FKdGYxLUNxWlEwbXZrOEFSeFpOY1NOdFM3Tll3OWlfLTNZVGVvRU9fLTNOU2hHQW9xdkJfNVpEQUZQakp0WHZwMFRkYldtM2lH?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "박지훈이 스스로를 '초중급 배우'라 칭하며 겸손한 자세를 강조하는 인터뷰가 화제다."
-        },
-        {
-          "rank": 4,
-          "word": "운세",
-          "count": 3,
-          "articles": [
-            {
-              "title": "[오늘의 운세] 6월 8일",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXWDdwZTBCTDdpQW9ETC14NzAxMGFjNDlyUUNzNTk1LTBrQVk0bjRadWV0TmVDX196OFRDQVRtb1NpaVlqcWhxbWZCcVNua0VPSmlNTFpn?oc=5",
-              "source": "중앙일보"
-            }
-          ],
-          "description": "6월 8일 오늘의 운세 콘텐츠가 게재되며 관심을 모으고 있다."
-        },
-        {
-          "rank": 5,
-          "word": "논란",
-          "count": 3,
-          "articles": [
-            {
-              "title": "비와이, '선관위 논란' 입 열었다 \"음모론? 의심해야 건강하다\"[스타이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zaTdrc09OQWhMNjdEZjFSR0FNUTBiQ2pnZTg3T2dvQ2dLSXVmQjk4aWNJTjFrT1FmX0FKbHl6RFlLTFZEdk9RZHVUb0N1R00?oc=5",
+              "title": "20세 ‘유튜버’의 화려한 할리우드 데뷔···시작은 온라인 괴담 사진이었다",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnbW5acThiSnNmOHRYbVhTaVJXaEtSOHI4a3NpWTVNQ0VmNWd5UHVzMHFGWk5mNDY1czdpWUtRQ1FoRVBfR3c?oc=5",
               "source": "v.daum.net"
             }
           ],
-          "description": "래퍼 비와이가 선관위 논란에 대해 \"의심해야 건강하다\"며 자신의 입장을 밝혀 주목받고 있다."
+          "description": "20세 유튜버가 온라인 괴담 사진을 계기로 할리우드 데뷔에 성공해 화제를 모으고 있다. 오늘 처음 등장한 키워드다."
+        },
+        {
+          "rank": 4,
+          "word": "이승기",
+          "count": 2,
+          "articles": [
+            {
+              "title": "이승기, 차가원과 '105억 전세' 진실공방 속…팬들 응원에 감격 \"꽃길만\" [엑's 이슈]",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XVlNYbjc3MVI1VTRkR3ZDdkVnYlZhaTJ1ajRnWmxFT2hYempkeURjbjgzS0VZTnpsSmdDbEZkYnZWUWcwbVFXenVyWjJCVlVTd0ZzRA?oc=5",
+              "source": "엑스포츠뉴스"
+            }
+          ],
+          "description": "이승기가 차가원과 '105억 전세' 진실공방이 이어지는 가운데 팬들의 응원에 감격을 전했다. 오늘 처음 등장한 키워드다."
         }
       ]
     },
     "경제": {
-      "summary": "코스피 8% 폭락으로 서킷브레이커 발동·美 반도체 급락 여파 확산·스페이스X 청약에 234조 몰려",
+      "summary": "코스피 8%대 폭락에 서킷브레이커 발동·원화 환율 17년 만에 최고·SK하이닉스-엔비디아 차세대 메모리 공동개발·스페이스X 청약에 234조 쏠림",
       "keywords": [
         {
           "rank": 1,
           "word": "코스피",
-          "count": 6,
+          "count": 3,
           "articles": [
-            {
-              "title": "[속보]코스피, 8% 폭락에 서킷브레이커 발동…8000선 붕괴",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53OFN5aUE4aEoyVjJMejRDMllYTXlWNUtfT0FFNzBKejZEcnM4RVctbkNselF5R3p5dEpCN1VRcG9fdzdfMTQ1SENvcjZBeTg4WTIwelE1LTdqd9IBX0FVX3lxTFBibTFPQVZzb2VTcXZzdkJYcHJHcFZVTGNkRTY3NEZXWWpCWnBzSFdXeGtJcGxzWVhHODJ6UWFlUUFOYTdwa3lsM3I2MHExeEVPNEhsWk1qS2phc3cyLVNJ?oc=5",
-              "source": "경향신문"
-            },
             {
               "title": "[속보] 코스피 7400선으로 폭락, 삼성전자 30만원 붕괴",
               "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2xTaWtkMThCY1lkM25fbEVlTDc0al9Cb0hDVDNkT29NdmUydTlRUnFZYjNVcjd0X2xjVVgxN0hqNHFRclZ0RjlUcFRack8wVXJkTGVocm5tUDNWV2Z0eEpVNm9aVXBvd2JmeHZBdlhnclpKd19FbFhjNnhyOXVuSnBkQ2dmM3pUMmY0?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "“코스피, 오늘 20% 이상 낙폭 가능…아직 관망할 시점”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83UURQNTNpek8yN29vaU5kbHpSdzlNRlFHUkZ5SzJLSlNJNGstYmhGRHRiT3N6bDhFZkZoQ3NjWnVyOEl1UmZidHUxTXdLcUk?oc=5",
-              "source": "v.daum.net"
+              "title": "[속보]코스피, 8% 폭락에 서킷브레이커 발동…8000선 붕괴",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53OFN5aUE4aEoyVjJMejRDMllYTXlWNUtfT0FFNzBKejZEcnM4RVctbkNselF5R3p5dEpCN1VRcG9fdzdfMTQ1SENvcjZBeTg4WTIwelE1LTdqd9IBX0FVX3lxTFBibTFPQVZzb2VTcXZzdkJYcHJHcFZVTGNkRTY3NEZXWWpCWnBzSFdXeGtJcGxzWVhHODJ6UWFlUUFOYTdwa3lsM3I2MHExeEVPNEhsWk1qS2phc3cyLVNJ?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "코스피 띄웠지만, 집값 못잡았다…李 경제 성적표 보니 [李 정부 1년]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aYmlMSzlVYmNGQ3RZRTRzM0VtMGhZdnQ1UWN6M2stMWVNVjRSOGFvcnBzQkNxdTZXVnNfcE5xeU83WXpJTlRVMVRmTW5ZUlhRUE9JRzdB?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "코스피가 8% 이상 폭락하며 서킷브레이커가 발동됐고, 8000선이 붕괴되며 7400선까지 밀렸다. 삼성전자도 30만원 아래로 떨어졌으며, 20% 이상 추가 낙폭 가능성까지 제기되고 있다. 어제 3위에서 오늘 1위로 급등했다."
+          "description": "코스피가 8% 폭락하며 8000선이 붕괴되고 서킷브레이커가 발동됐다. 삼성전자도 30만원선이 무너지는 등 시장 충격이 확산되고 있다. 어제 3위에서 오늘 1위로 올라섰다."
         },
         {
           "rank": 2,
-          "word": "반도체",
-          "count": 5,
+          "word": "하이닉스",
+          "count": 2,
           "articles": [
             {
-              "title": "美 반도체 급락 뒤 첫 장…“오늘 주식앱 못켜겠다”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IN0FLQ0xubWpkTk5TRTBBb0JFOV9xODMtRzdESEU3S05Xb1NIbkNtZEhRV0xGZUN2cDVpeUJVNkRYWXQ0d2VFeW5hWkV6NHc?oc=5",
-              "source": "v.daum.net"
+              "title": "[속보]SK하이닉스, 엔비디아와 차세대 메모리 공동개발",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCS0NhQ2xLRlBqRGJxbU5yVV9vZzFTTlptcnViX1JxdE9HWkxjV1Nhd080OVhVeU8wbjJ2NmRvbnVIWmE2dnFfZTRZMUdJV3EwYnRDZUhJVnVnd2ktUU5ENkxITEc2WGtmSGhIUHVCVU1aaFVtZlHSAWZBVV95cUxOUnB6TFN3OWZfWGdnZjlUdm8wR21saGl6a3pVTEVsb0pQay1ycjdsUzVMc1JIcWNLdUxZVTFmSUJsZ0UyOUJRS0Y5MEkwOFdwRTZUTnhXLU1KYWltNzRobXFLWXYzNUE?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "미국 반도체주 급락 이후 첫 거래일을 맞아 국내 투자자들 사이에서 '주식앱을 못 켜겠다'는 반응이 나올 만큼 공포 심리가 확산되고 있다."
+          "description": "SK하이닉스가 엔비디아와 차세대 메모리 공동개발에 나선다는 소식이 전해졌다. 오늘 처음 화제 키워드에 등장했다."
         },
         {
           "rank": 3,
-          "word": "삼전닉스",
-          "count": 4,
+          "word": "환율",
+          "count": 2,
           "articles": [
             {
-              "title": "삼전닉스 다음으로 많이 매매된 '이 종목'…상승세 걱정 없다는데 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yMG5IR3A1V0RZdTVIZUJzTWhpd3VvZ3hzVG94ak9MQmtWdlV5TEFuVC02RFFlWTRkR3BEcDB0eUFGQXI1MS1zSU0yQ3o3YUgwaHJ3ekNhUEFpTHktU3ktTXdaeldHbDdv0gFuQVVfeXFMTmlyUEZ1TDFDMUNIQVROUUZvZ19SMGFYeXBjcmt3SDFMM19jdVFDS0YyZ3F6cWV4MFJpWWhFbXNaSFBvdmhCcGYwcWl0X3FQZzNRcVF1clNoNXB1SXIxa29vcW1sQjJ2QWppeDM3clE?oc=5",
-              "source": "머니투데이"
+              "title": "달러 대비 원화 환율 16.1원 오른 1555.2원 개장..17년 만에 최고",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkFkWDAyX0R4UWJOWmVYMWx5aTJmZVhEdVVsSGFqazlKMDFyNmNoeXZTUnF3QjNvY185TGs3dnRQb0Nzd3FCbDdxT2QxcThxcmRnZmM1ZFdKZW5La0lvOWhXeElFaHhxc1V3UGtKRk93MmlTcjFaM1h1ejZrUzV0TlZCOHVieFVuSTVfZ0h3?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "삼성전자와 SK하이닉스를 합쳐 부르는 신조어로, 이 두 종목 다음으로 많이 매매된 종목에 대한 관심이 높아지고 있다. 오늘 처음 등장한 키워드다."
+          "description": "원·달러 환율이 16.1원 오른 1555.2원에 개장하며 17년 만에 최고치를 기록했다. 어제 1위에서 오늘 3위."
         },
         {
           "rank": 4,
-          "word": "단독",
-          "count": 4,
+          "word": "젠슨 황",
+          "count": 1,
           "articles": [
             {
-              "title": "[단독] ‘와, 손기정!’ 사인 받는 독일인들…‘KOREAN 1936’ 또 썼을까",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JRGh4dTBFVU5PUFVtUDNsaGxPMGVYaXpnMUh5dWMyRjdVOFN3WmtiUnIwemFZUEJ2SG5RTkM4NkpqT1RORWtJckQxNlNUcE5VU2hXVkRSUV81eGlqSW9OcmdEOFdyanhkZmZieDBDc2R4UQ?oc=5",
-              "source": "한겨레"
+              "title": "[속보] 젠슨 황 “AI 관련주 주가, 지금 무척 싸다”",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ec2taSlhTWHctVjUwNUs0THltZ081Wkp2dVNPRFNkc0hZVGtqQkNXTkc3SmoyY3ZQLW5icndwTmJHTFdtWlhoMThHVEhBOFlMN3fSAVNBVV95cUxQR3JaMUFEUEhEbW44YVZhY1diVTlFWUNER3pJSWhlTFRiQlFORGt2eTREYjRVRzZza00xYmo1T0pScjMxSHRESEZBVHVTY2ZKbVFQUQ?oc=5",
+              "source": "서울경제"
             }
           ],
-          "description": "1936년 베를린올림픽 마라톤 금메달리스트 손기정의 사인을 받는 독일인들의 모습과 'KOREAN 1936' 표기를 둘러싼 단독 보도가 화제다. 오늘 처음 등장한 키워드다."
+          "description": "엔비디아 CEO 젠슨 황이 \"AI 관련주 주가가 지금 무척 싸다\"고 발언해 화제다. 오늘 처음 등장한 키워드다."
         },
         {
           "rank": 5,
           "word": "스페이스",
-          "count": 4,
+          "count": 2,
           "articles": [
             {
               "title": "‘올 주식시장 최대 대어’ 스페이스X 청약에 234조 몰렸다···“목표 금액 2배”",
@@ -238,7 +199,7 @@
               "source": "경향신문"
             }
           ],
-          "description": "올해 주식시장 최대 대어로 꼽히는 스페이스X 청약에 약 234조원이 몰리며 목표 금액의 2배를 넘겼다. 오늘 처음 등장한 키워드다."
+          "description": "스페이스X 청약에 234조원이 몰리며 목표 금액의 2배를 기록, 올해 주식시장 최대 대어로 주목받고 있다. 오늘 처음 등장한 키워드다."
         }
       ]
     }
