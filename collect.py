@@ -599,7 +599,7 @@ def collect_category(feed_url, stopwords, category_name):
         used_links = set()
         keywords = []
         for i, (word, count) in enumerate(top5):
-            article_count = 3 if i == 0 else 1
+            article_count = 3  # 모든 키워드 기사 최소 1·최대 3개
             articles = fetch_articles_google(word, article_count, used_links)
             keywords.append({"rank": i + 1, "word": word, "count": count, "articles": articles})
             print(f"\n{i+1}위. {word} ({count}회) — 기사 {article_count}개")
