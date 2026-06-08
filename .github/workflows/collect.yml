@@ -21,8 +21,22 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: pip 캐시 (torch 휠 재다운로드 방지)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-ner-torch-cpu-transformers-5.10.1
+
+      - name: HuggingFace 모델 캐시 (modu-ner 재다운로드 방지)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-Leo97-modu-ner-v1
+
       - name: 라이브러리 설치
-        run: pip install feedparser kiwipiepy "numpy<2" anthropic
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install feedparser kiwipiepy "numpy<2" anthropic transformers==5.10.1
 
       - name: 키워드 수집 실행
         run: python collect.py

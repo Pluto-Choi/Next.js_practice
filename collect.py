@@ -1,5 +1,5 @@
 from kiwipiepy import Kiwi
-from collections import Counter
+from collections import Counter, defaultdict
 from datetime import datetime, timedelta, timezone, date as date_cls
 from urllib.parse import quote
 import feedparser
@@ -370,7 +370,73 @@ def merge_fragment_candidates(
     return result
 
 
-def filter_keywords(candidates, category, titles=None):
+# ===== NER(개체명) 추출 — 결정론적 보강 레이어 =====
+# 연예는 인물·작품(AF)·이벤트(EV) 중심이라 형태소 빈도보다 개체명이 정확하고,
+# 이슈는 Kiwi 빈도신호 위에 개체명 힌트를 얹는다. 추론은 argmax(eval)라
+# 같은 제목 입력 → 항상 같은 결과(결정론 유지). 모델은 모두의말뭉치 15태그.
+_NER_MODEL_ID = "Leo97/KoELECTRA-small-v3-modu-ner"
+_ner_pipe = None
+_ner_failed = False
+
+
+def _get_ner():
+    """modu-NER 파이프라인을 1회만 로드(지연). 실패 시 None을 돌려 Kiwi로 폴백."""
+    global _ner_pipe, _ner_failed
+    if _ner_pipe is not None or _ner_failed:
+        return _ner_pipe
+    try:
+        from transformers import pipeline
+        _ner_pipe = pipeline(
+            "token-classification", model=_NER_MODEL_ID,
+            aggregation_strategy="simple",
+        )
+    except Exception as e:
+        print(f"  NER 모델 로드 실패 — Kiwi로 폴백: {e}")
+        _ner_failed = True
+    return _ner_pipe
+
+
+_NER_PUNCT = re.compile(r"^[\s'\"‘’“”·,\.\-…]+|[\s'\"‘’“”·,\.\-…]+$")
+
+
+def _ner_clean(s):
+    return _NER_PUNCT.sub('', s.replace('##', '').strip())
+
+
+def ner_candidates(titles, keep, n=30):
+    """개체명 후보를 (단어, 등장 제목 수, 타입) 리스트로 결정론적으로 추출한다.
+    keep: 유지할 태그 집합(예: {'PS','AF','EV'} = 인물·작품·이벤트).
+    띄어쓰기 변형(젠슨 황/젠슨황)은 정규화해 합치고, 가장 흔한 표면형을 대표로 쓴다.
+    char offset로 표면형을 잘라 ## 서브워드 잔재를 피한다. NER 미가용 시 빈 리스트."""
+    pipe = _get_ner()
+    if pipe is None:
+        return []
+    freq = Counter()
+    first = {}
+    surf = defaultdict(Counter)
+    typ = {}
+    for i, t in enumerate(titles or []):
+        ct = clean_title(t)
+        seen = set()
+        for e in pipe(ct):
+            base = e['entity_group'].split('-')[-1]  # B-AF/I-AF/AF → AF
+            if base not in keep:
+                continue
+            s = _ner_clean(ct[e['start']:e['end']])
+            if len(s) < 2:
+                continue
+            k = s.replace(' ', '')
+            surf[k][s] += 1
+            if k not in seen:
+                seen.add(k)
+                freq[k] += 1
+                first.setdefault(k, i + 1)
+                typ.setdefault(k, base)
+    ranked = sorted(freq.items(), key=lambda kv: (-kv[1], first[kv[0]]))
+    return [(surf[k].most_common(1)[0][0], c, typ[k]) for k, c in ranked[:n]]
+
+
+def filter_keywords(candidates, category, titles=None, ner_tags=None):
     if titles:
         # 일반명사 후보 뒤에 숨은 '핵심 고유명사'를 결정론적으로 찾아
         # (배우→박지훈, 논란→선관위), 그 고유명사를 후보 풀에 넣어 선택
@@ -393,13 +459,17 @@ def filter_keywords(candidates, category, titles=None):
                 cand_words.add(ent)
         candidates = list(candidates) + extra
 
+        ner_label = {"PS": "인물", "AF": "작품", "OG": "기관", "LC": "지명", "EV": "사건"}
+
         def _line(i, word, count):
             pos = _candidate_feed_position(word, titles)
             pos_str = f"피드 {pos}번째 첫등장" if pos else "피드 위치 미상"
             ex = " / ".join(_candidate_examples(word, titles) or ["(예시 없음)"])
             disp = " ⚠️분산(무관한 여러 기사에 흩어짐)" if _is_dispersed(word, titles) else ""
             hint = f" 〔핵심대상:{entity_of[word]}〕" if word in entity_of else ""
-            return f"{i+1}. {word} ({count}회, {pos_str}{disp}{hint}) — 예: {ex}"
+            t = (ner_tags or {}).get(word)
+            tag = f" 🏷️개체명:{ner_label.get(t, t)}" if t else ""
+            return f"{i+1}. {word} ({count}회, {pos_str}{disp}{hint}{tag}) — 예: {ex}"
         lines = "\n".join(_line(i, word, count) for i, (word, count) in enumerate(candidates))
     else:
         lines = "\n".join(f"{i+1}. {word} ({count}회)" for i, (word, count) in enumerate(candidates))
@@ -419,7 +489,10 @@ def filter_keywords(candidates, category, titles=None):
                     "- ⚠️분산: 그 단어가 나온 제목들이 '서로 무관한 여러 사건'에 흩어져 있다는 결정론적 신호다. "
                     "제목 예시들을 보면 공통 맥락(같은 인물·기관·사건)이 없을 거야.\n"
                     "- 〔핵심대상:X〕: 그 후보의 기사들이 특정 명사 X(인물·작품·기관) 하나를 중심으로 돈다는 "
-                    "결정론적 신호다. 그 후보가 껍데기 일반명사라면 사실은 X 이야기라는 뜻이다. X는 이 후보 목록에 따로 들어 있다.\n\n"
+                    "결정론적 신호다. 그 후보가 껍데기 일반명사라면 사실은 X 이야기라는 뜻이다. X는 이 후보 목록에 따로 들어 있다.\n"
+                    "- 🏷️개체명:타입: 개체명 인식 모델이 그 단어를 실제 고유명사(인물·작품·기관·지명·사건)로 판정했다는 "
+                    "결정론적 신호다. 이 태그가 붙은 후보는 두루뭉술한 일반명사가 아니라 구체적 주체일 확률이 높으니, "
+                    "태그 없는 일반명사보다 우선해서 골라라. 특히 작품(드라마·영화·예능)·사건은 그 자체로 좋은 키워드다.\n\n"
                     "★가장 중요한 주의점★ — 이 피드는 구글이 중복을 걸러 큐레이션한 목록이라 빈도가 낮다. "
                     "그래서 '순간·배우·캠프·논란·합의·단독' 같은 두루뭉술한 일반명사가 여러 무관한 기사에 "
                     "한 번씩 박히면서 오히려 높은 빈도를 얻는다. 즉 **높은 빈도 ≠ 중요한 이슈**일 수 있다. "
@@ -665,16 +738,43 @@ for word in compound_words:
 KST = timezone(timedelta(hours=9))
 today = datetime.now(KST).strftime('%Y-%m-%d')  # yesterday → today로 변경
 
-def collect_category(feed_url, stopwords, category_name):
-    """한 카테고리의 키워드+기사를 수집한다. 실패해도 빈 리스트 반환."""
+def _kiwi_candidates(feed_titles, stopwords):
+    candidates = extract_keywords(feed_titles, stopwords, n=30)
+    candidates = merge_fragment_candidates(candidates, feed_titles)
+    return drop_interior_fragments(candidates, feed_titles)
+
+
+def collect_category(feed_url, stopwords, category_name, strategy="kiwi"):
+    """한 카테고리의 키워드+기사를 수집한다. 실패해도 빈 리스트 반환.
+    strategy:
+      - 'kiwi'   : 형태소 빈도(기존). 경제처럼 개념·섹터가 핵심인 카테고리.
+      - 'ner'    : 개체명 전용(PS/AF/EV). 연예처럼 인물·작품이 핵심인 카테고리.
+      - 'hybrid' : Kiwi 빈도 풀 + 개체명 보강. 이슈처럼 사건어+인물이 섞인 카테고리.
+    NER 미가용(로드 실패) 시 모든 전략은 Kiwi로 폴백한다(사이트가 깨지지 않게)."""
     print(f"=== {category_name} Top 5 키워드 ===")
     try:
         feed = parse_feed_with_retry(feed_url)
         feed_titles = [e.title for e in feed.entries]
-        candidates = extract_keywords(feed_titles, stopwords, n=30)
-        candidates = merge_fragment_candidates(candidates, feed_titles)
-        candidates = drop_interior_fragments(candidates, feed_titles)
-        top5 = filter_keywords(candidates, category_name, feed_titles)
+        ner_tags = None
+        if strategy == "ner":
+            ner = ner_candidates(feed_titles, {"PS", "AF", "EV"})
+            if ner:
+                candidates = [(w, c) for w, c, _ in ner]
+                ner_tags = {w: t for w, c, t in ner}
+            else:
+                candidates = _kiwi_candidates(feed_titles, stopwords)
+        elif strategy == "hybrid":
+            candidates = _kiwi_candidates(feed_titles, stopwords)
+            ner = ner_candidates(feed_titles, {"PS", "OG", "LC", "EV", "AF"})
+            ner_tags = {w: t for w, c, t in ner}
+            have = {w.replace(" ", "") for w, _ in candidates}
+            for w, c, t in ner:  # Kiwi가 못 잡은 개체명만 후보로 보강(빈도신호는 덮지 않음)
+                if w.replace(" ", "") not in have:
+                    candidates.append((w, c))
+                    have.add(w.replace(" ", ""))
+        else:
+            candidates = _kiwi_candidates(feed_titles, stopwords)
+        top5 = filter_keywords(candidates, category_name, feed_titles, ner_tags=ner_tags)
         used_links = set()
         keywords = []
         for i, (word, count) in enumerate(top5):
@@ -888,6 +988,7 @@ def main():
         "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko",
         stopwords_common,
         "오늘의 이슈",
+        strategy="hybrid",  # 사건어(Kiwi) + 인물·사건 개체명(NER) 보강
     )
     # 경제도 검색 시드 대신 BUSINESS 토픽피드를 쓴다.
     # 금리·주식·환율을 stopword로 막지 않고, 그날 실제로 많이 다뤄질 때 자연스럽게 올라오게 한다.
@@ -903,6 +1004,7 @@ def main():
         "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=ko&gl=KR&ceid=KR:ko",
         stopwords_entertainment,
         "연예",
+        strategy="ner",  # 연예는 인물·작품(AF)·이벤트(EV) 개체명이 핵심
     )
 
     # ===== 요약 생성 =====
