@@ -136,6 +136,48 @@ def _candidate_feed_position(word, titles):
     return None
 
 
+_HANGUL = re.compile(r'[가-힣]')
+
+
+def _is_interior_fragment(word, titles):
+    """후보가 '항상' 더 긴 한글 고유명사의 내부에 갇혀 등장하면 True.
+    예: '민주'가 모든 제목에서 '콩고민주공화국'처럼 앞뒤가 모두 한글에
+    붙어 나오면(고[민주]공) 더 긴 이름의 내부 파편이라 키워드가 아니다.
+    한쪽이라도 경계(공백·문장부호·비한글·문자열 끝)에 닿는 등장이 한 번이라도
+    있으면 자립어로 보고 살린다 → '삼성'(삼성전자, 왼쪽 경계),
+    '스페이스'(스페이스X, 오른쪽 비한글)는 영향받지 않는다."""
+    seen = False
+    for t in titles or []:
+        ct = clean_title(t)
+        start = 0
+        while True:
+            idx = ct.find(word, start)
+            if idx < 0:
+                break
+            seen = True
+            before = ct[idx - 1] if idx > 0 else ""
+            after = ct[idx + len(word)] if idx + len(word) < len(ct) else ""
+            # 한쪽이라도 한글이 아니면(경계에 닿으면) 자립 등장으로 본다
+            if not (_HANGUL.match(before) and _HANGUL.match(after)):
+                return False
+            start = idx + 1
+    return seen
+
+
+def drop_interior_fragments(candidates, titles):
+    """모든 등장이 더 긴 한글 고유명사 내부에 갇힌 후보(민주←콩고민주공화국 등)를
+    LLM에 넘기기 전에 결정론적으로 제거한다."""
+    if not titles:
+        return candidates
+    kept = []
+    for w, c in candidates:
+        if _is_interior_fragment(w, titles):
+            print(f"  내부조각 제거: {w}")
+            continue
+        kept.append((w, c))
+    return kept
+
+
 def _title_noun_sets(titles):
     """각 기사 제목을 형태소 분석해 명사(2글자+) 집합 리스트로 만든다."""
     out = []
@@ -248,7 +290,9 @@ def filter_keywords(candidates, category, titles=None):
         lines = "\n".join(f"{i+1}. {word} ({count}회)" for i, (word, count) in enumerate(candidates))
     try:
         message = anthropic_client.messages.create(
-            model="claude-haiku-4-5-20251001",
+            # 키워드 선별·중복제거·순위는 맥락 판단이 필요해 Sonnet을 쓴다.
+            # (요약/설명 생성은 비용상 Haiku 유지)
+            model="claude-sonnet-4-6",
             max_tokens=120,
             messages=[{
                 "role": "user",
@@ -493,6 +537,7 @@ def collect_category(feed_url, stopwords, category_name):
         feed_titles = [e.title for e in feed.entries]
         candidates = extract_keywords(feed_titles, stopwords, n=30)
         candidates = merge_fragment_candidates(candidates, feed_titles)
+        candidates = drop_interior_fragments(candidates, feed_titles)
         top5 = filter_keywords(candidates, category_name, feed_titles)
         used_links = set()
         keywords = []
