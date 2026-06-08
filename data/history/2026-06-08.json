@@ -1,318 +1,364 @@
 {
   "date": "2026-06-08",
-  "updated_at": "2026-06-08 10:32",
+  "updated_at": "2026-06-08 13:16",
   "categories": {
     "오늘의 이슈": {
-      "summary": "이재명 대통령 취임 1주년 기자회견·선관위 쇄신·감사 요구 분출·트럼프, 이란과 핵 합의 임박 시사",
+      "summary": "에릭센 경기 중 또 쓰러져 · 환율 급등에 대통령·청와대 직접 대응 · 이진숙 국회 첫 등장 · 민주, 재선거·투표지 공방 지속",
       "keywords": [
         {
           "rank": 1,
-          "word": "이재명",
-          "count": 1,
-          "articles": [
-            {
-              "title": "장동혁 \"정당 유불리 떠나 재선거\"…이재명 대통령 회담 요구",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCQkNVb0d5R3FRR19naXhsT0lIdVlVOTZoSTlRV09KRWhhUFhDWU5SRk1FZEM5cDVRbmlwMk9rTk02MG4xLUJrcm1STDhjNU0?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "이재명 대통령, 취임 1주년 기자회견",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nNklRZVlEdzNvWHVkbG82TEUwWXhlX1VFZDM5TjFUb0pkajl0NEI1RzFKMEJ6STczTlZ6RzFobndZMGZ3d1ZRNzZmczBpc2FlRDRTT3ZsMVFXZHVVZVBwMA?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "이재명 대통령, 오늘 1주년 기자회견…2년차 비전·4대 목표 공개",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FbnFlNERtTTVsbmZmb3FEOW9ZVzhJNkRNdG5UZG4zVHBkeEVZMUttY2lsYmZRWjRpLUJmY0hEd0lsTnVvTHZqb01Pd2lpVzg?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "이재명 대통령이 취임 1주년 기자회견을 열어 2년차 비전과 4대 목표를 공개했으며, 야당은 재선거를 주장하며 회담을 요구하고 있다."
-        },
-        {
-          "rank": 2,
-          "word": "선관위",
+          "word": "심장",
           "count": 3,
           "articles": [
             {
-              "title": "선관위 ‘근본적 쇄신’ 요구 분출…“무소불위 권력 감사원 감사 받아야”",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEVVZMT0JPMS1ldFNjLUd4dHhnQTNLNjc0OTlxZ1RGb01PVEZCeDB3aEFMZkJ1NllUWmpySHNrVW9zenpNZDQ2QmRhV2ZkYm1SUzRJeG9tMXBNMkRLeVprRmxqZ2MwV1RSWlhGUjBRRnNJQ1dM?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "'4년 전 경고' 무시한 선관위…\"왜 우리가?\" 불똥에 부글",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9USVVkMTVDZm1uVlhQWmdCNTczdjNTN2p1cDJvdHlIWmJ4ampBSEthbHBLN1pPaU9vdUlMWThPajh5TE02SDUwTWg4MXFMODA?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "비와이, 선관위 저격 논란에 “의심도 안 되나? 제일 위험한 게 맹신”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1OW02dXFacVp6QnBMOVEwcnpFd0psa1ZpRlRZUmFVVFNlaGx3elV1WDVxcHZsbkVjYVFCelNMRHRqSldQOFI2WlBBQkRxS3c?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "선거관리위원회를 향해 '근본적 쇄신'과 감사원 감사 요구가 분출하고 있으며, 과거 경고를 무시했다는 비판이 거세지고 있다."
-        },
-        {
-          "rank": 3,
-          "word": "트럼프",
-          "count": 4,
-          "articles": [
-            {
-              "title": "트럼프 “이란과 최종 합의 매우 근접···10일까지 합의 가능성”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42b1gzV29zdTRab0VqNURJT3A0WTE5WUdyNWZhSExaTlVjcTZINTV5QkVRZWdnbThfNDFsck9LaDBpY0RHNVBJSkRDakd1Vkp5T0k1dGpyNUk5d9IBX0FVX3lxTE5OZk9kdnFDSFFuOHVmelh6Q3hSbHptU0ZreUpQQ2pWUkFJdHUyUmllNTdGQWRVNkpsNjFjWlNuc0hkUzdzOTdGRG1Gel94SWVVTW5RdjMzQ0tOU2FXU2dj?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "트럼프 “이란과 이번 주 초 합의 가능”…네타냐후엔 미사일 보복 자제 압박",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fTXlHRW03clNkTnRid0VyZVJBblV3MUdTUHNoQ1FfdjRtQm44cmZzSE9Jc0dJRTY3TUNRSjVzb1JhVDFZdGRYWGh4Q19EOV9NOVQ0RWVNZ2xlM0RqM2xUVzJKQ3VBU0FZVlhGbWxtb1d0RUU?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "이란-이스라엘 공습 속 트럼프 \"10일까지 합의 가능\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPYkI1ZGRXNlpvdFVaVm52Q3ZHNmRTT1RxMXU5SmlGQzBTdVVxMi12YlpQbVNOREJVYi1wUmlrdjZKcWRidVpoRXEwUWFTdG8?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "트럼프 대통령이 이란과의 핵 합의가 10일까지 가능하다고 밝혔으며, 이스라엘-이란 교전 속 네타냐후에게 미사일 보복 자제를 압박하고 있다."
-        }
-      ]
-    },
-    "연예": {
-      "summary": "박지훈 겸손 발언 화제 · 선관위 홍보영상 '홍어' 논란 · 故 송해 4주기 추모 · 변우석 SNS 복귀",
-      "keywords": [
-        {
-          "rank": 1,
-          "word": "배우",
-          "count": 3,
-          "articles": [
-            {
-              "title": "박지훈 \"저는 초중급 배우... 으스대는 거, 꼴보기 싫다\"",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcS1lcHlZeWF3WFFvVjV0eEkzM1RDemVpWXBBUEptYTBCWG0tQURhNjl2eXhteVJsMXhVeFRlanlxekp2QW5zUVhjd0FKdGYxLUNxWlEwbXZrOEFSeFpOY1NOdFM3Tll3OWlfLTNZVGVvRU9fLTNOU2hHQW9xdkJfNVpEQUZQakp0WHZwMFRkYldtM2lH?oc=5",
+              "title": "심장마비로 쓰러졌던 손흥민 옛 동료 에릭센, 또다시 경기 도중 쓰러졌다",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnNHNVVmUjlIQUE0dXZ3WE5md1ZjVkczdHhOcm5IZFNkUWtQOTF6VnB0b2I4Z3ZiVjlMX2ZxaDJ5ZzVCQUlmYzdfSEQ5ZUl4dkgzdjhubGtOVE5hbjM5ek5pX0E4MkExTlVKQ3JUTnRzcmVaNUdudTZVZUFrcXNOM1dGZHNHdk9vOHlN?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "[ⓓ인터뷰] \"그래도, 달라질 건 없어요\"…박지훈, 배우의 마인드",
-              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RdXRxMnNEVUFyOHZYbGV6QURCY2xibjMzUXpQNWtQR3p3Tjlhd2tTd0V1WC1wSEZmaHI5MHZ3YnhRRlpCZ0Z5VThR?oc=5",
-              "source": "디스패치"
+              "title": "바나나만으론 부족하다…심장 건강 지키는 ‘칼륨’ 섭취법",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4Mng2cFU1Zzk4b25FTWtGRFFCYlNhd2VCb20xUVJDb180SUFWX1REM3UwNUlBRmhrVTIxZmlLTmROUmdYcS1mUUlQUTZ4YVAzMUVvT3NtZmRfQQ?oc=5",
+              "source": "농민신문"
             },
             {
-              "title": "성리 “천만배우 박지훈 부러워… 조급했다” (‘데이앤나잇’)[종합]",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41WWFEMl93ZThpR3BmdTd5NkRMSkZndHJaU3ZpS1R5dFRFU2NpbU00c01XamJPTzRRdGEyVXRBZ252UU1ta0FwWDVHNEg5d01za25mVmllVTFKNGRlUDRqanNyQmRFZw?oc=5",
-              "source": "매일경제"
+              "title": "일산백병원, 국제심장혈관시술영상 포럼 20주년",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04bkpTR3BtaldqRXhvZ3A0VWdzaUJXV2xkbW1MSUZsTVJJQmExSXFsaXdwUTRYSjB3TjRuTXlIbEdvMDV6QWJVN3RuM1pZaDBBN3Vna3dpdDJjZkVrdWVnTndWZnd1Wi1fVnBOMU51dVpQZw?oc=5",
+              "source": "의협신문"
             }
           ],
-          "description": "박지훈이 인터뷰에서 스스로를 '초중급 배우'로 칭하며 겸손한 태도를 보여 화제이며, 성리는 천만 배우 박지훈이 부러웠다고 솔직히 털어놨다."
+          "description": "손흥민의 옛 동료 에릭센이 또다시 경기 도중 쓰러져 화제다. 심장마비 병력이 있는 그의 재발 소식과 함께 심장 건강 관련 기사들도 주목받고 있다."
         },
         {
           "rank": 2,
-          "word": "운세",
-          "count": 3,
-          "articles": [
-            {
-              "title": "[오늘의 운세] 6월 8일",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXWDdwZTBCTDdpQW9ETC14NzAxMGFjNDlyUUNzNTk1LTBrQVk0bjRadWV0TmVDX196OFRDQVRtb1NpaVlqcWhxbWZCcVNua0VPSmlNTFpn?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "[오늘의 운세] 2026년 6월 7일 (음 4월 22일)",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUpPM2VVN01iVDFHZTNhanUwcE5hNU9iOUlDT1NPd195TU92RnYtLTcyc1pFV0FkaXloZmVFbTJuSm50X09acGVMN09ZTVk4MFU3dTIzbURuRW5XV3pqWElaWldzYzJKQWRRSlpjd3ZVS0NrZEJPcW4xbHo0cTVGSTRiV2djbHNUb1Nkdy1R?oc=5",
-              "source": "국제신문"
-            },
-            {
-              "title": "[오늘의 운세] 2026년 06월 07일 별자리 운세",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kVU02N3JXdWdPYkVJbVl1RmJVcGsxRTAwVjRNOEhOdWRUb2dGc1BqeUJVZjdyQ0VqLTJ4SFNfNU9CQk9hM2J0TUl1UTFwb3BMZ1pyNUNBZjNycmV5NEE?oc=5",
-              "source": "YTN"
-            }
-          ],
-          "description": "6월 7~8일자 오늘의 운세와 별자리 운세가 일제히 게재되며 주말 운세 콘텐츠가 관심을 끌고 있다. 오늘 처음 등장한 키워드다."
-        },
-        {
-          "rank": 3,
-          "word": "논란",
-          "count": 3,
-          "articles": [
-            {
-              "title": "선관위 홍보영상 '홍어' 논란…민주 \"경위 밝혀야\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sTkZhdmZDekFKMDRFTjVFU0hJNzZFcVdUY194NjcxSm94MjB3RklRVUl6amtaSnhmajVHRDhXSjA4dDNydDJQQjlNZk5rQ2M?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "비와이, 선관위 저격 논란에 “의심도 안 되나? 제일 위험한 게 맹신”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1OW02dXFacVp6QnBMOVEwcnpFd0psa1ZpRlRZUmFVVFNlaGx3elV1WDVxcHZsbkVjYVFCelNMRHRqSldQOFI2WlBBQkRxS3c?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "선관위, 이번에는 홍어 연상 CG 논란‥KBS \"개표방송에도 송출, 사과\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51WE9iZ1FJZWkyRkVRdl9heVhiM0VzaVFkUHNVcUVjOXg5eEYtb0dtdXZoSzZLRjdhMGxFQ3JrX05vbXNHUzllbndqRXJKWlg0cTFwYVZ6eHFZSXdiVkJEVVdPaEs0c1BTMmMwV1dpZE0zZ2daV2ljNdIBeEFVX3lxTE5LQmNERnNOTUFMWVR0dWN0dURPMkZkc1JGTjRvOFlPNFduLXJQTC10b2ZEa0FVTHp2M2NEWjZOdmNpS0U0eVJuV1JSYzN5dkZ0VWRjcXI1dW9mbURtaHpjWUVlX1U2QkZZT1lrQk5Iby1mdm5aYmpsdw?oc=5",
-              "source": "MBC 뉴스"
-            }
-          ],
-          "description": "선관위 홍보영상에 '홍어' 연상 CG가 삽입돼 정치적 논란이 확산됐고, 래퍼 비와이도 선관위 저격 발언으로 논란에 휩싸였다. 오늘 처음 등장한 키워드다."
-        },
-        {
-          "rank": 4,
-          "word": "스타투데이",
-          "count": 3,
-          "articles": [
-            {
-              "title": "故 송해, 오늘 4주기…영원히 그리울 ‘국민 MC’",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SU2NlcExTNlRqSThmT3UwbURldnNBUlotRXRLZ3N2R1hIdk1uYWFUZmxMTXloV3AyX21CTGI0LXJjUG8wYy05Mk50dFlKa1l5NkNwS3AtSEc?oc=5",
-              "source": "매일경제"
-            },
-            {
-              "title": "[인터뷰①] 채원빈 “첫 로코 ‘오매진’, 도망가고 싶었죠”",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fb3FhcnctRkdTQXpaTUNnX0V3OTBTS2dOMFN1VGVHWWN5a1lDaUFvaS03cHVmQkpkVWstcldaMjJGYjlNUm5vUmhjSTBaTjIwMWprY3g0T2Y?oc=5",
-              "source": "매일경제"
-            },
-            {
-              "title": "함효주, 오늘 13주기…갑작스러운 교통사고 비보",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XNGIwYVZRNDd3WmdIOHZJZFBjRWxXaVBBWGEwT0NOWFpnTHFiSnBRRloyWXFmTThUcWRPNUliTl9xU2R3X0VIa05ndEJpUnllbnpScW16OUM?oc=5",
-              "source": "매일경제"
-            }
-          ],
-          "description": "故 송해 4주기와 故 함효주 13주기를 맞아 추모 기사가 이어지고, 채원빈은 첫 로코 '오매진' 출연 소감을 밝혔다. 오늘 처음 등장한 키워드다."
-        },
-        {
-          "rank": 5,
-          "word": "변우석",
-          "count": 3,
-          "articles": [
-            {
-              "title": "변우석, 2주 만에 SNS 복귀…비주얼 ‘눈부시네’ [DA★]",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TUUU0YVR1QzV1OXdtSjN3SGh1Q0UxdXlhVWpLSGJKSTJKdkNIYlRnRXo5N0VWV05COWZYdW43RlhXZmREMEloQUMxRThJV3A1M0haVmtOTEM0aHFFdktEQUhuTkVhVm9LSTUzYmNR?oc=5",
-              "source": "스포츠동아"
-            },
-            {
-              "title": "변우석, \"연애하냐\" 질문에 단칼…\"여자친구 없어요\" [마데핫리뷰]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54eGM2NTJxU1JaTWNzRGtGeTJzdGJ3WVB2ZHNkWXJRQWRNWTdlQmtxaHlJallVbFVreTBWWUdhN21qdmtZRVU0RzkwcjdSTWs?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "'유재석 캠프' 변우석, 이광수와 티격태격 \"난 멜로하는 사람\"",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pSEctZnQwUHhwSy14MHRDVVJDeHpNakNYNElKbzVZU3NReUVpUkdnTHZ5RWlWRGJPR0RrVzhCdURaaWFlakJ3Y2l1aUhVSmlhMDltRzF4VjI3ZFhBTnA0V2hSWnJuTV9IT0E?oc=5",
-              "source": "네이트"
-            }
-          ],
-          "description": "변우석이 2주 만에 SNS에 복귀하며 비주얼 화제를 모았고, '여자친구 없다'는 직답과 유재석 캠프 예능 활약이 함께 주목받고 있다. 오늘 처음 등장한 키워드다."
-        }
-      ]
-    },
-    "경제": {
-      "summary": "코스피 7400선 폭락에 서킷브레이커 발동·삼성전자·SK하이닉스는 AI·반도체 협력 확대 소식",
-      "keywords": [
-        {
-          "rank": 1,
-          "word": "코스피",
-          "count": 3,
-          "articles": [
-            {
-              "title": "'검은 월요일' 코스피, 8000선 깨져…서킷 브레이커·사이드카 발동 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEazZlWWlIRC1lS2NOcFF0QmxFQlJUZjYyUTI4S1JOWUJNNG9qdkFzTm5oNnhxczNWOHY0ZHF2V09FNVMwOXB1d3dMaWFXbmVMWnBlbzdlNF91MWpKZFdieUIwZE9EMFMt0gFuQVVfeXFMUGo2RmlKNU8xSmc5Z0t3UUU5aXMwaUg2czdyU3prRTZ6QmREOXBpcTRWRmlwQnMtT0taOVplNTYwSXNoc2NpQ0hEOHhkS1FrMzREaVpHdEVCdEg5eGxuWFgwSjRpN2dvdW0yU2duUHc?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "[속보] 코스피 7400선으로 폭락, 삼성전자 30만원 붕괴",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2xTaWtkMThCY1lkM25fbEVlTDc0al9Cb0hDVDNkT29NdmUydTlRUnFZYjNVcjd0X2xjVVgxN0hqNHFRclZ0RjlUcFRack8wVXJkTGVocm5tUDNWV2Z0eEpVNm9aVXBvd2JmeHZBdlhnclpKd19FbFhjNnhyOXVuSnBkQ2dmM3pUMmY0?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "“코스피, 오늘 20% 이상 낙폭 가능…아직 관망할 시점”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83UURQNTNpek8yN29vaU5kbHpSdzlNRlFHUkZ5SzJLSlNJNGstYmhGRHRiT3N6bDhFZkZoQ3NjWnVyOEl1UmZidHUxTXdLcUk?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "코스피가 8000선 아래로 폭락하며 서킷브레이커와 사이드카가 발동됐다. 7400선까지 밀리며 20% 이상 낙폭 가능성도 제기되는 '검은 월요일'이 펼쳐지고 있다. 어제 3위에서 오늘 1위로 급등."
-        },
-        {
-          "rank": 2,
-          "word": "삼성전자",
-          "count": 3,
-          "articles": [
-            {
-              "title": "[단독] 삼성전자 파운드리, 올 3분기 흑자전환 전망… “4년 만에 성장궤도 진입” - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3BvM1VYNWFuc3NYanlYMnhXRDZFZHhrYnc4dkZCVkpnNFhlS3lCZHpjbkhHcXVKaGJnMC1DaGlaNmVNSVRQaFRfUnBIaVV0N1BJOFBhWWhTVFJIT2hFYzBYaXp3QzFxbzRSdlZMVklWVWhpUEJsSVhyUVpEam5yMndR0gGWAUFVX3lxTE5UbXZrb1lhUFNPcXdLeFZZUmpwcEkwVnNMSE5OSEpPTHNyUzN1clZZNjY5N0pXZS1YbDh3Q3EwaHN2R3V5U19DWDRSelZ4OWZHeXVHVndtQ1c1ZEdtMWx0c19wX0F1RDNUeUVqVFdUN3hNd055QzR0ZnA2LXpaVFNvdmY1WlBiVDdCQ1NUY3pzUDBIY2tGZw?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "젠슨 황, 전영현 삼성전자 부회장과 회동…HBM4 물량 확보 나선다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JU25aVm9fVXRjVmlITWJ2Ym1OVTVMeEZMT093VG54d3BoTm56bVdvTG9ad0d0d3hsNVZyWVI3dDN2SFRRZ2wwWkd5aWJJYjBsZ19NMF9kYU41Z9IBVEFVX3lxTE5Fa3J1cEg0VmVrS0R2MXhiRG42Rks5S0RrYlNRdVRwMDlsZXVhZDl6MVJTeTBybi11dU5iYlhuX29yYnd2RFVvWEgyUnp6OWNPYWdBLQ?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "젠슨 황, 내일 엔비디아·SK 협력 청사진 발표…삼성과도 회동",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GUjdMVUhvbkhmN29WWXBCQ3pCUzBjei05cnZ2SU5KS0tkai1hZXZuSmVubkRsSF95cFhuYmpFVWR2dHQzQ1E?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "엔비디아 젠슨 황 CEO가 삼성전자 전영현 부회장과 회동하며 HBM4 물량 확보에 나섰고, 파운드리 사업은 올 3분기 4년 만의 흑자전환이 전망된다. 오늘 처음 등장한 키워드."
-        },
-        {
-          "rank": 3,
-          "word": "하이닉스",
+          "word": "국민",
           "count": 2,
           "articles": [
             {
-              "title": "SK하이닉스, 엔비디아와 AI 팩토리용 차세대 메모리 공동 개발",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42OThmUGtfeksyZW9wNm5DT0gtQXhSQklvbXFlN05UbjlfMmcyY1JWMXoyUloxcVZ1OE5TdXJUOHIyWVEtVFN2X2ZLbkFZTFdRZ0FtV2V3?oc=5",
-              "source": "지디넷코리아"
+              "title": "국민과 함께 만든 소통 대한민국 - 영상 | 멀티미디어",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sNW4xSmlWNEJRLXlBN09KZnFCQkhscFJiSC02aFZxekJ2QzJNZHdhbkxLZUVpWTVISHlNa1ZoRERNR3RYNW8zVFlkczhkTlZobHUtOWdTLThBbTNOUE9ULWl5MUd3bkl0TWV4Zw?oc=5",
+              "source": "대한민국 정책브리핑"
             },
             {
-              "title": "SK하이닉스, 엔비디아와 ‘AI팩토리’용 차세대 메모리 공동 개발",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtX0FUM1hHLVd3VVNKZ0luX0dOcVNJVk5xQXNobkIzbWl0NjdQV0MwVUtqek1JOHktbjZiaTVkRXV3V09yR0VJa2xkeXNtVEV5bXdpZVREWjg4UdIBX0FVX3lxTE9oeXg2OTRzTjUwNFU5UnRzWnlqVEJXdmVEbDU0N0s2cnY1NXdsdzdBcUxtb2RfY1JNWG5ERkh3cGxZRDBDcFpFQ0JDSndQUWQyTkNGQm90clJMdWdxMnVJ?oc=5",
+              "title": "이 대통령 “선관위, 국민 신뢰 잃은 독립기관 존재 의미 없어···정부 차원 모든 조치”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uV2hnc3oyRlNWZ1I3MjRTWWhZdEJCM1hlN2JaM1ZzVWdldFRwekY5T1kyekFqRUtIcDBrU00zZHpZUjFSS0pPWmxHWG5ZSGduWEdPTGNGb0htUdIBX0FVX3lxTFB0RHNURi1WYUNmNGR1TGwtZEw3OE9CdEFvM1ZtTXpNTkJQdEE0TXY1MWIwb1F0enVYQ3NiYlhhNWdFMzU4WTZIZUx3c3BsWmFHNV93MWJnbkJMR3JTMjEw?oc=5",
               "source": "경향신문"
             },
             {
-              "title": "SK하이닉스, 아직 끝 아니다...증권가 \"목표가 320만원\"",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Tb2JuTWc0YnB6dXptX0R6VUxWNjlUWkhCTC1NazdPdEZZU0daSHEzY2FMZm5NQmxneDBmMkNhV1E3M20yNmNRWFUySC1vLVFzQk1TSk1MeGRKd9IBXkFVX3lxTE5ocloyenRIa29RZnZHOXVwa1h1WEIycmNldGY0czRiMUoxR2VBaWJlZlZxazJiakpUMTREaVRQUXdiU0dLZUNjWU5uc2kyZGtLTUVwYkQzWURkeFNNYnc?oc=5",
-              "source": "파이낸셜뉴스"
+              "title": "장동혁 \"국민의힘 주도 국정조사 해야‥그래야 국민이 결과 납득\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uM0swTVFFelpfbXprZXFnX2piYkNzbVYxZ2owZ25VNFBEZGxuWXg0UzZnVkI3b25mbWliUk0zNzBDSlEwQmJ0bS1qbVdjZVA0OE8yZ0xLT1pjcUR6VHhsdmFraDl2MmhTRXIxME1LazJjMk9FdHJHNdIBeEFVX3lxTE14NG9TVXFJam5ZeWd5ZlM5QWJ0eU9ncEx0bU5mOW1ZY0JMMjlwUVJzRmZENndDb2FGaEZjN3Vybi1Bc1NQelpPY0ZtTm5ueGZjN1hseG03UEhDc3gyVTVjSU5QdWpfNC1vUWZCZ3dHNTVwd3dubHB5dQ?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "SK하이닉스가 엔비디아와 AI 팩토리용 차세대 메모리 공동 개발을 선언했으며, 증권가에서는 목표가 320만원을 제시하고 있다. 오늘 처음 등장한 키워드."
+          "description": "이재명 대통령이 선관위를 향해 '국민 신뢰 잃은 독립기관은 존재 의미 없다'고 경고하며 정부 차원 조치를 예고했고, 여야 모두 '국민' 명분을 내세워 공방 중이다."
         },
         {
-          "rank": 4,
+          "rank": 3,
           "word": "환율",
           "count": 2,
           "articles": [
             {
-              "title": "글로벌 금융위기 넘어선 '환율 위기'...정부도 '발동동' [굿모닝위기]",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53RUtnZ09xVW9WX3VpZzhXeGZyREFMWTQydkRzeWVWOUZkZFFQdm1jRzA1azduaFEydUlZaHZkT3hEVVAwOUJfY1J0WWxJZG1nWU9XZ3ZncUxyWUctYnc?oc=5",
-              "source": "YTN"
+              "title": "\"이대로 둘 수 없다\"…환율 급등에 靑, 직접 나섰다",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xZU95Y3gyd0FmamhBRTg5b3U2ZXQyN1VldlRrcC0xZFQ5OEYyci1LQ3ptWURuVnJRSExqOVgxME1nQkZqZThOalQ5eVdwYVV6Q25OTExZTVVpUnBGdllYQVF0dzhoRWxuWWhvTjEzMDM?oc=5",
+              "source": "연합인포맥스"
             },
             {
-              "title": "코스피 폭락에도 환율은 하락…1550원 초중반 등락",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15Tkw1eG9QTnUycFgxb2RYZjJSYVVDRXZweElUNmV1OEszVm5UV0VEZEQyX01uZWg2Nk1iS0N1b2JIMGlyWl9iNUNFOHdvcmFnTW41Slc3U19xb3RQQWtBYmVDSlQxRlItdVRMdy1VOVF1ZXM?oc=5",
-              "source": "마켓인"
+              "title": "李대통령 \"환율, 높은 것 사실이나 일시적…지금은 정상 아냐\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zVExUd3l6Nm9MNHRTWkJpdHMzNklaelVIWkV5SzI5TzhvdlN4R2R3VjNaQlJfVWY1NDd3V3dnNDd0SjNkTFROM2NtSG15Wk8tX1ZTV2NpbzEzb2RlOGRnSlU3OF8tUUJzcW14OUxiNEQ?oc=5",
+              "source": "연합인포맥스"
             },
             {
-              "title": "코스피-코스닥 급락, 환율은 상승",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWWFhHaE5XTTVqZExRVE1VOWl4RjhGRy1OU0VjLUY3UERPanBmaFhIV1JmSUdxS3JiRTB0WFNtTmNmVTBXM1hFR29wQlNmaU9vVEhKaUlkc2t5bzR3N1F2eg?oc=5",
-              "source": "뉴시스"
+              "title": "李대통령 \"환율 높은 것, 사실이지만 일시적 현상\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Lc0xUNnYzQU1aZnEyeDcxRm5RTlloeU5xd0dVZWRHenhCSGwwTjE4Z3czZThlZkpheDVqVGpMZHY0enE4bWdOS3c2SnRNdDZaUjNYdExhZTNIZzlsTGpDNg?oc=5",
+              "source": "아시아경제"
             }
           ],
-          "description": "글로벌 금융위기를 넘어서는 '환율 위기' 우려 속에 1550원 초중반에서 등락하고 있으며, 코스피 폭락과 맞물려 방향이 엇갈리는 혼조세를 보이고 있다. 최근 2주간 꾸준히 상위권."
+          "description": "환율 급등에 청와대가 직접 나선 가운데, 이재명 대통령은 '높은 것은 사실이나 일시적 현상'이라며 진화에 나섰다."
+        },
+        {
+          "rank": 4,
+          "word": "국회",
+          "count": 2,
+          "articles": [
+            {
+              "title": "이진숙, 국회 첫 인사에서 “국회에 안좋은 기억 있지만”",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51WHZBVE5jWVFYT09USTY3V015TEN5Z2pMTGJhNzl1Mm5jRjNnU1A3UGh5X0Y2eXA5MWdHZDB2bXVOeVdZM3RuaXJ2R181VlFzZ2dRQ1VzNlhkaW1pODRFcFpBeUEtaW5LeFl4bEpLMjk?oc=5",
+              "source": "미디어오늘"
+            },
+            {
+              "title": "국회 데뷔 이진숙 “다수당에 안 좋은 기억”…민주 “그럼 하지 마세요”",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95SE5kX2Zvemg3SkQ0VzRMcjM4UmVpdUJWWm5nZ1MxRDRHZkQ1dTREMG1XVzdsV3N4VDgyUzNVdkVBUHdrQ1U0RmJUeVltM0h1b085Sjg3M1pSY2wtSGZRMEk4aURqU3ZzMThSbW1rQU5LaF9RdlM00gFmQVVfeXFMTm5fMzR5NEtkUG5qa3VkSkg5dGkyRUgwVnNnNjcwemMxcDFUVUVaa1VkUXlJdWdIZFF4Q0xvczgyYUpFNUs5M1Q5WlFna21JWXh4Mlp6Y3FOZWhUc0g3anRLQm5YNWdn?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "한동훈·이진숙 ‘국회 동기’로 입성…국민의힘 새 의원 4명 중 2명이 강경파",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Uc2c1RHc0WFNGTUJ3Sy14X1NxZ1pNSmI1alBKVFJVb3NNM05pRGt0S2IxSXA2cmJDZWlKMVpXc3VoSXdIWExXWURiWlZaQ3VhUW9TeFBnZER1d9IBX0FVX3lxTE8zNlJBZnlGdkNIZlNwUW9rQ3p1Nk1SRmp3UW55M2p5YUMwcVlYVnljT2x1UDVWNUpHTFVYSVdBcmR4OVFtb0RCT2dkVlhuUk1QaFpFRUVDWmx2VXpPMUFN?oc=5",
+              "source": "경향신문"
+            }
+          ],
+          "description": "이진숙 전 방통위원장이 국회의원으로 첫 등원하며 '다수당에 안 좋은 기억이 있다'고 발언해 민주당과 즉각 충돌했다. 한동훈과 함께 '국회 동기'로 입성한 점도 주목된다."
         },
         {
           "rank": 5,
+          "word": "민주",
+          "count": 2,
+          "articles": [
+            {
+              "title": "“투표용지 문제된 지역만 재선거하자”…민주 일부 의원들 ‘역공’ 나서?",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Vc2tOUXNpbG5fMGZMTnI4NW1hbHluYml0RUUzY0hoNUtRT2ItWFExZWJWZHc5MTNacTN3bTllREFfRTFlWXZydFJPOEduWkU?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "민주, 장동혁·오세훈 ‘투표지 공세’에 “국민 자극…구태정치”",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85ZmxrTWdNTnNPU1JSel82ZXBHcFFXS05kVko3LXllNEQ0aEFQT2pmZ0FyMDdXb0l4S3Z5SHBsRS05Ukw1MnI1SkR4eXpteHMyeG9XV0NlS2NaUmhJWmRfeHFMYTYxRmlUOUE?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "속보 민주 \"내일 '투표지 사태' 진상규명 국정조사 요구서 제출\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PZVVEc1NUWE4wYWo1OHI3ZmtSaFNyZW1jYV9PNkRhM3otT2lMdVB2TjJLVWluTFNhNF9aM1FmdWJTNnpJMVdkRTlaSnl1UXNPWXZaaGlwSW02TEZSWFE?oc=5",
+              "source": "YTN"
+            }
+          ],
+          "description": "민주당이 '투표지 사태' 진상규명 국정조사 요구서를 내일 제출하겠다고 밝혔다. 일부 의원은 문제 지역 재선거를 역제안하며 여당의 투표지 공세에 맞서고 있다."
+        }
+      ]
+    },
+    "연예": {
+      "summary": "'군체' 500만 관객 눈앞 · 하시4 김지민 SNS 유출 사과 · 김수현 활동 재개 · 서인영 재혼 발표",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "군체",
+          "count": 1,
+          "articles": [
+            {
+              "title": "400만 돌파 ‘군체’ 속 채서은, 좀비보다 무서운 민폐 빌런",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zVXpIR0szMWJMRWV4dGNDX1d1dGtNYzlDcUR2QkJESENKZnk0eWxUN2lKY09XdG1MUWlndHctUzdUc1Z2eml4TDhlcHZoWEpwRGRFS1RGcnVPbWIydG9MTXdnTElUc2ZJeDZURzRB?oc=5",
+              "source": "스포츠동아"
+            },
+            {
+              "title": "18일째 정상 지킨 '군체', 500만 고지 눈앞…'와일드 씽' 2위",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CRnhIMWNneXBIS09LMVpNLWpHNTdEaXNUWkVLck5tUjExVHJONE55aFRBUTdRY3Nac0RvMUZ3SWlsQnB6WXpsT2hFUl83MUMzWDBBZXNB0gHmAUFVX3lxTE0tbzNTRC1iUEdRQUZLUF94dnR1WmpyV1NHQXF0ZGRZdDRtZ3d6QmtyMHhPR0tiQXNoZnlYWFFOQUp2MTBkaS0yRExKR1BSdUJnOTJscXFTcm45Zm0tYm1QczNSUW4tMUp4SzVtX1didlFST05KM2ZRb3J3NmxiT1VCOUdwZ25vUmxRNmxwSnhlV3ZiOHN0aWRFZjJuY3Fhb1lnSUMyS2pDRXRPYUlFYmFmMG81c0VmaVpGcHpTZkUwMURJZVJDeUR2eUdVeVR6YVFqSkVRbHNXUzRVNFNVenY3TTFPeTl3?oc=5",
+              "source": "데일리안"
+            },
+            {
+              "title": "'디스클로저데이', '군체' '와일드씽' 예매율 제쳤다!... 다크호스 등극 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qc1ZZVXNjRUR4TlA3dDByTlktakdJd0JGRUgyLVlTbGxkVkVaeEVsT2NPeHJRZnFSVU5YUDBmNmEySzlNQmpHcUl3RGl0M2VOWTV5Z1E2NDZPWWE3UmtTWEs3cGdsTkkzeGtEb0pZNUEwT0HSAXhBVV95cUxOaGk2b1ZianFBaTlCM0FOeF9XNmM0TndtYmRtZnItSENPMXUtcEVlVGQzdF96TmoyelQ0RjJQb09Nc2FDUXREaTVxUFpRVVcwVUdveWR6V25pRktuUEpSS0RTM1RTZXZoWXl1NEtBTmdVVWJQcElGcVk?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "박스오피스 18일 연속 1위를 지키며 400만 관객을 돌파했고, 500만 고지를 눈앞에 두고 있다. 오늘 처음 등장한 키워드다."
+        },
+        {
+          "rank": 2,
+          "word": "하트시그널4",
+          "count": 1,
+          "articles": [
+            {
+              "title": "엄마는 김치녀?...'하시4' 김지민, SNS 유출 논란에 결국 실토 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tQXF0aF9yWVZUR3RfRU9nbzFNZmlDdm03UFRGR05EUDZnX25oVDlmeGxWaGxGZlNQNHBmenI2eE9jNUFHMkhyR2hxZDYwUXdyOE5Gc2tyNWNvWGJ4UjhZakdnRjI3NFZJREd3Y0VWSE5idzTSAXhBVV95cUxPOS0wMHI5MXVTNEdzY3VIV1pieWxRN2pka0IwbEpvM2FXZ2RBOFJvRWhFVmE0U19HNXR5VUFqS05adXFaa2dyQkZjYWFNYnBtZHhpSXlkTnZ2ZDVYOEtxWUlDUWhTY0xwR3lDZEs4empSb2hwOW1kTmI?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "‘솔로지옥5’ 박희선 “의혹은 명백한 허위사실”…‘하시4’ 김지민도 공개 사과",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CU1IxX09Xd1dhTERHOW1HWm1STGRjRFJTY1EzaERHSVlFbjFSaGlMbzQzRFUxVzdPYnYxNWNuaXVudEp5dmFKcUNDMG1KNkdSekljbjhHanNCQWEwNE9BRGxQVXIxNmYzdllseVln?oc=5",
+              "source": "아시아투데이"
+            },
+            {
+              "title": "“엄마는 김치녀”…하트시그널 김지민, 비공개 계정 글 뭐길래",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcXJYQWFibTRHU2d1elZQaEdNR1J4YnVlcmtmZ1NnM2pqTzFvNnI5VDd1UDRfYWhXYjNGaFBsRE9FT0FiRzcwTmsycFM0ejhQUE8xSDNjMEg4b3hZdHBWTmpRd0p3WFI4S2gyZ3EwLXNpRng0RFpPUkhLRk9Jd2pSNGtGc2FTV0k5NjlkcmFUSXo?oc=5",
+              "source": "뉴스와"
+            }
+          ],
+          "description": "출연자 김지민의 비공개 SNS 게시글이 유출되며 논란이 일었고, 김지민이 공개 사과했다. 오늘 처음 등장한 키워드다."
+        },
+        {
+          "rank": 3,
+          "word": "김수현",
+          "count": 1,
+          "articles": [
+            {
+              "title": "김수현, 1년 만에 활동 재개...\"필리핀 광고 촬영\"",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CMjNlQVNFSTExTmF6Wjg2QWhJZ05zRHVtdHp3ZGJpbXVGUk9FZkJhbUtUdHdza29IRFBRMjNfOUltVVdkN21lVlp0aG56VWFGZy1LZkl1TGE1NUN6eFZr?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "김세의 구속 이후..김수현, 28억 화장품 모델 소송도 7월 재개",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHbFhEY0dEdk9YMFh4MFI5MVdfelVxQ3R3ckdJX3YtTkEzSGh4U2J3aGJHbkRUVktOOGRnSWMyUEZLaHl0UGlNNWZRclBXT1Vwb3B2ZnpwaWVaOWVpWDVtcklzYjA3ZWhiZFJObjNINlVxVEE?oc=5",
+              "source": "starnewskorea.com"
+            },
+            {
+              "title": "김수현, 광고로 다시 선다…7월 첫 활동 재개",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LTm5BT1dOYTBDeWp1dHQ2dVJtSWhZV3g5dm5pWlhkSjQtUl9RZ1BvN3dWNlFTNmQ2T3RSeTJQc3pyUzE5eWoxZGhKc3UwTW55R2pqM0l6MFRkY1BhVUpRbHY5eFA?oc=5",
+              "source": "뉴스1"
+            }
+          ],
+          "description": "1년간 활동을 중단했던 김수현이 필리핀 광고 촬영으로 복귀를 알렸으며, 28억 원대 화장품 모델 소송도 7월 재개된다. 오늘 처음 등장한 키워드다."
+        },
+        {
+          "rank": 4,
+          "word": "최준희",
+          "count": 2,
+          "articles": [
+            {
+              "title": "최준희, '잠실개표소 봉쇄' 시위 두고 공개 설전",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjcFlRTS0tdUlBdVlfSktaOUNMLUgyaVY2Z3pHUi0xcmZFOHBDOWVsRVlnT1gxZTZpZUxkQkJMR19wN01vTTVUZXJwOG5sVFVCN0xSby1ldFN0SHlvRzE0YdIBeEFVX3lxTFB0bUtiZFoxVWVFMEtUZzV6VUpWaXpGcTIwRDd6VmZSUEZUbzFIUkhOZW5NLTU3VUtqSjA2SkNmT1A0TndPejEyZl9QektSSFRUdDZBVF96SG5xTjJ3NUlMZmxNNmhDckIwTFhuM2xOZkZ3YjV3blZaUQ?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "“좌파 없는 나라 살고파”…최준희, 6·3 선거 간접 언급 - 스타투데이",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZdEwyWXZ4dWFRUUY1emxpMVlFVDg0UnlISm02NG15M1B1MlZrTm5aMjBVbDFxT0VmTEdQRTVUTVZtUFBHT2FHV1lRYVc3RTdyaHE4X0JWa3g?oc=5",
+              "source": "매일경제"
+            },
+            {
+              "title": "안경 쓴 최준희, 여신으로 만든 '이 화장법'...부작용은? [헬스톡]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1USUVjbDQtNm9ibVFKaTJ2RU5xcDBDODVsTmFEQ2VNSUdoMFJLSmxINF9SUC1vOWI5ZHc1OTlGX0hnemtyaFRJUmU5UWN0NVE?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "6·3 선거와 잠실개표소 봉쇄 시위를 둘러싸고 공개 설전을 벌이며 정치적 발언으로 화제를 모았다. 오늘 처음 등장한 키워드다."
+        },
+        {
+          "rank": 5,
+          "word": "서인영",
+          "count": 1,
+          "articles": [
+            {
+              "title": "“결혼 또 할 거야” 서인영, 이혼 2년 만에 6세 연상 CEO와 재혼",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JZ3dubGViUGlpQWhqYmdNbjhTcjFKVTB4ZHQ1NDFCYnJ2VmNqX3RKSWlUWHRZb3pkcExhXzk4VFhIUE03eFdTTldLV29EVGtYeEM3VFMyQVJZV191TmfSAWNBVV95cUxQbjBXWFJybVh4WXhKUGdRVTVoWGZfcV9QN1NieEpqYjhweFAtMVp2dmtEN2F0MEx4TktwQlVYeURuRjk1RXNXRUZvUlBfLS1nRzhsTnZZdWxJZFk5eWp4VHBZbG8?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "“연애 중” 이라던 서인영, 재혼한다…6세 연상 사업가 누구",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5acmFpOE01NFNVbzJ5NjUzNllfTFpBR2pGd2JBVjVub25sV2xfMWhQWUxUMG43bGFxQ0ZnRXhOMjRBVGh0a2M0T1RXUDJpMTEtNkc2Y2pB?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "쥬얼리 출신 서인영, “하반기 재혼”…예비신랑은 최지훈 대표",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSdXlXOXlmZDh1R3JDQTZVME9NdVBnRVVFcnNsSkxERUpYaEpESFZQNEVmeDRIM2Vvd3VuZlZnU3dYZ2dnczdyem1YZ2RRWDd3?oc=5",
+              "source": "문화일보"
+            }
+          ],
+          "description": "이혼 2년 만에 6세 연상 사업가 최지훈 대표와 하반기 재혼 소식을 알렸다. 오늘 처음 등장한 키워드다."
+        }
+      ]
+    },
+    "경제": {
+      "summary": "코스피 폭락에 빚투 개미 비명 속 환율 급등에 대통령 직접 대응 · 젠슨 황 \"AI주 저렴한 매수 기회\"",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "코스피",
+          "count": 2,
+          "articles": [
+            {
+              "title": "삼전닉스 '쏠림'에…코스피 오를 때 하락종목 더 많았다",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aODVXVUttTWxzdjN3S080V3BySlppUzdLSGY2Mm1tSHUzM3hLdll5akxpbjRqOFJic3lLcDJvSWhrZDVZV3RqNHhCU080ZGozVl9nOS10WXRrUmPSAWBBVV95cUxQLTVwdHQtQnI1ZE5PbHF5cGVreUE1U1BsRE1MWkpHcWxVOVNqcng0TXhoVkRjRGgxOUl3bFR2Mm0yZDllNUJSOXhtelp4SzBfRVotZnpGX2RzQmNqMjVJRkI?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "피하지 못한 ‘블랙먼데이’... 코스피 7400선으로 폭락 후 소폭 반등",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2xTaWtkMThCY1lkM25fbEVlTDc0al9Cb0hDVDNkT29NdmUydTlRUnFZYjNVcjd0X2xjVVgxN0hqNHFRclZ0RjlUcFRack8wVXJkTGVocm5tUDNWV2Z0eEpVNm9aVXBvd2JmeHZBdlhnclpKd19FbFhjNnhyOXVuSnBkQ2dmM3pUMmY0?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "코스피, 내일 ‘검은 월요일’ 오나···“당분간 변동성 커질 듯”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lZW9mU3hhQ2xReG1wUXVpSHNsamhlWTJtMzFZMkZ4VFNKdm91eVJxRG5xUm50cTdVYk5BZl9tckxYdzBNajZMbHMyNnI2cnp5ZnBEVzBnTlVaUdIBX0FVX3lxTFBkOGgxMmJQM0I3dzJLeXlpNzRlVnBybEY2aUFyUnNZQjFELVhfRzZjeHM5Zm9VUFpldmRQSkF1ZWFUVkhoVWdyMTY3MzVGaDg4d2w4REY4YV9GOXhFVFlr?oc=5",
+              "source": "경향신문"
+            }
+          ],
+          "description": "미국발 충격에 '블랙먼데이' 우려가 확산하며 코스피가 급락 후 소폭 반등했고, 삼성전자·SK하이닉스 등 대형주 쏠림 속 하락 종목이 더 많았다. 어제 3위에서 오늘 1위로 올라섰다."
+        },
+        {
+          "rank": 2,
+          "word": "젠슨",
+          "count": 1,
+          "articles": [
+            {
+              "title": "젠슨 황, 주가 폭락에 “AI 혁명은 이제 시작···주식 저렴하게 살 수 있는 기회”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LS1lVejdQT1A5cEMwd3QyU2NCMnRIZ0U1Z2hOR1kwVWRDcVVYeTNmTk5xREcxU2hJR1VHeVRzcTRUVWRwd25ZcV9IeFlFQW5KVTJBTGd2Q1VWUdIBX0FVX3lxTE13em5IZmllcVhyTllSUmpjRzVrWThmUGwyRzh4YWdoWGFqY3NuUkRhenBSNEVXZVlXQ1kxOWpIbjI0TC1JeFVWTGZGa1E1VzA4NFRIV3RaTy10a1pLbUsw?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "젠슨 황 “AI 관련주 주가 무척 싸...SK하이닉스 반도체 구매 크게 늘 것”",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ec2taSlhTWHctVjUwNUs0THltZ081Wkp2dVNPRFNkc0hZVGtqQkNXTkc3SmoyY3ZQLW5icndwTmJHTFdtWlhoMThHVEhBOFlMN3fSAVNBVV95cUxQR3JaMUFEUEhEbW44YVZhY1diVTlFWUNER3pJSWhlTFRiQlFORGt2eTREYjRVRzZza00xYmo1T0pScjMxSHRESEZBVHVTY2ZKbVFQUQ?oc=5",
+              "source": "서울경제"
+            },
+            {
+              "title": "“엔비디아 주가 조정? 싸졌으니 기뻐해야지!”…자신만만 젠슨황 [지금뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vVXlrY0p1a0ZnZmVfYmIzQW9QTk42S05BZDV4TUpnNmNvTVdnUVh2VDRtblRKdGR0MW5RdnE4YzBLSTFIWl85OEJWWEpOUjcwU2NoQXYxcXNEc2M?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "엔비디아 CEO 젠슨 황이 AI 관련주 폭락에 대해 \"주식이 싸졌으니 기회\"라며 자신감을 내비치고, SK하이닉스 반도체 구매를 크게 늘리겠다고 밝혔다. 오늘 처음 등장한 키워드다."
+        },
+        {
+          "rank": 3,
+          "word": "환율",
+          "count": 1,
+          "articles": [
+            {
+              "title": "\"이대로 둘 수 없다\"…환율 급등에 靑, 직접 나섰다",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xZU95Y3gyd0FmamhBRTg5b3U2ZXQyN1VldlRrcC0xZFQ5OEYyci1LQ3ptWURuVnJRSExqOVgxME1nQkZqZThOalQ5eVdwYVV6Q25OTExZTVVpUnBGdllYQVF0dzhoRWxuWWhvTjEzMDM?oc=5",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "李대통령 \"환율, 높은 것 사실이나 일시적…지금은 정상 아냐\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zVExUd3l6Nm9MNHRTWkJpdHMzNklaelVIWkV5SzI5TzhvdlN4R2R3VjNaQlJfVWY1NDd3V3dnNDd0SjNkTFROM2NtSG15Wk8tX1ZTV2NpbzEzb2RlOGRnSlU3OF8tUUJzcW14OUxiNEQ?oc=5",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "李대통령 \"환율 높은 것, 사실이지만 일시적 현상\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Lc0xUNnYzQU1aZnEyeDcxRm5RTlloeU5xd0dVZWRHenhCSGwwTjE4Z3czZThlZkpheDVqVGpMZHY0enE4bWdOS3c2SnRNdDZaUjNYdExhZTNIZzlsTGpDNg?oc=5",
+              "source": "아시아경제"
+            }
+          ],
+          "description": "환율 급등에 청와대가 직접 나섰고, 이 대통령은 \"높은 것은 사실이나 일시적 현상\"이라며 진화에 나섰다. 최근 2주간 꾸준히 상위권을 유지 중이다."
+        },
+        {
+          "rank": 4,
           "word": "반도체",
           "count": 2,
           "articles": [
             {
               "title": "美 반도체 급락 뒤 첫 장…“오늘 주식앱 못켜겠다”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IN0FLQ0xubWpkTk5TRTBBb0JFOV9xODMtRzdESEU3S05Xb1NIbkNtZEhRV0xGZUN2cDVpeUJVNkRYWXQ0d2VFeW5hWkV6NHc?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waHhLSnZfQlBpbXF1UV80YkYzazJ2bEtwQ1JIeGxnd2hhU1FOSlhiZzVwUjJFQ1MtNGVDZnBmdmdxYjdaQkRnNGxuNkRkeDRmaG9LUlF3?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "민형배 당선인 \"정부·기업, 전남광주에 반도체 투자 계획\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BYVlaeWpSLUFRRV9IRGlhNW5Dc2ZwMk5naXR6SVlIanllRUZpR3FVSUw2X1lIOWdkNVR1RlBRVXNVSTRvLXFwUTRRaHh1c2M?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "“한국 반도체 문의가 너무 많이와요”...캐나다에서도 ‘삼전닉스’ 붐",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ocF9vVThldFlzV1Q3OV9RRlBEUUZrZUg0ajhEa21adjdXVUNxQ0JWRDZWWjZKV0N3eG1uRTRrVnRwXzUwcHNUSkQ4VDM2Ym00UEE?oc=5",
-              "source": "매일경제"
-            },
-            {
-              "title": "SK하이닉스·엔비디아, ‘AI 팩토리’ 차세대 메모리 공동 개발 선언",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yR2wzdUhLLU56ZC1rQmNqbC1NSVo0T19RTTFMdHplekMwSS1iTGlPNzF5VDc1TlZ0SWl0U0ZpSjJiZDN5Z0l2Rl9PREJNYXdYMnIzUzJ6cWtYMjlPc1RJclZDazJ1ZFFEVl9ZQWNXRHLSAXRBVV95cUxNMDhVZ1ZiQWJHb2Rka3FxcEp5ZFpibFBtN0Nxd0QzMUxYTGNoc0h4NEV3NGRlVEt2RjhuRFJvcGFBdjJfNXYzRjRWWEpFZVJFSFdDVzgwakhXamNPaTFRaUEtZjVXUGo3b0Nqb2luTzE2eTYzQQ?oc=5",
-              "source": "IT조선"
+              "title": "日 히로시마, 글로벌 반도체 거점으로 급부상…마이크론·미쓰비시·디스코 집결",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTUkxTjRIQUtSSF9mSVJDV1VaUXo2Tkc4SXNJSDZNR0V2TkVLaGcwV1MxLVNUc0RIcE1QUWFZQlBNcUpIYVdPNWYycXhOSFpCRTQ3azJ6TVZEWXZFVFpOdXZsazRlR1VrVjZ5R215ZVVNMVN4Uk1hQ1EtM3hnZXZhcUoyWTNmTWJG?oc=5",
+              "source": "글로벌이코노믹"
             }
           ],
-          "description": "미국 반도체주 급락 여파로 국내 시장도 충격을 받는 가운데, SK하이닉스·엔비디아의 AI 팩토리 메모리 공동 개발 선언과 해외에서의 한국 반도체 관심 급증 소식이 동시에 전해지고 있다."
+          "description": "미국 반도체주 급락 이후 첫 거래일을 맞아 투자자 불안이 커지는 가운데, 전남·광주 투자 유치 움직임과 일본 히로시마의 글로벌 반도체 거점 부상 소식도 함께 전해졌다."
+        },
+        {
+          "rank": 5,
+          "word": "빚투",
+          "count": 2,
+          "articles": [
+            {
+              "title": "9000 바라보던 코스피 급제동… 빚투·레버리지 개미 비명",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdE5fa3A0TzdLeTluZUlZcnhHVlh4ODNIbHRBenBGRnhkeGFxUW5QXzctN2k1eE04TUVCNWpGX1NsQUFlYUtWekgwLUtfYzNRbjlxTEE5M1JMTzB2eUhQWV9aQW9KT045VUtmcUNQaWx3VTNKaGVnYzY4RVY4WV9JOA?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "‘빚투’ 단 사흘 만에 신용대출 1조 증가…주담대 금리는 최고 7.3%까지",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85STV5V2UtU0tOV2VTU0d0SHlPNDFwblVsZWxWeTZlanBzcDBYMWlFaTE4bUtKWFlLTm96Z2hmV2M5WDFpTWtKR2hKRlRPV1JVa0tJa29Td1gxMVlMd1BMbnZOdk5Rb1k?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "9000피 앞두고 ‘출렁’…빚투 개미, 반대매매 공포 어쩌나",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nX0tuMEV6dmpwVC1YRFJnbzdJNG1LTUxlSHFtSUtwVmJWTVNfSG5Pcjg3Vm9CY1hscnlfX2F3NXV1amlkVnRKVXhPaUVPaG1GaWdGajhR0gH6AUFVX3lxTE10ekZZRUx6OWhkek9ZMmQ3TUFsSGlCSVFMaUVqcldMd1RIaXE5ODk0TU9TOXI0M0IySmVxLUFLUHlEQlVhWmJWLU5iY0t5WU1laXdxcjJ0YzNZSVNRRWNVNVY4QklEdDNuUVFYY0l6U3A1dG5aZXhpX3ZadHlMYXUzejlLWVNmZW52cDNwc2F2V1JMbWVmbTl0Q2NDNzFzeUdmUloyM3VtbWNpcUlzNDZhUjRBMHFibUE5WXdTNlFMUllnd2ZpT0I1d18waEVrZjBmTzVnXzZwY3VOaHpNV3VQdEo0cGpCNzZaQldYTVdpekZGZGNWX05uVGc?oc=5",
+              "source": "데일리안"
+            }
+          ],
+          "description": "코스피 급락에 빚을 내 투자한 개미들이 반대매매 공포에 직면했으며, 단 사흘 만에 신용대출이 1조 원 늘어난 것으로 나타났다. 오늘 처음 등장한 키워드다."
         }
       ]
     }
