@@ -493,10 +493,12 @@ def keyword_trend_note(word, today_rank, history_ranks, today_date):
         if streak >= 3:
             return f"{streak}일 연속 1위"
 
-    # 어제 대비 순위 변동 (2계단 이상만 노출)
+    # 어제 대비 '상승'만 노출 (2계단 이상). 하락은 독자에게 의미 없는
+    # 내부 순위 잡음이고, '17년 최고치인데 등수는 하락'처럼 뉴스와 모순돼
+    # 읽히는 경우가 생겨 죽인다. 순위 숫자는 작을수록 상위 → 상승은 감소.
     yesterday = (today_date - timedelta(days=1)).isoformat()
     y_rank = hist.get(yesterday)
-    if y_rank is not None and abs(y_rank - today_rank) >= 2:
+    if y_rank is not None and y_rank - today_rank >= 2:
         return f"어제 {y_rank}위 → 오늘 {today_rank}위"
 
     # 장기 꾸준함 (최근 14일 중 10일 이상 등장)
