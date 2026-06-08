@@ -290,8 +290,6 @@ def filter_keywords(candidates, category, titles=None):
         lines = "\n".join(f"{i+1}. {word} ({count}회)" for i, (word, count) in enumerate(candidates))
     try:
         message = anthropic_client.messages.create(
-            # 키워드 선별·중복제거·순위는 맥락 판단이 필요해 Sonnet을 쓴다.
-            # (요약/설명 생성은 비용상 Haiku 유지)
             model="claude-sonnet-4-6",
             max_tokens=120,
             messages=[{
@@ -365,7 +363,7 @@ def generate_summary(keywords, category):
     fallback = " · ".join(item["word"] for item in keywords[:5])
     try:
         message = anthropic_client.messages.create(
-            model="claude-haiku-4-5-20251001",
+            model="claude-sonnet-4-6",
             max_tokens=150,
             messages=[
                 {
@@ -488,7 +486,7 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
     )
     try:
         message = anthropic_client.messages.create(
-            model="claude-haiku-4-5-20251001",
+            model="claude-sonnet-4-6",
             max_tokens=1500,
             messages=[{"role": "user", "content": prompt}],
         )
@@ -656,7 +654,7 @@ def streak_ai_summary(word, category, start, end, titles):
     joined = "\n".join(f"- {t}" for t in titles[:12])
     try:
         message = anthropic_client.messages.create(
-            model="claude-haiku-4-5-20251001",
+            model="claude-sonnet-4-6",
             max_tokens=120,
             messages=[{
                 "role": "user",
