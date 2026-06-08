@@ -130,7 +130,7 @@ export default function KeywordDisplay({
                   return (
                     <details
                       key={item.word}
-                      aria-label={`${item.rank}위 ${item.word} — ${item.count}회 언급`}
+                      aria-label={`${item.rank}위 ${item.word}`}
                       className={`group overflow-hidden rounded-2xl border bg-white dark:bg-zinc-900 transition-shadow ${
                         isTop
                           ? "border-yellow-300 dark:border-yellow-800 shadow-md"
@@ -155,8 +155,7 @@ export default function KeywordDisplay({
                               )}
                             </div>
                           </div>
-                          <div className="flex items-center gap-1.5 shrink-0">
-                            <span className="text-xs text-zinc-500 dark:text-zinc-400 tabular-nums">{item.count.toLocaleString()}회</span>
+                          <div className="flex items-center shrink-0">
                             <span className="text-zinc-300 dark:text-zinc-600 text-xs transition-transform duration-200 group-open:rotate-180">▾</span>
                           </div>
                         </div>

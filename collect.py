@@ -28,7 +28,7 @@ stopwords_common = {
     '도약', '민간', '공공', '분야', '상황', '문제', '방안',
     '계획', '목표', '효과', '결과', '사업', '행사', '기관', '현장',
     '대응', '혁신', '시행', '후보', '선거', '전시', '총력',
-    '의혹', '책임', '완료',
+    '의혹', '책임', '완료', '조사', '보유',
     # 수식·클릭베이트성 노이즈(광고문구·헤드라인 감탄어에서 단독 추출되는 형용사성 명사)
     '완벽', '화제', '눈길', '포착', '충격', '깜짝', '감동', '대박',
     # 일반 명사 노이즈
@@ -124,6 +124,16 @@ def _candidate_examples(word, titles, k=2):
             if len(ex) >= k:
                 break
     return ex
+
+
+def _candidate_feed_position(word, titles):
+    """후보 단어가 피드에서 '처음' 등장하는 순서(1부터)를 돌려준다.
+    토픽 피드는 구글이 편집적으로 정렬한 헤드라인이므로, 앞쪽에 나올수록
+    오늘 더 비중 있게 다뤄진 이슈라는 신호가 된다. 못 찾으면 None."""
+    for i, t in enumerate(titles or []):
+        if word in clean_title(t):
+            return i + 1
+    return None
 
 
 def _title_noun_sets(titles):
@@ -228,11 +238,12 @@ def merge_fragment_candidates(
 
 def filter_keywords(candidates, category, titles=None):
     if titles:
-        lines = "\n".join(
-            f"{i+1}. {word} ({count}회) — 예: "
-            + " / ".join(_candidate_examples(word, titles) or ["(예시 없음)"])
-            for i, (word, count) in enumerate(candidates)
-        )
+        def _line(i, word, count):
+            pos = _candidate_feed_position(word, titles)
+            pos_str = f"피드 {pos}번째 첫등장" if pos else "피드 위치 미상"
+            ex = " / ".join(_candidate_examples(word, titles) or ["(예시 없음)"])
+            return f"{i+1}. {word} ({count}회, {pos_str}) — 예: {ex}"
+        lines = "\n".join(_line(i, word, count) for i, (word, count) in enumerate(candidates))
     else:
         lines = "\n".join(f"{i+1}. {word} ({count}회)" for i, (word, count) in enumerate(candidates))
     try:
@@ -243,8 +254,17 @@ def filter_keywords(candidates, category, titles=None):
                 "role": "user",
                 "content": (
                     f"다음은 한국 뉴스에서 형태소 분석으로 추출한 '{category}' 키워드 후보야. "
-                    "각 후보에는 빈도와, 그 단어가 들어간 기사 제목 예시가 붙어 있어.\n"
-                    "제목 예시를 근거로, 오늘의 서로 다른 이슈를 대표하는 키워드 5개를 순서대로 골라줘.\n\n"
+                    "각 후보에는 빈도(언급 횟수)와, 그 단어가 구글 뉴스 피드에서 처음 등장한 순서, "
+                    "그리고 그 단어가 들어간 기사 제목 예시가 붙어 있어. "
+                    "피드는 구글이 오늘 중요도 순으로 정렬한 헤드라인이라, 앞쪽(피드 1~5번째)일수록 "
+                    "오늘 더 크게 다뤄진 이슈다.\n"
+                    "제목 예시를 근거로, 오늘의 서로 다른 이슈를 대표하는 키워드 5개를 '중요도 순으로' 골라줘.\n\n"
+                    "순위 규칙(1위가 가장 중요):\n"
+                    "- **1위는 오늘 가장 비중 큰 이슈여야 한다.** 비중은 다음 신호를 종합해 판단하라(앞 신호일수록 우선):\n"
+                    "  1) 구글 피드 노출 순서 — 피드 앞쪽(작은 숫자)에 처음 등장한 키워드일수록 중요하다.\n"
+                    "  2) 언급 빈도 — 여러 기사에서 반복해 다뤄진 이슈일수록 중요하다.\n"
+                    "  3) 사회적 파급력 — 더 많은 사람에게 영향을 주거나 관심이 큰 사안일수록 중요하다.\n"
+                    "- 1~5위를 위 기준으로 명확히 줄세워라. 단순히 후보 목록 순서대로 두지 말고, 실제 중요도로 재정렬하라.\n\n"
                     "선정 규칙:\n"
                     "- **같은 사건을 가리키는 후보가 여러 개면 그중 가장 구체적인 것 하나만 골라라.** "
                     "예: '구속'과 '살인'의 제목 예시가 같은 사건이면 둘 중 하나만. 5개는 5개의 서로 다른 이슈여야 한다.\n"

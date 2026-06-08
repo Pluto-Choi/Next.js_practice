@@ -106,7 +106,7 @@ export default async function KeywordPage({ params }: Props) {
                   <span className="text-sm text-zinc-700 dark:text-zinc-300 tabular-nums">{e.date}</span>
                 </div>
                 <span className="text-xs text-zinc-500 dark:text-zinc-400 shrink-0">
-                  {categoryEmoji[e.category] || "📌"} {e.count}회 언급
+                  {categoryEmoji[e.category] || "📌"} {e.category}
                 </span>
               </Link>
             ))}
