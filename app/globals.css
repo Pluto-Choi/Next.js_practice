@@ -62,3 +62,15 @@ details[open] > div {
     transform: translateY(-6px);
   }
 }
+
+/* 동작 최소화 설정(WCAG 2.3.3) 존중: 애니메이션·전환을 끈다. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

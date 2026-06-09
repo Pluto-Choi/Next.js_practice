@@ -46,6 +46,16 @@ export default async function TrendsPage() {
           <StreakTrends streaks={trends!.streaks} />
         )}
 
+        <div className="mt-8 mb-4 flex justify-center">
+          <a
+            href="/keyword-history.csv"
+            download
+            className="inline-flex items-center gap-1.5 rounded-xl border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-4 py-2.5 text-xs font-medium text-zinc-600 dark:text-zinc-300 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
+          >
+            📥 전체 키워드 순위 데이터 내려받기 (CSV)
+          </a>
+        </div>
+
         <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pb-4">
           누적 수집 데이터 기반 · Google News RSS
         </p>

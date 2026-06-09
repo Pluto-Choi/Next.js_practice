@@ -131,7 +131,7 @@ export default function KeywordDisplay({
                   return (
                     <details
                       key={item.word}
-                      aria-label={`${item.rank}위 ${item.word}`}
+                      aria-label={`${item.rank}위 ${item.headline || item.word}`}
                       className={`group overflow-hidden rounded-2xl border bg-white dark:bg-zinc-900 transition-shadow ${
                         isTop
                           ? "border-yellow-300 dark:border-yellow-800 shadow-md"
