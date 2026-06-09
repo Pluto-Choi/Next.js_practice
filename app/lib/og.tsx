@@ -20,6 +20,7 @@ export async function buildOgImage(data: KeywordsData) {
   const issueKws = data.categories['오늘의 이슈']?.keywords.slice(0, 3) ?? []
   const entTop = data.categories['연예']?.keywords[0]
   const econTop = data.categories['경제']?.keywords[0]
+  const sportsTop = data.categories['스포츠']?.keywords[0]
 
   const rankMark = (rank: number) => ({
     display: 'flex',
@@ -75,10 +76,10 @@ export async function buildOgImage(data: KeywordsData) {
           <span style={{ color: '#52525b', fontSize: 18, marginLeft: 'auto' }}>{data.date}</span>
         </div>
 
-        {/* 오늘의 이슈 (주인공) */}
+        {/* 급상승 (주인공) */}
         <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
           <span style={{ fontSize: 22 }}>🔥</span>
-          <span style={{ color: '#fb7185', fontSize: 19, fontWeight: 700 }}>오늘의 이슈</span>
+          <span style={{ color: '#fb7185', fontSize: 19, fontWeight: 700 }}>급상승</span>
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 14, flex: 1 }}>
           {issueKws.map((kw) => (
@@ -110,8 +111,9 @@ export async function buildOgImage(data: KeywordsData) {
             borderTop: '1px solid #27272a',
           }}
         >
-          {miniRow('🎤', '연예', '#e879f9', entTop)}
           {miniRow('💰', '경제', '#60a5fa', econTop)}
+          {miniRow('🎤', '연예', '#e879f9', entTop)}
+          {miniRow('⚽', '스포츠', '#34d399', sportsTop)}
         </div>
 
         {/* 푸터 */}

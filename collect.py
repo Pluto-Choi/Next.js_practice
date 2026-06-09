@@ -69,6 +69,19 @@ stopwords_entertainment = stopwords_common | {
     '공개', '근황', '자택', '댓글', '성공', '사태', '아들', '스타이슈',
 }
 
+stopwords_sports = stopwords_common | {
+    # 스포츠 토픽피드(SPORTS)에 흔한 일반명사·행위·섹션 라벨 노이즈.
+    # 선수·구단·대회 같은 구체 개체명만 키워드로 남도록 일반어를 거른다.
+    '스포츠', '경기', '선수', '감독', '코치', '구단', '대표팀', '국가대표',
+    '우승', '준우승', '승리', '패배', '무승부', '연승', '연패', '득점', '실점',
+    '출전', '선발', '교체', '복귀', '부상', '은퇴', '이적', '영입', '발탁', '합류',
+    '리그', '결승', '준결승', '예선', '본선', '개막', '폐막', '경기장',
+    '기록', '도전', '대회', '메달', '순위', '일정', '명단', '훈련', '소속',
+    # 종목명은 그날의 구체 이슈(선수·대회)가 아니라 섹션 분류라 거른다.
+    '야구', '축구', '농구', '배구', '골프', '테니스', '배드민턴', '탁구', '육상',
+    '프로야구', '프로축구', '프로농구', '메이저리그', '프리미어리그',
+}
+
 def parse_feed_with_retry(url, retries=3, delay=3):
     """Google News RSS가 일시적으로 빈 응답을 줄 때 재시도한다."""
     feed = feedparser.parse(url)
@@ -1069,17 +1082,25 @@ def main():
         "연예",
         strategy="ner",  # 연예는 인물·작품(AF)·이벤트(EV) 개체명이 핵심
     )
+    # 스포츠도 토픽피드(SPORTS)를 쓴다. 선수(PS)·구단(OG)·대회(EV) 개체명이 핵심이고
+    # 사건어(Kiwi 빈도)도 섞이므로 이슈와 같은 hybrid 전략.
+    keywords_sports = collect_category(
+        "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=ko&gl=KR&ceid=KR:ko",
+        stopwords_sports,
+        "스포츠",
+        strategy="hybrid",
+    )
 
     # ===== 요약 생성 =====
     summaries = {}
-    for category, keywords in [("오늘의 이슈", keywords_issue), ("연예", keywords_ent), ("경제", keywords_economy)]:
+    for category, keywords in [("오늘의 이슈", keywords_issue), ("경제", keywords_economy), ("연예", keywords_ent), ("스포츠", keywords_sports)]:
         summary = generate_summary(keywords, category)
         summaries[category] = summary
         print(f"{category} 요약: {summary}")
 
     # ===== 키워드별 자체 설명문 생성 (AdFit 자체 콘텐츠 보강) =====
     today_date = datetime.now(KST).date()
-    for category, keywords in [("오늘의 이슈", keywords_issue), ("연예", keywords_ent), ("경제", keywords_economy)]:
+    for category, keywords in [("오늘의 이슈", keywords_issue), ("경제", keywords_economy), ("연예", keywords_ent), ("스포츠", keywords_sports)]:
         history_ranks = load_history_ranks(category)
         generate_descriptions(keywords, category, history_ranks, today_date)
         for item in keywords:
@@ -1095,13 +1116,17 @@ def main():
                 "summary": summaries["오늘의 이슈"],
                 "keywords": keywords_issue,
             },
+            "경제": {
+                "summary": summaries["경제"],
+                "keywords": keywords_economy,
+            },
             "연예": {
                 "summary": summaries["연예"],
                 "keywords": keywords_ent,
             },
-            "경제": {
-                "summary": summaries["경제"],
-                "keywords": keywords_economy,
+            "스포츠": {
+                "summary": summaries["스포츠"],
+                "keywords": keywords_sports,
             },
         }
     }
