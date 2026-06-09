@@ -716,8 +716,18 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
     prompt = (
         f"다음은 오늘의 '{category}' 분야 화제 키워드들이야. 키워드마다 관련 기사 제목과, "
         "있는 경우 트렌드 정보(우리 사이트가 매일 집계한 순위 데이터에서 계산한 값)를 준다.\n\n"
-        "키워드별로 우리 웹사이트만의 독자적인 설명문을 작성해줘. 뉴스를 보러 온 독자가 "
-        "한눈에 '오늘 무슨 일인지' 파악하게 하는 게 목적이야. 다음 원칙을 지켜:\n\n"
+        "키워드마다 두 가지를 만들어줘: (A) headline — 한눈에 사건이 읽히는 짧은 구, "
+        "(B) description — 설명문.\n\n"
+        "(A) headline 규칙:\n"
+        "- 키워드(명사)만으론 '무슨 일인지'를 알 수 없다. 그 키워드가 '오늘 왜 화제인지'를 "
+        "'주체 + 무슨 일'로 압축한 짧은 구를 만들어라(8~18자 권장, 너무 길게 늘이지 마라).\n"
+        "- 키워드 단어로 시작해 사건을 드러내는 핵심 동사·결과를 붙이는 걸 기본으로 해라. "
+        "예: '코스피' → '코스피 폭락·서킷브레이커', '안타'(이정후 기사) → '이정후 15경기 연속안타', "
+        "'젠슨 황' → '젠슨 황, AI 버블론 일축', '김수현' → '김수현 활동 재개'.\n"
+        "- 명사 나열·수식어 범벅이 아니라, 읽는 순간 '아, 오늘 이거구나' 싶게 사건이 또렷해야 한다.\n"
+        "- 기사 제목에서 확인되는 사실만 써라. 과장·추측·없는 숫자 금지. 사실이 불확실하면 "
+        "동사를 단정하지 말고 키워드+최소 맥락만 담아라.\n\n"
+        "(B) description 규칙 — 뉴스를 보러 온 독자가 한눈에 '오늘 무슨 일인지' 파악하게 하는 게 목적이야:\n\n"
         "1) **첫 문장은 반드시 오늘의 뉴스로 시작**해라. 이 키워드가 오늘 왜 화제인지, "
         "기사 제목에서 확인되는 구체적 사실(인물·사건·수치)을 앞세워라. 사전적 정의로 시작하지 마라.\n"
         "2) **정의는 생략이 기본**이다. 환율·코스피·넷플릭스·방탄소년단처럼 일반 한국인이 다 아는 "
@@ -731,7 +741,7 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
         "- 기사 제목과 트렌드 정보에서 확인되는 사실만 써라. 추측·과장·없는 정보 생성 금지.\n"
         "- 제목만으로 사실이 불확실하면 무리하게 단정하지 마라.\n"
         "- 트렌드 정보(순위/연속 기록)는 제공된 값 그대로만 쓰고 새 숫자를 지어내지 마라.\n\n"
-        "JSON 배열로만 답해라. 형식: [{\"word\": \"키워드\", \"description\": \"설명문\"}]\n\n"
+        "JSON 배열로만 답해라. 형식: [{\"word\": \"키워드\", \"headline\": \"헤드라인\", \"description\": \"설명문\"}]\n\n"
         f"{joined}"
     )
     try:
@@ -743,16 +753,23 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
         match = re.search(r'\[.*\]', message.content[0].text, re.DOTALL)
         if match:
             arr = json.loads(match.group())
-            desc_map = {
-                d["word"]: d["description"].strip()
+            info_map = {
+                d["word"]: d
                 for d in arr
-                if isinstance(d, dict) and d.get("word") and d.get("description")
+                if isinstance(d, dict) and d.get("word")
             }
             for item in keywords:
-                desc = desc_map.get(item["word"])
+                info = info_map.get(item["word"])
+                if not info:
+                    continue
+                desc = (info.get("description") or "").strip()
                 # 요약과 동일하게, 본문이 없다며 거절·사과한 응답은 설명문으로 저장하지 않는다
                 if desc and not _looks_like_refusal(desc):
                     item["description"] = desc
+                headline = (info.get("headline") or "").strip()
+                # 헤드라인도 거절문이면 버리고 키워드(word)로 폴백되게 둔다
+                if headline and not _looks_like_refusal(headline):
+                    item["headline"] = headline
     except Exception as e:
         print(f"  generate_descriptions 실패({category}): {e}")
     finally:

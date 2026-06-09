@@ -18,6 +18,7 @@ export type Keyword = {
   count: number;
   articles: Article[];
   description?: string;
+  headline?: string;
 };
 
 export type CategoryData = {
@@ -145,8 +146,8 @@ export default function KeywordDisplay({
                             </span>
                             <RankChangeBadge change={rankChanges?.[category]?.[item.word]} />
                             <div className="min-w-0">
-                              <p className={`${isTop ? "text-base" : "text-sm"} font-bold leading-tight truncate`}>
-                                {item.word}
+                              <p className={`${isTop ? "text-base" : "text-sm"} font-bold leading-tight line-clamp-2`}>
+                                {item.headline || item.word}
                               </p>
                               {(item.description || item.articles[0]) && (
                                 <p className={`group-open:hidden mt-0.5 text-xs text-zinc-500 dark:text-zinc-400 leading-snug ${isTop ? "line-clamp-2" : "line-clamp-1"}`}>
