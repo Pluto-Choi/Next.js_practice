@@ -112,7 +112,7 @@ export default function KeywordDisplay({
           <Fragment key={category}>
             <div className="mb-8">
               <div className="flex items-center gap-2 mb-3">
-                <span className="text-base">{categoryEmoji[category] || "📌"}</span>
+                <span aria-hidden="true" className="text-base">{categoryEmoji[category] || "📌"}</span>
                 <h2 className={`text-sm font-bold tracking-wide ${style.text}`}>{category}</h2>
                 <div className={`flex-1 h-px ${style.line} opacity-40`} />
               </div>
@@ -157,7 +157,7 @@ export default function KeywordDisplay({
                             </div>
                           </div>
                           <div className="flex items-center shrink-0">
-                            <span className="text-zinc-300 dark:text-zinc-600 text-xs transition-transform duration-200 group-open:rotate-180">▾</span>
+                            <span aria-hidden="true" className="text-zinc-300 dark:text-zinc-600 text-xs transition-transform duration-200 group-open:rotate-180">▾</span>
                           </div>
                         </div>
                       </summary>

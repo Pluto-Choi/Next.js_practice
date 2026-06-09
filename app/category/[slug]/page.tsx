@@ -50,7 +50,7 @@ export default async function CategoryPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(single) }}
       />
-      <main className="max-w-lg mx-auto px-4 py-6">
+      <main id="main-content" tabIndex={-1} className="max-w-lg mx-auto px-4 py-6">
 
         <h1 className="sr-only">{cat.name} 뉴스 키워드 TOP5 — {data.date}</h1>
 

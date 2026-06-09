@@ -59,7 +59,7 @@ export default async function HistoryPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(data) }}
       />
-      <main className="max-w-lg mx-auto px-4 py-6">
+      <main id="main-content" tabIndex={-1} className="max-w-lg mx-auto px-4 py-6">
 
         <h1 className="sr-only">{date} 뉴스 키워드 — 핫이슈 · 연예 · 경제 TOP5</h1>
 
