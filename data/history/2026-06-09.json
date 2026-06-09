@@ -1,55 +1,55 @@
 {
   "date": "2026-06-09",
-  "updated_at": "2026-06-09 05:14",
+  "updated_at": "2026-06-09 12:00",
   "categories": {
     "오늘의 이슈": {
-      "summary": "이란·이스라엘 교전 재개 후 트럼프 중재 속 휴전 논의 · 이정후 15경기 연속 안타 · 선관위 투표용지 부족 논란",
+      "summary": "선관위 투표용지 부족 사태에 대한 진상 규명·개혁 요구 확산 · 부동산 세제 정비 및 반도체 세제혜택 논의 · 트럼프, 이란 문제로 네타냐후 경고",
       "keywords": [
         {
           "rank": 1,
-          "word": "트럼프",
+          "word": "요인",
           "count": 3,
           "articles": [
             {
-              "title": "트럼프 말도 이젠 소용 없다‥이란·이스라엘 사실상 전쟁 재개",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NZUhZb0xKNldyRW1FdGdtaHMzZVlyX20xYjZYMEhWRjh4aldSSnpOMU5WV3gwMmZFMk9MTm15NElWSEVwYmF4MzlWSXZaU3c?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "美 케네디센터, 법원 명령에 '트럼프' 이름 철거 착수",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QbnctV0ZSV3NPb0dhZG9ic25fVlJDd3diVGVWRDVPZHFWTFdSaXZ3eVZybGowS1gtZGIwNXBhaWRxM3RJcGpmTFo1Mlp6Qjg?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "트럼프 \"금리 올릴 이유 없어…연준 의장, 벌 줘서는 안 돼\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nNHZQdDRMaWFZS0otYjFFRURPMGNybG9wM0NlaVVmTzFsb3dxSUNMWEJzZF9KTEZIM1l4MEFWVVlIeHhlQUtjRm5rT3VaaHNYckIyN0FXdk1qalF2cGZxYnhxXzJJWUs5T1Y3SGZFZEg?oc=5",
-              "source": "연합인포맥스"
-            }
-          ],
-          "description": "이란·이스라엘 교전 재개 속 트럼프 대통령이 '즉시 총격 중단'을 경고하는 한편, 연준 금리 인상 불필요를 주장하고, 케네디센터에서는 법원 명령에 따라 '트럼프' 이름 철거가 시작됐다."
-        },
-        {
-          "rank": 2,
-          "word": "경기",
-          "count": 3,
-          "articles": [
-            {
-              "title": "샌프란시스코 이정후, 15경기 연속 안타",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYU9oRHh6VFJzMl9iTkZfdDk0Z3ZyX0R6eVU1UTVlSW9LVjJCWEgwLVRxZjB5T1dPM0l2aXdXTnd0T08td3BlUWdQQXhqSlhicHpPZzlBSnROd1dOTmFQSXBSLVUtM09LYWo3Z2FGN2RzenBOVmVsM3JFQVU0M1NKZkFBYUotbEJNZktr?oc=5",
+              "title": "李 \"선관위 문제 심각\"... 4부 요인도 \"진상 규명\"",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2ZFVzVTNnp3OHE2ajF3OVhsSkQ3Q0Q2V1FPQ19jckR5eWdqd3dRWFNMX2VYc2V0cGJJc1dWSE9JaF81eGstOTdRbGJYRkhUMEljejBqOVhJNEFIOHRxalg4bkJPWHpVd1puTU45d3R3T1F5T0lqTTdSZDkxdldLQ3N1RzZNNU9JMjdINkdha1M?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "이러다 이치로도 넘겠네…이정후 또 안타 15경기 연속 행진",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmRqamxtNjFqQk53VWMwRWhkOHk0S1dmeTg3UkRtWDEwN0Vzbl9iYXFxSy0yOEtKQW9zRnJ2UnRUbDEwRjBtSlNwUGprWkh0R3VqckNvT0F2bTFNejlMcDRpYjVKMzY1UUwweE1xUk9sZEgtSlFzbjBnSDlxejRwY0ZmYU1VWVRQNDlDeA?oc=5",
-              "source": "서울신문"
+              "title": "한자리 모인 李-4부 요인, 대법관이 맡는 선관위장 상근화 논의",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYUGpxQTloOXlTUUhmUUhMX2FqeEFtY0FXUDhZakFRVVM5TXl6R2tyay0yOGpHdGdJRWF4TjN3QTBMdjVtUHVmV3hXaVg1SnhmUXZVQkk0ekZLTXJRSld1QXB3a2JjN0FWYWd6OE40aXF3NGhKTC1R0gFmQVVfeXFMUHFnN0d0ZEdCT09tVS15V0VSdE5hSUJrdGFXVWRRMUV0bXJtVkhkckxRaFNMaFUxMlFLTldMa1ZMeHdiaGxmTDMtS2R3N3BUS1owdUxhRGgwQXc4clVfLWhRVTJKX2h3?oc=5",
+              "source": "동아일보"
             },
             {
-              "title": "이정후, 15경기 연속 안타 행진…컵스전 1안타 1도루",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05eEhaczlDZmVrZ3NmODNremFkZk11Mjg3eGY1M2Qzc0cxcVpaM2VVUGk4UE5UMi0xclY1MzRtVXFZd1Jyd2diY3dzZFdHTFpWQlJFSHVoUzVmSTZ4SGt5UW1aampMaGFlOTdpcTR3?oc=5",
+              "title": "이 대통령, 오늘 선관위 제외 ‘4부 요인’ 회동…‘투표용지 부족 사태’ 논의",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xcDRNNzNLOUtRX2dwX00wUklOR2JJanZYVFljVS1uQi03SmpLZHZ0N0ppYlZ4RmJTVkNIa0F0NkVDaDBDYWZXZU1JQW1yVGNIejZKeWJrLThpcWs?oc=5",
               "source": "KBS 뉴스"
             }
           ],
-          "description": "이정후가 컵스전에서 1안타 1도루를 기록하며 15경기 연속 안타 행진을 이어가고 있다. 오늘 처음 등장한 키워드다."
+          "description": "이재명 대통령이 대법원장 등 4부 요인과 회동해 투표용지 부족 사태와 선관위 개혁 방안을 논의했다. 선관위원장 상근화 등 제도 개선이 함께 거론됐다."
+        },
+        {
+          "rank": 2,
+          "word": "세제",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘삼전닉스’ 호남 공장, 정부 기조 발맞추고 세제혜택 전략적 포석",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SM0JCTk9LaDhLQlVxNlM3UG1nSFc1enFjQWpOdnZDc051REZWbkVvM2Z0Z3BUb0RSNndfSnFMRGVXOXVWbEx0amlIOUhHcW9yOGt3RkdWSDBQMVVIR0dBa1U4RzlxVmM0X3c?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "李대통령 \"부동산 세제, 7월 정리가능…공급책도 조만간 발표\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMWURzZFp4NGwzMDNxa2ZQNGxkOEU5YjdRbWxkWGZvdWptRFhsVFZJYXB6cVRLUnc2QThqbkpSLWR5Mi1SUXVpcG1mRjhzSHp4UlVzUzhFY19UMDgwaHNGbg?oc=5",
+              "source": "매일경제 마켓"
+            },
+            {
+              "title": "\"한국 보유세 낮은 편\"…‘7월’ 부동산 세제 개편 예고",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tYXpjUEV6TW5fcG1wVkFBVjQ4OFV1UjZhQ3lqcVdNLUZ6cTVEUGJIamh1NVc4cnIwakpMMVd4djAwNEowcW9UTTdhS3p4RmE1SkdLa3l3a3g1VFYxNUFieVZMNk9sdVFBSnc?oc=5",
+              "source": "JTBC"
+            }
+          ],
+          "description": "이재명 대통령이 부동산 세제 개편을 7월까지 정리하겠다고 예고했다. 삼성전자·SK하이닉스 호남 공장에 대한 세제혜택 전략도 함께 주목받고 있다."
         },
         {
           "rank": 3,
@@ -62,71 +62,163 @@
               "source": "경향신문"
             },
             {
-              "title": "피로 쓴 헌법을 무능으로 허문 선관위 [세상읽기]",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsRTNNWWpmN0xSSUtzaXhDbDNOT3VHQWgyQ0prODNlQUZFN3lON3c5U3dhVWJTTkRDUkZUMzFDSmZnLVdyc3FkRnJxOUVWekljcFAybkY4YXhwYnVRVjFndE5KY3Mydw?oc=5",
-              "source": "한겨레"
+              "title": "'선거 전' 휴직 증가‥독립 기관 지위 숨어 기강 무너진 선관위",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xZGg0OVJGZUptSXlsU2hBeTMxN0lVMi1RNFRzN1F6cWhZVzV4Z3pXRFc1NUptYjlBdXQ4YjJ0cGFrY3NKTEhLLUJmcGxCUjhZbE5EaDU2dUFGbkYxWHRxd09DXzRVOWFSUEMwRkFrX0hCWmI3RVlIYdIBeEFVX3lxTE8wS1o5X0tzazBLV01kMGhVOVpNVzRUTG5PLUxmcUNCUXpabjIyWG1FMWQxLXZMRmRjbnlpSzhVTm90SjdTRnBJdExSckpNTm5iV05heFFCemgtU1JDYW9NSmRIV09ORUJqNXh3bjlva210dkhocFY1Sw?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "논란 때마다 말로만 “쇄신”…선관위 사과 못 믿겠는 이유",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iSXJBNXptckVCaElLNXVpUzZiZ2lZMHlvbi1CWHRkWlU0V2Z6SkNqczVZWmRxeXBaLTJ2SV9CbUtnZDhiMkdFVkJOYWJybXc?oc=5",
-              "source": "v.daum.net"
+              "title": "선관위 \"투표용지 부족 91곳\"... 사흘 전 발표때보다 41곳 늘어",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFFfQTF5NUkwd1huTFZISE5kdU5NV2k4bWhpUmlmbFVVdFFILU1kNjQxOFRYSDhPRGtjT25Wd3JhUTNQd3dKeGNTWll1X3pUWk44WmdZYTNLU0VlRXE3V1Z6NzBFc1EwV2tTRTlnUERyblRuaFNWbUotem95VEtNa2RUUzZlT3RFOU9B?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "선관위가 선거 당일 투표용지 부족 투표소가 91곳이었다고 밝혀 사흘 전 50곳 발표와 엇갈리며 신뢰 논란이 커지고 있다. 오늘 처음 등장한 키워드다."
+          "description": "선관위가 투표용지 부족 투표소를 91곳으로 정정 발표해, 사흘 전 50곳 발표보다 41곳 늘었다. 선거 전 휴직 증가 등 기강 해이 문제도 도마에 올랐다."
         },
         {
           "rank": 4,
-          "word": "이스라엘",
+          "word": "규명",
           "count": 2,
           "articles": [
             {
-              "title": "트럼프 “즉시 총질 멈춰라” 경고에…이란-이스라엘 교전 중단",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1NWVwc3l2TE53alJLUjVOcGNoT3lxeUwxRGpmamJqNlhkZXE1VEZqZnhtVkNzczZLWl9wZUs0Yzc3eWdDLUptMXZKNGE4aWM?oc=5",
-              "source": "v.daum.net"
+              "title": "오세훈, “철저한 진상 규명…선관위 해체 수준 개혁해야”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aaWd6OURYMWMwZmVpTXppLVo2SDJNcW9jT1lRT3d2dk5rRHhVa3BiRmpXU1lPMWZ4MjhYcXhfd3FaQzVqYkxTYkFGempDSFRnX25icXZxMGVZY0U?oc=5",
+              "source": "KBS 뉴스"
             },
             {
-              "title": "속보 이스라엘, 이란 본토 보복 공습...종전 협상 '치명타'",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WTXZqY21QRy1LdGRPLUJTRTdGRDd6ckpKbndQSXJFR3dTTG9uRDN3NjVGRmJjZHFHSVZyTnY4OVBzdUhLVjN4XzROTkpveXpjQy1CVXBXVDdiTnpKeUE?oc=5",
-              "source": "YTN"
+              "title": "투표용지 부족 사태 후폭풍… 참여연대 \"철저한 진상규명·선관위 개혁 필요\"",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZdUoxdXdkVW1XU1BSX0czd285c2dyWlY5d2xvODZacnpnYmZPd3NDWU5yeUQzVlloN3pDbjhwM09UMjZpVWxjVDhmM2NWYkswQ3JsZVR2RzlDMHp3VGpaem1ScWhMbjYx?oc=5",
+              "source": "한국NGO신문"
             },
             {
-              "title": "네타냐후 총리 \"이란 공습 중단…이스라엘 피습 시 강력 대응\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtNzQ0ZUcwNHZLSTBUeWY3Nk9EZ1lMU2hTeUJocm1PZGUzVFE5X3Fpb1RHWVBqODZmZFBWcjRHdzRZb25seTNOakpsMjdUVG8?oc=5",
-              "source": "v.daum.net"
+              "title": "보도자료 260608 중앙선관위 투표용지 부족사태 진상규명위원회 출범 최종 .pdf Quick View",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPalFCUDktLThkWmtudEVtcUkyWGNqREtKNkdDcUtpR2pLSHVZanRGcnhIOWMyZjZRQUUxZWFaSmhGN3RmTHNIbGVYWW9hQTkzbUZ5LUJJNkZNVXp1UmxyVHlTSTVJakwzeXMwZWRVekxldTBWbUxwWThIQk1uMmY4MFJ2SXc?oc=5",
+              "source": "중앙선거관리위원회"
             }
           ],
-          "description": "이스라엘이 이란 본토에 보복 공습을 단행했으나, 트럼프의 즉각 중단 경고 후 네타냐후 총리가 공습 중단을 발표하며 긴장이 고조와 소강을 반복하고 있다."
+          "description": "투표용지 부족 사태에 대해 중앙선관위 진상규명위원회가 출범했다. 오세훈 서울시장과 참여연대 등 여야·시민사회 모두 철저한 진상규명과 선관위 개혁을 촉구하고 있다."
         },
         {
           "rank": 5,
-          "word": "휴전",
+          "word": "트럼프",
           "count": 2,
           "articles": [
             {
-              "title": "휴전 흔든 이란 미사일 공세…트럼프 \"보복 만류\" 진화 총력(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XQ2drNEIySi1ZVnNQT0FCNlk3dXNuOUVZaktRdmtoQ1BhVnh0ckFGbm9tOWhqdVEzRVZDTV9ZS1poMWFQS001NU9Ddm9kaVE?oc=5",
-              "source": "v.daum.net"
+              "title": "트럼프, 네타냐후에 강력 경고...\"이란과 혼자 싸우게 될 수도\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11VFluNjgxc2MxalhKYUw4TzdnOVp1SHBlQWY1T0toaUxxcFBHMEN5OUczZzJ2U2N5UFVIZ2h1WERjcldwOEdTbG9pZ2laT1dPR3hRV1VvcEswVDUzT0E?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "트럼프 \"자존심 강한 이란, 결국 합의할 수밖에 없어\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jaDloS2xVdzlXbmpIZG1RQzJnOWJJXzRRd2hPaGk4blFwQTNSN3dMYUN0V24yeGI3TUdkbzRBQjBPYlZ6WE5CV1N3NnNPMDlHQUE0S0VtNDNsczFqVF8xadIBeEFVX3lxTE0xd0dKTmNhRzRTSjFfOGtQRDY2ejRfal9vaXViVTRhTjRxWWowTm5YVG51YVpFN25Pa2pYbE44bmhuRGRkV3Bld2l0WlI0bnBYT2dvVHhjWC1TUUp0OW5iS3pDdmh0MGp0S0xJa3ZhbnNqNWF1ZVNpUg?oc=5",
-              "source": "뉴시스"
+              "title": "트럼프, 농구 보러 ‘사자굴’ 뉴욕으로… 달아오르는 NBA의 정치학",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUxzX0g1eFhQZHpiRkZxSFIxajIyb19FRzgyakxUTF9MQVRXeEUwUEpzbGZmQmxmcU5PQ0Y1WVRnT2VjTzd3WmVSVllBbmxZX3M2anNXam1VX1I4N0hBRW05VmtGak0xamh5NGpxRGlJWFFPN1Y0ei04cVRtMElSdlZSQ2Q?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "美국방 \"이란과 휴전 유지…좋은 합의 조만간 이뤄질 가능성 커\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RVEFXU0xFOVB2VjVINy1EUmcyaUJYWnhXdF8tbFVrSGlmSjNJUjdOYVpMZFRxc0RBWVZVMzBobEVzbU1iVEh1VVFib2t1RkFZZFRNVTdwRkRRQTjSAWBBVV95cUxQa2N2UDVyQW8wcmNGdERtU3pORHV2RXgwdDI4NnRvc2xROWNDbUVHaURpWEdEdjRKN2NFNU5sUVdFZkplWlVfVDJfNi0wZ1FYdktISEdRNnhSVXhiUVJpWlM?oc=5",
+              "title": "'뉴요커 출신' 트럼프, 닉스 파이널 찾았다가 야유 세례",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5Q2dhRWZ2Z0Jtb2Nxd2Y4d1pFci12eno1RFNGZzJiY0VhbEFvZTZza2ZMSnlUVjd2MlVzdW1YVEtnSTZNcGhOMzRMcVE2cTBrWTEtaE1ENTZvUmfSAWBBVV95cUxNV0h3akljY21DNl9YNzRQaXlsRDBscmhRY2dWTDVmbW9hbzJSa3AyODBzUU1qemVaajFDVncxU1NRMzBsREVJMHg3ZXNMbzlmQ0VDTnN6Q2wwaHVYOVU3cmo?oc=5",
               "source": "연합뉴스"
             }
           ],
-          "description": "이란의 미사일 공세로 휴전 분위기가 흔들렸으나, 미 국방부가 이란과 휴전 유지를 확인하며 '좋은 합의가 조만간 이뤄질 가능성이 크다'고 밝혔다. 오늘 처음 등장한 키워드다."
+          "description": "트럼프 대통령이 네타냐후 이스라엘 총리에게 '이란과 혼자 싸우게 될 수도 있다'고 경고하는 한편, 뉴욕 닉스 NBA 파이널 경기장을 찾았다가 야유를 받았다."
         }
       ]
     },
     "연예": {
-      "summary": "김수현 해외 광고 촬영으로 복귀 시동 · 이승환, 윤서인 발언에 손배소 · 시크릿 12년 만에 컴백 · 넷플릭스 '참교육' 화제",
+      "summary": "넷플릭스 '참교육' 국내 1위 화제 · 지민 케이돌 1위·AOA 지민 컴백 심경 고백 · 이승기 전세사기 공방 가열 · 김수현 필리핀 광고로 복귀",
       "keywords": [
         {
           "rank": 1,
+          "word": "참교육",
+          "count": 2,
+          "articles": [
+            {
+              "title": "넷플릭스 국내 1위 ‘참교육’···‘사이다’인데 씁쓸한 뒷맛",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwbnhUd0d3Z0tlZE1oSjcxQ3RqWnljLXFZendrSG5uMVhEOXQ4Q3IyLWg1VnBDT1huNzV3ODVsUWVJeVB5cmhlbnZIU2FKV21tVmY0S1RxMVl5d9IBX0FVX3lxTE1WblRfcjFDaWRlUWVfOEwtbVRSb3ZpWEpKZE5VSHlMRld4NzJienNObUdpTEVFeEVmNjA1WU9ROWg5R3ZIZ2NxNEVfWmVLeFJQb2U0S3AydktpSmtEbmJv?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "'참교육' 박지연, 글로벌 시청자 분노 일으킨 '우진 엄마'…반응 터졌다",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYWVhYYVJrZGZwUVBXXzRvdE9DRGNISk9sVnl3bVR2VVJ2ckYtYUpTa05fWU41cWJGNHQwaE9xRnhqUDNkSVV1bGpUd2xES2xHSDZ6dkdIcWZMMmdfa29QYk1lUzc0S0VnQ2JHQktmU3VNQTJUYkRkX29OSjY?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "\"우리 애아빠 화났어요\" '참교육' 박지연, 시청자 뒷목잡은 역대급 극성맘 열연",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kenBLWVhyOTBsRjQwZ3ZHcUZZNDN1NWo0TU9UcEpCdmtNU1NLaFpvOWJHUy1TaVBHYXBmV01vMVFyS1hCbXY4Tk1XWkpvaG9kYnk0Zk54U2VIMmhUU2VuVA?oc=5",
+              "source": "뉴스1"
+            }
+          ],
+          "description": "넷플릭스 드라마 '참교육'이 국내 1위를 차지한 가운데, 극성맘 역할의 배우 박지연이 글로벌 시청자 반응을 끌어내며 화제다. 어제 5위에서 오늘 1위로 급등했다."
+        },
+        {
+          "rank": 2,
+          "word": "배용",
+          "count": 1,
+          "articles": [
+            {
+              "title": "효성그룹, 배인한·배용배·박남용 부사장 등 16명 승진… 30대·여성 임원 전진 배치",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2anNKNWdHVURmallZTGdUMmdqWUROb1psWExOSmlwYW9xcW9CVHNtZHV3Uk45blN3T3ZDUzZqQ0ZfN3B1eWYxZ2h0Sm5ZVW9O?oc=5",
+              "source": "문화일보"
+            },
+            {
+              "title": "효성그룹, 배이한·배용배·박남용 부사장 3명 승진...2026년 정기 임원 인사",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uU05la2JiRWMwN3A5N1dtNkhjZXBZampreGZqd2VEeDMzQnJMNFVqV0ZJNHotZjhKeTUyZ3M0TVlDd3AyMGRZRlJqYmpLUjhDYWZOTQ?oc=5",
+              "source": "더밸류뉴스"
+            },
+            {
+              "title": "효성그룹 2026년 임원 인사 실시, 배인한·배용배·박남용 부사장 승진",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92U0FyNGJNTWozR29YVEg1Y0VfbWl4UERUQ1hOZ010akRTR3N5YVRYLU1zZElXbDZlRERCRjF6Q1RWM25XQ2V0aURrWWZnQWRIMG5YRGtaYmNxdjdCM3I5RVc5YVdlbEg1QVdjY0ZIWFc0R1U?oc=5",
+              "source": "비즈니스포스트"
+            }
+          ],
+          "description": "효성그룹이 2026년 정기 임원 인사를 실시해 배인한·배용배·박남용 부사장 등 16명을 승진시키고, 30대·여성 임원을 전진 배치했다."
+        },
+        {
+          "rank": 3,
+          "word": "지민",
+          "count": 1,
+          "articles": [
+            {
+              "title": "'글로벌 아이콘' 방탄소년단 지민, 5월 케이돌 월간랭킹 1위",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBISnBRSXpGbXVuZklwLWprWTR1eFoxeVlqUGhhdm5rV3luclRQZS1SZ0swV3NVZWZLY3NueURBenJrc1JORE5KOFRhNU0zSkZVc2QxZXc4QjFGdUhjNTYtMzhUNm56NmsyS0c1akowdUlGMVh2?oc=5",
+              "source": "starnewskorea.com"
+            },
+            {
+              "title": "AOA 출신 지민 \"매일 술 마셔야 잠들어…사람들이 나 싫다는데\" 컴백 직전 심경 고백 [전문]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42U0VlOHNIdnJ3aGpRbWpoX1Z3Skk0MmN1emtzd3lEdzlaVnJkeHVzakxrb3k1OFVHV2NudExjWnJ5Q1ZWdVBYaHpuMkZsLVU?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "방탄소년단 지민 '노말 로그', 힐링 이상의 감동",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDOE9KM3B2dmlHd1BYLWwxYlB3UDROWVRXWlRLTkdxeUVSTEdSeDVrX0lIWUFPbkhuYU54VVBLNkdLNTJicFJPYTRMVnlDZ0toNkYw?oc=5",
+              "source": "네이트"
+            }
+          ],
+          "description": "방탄소년단 지민이 5월 케이돌 월간랭킹 1위를 차지했고, AOA 출신 지민은 컴백을 앞두고 힘들었던 심경을 고백해 각각 화제다."
+        },
+        {
+          "rank": 4,
+          "word": "이승기",
+          "count": 1,
+          "articles": [
+            {
+              "title": "차가원 측, `105억 전세사기 주장` 이승기 맞불… \"라누보 입성 감사\" 메시지 전격 공개 [종합]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3N1NSaElnLU9waTRGRW1KZjNRMzVJNi1VVFBpek93OXVscVpXSzVnSU9WQ09zNFA1T0NzMTRiRzhIbnh6blZpNlZkcURTU2lmYzBEYUNVTmt0VTAzTUhlaw?oc=5",
+              "source": "마이데일리"
+            },
+            {
+              "title": "\"105억 빌라 입성 감사\" 차가원 측, 이승기 '전세사기 주장' 반박..공방 가열 [Oh!쎈 이슈]",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52dmpyQ3RFb2hzZ0Z5M2NJUW5nRGpYVHFZQzJIc0U4TmhzV2J0MXFVTzh6dlRfem9KQ2RISE9aanRXWllBTmRYU24yeTlDLUN5ZVF3?oc=5",
+              "source": "osen.co.kr"
+            },
+            {
+              "title": "차가원·이승기, '전세 105억' 진실 공방 계속",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xejM5ZXh0LWxxa2VYUnhQQXNXbUtNb1RnR0ZONU5OR1F1UHB2N0NFUjlwOHpZYTMxeG9lVkxHNzY0aGswQmc3b1p6T243OENjYUVVSXlUR25KaWEwaXJFUNIBeEFVX3lxTFAzeW5KTVRlcGEtMVh6VTNYeU1oY2R0eUw2VkJ2RE8wNWdNYkR4S2FZaWkwMER2eTB2U3lYU1hiVTZUSENqUUNYQ2czeUphSnZQNC1LTmUtdDZ0YmpmcjBHaGdIalA3X2pDSkt4bE13aHFGazhiOGV4NQ?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "이승기의 '105억 전세사기 주장'에 차가원 측이 '라누보 입성 감사' 메시지를 공개하며 정면 반박, 양측 공방이 가열되고 있다."
+        },
+        {
+          "rank": 5,
           "word": "김수현",
           "count": 1,
           "articles": [
@@ -136,229 +228,137 @@
               "source": "스포츠경향"
             },
             {
-              "title": "김수현, 멈췄던 활동 1년 만에 재개…해외 광고 촬영으로 복귀 시동",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GUVE1MkVwZDRJRG01Nm9mZ1VYa0JyM2ZkanNmeGZZV2tiQjEwLTdGMUtZTk5NWHRmVDVKWGdqVURTcHcwekpsWVRqb0JJcTJEb0ZkanhYLVhzdVJYOTExcUZVckZoX296NFE?oc=5",
-              "source": "SBS 뉴스"
+              "title": "김수현 광고 촬영·서인영 재혼·하루 라이즈 작사",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oeTZMcU1jNnl4ejEzU3UwbmFJVVdzVjhveHZzdVBHVzRuQWZQZVJzU2t6ejRYWjNzTXFYU2dSTTdLZlJJRmRtMk9VekhLMTQ?oc=5",
+              "source": "조이뉴스24"
             },
             {
-              "title": "‘김수현 의혹 제기’ 김세의 검찰 넘겨지자… 광고주 손배소도 속속 재개",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHNzS2k2Q2hlWWJNRUNhX2RDbkhqUXJMcHNSS3BPd24yVzdvcU5ZQVZhaUJ1aGlQM3JxVjdMLUg4MDE2S0pPbVh4bmhRU1M4ZDdUb05UQXBHVEwtNzNlR2VtZFRqY3J2ZGNyYXB5Ync3cHBqRVl1V2FldEt0cmxaTkVaSkhrekk?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "약 1년간 멈췄던 활동을 재개하며 필리핀 브랜드 광고 촬영으로 복귀에 시동을 걸었다. 한편 김세의 검찰 송치에 따라 광고주 손해배상 소송도 속속 재개되는 중이다."
-        },
-        {
-          "rank": 2,
-          "word": "이승환",
-          "count": 1,
-          "articles": [
-            {
-              "title": "“이혼이나 당하고” 발언에…이승환, 윤서인에 5000만원 손배소",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeG8xRUMzQ1c1SXlUdzNiWU1rRFJoenVFT1Q4b2cwZ21Jb0M3Y2xDM1Q4Z2hINDY4QTIyRXBSbk95dkpEWi13QVpxd2RWUE8yZHBWTnNn?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "이승환, \"이혼이나 당한 선동꾼\" 윤서인 발언에 5000만원 손배소",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMUlWam80Um05Y0ktVGIyT0FUUEFQT1U4eEJQalpsb1FWSllkY3dsOUNweFZiSE9mMU1SNlIzS1VENWVDY0tCaEliVVBYSVloWmZ1UGVSbF9ta2trNkFMYXhfTmNOTkZmNnc?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "친일파는 '갑부'·독립운동가는 '거지' 묘사한 윤서인…이승환 \"모욕죄 고소\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMT2xoSENRbFFsYTdpTWltVUVGVTM3YjZIaW5jTnppRDFmNlROcGRJbVNDdEZDbHZ5TVlNejFaRDFnXzVHRXFGUzI1UE1EaDA?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "만화가 윤서인이 '이혼이나 당한 선동꾼'이라고 발언한 데 대해 5000만 원 손해배상 소송과 모욕죄 고소를 제기했다."
-        },
-        {
-          "rank": 3,
-          "word": "솔로지옥",
-          "count": 1,
-          "articles": [
-            {
-              "title": "'하시4' 김지민 논란…'솔로지옥5' 박희선 \"檢 송치된 허위 루머\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mMldnbVU0V21ZNktMaFRDZ3NWNGtDdVJEdE0zdFg3T1ZGckMxT2FmQlVzT0hIbTZncU5YWUlDV3JIamIydW9ibFd6M2l5ZkE?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "'솔로지옥3' 이관희·최혜선, 2년 만의 재회가 '로맨스' 아닌 이유…이번엔 생존 경쟁[SC이슈]",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMWNFR0htak1SOWJjS1VLREUyblhPeFladVAyYWVQT05jRTVUT1FNMWpwUHBYejRqWFVfU0UxTDVFb3o5N242QlVDOEYxZmt4SHdKZ1p2OEtrb0tENi0zaG50cERrcjdIdnVyeU0tbkoyMXVsbXFqRDJGR3V6R2N0WWw2ZGszajBXVm9HLWRGaw?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "'솔로지옥5' 박희선, 사생활 루머 직접 반박 \"허위사실…피의자 검찰 송치\"",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41NWo4OXVIRENkWGNNSm9YMXYtZExtZ2M2R3FUWG04Rkdxc1ZwMlZqb09OQ2pSUnlldG4zYV96dG8zcEoyZ2Z0OHFzdVJOQzgxVjRBajhqTW03Uk9oa1lyU2ZpcVVSTC02SWc?oc=5",
-              "source": "SBS 뉴스"
-            }
-          ],
-          "description": "'솔로지옥5' 출연자 박희선이 사생활 허위 루머를 직접 반박하며 피의자가 검찰 송치됐다고 밝혔고, '솔로지옥3' 이관희·최혜선은 2년 만에 생존 경쟁 프로그램으로 재회해 화제다."
-        },
-        {
-          "rank": 4,
-          "word": "참교육",
-          "count": 1,
-          "articles": [
-            {
-              "title": "'짜릿 도파민' 터졌다! '참교육' 김무열, 교권보호국의 '화타'",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HS0RaUTdJd25Ba2tLbUJBQ21xM2ZyNkh2LThTR0NjU01tbGEwSlQtWnVseWhuNG5MY05SSHB1WmVVcG82QlJlV3hiLXh0UQ?oc=5",
-              "source": "전자신문"
-            },
-            {
-              "title": "15년차 교사인 내가 넷플릭스 '참교육' 보고 불편했던 까닭",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yN0twNUY4b2J6T0p1NUlsYnNpaWNocFhRWHZvRjFBeG90MG83N0FOR3pmVVozd1c2Ujd3N0pNQU5NZFItRHc?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "\"쌍욕 날리며 잘 봤습니다\" 김희철, '참교육' 박지연 역대급 빌런 연기 '극찬'",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GWjVhc2VYZDdiTEdubTBVcEU3X245N2pFRndoMkpDdFNpYWJtZWtQQ1BydjhiSEo3ODJ0Ri1UX2NFQllVZUE?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "넷플릭스 '참교육'이 공개 후 뜨거운 반응을 얻고 있다. 김무열의 통쾌한 활약과 박지연의 역대급 빌런 연기에 호평이 쏟아지는 한편, 현직 교사의 불편한 시선도 함께 나오고 있다."
-        },
-        {
-          "rank": 5,
-          "word": "시크릿",
-          "count": 1,
-          "articles": [
-            {
-              "title": "시크릿, 12년 만에 컴백…'추억 소환' 스페셜 앨범 발매",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90TFhkM3Bna2NocE5XOWJsNW1oQWwwUVN4cVh6U1V0bmNXRHFwNThTRFlwUU9rRjNyMWtiak9hdnpwVUY2OFpVREVMaWF3U1VFZmxLZlRHVEdtVjhXNlphdtIBeEFVX3lxTE40anBsdXplcXlLOXpqNDI5SGdzS2w1emtNNmh4MG5DalFXMXl2VVk4U0J4Ry1mQWlHWFZnbEpXbm9DVDlURm14bjhKOEtmZEIweFVEaGFqUXdoTElfdng1cEJCc21wTXRKMnZpb2RwbVoxd0VpUHFPTQ?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "\"10년 전 탈퇴했는데\"…한선화, 시크릿 소환에 '난감'→센스 있는 대응 [MD현장]",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RTHVHNDN6NXVKTGxuQ2VPSFJkWDRHQ09KZjd3RDVTT0hIQk9RY3NVVVF2STJxV0NxeFZCY2JVUnhFX3RiUVItbjRXMlVKaXVVV1lR?oc=5",
-              "source": "네이트"
-            },
-            {
-              "title": "걸그룹 시크릿, 18일 새앨범…3인조로 12년만 컴백",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZU2ZKc2FEY3lRcnctNTRPbEZHUmhKNDhYWkp1TlFKZjFLdDRLbDh1RkUzaEdMR3FZbjBCR0J5c1YwSUprclNjUGdBUHZDcEF1enhzTXRUZ092LUlmU0VUMdIBYEFVX3lxTE1ZU2ZKc2FEY3lRcnctNTRPbEZHUmhKNDhYWkp1TlFKZjFLdDRLbDh1RkUzaEdMR3FZbjBCR0J5c1YwSUprclNjUGdBUHZDcEF1enhzTXRUZ092LUlmU0VUMQ?oc=5",
+              "title": "김수현, 광고로 돌아온다…7월 활동 재개",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HLUNTS0Ixcm56T0FPRjNrckVxSjJhdHhPUjNLdGlsaFNncDBRem9XTUZ1WTFETElNSS1WbTVLRWo5TG1jQjhnQnhaV2toT1FYOXljUC1kTVNjeENTQ1cxUdIBYEFVX3lxTE5HLUNTS0Ixcm56T0FPRjNrckVxSjJhdHhPUjNLdGlsaFNncDBRem9XTUZ1WTFETElNSS1WbTVLRWo5TG1jQjhnQnhaV2toT1FYOXljUC1kTVNjeENTQ1cxUQ?oc=5",
               "source": "연합뉴스"
             }
           ],
-          "description": "걸그룹 시크릿이 3인조로 12년 만에 컴백하며 스페셜 앨범을 발매한다. 과거 탈퇴한 한선화가 시크릿 소환 소식에 난감한 반응을 보이며 화제가 됐다."
+          "description": "김수현이 필리핀 브랜드 광고 촬영을 시작하며 활동 복귀에 나선다. 7월 활동 재개가 예고됐다."
         }
       ]
     },
     "경제": {
-      "summary": "코스피 8% 폭락·서킷브레이커 발동 속 환율 1,550원대 급등 · 젠슨 황 방한해 한국 투자·새만금 데이터센터 참여 논의",
+      "summary": "코스피 8% 폭락 후 4%대 반등 · 삼성전자·하이닉스 호남 반도체 공장 추진 · 젠슨 황 방한 파트너십 체결",
       "keywords": [
         {
           "rank": 1,
+          "word": "젠슨 황",
+          "count": 4,
+          "articles": [
+            {
+              "title": "젠슨 황 선물은 'AI 팩토리'…기회지만 종속 우려도",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kV09GNzI1MGpCWGFRWXBpT2xveThkV2xRdWlucGxlR3NKaXJoenozVXE1UUxRUzQ0cS01WDB1SFpNdHNqZHlCV3J5ODJILTg?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "젠슨 황, 출국 “韓정부·SK하이닉스 등과 파트너십…방한 중 ‘윈윈 딜’”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hTzd4M2lPdmJLOXh3ZUxuclo2X3BDZTREdEVuNGJqQUVlN3ljd25SalM4ZUdqdkxxMXNYVlF1UVJCOWowWWlkcXRQNnowbGl0NFNMbDVR?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "젠슨 황, 4박5일 'AI 강행군' 마치고 김포공항서 오전10시 출국",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aTWVpM0RDREgwc3VrTFZxZHhoVFZiX09ZMW0wQTVDeFlFUmlTb2J0UWF6R0lXZjg0NHI4dkhINHc3b3pPQmFfRXlRYmdiVk5tWkFEVllaOWZfMnJheVNvUNIBeEFVX3lxTFBieXJoakxBR2tEQ0xXd25oYjMzU0ZaRDQ3eUJMU1VJLU96NWRKMlpUOFhocVVnbW9JNjJZVjZmV3RrekNHZmIyeWsyeTZ1aVVJWlk5ZUhnazhoQjNEc3NaMHZJU2czbE5OcHZxZ3NoYmVlRmd4TUdCZw?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "엔비디아 CEO 젠슨 황이 4박 5일간의 방한 일정을 마치고 김포공항을 통해 출국했다. 한국 정부·SK하이닉스 등과 AI 팩토리 관련 파트너십을 논의했으나, AI 인프라 종속 우려도 함께 제기됐다."
+        },
+        {
+          "rank": 2,
+          "word": "반도체",
+          "count": 3,
+          "articles": [
+            {
+              "title": "삼성전자·하이닉스, 호남에 첫 반도체 공장 설립 추진",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yNkRlTXcxN2s1bWRkamx5THdUTGJFendzRzAwTmdCbHlqbGJqUmJOYzFPb2hJcnE5U2tQWGhROUJSVm9VcEVUdVQtUXFyLTJNa0hNcGtXdFdLWm1HLUp3UjNZbk1xS3RxNmc?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "李 \"호남에 더 투자\"라더니... 삼전+하닉 \"반도체 공장 설립\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cGZGVzhGQjFCNkhjTlZJLUEyempXdEFCM01sZ1hWaVl1UmFidE9YWUZrMkVocWxxenowV2YyQTFrUzhBdk16aWZOZXV3SjA?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "호남 반도체 신공장 추진說에 삼성전자 \"모르는 일\" SK하이닉스 '미확정'",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtYjB1VFZRMlNrVERjQnpoLTRHOEJ0NW04ejNQdVJ3VERwdDhvMHdRYWZoTTFuX3RmUmFxS2tqU2JBUGpWanpIcXl0TF9ma1hTVG1vMjNxVm9Sa2hjT2t1MNIBeEFVX3lxTE53VE9UUzRBaDdFV2txRnp6T2lRRFJGazVMbEdUNlROS0tQR2Z5MW9rVzVNTjF5OEduZ0V1UnVYZVJVSVFWS0dvVFZmRVNDV1pOMW1MbnFXaXpuS05aZm5zaF9JMzJyZDBmcGxqY2F6UVJRZ2hwcDV4dQ?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "삼성전자·SK하이닉스가 호남 지역에 첫 반도체 공장 설립을 추진한다는 보도가 나왔으나, 삼성전자는 \"모르는 일\", SK하이닉스는 '미확정'이라며 확인을 유보했다."
+        },
+        {
+          "rank": 3,
+          "word": "마감",
+          "count": 3,
+          "articles": [
+            {
+              "title": "李 “대폭락? 2700비하면…” 코스피8% 급락마감, 올들어 두번째 낙폭",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JOXhSMUVPa0lROW9kUnVoRGl2Nm5hZ1g0WVVEd3lXcC1nRWxZdGRJYVZrcFpRY3N6Ymh3OHBMTmdWRFJzalJEQlNJWnE0dS1s?oc=5",
+              "source": "문화일보"
+            },
+            {
+              "title": "하이닉스 7% 빠졌는데 '50% 폭등' 마감…레버리지 '호가 참사'",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aaEVYd2JCYjhHZy1lMHQtcnZnZ1I4QVZSamxYTnNqUDlLTy1qb1ZZQkVNU3AtWjhQdDFqMlJSbjFUOFJXRk45cEFnOVhsZlM2TFE3NFZreDlEUdIBVEFVX3lxTE5Vem54eG1tZHpyNUFVOXVxRDFVNzZxbFZHaTZRSDJLOV9tbXZoTERHeHBwaDdRcExwOHJIRG5iZXpYdjhlUk9EQl83NkVtLVBsR3VFbg?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "원·달러 환율, 국민연금 환 헤지에 1,526.5원 마감",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YbkJkWkFZeWxKTWhtUWlFYXBxZXJWajRwR2M5d3lzWEk4QlVRZWVDRnFnY3JRc0VxNVNfMS1rbktpNDIyalFGQUdpWnpJSVdrMks1bUttNnhkaGYtNmc?oc=5",
+              "source": "YTN"
+            }
+          ],
+          "description": "코스피가 장중 8% 급락한 뒤 올해 두 번째 큰 낙폭으로 마감했고, 원·달러 환율은 국민연금 환 헤지 영향에 1,526.5원으로 마감했다. 오늘 처음 등장한 키워드다."
+        },
+        {
+          "rank": 4,
           "word": "코스피",
           "count": 3,
           "articles": [
             {
+              "title": "코스피 이어 코스닥도 반등에 매수사이드카 발동",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02ZVJBcHFQVkk1NkcyNEJ3RTNlZHRJbExyc3lZeDdJblF0UFhXYm9wck8wY1ZWZ3ZKbE5Xc21hakFxeEZDVHIwNlhpT0tXUHB1VkYySWNUY1N4QQ?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "코스피 개장 직후 8% 폭락…서킷 브레이커 발동",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1dWJwMXRnMjhQakdoNE04Z1U0OTloN0VHclc2cV9mRU90N21rT3JqYnNDYUlNWXBPaWpCMDF5WnZQUkRVdUloeVVLVzN4NzRGaGRzWWp2OF9nRFNJOGxWUjZ2Ql9ocVE?oc=5",
+              "source": "한겨레"
+            },
+            {
               "title": "코스피, 8% 폭락에 서킷브레이커 발동…8000선 붕괴",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53OFN5aUE4aEoyVjJMejRDMllYTXlWNUtfT0FFNzBKejZEcnM4RVctbkNselF5R3p5dEpCN1VRcG9fdzdfMTQ1SENvcjZBeTg4WTIwelE1LTdqd9IBX0FVX3lxTFBibTFPQVZzb2VTcXZzdkJYcHJHcFZVTGNkRTY3NEZXWWpCWnBzSFdXeGtJcGxzWVhHODJ6UWFlUUFOYTdwa3lsM3I2MHExeEVPNEhsWk1qS2phc3cyLVNJ?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53OFN5aUE4aEoyVjJMejRDMllYTXlWNUtfT0FFNzBKejZEcnM4RVctbkNselF5R3p5dEpCN1VRcG9fdzdfMTQ1SENvcjZBeTg4WTIwelE1LTdqdw?oc=5",
               "source": "경향신문"
-            },
-            {
-              "title": "피하지 못한 ‘블랙먼데이’... 코스피 7400선으로 폭락 후 소폭 반등",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2xTaWtkMThCY1lkM25fbEVlTDc0al9Cb0hDVDNkT29NdmUydTlRUnFZYjNVcjd0X2xjVVgxN0hqNHFRclZ0RjlUcFRack8wVXJkTGVocm5tUDNWV2Z0eEpVNm9aVXBvd2JmeHZBdlhnclpKd19FbFhjNnhyOXVuSnBkQ2dmM3pUMmY0?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "코스피 폭락에 삼성전자 글로벌 시총 11위로 밀려",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PdGlwei1ud2Z1cHNnRDZYU1NlSlZkNXFtb0VxeU9iWm9jOXVySnhOMjdXZnYtLUNrUENzYU93dXZ2ejQ0dHRWc3RNamJJRU5DdnNQNWhiTmVmOFBtblE?oc=5",
-              "source": "YTN"
             }
           ],
-          "description": "코스피가 장중 8% 폭락하며 서킷브레이커가 발동됐고, 한때 7,400선까지 밀렸다가 소폭 반등했다. 삼성전자도 급락해 글로벌 시총 11위로 밀려났다. 최근 2주간 꾸준히 상위권 키워드."
-        },
-        {
-          "rank": 2,
-          "word": "젠슨 황",
-          "count": 3,
-          "articles": [
-            {
-              "title": "젠슨 황 \"한국에 수천억달러 사업 가져왔다\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tSnBvRDR4Tk9qTEVMaFMwNnVrMG1RT2gwLXFBZzNTa3hGMTZwV1pvVWZBb1pCVkZPT2ZDblJvQXVLV1lZWG5CbWk1R0J3UlYtNExjNlBUb1BtMW_SAWBBVV95cUxOY3hBSV9NZ2x3Q1hPcjJJaW5QeXZkTG5YRWh3WUlfY2NMSnN1MFE5b09JVTlWTDAySlFvYjdTQlA3LUZaZE1wak8yelBudDJrY0cwcXRtb1JEWGFXZWViYmk?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "젠슨 황 “네이버 10배 커질 것”... 이해진 “삼겹살 항상 쏘겠다”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iNG5tazJiU043SENvX1otMXJ4UFhYMkoyQ1lQc3ZYVFh5N2JmU2lHQzZzZy1sb0hvdUJmQ01fdnBTbi1RRjRVTmRFVHQ2bHM?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "젠슨 황 만나 조용히 실리 챙긴 경영자들",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZUhpLTZqRlUxN1RwRF9lTlAzYzVOdWlIS0RpVVJTTnQwTklVV2VJOGxRTlVUVGlqVWlIc1FkQklQZ0dZWnhkLTJlV3BuR1o3dU96Zi1lcDFNOTNLemg0WEpQOHZaeGJQTlo4Y0VHc1RBUC1pM0NEWUxaRW56OE10OVhWemM4TFhXMTgyNHZpSQ?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "엔비디아 CEO 젠슨 황이 방한해 \"한국에 수천억달러 사업을 가져왔다\"고 밝히고, 네이버·현대차 등 주요 경영자들과 잇달아 만남을 가졌다."
-        },
-        {
-          "rank": 3,
-          "word": "환율",
-          "count": 1,
-          "articles": [
-            {
-              "title": "환율 1,550원대로 출발해 1,530원대 마감…구두개입에 하락",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHcWl3c0owVUU5NTNrUVRFRTRadVBPRllPRGx3cnZzMEt2bWF1elVqSEY1VHhDMlI4R202alhKZVRVSTQyc1R6Vl9vLXhIQTA?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "코스피 7,500 하회·환율 1,555원 위로…금융시장 '검은 월요일'",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12X0dKVG9paC1yNXEzUDhPMDU1NGF4Y3BCSHpEZDBRSkp0YU93a3FsaUJFcS1Td2lCdTZWdXdKWTdUb0tXdmRkQ1p1a2ZvNzFVT0YyUFZwdmpVLXfSAWBBVV95cUxNMWJwVndpcWZ1ZXpFM3NwUjNnTzUwRnJOeUx3TTFEQXJ1YjNHTTdNSzRJVGhOaVpJVXNlUGp1b19Pa2R4NVc4TndXeG9JbENqTUFDMU82RUVVS2NETXlDaVA?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "\"1500원대 환율에 대한 진단은?\"...날카로운 질문에 이 대통령의 답 [현장영상+]",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsRXRmQlB2RFJlcTVncXZUeGRzWkhJOXFJdWRvenpkeFZuaFEwYUMwWEVWM0dNbThhQ0FTdmRHSGJKUjFRSlYxSW5hdDcwOWx5c0NWVFZtU1QzdXBuZmc?oc=5",
-              "source": "YTN"
-            }
-          ],
-          "description": "원·달러 환율이 장중 1,555원대까지 치솟았다가 당국 구두개입에 1,530원대로 하락 마감했다. 이창용 한은 총재에게 1,500원대 환율 진단을 묻는 질문도 이어졌다. 최근 2주간 꾸준히 상위권."
-        },
-        {
-          "rank": 4,
-          "word": "하이닉스",
-          "count": 2,
-          "articles": [
-            {
-              "title": "하이닉스 8% 떨어졌는데…ACE단일종목 레버리지 50%↑'이상거래'(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iU1B1d0dFcWhJWlBoVk5mY1Z2dHBiTElaLS1VeGItVDN4QlpnczVKWEwwUlkweXFXLXdZbFhIZFRTZVlLOG0ySlZyV0lReFE?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "하이닉스 본주 8% 떨어졌는데 레버리지는 50% 폭등, 무슨 일?",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TcXdHSERVU01nQkZJM1VkemE5U1pfemlLQV9weEItX0RqRkxQLXRReGJSQ2hvSFNVRExOUjZtbGtCLS1yanZiWjZsc0dCRExwWmVUVENCWEZUUdIBX0FVX3lxTE9oN2RSeEpzcGRMYlVIeDB1RzE1NEF3YkhNd1pyS2VROVlGV25sSlRDMkhHaWJhTEFaUG1XR1FscXpFWUctV3BJRE9ReEQ2RS1qbDVsMHkteGwtcm5WSmlZ?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "급락장서 '하이닉스 레버리지' 50% 뛴 까닭",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1raHRrU0dvUzRzMWh3Q09ZOV92N29KQm9RVjliSzRtSV95dXpmM3lGN3hxS0hLQXZualRkWXRpSGY3eXNIZHVkMFQ4OUFrYnNUWDhQUnhxeXZrZ9IBVEFVX3lxTE9UU2xMUE5KQUpNTGthZUFQNU4xZEM3WWZTc1NldW9ZcnMtZlhkX0djY1hhdzBhNXY1SzFMOHpLZ1h4Nnp3Mnp5QWJ3eTJnaWxVd1o1YQ?oc=5",
-              "source": "한국경제"
-            }
-          ],
-          "description": "SK하이닉스 본주가 8% 급락한 가운데, ACE 단일종목 레버리지 ETN이 50% 폭등하는 이상거래가 발생해 원인에 관심이 쏠렸다. 오늘 처음 등장한 키워드."
+          "description": "개장 직후 8% 폭락하며 서킷브레이커가 발동됐고, 이후 반등 과정에서 매수 사이드카까지 발동되는 극심한 변동성을 보였다. 최근 2주간 꾸준히 상위권 키워드다."
         },
         {
           "rank": 5,
-          "word": "정의선",
-          "count": 1,
+          "word": "반등",
+          "count": 2,
           "articles": [
             {
-              "title": "젠슨황, 정의선 새만금 데이터센터 제안에 \"짓게 돼 기뻐\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ka0kxU1QxWXJGbXR5NGd2MlNPdGlGYzFDenMyQTQ3SW1LbTF4eGlEbFlUbGtFaXZIcjg0SFlQU0JySUhBVHF0U1huMVcxX0I5MldlTHh0VXpsYm_SAWBBVV95cUxPN1U0Tm5DOVVyRTFfRDJYRkJHNUo3dTFqalUxZ3M1bEJlbE1NVHZZaFJOc29hR1lBTUtOcFc2a1ZrNFc1c3M2YlBZTlNncUNDTVI1b1BLaFNUTS1hMlNyVDA?oc=5",
-              "source": "연합뉴스"
+              "title": "코스피, 폭락 딛고 4%대 반등…매수 사이드카 발동",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lRDNlWnVkSWpfc3J3VXZLNmc3bEJHRVl5bEhSU2lBcV9vQjctcjhnaE05WmhmUkQzbC1MSFNoVlZZYUd5ZzRHMmhzX084LWkzSXg2NlBwTGNqdktGX1p6STUxM2JfUVk?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "정의선 \"젠슨 황에 새만금 프로젝트 설명…AI·데이터센터 참여 제안\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85RWxwS0E3NDM0T1JFcTVBc0EtajlfWU8yX3RRNXhCQmR3VDRwR05wWHJkVVRUb2dFS2d4SWVPVlhJMmVLeFdvNzRSdGJXNU9BODhId2xId0dwaGg2NjZ5d9IBeEFVX3lxTE84OENlWWZ2S2QzeEUzUk43bW1IMVU5XzQ4bnR3SHJTakExTE1yUE9zcDRKMFBmeUxnQVJ2X1Fva2h1OE5LeDBLOWNhVEJxWlFoOHdhYXpLZGY3enY4NElROHdkVlRmTU9iN1JteDVEOVZxUndLbTBmeg?oc=5",
-              "source": "뉴시스"
+              "title": "반도체 반등 속 다우지수만 하락…'공포지수' 13% 폭락",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zSHRzQ2FINGxLSlFaRndrWkc1cEpfb2h0alNoOE9qQlVrZUFpd0lKLTRGek9yakhDeWdxUXJJODIxanVhaEpwSTJkRC1iZVE?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "취재진 질문에 답하는 정의선 회장",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1eExRTDZiUmFKcnhzOUlGcWtVUE12MnJ4a3NOcW1Sdy03NE1HZW40Y1I5bjRyazd1VlY1S05SZXNxS0lMelFmeWtZVm52LTRHdUYyTlU1ZE52R0xKR0NDedIBYEFVX3lxTFA1eExRTDZiUmFKcnhzOUlGcWtVUE12MnJ4a3NOcW1Sdy03NE1HZW40Y1I5bjRyazd1VlY1S05SZXNxS0lMelFmeWtZVm52LTRHdUYyTlU1ZE52R0xKR0NDeQ?oc=5",
-              "source": "연합뉴스"
+              "title": "이스라엘·이란 '공격 중단'에 한숨 돌린 증시…반도체주 급반등[뉴욕마감] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zdE5oYUJZdUNoaGV3a3dJVFBFNnUyUW4tbHZYS2hYY3pKZDhrYWcxTzJlZGlEX1p6MGF6bU90b0dEdkFwNmh6ZVlYR1pMQ25zUW16b2szWHBmOWd0cjh4MW5VVUxxVGdU0gFuQVVfeXFMTmIxcnRlN243eDU3bVR4Q1k4bzMtcWhENC1ObE1DYi1uRmJTTmZxTE9Zb0h3ZE83QVZxM1VjMDBFc3lRUVBDb2xSN3F6b29MNFVISlFjZW8wc3V1ZTVsV2JFWHhyZldSRUVxTXRCRXc?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "정의선 현대차그룹 회장이 젠슨 황에게 새만금 데이터센터 프로젝트를 설명하며 AI·데이터센터 분야 참여를 제안했고, 젠슨 황은 \"짓게 돼 기쁘다\"고 화답했다. 오늘 처음 등장한 키워드."
+          "description": "코스피가 장중 폭락 이후 4%대 반등하며 매수 사이드카가 발동됐고, 뉴욕 증시에서도 반도체주가 급반등하는 흐름이 이어졌다. 오늘 처음 등장한 키워드다."
         }
       ]
     }
