@@ -16,20 +16,35 @@ async function loadFont(): Promise<ArrayBuffer> {
 export async function buildOgImage(data: KeywordsData) {
   const font = await loadFont()
 
-  const issueKws = data.categories['오늘의 이슈']?.keywords.slice(0, 5) ?? []
-  const entKws = data.categories['연예']?.keywords.slice(0, 5) ?? []
-  const econKws = data.categories['경제']?.keywords.slice(0, 5) ?? []
+  const text = (kw: { headline?: string; word: string }) => kw.headline || kw.word
+  const issueKws = data.categories['오늘의 이슈']?.keywords.slice(0, 3) ?? []
+  const entTop = data.categories['연예']?.keywords[0]
+  const econTop = data.categories['경제']?.keywords[0]
 
-  const badge = (rank: number) => ({
-    fontSize: 13,
-    fontWeight: 700,
-    padding: '3px 10px',
+  const rankMark = (rank: number) => ({
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    width: 34,
+    height: 34,
     borderRadius: 999,
+    fontSize: 17,
+    fontWeight: 700,
     backgroundColor: rank === 1 ? '#fbbf24' : '#27272a',
-    color: rank === 1 ? '#713f12' : '#71717a',
-    minWidth: 42,
-    textAlign: 'center' as const,
+    color: rank === 1 ? '#713f12' : '#a1a1aa',
   })
+
+  const miniRow = (emoji: string, label: string, color: string, kw?: { headline?: string; word: string }) => (
+    <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 6, width: 96 }}>
+        <span style={{ fontSize: 20 }}>{emoji}</span>
+        <span style={{ color, fontSize: 18, fontWeight: 700 }}>{label}</span>
+      </div>
+      <span style={{ color: '#e4e4e7', fontSize: 24, fontWeight: 700, overflow: 'hidden' }}>
+        {kw ? text(kw) : ''}
+      </span>
+    </div>
+  )
 
   return new ImageResponse(
     (
@@ -40,12 +55,12 @@ export async function buildOgImage(data: KeywordsData) {
           display: 'flex',
           flexDirection: 'column',
           backgroundColor: '#18181b',
-          padding: '52px 64px',
+          padding: '48px 64px',
           fontFamily: '"Noto Sans KR"',
         }}
       >
         {/* 헤더 */}
-        <div style={{ display: 'flex', alignItems: 'center', marginBottom: '36px' }}>
+        <div style={{ display: 'flex', alignItems: 'center', marginBottom: 32 }}>
           <div style={{ display: 'flex', alignItems: 'flex-end', gap: 5, marginRight: 16 }}>
             <div style={{ width: 13, height: 22, backgroundColor: '#fb7185', borderRadius: 3 }} />
             <div style={{ width: 13, height: 34, backgroundColor: '#a78bfa', borderRadius: 3 }} />
@@ -60,63 +75,47 @@ export async function buildOgImage(data: KeywordsData) {
           <span style={{ color: '#52525b', fontSize: 18, marginLeft: 'auto' }}>{data.date}</span>
         </div>
 
-        {/* 세 칼럼 */}
-        <div style={{ display: 'flex', gap: 36, flex: 1, alignItems: 'center' }}>
-          {/* 오늘의 이슈 */}
-          <div style={{ flex: 1.2, display: 'flex', flexDirection: 'column' }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 18 }}>
-              <span style={{ fontSize: 18 }}>🔥</span>
-              <span style={{ color: '#fb7185', fontSize: 16, fontWeight: 700 }}>오늘의 이슈</span>
+        {/* 오늘의 이슈 (주인공) */}
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
+          <span style={{ fontSize: 22 }}>🔥</span>
+          <span style={{ color: '#fb7185', fontSize: 19, fontWeight: 700 }}>오늘의 이슈</span>
+        </div>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 14, flex: 1 }}>
+          {issueKws.map((kw) => (
+            <div key={kw.word} style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
+              <span style={rankMark(kw.rank)}>{kw.rank}</span>
+              <span
+                style={{
+                  color: kw.rank === 1 ? 'white' : '#d4d4d8',
+                  fontSize: kw.rank === 1 ? 38 : 28,
+                  fontWeight: 700,
+                  lineHeight: 1.15,
+                  overflow: 'hidden',
+                }}
+              >
+                {text(kw)}
+              </span>
             </div>
-            {issueKws.map((kw) => (
-              <div key={kw.word} style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 12 }}>
-                <span style={badge(kw.rank)}>{kw.rank}위</span>
-                <span style={{ color: kw.rank === 1 ? 'white' : '#d4d4d8', fontSize: kw.rank === 1 ? 24 : 18, fontWeight: 700 }}>
-                  {kw.word}
-                </span>
-              </div>
-            ))}
-          </div>
+          ))}
+        </div>
 
-          <div style={{ width: 1, backgroundColor: '#27272a', alignSelf: 'stretch' }} />
-
-          {/* 연예 */}
-          <div style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 18 }}>
-              <span style={{ fontSize: 18 }}>🎤</span>
-              <span style={{ color: '#e879f9', fontSize: 16, fontWeight: 700 }}>연예</span>
-            </div>
-            {entKws.map((kw) => (
-              <div key={kw.word} style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 12 }}>
-                <span style={badge(kw.rank)}>{kw.rank}위</span>
-                <span style={{ color: kw.rank === 1 ? 'white' : '#d4d4d8', fontSize: kw.rank === 1 ? 24 : 18, fontWeight: 700 }}>
-                  {kw.word}
-                </span>
-              </div>
-            ))}
-          </div>
-
-          <div style={{ width: 1, backgroundColor: '#27272a', alignSelf: 'stretch' }} />
-
-          {/* 경제 */}
-          <div style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
-            <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 18 }}>
-              <span style={{ fontSize: 18 }}>💰</span>
-              <span style={{ color: '#60a5fa', fontSize: 16, fontWeight: 700 }}>경제</span>
-            </div>
-            {econKws.map((kw) => (
-              <div key={kw.word} style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 12 }}>
-                <span style={badge(kw.rank)}>{kw.rank}위</span>
-                <span style={{ color: kw.rank === 1 ? 'white' : '#d4d4d8', fontSize: kw.rank === 1 ? 24 : 18, fontWeight: 700 }}>
-                  {kw.word}
-                </span>
-              </div>
-            ))}
-          </div>
+        {/* 연예 · 경제 요약 */}
+        <div
+          style={{
+            display: 'flex',
+            flexDirection: 'column',
+            gap: 12,
+            paddingTop: 22,
+            marginTop: 8,
+            borderTop: '1px solid #27272a',
+          }}
+        >
+          {miniRow('🎤', '연예', '#e879f9', entTop)}
+          {miniRow('💰', '경제', '#60a5fa', econTop)}
         </div>
 
         {/* 푸터 */}
-        <div style={{ color: '#3f3f46', fontSize: 15, marginTop: 20 }}>
+        <div style={{ color: '#3f3f46', fontSize: 15, marginTop: 22 }}>
           6시간마다 자동 업데이트 · Google News RSS
         </div>
       </div>
