@@ -5,7 +5,7 @@ import KeywordDisplay, { type KeywordsData } from "../../components/KeywordDispl
 import Logo from "../../components/Logo";
 import ThemeToggle from "../../components/ThemeToggle";
 import { jsonLdHtml } from "../../jsonld";
-import { CATEGORIES, categoryBySlug } from "../../categories";
+import { CATEGORIES, categoryBySlug, categoryLabel } from "../../categories";
 import { SITE_URL as SITE } from "../../site";
 import { loadCurrentData, getRankChanges } from "../../data";
 
@@ -60,7 +60,7 @@ export default async function CategoryPage({ params }: Props) {
             <Logo />
           </div>
           <p className="text-xs text-zinc-500 dark:text-zinc-400">
-            {data.date} · {cat.emoji} {cat.name}
+            {data.date} · {cat.emoji} {categoryLabel[cat.name] || cat.name}
           </p>
         </div>
 
@@ -81,7 +81,7 @@ export default async function CategoryPage({ params }: Props) {
                   : "bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500"
               }`}
             >
-              {c.emoji} {c.name}
+              {c.emoji} {categoryLabel[c.name] || c.name}
             </Link>
           ))}
         </div>

@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import Logo from "../components/Logo";
 import ThemeToggle from "../components/ThemeToggle";
-import { CATEGORIES } from "../categories";
+import { CATEGORIES, categoryLabel } from "../categories";
 
 export const metadata: Metadata = {
   title: "이용 가이드 | 오늘의 뉴스",
@@ -37,9 +37,9 @@ const SECTIONS: Section[] = [
         키워드가 왜 화제인지 짚어주는 설명과 함께 관련 기사 링크를 볼 수 있어요.
         설명에는 ‘며칠 연속 1위’ 같은 우리 사이트만의 트렌드 정보도 담겨요.
         키워드 옆 숫자는 순위이고,
-        <span className="text-emerald-500"> ▲</span> /
-        <span className="text-rose-500"> ▼</span> 배지는 어제 대비 순위
-        변동을 뜻해요. <span className="text-amber-500">NEW</span>는 오늘 새로
+        <span className="font-semibold text-rose-600 dark:text-rose-400"> ▲</span> /
+        <span className="font-semibold text-zinc-400"> ▼</span> 배지는 어제 대비 순위
+        변동을 뜻해요. <span className="font-semibold text-rose-600 dark:text-rose-400">NEW</span>는 오늘 새로
         올라온 키워드예요.
       </>
     ),
@@ -49,11 +49,12 @@ const SECTIONS: Section[] = [
     title: "카테고리",
     body: (
       <>
-        뉴스는 세 갈래로 나뉘어요.
+        맨 위 <b>급상승</b>은 분야를 가리지 않고 지금 가장 화제인 이슈를 모아
+        보여줘요. 그 아래로는 분야별 키워드가 이어져요.
         <span className="block mt-2 space-y-1">
           {CATEGORIES.map((c) => (
             <span key={c.slug} className="block">
-              {c.emoji} <b>{c.name}</b>
+              {c.emoji} <b>{categoryLabel[c.name] || c.name}</b>
             </span>
           ))}
         </span>

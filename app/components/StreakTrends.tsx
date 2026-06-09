@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import type { Streak } from "../data";
-import { categoryEmoji } from "../categories";
+import { categoryEmoji, categoryLabel } from "../categories";
 
 const PERIODS: { key: string; label: string }[] = [
   { key: "30", label: "1개월" },
@@ -26,12 +26,11 @@ export default function StreakTrends({
 
   return (
     <section className="mb-10">
-      <div className="flex items-center gap-2 mb-3">
-        <span className="text-base">👑</span>
-        <h2 className="text-sm font-bold tracking-wide text-zinc-600 dark:text-zinc-300">
+      <div className="flex items-baseline gap-2 mb-3.5">
+        <h2 className="text-sm font-bold tracking-tight text-zinc-900 dark:text-zinc-100">
           최장 1위 연속 기록
         </h2>
-        <div className="flex-1 h-px bg-zinc-300 dark:bg-zinc-700 opacity-40" />
+        <div className="flex-1 h-px bg-zinc-200 dark:bg-zinc-800" />
       </div>
 
       <div className="flex gap-1.5 mb-4" role="tablist" aria-label="기간 선택">
@@ -61,22 +60,22 @@ export default function StreakTrends({
           {list.map((s) => (
             <div
               key={`${s.word}-${s.category}-${s.start}`}
-              className="px-4 py-3 rounded-2xl bg-white dark:bg-zinc-900 border border-zinc-100 dark:border-zinc-800 shadow-sm"
+              className="px-4 py-3.5 rounded-xl bg-white dark:bg-zinc-900 border border-zinc-200/80 dark:border-zinc-800"
             >
               <div className="flex items-center gap-3">
-                <span className="text-sm font-bold truncate flex-1 min-w-0">{s.word}</span>
+                <span className="text-sm font-semibold tracking-tight truncate flex-1 min-w-0">{s.word}</span>
                 <span className="text-xs text-zinc-500 dark:text-zinc-400 shrink-0">
-                  {categoryEmoji[s.category] ?? "📌"} {s.category}
+                  {categoryEmoji[s.category] ?? "📌"} {categoryLabel[s.category] ?? s.category}
                 </span>
-                <span className="text-xs font-bold text-amber-600 dark:text-amber-400 tabular-nums shrink-0">
+                <span className="text-xs font-bold text-rose-600 dark:text-rose-400 tabular-nums shrink-0">
                   {s.streak}일 연속
                 </span>
               </div>
-              <div className="mt-1 text-xs text-zinc-500 dark:text-zinc-400 tabular-nums">
+              <div className="mt-1 text-xs text-zinc-400 dark:text-zinc-500 tabular-nums">
                 {md(s.start)} ~ {md(s.end)}
               </div>
               {s.ai_summary && (
-                <p className="mt-2 text-xs leading-relaxed text-zinc-600 dark:text-zinc-300 border-l-2 border-amber-400/60 dark:border-amber-500/50 pl-2.5">
+                <p className="mt-2.5 text-xs leading-relaxed text-zinc-600 dark:text-zinc-300 border-l-2 border-rose-300 dark:border-rose-800 pl-3 break-keep">
                   {s.ai_summary}
                 </p>
               )}

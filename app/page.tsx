@@ -6,7 +6,7 @@ import InstallButton from "./components/InstallButton";
 import NotificationButton from "./components/NotificationButton";
 import ThemeToggle from "./components/ThemeToggle";
 import { jsonLdHtml } from "./jsonld";
-import { CATEGORIES } from "./categories";
+import { CATEGORIES, categoryLabel } from "./categories";
 import { loadCurrentData, getRecentDates, getRankChanges } from "./data";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -94,7 +94,7 @@ export default async function Home() {
               href={`/category/${c.slug}`}
               className="px-3 py-2.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
             >
-              {c.emoji} {c.name}
+              {c.emoji} {categoryLabel[c.name] || c.name}
             </Link>
           ))}
           <Link
