@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import KeywordDisplay from "../components/KeywordDisplay";
 import Logo from "../components/Logo";
 import ThemeToggle from "../components/ThemeToggle";
+import UpdatedAt from "../components/UpdatedAt";
 import { jsonLdHtml } from "../jsonld";
 import { loadHistoryData, getRecentDates, getRankChanges, getAllDates } from "../data";
 
@@ -68,7 +69,9 @@ export default async function HistoryPage({ params }: Props) {
           <div className="flex justify-center mb-2">
             <Logo />
           </div>
-          <p className="text-xs text-zinc-500 dark:text-zinc-400">{data.date} · Google News RSS</p>
+          <p className="text-xs text-zinc-500 dark:text-zinc-400">
+            <UpdatedAt updatedAt={data.updated_at} date={data.date} /> · Google News RSS
+          </p>
         </div>
 
         {recentDates.length > 0 && (

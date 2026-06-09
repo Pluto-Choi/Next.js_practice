@@ -5,6 +5,7 @@ import Logo from "./components/Logo";
 import InstallButton from "./components/InstallButton";
 import NotificationButton from "./components/NotificationButton";
 import ThemeToggle from "./components/ThemeToggle";
+import UpdatedAt from "./components/UpdatedAt";
 import { jsonLdHtml } from "./jsonld";
 import { CATEGORIES, categoryLabel } from "./categories";
 import { loadCurrentData, getRecentDates, getRankChanges } from "./data";
@@ -63,7 +64,7 @@ export default async function Home() {
             <Logo />
           </div>
           <p className="text-xs text-zinc-500 dark:text-zinc-400">
-            {data.updated_at ? `${data.updated_at} 업데이트` : data.date} · Google News RSS
+            <UpdatedAt updatedAt={data.updated_at} date={data.date} /> · Google News RSS
           </p>
         </div>
 
