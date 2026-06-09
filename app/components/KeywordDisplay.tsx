@@ -104,6 +104,11 @@ export default function KeywordDisplay({
   data: KeywordsData;
   rankChanges?: RankChanges;
 }) {
+  const issueKeywords = data.categories["오늘의 이슈"]?.keywords;
+  const topIssue =
+    issueKeywords?.find((k) => k.rank === 1) ?? issueKeywords?.[0];
+  const topKeyword = topIssue ? topIssue.headline || topIssue.word : undefined;
+
   return (
     <>
       {Object.entries(data.categories).map(([category, categoryData], index) => {
@@ -226,7 +231,7 @@ export default function KeywordDisplay({
         );
       })}
 
-      <ShareButton />
+      <ShareButton topKeyword={topKeyword} />
     </>
   );
 }
