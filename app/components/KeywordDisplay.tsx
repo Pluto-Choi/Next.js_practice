@@ -85,6 +85,11 @@ function KeywordCard({
                   {item.description || cleanTitle(item.articles[0].title)}
                 </p>
               )}
+              {isTop && item.articles.length > 0 && (
+                <p className="group-open:hidden mt-1.5 text-[11px] font-medium text-zinc-400 dark:text-zinc-500">
+                  관련 기사 {item.articles.length}건
+                </p>
+              )}
             </div>
           </div>
           <span aria-hidden="true" className="text-zinc-300 dark:text-zinc-600 text-xs shrink-0 transition-transform duration-200 group-open:rotate-180">▾</span>
