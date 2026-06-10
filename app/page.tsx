@@ -106,7 +106,7 @@ export default async function Home() {
           </Link>
           <Link
             href="/guide"
-            className="px-3 py-2.5 rounded-full text-xs font-semibold bg-rose-50 dark:bg-rose-950/40 border border-rose-200 dark:border-rose-800/60 text-rose-600 dark:text-rose-300 hover:border-rose-400 dark:hover:border-rose-600 transition-colors"
+            className="px-3 py-2.5 rounded-full text-xs font-semibold bg-blue-50 dark:bg-blue-950/40 border border-blue-200 dark:border-blue-800/60 text-blue-600 dark:text-blue-300 hover:border-blue-400 dark:hover:border-blue-600 transition-colors"
           >
             ❓ 이용 가이드
           </Link>

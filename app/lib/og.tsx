@@ -63,9 +63,9 @@ export async function buildOgImage(data: KeywordsData) {
         {/* 헤더 */}
         <div style={{ display: 'flex', alignItems: 'center', marginBottom: 32 }}>
           <div style={{ display: 'flex', alignItems: 'flex-end', gap: 5, marginRight: 16 }}>
-            <div style={{ width: 13, height: 22, backgroundColor: '#fda4af', borderRadius: 3 }} />
-            <div style={{ width: 13, height: 34, backgroundColor: '#fb7185', borderRadius: 3 }} />
-            <div style={{ width: 13, height: 46, backgroundColor: '#f43f5e', borderRadius: 3 }} />
+            <div style={{ width: 13, height: 22, backgroundColor: '#93c5fd', borderRadius: 3 }} />
+            <div style={{ width: 13, height: 34, backgroundColor: '#60a5fa', borderRadius: 3 }} />
+            <div style={{ width: 13, height: 46, backgroundColor: '#3b82f6', borderRadius: 3 }} />
           </div>
           <div style={{ display: 'flex', flexDirection: 'column' }}>
             <span style={{ color: 'white', fontSize: 30, fontWeight: 700, lineHeight: 1.1 }}>오늘의 뉴스</span>
@@ -79,7 +79,7 @@ export async function buildOgImage(data: KeywordsData) {
         {/* 급상승 (주인공) */}
         <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
           <span style={{ fontSize: 22 }}>🔥</span>
-          <span style={{ color: '#fb7185', fontSize: 19, fontWeight: 700 }}>급상승</span>
+          <span style={{ color: '#60a5fa', fontSize: 19, fontWeight: 700 }}>급상승</span>
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 14, flex: 1 }}>
           {issueKws.map((kw) => (

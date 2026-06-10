@@ -82,7 +82,7 @@ export default async function KeywordPage({ params }: Props) {
         </div>
 
         {description && (
-          <div className="mb-6 border-l-2 border-rose-300 dark:border-rose-800 pl-3.5">
+          <div className="mb-6 border-l-2 border-blue-300 dark:border-blue-800 pl-3.5">
             <p className="text-[11px] font-semibold text-zinc-400 dark:text-zinc-500 mb-1 tracking-wide">AI 요약</p>
             <p className="text-zinc-700 dark:text-zinc-200 text-sm leading-relaxed break-keep">
               {description}
@@ -133,7 +133,7 @@ export default async function KeywordPage({ params }: Props) {
                 >
                   <span className="text-zinc-400 dark:text-zinc-500 text-xs font-medium mt-0.5 shrink-0 w-3 tabular-nums">{idx + 1}</span>
                   <div className="min-w-0">
-                    <p className="text-zinc-700 dark:text-zinc-200 text-sm leading-snug group-hover/link:text-rose-600 dark:group-hover/link:text-rose-400 transition-colors break-keep">
+                    <p className="text-zinc-700 dark:text-zinc-200 text-sm leading-snug group-hover/link:text-blue-600 dark:group-hover/link:text-blue-400 transition-colors break-keep">
                       {cleanTitle(article.title)}
                     </p>
                     {article.source && (
