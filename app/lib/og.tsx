@@ -63,9 +63,9 @@ export async function buildOgImage(data: KeywordsData) {
         {/* 헤더 */}
         <div style={{ display: 'flex', alignItems: 'center', marginBottom: 32 }}>
           <div style={{ display: 'flex', alignItems: 'flex-end', gap: 5, marginRight: 16 }}>
-            <div style={{ width: 13, height: 22, backgroundColor: '#fb7185', borderRadius: 3 }} />
-            <div style={{ width: 13, height: 34, backgroundColor: '#a78bfa', borderRadius: 3 }} />
-            <div style={{ width: 13, height: 46, backgroundColor: '#60a5fa', borderRadius: 3 }} />
+            <div style={{ width: 13, height: 22, backgroundColor: '#fda4af', borderRadius: 3 }} />
+            <div style={{ width: 13, height: 34, backgroundColor: '#fb7185', borderRadius: 3 }} />
+            <div style={{ width: 13, height: 46, backgroundColor: '#f43f5e', borderRadius: 3 }} />
           </div>
           <div style={{ display: 'flex', flexDirection: 'column' }}>
             <span style={{ color: 'white', fontSize: 30, fontWeight: 700, lineHeight: 1.1 }}>오늘의 뉴스</span>
@@ -111,9 +111,9 @@ export async function buildOgImage(data: KeywordsData) {
             borderTop: '1px solid #27272a',
           }}
         >
-          {miniRow('💰', '경제', '#60a5fa', econTop)}
-          {miniRow('🎤', '연예', '#e879f9', entTop)}
-          {miniRow('⚽', '스포츠', '#34d399', sportsTop)}
+          {miniRow('💰', '경제', '#a1a1aa', econTop)}
+          {miniRow('🎤', '연예', '#a1a1aa', entTop)}
+          {miniRow('⚽', '스포츠', '#a1a1aa', sportsTop)}
         </div>
 
         {/* 푸터 */}
