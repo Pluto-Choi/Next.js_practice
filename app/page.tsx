@@ -6,6 +6,7 @@ import InstallButton from "./components/InstallButton";
 import NotificationButton from "./components/NotificationButton";
 import ThemeToggle from "./components/ThemeToggle";
 import UpdatedAt from "./components/UpdatedAt";
+import KeywordSearch from "./components/KeywordSearch";
 import { jsonLdHtml } from "./jsonld";
 import { CATEGORIES, categoryLabel } from "./categories";
 import { loadCurrentData, getRecentDates, getRankChanges } from "./data";
@@ -47,6 +48,12 @@ export async function generateMetadata(): Promise<Metadata> {
 export default async function Home() {
   const [data, recentDates] = await Promise.all([loadCurrentData(), getRecentDates()]);
   const rankChanges = await getRankChanges(data);
+
+  const searchKeywords = Array.from(
+    new Set(
+      Object.values(data.categories).flatMap((c) => c.keywords.map((k) => k.word))
+    )
+  );
 
   return (
     <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
@@ -111,6 +118,8 @@ export default async function Home() {
             ❓ 이용 가이드
           </Link>
         </div>
+
+        <KeywordSearch keywords={searchKeywords} />
 
         <KeywordDisplay data={data} rankChanges={rankChanges} />
 
