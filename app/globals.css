@@ -25,9 +25,9 @@
 }
 
 /* 키보드 포커스 가시성 (WCAG 2.4.7). 마우스/터치엔 안 보이고
-   Tab 이동 시에만 표시된다. 사이트 강조색(violet-500) 사용. */
+   Tab 이동 시에만 표시된다. 사이트 강조색(rose-500) 사용. */
 :focus-visible {
-  outline: 2px solid #8b5cf6;
+  outline: 2px solid #f43f5e;
   outline-offset: 2px;
 }
 
