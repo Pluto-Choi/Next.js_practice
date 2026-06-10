@@ -68,7 +68,7 @@ function KeywordCard({
   return (
     <details
       aria-label={`${item.rank}위 ${item.headline || item.word}`}
-      className="group rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-sm transition-colors hover:border-zinc-300 dark:hover:border-zinc-700"
+      className="group rounded-xl border border-zinc-200/80 dark:border-zinc-800 bg-white dark:bg-zinc-900 transition-colors hover:border-zinc-300 dark:hover:border-zinc-700"
     >
       <summary className={`cursor-pointer list-none select-none transition-colors active:bg-zinc-50 dark:active:bg-zinc-800/40 ${isTop ? "px-4 py-4" : "px-4 py-3.5"}`}>
         <div className="flex items-center justify-between gap-3">
@@ -82,7 +82,7 @@ function KeywordCard({
                 {item.headline || item.word}
               </p>
               {(item.description || item.articles[0]) && (
-                <p className={`group-open:hidden mt-1 text-xs text-zinc-600 dark:text-zinc-400 leading-relaxed break-keep ${isTop ? "line-clamp-2" : "line-clamp-1"}`}>
+                <p className={`group-open:hidden mt-1 text-xs text-zinc-500 dark:text-zinc-400 leading-relaxed break-keep ${isTop ? "line-clamp-2" : "line-clamp-1"}`}>
                   {item.description || cleanTitle(item.articles[0].title)}
                 </p>
               )}

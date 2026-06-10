@@ -125,7 +125,7 @@ const SECTIONS: Section[] = [
 
 export default function GuidePage() {
   return (
-    <div className="min-h-screen bg-zinc-100 dark:bg-zinc-950 text-zinc-900 dark:text-white">
+    <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
       <main id="main-content" tabIndex={-1} className="max-w-lg mx-auto px-4 py-6">
         <div className="relative mb-8 text-center">
           <ThemeToggle />

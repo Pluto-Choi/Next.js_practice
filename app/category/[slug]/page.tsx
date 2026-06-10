@@ -45,7 +45,7 @@ export default async function CategoryPage({ params }: Props) {
   const rankChanges = await getRankChanges(single);
 
   return (
-    <div className="min-h-screen bg-zinc-100 dark:bg-zinc-950 text-zinc-900 dark:text-white">
+    <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(single) }}
