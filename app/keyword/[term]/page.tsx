@@ -41,7 +41,7 @@ export default async function KeywordPage({ params }: Props) {
       <main id="main-content" tabIndex={-1} className="max-w-lg mx-auto px-4 py-6">
         <p className="mb-6 text-center text-xs text-zinc-500 dark:text-zinc-400">📈 키워드 추이 · Google News RSS</p>
 
-        <div className="flex gap-2 mb-6 justify-center flex-wrap" role="navigation" aria-label="이동">
+        <div className="hidden lg:flex gap-2 mb-6 justify-center flex-wrap" role="navigation" aria-label="이동">
           <Link
             href="/"
             className="px-3 py-2.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
