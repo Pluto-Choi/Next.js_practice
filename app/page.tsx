@@ -58,7 +58,7 @@ export default async function Home() {
 
         <h1 className="sr-only">오늘의 뉴스 — {data.date} 핫이슈 · 연예 · 경제 키워드 TOP5</h1>
 
-        <div className="relative mb-8 text-center">
+        <div className="relative mb-6 text-center">
           <ThemeToggle />
           <div className="flex justify-center mb-2">
             <Logo />
@@ -69,7 +69,7 @@ export default async function Home() {
         </div>
 
         {recentDates.length > 1 && (
-          <div className="relative mb-6">
+          <div className="relative mb-3">
             <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-none" role="navigation" aria-label="날짜 선택">
               <span aria-current="page" className="px-3 py-2.5 rounded-full text-xs font-semibold bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 shrink-0">
                 오늘
@@ -88,7 +88,7 @@ export default async function Home() {
           </div>
         )}
 
-        <div className="flex gap-2 mb-6 justify-center flex-wrap" role="navigation" aria-label="카테고리별 보기">
+        <div className="flex gap-2 mb-5 justify-center flex-wrap" role="navigation" aria-label="카테고리별 보기">
           {CATEGORIES.map((c) => (
             <Link
               key={c.slug}

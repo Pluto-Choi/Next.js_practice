@@ -64,7 +64,7 @@ export default async function HistoryPage({ params }: Props) {
 
         <h1 className="sr-only">{date} 뉴스 키워드 — 핫이슈 · 연예 · 경제 TOP5</h1>
 
-        <div className="relative mb-8 text-center">
+        <div className="relative mb-6 text-center">
           <ThemeToggle />
           <div className="flex justify-center mb-2">
             <Logo />
@@ -75,7 +75,7 @@ export default async function HistoryPage({ params }: Props) {
         </div>
 
         {recentDates.length > 0 && (
-          <div className="relative mb-6">
+          <div className="relative mb-5">
             <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-none" role="navigation" aria-label="날짜 선택">
               <Link
                 href="/"
