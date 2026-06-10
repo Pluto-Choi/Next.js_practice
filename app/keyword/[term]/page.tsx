@@ -100,7 +100,7 @@ export default async function KeywordPage({ params }: Props) {
               <Link
                 key={`${e.date}-${e.category}`}
                 href={`/${e.date}`}
-                className="flex items-center justify-between gap-3 rounded-xl border border-zinc-200/80 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 hover:border-zinc-300 dark:hover:border-zinc-700 transition-colors"
+                className="flex items-center justify-between gap-3 rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-sm hover:shadow-md transition-shadow dark:shadow-none px-4 py-3"
               >
                 <div className="flex items-center gap-3 min-w-0">
                   <span className={`text-[11px] font-bold w-6 h-6 flex items-center justify-center rounded-md shrink-0 tabular-nums ${rankBadgeStyle(e.rank)}`}>
@@ -122,7 +122,7 @@ export default async function KeywordPage({ params }: Props) {
               <h2 className="text-sm font-bold tracking-tight text-zinc-900 dark:text-zinc-100">관련 뉴스</h2>
               <div className="flex-1 h-px bg-zinc-200 dark:bg-zinc-800" />
             </div>
-            <div className="rounded-xl border border-zinc-200/80 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 flex flex-col gap-3">
+            <div className="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-sm dark:shadow-none px-4 py-3 flex flex-col gap-3">
               {articles.map((article, idx) => (
                 <a
                   key={article.link}
