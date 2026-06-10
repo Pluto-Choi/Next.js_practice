@@ -166,10 +166,12 @@ function CategorySection({
   category,
   categoryData,
   rankChanges,
+  showAllLink,
 }: {
   category: string;
   categoryData: CategoryData;
   rankChanges?: RankChanges;
+  showAllLink?: boolean;
 }) {
   const slug = categorySlug[category];
   return (
@@ -185,6 +187,14 @@ function CategorySection({
           />
         ))}
       </div>
+      {showAllLink && slug && (
+        <Link
+          href={`/category/${slug}`}
+          className="mt-3 inline-flex items-center gap-1 text-xs font-medium text-zinc-500 dark:text-zinc-400 hover:text-zinc-700 dark:hover:text-zinc-200 transition-colors"
+        >
+          {categoryLabel[category] || category} 전체 보기 →
+        </Link>
+      )}
     </section>
   );
 }
@@ -240,9 +250,11 @@ function RisingHero({
 export default function KeywordDisplay({
   data,
   rankChanges,
+  showCategoryLinks,
 }: {
   data: KeywordsData;
   rankChanges?: RankChanges;
+  showCategoryLinks?: boolean;
 }) {
   const entries = Object.entries(data.categories);
 
@@ -291,6 +303,7 @@ export default function KeywordDisplay({
             category={category}
             categoryData={categoryData}
             rankChanges={rankChanges}
+            showAllLink={showCategoryLinks}
           />
         ))}
       </div>
