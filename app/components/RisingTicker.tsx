@@ -33,7 +33,7 @@ export default function RisingTicker({ items }: { items: TickerItem[] }) {
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
     const id = setInterval(() => {
       if (!pausedRef.current) go(1);
-    }, 3000);
+    }, 4500);
     return () => clearInterval(id);
   }, [canScroll, go]);
 
