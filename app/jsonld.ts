@@ -2,7 +2,10 @@ import type { KeywordsData } from "./components/KeywordDisplay";
 import { SITE_URL as SITE } from "./site";
 
 export function buildJsonLd(data: KeywordsData) {
-  const itemLists = Object.entries(data.categories).map(([category, cat]) => ({
+  const itemLists = Object.entries(data.categories)
+    // 빈 카테고리(예: 스포츠 미수집일)는 "TOP0" 빈 ItemList가 되어 SEO 노이즈가 되므로 제외.
+    .filter(([, cat]) => cat.keywords.length > 0)
+    .map(([category, cat]) => ({
     "@type": "ItemList",
     name: `${data.date} ${category} 키워드 TOP${cat.keywords.length}`,
     description: cat.summary || undefined,
