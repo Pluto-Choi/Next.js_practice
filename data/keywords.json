@@ -1,166 +1,144 @@
 {
   "date": "2026-06-10",
-  "updated_at": "2026-06-10 05:08",
+  "updated_at": "2026-06-10 12:38",
   "categories": {
     "오늘의 이슈": {
-      "summary": "장동혁, 투표용지 부족 관련 선관위 항의·선거 무효 주장 · 트럼프, 이란의 미 헬기 격추에 대응 경고 · 청소년 자살예방 범정부 대책 발표",
+      "summary": "미군-이란 헬기 격추 보복 공격 개시 · 6.3 지방선거 결과 분석과 투표용지 부족 수사 착수 · 카카오 노조 파업·거리행진 · 장동혁 부정선거 주장 지속 · 필리핀 규모 7.8 강진 피해 확산",
       "keywords": [
         {
           "rank": 1,
-          "word": "장동",
-          "count": 3,
+          "word": "이란",
+          "count": 2,
           "articles": [
             {
-              "title": "장동혁, 중앙선관위 항의 방문…\"투표용지 부족은 선거 무효 사유\"",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42ckRXZVVJQkN5MkhhajNuTGRIZ295dkVCUUJMcGYyb1lhd09EdlBHZWhJOFNNdGJJWEF1R0V4M01qbUFpSkdkZ2xKR1M4SWFxSlZv?oc=5",
-              "source": "네이트"
-            },
-            {
-              "title": "장동혁, 경남서 김경수 저격 \"민주당에선 전과 4범은 돼야 선거 나와\", 삼성 \"7087명 출근해야\"…노조 \"비조합원 먼저 배치\" 맞불 등",
-              "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOUY1N1JBMW5jTVpEaVdIVkZXQWg3c1RxT0xzSHR5VnhLdW10OG5pR3VYTlFobnRreExkM1pYdkplck5ZZjJzQllHUWdGTFQ2N3FSVU5LQkxqZkRhN1Q2TkN0WFFxTmZhUnRSTVR0S2pOY0k0cGNDWVE5ZnhCLTAwMW1vbW9VMUM2a0I4S1d6RXFvTlhrTTdqcC1UajVvQjUtSU9OaEtWQmQ5RTR0ckhTeHVOWE5RNlpzUEZtaGpDUUl0T3hEcG52cG5FTXU5OVpoVEdtRnZBcW12bGpvbUxxN3NBeVdfQ2REcHZNX1FsdnZiRHJtaGVnRkh1S2pPa2ZzV0dj0gGGAkFVX3lxTFB0dnFKWWhnSmpEZXZyOTZFaDhackszTXpYLUp2aG9EY1lkYTFZZDRnWjIwLUk3X0RUSjF1ajExYlJ5V1B1NzhsaWpsVTNiRDl1ODk3bndSU0hwcFFvLXc2eXQ2UkJZaVQzOHlhX1Z5WGRnc3lObWZGaGU2b1VlX2d2ZEdaazZrSkZaYnE5ZlRoZHJDOEx1UTJvWVQxMGZTNjY3dDNFOE5pRE9nLWU4cVZRUEdCcDFrQlVRMVpRR0JXTTJPMWFpLUhqeThvRDk5c0h1V1ktV2szU2dlUnFONjdscHhJMmNRRUFFVDRCRTNEcGJfSUFvdnhhYTVNZngwTFh0UFdJWEE?oc=5",
-              "source": "데일리안"
-            },
-            {
-              "title": "청와대 간 장동혁 “범죄자 이재명, 공소장 찢으면 무소불위 독재”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11Q0ZyMndaYzlub05lSURyV204U0hldzRZUXVnSWd1T0V1amZ3V0xySHNsTGNLX0RoY0tKeWZvSlpocUF6VGYwSWtwemNVZ3RaM05fN0ln?oc=5",
-              "source": "중앙일보"
-            }
-          ]
-        },
-        {
-          "rank": 2,
-          "word": "트럼프",
-          "count": 3,
-          "articles": [
-            {
-              "title": "트럼프 \"이란이 호르무즈 순찰하던 美헬기 격추…반드시 대응\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LNjllSEp1LWZBRUtzdEYwT0Y4RXd4V2JGUUZpMlBvNC1sR3lYSmdVaE95VThya2ZGWXBSTlVCZnkzMHpiemJxR05weWJHNFU?oc=5",
+              "title": "이란 \"미군 헬기 공격, 의도치않게 발생…고의성 없어\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiTy1xYzcxSjJlRVlsbFZoY1dRRXJSWmI3aXZiRkJYYlBkVmxwZG52TDBWQnRiZEpEQlJLbFJpU3dvNGxaUUJuWWdoUHhGbkU?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "트럼프 \"이란이 호르무즈 순찰 美 헬기 격추…반드시 대응\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kdlFfZWg2YnFZaFc1TnJVallQVElQOXA4MklIcEJYbnFyZi1XeWNXZWJPWEluUl93MVNRNDRDRF9TSlJKLWVOejU5RDYyYkRLRG5Gek9OdjM?oc=5",
-              "source": "뉴스1"
+              "title": "미군 “이란에 공격 개시”…‘헬기 격추’ 보복 나섰다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qdGVCNGl1aFdRemZRNTRGMldkTjRObUNVQU84cExwbWl2SGp1eDkxVnRrTTVJV2xidlBja3BYVjJlMG9FWElUTVliNjlZUUI2WnBoYzNn?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "트럼프 \"이란, 미 아파치헬기 격추...반드시 대응할 것\"",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53WTJ1RkRRRUUwckVVNTBySVFuOHloOV81WHF1YW90QURVWktWNk1qcXJIWjJQR3J2cDZMQ1ZfSGtWWmh5aXVLVi1qcmpwclRNXzdWVXgzbmtWTWRUcjc0RkRqX19KeUdxSGh2U2pUVQ?oc=5",
-              "source": "YTN"
+              "title": "미·이란, 아파치 헬기 추락으로 휴전 후 최고 수위 충돌",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12dlBsczVNSDJMOXg3QmgtTEhWMWxHdHdlLTV3Yk40ZnVKLUk1Z21UMVdWNWpkZWc2dEF4SUR1bzYtbWxGMl9LN3Vrelp6S1NMbzVUWVZUV2lONGJRT0toVHBpcXU3Q3llb0ZzWFhOMkVmbm1J0gF0QVVfeXFMUERacC14R1VvZXFLaFdZWkw2WHVJeFBzRGZ0cHkxZl91UWN4NGhOanA0Ylg2UUZVaEtJMTl3X3g4M2xpeFVDaU5GVGNWQ2NFVnh0ekhBZGY2YjZmMUJEcm5nRjRFOGJ2WWVxVm04Njd1SGFUMDQ?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "트럼프 대통령이 이란이 호르무즈 해협 순찰 중이던 미국 아파치 헬기를 격추했다며 '반드시 대응하겠다'고 밝혔다. 어제 5위에서 오늘 2위로 상승했다.",
-          "headline": "트럼프, 이란 미 헬기 격추에 대응 경고"
+          "description": "미군 아파치 헬기 추락을 둘러싸고 미국이 이란에 공격을 개시하며 휴전 이후 최고 수위의 군사 충돌이 발생했다. 이란은 고의성이 없었다는 입장이다.",
+          "headline": "미·이란, 헬기 격추 보복 충돌"
         },
         {
-          "rank": 3,
-          "word": "프로그램",
-          "count": 2,
+          "rank": 2,
+          "word": "6.3 지방선거",
+          "count": 1,
           "articles": [
+            {
+              "title": "6.3 지방선거 결과 보니…2030년 집권당은 국민의힘?",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mQ2hJbnJMVmxxb1hnMllBU2VHbzhtWk8zOGYyS0lEZFJWcEVGNzdlSVIzRVhzSFVnbmxGNC1LQ0VCU0hNemhsUUFFOGJjcFg2WUpZR21KSDdZbjVSbS1NZnZBWXJJUW5nMVVv?oc=5",
+              "source": "프레시안"
+            },
             {
               "title": "6.3 지방선거 투표용지 부족 사태 수사 검경 합동본부 설치. 전쟁기념관 해설 프로그램 논란",
               "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tdGhZYmF1YVBJdHJKRUl5Y2ZEMTFKbjlTVGt2RlN5QlBFN1N4Mkgwd1ZoLTYxVzFYR0xjaVBqMG1CU1RkM2JYbkpSLThfZnB30gFTQVVfeXFMTTVoUmFFMzItdTZ5dThrbFRtZ2EyX1hwZXYyTFdSQWRFaDljdEJqNkZMcE1ZZnN4V1A3NG0xQlp0ejliWmxkVW9idlY1ZVNkcGZ3Z0E?oc=5",
               "source": "VOA 한국어 홈페이지"
             },
             {
-              "title": "\"투표지 나를 사람 없었다\"…'선관위 관리부실' 내부 폭로",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tVWI0dEpTcWo0UmVrTFIxOUd0dWdHUnpvSkZFZGZoS2w1YkQ4R2xZM3RfS1o2TVF2WjRsNUV0YUJSc3dNNWJZUXRMZnVESF8zY3M0ZW1jcGF1bDRTMnhfOTBtQTdxeS1QZXVWOVZBUy1EWlhNNndYODFMSXI4V2s?oc=5",
-              "source": "TV조선뉴스"
-            },
-            {
-              "title": "투표용지 부족 사태 검경 합수본 구성…처벌 관건은 '고의성 입증'",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SV2J2VmRSRXdhemdJVWxpT1E2MzFlVDBfWjhVaVE5QnRUUzJkVDV2Ym9nRElFVHpBM3VmcHhvNDRqMGxkN2VTNHlBamcwajVxNGRwY1FEY21iVTN6OHF4c1IzRVNuWXBu?oc=5",
-              "source": "티제이비"
+              "title": "6.3 지방선거: 2026 전국동시지방선거 개표 결과 보기",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VVVBZQ2xFWEhjRlNDdnJ6Z2VnNzBpZmsybU5CMUlRWFpPQkg4aFY1ckx1NzVsVUlUaWhfYzVZYnlNYlBfbG5Fd0Zlc2c2ZzNNQl9qSW1UejRuUy1o0gFiQVVfeXFMTk8wSkp0dDlrSnVkdGx0ZUZQQnYxZUxCSjQzSDBzdE9YeEhwUGpUZzNLSVlrZ2YzS1QwTG42RUF6c1RBbU12UTZNcGxTSllsdVl0aHByWlBFRmxSMW9qTU1ZV2c?oc=5",
+              "source": "BBC"
             }
           ],
-          "description": "전쟁기념관 해설 프로그램이 논란이 되고 있으며, 6·3 지방선거 투표용지 부족 사태에 대해 검경 합동수사본부가 설치되는 등 선거 관리 문제가 함께 부각되고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "전쟁기념관 해설 프로그램 논란"
+          "description": "2026 전국동시지방선거 개표 결과가 나오면서 투표용지 부족 사태에 대한 검경 합동수사본부가 설치됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "6.3 지방선거 개표 결과 공개"
         },
         {
-          "rank": 4,
-          "word": "대책",
-          "count": 2,
+          "rank": 3,
+          "word": "카카오",
+          "count": 1,
           "articles": [
             {
-              "title": "청소년 자살 예방에 범정부 역량 결집…‘종합대책’ 발표",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBORnlwc2FLdTZ6bEJpS3hZY1ZxTGV3QzZFVDlJdEF6UzJ3dlhOeEFQVVVDSGxZOGwwVHd4Uzl4dklaeHpWaUdoZmhBbjdpaE00R2dkbDRoWEZmdnJRcWZrREhVcUZwUkQ0YWFZ?oc=5",
-              "source": "BBS불교방송"
+              "title": "네이버는 엔비디아·AMD, 카카오는 구글·오픈AI...두 기업의 같은 길, 다른 동맹",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PMlBMcE4tY0l1QVJOeE1tTU9qSjMtR0Z1ZkZlM0ZHcWt4RHk5MnlhLVVMS1BBcThWRmRRVWJXaXJ4MjQwU0RYWmh4NVdZRndXUGppQWVR?oc=5",
+              "source": "지디넷코리아"
             },
             {
-              "title": "교육부, ‘청소년 자살예방 범정부 대책’ 발표",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zVWFqWmMzRGc5MUp6UEdNU3Y2bm05eEFSX25oY1IxU3FHd1pSaVlGcTZaeWc1YTRQUXpuWGJMM0RZSDBCRGZJZ0p4ODQxemN0MUlRaWpCeDN5X2p0RGlxaU9udGEtd0J3TzdPOA?oc=5",
-              "source": "복지투데이"
-            },
-            {
-              "title": "정부, ‘이주노동자 인권침해 방지대책’ 시행…전담팀 구성",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rcjV5RXRGeGZ1eHEwa1F0UWFkVThpSkdXcGZqS3VaS1VNMEJINDNsclhLSmtnUzZ3WE9MVzc2V0k4SDlPWjdoZXYxT2NNZjVWZWxlX2hpcnB2OTg?oc=5",
-              "source": "경기일보"
-            }
-          ],
-          "description": "교육부가 청소년 자살 예방을 위한 범정부 종합대책을 발표하며 정부 역량을 결집하기로 했다. 이주노동자 인권침해 방지대책도 함께 시행에 들어갔다.",
-          "headline": "청소년 자살예방 범정부 종합대책 발표"
-        },
-        {
-          "rank": 5,
-          "word": "잠실",
-          "count": 2,
-          "articles": [
-            {
-              "title": "송파경찰서장 사의‥서울청 공안차장 '잠실 개표소' 현장 지휘",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zOFMtQkdoYmZvam11RTR5MnBpbVFVOFQ2LTI3b1MxOE0tQkx6eEtiSWpVaGthc2JkSjBacVVCX1Y1MWdSQ0dVU2hzaEl1VDNnRkcxT1hQWHNoa1ZhTjZzU1dKa3VuTVQzNVFfa0cwWTRHQjJrZjBR0gF3QVVfeXFMTmJDSFpjMUJiSFN1UG9BRlVOakt5LVVXeV9YaDNsVWprWkxiLUIzNUJaYVlzTW1LcnRHRTVlVC1BcnF0TlNkbmt1bk1NRTU0b25pTVVMUnZOc09IdGFLMTFpTm5jMEhEYjFuQkdxazdZVEMtc193WUU?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "송파경찰서장 사의…서울청 공안차장이 '잠실 시위' 관리",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtLTY2ZlR3S1ctTTlSMEFNOG9wMXJZdVNBaUtrZWRIMjJteWM1Umxid1U4TU1IT1htOVpIeDJENHBHMThGcXA4aTEyd3JGTm9PNkl5bXBuVy1YOTBrYkR0M3hDcWg?oc=5",
+              "title": "파업 돌입한 카카오 노조, 거리행진 시작…성과급 갈등 격화",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TMUxoc0htaExmRUtmS3RacHJWQmtkc09qZ3FDTUNtd1hLdHp5eGY2SFVXNUJ2RmlFei1sa1VmWFdZM0puempybktKd1owMHgxY20wLUxiWGdCdEY4N3Q5RXNLUl9MT1BT?oc=5",
               "source": "뉴스1"
             },
             {
-              "title": "‘잠실 참정권 집회’ 와중에 송파서장 사의...서울청 공공안전차장이 관리",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUZBU2lXNHJWcVZPNHJMY05sVVJiR0ZnZzZEZHZnQnQ1dE5UN3JXUlhHSnJMd2JwbXhUQTVodmlYWU12V0NMOUdaUmM5dDZQWmVWWXN6b21RR1B2RGt0ZEtKU0stRlppZVc3THZCTWpIeUt5VFVWaVg2anM5TUFjNWQwdUI3VVJieVNVNVRWS04?oc=5",
-              "source": "조선일보"
+              "title": "카카오페이, '삼성페이-지역사랑상품권' 첫 결제 페이백",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11R192cE56OUUzcTFWXzJvektGRzNLZ2ZrRlhNZnp2eEdQUzIwN0pHWGZGREhCaVhXRFpLanNBdmJ6V2R2OTNiV0RSaWVLZw?oc=5",
+              "source": "전자신문"
             }
           ],
-          "description": "잠실 개표소 인근에서 참정권 집회가 이어지는 가운데 송파경찰서장이 사의를 표명했고, 서울경찰청 공공안전차장이 현장 지휘를 맡았다. 오늘 처음 등장한 키워드다.",
-          "headline": "잠실 개표소 집회·송파서장 사의"
+          "description": "카카오 노조가 성과급 갈등을 이유로 파업에 돌입하고 거리행진을 시작했다. 오늘 처음 등장한 키워드다.",
+          "headline": "카카오 노조 파업·거리행진 돌입"
+        },
+        {
+          "rank": 4,
+          "word": "장동혁",
+          "count": 2,
+          "articles": [
+            {
+              "title": "장동혁, 결국 “부정선거” 팻말…사퇴 압박 속 “끝까지 싸울 것”",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oaGkxdE1WdDFMdG9tTkg3Mm91dnY1SERiVFVuakdmTlZmRVdtLXpWSGNlZUM5ekRvTGREdjdZakdKdlNKdk5MT3VsVFBUbUdZSS1HcWhMdi05b3FNQ3pYUGoxSXR0bWJVVWVDS2hCSnVkYnRU?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "장동혁 주장대로 재선거하면 오세훈 출마 불가능할 수도",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54NEhOdnZ1VGwxRlJyQllzZjJMblpMS2p0Z0NZaU51cEFRbHltbmdUUFdVZURVWXlzZEtTYUFfV3lxTEt4ZWpWX2d5T1R1Ylk?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "이준석, 장동혁 '5억9천만분의 1' 주장에 \"과학적 사고 포기했나\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yMHhFZWV5MUw0SGdKMmtVQWhXdTZVakFGbDFnaHU4bWxySERXOFpxLWpZNmg1NEc0WGYyNmxFZE1rQ3RodVhQVTA1by1IQUNXSkZlb1dVU0VQb0VORUllNXVEQlhpQ0RpX2twN01UdndZckpIMGJBUdIBeEFVX3lxTE9jMGZiT3RzUEJEWmVLNjRVOHhDSWtWbTVsd0NUUFJjTnA4XzZvTHkzQzE1d0Q2UHZEZmxlWFpaRUx2RmYxb0VpdmNMSjF0WEJDeGYtZTR1UFV3eHJybHdtb09uVTFQOUkyaHUwWEg3Q0dManV1R0JtWA?oc=5",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "description": "장동혁이 사퇴 압박 속에서도 '부정선거' 팻말을 들고 끝까지 싸우겠다고 밝혔다. 이준석은 그의 통계적 주장에 대해 '과학적 사고를 포기했다'고 비판했다.",
+          "headline": "장동혁, '부정선거' 주장 고수"
+        },
+        {
+          "rank": 5,
+          "word": "필리핀",
+          "count": 1,
+          "articles": [
+            {
+              "title": "필리핀 남부, 규모 7.8 지진으로 초토화…사망자 벌써 41명",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE01RllQZjdyaFA3dFQ4RVlPX01MZW9vaWpyeU1oX0VhZ2d1bldGSE1ESm1EMnZfYzBNMktqRXV4OUo1aGM3Y2c?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "이 대통령, '한인 살해' 필리핀 전직 경찰 검거에 \"국민 대상 범죄 끝까지 추적\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZY2NoZ1V0dUZWc2pVZnBTZnhHbWhtT1Jobk9jTzN3ZlRFMGV0eHRVUGhZNE0teng1c2dfeDNXZmNGSy1UZTVwM1pOSGtmNW5IdHI0SGZscG5odjlld1ZIaWtRNVNCMVVwalNLOF9WR3plOGZ1dGt3QtIBeEFVX3lxTFBtYzVDMWN6RV8xTm4zMW9TSGpBUkNjVGowWmNIM2xwSVBhOTBKMkJhNjB3Y1hUSDBkcDZGSU5ScmtSb3RGUUM4MDBIZF9kRzhINDl2cFRfUWFLMnVFYk4ySnM1SG9aVFVzVHBHUENmOG92U0lFSi1yMw?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "'HD현대중공업 건조' 필리핀 원해경비함 2번함 취역",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOdjZCcXB3Vy1qbldjbXJSTXRRdXA2dEgzclBGN2taRzQwYUJuSDQzWnFKQzVhVGZEY0lGZHozc2hhQWdPTV8zU1c5eG9jb3lXQlBFa3NLRzFTSDjSAWBBVV95cUxQZmdtYVg4TzVUSmNycDR2eFpQcGdMSGJqcXJfamNkdGpwVm4zay0zSnJIYl9MV3lSUm5vUGtmNUJRVVU2SzBVUzVsc1BIX3hMSGxYWkN1YXhSenFpckdjdEM?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "필리핀 남부에서 규모 7.8 지진이 발생해 사망자가 41명에 이르는 등 큰 피해가 나고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "필리핀 남부 규모 7.8 강진"
         }
       ]
     },
     "연예": {
-      "summary": "김윤설 사망 · 정경호·수영 14년 열애 결별 · 하트시그널5 불륜 의혹 · 이승환 윤서인 손배소",
+      "summary": "정경호·최수영 14년 열애 끝 결별 · 故송영규 유작 '참교육' · 김수현 1년 만에 활동 재개",
       "keywords": [
         {
           "rank": 1,
-          "word": "하트시그널5",
-          "count": 1,
-          "articles": [
-            {
-              "title": "'하트시그널5' 측, 출연자 불륜 의혹에 \"사실 여부 관계없이 신중 검토\"[전문]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yTGRheEVEV1R2QUxFbDd4bDF1MHNYWi1uU1RHTTVEbjAtZXZkS045RXVROGFTbmVKOE12VDBFOXVWRWlOOGtsUEtGSnNFT0E?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "시청률도 '0', 화제성도 '영'…'하트시그널5', 뭐가 문제일까",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jbjhVMUIxZ3Y4SzItUDRIcnc3cFFubEJXQWQ1V0NkT3RkWWItVkdlZ1NaMFktMTJ0bnpzMnk4bmFYUWo1anRSQVA3MUQyYWFkSEptUjhudFM2cmNC0gFXQVVfeXFMTzVzYXF2YzBoaDM4VENUeDNXRzdyTUFldGhnbFJaY3hsLTN5OWtQendkcm91VkRpalNuQjFDTXBFT1lkd25fVU1zb3F6a2FHYzFudi1QZWg4?oc=5",
-              "source": "더팩트"
-            },
-            {
-              "title": "원조 연프 '하트시그널5' 부진 속…도파민 충전 시킬 '모솔연애2' 돌아온다 [엑's 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zTTlWdk95ZUpBcG43YjhLbzRwYlZzZndTMTR4Rk1LakxqRkFPNWlIbHJqZXlwN24tY0c5UnFJOUJUdkU3amJrVzg3SlVvZmc?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "출연자 불륜 의혹에 제작진이 '사실 여부 관계없이 신중 검토'한다고 밝힌 가운데, 시청률과 화제성 모두 부진하며 원조 연애 프로그램의 입지가 흔들리고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "하트시그널5, 불륜 의혹에 시청률 부진"
-        },
-        {
-          "rank": 2,
           "word": "정경호",
           "count": 1,
           "articles": [
             {
-              "title": "수영 측 “‘14년 열애’ 정경호와 결별 맞다”",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoRThSbmpnS2UwWm15YzJtMkxyeUFoWVhoS0dUR3pSN1RBQUw1NVFmS05ORS1CTDBpZEd0ZWxyWVh2MjU1N01XdUg0WjQwX2F2V2gwSUZmaG84VVBaV1HSAWNBVV95cUxPQ1pzUEUteG1QSUxJUXFTSlhQaF9FQVdFLV9RWTBLTzQyYWtIUG9oTHc4RE9qNm5YWGxRWVZIMkJFS3U4ajRJaEl0am5GM2c3VkJyMFQ2NWJlQ016REZsNmhCeHM?oc=5",
-              "source": "스포츠경향"
+              "title": "정경호 \"수영에 감히 물어보지 못했다\" 결별 후 과거 발언 재조명 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Tb3pxNFZvV0NTbkIyb3pzZGRPcTUwSXdJU0I3U0ZzRE9BbTU4S2xlWWFBZl9kUGV5V0ZTejNqQVpaMXBUVnUwX3FaRjBDdWFacVVtNTJhN3Q3WUpmd1dzazJ3NUV3ZGE0c0dMRzBZSzkxbmvSAXhBVV95cUxNYkdaMXBxTldILUd5aVZ3VmRtZ2w5LUwzZmpIeFJwaGNVS19tdHU3WFF5aTRMeEFGNzhZeDFKREV1WDUwOUZ6MHNnQVdoYkZSQktyaktMNWwwc3NfRmFMeEVINEhod2dRUFZUMWNvU3huWkU4aVI4eUg?oc=5",
+              "source": "머니투데이"
             },
             {
               "title": "정경호·최수영, 14년 열애 끝 결별…“좋은 동료로 남기로”",
@@ -168,40 +146,16 @@
               "source": "중앙일보"
             },
             {
-              "title": "정경호, 최수영과 결별 인정한 날…이름 딴 반려견과 근황 '눈길' - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15T1pMLWpJUmd0UXMydjE1UG1pS0xhZXhpUjhOUkVvcTRjZ1hpU0ZtRXlKZVNLZDBxRGs4MDRVUUVwdXQzaGJNMGZ1eWJHSXR2X3lFSlAwWWtyX28xbHRVX0lGOWE3S3FLS1BJeUJTeUphY2_SAXhBVV95cUxQU3hrVy1VbTlzTlJIb0ZMYWU2SDdueEFNQzRWWTZnbG5udFlVdWNxbTEyYzhZb0lkaWxwZy14RGhZN2JEMUM3QnBDMDZ1ckZJN3dCWlhsRklLaHBSeFFSUXowUkpNd3NyZVVsZFFudHMySlhTckhNZDA?oc=5",
-              "source": "머니투데이"
+              "title": "정경호-수영 측이 결별 인정하며 밝힌 입장",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50a2lUbXBMTnNYVkpiZkFfMEM5UFczWmtUUjhPREpIMFh6MTRDLUFzQmFBV1RyY2xyTEk1LVFzMmhONndzNVc5ZnZaal93SFE?oc=5",
+              "source": "ELLE"
             }
           ],
-          "description": "정경호와 최수영이 14년간의 열애를 끝내고 결별했다. 수영 측은 '결별이 맞다'며 '좋은 동료로 남기로 했다'고 밝혔다.",
-          "headline": "정경호·최수영, 14년 열애 끝 결별"
+          "description": "정경호와 최수영이 14년간의 열애를 끝내고 결별했다. 양측은 '좋은 동료로 남기로 했다'고 밝혔으며, 과거 발언도 재조명되고 있다.",
+          "headline": "정경호·수영 14년 열애 끝 결별"
         },
         {
-          "rank": 3,
-          "word": "김윤설",
-          "count": 1,
-          "articles": [
-            {
-              "title": "‘싱어게인4’ 김윤설 사망, 향년 27세",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10bWRkbGlwak0tYTdqeHlKSUpvTlExUVBHYXFHS2ZHMTNTZEtRYV9Kc0tkaFp1dGdjRUtlY3NuNmFNWE81TzRiYjVFYjBSM2NyX2R1Wi1BMlZrNGFkRXfSAWNBVV95cUxQT3ZwVkxQTENqUlFMMEtqMkdxRWJPZmllcnBTSUpWTWd5SExHd004dmdwOEtfRzcxUUJoOXRHa1pfUGQ5bE1pV0ZqMUFyNU15Y3k3U0ExNzlKSDZhSFZQVkFDTVU?oc=5",
-              "source": "스포츠경향"
-            },
-            {
-              "title": "‘싱어게인4’ 가수 김윤설, 28세 나이로 사망",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRjJIZTA3LXlmek5RdHBmQTQ5TjkxdDU1ak93V3l3eTlMUXozLVVkNVJNQXpsN25kNk9vRWhIRzBQN18wX3NIRFpleXVCRUtBU2NYY3Fn?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "‘보이스 키즈’ ‘싱어게인4’ 출신 가수 김윤설 사망…향년 28세",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tUXEyZ1EyVGJJcERUVkFkSVdxRzJsUkR5UGVEX19aYjJWQlE1S1hnZEIyWGdWd0VnN0xoalFVLVRkajdSTFJsR19EMkRKRkZmY0pTeVpYZXpYZ9IBX0FVX3lxTE13R18xbTg2Vzk5WTc2Zk1SSm01MUw3MWdtUFotSkhtQlBQeU5UZjUxRkJGZlVKV2poMTlmT2h0ZlBTWU53eTE1VWc2Yk5zR280UXgzNnhHeUstZGd4M01B?oc=5",
-              "source": "경향신문"
-            }
-          ],
-          "description": "'싱어게인4'와 '보이스 키즈' 출신 가수 김윤설이 사망했다. 향년 27~28세로, 갑작스러운 비보에 팬들의 애도가 이어지고 있다.",
-          "headline": "김윤설 사망, 향년 27세"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "word": "참교육",
           "count": 2,
           "articles": [
@@ -211,167 +165,215 @@
               "source": "뉴시스"
             },
             {
-              "title": "넷플릭스 국내 1위 ‘참교육’···‘사이다’인데 씁쓸한 뒷맛",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwbnhUd0d3Z0tlZE1oSjcxQ3RqWnljLXFZendrSG5uMVhEOXQ4Q3IyLWg1VnBDT1huNzV3ODVsUWVJeVB5cmhlbnZIU2FKV21tVmY0S1RxMVl5d9IBX0FVX3lxTE1WblRfcjFDaWRlUWVfOEwtbVRSb3ZpWEpKZE5VSHlMRld4NzJienNObUdpTEVFeEVmNjA1WU9ROWg5R3ZIZ2NxNEVfWmVLeFJQb2U0S3AydktpSmtEbmJv?oc=5",
-              "source": "경향신문"
+              "title": "故 송영규, 강렬했던 마지막 열연…넷플 1위 '참교육'이 유작이었다 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZOWlvaFRDaWxXZERiZFRFb042OEpETDNRbFY4cm03WDV4MG43Zk9NR3lsc2NEaGJfNzRBOWx1TnhhY1RqZmxPOGdabnZoNmVaRG5uOV9UVmxCY2FWMmpZbzB2SjVienU4eTBfNWFDd1VSNFXSAXhBVV95cUxPYjFTd1I4bUVjbnFPQWdzejllSnZDc1lmemlKUDJlandzZFNxMTloYmhUdkxFSkpjeVAwWmMtTVdrZDQ3YWloRDVpcjlCVjA4bUFFSW1XUnBfdld0S056TEVWNFg5TDYybnU4aDdOUVUzR3hJZ2JBSHA?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "드라마 '참교육' 열풍…무너진 교권에 교사들은 \"사이다\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Bd0hWbHFQNW85V0liS2pDTG9IWFZ0UHhNR1RpTS1DbDlJeUI4SWFmeGkwSk43WG04dHVkR2JPMlpyaDhSSVZobThSb01RVms?oc=5",
+              "title": "故 송영규, ‘참교육’으로 남긴 마지막 열연",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Hd3EzUVFaelVzUGFqYXJJcnhfQ3AzX0FEUXpfU3EtWGVKOVg1XzZhWHF0TFo2NkZzWkk5cF9JWUJNN0ZIaWtDb2J5RHBHZmg1cWl1UGRrdFk?oc=5",
+              "source": "매일경제"
+            }
+          ],
+          "description": "넷플릭스 1위를 기록 중인 '참교육'이 지난해 별세한 배우 故송영규의 유작으로 남게 되면서, 그의 마지막 열연에 주목이 쏠리고 있다.",
+          "headline": "故송영규, '참교육'이 유작으로"
+        },
+        {
+          "rank": 3,
+          "word": "하트시그널5",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"불륜 중 연애 프로그램 참가\"…'하트시그널5' 입장 밝혀 [공식]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wNVpRZ2FpTzY2OG1UY1JpZ3pEaG9CbnFtZmE3Nl83cjlBN010ejNxd01NWG5ETi0tTkJaajdvYU01ajhLQlJ1ajJsY2VCZUU1VXN2R01CaGNpQdIBVEFVX3lxTE11ZENKVzF0bnplY3FsUE5pa2hzS1NDei1xbEdEYUdITUlwaVVnLUFVQW5OcEJCNmVJdXY1Y1V6QWNUX0Q0TkVxMEtIRE04M0s0Mms5Tg?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "'하트시그널5' 박유열♥강유경 현커 모드에 견제...몇부작?",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UNWw2N1BHREh1UlNBUXJ4NjJIOWIzV21JSU9uRTdkcUkwcVVfQ0NwZ3phN0lseVFpbWlmdWdtaE5sak5jX2R2TWw1YV91d2ppeTFhX3FmNThvWDhCNk5iOGt0Rk1IbUpCZjVVY1FR?oc=5",
+              "source": "gukjenews.com"
+            },
+            {
+              "title": "이상민, 연애촉 폭발 “유경과 우열이 사이에 어떤 문제가 일어날 것”(‘하트시그널5’)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOSklXTTlsZlRucXY0eFdfWXBoUGtRblE5a1pMOUZKQlhMMzgzVTZmVVNYMDdOY0tqemR0V1FIa2VSRHhqQU1OcUtDUlhEc0U?oc=5",
               "source": "v.daum.net"
             }
           ],
-          "description": "넷플릭스 드라마 '참교육'이 국내 1위를 기록하며 열풍을 일으키고 있다. 무너진 교권을 다룬 사이다 전개에 교사들의 호응이 이어지는 한편, 故송영규의 유작으로도 주목받고 있다.",
-          "headline": "참교육, 넷플릭스 1위·교권 논의 촉발"
+          "description": "출연자의 '불륜 중 프로그램 참가' 의혹에 제작진이 공식 입장을 밝혔고, 박유열·강유경의 현커 모드도 화제다. 오늘 처음 등장한 키워드다.",
+          "headline": "하트시그널5 불륜 논란·현커 화제"
         },
         {
-          "rank": 5,
-          "word": "이승환",
+          "rank": 4,
+          "word": "고소영",
           "count": 1,
           "articles": [
             {
-              "title": "“이혼이나 당하고” 발언에…이승환, 윤서인에 5000만원 손배소",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeG8xRUMzQ1c1SXlUdzNiWU1rRFJoenVFT1Q4b2cwZ21Jb0M3Y2xDM1Q4Z2hINDY4QTIyRXBSbk95dkpEWi13QVpxd2RWUE8yZHBWTnNn?oc=5",
-              "source": "중앙일보"
+              "title": "장동건♥고소영, 하와이서 경악…“식당 팁만 32만원”",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVSGpMOGlCSUZqMUxyUVoycUE5MEhlVTdzRzkweVRlYkMwblNBc0NvSEVoZm9jY0hsbXRHTlU3QUFWLUM0S1JnRjZyNl96VTBnTE9XTGhHbHd3WTIyWUc4OUNiNG5odUZDZkxJVkZR?oc=5",
+              "source": "스포츠동아"
             },
             {
-              "title": "“이혼이나 당하고 정치 망상” 글에…이승환, 윤서인에 5000만원 손배소",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jeGpacU9ZZkpBVEdfSjJYTVJjTUFEM0JfM0hsTzhjVHEtLURFZ05SU0xxWE5tRm5YbTIweTFFTGdZeUY2UGNQYm5DTldUR2VodFRGcWlfeEgtSVlPWWF6MDVacWg0SVM2aWF5S1VHZUJoOXl3V0HSAWZBVV95cUxPTkdYY1hyOFNVRjlYSWRFM3VWTUJ0N2VzYVIwUDR6dEZPSkhjamQ0TkJHUVEzcUhIdkJJaXlqdVNzTW56OXN0WU84bFo0c3VrWVhDQnVGd0tYVjBRdWxsQ0hOclUyaHc?oc=5",
-              "source": "동아일보"
+              "title": "효민x고소영 백화점 쇼핑으로 뭉쳤다..의외의 조합",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qSGM3ZXM3ZFRmNVZYVHp3bURlSnRpQmZ1YXdnVTVOdThoaUtqRDFudHc0ei1iTnBrLWcyT21mdm9IQ0FSeVVVQmJveGhPYU0?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "이승환, 윤서인에 5천만 원 소송 제기…\"표현의 자유 넘어선 모욕\"",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NRklUQXNaTVoyVE1oWW1Rdk9MYkxyWDdSdmdNSi05OXRjUVBUZW5qRTRvRkU1TGRpN1pHWjc4REtfTmp5TmNlSklLZ2NGeG5Sa0tjbVROaUhqX000aFo5NlB4RTFWMlR1TVE?oc=5",
-              "source": "SBS 뉴스"
+              "title": "효민 \"행복했던 데이트\" 고소영과 다정한 데이트 근황",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14dmhkbmU2TW4zNVZQbVhnS0xjQjc0djl6XzdoUlJnN3k4S2xCOG1rdjlaVjlITzRiY3VQc01kVVBiZlBHLTNwNGh5NHhZb0RjWHF1XzZhc3h4RmJJVldweNIBeEFVX3lxTE1DdnIxS2lrbUp4UVFJajBpY3FFMkFocXY4UWczeTcxalI5c3dKWWx4M2RyOXlPNmVfRTgzZHZoWUdjRXNXTnR4R1paQTd1UXlWZ01hR1ZJbl9GS2Zsb2MyMHYxbkxuSjhpN0JyOWdxVHhRTUE2TWlZMg?oc=5",
+              "source": "뉴시스"
             }
           ],
-          "description": "이승환이 '이혼이나 당하고 정치 망상'이라는 발언을 한 만화가 윤서인을 상대로 5000만원 손해배상 소송을 제기했다. '표현의 자유를 넘어선 모욕'이라는 입장이다.",
-          "headline": "이승환, 윤서인에 5000만원 손배소"
+          "description": "장동건·고소영 부부의 하와이 여행 근황과 효민과의 백화점 쇼핑 데이트가 화제다. 오늘 처음 등장한 키워드다.",
+          "headline": "고소영, 하와이 일상·효민과 데이트"
+        },
+        {
+          "rank": 5,
+          "word": "김수현",
+          "count": 1,
+          "articles": [
+            {
+              "title": "김수현, 1년 만에 활동 재개…7월 패션 브랜드 광고 촬영",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LTm5BT1dOYTBDeWp1dHQ2dVJtSWhZV3g5dm5pWlhkSjQtUl9RZ1BvN3dWNlFTNmQ2T3RSeTJQc3pyUzE5eWoxZGhKc3UwTW55R2pqM0l6MFRkY1BhVUpRbHY5eFA?oc=5",
+              "source": "뉴스1"
+            },
+            {
+              "title": "김수현, 복귀한다…“필리핀 브랜드 광고 촬영”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XZW95aDQ0ZFZRZ1R0MUJPU3Y5MEJLSUVnUU85WlRnNWI0X1ctLWM4UWtHaWo3R0NBTDUzN292dUl2azFxWGZzM2pWa0J3QkxLZGlVTVZ4XzV3V0tOMXfSAWNBVV95cUxPS29LWjduY01tamd1RXZqWnVaeFo0dHNGc2tmU2UwZzI2WWFpVmpGRTQyczE1X1lMUzdxQUNIUzlRNUxxU2pPQmFpMGRQYVpfWFMyTURMSk1XOW43QlhSTHZ0RVE?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "김수현, 39억 손배소 변론 재개..5분만 종료 \"쟁점 정리 필요\" [스타현장]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ybTBhRXh2MnhqeldDTTJQN2k5Z2pxSUt3azNycVFsMDBRaUV0OGYwdTVEUXBid1lyT1Nrcl9xcnZpdGFlUVpOZ1djRXhQcVE?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "김수현이 약 1년 만에 활동을 재개하며 7월 필리핀 패션 브랜드 광고 촬영에 나선다. 한편 39억 원 손해배상 소송 변론도 재개됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "김수현 1년 만에 활동 재개"
         }
       ]
     },
     "경제": {
-      "summary": "코스피 급락으로 개인 보유 주식 3천억 원 강제처분 · 삼성전자·하이닉스 호남 반도체 공장 설립 추진 · 젠슨 황·정의선 회동",
+      "summary": "삼성전자·SK하이닉스 호남·충청권 반도체 신규 투자 검토 · 뉴욕·코스피 급락에 빚투 재확대",
       "keywords": [
         {
           "rank": 1,
-          "word": "코스피",
-          "count": 4,
+          "word": "반도체",
+          "count": 5,
           "articles": [
             {
-              "title": "코스피 급락 이틀간 개인 보유 3천억원 주식 '강제처분'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TaXB5Yl9BbTNpbFMxVHZFbkM5dDVvaVVZRHVXMDZaeFJ6X2ZZbUFDN3p5Q0F4WThsRzVLeGFPdmkyRmd2V1p5bWM1b203Yzg?oc=5",
+              "title": "삼전, 광주에 반도체 공장 추진… SK하닉도 전남 투자 검토",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96dWxleU9CWXdQanFZT0wxWml3MWhCRDlfQUJUTkJuQ25ZZmxwbGxfY1dyb0tsM2tGTG5BUWJ1b0UzVF9QUDYyZXAxZk9QeWhOUUx0ZjdJcGdSemRuV2tZcnlwTUVIcDc2R3lKdERBdkZJRHZjd0HSAWZBVV95cUxPek83SmRNS1kxUFRsWWh3X3pwUkVlb1FzRWtJd3pKRkJtWGtiMEV1WWUxdktQS1JnWmw2RW91OWVJMXhHOUZzTUZxVjUyMTNuM3BQNlRkYk1zRkMtemhrXzdXWkd3WHc?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "삼성전자·SK하이닉스, 호남·충청권에 반도체 신규 투자안 검토 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1hmeVQ3SWFmS3NQbWcwbVRPMmg1ajdCRE5lZG5qUjhZODEwWEV3VnZVblNRWm1wNWtvQS1GTkdjdHQ4YWRBVHg5Z2dCSjd0VndNNk9vYlNJdWUyU3FtcVBCQmFIS3Y3dzRKb3NGaTRaWE5Gd292ckpYOTRiaVg4Xy1B0gGWAUFVX3lxTFBOcUd4b2hGOG5FMTltTUNDaV9nQUFsQlphVE9nSXpzZ20xZ0J3Z29SeGdiR3hnTU42cnFOTkduRy1RdEdqOVhUTUZLYVduNWlRQ3VXU1RDNGRTYUdKZUVrRnJ6TDRwRmpNQjdoUHFnN3JNYzhIdXJjRW40OXNVRkJ4SVNaN095bENfR1BWRHBXbWhXS3MtZw?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "정부 '균형발전론'에…삼성·SK, 호남권에 반도체 시설 투자 검토",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zYXVzSHo2SVlLZTN0LU83QV9iZ21uTG4xSHh0b0xPRVFzY1VBcWNoOHk4aFhFbkl4a0pDN3gwRm5vSkhmVEl6cU1Ud0NoQVk?oc=5",
               "source": "v.daum.net"
-            },
-            {
-              "title": "코스피 급락 이틀 동안 개인보유 주식 3천억 원 '강제처분'",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtYTlPc1hQYk9ISU0wN3VkenhhR3Vub2NXbnVraGFQWE16eklFSFVsQ3o4bmVuT0d6V1p4VUgtbmtDZ1M3UnZkNUtwdlRqcHZoaGRMYnF0QklhMG1lUVhlZFctRWE1ekNUeHJYcHZ3dlpSVjI50gF0QVVfeXFMTkg5dndTMk1hQjZ5bWpzY3FURmxvSTUxYzdkbjQzdUg2NWx0ajV5WmR5Yk1oT2NVUlNROEItY1hBYzB5UVdOanY3aE5GOGdtLWJfWDI2QjVld3dxbFFpZmt3bDNMbkpQY3dGdTBNQXJjdVFOcVQ?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "롤러코스피에 빚투 공포… 반대매매 이틀간 3053억 청산 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xYms3UnVmWGRrNDdhYm9icjFJNTlVLUVESU9XVGpwUWtsMW9jZUt2ajAzUmU5UTNWQV9Bc2p0RXFqVkdoODNQeDlKZi1XclFiVVZYeHpMWkRVTWFYalBHLWhsTlZMRUhD0gFuQVVfeXFMTXVOUmV3aEhYUWZRRUgzSHo4eTVxNG15UnkzS25laU9tRnpFWXlySjhWRHhkWDk1eE5QWkl6REl4WUk5bnpOTnpHTUxaOHcxSkZocWpDcmVoRzJkTURyb2ptVy1GMVRZTE1HZHJQLUE?oc=5",
-              "source": "머니투데이"
             }
           ],
-          "description": "코스피 급락으로 이틀간 개인 보유 주식 약 3,053억 원이 반대매매로 강제 처분됐다. 빚투(신용거래) 투자자들의 공포가 확산되고 있다. 어제 3위에서 오늘 1위로 올라섰다.",
-          "headline": "코스피 급락, 반대매매 3천억 청산"
+          "description": "삼성전자가 광주에 반도체 공장 설립을 추진하고, SK하이닉스도 전남 투자를 검토 중이다. 정부의 균형발전 기조에 따라 호남·충청권 신규 투자안이 논의되고 있다.",
+          "headline": "삼성·SK, 호남권 반도체 투자 검토"
         },
         {
           "rank": 2,
-          "word": "하이닉스",
+          "word": "하락",
           "count": 4,
           "articles": [
             {
-              "title": "삼성전자·하이닉스, 호남에 첫 반도체 공장 설립 추진",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yNkRlTXcxN2s1bWRkamx5THdUTGJFendzRzAwTmdCbHlqbGJqUmJOYzFPb2hJcnE5U2tQWGhROUJSVm9VcEVUdVQtUXFyLTJNa0hNcGtXdFdLWm1HLUp3UjNZbk1xS3RxNmc?oc=5",
-              "source": "한겨레"
+              "title": "크게 출렁인 뉴욕 증시…나스닥 1% 하락",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDhKT0NWNlBwYXB4Q1c4TGtlUXNkZG9rYmN1TElFa1lCOXhHWEQtdjE0ZzZXZmFCYjcxNUN5S0lsWldfVmhWYkV1d3E2Q0Zoc3lrY01FaWp3UUMzd2VqX2xXb1JPa0xZcHZJeGlsUnZoTFozYUxFVG1sekVPZVd0SVItZFlMUW1kN3A5NUNyWHJoeEtYOUFNRFNUMHk4dw?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "당장 출근 돼요?...구직자 \"SK하이닉스라면\"",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nNjZoRjVBbzBaWWVxb3Zpdmp0ck1tWUVLZVM4VkE1bUF3M3h2VWhRTl9wbHpGZDF3QmNSc1J0dEFrMjZPa2ppRk5PX240MUZtQ0hHdUFB?oc=5",
+              "title": "美 고용 쇼크가 금리를 깨웠다…나스닥 폭락과 금값 하락의 진짜 이유",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTamtkb3N0eEZFd0FhOVZYSmhBS1NoaFd3ZHNjcHF1RXBtNWpsbE52d1RPYWVnUUJBalNZTHVsS0dDQUtHWS1hSFZEMHpYWk02ZHRxSzVR?oc=5",
               "source": "지디넷코리아"
             },
             {
-              "title": "'당장 출근하고 싶은 기업' 1·2위는 SK하이닉스·삼성전자",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sSmMwUzdVN2x1c2VwNnZROHF4aFR0cDczd1pzLWo1cl91LUZlZ1RfUU9ZNU16QTR5MUJBRHZSQTI4SzZQVUpmRGVhdFoyVGJma3VhYXlWS25IOGPSAWBBVV95cUxQOTNCallJYjlWZWpVX2E0TmxqYlVSYlU4b1N0Q1JKU3RqWThQaW1CTmFDQ1lWOEQ2UHZCSDk4OUtCSXFTNXJUTndpZE1OdHFwRmVwa0ZuRDV3OVo2N3NTMzE?oc=5",
-              "source": "연합뉴스"
+              "title": "반도체주 또 하락…'美헬기 추락'에 방향성 잃은 증시[뉴욕마감] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qbHlzSkxZUm5aVGl5LXV0cmUwYUhkTWZsUmpDeGRWVFBGdGRMX3hhWkZpQ1NrNEo2V0VsS01WX2tmZ096SnBENFhDVEU1X3drY0pBRU9LY2hYdFNCaWdCUEVmSzByb3J60gFuQVVfeXFMUFpqUW5yanFWb3lnY21kbkdqcGlRcExmLVh2d1ZLV1hjZGFwVkpyNk83SWpjaUNFSmpWa2NCRGRSSEkwXzhtZkQyLTRnNmZPSEJLOFNMUmhwa3BrMnlUOV9yZ2pHZjUxQUlWbk5HSGc?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "삼성전자와 SK하이닉스가 호남 지역에 첫 반도체 공장 설립을 추진하는 것으로 알려졌다. 한편 '당장 출근하고 싶은 기업' 조사에서 SK하이닉스가 1위를 차지했다.",
-          "headline": "삼성·하이닉스, 호남 반도체 공장 추진"
+          "description": "미국 고용 지표 충격과 헬기 추락 사건 등으로 뉴욕 증시가 출렁이며 나스닥이 1% 넘게 하락하고 반도체주도 약세를 보였다. 오늘 처음 등장한 키워드다.",
+          "headline": "나스닥 1% 하락·반도체주 부진"
         },
         {
           "rank": 3,
+          "word": "코스피",
+          "count": 3,
+          "articles": [
+            {
+              "title": "코스피 급락에 마통 6000억 늘었다…개미들 '빚투' 재시동",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yZTZtcXBuYmw3VlB3dWhWT0FsWU1XbnNaWC1ub0RSd2haU0VHSV91bS1ua3YtQVdYeDRJQ0VXZ3VBRnpaMmxrRERJVWYxSGJxaGJF?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "코스피 급락에 ‘마통 대출’ 이틀 만에 6000억원 증가 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHM3WkZZUHJrRHh4MEFVeFFNbnJiYVRNcE9Dc3JkYUpIY3lXT3VLRThydjRyd2RWaFZqdnpod01xT3RHSU5HaGtWWjYxdl9HV1VldUdERGRwUk1CWFFvSnA3Z3ozR0sxb0VqbTE1cTJKNjZHMzRMclFvRi1tLURLRERGTnYzMTNt0gGcAUFVX3lxTE1kZjdwcFozX1JicW02a1lUV19TVXowdHlRYWZzRHZkc1AwWkQyQWZXMUtBc0pHRlVFOTNuNDlwemJlQ2JhTkQyTzAzS3pTazRJODF4c1NCQ0xBUVREelVTV2RBcElWalVEWmJZTUVCMk9GWEYxTk1FUjA3cFVtaWdOS1lnQl9VRDlpNXM1SXljZmRCRG5mLW1uQ0RFQg?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "급락이 기회?…코스피 롤러코스터에 마통 잔액 이틀새 6000억↑",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXVnVPX2NWMXhZLWxVWHZLWVpvS3YtRzEtRFROOG1ibkswMnlQU3phaThJU1RTNE9hUmFMcG9TTndpWE1STWoyRnBPMjRMeXM?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "코스피 급락 국면에서 개인 투자자들의 마이너스통장 대출 잔액이 이틀 만에 6000억원 늘어나며 '빚투' 재시동 양상이다. 최근 2주간 꾸준히 상위권 키워드.",
+          "headline": "코스피 급락에 빚투 6000억 급증"
+        },
+        {
+          "rank": 4,
           "word": "젠슨",
           "count": 3,
           "articles": [
             {
-              "title": "젠슨 황·정의선 ‘평냉 회동’... 부부 깐부 모임이었다",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmR6bUNPemxkdldicVdiTk1YU2NIaUs1YTF1UEM2X0ZuX3J5cjRvdTVfeHp3YXB2UEVHTzdzb243eEdOZUVzNDJYc0tWbU5zRDhjbG5wVjItbjRDYzllbXAxSk9kTnh2V3hrUHBXWC1ZRjUyTUp5Mm5IdEc1N2RqbTAwMkhrWk9tY3lDaGNaQQ?oc=5",
-              "source": "조선일보"
+              "title": "“빅테크가 산타는 아니다”… 젠슨 황이 남긴 ‘선물’의 불편한 진실 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT2ZFWjBIb0tZRDkzX0x6YVJZTXIydDlsWFh3OUVhcE13R3NaOXV2SW9OWE5GdjVOY1BsXzFoaW1UR2JSNFJ6LUZZTXJNYzNCZ253SVUtZUNSMXpMVUxDU0pzT1dkek9Vak51LU9kUVZYV2Z0Q1FieTZ6N0VtWjRYTElB0gGWAUFVX3lxTFAtS3pTS2hNTnE1NzJjbVFOVmVZcEt1LU10WkIybzF2MHNnOXRpa29wazlCRFZRQ3htZHJaemNFZ1dyZ0tZSXZ3YjUwRkxxM2J6T2cwSF9Ra0owWDNYN1hnSTRBVlF0TkliR08xRTEyQWhEbFpsajB0eEhDanhvbEd6NUlaX2hFUV9rMExrRlZka3dOTnN0QQ?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "“韓 반도체 주식 과열…젠슨 황 투자 조언 삼가야” 전문가 경고",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mTGVVTTBuYzhmM1N1ODRPVktIQ05Md2NIZVJPeS12ZEhqRk1FRDYxT01QLUlTcW9kUlVMNC1iY0t5TEd3MUlPbFhCMW9wWmM?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "젠슨 황 \"주식시장 급락해도 기뻐해야…지금은 할인 가격\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiWVl0Nmc4NWpQLUZhUU5kdmhJbHdzdnBRelVFY3Q4XzhSVEJtcjFMTDByeXlidVpoeFUzVHFkWm5sV010bkJ0NlNjbXFUaTMxajVodlVfOVZrdEnSAWBBVV95cUxOMjBOeGJhUDhMZ2RRUVZLTHgtdDFnX3hON3FiT0J1OF82NEV6RUVmQVp5RlRIeHVTSXA1MVp5VW5sdGN5bE1WTFZIWUx2OWFBVWtpMWZmQUpob0VHVGkxamY?oc=5",
+              "title": "\"젠슨 황 자리 주세요\"…홍대 일대서 '성지 순례' 열풍",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4bUgyQ3Bvbi1OZmhGdTFYcEJoZElxU2hZMEw2NWh5M3lQQlp4a2FUd29UbzdIS2JtM2ZZSDlhQThxcjRxeFdoMWhTREtSVUc5d2EwZWk1M21FWmvSAWBBVV95cUxOaGtoYnQ1MjZ1czJvTW5fbXBMMUVpd3lwREp6NnBxcE4xazhFX2dCdkpaLTN2anNDdm5CeWRRWnAzdjlnUWJWRWVzOXVxVndUTDdjQkdSOG9TUktGdWRZQXg?oc=5",
               "source": "연합뉴스"
-            }
-          ],
-          "description": "엔비디아 CEO 젠슨 황이 현대차 정의선 회장과 평양냉면 회동을 가졌다. 젠슨 황은 \"주식시장 급락은 할인 가격\"이라고 발언해 화제를 모으고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "젠슨 황, 정의선과 평냉 회동"
-        },
-        {
-          "rank": 4,
-          "word": "반도체",
-          "count": 3,
-          "articles": [
-            {
-              "title": "삼전·닉스 “아는 바 없다” 선 그었지만···호남에 반도체 공장 설립 가능성 제기",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lWHZiZm5KblpoR2g0VE1zQi1VM0JiZEswY19KZHhkRG5QdGZCRjk5djBJTk51dUk5YVJmbWtLbzY2bnhCUE5jdGhVb205WlE?oc=5",
-              "source": "v.daum.net"
             },
             {
-              "title": "삼성전자, 광주에 반도체 공장 추진",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96dWxleU9CWXdQanFZT0wxWml3MWhCRDlfQUJUTkJuQ25ZZmxwbGxfY1dyb0tsM2tGTG5BUWJ1b0UzVF9QUDYyZXAxZk9QeWhOUUx0ZjdJcGdSemRuV2tZcnlwTUVIcDc2R3lKdERBdkZJRHZjd0E?oc=5",
+              "title": "“앗, 회장님 머리 위로 공이…맙소사” 젠슨 황이 밝힌 시구 비하인드",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQ19ndEFaNWZuUm8xMjhDdGNIdFZMUVhRNjkwWWVQY3RoVVdUSDgycG9ZRVNsTU9uMEItekZhenJheURtOWp0OElHRGR5N0lPMURRNGFiNllKSF95V0lWU21vWHpGMDlCUkcxbmlwWVd5MExzYWfSAWZBVV95cUxPUGVWakR3YjVWanpvbXBKdEZSLUdYa1RCYWhCRjVwMnBXaDFXbHNDOG41U0ctcEJrdDZEbk9GcGdlWjV0U1V3ZlR4NVFUY0plZHFtcV8xUHFaaXNNUUVLd1c4MnpIUkE?oc=5",
               "source": "동아일보"
-            },
-            {
-              "title": "호남에 ‘삼전·닉스’ 반도체 공장 들어서나…이달 말 정부 회의",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OOUZHUzNPc0dCYUVRR0tXdnhkcm42MVdUaXc0SFhGY1dyRTFnZHVCLU8wVHJ3R3lZb0R5SjdfYTBRbHBQT3NQQndEaXFEeDR5enFock8wdkItZ9IBX0FVX3lxTE16QkFvVmRiX2xmaGg4STJORDRIT25mbnBtUVV5aTg2LWd3WHZROF9ZQkkzZWdzd0ZVbG1yWUNEUEs1ZndlSXNhOXVTQ2hNM0R4WGRNcnFxUUQ1dlhCdDc4?oc=5",
-              "source": "경향신문"
             }
           ],
-          "description": "삼성전자·SK하이닉스의 호남 지역 반도체 공장 설립 가능성이 제기되며, 이달 말 정부 회의가 예정된 것으로 알려졌다. 양사는 '아는 바 없다'며 선을 그었다.",
-          "headline": "호남 반도체 공장 설립 논의"
+          "description": "엔비디아 젠슨 황 CEO의 방한이 화제로, 홍대 일대에서 그가 앉았던 자리 '성지 순례' 열풍이 이어지고, 시구 비하인드 에피소드와 빅테크 투자에 대한 분석 기사가 쏟아지고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "젠슨 황, 방한 화제 지속"
         },
         {
           "rank": 5,
-          "word": "자금",
+          "word": "증시",
           "count": 3,
           "articles": [
             {
-              "title": "스페이스X 상장 D-3···자금 블랙홀이냐, 코스피 ‘로켓’이냐",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqQl9pbXpNb1lqTXBzcVpickxUdzdpUHN4TVJhbkJ2R3ZfemtLUW4tU05QWDEzdURjZklWenctWHdzbnIzT2tMNC05Z3p5c1EzVmpOLUZjNGQ1UdIBX0FVX3lxTE1wWnVFZGExZW1qeGJwOGFyVlNIRk9pMk1PREdqM2hJWFExUVgxbjI4RVNNUEN6UlhOMkRJMm1QcWpRZFZTcUt3b3BtcTFEaTE4TkFHLTY0R0dpNlNjdjRv?oc=5",
-              "source": "경향신문"
+              "title": "뉴욕증시,반도체 반등 실패…삼전닉스 또?",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GOVdxMnlaMElxUDNWR09ONmVGU3Q4MzBBNmJ2WHl4aXZzRFl0NnF3TDBNX3BYRWMwbExmeEpqcUhpZVUteWp5SnFzaHdGUFh2?oc=5",
+              "source": "문화일보"
             },
             {
-              "title": "AI는 투자자금 블랙홀…투자자 몰리지만 금리 인상 역풍 맞나[오미주] - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zNjB1c3VoQ2ZpN1hTTVZaUDFvYUVwMTZqWnY3dElfbXBIQXdZWlVtREh6Wm1rUWpZMEJhZjQ0YVc2Q2JUdk9JVklnczdIRy1WODJxekxlSmxsSnZFWElwbDZXNUtCZ3BH0gFuQVVfeXFMTWpEeEtfMDQ3Zm5acDBRVUIzTm9mRTlJazE5SXlTWmJxUWs1VGRncDNPSDlwQmVNXzVoOWt0cl9za2FYdnc1d01YM2xGTFlnZmctbnBGcFQzMFMxeXAzMUJKeFdtRHkxemNpNTRBaXc?oc=5",
+              "title": "대신證, 유튜브 세미나 개최…하반기 증시 전망·변곡점 예측 등 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpeHpzWnVnbEJUZldvS3kyOEkyWGpyUEgwOE5KMXVQdkpTZWUxYTN6NnJSRDNiUERCREQtR1hCYnU1dC1hVWtPUHU0N2tpck5LcXdHTXVqRDB0a2k4VWkxOHdZV1FFVHRh0gFuQVVfeXFMTTFqSVRaaEpQZC1TNHpkVVhhcDNBWk0zdGtuNlFIM2Y1YzNzcjFlNVNLdmEyWUlnYV9kMGlQSnhYWjJyYk92U0ZtUVlDcE9UVlI1WjVYem5CbVFJTXVrWDFXMlRDbnRBWnlObE1MNXc?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "홈플러스 \"뼈 깎는 자구 노력…2000억 운영자금 확보 절실\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01d2MxRkp0QkFJMVF6QUFpYzdTbmYxTlNvM2dncWliRThWME9WMUotbkhXUnZkTy1KM2JJWWtWbW54c0pXejRKazNKNjJqeDBocDRlbzFGNkVxU1Z6RGdRZtIBeEFVX3lxTE5xX2ZKS2N2dkdQMVk0WUhjZXhPdWZXamJCVlBEQXBqTHpUaVZfQm1JZVVBdGNUYm5aUnBVZWVIQm9JeHFDYU5zZG9LSGRVYUdHVmpvMWJMSF9CbFd3azA4VkpkcEYyOFM4aXVYbHZSUkZXbDNYR0ZaUQ?oc=5",
-              "source": "뉴시스"
+              "title": "하루만에 '지옥과 천당'…극심한 널뛰기 증시, 공포지수 최고",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oZWVJMTNvX2VpRDJNMDJQVERiXzhoMVMzOVJQRWZzYUNBWENTaVZ5RFl6d0JIdURJaV9uWlZRTHl0Qm9LczVWYUpwMFVmM181Z2ZYV0hONk80Y2fSAWBBVV95cUxQVHlWT013UUMtR3hCREJtVlhCYVdDa0VlSEtRVU10d1hMQVoxaEd4d3Z2R2E4U0x0MnFWVDZNRzdXekJZOHQ5R0g1cjA4el83aXJ2T2R4aEhNUEtsalVSdmw?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "스페이스X 상장이 임박하며 대규모 자금 유출 우려가 제기되고, AI 분야에도 투자자금이 몰리면서 금리 인상 역풍 가능성이 거론된다. 오늘 처음 등장한 키워드다.",
-          "headline": "스페이스X 상장·AI 투자 자금 블랙홀 우려"
+          "description": "뉴욕 증시에서 반도체 반등이 실패하고, 국내 증시도 하루 만에 급락과 반등을 오가는 극심한 변동성을 보이며 공포지수가 최고 수준을 기록했다.",
+          "headline": "증시 극심한 널뛰기·공포지수 최고"
         }
       ]
     }
