@@ -7,6 +7,8 @@ import NotificationButton from "./components/NotificationButton";
 import ThemeToggle from "./components/ThemeToggle";
 import UpdatedAt from "./components/UpdatedAt";
 import KeywordSearch from "./components/KeywordSearch";
+import LeftSidebar from "./components/LeftSidebar";
+import RightSidebar from "./components/RightSidebar";
 import { jsonLdHtml } from "./jsonld";
 import { CATEGORIES, categoryLabel } from "./categories";
 import { loadCurrentData, getRecentDates, getRankChanges } from "./data";
@@ -61,7 +63,10 @@ export default async function Home() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(data) }}
       />
-      <main id="main-content" tabIndex={-1} className="max-w-lg lg:max-w-5xl mx-auto px-4 py-6">
+      <div className="mx-auto max-w-lg lg:max-w-7xl px-4 py-6 lg:grid lg:grid-cols-[200px_minmax(0,1fr)_280px] lg:gap-6 lg:items-start">
+        <LeftSidebar recentDates={recentDates} className="hidden lg:block lg:sticky lg:top-6" />
+
+        <main id="main-content" tabIndex={-1} className="min-w-0">
 
         <h1 className="sr-only">오늘의 뉴스 — {data.date} 핫이슈 · 연예 · 경제 키워드 TOP5</h1>
 
@@ -76,7 +81,7 @@ export default async function Home() {
         </div>
 
         {recentDates.length > 1 && (
-          <div className="relative mb-3">
+          <div className="relative mb-3 lg:hidden">
             <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-none" role="navigation" aria-label="날짜 선택">
               <span aria-current="page" className="px-3 py-2.5 rounded-full text-xs font-semibold bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 shrink-0">
                 오늘
@@ -95,7 +100,7 @@ export default async function Home() {
           </div>
         )}
 
-        <div className="flex gap-2 mb-5 justify-center flex-wrap" role="navigation" aria-label="카테고리별 보기">
+        <div className="flex gap-2 mb-5 justify-center flex-wrap lg:hidden" role="navigation" aria-label="카테고리별 보기">
           {CATEGORIES.map((c) => (
             <Link
               key={c.slug}
@@ -131,7 +136,10 @@ export default async function Home() {
         <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pb-4">
           6시간마다 자동 업데이트 · Google News RSS 기반
         </p>
-      </main>
+        </main>
+
+        <RightSidebar className="hidden lg:block lg:sticky lg:top-6" />
+      </div>
     </div>
   );
 }
