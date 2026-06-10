@@ -63,6 +63,15 @@ export default async function Home() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(data) }}
       />
+      <header className="mx-auto max-w-lg lg:max-w-7xl px-4 pt-5 pb-4 border-b border-zinc-200 dark:border-zinc-800">
+        <div className="relative flex items-center justify-center">
+          <Link href="/" aria-label="왓뉴스 홈" className="inline-flex">
+            <Logo />
+          </Link>
+          <ThemeToggle />
+        </div>
+      </header>
+
       <div className="mx-auto max-w-lg lg:max-w-7xl px-4 py-6 lg:grid lg:grid-cols-[200px_minmax(0,1fr)_280px] lg:gap-6 lg:items-start">
         <LeftSidebar recentDates={recentDates} className="hidden lg:block lg:sticky lg:top-6" />
 
@@ -70,15 +79,9 @@ export default async function Home() {
 
         <h1 className="sr-only">왓뉴스 — {data.date} 핫이슈 · 연예 · 경제 키워드 TOP5</h1>
 
-        <div className="relative mb-6 text-center">
-          <ThemeToggle />
-          <div className="flex justify-center mb-2">
-            <Logo />
-          </div>
-          <p className="text-xs text-zinc-500 dark:text-zinc-400">
-            <UpdatedAt updatedAt={data.updated_at} date={data.date} /> · Google News RSS
-          </p>
-        </div>
+        <p className="mb-6 text-center text-xs text-zinc-500 dark:text-zinc-400">
+          <UpdatedAt updatedAt={data.updated_at} date={data.date} /> · Google News RSS
+        </p>
 
         {recentDates.length > 1 && (
           <div className="relative mb-3 lg:hidden">
