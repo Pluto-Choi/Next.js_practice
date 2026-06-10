@@ -1,8 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import Logo from "../../components/Logo";
-import ThemeToggle from "../../components/ThemeToggle";
+import SiteHeader from "../../components/SiteHeader";
 import { getAllKeywords, getKeywordDetail } from "../../data";
 import { categoryEmoji, categoryLabel } from "../../categories";
 import { rankBadgeStyle, cleanTitle } from "../../lib/format";
@@ -38,14 +37,9 @@ export default async function KeywordPage({ params }: Props) {
 
   return (
     <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
+      <SiteHeader />
       <main id="main-content" tabIndex={-1} className="max-w-lg mx-auto px-4 py-6">
-        <div className="relative mb-8 text-center">
-          <ThemeToggle />
-          <div className="flex justify-center mb-2">
-            <Logo />
-          </div>
-          <p className="text-xs text-zinc-500 dark:text-zinc-400">📈 키워드 추이 · Google News RSS</p>
-        </div>
+        <p className="mb-6 text-center text-xs text-zinc-500 dark:text-zinc-400">📈 키워드 추이 · Google News RSS</p>
 
         <div className="flex gap-2 mb-6 justify-center flex-wrap" role="navigation" aria-label="이동">
           <Link

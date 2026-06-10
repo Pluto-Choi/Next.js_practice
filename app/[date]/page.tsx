@@ -2,8 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import KeywordDisplay from "../components/KeywordDisplay";
-import Logo from "../components/Logo";
-import ThemeToggle from "../components/ThemeToggle";
+import SiteHeader from "../components/SiteHeader";
 import UpdatedAt from "../components/UpdatedAt";
 import { jsonLdHtml } from "../jsonld";
 import { loadHistoryData, getRecentDates, getRankChanges, getAllDates } from "../data";
@@ -60,19 +59,14 @@ export default async function HistoryPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(data) }}
       />
+      <SiteHeader widthClass="max-w-lg lg:max-w-5xl" />
       <main id="main-content" tabIndex={-1} className="max-w-lg lg:max-w-5xl mx-auto px-4 py-6">
 
         <h1 className="sr-only">{date} 뉴스 키워드 — 핫이슈 · 연예 · 경제 TOP5</h1>
 
-        <div className="relative mb-6 text-center">
-          <ThemeToggle />
-          <div className="flex justify-center mb-2">
-            <Logo />
-          </div>
-          <p className="text-xs text-zinc-500 dark:text-zinc-400">
-            <UpdatedAt updatedAt={data.updated_at} date={data.date} /> · Google News RSS
-          </p>
-        </div>
+        <p className="mb-5 text-center text-xs text-zinc-500 dark:text-zinc-400">
+          <UpdatedAt updatedAt={data.updated_at} date={data.date} /> · Google News RSS
+        </p>
 
         {recentDates.length > 0 && (
           <div className="relative mb-5">

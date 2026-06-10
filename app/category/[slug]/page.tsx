@@ -2,8 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import KeywordDisplay, { type KeywordsData } from "../../components/KeywordDisplay";
-import Logo from "../../components/Logo";
-import ThemeToggle from "../../components/ThemeToggle";
+import SiteHeader from "../../components/SiteHeader";
 import { jsonLdHtml } from "../../jsonld";
 import { CATEGORIES, categoryBySlug, categoryLabel } from "../../categories";
 import { SITE_URL as SITE } from "../../site";
@@ -50,19 +49,14 @@ export default async function CategoryPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(single) }}
       />
+      <SiteHeader />
       <main id="main-content" tabIndex={-1} className="max-w-lg mx-auto px-4 py-6">
 
         <h1 className="sr-only">{cat.name} 뉴스 키워드 TOP5 — {data.date}</h1>
 
-        <div className="relative mb-6 text-center">
-          <ThemeToggle />
-          <div className="flex justify-center mb-2">
-            <Logo />
-          </div>
-          <p className="text-xs text-zinc-500 dark:text-zinc-400">
-            {data.date} · {cat.emoji} {categoryLabel[cat.name] || cat.name}
-          </p>
-        </div>
+        <p className="mb-5 text-center text-xs text-zinc-500 dark:text-zinc-400">
+          {data.date} · {cat.emoji} {categoryLabel[cat.name] || cat.name}
+        </p>
 
         <div className="flex gap-2 mb-6 justify-center flex-wrap" role="navigation" aria-label="카테고리 선택">
           <Link
