@@ -71,7 +71,7 @@ export default async function Home() {
         {recentDates.length > 1 && (
           <div className="relative mb-6">
             <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-none" role="navigation" aria-label="날짜 선택">
-              <span className="px-3 py-2.5 rounded-full text-xs font-semibold bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 shrink-0">
+              <span aria-current="page" className="px-3 py-2.5 rounded-full text-xs font-semibold bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 shrink-0">
                 오늘
               </span>
               {recentDates.slice(1).map((date) => (

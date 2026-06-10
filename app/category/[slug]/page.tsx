@@ -75,6 +75,7 @@ export default async function CategoryPage({ params }: Props) {
             <Link
               key={c.slug}
               href={`/category/${c.slug}`}
+              aria-current={c.slug === slug ? "page" : undefined}
               className={`px-3 py-2.5 rounded-full text-xs font-medium transition-colors ${
                 c.slug === slug
                   ? "bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 font-semibold"

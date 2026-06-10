@@ -87,6 +87,7 @@ export default async function HistoryPage({ params }: Props) {
                 <Link
                   key={d}
                   href={`/${d}`}
+                  aria-current={d === date ? "page" : undefined}
                   className={`px-3 py-2.5 rounded-full text-xs font-medium shrink-0 transition-colors ${
                     d === date
                       ? "bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 font-semibold"
