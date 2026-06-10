@@ -5,6 +5,7 @@ import { Analytics } from "@vercel/analytics/next";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import { SITE_URL } from "./site";
 import ScrollToTop from "./components/ScrollToTop";
+import MobileTabBar from "./components/MobileTabBar";
 
 const GA_ID = process.env.NEXT_PUBLIC_GA_ID ?? "G-KGFN3B01DW";
 
@@ -119,6 +120,9 @@ export default function RootLayout({
           본문 바로가기
         </a>
         {children}
+        {/* 하단 탭바에 콘텐츠가 가려지지 않도록 모바일에서만 여백 확보. */}
+        <div className="h-16 lg:hidden" aria-hidden="true" />
+        <MobileTabBar />
         <ScrollToTop />
         <SpeedInsights />
         <Analytics />

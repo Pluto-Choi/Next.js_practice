@@ -10,7 +10,6 @@ import KeywordSearch from "./components/KeywordSearch";
 import LeftSidebar from "./components/LeftSidebar";
 import RightSidebar from "./components/RightSidebar";
 import { jsonLdHtml } from "./jsonld";
-import { CATEGORIES, categoryLabel } from "./categories";
 import { loadCurrentData, getRecentDates, getRankChanges } from "./data";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -103,31 +102,9 @@ export default async function Home() {
           </div>
         )}
 
-        <div className="flex gap-2 mb-5 justify-center flex-wrap lg:hidden" role="navigation" aria-label="카테고리별 보기">
-          {CATEGORIES.map((c) => (
-            <Link
-              key={c.slug}
-              href={`/category/${c.slug}`}
-              className="px-3 py-2.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
-            >
-              {c.emoji} {categoryLabel[c.name] || c.name}
-            </Link>
-          ))}
-          <Link
-            href="/trends"
-            className="px-3 py-2.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
-          >
-            📊 트렌드
-          </Link>
-          <Link
-            href="/guide"
-            className="px-3 py-2.5 rounded-full text-xs font-semibold bg-orange-50 dark:bg-orange-950/40 border border-orange-200 dark:border-orange-800/60 text-orange-700 dark:text-orange-300 hover:border-orange-400 dark:hover:border-orange-600 transition-colors"
-          >
-            ❓ 이용 가이드
-          </Link>
+        <div id="search" className="scroll-mt-20">
+          <KeywordSearch keywords={searchKeywords} />
         </div>
-
-        <KeywordSearch keywords={searchKeywords} />
 
         <KeywordDisplay data={data} rankChanges={rankChanges} showCategoryLinks />
 
