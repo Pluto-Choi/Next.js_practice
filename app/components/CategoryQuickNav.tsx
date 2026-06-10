@@ -44,8 +44,8 @@ export default function CategoryQuickNav({ targets }: { targets: QuickTarget[] }
               aria-current={isActive ? "true" : undefined}
               className={`shrink-0 rounded-full border px-3 py-1.5 text-xs font-medium transition-colors ${
                 isActive
-                  ? "border-blue-500 bg-blue-50 text-blue-600 dark:border-blue-500 dark:bg-blue-950/50 dark:text-blue-400"
-                  : "border-zinc-200 bg-white text-zinc-600 hover:border-blue-400 hover:text-blue-600 dark:border-zinc-700 dark:bg-zinc-800 dark:text-zinc-300 dark:hover:border-blue-600 dark:hover:text-blue-400"
+                  ? "border-orange-500 bg-orange-50 text-orange-700 dark:border-orange-500 dark:bg-orange-950/50 dark:text-orange-400"
+                  : "border-zinc-200 bg-white text-zinc-600 hover:border-orange-400 hover:text-orange-700 dark:border-zinc-700 dark:bg-zinc-800 dark:text-zinc-300 dark:hover:border-orange-600 dark:hover:text-orange-400"
               }`}
             >
               {emoji} {label}

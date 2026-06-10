@@ -39,7 +39,7 @@ function RankChangeBadge({ change }: { change?: RankChange }) {
   if (!change || change.type === "same") return null;
   if (change.type === "new") {
     return (
-      <span className="text-[11px] font-semibold px-1.5 py-0.5 rounded bg-blue-50 text-blue-600 dark:bg-blue-950/50 dark:text-blue-400 shrink-0">
+      <span className="text-[11px] font-semibold px-1.5 py-0.5 rounded bg-orange-50 text-orange-700 dark:bg-orange-950/50 dark:text-orange-400 shrink-0">
         NEW
       </span>
     );
@@ -48,7 +48,7 @@ function RankChangeBadge({ change }: { change?: RankChange }) {
   return (
     <span
       className={`text-[11px] font-semibold tabular-nums shrink-0 ${
-        isUp ? "text-blue-600 dark:text-blue-400" : "text-zinc-400 dark:text-zinc-500"
+        isUp ? "text-orange-700 dark:text-orange-400" : "text-zinc-400 dark:text-zinc-500"
       }`}
       aria-label={isUp ? `${change.delta}계단 상승` : `${change.delta}계단 하락`}
     >
@@ -100,7 +100,7 @@ function KeywordCard({
 
       <div className="border-t border-zinc-100 dark:border-zinc-800 px-4 py-3.5 flex flex-col gap-3.5">
         {item.description && (
-          <div className="border-l-2 border-blue-300 dark:border-blue-800 pl-3">
+          <div className="border-l-2 border-orange-300 dark:border-orange-800 pl-3">
             <p className="text-[11px] font-semibold text-zinc-400 dark:text-zinc-500 mb-1 tracking-wide">AI 요약</p>
             <p className="text-zinc-700 dark:text-zinc-200 text-sm leading-relaxed break-keep">
               {item.description}
@@ -122,14 +122,14 @@ function KeywordCard({
           >
             <span className="text-zinc-400 dark:text-zinc-500 text-xs font-medium mt-0.5 shrink-0 w-3 tabular-nums">{idx + 1}</span>
             <div className="min-w-0 flex-1">
-              <p className="text-zinc-700 dark:text-zinc-200 text-sm leading-snug group-hover/link:text-blue-600 dark:group-hover/link:text-blue-400 group-hover/link:underline underline-offset-2 transition-colors break-keep">
+              <p className="text-zinc-700 dark:text-zinc-200 text-sm leading-snug group-hover/link:text-orange-700 dark:group-hover/link:text-orange-400 group-hover/link:underline underline-offset-2 transition-colors break-keep">
                 {cleanTitle(article.title)}
               </p>
               {article.source && (
                 <p className="text-zinc-400 dark:text-zinc-500 text-xs mt-0.5">{article.source}</p>
               )}
             </div>
-            <span className="text-zinc-300 dark:text-zinc-600 text-xs mt-0.5 shrink-0 group-hover/link:text-blue-600 dark:group-hover/link:text-blue-400 transition-colors" aria-hidden="true">↗</span>
+            <span className="text-zinc-300 dark:text-zinc-600 text-xs mt-0.5 shrink-0 group-hover/link:text-orange-700 dark:group-hover/link:text-orange-400 transition-colors" aria-hidden="true">↗</span>
           </a>
         ))}
         <Link
@@ -236,7 +236,7 @@ function RisingHero({
         <h2 className="text-base font-extrabold tracking-tight text-zinc-900 dark:text-white">
           급상승 키워드
         </h2>
-        <span className="text-[11px] font-semibold px-2 py-0.5 rounded-full bg-blue-50 text-blue-600 dark:bg-blue-950/50 dark:text-blue-400">
+        <span className="text-[11px] font-semibold px-2 py-0.5 rounded-full bg-orange-50 text-orange-700 dark:bg-orange-950/50 dark:text-orange-400">
           지금 뜨는 이슈
         </span>
         <div className="flex-1 h-px bg-zinc-200 dark:bg-zinc-800" />

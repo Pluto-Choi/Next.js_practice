@@ -29,7 +29,7 @@ export default function ShareButton({ topKeyword }: { topKeyword?: string }) {
     <div className="flex justify-center mt-5 mb-1">
       <button
         onClick={handleShare}
-        className="flex items-center gap-2 px-5 py-2.5 rounded-full bg-blue-50 dark:bg-blue-950/40 border border-blue-200 dark:border-blue-800/60 shadow-sm text-sm font-semibold text-blue-600 dark:text-blue-300 hover:border-blue-400 dark:hover:border-blue-600 transition-all active:scale-95"
+        className="flex items-center gap-2 px-5 py-2.5 rounded-full bg-orange-50 dark:bg-orange-950/40 border border-orange-200 dark:border-orange-800/60 shadow-sm text-sm font-semibold text-orange-700 dark:text-orange-300 hover:border-orange-400 dark:hover:border-orange-600 transition-all active:scale-95"
       >
         {state === 'done' ? (
           <>

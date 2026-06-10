@@ -67,7 +67,7 @@ export default function StreakTrends({
                 <span className="text-xs text-zinc-500 dark:text-zinc-400 shrink-0">
                   {categoryEmoji[s.category] ?? "📌"} {categoryLabel[s.category] ?? s.category}
                 </span>
-                <span className="text-xs font-bold text-blue-600 dark:text-blue-400 tabular-nums shrink-0">
+                <span className="text-xs font-bold text-orange-700 dark:text-orange-400 tabular-nums shrink-0">
                   {s.streak}일 연속
                 </span>
               </div>
@@ -75,7 +75,7 @@ export default function StreakTrends({
                 {md(s.start)} ~ {md(s.end)}
               </div>
               {s.ai_summary && (
-                <p className="mt-2.5 text-xs leading-relaxed text-zinc-600 dark:text-zinc-300 border-l-2 border-blue-300 dark:border-blue-800 pl-3 break-keep">
+                <p className="mt-2.5 text-xs leading-relaxed text-zinc-600 dark:text-zinc-300 border-l-2 border-orange-300 dark:border-orange-800 pl-3 break-keep">
                   {s.ai_summary}
                 </p>
               )}

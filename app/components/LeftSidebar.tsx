@@ -10,7 +10,7 @@ export default function LeftSidebar({
   className?: string;
 }) {
   const navLink =
-    "flex items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium text-zinc-600 dark:text-zinc-300 hover:bg-white dark:hover:bg-zinc-800 hover:text-blue-600 dark:hover:text-blue-400 transition-colors";
+    "flex items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium text-zinc-600 dark:text-zinc-300 hover:bg-white dark:hover:bg-zinc-800 hover:text-orange-700 dark:hover:text-orange-400 transition-colors";
   const sectionLabel =
     "px-1 mb-2 text-[11px] font-semibold uppercase tracking-wide text-zinc-400 dark:text-zinc-500";
 
@@ -62,7 +62,7 @@ export default function LeftSidebar({
           <p className="mt-1 text-xs leading-relaxed text-zinc-500 dark:text-zinc-400">
             매일 아침 핫이슈를 한눈에 받아보세요.
           </p>
-          <p className="mt-2.5 text-lg font-extrabold tabular-nums text-blue-600 dark:text-blue-400">
+          <p className="mt-2.5 text-lg font-extrabold tabular-nums text-orange-700 dark:text-orange-400">
             12,800
             <span className="ml-1 text-xs font-medium text-zinc-400 dark:text-zinc-500">구독</span>
           </p>

@@ -78,7 +78,7 @@ export default function RisingTicker({ items }: { items: TickerItem[] }) {
               key={`${it.word}-${i}`}
               href={`/keyword/${encodeURIComponent(it.word)}`}
               style={{ height: ROW }}
-              className="flex items-center px-4 sm:px-5 pr-10 text-sm sm:text-base font-semibold tracking-tight border-b border-zinc-100 dark:border-zinc-800/60 last:border-b-0 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+              className="flex items-center px-4 sm:px-5 pr-10 text-sm sm:text-base font-semibold tracking-tight border-b border-zinc-100 dark:border-zinc-800/60 last:border-b-0 hover:text-orange-700 dark:hover:text-orange-400 transition-colors"
             >
               <span className="truncate">{it.text}</span>
             </Link>

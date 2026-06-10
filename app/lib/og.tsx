@@ -84,7 +84,7 @@ export async function buildOgImage(data: KeywordsData) {
         {/* 급상승 (주인공) */}
         <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
           <span style={{ fontSize: 22 }}>🔥</span>
-          <span style={{ color: '#60a5fa', fontSize: 19, fontWeight: 700 }}>급상승</span>
+          <span style={{ color: '#fb923c', fontSize: 19, fontWeight: 700 }}>급상승</span>
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 14, flex: 1 }}>
           {issueKws.map((kw) => (

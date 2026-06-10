@@ -25,7 +25,7 @@ export default function KeywordSearch({ keywords }: { keywords: string[] }) {
         onChange={(e) => setQuery(e.target.value)}
         placeholder="키워드 검색 (예: 환율, 손흥민)"
         autoComplete="off"
-        className="w-full rounded-full border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-4 py-2.5 text-sm text-zinc-700 dark:text-zinc-200 placeholder:text-zinc-400 dark:placeholder:text-zinc-500 focus:outline-none focus:border-blue-400 dark:focus:border-blue-600 transition-colors"
+        className="w-full rounded-full border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-4 py-2.5 text-sm text-zinc-700 dark:text-zinc-200 placeholder:text-zinc-400 dark:placeholder:text-zinc-500 focus:outline-none focus:border-orange-400 dark:focus:border-orange-600 transition-colors"
       />
       {q && (
         <div className="absolute z-20 mt-2 w-full rounded-xl border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 shadow-lg overflow-hidden">
@@ -35,7 +35,7 @@ export default function KeywordSearch({ keywords }: { keywords: string[] }) {
                 key={w}
                 href={`/keyword/${encodeURIComponent(w)}`}
                 onClick={() => setQuery("")}
-                className="block px-4 py-2.5 text-sm text-zinc-700 dark:text-zinc-200 hover:bg-zinc-50 dark:hover:bg-zinc-800/60 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+                className="block px-4 py-2.5 text-sm text-zinc-700 dark:text-zinc-200 hover:bg-zinc-50 dark:hover:bg-zinc-800/60 hover:text-orange-700 dark:hover:text-orange-400 transition-colors"
               >
                 {w}
               </Link>
