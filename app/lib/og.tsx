@@ -35,17 +35,19 @@ export async function buildOgImage(data: KeywordsData) {
     color: rank === 1 ? '#713f12' : '#a1a1aa',
   })
 
-  const miniRow = (emoji: string, label: string, color: string, kw?: { headline?: string; word: string }) => (
-    <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-      <div style={{ display: 'flex', alignItems: 'center', gap: 6, width: 96 }}>
-        <span style={{ fontSize: 20 }}>{emoji}</span>
-        <span style={{ color, fontSize: 18, fontWeight: 700 }}>{label}</span>
+  // 키워드가 없는 카테고리(예: 스포츠 미수집일)는 빈 라벨 행이 남지 않게 통째로 생략한다.
+  const miniRow = (emoji: string, label: string, color: string, kw?: { headline?: string; word: string }) =>
+    kw ? (
+      <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 6, width: 96 }}>
+          <span style={{ fontSize: 20 }}>{emoji}</span>
+          <span style={{ color, fontSize: 18, fontWeight: 700 }}>{label}</span>
+        </div>
+        <span style={{ color: '#e4e4e7', fontSize: 24, fontWeight: 700, overflow: 'hidden' }}>
+          {text(kw)}
+        </span>
       </div>
-      <span style={{ color: '#e4e4e7', fontSize: 24, fontWeight: 700, overflow: 'hidden' }}>
-        {kw ? text(kw) : ''}
-      </span>
-    </div>
-  )
+    ) : null
 
   return new ImageResponse(
     (

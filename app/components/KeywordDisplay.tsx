@@ -152,6 +152,21 @@ function SectionHeader({ category }: { category: string }) {
   );
 }
 
+// 카테고리는 있으나 오늘 수집된 키워드가 0개일 때(예: 스포츠 토픽피드 비수집일)
+// 빈 화면 대신 안내를 보여준다.
+function EmptyCategory({ category }: { category?: string }) {
+  return (
+    <section className="rounded-xl border border-dashed border-zinc-200 dark:border-zinc-800 px-6 py-12 text-center">
+      <p className="text-sm font-medium text-zinc-500 dark:text-zinc-400">
+        {(category ? `${categoryLabel[category] || category} ` : "")}키워드를 준비 중이에요
+      </p>
+      <p className="mt-1.5 text-xs text-zinc-400 dark:text-zinc-500">
+        6시간마다 자동 업데이트 · 다음 수집에서 채워집니다
+      </p>
+    </section>
+  );
+}
+
 function Summary({ summary }: { summary: string }) {
   if (!summary) return null;
   return (
@@ -265,10 +280,13 @@ export default function KeywordDisplay({
   // 단일 카테고리(카테고리 페이지)는 풀폭 리스트로 렌더한다.
   if (entries.length <= 1) {
     const entry = entries[0];
+    const hasKeywords = !!entry && entry[1].keywords.length > 0;
     return (
       <>
-        {entry && (
-          <CategorySection category={entry[0]} categoryData={entry[1]} rankChanges={rankChanges} />
+        {hasKeywords ? (
+          <CategorySection category={entry![0]} categoryData={entry![1]} rankChanges={rankChanges} />
+        ) : (
+          <EmptyCategory category={entry?.[0]} />
         )}
         <ShareButton topKeyword={topKeyword} />
       </>
@@ -276,11 +294,13 @@ export default function KeywordDisplay({
   }
 
   // 홈·날짜별: 급상승 히어로 + 경제/연예/스포츠 반응형 그리드.
+  // 빈 카테고리(예: 스포츠 미수집일)는 덩그러니 헤더만 남지 않게 렌더에서 제외한다.
   const heroEntry = entries.find(([name]) => name === HERO_CATEGORY);
-  const topical = entries.filter(([name]) => name !== HERO_CATEGORY);
+  const topical = entries.filter(([name, c]) => name !== HERO_CATEGORY && c.keywords.length > 0);
 
   // 모바일 긴 스크롤에서 섹션으로 바로 점프하는 스티키 앵커(스크롤스파이).
   const jumpTargets = entries
+    .filter(([, c]) => c.keywords.length > 0)
     .map(([name]) => ({ slug: categorySlug[name], emoji: categoryEmoji[name] || "📌", label: categoryLabel[name] || name }))
     .filter((t) => t.slug);
 
@@ -288,7 +308,7 @@ export default function KeywordDisplay({
     <>
       {jumpTargets.length > 1 && <CategoryQuickNav targets={jumpTargets} />}
 
-      {heroEntry && (
+      {heroEntry && heroEntry[1].keywords.length > 0 && (
         <RisingHero category={heroEntry[0]} categoryData={heroEntry[1]} rankChanges={rankChanges} />
       )}
 
