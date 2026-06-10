@@ -7,7 +7,7 @@ export default function Error({
   reset: () => void
 }) {
   return (
-    <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 flex items-center justify-center px-4">
+    <div className="min-h-screen bg-zinc-100 dark:bg-zinc-950 flex items-center justify-center px-4">
       <div className="text-center">
         <p className="text-4xl mb-4">😵</p>
         <h2 className="text-lg font-bold text-zinc-900 dark:text-white mb-2">
