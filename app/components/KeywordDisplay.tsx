@@ -228,7 +228,6 @@ function RisingHero({
   const items = categoryData.keywords.map((k) => ({
     word: k.word,
     text: k.headline || k.word,
-    rank: k.rank,
   }));
   return (
     <section id={slug ? `sec-${slug}` : undefined} className="mb-10 scroll-mt-16">

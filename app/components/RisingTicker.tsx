@@ -1,83 +1,109 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useRef, useState } from "react";
-import { rankBadgeStyle } from "../lib/format";
+import { useCallback, useEffect, useRef, useState } from "react";
 
-export type TickerItem = { word: string; text: string; rank: number };
+export type TickerItem = { word: string; text: string };
 
-// 급상승 키워드를 한 줄씩 일정 시간마다 자동으로 넘기는 티커.
-// 키워드 문구(헤드라인)만 깔끔하게 노출하고, 호버/포커스 시 멈춘다.
+const VISIBLE = 3;
+const ROW = 48; // px. 한 줄 행 높이 — translateY 계산과 일치해야 한다.
+
+// 급상승 키워드를 한 번에 3줄씩 보여주고, 일정 시간마다 한 줄씩 위로 넘기는 세로 티커.
+// 앞뒤로 클론을 덧대 끊김 없이 순환한다. 호버/포커스 시 멈추고,
 // 동작 최소화 설정(prefers-reduced-motion)에선 자동 전환을 끈다.
 export default function RisingTicker({ items }: { items: TickerItem[] }) {
-  const [active, setActive] = useState(0);
+  const N = items.length;
+  const canScroll = N > VISIBLE;
+  const [idx, setIdx] = useState(VISIBLE);
+  const [anim, setAnim] = useState(true);
   const pausedRef = useRef(false);
 
+  // [마지막 VISIBLE개 클론][실제 0..N-1][처음 VISIBLE개 클론]
+  const list = canScroll
+    ? [...items.slice(N - VISIBLE), ...items, ...items.slice(0, VISIBLE)]
+    : items;
+
+  const go = useCallback((dir: 1 | -1) => {
+    setAnim(true);
+    setIdx((i) => i + dir);
+  }, []);
+
   useEffect(() => {
-    if (items.length <= 1) return;
+    if (!canScroll) return;
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
     const id = setInterval(() => {
-      if (!pausedRef.current) setActive((p) => (p + 1) % items.length);
-    }, 4000);
+      if (!pausedRef.current) go(1);
+    }, 3000);
     return () => clearInterval(id);
-  }, [items.length]);
+  }, [canScroll, go]);
 
-  if (items.length === 0) return null;
+  // 클론 구간으로 넘어가면 전환 직후 애니메이션 없이 실제 구간으로 되돌린다(끊김 없는 순환).
+  useEffect(() => {
+    if (!canScroll) return;
+    let t: ReturnType<typeof setTimeout> | undefined;
+    if (idx > VISIBLE + N - 1) {
+      t = setTimeout(() => { setAnim(false); setIdx(VISIBLE); }, 500);
+    } else if (idx < VISIBLE) {
+      t = setTimeout(() => { setAnim(false); setIdx(VISIBLE + N - 1); }, 500);
+    }
+    return () => { if (t) clearTimeout(t); };
+  }, [idx, N, canScroll]);
+
+  // 무전환 스냅 후 다음 프레임에 애니메이션을 다시 켠다.
+  useEffect(() => {
+    if (anim) return;
+    const r = requestAnimationFrame(() => setAnim(true));
+    return () => cancelAnimationFrame(r);
+  }, [anim]);
+
+  if (N === 0) return null;
 
   return (
     <div
-      className="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-sm dark:shadow-none"
+      className="relative rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-sm dark:shadow-none overflow-hidden"
       onMouseEnter={() => (pausedRef.current = true)}
       onMouseLeave={() => (pausedRef.current = false)}
       onFocusCapture={() => (pausedRef.current = true)}
       onBlurCapture={() => (pausedRef.current = false)}
     >
-      <div className="relative h-[88px] sm:h-20">
-        {items.map((it, idx) => (
-          <Link
-            key={it.word}
-            href={`/keyword/${encodeURIComponent(it.word)}`}
-            aria-hidden={idx !== active}
-            tabIndex={idx === active ? 0 : -1}
-            className={`absolute inset-0 flex items-center gap-3 px-4 sm:px-5 transition-opacity duration-500 ${
-              idx === active ? "opacity-100" : "opacity-0 pointer-events-none"
-            }`}
-          >
-            <span
-              className={`text-[11px] font-bold w-6 h-6 flex items-center justify-center rounded-md shrink-0 tabular-nums ${rankBadgeStyle(
-                it.rank
-              )}`}
+      <div className="overflow-hidden" style={{ height: VISIBLE * ROW }}>
+        <div
+          style={{
+            transform: `translateY(-${(canScroll ? idx : 0) * ROW}px)`,
+            transition: anim ? "transform 0.5s ease" : "none",
+          }}
+        >
+          {list.map((it, i) => (
+            <Link
+              key={`${it.word}-${i}`}
+              href={`/keyword/${encodeURIComponent(it.word)}`}
+              style={{ height: ROW }}
+              className="flex items-center px-4 sm:px-5 pr-10 text-sm sm:text-base font-semibold tracking-tight border-b border-zinc-100 dark:border-zinc-800/60 last:border-b-0 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
             >
-              {it.rank}
-            </span>
-            <span className="text-base sm:text-lg font-semibold leading-snug line-clamp-2 break-keep tracking-tight">
-              {it.text}
-            </span>
-          </Link>
-        ))}
+              <span className="truncate">{it.text}</span>
+            </Link>
+          ))}
+        </div>
       </div>
 
-      {items.length > 1 && (
-        <div
-          className="flex items-center justify-center gap-1.5 pb-3 pt-0.5"
-          role="tablist"
-          aria-label="급상승 키워드 선택"
-        >
-          {items.map((it, idx) => (
-            <button
-              key={it.word}
-              type="button"
-              role="tab"
-              aria-selected={idx === active}
-              aria-label={`${idx + 1}번째 급상승 키워드`}
-              onClick={() => setActive(idx)}
-              className={`h-1.5 rounded-full transition-all ${
-                idx === active
-                  ? "w-5 bg-blue-500"
-                  : "w-1.5 bg-zinc-300 dark:bg-zinc-600 hover:bg-zinc-400 dark:hover:bg-zinc-500"
-              }`}
-            />
-          ))}
+      {canScroll && (
+        <div className="absolute right-2 top-1/2 -translate-y-1/2 flex flex-col gap-1">
+          <button
+            type="button"
+            aria-label="이전 급상승 키워드"
+            onClick={() => go(-1)}
+            className="w-6 h-6 flex items-center justify-center rounded-md text-zinc-400 hover:text-zinc-700 dark:hover:text-zinc-200 hover:bg-zinc-100 dark:hover:bg-zinc-800 transition-colors text-xs"
+          >
+            ▴
+          </button>
+          <button
+            type="button"
+            aria-label="다음 급상승 키워드"
+            onClick={() => go(1)}
+            className="w-6 h-6 flex items-center justify-center rounded-md text-zinc-400 hover:text-zinc-700 dark:hover:text-zinc-200 hover:bg-zinc-100 dark:hover:bg-zinc-800 transition-colors text-xs"
+          >
+            ▾
+          </button>
         </div>
       )}
     </div>
