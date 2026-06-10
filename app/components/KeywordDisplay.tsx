@@ -2,6 +2,7 @@ import Link from "next/link";
 import AdFitBanner from "./AdFitBanner";
 import ShareButton from "./ShareButton";
 import CategoryQuickNav from "./CategoryQuickNav";
+import RisingTicker from "./RisingTicker";
 import type { RankChange, RankChanges } from "../data";
 import { categoryEmoji, categoryLabel, categorySlug, HERO_CATEGORY } from "../categories";
 import { rankBadgeStyle, cleanTitle } from "../lib/format";
@@ -214,24 +215,27 @@ function CategorySection({
   );
 }
 
-// 전체 통합 핫이슈 = "급상승" 히어로. 1위는 풀폭으로 강조, 2~5위는 데스크탑에서 2열.
+// 전체 통합 핫이슈 = "급상승 키워드" 히어로.
+// 키워드 문구만 한 줄씩 일정 시간마다 자동으로 넘기는 티커로 노출한다.
 function RisingHero({
   category,
   categoryData,
-  rankChanges,
 }: {
   category: string;
   categoryData: CategoryData;
-  rankChanges?: RankChanges;
 }) {
-  const [top, ...rest] = categoryData.keywords;
   const slug = categorySlug[category];
+  const items = categoryData.keywords.map((k) => ({
+    word: k.word,
+    text: k.headline || k.word,
+    rank: k.rank,
+  }));
   return (
     <section id={slug ? `sec-${slug}` : undefined} className="mb-10 scroll-mt-16">
       <div className="flex items-center gap-2.5 mb-3.5">
         <span aria-hidden="true" className="text-base">🔥</span>
         <h2 className="text-base font-extrabold tracking-tight text-zinc-900 dark:text-white">
-          {categoryLabel[category] || category}
+          급상승 키워드
         </h2>
         <span className="text-[11px] font-semibold px-2 py-0.5 rounded-full bg-blue-50 text-blue-600 dark:bg-blue-950/50 dark:text-blue-400">
           지금 뜨는 이슈
@@ -239,25 +243,7 @@ function RisingHero({
         <div className="flex-1 h-px bg-zinc-200 dark:bg-zinc-800" />
       </div>
       <Summary summary={categoryData.summary} />
-      <div className="flex flex-col gap-2.5">
-        {top && (
-          <KeywordCard
-            item={top}
-            change={rankChanges?.[category]?.[top.word]}
-          />
-        )}
-        {rest.length > 0 && (
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-2.5">
-            {rest.map((item) => (
-              <KeywordCard
-                key={item.word}
-                item={item}
-                change={rankChanges?.[category]?.[item.word]}
-              />
-            ))}
-          </div>
-        )}
-      </div>
+      <RisingTicker items={items} />
     </section>
   );
 }
@@ -309,7 +295,7 @@ export default function KeywordDisplay({
       {jumpTargets.length > 1 && <CategoryQuickNav targets={jumpTargets} />}
 
       {heroEntry && heroEntry[1].keywords.length > 0 && (
-        <RisingHero category={heroEntry[0]} categoryData={heroEntry[1]} rankChanges={rankChanges} />
+        <RisingHero category={heroEntry[0]} categoryData={heroEntry[1]} />
       )}
 
       <div className="flex justify-center my-2">
