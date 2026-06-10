@@ -111,7 +111,7 @@ function KeywordCard({
             관련 기사 {item.articles.length}
           </p>
         )}
-        {item.articles.map((article, idx) => (
+        {item.articles.slice(0, 1).map((article, idx) => (
           <a
             key={idx}
             href={article.link}
