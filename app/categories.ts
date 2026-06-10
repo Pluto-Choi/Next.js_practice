@@ -22,3 +22,8 @@ export const categoryEmoji: Record<string, string> = Object.fromEntries(
 export const categoryLabel: Record<string, string> = Object.fromEntries(
   CATEGORIES.map((c) => [c.name, c.label]),
 );
+
+// 저장 키 → slug. 홈 섹션 앵커(#sec-economy 등)에 쓴다.
+export const categorySlug: Record<string, string> = Object.fromEntries(
+  CATEGORIES.map((c) => [c.name, c.slug]),
+);

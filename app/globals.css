@@ -24,6 +24,11 @@
   -webkit-tap-highlight-color: transparent;
 }
 
+/* 섹션 앵커 점프를 부드럽게(동작 최소화 설정이면 아래 미디어쿼리가 끔). */
+html {
+  scroll-behavior: smooth;
+}
+
 /* 키보드 포커스 가시성 (WCAG 2.4.7). 마우스/터치엔 안 보이고
    Tab 이동 시에만 표시된다. 사이트 강조색(blue-500) 사용. */
 :focus-visible {
