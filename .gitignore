@@ -64,3 +64,9 @@ __pycache__/
 
 # misc local artifacts
 notion_body.json
+
+# 로컬 스크래치/실험 — 커밋하지 않음
+experiments/
+invest-news/
+tech-news/
+gukshil_qr*.png
