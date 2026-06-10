@@ -6,7 +6,7 @@ export default function ShareButton({ topKeyword }: { topKeyword?: string }) {
   const [state, setState] = useState<'idle' | 'done'>('idle')
 
   const handleShare = async () => {
-    const title = '오늘의 뉴스 👀'
+    const title = '왓뉴스 👀'
     const text = topKeyword
       ? `🔥 오늘 1위 「${topKeyword}」\n지금 대한민국이 가장 주목한 키워드 TOP5, 같이 봐요 👇`
       : '오늘 대한민국이 가장 주목한 키워드 TOP5\n같이 확인해봐 👇'

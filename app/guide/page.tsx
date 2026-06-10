@@ -5,8 +5,8 @@ import ThemeToggle from "../components/ThemeToggle";
 import { CATEGORIES, categoryLabel } from "../categories";
 
 export const metadata: Metadata = {
-  title: "이용 가이드 | 오늘의 뉴스",
-  description: "오늘의 뉴스 사용법 — 키워드 카드 보는 법, 카테고리, 날짜별 보기, 트렌드, 알림, 공유까지 한눈에.",
+  title: "이용 가이드 | 왓뉴스",
+  description: "왓뉴스 사용법 — 키워드 카드 보는 법, 카테고리, 날짜별 보기, 트렌드, 알림, 공유까지 한눈에.",
   alternates: { canonical: "/guide" },
 };
 
@@ -19,7 +19,7 @@ type Section = {
 const SECTIONS: Section[] = [
   {
     emoji: "📰",
-    title: "오늘의 뉴스란?",
+    title: "왓뉴스란?",
     body: (
       <>
         Google News를 6시간마다 자동 분석해서 지금 가장 많이 다뤄지는 뉴스
@@ -142,7 +142,7 @@ export default function GuidePage() {
             href="/"
             className="px-3 py-2.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
           >
-            ← 오늘의 뉴스
+            ← 왓뉴스
           </Link>
         </div>
 

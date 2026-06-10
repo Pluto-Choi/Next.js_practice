@@ -6,7 +6,7 @@ import StreakTrends from "../components/StreakTrends";
 import { loadTrends } from "../data";
 
 export const metadata: Metadata = {
-  title: "키워드 트렌드 | 오늘의 뉴스",
+  title: "키워드 트렌드 | 왓뉴스",
   description: "뉴스 키워드가 가장 오래 1위를 지킨 기록을 기간별로. 왜 화제였는지 AI 요약까지.",
   alternates: { canonical: "/trends" },
 };
@@ -34,7 +34,7 @@ export default async function TrendsPage() {
             href="/"
             className="px-3 py-2.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
           >
-            ← 오늘의 뉴스
+            ← 왓뉴스
           </Link>
         </div>
 

@@ -20,7 +20,7 @@ export function buildJsonLd(data: KeywordsData) {
       {
         "@type": "Organization",
         "@id": `${SITE}/#org`,
-        name: "오늘의 뉴스",
+        name: "왓뉴스",
         url: `${SITE}/`,
         logo: `${SITE}/apple-touch-icon.png`,
       },
@@ -28,7 +28,7 @@ export function buildJsonLd(data: KeywordsData) {
         "@type": "WebSite",
         "@id": `${SITE}/#website`,
         url: `${SITE}/`,
-        name: "오늘의 뉴스",
+        name: "왓뉴스",
         alternateName: ["오늘의뉴스", "오늘 뉴스 키워드", "실시간 뉴스 키워드"],
         description:
           "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.",

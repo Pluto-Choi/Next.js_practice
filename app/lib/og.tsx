@@ -62,13 +62,16 @@ export async function buildOgImage(data: KeywordsData) {
       >
         {/* 헤더 */}
         <div style={{ display: 'flex', alignItems: 'center', marginBottom: 32 }}>
-          <div style={{ display: 'flex', alignItems: 'flex-end', gap: 5, marginRight: 16 }}>
-            <div style={{ width: 13, height: 22, backgroundColor: '#93c5fd', borderRadius: 3 }} />
-            <div style={{ width: 13, height: 34, backgroundColor: '#60a5fa', borderRadius: 3 }} />
-            <div style={{ width: 13, height: 46, backgroundColor: '#3b82f6', borderRadius: 3 }} />
-          </div>
+          <img
+            width={46}
+            height={46}
+            style={{ marginRight: 14 }}
+            src={`data:image/svg+xml,${encodeURIComponent(
+              '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><polyline points="5,9 12.5,29 20,15 27.5,31 33,8" fill="none" stroke="#ff5c2e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="33" cy="8" r="3.6" fill="#ffb03a"/></svg>'
+            )}`}
+          />
           <div style={{ display: 'flex', flexDirection: 'column' }}>
-            <span style={{ color: 'white', fontSize: 30, fontWeight: 700, lineHeight: 1.1 }}>오늘의 뉴스</span>
+            <span style={{ color: 'white', fontSize: 30, fontWeight: 700, lineHeight: 1.1 }}>왓뉴스</span>
             <span style={{ color: '#a1a1aa', fontSize: 17, fontWeight: 400 }}>
               지금 한국에서 가장 핫한 뉴스 키워드
             </span>

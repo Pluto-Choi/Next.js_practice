@@ -20,10 +20,10 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: "오늘의 뉴스 | 핫이슈 · 연예 · 경제 키워드",
+  title: "왓뉴스 | 핫이슈 · 연예 · 경제 키워드",
   description: "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.",
-  keywords: ["오늘의 뉴스", "핫이슈", "연예 뉴스", "경제 키워드", "경제 뉴스", "트렌드 키워드", "오늘의 이슈", "K팝"],
-  applicationName: "오늘의 뉴스",
+  keywords: ["왓뉴스", "핫이슈", "연예 뉴스", "경제 키워드", "경제 뉴스", "트렌드 키워드", "오늘의 이슈", "K팝"],
+  applicationName: "왓뉴스",
   robots: {
     index: true,
     follow: true,
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   manifest: "/manifest.json",
   alternates: {
     types: {
-      "application/rss+xml": [{ url: "/rss.xml", title: "오늘의 뉴스" }],
+      "application/rss+xml": [{ url: "/rss.xml", title: "왓뉴스" }],
     },
   },
   icons: {
@@ -47,19 +47,19 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "오늘의 뉴스",
+    title: "왓뉴스",
   },
   openGraph: {
-    title: "오늘의 뉴스 | 핫이슈 · 연예 · 경제 키워드",
+    title: "왓뉴스 | 핫이슈 · 연예 · 경제 키워드",
     description: "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.",
     url: `${SITE_URL}/`,
-    siteName: "오늘의 뉴스",
+    siteName: "왓뉴스",
     locale: "ko_KR",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "오늘의 뉴스 | 핫이슈 · 연예 · 경제 키워드",
+    title: "왓뉴스 | 핫이슈 · 연예 · 경제 키워드",
     description: "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.",
   },
   verification: {

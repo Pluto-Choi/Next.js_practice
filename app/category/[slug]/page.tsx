@@ -18,11 +18,11 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const cat = categoryBySlug(slug);
-  if (!cat) return { title: "오늘의 뉴스" };
+  if (!cat) return { title: "왓뉴스" };
   const data = await loadCurrentData();
   const words = data.categories[cat.name]?.keywords.slice(0, 3).map((k) => k.word) ?? [];
   const kw = words.join(" · ");
-  const title = `${cat.name} 키워드${kw ? ` | ${kw}` : ""} - 오늘의 뉴스`;
+  const title = `${cat.name} 키워드${kw ? ` | ${kw}` : ""} - 왓뉴스`;
   const description = `오늘의 ${cat.name} 뉴스 키워드 TOP5.${kw ? ` ${kw} 등.` : ""} 6시간마다 자동 업데이트.`;
   return {
     title,

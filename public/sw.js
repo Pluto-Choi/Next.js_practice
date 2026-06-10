@@ -1,4 +1,4 @@
-// 오늘의 뉴스 — 푸시 알림 + 오프라인 캐시 서비스워커
+// 왓뉴스 — 푸시 알림 + 오프라인 캐시 서비스워커
 
 const CACHE = 'news-v1'
 const PRECACHE = ['/', '/manifest.json', '/favicon.svg', '/icon-192.png']
@@ -62,7 +62,7 @@ self.addEventListener('push', (event) => {
     payload = { body: event.data ? event.data.text() : '' }
   }
 
-  const title = payload.title || '오늘의 뉴스'
+  const title = payload.title || '왓뉴스'
   const options = {
     body: payload.body || '오늘의 새 키워드가 도착했어요.',
     icon: '/icon-192.png',

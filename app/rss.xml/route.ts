@@ -23,7 +23,7 @@ function topKeywords(data: KeywordsData): string {
 }
 
 function itemFor(date: string, data: KeywordsData): string {
-  const title = `${date} 오늘의 뉴스 키워드`;
+  const title = `${date} 왓뉴스 키워드`;
   const link = `${BASE_URL}/${date}`;
   const issue = data.categories["오늘의 이슈"];
   const summary = issue?.summary ? `${issue.summary} ` : "";
@@ -63,7 +63,7 @@ export async function GET() {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>오늘의 뉴스 | 핫이슈 · 연예 · 경제 키워드</title>
+    <title>왓뉴스 | 핫이슈 · 연예 · 경제 키워드</title>
     <link>${BASE_URL}</link>
     <atom:link href="${BASE_URL}/rss.xml" rel="self" type="application/rss+xml" />
     <description>오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.</description>

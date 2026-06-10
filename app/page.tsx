@@ -18,7 +18,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const issue = data.categories["오늘의 이슈"];
   const issueKeywords = issue?.keywords.slice(0, 3).map((k) => k.word) ?? [];
   const keywordStr = issueKeywords.join(" · ");
-  const title = keywordStr ? `오늘의 뉴스 | ${keywordStr}` : "오늘의 뉴스 | 핫이슈 & 경제 키워드";
+  const title = keywordStr ? `왓뉴스 | ${keywordStr}` : "왓뉴스 | 핫이슈 & 경제 키워드";
   const description = issue?.summary
     ? `${data.date} 오늘의 핫이슈 — ${issue.summary}`
     : "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.";
@@ -31,7 +31,7 @@ export async function generateMetadata(): Promise<Metadata> {
     alternates: {
       canonical: "/",
       types: {
-        "application/rss+xml": [{ url: "/rss.xml", title: "오늘의 뉴스" }],
+        "application/rss+xml": [{ url: "/rss.xml", title: "왓뉴스" }],
       },
     },
     openGraph: {
@@ -68,7 +68,7 @@ export default async function Home() {
 
         <main id="main-content" tabIndex={-1} className="min-w-0">
 
-        <h1 className="sr-only">오늘의 뉴스 — {data.date} 핫이슈 · 연예 · 경제 키워드 TOP5</h1>
+        <h1 className="sr-only">왓뉴스 — {data.date} 핫이슈 · 연예 · 경제 키워드 TOP5</h1>
 
         <div className="relative mb-6 text-center">
           <ThemeToggle />

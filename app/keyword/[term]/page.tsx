@@ -16,9 +16,9 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { term } = await params;
   const detail = await getKeywordDetail(term);
-  if (!detail) return { title: "오늘의 뉴스" };
+  if (!detail) return { title: "왓뉴스" };
   const { word, daysCount, peakRank } = detail;
-  const title = `${word} 실시간 검색어 추이 | 오늘의 뉴스`;
+  const title = `${word} 실시간 검색어 추이 | 왓뉴스`;
   const description = `'${word}' 키워드는 최근 화제 키워드에 ${daysCount}회 올랐고 최고 ${peakRank}위를 기록했어요. 관련 뉴스와 순위 추이를 한눈에.`;
   return {
     title,
@@ -52,7 +52,7 @@ export default async function KeywordPage({ params }: Props) {
             href="/"
             className="px-3 py-2.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
           >
-            ← 오늘의 뉴스
+            ← 왓뉴스
           </Link>
           <Link
             href="/trends"

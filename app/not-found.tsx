@@ -15,7 +15,7 @@ export default function NotFound() {
           href="/"
           className="inline-block px-5 py-2.5 rounded-full bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 text-sm font-medium hover:opacity-80 transition-opacity"
         >
-          오늘의 뉴스로 가기
+          왓뉴스로 가기
         </Link>
       </div>
     </div>
