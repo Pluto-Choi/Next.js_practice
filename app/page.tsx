@@ -75,14 +75,14 @@ export default async function Home() {
         </div>
       </header>
 
-      <div className="mx-auto max-w-lg lg:max-w-7xl px-4 py-6 lg:grid lg:grid-cols-[25px_150px_24px_minmax(0,1fr)_24px_210px_35px] lg:gap-0 lg:items-start">
+      <div className="mx-auto max-w-lg lg:max-w-7xl px-4 py-3 lg:py-6 lg:grid lg:grid-cols-[25px_150px_24px_minmax(0,1fr)_24px_210px_35px] lg:gap-0 lg:items-start">
         <LeftSidebar recentDates={recentDates} className="hidden lg:block lg:col-start-2 lg:sticky lg:top-6" />
 
         <main id="main-content" tabIndex={-1} className="min-w-0 lg:col-start-4">
 
         <h1 className="sr-only">왓뉴스 — {data.date} 핫이슈 · 연예 · 경제 키워드 TOP5</h1>
 
-        <p className="mb-6 text-center text-xs text-zinc-500 dark:text-zinc-400">
+        <p className="mb-3 lg:mb-6 text-center text-xs text-zinc-500 dark:text-zinc-400">
           <UpdatedAt updatedAt={data.updated_at} date={data.date} /> · Google News RSS
         </p>
 
