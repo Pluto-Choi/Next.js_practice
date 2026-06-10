@@ -1,6 +1,7 @@
 import Link from "next/link";
 import AdFitBanner from "./AdFitBanner";
 import ShareButton from "./ShareButton";
+import CategoryQuickNav from "./CategoryQuickNav";
 import type { RankChange, RankChanges } from "../data";
 import { categoryEmoji, categoryLabel, categorySlug, HERO_CATEGORY } from "../categories";
 import { rankBadgeStyle, cleanTitle } from "../lib/format";
@@ -266,31 +267,14 @@ export default function KeywordDisplay({
   const heroEntry = entries.find(([name]) => name === HERO_CATEGORY);
   const topical = entries.filter(([name]) => name !== HERO_CATEGORY);
 
-  // 모바일 긴 스크롤에서 섹션으로 바로 점프하는 스티키 앵커.
+  // 모바일 긴 스크롤에서 섹션으로 바로 점프하는 스티키 앵커(스크롤스파이).
   const jumpTargets = entries
-    .map(([name]) => ({ name, slug: categorySlug[name] }))
+    .map(([name]) => ({ slug: categorySlug[name], emoji: categoryEmoji[name] || "📌", label: categoryLabel[name] || name }))
     .filter((t) => t.slug);
 
   return (
     <>
-      {jumpTargets.length > 1 && (
-        <nav
-          aria-label="카테고리 바로가기"
-          className="md:hidden sticky top-0 z-20 -mx-4 mb-4 border-b border-zinc-200/70 bg-zinc-50/90 px-4 py-2 backdrop-blur dark:border-zinc-800/70 dark:bg-zinc-950/90"
-        >
-          <div className="flex gap-2 overflow-x-auto scrollbar-none">
-            {jumpTargets.map(({ name, slug }) => (
-              <a
-                key={slug}
-                href={`#sec-${slug}`}
-                className="shrink-0 rounded-full border border-zinc-200 bg-white px-3 py-1.5 text-xs font-medium text-zinc-600 transition-colors hover:border-blue-400 hover:text-blue-600 dark:border-zinc-700 dark:bg-zinc-800 dark:text-zinc-300 dark:hover:border-blue-600 dark:hover:text-blue-400"
-              >
-                {categoryEmoji[name]} {categoryLabel[name] || name}
-              </a>
-            ))}
-          </div>
-        </nav>
-      )}
+      {jumpTargets.length > 1 && <CategoryQuickNav targets={jumpTargets} />}
 
       {heroEntry && (
         <RisingHero category={heroEntry[0]} categoryData={heroEntry[1]} rankChanges={rankChanges} />
