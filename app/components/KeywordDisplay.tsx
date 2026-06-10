@@ -83,7 +83,7 @@ function KeywordCard({
                 {item.headline || item.word}
               </p>
               {(item.description || item.articles[0]) && (
-                <p className={`group-open:hidden mt-1 text-xs text-zinc-600 dark:text-zinc-400 leading-relaxed break-keep ${isTop ? "line-clamp-2" : "line-clamp-1"}`}>
+                <p className={`group-open:hidden mt-1 text-[13px] lg:text-xs text-zinc-600 dark:text-zinc-400 leading-relaxed break-keep ${isTop ? "line-clamp-2" : "line-clamp-1"}`}>
                   {item.description || cleanTitle(item.articles[0].title)}
                 </p>
               )}
@@ -171,7 +171,7 @@ function EmptyCategory({ category }: { category?: string }) {
 function Summary({ summary }: { summary: string }) {
   if (!summary) return null;
   return (
-    <p className="mb-4 text-xs leading-relaxed text-zinc-500 dark:text-zinc-400 break-keep">
+    <p className="mb-4 text-[13px] lg:text-xs leading-relaxed text-zinc-500 dark:text-zinc-400 break-keep">
       {summary}
     </p>
   );
