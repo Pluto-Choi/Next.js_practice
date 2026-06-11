@@ -214,12 +214,12 @@ function BoardRow({
   return (
     <Link
       href={`/keyword/${encodeURIComponent(item.word)}`}
-      className="flex items-center gap-3 px-3.5 py-2.5 transition-colors hover:bg-zinc-50 dark:hover:bg-zinc-800/40 active:bg-zinc-100 dark:active:bg-zinc-700/40"
+      className="flex items-start gap-3 px-3.5 py-2.5 transition-colors hover:bg-zinc-50 dark:hover:bg-zinc-800/40 active:bg-zinc-100 dark:active:bg-zinc-700/40"
     >
       <span className={`text-[11px] font-bold w-6 h-6 flex items-center justify-center rounded-md shrink-0 tabular-nums ${rankBadgeStyle(item.rank)}`}>
         {item.rank}
       </span>
-      <span className="flex-1 min-w-0 truncate text-sm font-medium tracking-tight text-zinc-800 dark:text-zinc-100 hover:text-orange-700 dark:hover:text-orange-400">
+      <span className="flex-1 min-w-0 text-sm font-medium leading-snug tracking-tight break-keep line-clamp-2 text-zinc-800 dark:text-zinc-100 hover:text-orange-700 dark:hover:text-orange-400">
         {item.headline || item.word}
       </span>
       <RankChangeBadge change={change} />
