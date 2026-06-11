@@ -87,6 +87,7 @@ export type KeywordDetail = {
   categories: string[];
   latestDate: string;
   description?: string;
+  headline?: string;
   articles: Article[];
 };
 
@@ -119,6 +120,7 @@ export const getKeywordDetail = cache(async (rawTerm: string): Promise<KeywordDe
     categories: [...new Set(entries.map((e) => e.category))],
     latestDate: latest.date,
     description: keyword?.description,
+    headline: keyword?.headline,
     articles: keyword?.articles ?? [],
   };
 });
