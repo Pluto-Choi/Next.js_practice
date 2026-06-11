@@ -60,13 +60,14 @@ export default function LeftSidebar({
         <div className="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4">
           <p className="text-sm font-bold text-zinc-900 dark:text-white">📬 뉴스 구독</p>
           <p className="mt-1 text-xs leading-relaxed text-zinc-500 dark:text-zinc-400">
-            매일 아침 핫이슈를 한눈에 받아보세요.
+            업데이트되는 핫이슈를 RSS로 받아보세요.
           </p>
-          <p className="mt-2.5 text-lg font-extrabold tabular-nums text-orange-700 dark:text-orange-400">
-            12,800
-            <span className="ml-1 text-xs font-medium text-zinc-400 dark:text-zinc-500">구독</span>
-          </p>
-          <p className="mt-1 text-[10px] text-zinc-400 dark:text-zinc-500">* 샘플 데이터</p>
+          <a
+            href="/rss.xml"
+            className="mt-2.5 inline-flex items-center gap-1.5 rounded-lg bg-orange-600 px-3 py-2 text-xs font-semibold text-white hover:bg-orange-700 transition-colors"
+          >
+            <span aria-hidden="true">📡</span>RSS 구독하기
+          </a>
         </div>
       </div>
     </aside>

@@ -207,21 +207,37 @@ function CategorySection({
 function BoardRow({
   item,
   change,
+  hero,
 }: {
   item: Keyword;
   change?: RankChange;
+  // hero(급상승 보드): 순위가 높을수록 크고 진하게, 1위는 틴트+보더로 강조 → 한눈에 판세.
+  hero?: boolean;
 }) {
   const label = item.headline || item.word;
+  const rank = item.rank;
+  const isFirst = hero && rank === 1;
+  const labelCls = !hero
+    ? "truncate text-[15px] font-medium text-zinc-800 dark:text-zinc-100"
+    : rank === 1
+      ? "line-clamp-2 text-lg font-bold leading-snug text-zinc-900 dark:text-white"
+      : rank <= 3
+        ? "truncate text-[15px] font-semibold text-zinc-800 dark:text-zinc-100"
+        : "truncate text-[13px] font-normal text-zinc-500 dark:text-zinc-400";
   return (
     <Link
       href={`/keyword/${encodeURIComponent(item.word)}`}
       aria-label={`${item.rank}위 ${item.headline || item.word}`}
-      className="flex items-center gap-3.5 px-4 py-3 transition-colors hover:bg-zinc-50 dark:hover:bg-zinc-800/40 active:bg-zinc-100 dark:active:bg-zinc-700/40"
+      className={`flex items-center gap-3.5 px-4 transition-colors hover:bg-zinc-50 dark:hover:bg-zinc-800/40 active:bg-zinc-100 dark:active:bg-zinc-700/40 ${
+        isFirst
+          ? "py-4 border-l-2 border-orange-400 bg-orange-50/60 dark:border-orange-500 dark:bg-orange-950/20"
+          : "py-3"
+      }`}
     >
       <span className={`text-xs font-bold w-6 h-6 flex items-center justify-center rounded-md shrink-0 tabular-nums ${rankBadgeStyle(item.rank)}`}>
         {item.rank}
       </span>
-      <span className="flex-1 min-w-0 truncate text-[15px] font-medium tracking-tight text-zinc-800 dark:text-zinc-100 hover:text-orange-700 dark:hover:text-orange-400">
+      <span className={`flex-1 min-w-0 tracking-tight hover:text-orange-700 dark:hover:text-orange-400 ${labelCls}`}>
         {label}
       </span>
       <RankChangeBadge change={change} />
@@ -279,6 +295,7 @@ function RankBoard({
             key={item.word}
             item={item}
             change={rankChanges?.[category]?.[item.word]}
+            hero={lead}
           />
         ))}
       </div>
