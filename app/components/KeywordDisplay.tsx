@@ -207,10 +207,14 @@ function CategorySection({
 function BoardRow({
   item,
   change,
+  compact,
 }: {
   item: Keyword;
   change?: RankChange;
+  // compact: 분야별 보드에서 좁은 열에 맞게 서술형 헤드라인 대신 키워드 단어만 노출.
+  compact?: boolean;
 }) {
+  const label = compact ? item.word : item.headline || item.word;
   return (
     <Link
       href={`/keyword/${encodeURIComponent(item.word)}`}
@@ -221,7 +225,7 @@ function BoardRow({
         {item.rank}
       </span>
       <span className="flex-1 min-w-0 truncate text-[15px] font-medium tracking-tight text-zinc-800 dark:text-zinc-100 hover:text-orange-700 dark:hover:text-orange-400">
-        {item.headline || item.word}
+        {label}
       </span>
       <RankChangeBadge change={change} />
     </Link>
@@ -236,12 +240,14 @@ function RankBoard({
   rankChanges,
   lead,
   showAllLink,
+  compact,
 }: {
   category: string;
   categoryData: CategoryData;
   rankChanges?: RankChanges;
   lead?: boolean;
   showAllLink?: boolean;
+  compact?: boolean;
 }) {
   const slug = categorySlug[category];
   return (
@@ -274,6 +280,7 @@ function RankBoard({
             key={item.word}
             item={item}
             change={rankChanges?.[category]?.[item.word]}
+            compact={compact}
           />
         ))}
       </div>
@@ -324,7 +331,7 @@ export default function KeywordDisplay({
         </div>
       )}
 
-      <div className="flex flex-col gap-8">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-8">
         {topical.map(([category, categoryData]) => (
           <RankBoard
             key={category}
@@ -332,6 +339,7 @@ export default function KeywordDisplay({
             categoryData={categoryData}
             rankChanges={rankChanges}
             showAllLink
+            compact
           />
         ))}
       </div>
