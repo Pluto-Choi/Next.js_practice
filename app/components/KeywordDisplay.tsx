@@ -245,6 +245,16 @@ function BoardRow({
   );
 }
 
+// 카테고리별 색 액센트. 스크롤 중 "지금 어느 분야 보드인지" 즉시 인지시키되,
+// 오렌지 중심 미니멀 톤을 깨지 않게 헤더의 얇은 바 + 라벨 색에만 쓴다.
+const categoryAccent: Record<string, { bar: string; text: string }> = {
+  "오늘의 이슈": { bar: "bg-orange-500", text: "text-orange-700 dark:text-orange-400" },
+  경제: { bar: "bg-blue-500", text: "text-blue-700 dark:text-blue-400" },
+  연예: { bar: "bg-pink-500", text: "text-pink-700 dark:text-pink-400" },
+  스포츠: { bar: "bg-green-600", text: "text-green-700 dark:text-green-400" },
+};
+const accentDefault = { bar: "bg-zinc-400", text: "text-zinc-900 dark:text-zinc-100" };
+
 // 카테고리 하나를 순위 보드(카드 안 분할 리스트)로 렌더. 통합 급상승 보드와
 // 분야별 스냅샷이 같은 행 컴포넌트를 공유해 밀도/모양을 일관되게 유지한다.
 function RankBoard({
@@ -265,13 +275,15 @@ function RankBoard({
 }) {
   const slug = categorySlug[category];
   const rows = limit ? categoryData.keywords.slice(0, limit) : categoryData.keywords;
+  const accent = categoryAccent[category] ?? accentDefault;
   return (
     <section id={slug ? `sec-${slug}` : undefined} className="scroll-mt-16">
       <div className="flex items-center gap-2 mb-2.5">
+        <span aria-hidden="true" className={`w-1 rounded-full shrink-0 ${lead ? "h-4" : "h-3.5"} ${accent.bar}`} />
         <span aria-hidden="true" className={lead ? "text-base" : "text-sm"}>
           {categoryEmoji[category] || "📌"}
         </span>
-        <h2 className={`font-bold tracking-tight text-zinc-900 dark:text-zinc-100 ${lead ? "text-base" : "text-sm"}`}>
+        <h2 className={`font-bold tracking-tight ${accent.text} ${lead ? "text-base" : "text-sm"}`}>
           {categoryLabel[category] || category}
         </h2>
         {lead && (
