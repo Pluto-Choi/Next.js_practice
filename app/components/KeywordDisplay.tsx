@@ -241,6 +241,8 @@ function BoardRow({
         {label}
       </span>
       <RankChangeBadge change={change} />
+      {/* 모바일엔 hover가 없어 행이 링크임을 알기 어렵다. 연한 › 로 탭 가능 힌트. */}
+      <span aria-hidden="true" className="shrink-0 text-zinc-300 dark:text-zinc-600 text-sm">›</span>
     </Link>
   );
 }
@@ -358,7 +360,7 @@ export default function KeywordDisplay({
         </div>
       )}
 
-      <div className="flex flex-col gap-7">
+      <div className="flex flex-col gap-5">
         {topical.map(([category, categoryData]) => (
           <RankBoard
             key={category}
