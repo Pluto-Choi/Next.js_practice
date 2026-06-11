@@ -38,6 +38,14 @@ export default async function KeywordPage({ params }: Props) {
   const { word, headline, categories, latestDate, articles, description } = detail;
   const title = headline || word;
 
+  // 설명문은 "1문장=오늘의 사실 / 나머지=배경·맥락" 구조로 생성된다.
+  // 그 구조를 살려 리드 문장과 본문 문단으로 나눠 가독성을 높인다.
+  const descParts = description
+    ? description.split(/(?<=다\.)\s+/).map((s) => s.trim()).filter(Boolean)
+    : [];
+  const descLead = descParts[0] ?? description;
+  const descRest = descParts.slice(1).join(" ");
+
   return (
     <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
       <SiteHeader widthClass="max-w-2xl" />
@@ -78,9 +86,14 @@ export default async function KeywordPage({ params }: Props) {
         {/* === 본문 도입 (AI 요약) === */}
         {description && (
           <section className="mb-12">
-            <p className="text-base lg:text-[17px] leading-relaxed text-zinc-700 dark:text-zinc-200 break-keep">
-              {description}
+            <p className="text-[17px] lg:text-lg leading-[1.85] text-zinc-800 dark:text-zinc-100 break-keep">
+              {descLead}
             </p>
+            {descRest && (
+              <p className="mt-4 text-base leading-[1.85] text-zinc-600 dark:text-zinc-300 break-keep">
+                {descRest}
+              </p>
+            )}
           </section>
         )}
 
