@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 import SiteHeader from "../../components/SiteHeader";
 import { getAllKeywords, getKeywordDetail } from "../../data";
 import { categoryEmoji, categoryLabel } from "../../categories";
-import { rankBadgeStyle, cleanTitle } from "../../lib/format";
+import { cleanTitle } from "../../lib/format";
 
 type Props = { params: Promise<{ term: string }> };
 
@@ -35,7 +35,7 @@ export default async function KeywordPage({ params }: Props) {
   const detail = await getKeywordDetail(term);
   if (!detail) notFound();
 
-  const { word, headline, entries, daysCount, peakRank, categories, latestDate, articles, description } = detail;
+  const { word, headline, categories, latestDate, articles, description } = detail;
   const title = headline || word;
 
   return (
@@ -73,12 +73,6 @@ export default async function KeywordPage({ params }: Props) {
           <h1 className="text-2xl lg:text-3xl font-bold leading-snug tracking-tight break-keep">
             {title}
           </h1>
-
-          <p className="mt-3 text-sm text-zinc-500 dark:text-zinc-400">
-            키워드 <span className="font-semibold text-zinc-700 dark:text-zinc-300">{word}</span>
-            <span aria-hidden="true"> · </span>최근 {daysCount}일 등장
-            <span aria-hidden="true"> · </span>최고 <span className="font-semibold text-amber-700 dark:text-amber-400">{peakRank}위</span>
-          </p>
         </header>
 
         {/* === 본문 도입 (AI 요약) === */}
@@ -116,32 +110,6 @@ export default async function KeywordPage({ params }: Props) {
             </div>
           </section>
         )}
-
-        {/* === 추가 정보: 순위 추이 === */}
-        <section className="mb-12">
-          <h2 className="text-base font-bold tracking-tight mb-4 flex items-center gap-2">
-            <span aria-hidden="true">📈</span>순위 추이
-          </h2>
-          <div className="flex flex-col gap-2">
-            {entries.map((e) => (
-              <Link
-                key={`${e.date}-${e.category}`}
-                href={`/${e.date}`}
-                className="flex items-center justify-between gap-3 rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-sm hover:shadow-md transition-shadow dark:shadow-none px-4 py-3"
-              >
-                <div className="flex items-center gap-3 min-w-0">
-                  <span className={`text-[11px] font-bold w-6 h-6 flex items-center justify-center rounded-md shrink-0 tabular-nums ${rankBadgeStyle(e.rank)}`}>
-                    {e.rank}
-                  </span>
-                  <span className="text-sm text-zinc-700 dark:text-zinc-300 tabular-nums">{e.date}</span>
-                </div>
-                <span className="text-xs text-zinc-500 dark:text-zinc-400 shrink-0">
-                  {categoryEmoji[e.category] || "📌"} {categoryLabel[e.category] || e.category}
-                </span>
-              </Link>
-            ))}
-          </div>
-        </section>
 
         <p className="text-zinc-400 dark:text-zinc-500 text-xs pb-4">
           누적 수집 데이터 기반 · Google News RSS

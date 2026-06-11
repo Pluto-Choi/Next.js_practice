@@ -757,7 +757,8 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
         "트렌드 정보가 없으면 트렌드 얘기를 아예 꺼내지 마라. '지속적인 관심을 받고 있다' 같은 군더더기 표현 금지.\n"
         "4) 날카로운 당일 트리거가 없는 상시 키워드(케이팝·증시 등)는 사소한 기사 하나를 억지로 이유로 만들지 말고, "
         "여러 제목을 관통하는 큰 흐름을 담담히 요약해라.\n\n"
-        "분량: 1~2문장, 100자 내외로 간결하게.\n\n"
+        "분량: 3~5문장, 250자 내외로 충실하게. 이 설명문은 키워드 상세 페이지의 본문으로 쓰이니, "
+        "오늘의 사실(첫 문장) 뒤에 사건의 배경·전개·의미를 한 단락으로 자연스럽게 풀어줘라(반복·군더더기 없이).\n\n"
         "엄격한 규칙:\n"
         "- 기사 제목과 트렌드 정보에서 확인되는 사실만 써라. 추측·과장·없는 정보 생성 금지.\n"
         "- 제목만으로 사실이 불확실하면 무리하게 단정하지 마라.\n"
@@ -768,7 +769,7 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
     try:
         message = anthropic_client.messages.create(
             model="claude-opus-4-6",
-            max_tokens=1500,
+            max_tokens=3000,
             messages=[{"role": "user", "content": prompt}],
         )
         match = re.search(r'\[.*\]', message.content[0].text, re.DOTALL)
