@@ -215,12 +215,12 @@ function BoardRow({
     <Link
       href={`/keyword/${encodeURIComponent(item.word)}`}
       aria-label={`${item.rank}위 ${item.headline || item.word}`}
-      className="flex items-start gap-3.5 px-4 py-3.5 transition-colors hover:bg-zinc-50 dark:hover:bg-zinc-800/40 active:bg-zinc-100 dark:active:bg-zinc-700/40"
+      className="flex items-center gap-3.5 px-4 py-3 transition-colors hover:bg-zinc-50 dark:hover:bg-zinc-800/40 active:bg-zinc-100 dark:active:bg-zinc-700/40"
     >
-      <span className={`text-xs font-bold w-6 h-6 flex items-center justify-center rounded-md shrink-0 tabular-nums mt-0.5 ${rankBadgeStyle(item.rank)}`}>
+      <span className={`text-xs font-bold w-6 h-6 flex items-center justify-center rounded-md shrink-0 tabular-nums ${rankBadgeStyle(item.rank)}`}>
         {item.rank}
       </span>
-      <span className="flex-1 min-w-0 text-[15px] font-medium leading-relaxed tracking-tight break-keep line-clamp-2 text-zinc-800 dark:text-zinc-100 hover:text-orange-700 dark:hover:text-orange-400">
+      <span className="flex-1 min-w-0 truncate text-[15px] font-medium tracking-tight text-zinc-800 dark:text-zinc-100 hover:text-orange-700 dark:hover:text-orange-400">
         {item.headline || item.word}
       </span>
       <RankChangeBadge change={change} />
@@ -324,7 +324,7 @@ export default function KeywordDisplay({
         </div>
       )}
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-x-7 gap-y-8">
+      <div className="flex flex-col gap-8">
         {topical.map(([category, categoryData]) => (
           <RankBoard
             key={category}
