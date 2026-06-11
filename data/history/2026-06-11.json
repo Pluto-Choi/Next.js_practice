@@ -1,368 +1,274 @@
 {
   "date": "2026-06-11",
-  "updated_at": "2026-06-11 05:31",
+  "updated_at": "2026-06-11 12:55",
   "categories": {
     "오늘의 이슈": {
-      "summary": "선관위 투표용지 상자 소재 불명 논란 · 정점식 국민의힘 신임 원내대표 선출 · 아이바오 세 번째 출산으로 암컷 아기 판다 탄생",
+      "summary": "미·이란 간 공습·협상 공방 격화 · 양천구 청년 행정인턴 모집 · 지방선거 선전 여론 엇갈려 · 선관위 개표 오류·자료 분실 논란",
       "keywords": [
         {
           "rank": 1,
+          "word": "이란",
+          "count": 3,
+          "articles": [
+            {
+              "title": "트럼프 \"이란이 폭격중단 요청\"… 이란 \"거짓말\"이라며 드론 공습",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05bDM2a0NoYjYwbW9Ec2pud09jYW5heFQ5WS1FOTVfMmdNUWFPLURNSU5GOG5HUS1OQ1hzbFhrdFIwWDhVOFEySU55My1NZnFndDNQSw?oc=5",
+              "source": "JTBC"
+            },
+            {
+              "title": "트럼프 \"토마호크 49발로 이란 공습‥합의 안 하면 내일 박살\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55RDBzNkhLOXQ3MUhmLV9jbmFHdmVMZGs0N0g3VFVKbVVRaU1ZbG84SHdnODlGd2tBa1MyMXcxUnAyWTBpZlAtWlRvOXk1ZTR0cnBhdVhtdlRmMjNHclhJenRMUC1HWkVNa0RwazRQcm1mWDF4?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "미 \"합의 안 하면 내일 밤 박살\"…이란, 미군기지 폭격",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rTFBlaTJIdjk5WDJpdkJxY1BsTHB6NlQ0X2wzeUcyNjk0ejk1NnNZR3JNMzdlUjVUTWFZMW9TcXRIQ0FSVXQ1MGdJdHZTTjg?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "트럼프 대통령이 토마호크 49발로 이란을 공습하며 '합의 안 하면 내일 박살'이라고 경고했고, 이란은 이를 거짓말이라며 드론 공습과 미군기지 폭격으로 맞대응했다.",
+          "headline": "미국·이란 상호 공습 격화"
+        },
+        {
+          "rank": 2,
+          "word": "청년",
+          "count": 2,
+          "articles": [
+            {
+              "title": "양천구, '청년 행정인턴' 26일까지 50명 모집",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sc1k4OW5tYUxYczZfaDFuUG01TWppdmVZMkhFakl5cE5iNVpsLTVOdzlURUJhY2NJUVVKcHZBd0lsNHVGLVNaX1BKU191VU5kLTBOSDY0eG55UDjSAWBBVV95cUxOYW5OOUU2c1pIVVJNSWU5dFREbzBxZEtMX09qOVBweF9tRzlwZmFrQjdJYjF5bVVwbXBQVHNLZHhfN0FncndqYi1DQTJRd1FwSUVjM180VVNCTFE2T1hoaEk?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "양천구, '청년 행정인턴' 50명 모집…공공기관 업무 경험 기회 제공",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42X1F3UjFEb0ZKMzU1NnVnZU5yc0QwVTlkMWdJNzE3U3VwZXlneVlybXpDM2J3Y0w4ajFnSzJVaHpqMHFYY0k5UzBvdVNYblJUZWVRUmhwQURnUm8?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "양천구, 청년 행정인턴 50명 모집…“공공기관 업무 체험해 보세요”",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85NHBOSW9LUDhfSnR0a1UxcDVnMDJHemhlNmprWnpta1ZQNkFfclNKRmZ0RUxHREYyaVBaSWFhV1JVZG9xSTA5VHBPLXRiZ0RF?oc=5",
+              "source": "문화일보"
+            }
+          ],
+          "description": "양천구가 청년 행정인턴 50명을 26일까지 모집한다. 공공기관 업무 경험 기회를 제공하는 사업이다.",
+          "headline": "양천구 청년 행정인턴 모집"
+        },
+        {
+          "rank": 3,
+          "word": "공격",
+          "count": 2,
+          "articles": [
+            {
+              "title": "트럼프 “오늘 이란 더 강하게 공격… 이란은 협상에 서명만 하면 돼”",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42bkdJb0xtQjlkaVB5YTVEbjU5ZVRENkFMeGhjNnQyV1Z2dHhEeEhnRVZUaXVOTWhrdXlaWEdoczgwUDV5N2xzYkVOR01LeE0?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "이란, 이스라엘 겨냥 미사일 공격…'베이루트 공습에 보복'(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jN3dJNTlRcUZjUDdjMmx3WmE5MENxN0UzNjdSQ0dsM18taG9YMUFMLS1DUkdDUG1tM1BXWjRJQ0Q5WFJ5LUlXQUc1V0xlNS1vRzItV0wxQ3dqX0HSAWBBVV95cUxQOFZDS3hpVVQ0T0VNNzJPa3lKcjM0MURjbVY3Tng0VWJYMy0wT0wwck5wWFppZFN5R2d6N0o4ZWNhVlprMHJWQjFCUmpoR0c4Umx2UzJrWjdJbzNacjlLX1E?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "美 국방 “이란 이틀째 공격할 것” 밝힌 직후 중부사령부 공격 개시 발표",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ORUlFZVJyRThMZFdVaVdHZk1URVRzRDB0U1RDZzNIeVAwUE1PLV90eGR4dkJtWEdtZnc4Q3FaaUdleFMySHpuS2NFZUE0azRja1BxX1B4NDdYSFJVRkoxc9IBeEFVX3lxTE0tcHphZjRzamtjYkkwbFVPaVhqS0pSS0E4RURRX3Z3VVB3WnI5bkpLMmh6MzBxSzdhYVhKaEJDVjVjUHlBeEVvSnF4LXdNVW1TbzVuQktRRVBvUklVWHgzeGlQNVN5VkZwQi0tVXlaMjdVb2ktSGM2Vw?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "트럼프가 '오늘 이란을 더 강하게 공격한다'고 예고한 뒤 미 중부사령부가 공격 개시를 발표했다. 이란도 이스라엘을 겨냥한 미사일 보복 공격에 나서며 긴장이 고조되고 있다.",
+          "headline": "미국, 이란 이틀째 공격 개시"
+        },
+        {
+          "rank": 4,
+          "word": "선전",
+          "count": 2,
+          "articles": [
+            {
+              "title": "지방선거 결과 “국힘 선전” 45%, “민주당 선전” 31% [NBS]",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pVGVZRW45V2xjd205dFhBNnZncGVaSDBSbW1aU3JKNGlQTUlFcTQ4RUtETEdTakNSZkVPd3pKMjZpVU5EbzBJUk5xUVh0Y2xoN1lWck5tbG5MWXJIMlFtM1EybUpMay0zdWt1dTNYTGpKbDRk?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "민주당 41%, 국민의힘 25%…“지방선거 야권 선전” 45%",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rZEVuSTdMendNOTY4QVZHcEpwcDl5MFI3aXV0bmlJZll5VFNlcDFPN3B1bHV2Mk1GdVNkQTVDUWdDbnpXclp2Y2N3VFBhU0d6ZUo1VEhyOUY1cWhmLWfSAWNBVV95cUxOZjlCT2p3R2xSeFNVLUswd0NlQnExRFNqX3AtTjk4Vm9nd04zcXlhSWs5S2EzcUpPQ0tLZTdjcXRvRUZ1WkFiVDZxYzNHU3owX2huczh5aGhCZEJDdERKbjJuX1U?oc=5",
+              "source": "채널A"
+            },
+            {
+              "title": "李대통령 지지율 57%로 급락…'野 예상보다 선전 45%'",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JQ01NWmtidjBkelZoaUVjVndLaExNZUE4djVIeUFhTVRpaXlYREk2alVfT1NFMEhBVGM3c0Vjc2dCbjVjMGp2TGgwQUNrM3c?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "지방선거 결과를 놓고 '야권이 예상보다 선전했다'는 평가가 45%로 나타났으며, 이재명 대통령 지지율은 57%로 급락한 것으로 조사됐다.",
+          "headline": "지방선거 '야권 선전' 평가 우세"
+        },
+        {
+          "rank": 5,
           "word": "선관위",
           "count": 2,
           "articles": [
             {
-              "title": "선관위 “‘1900매’ 투표지 보관상자, 폐기 뒤 증거보전 결정문 전달받아”",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3WUZBVVpVZUY1WFRfYXlwRkRnSGdUNzZjSDdkbmJxcEl5NzIxYmRDd0V4RVM1V29hU3ZvVE05dDVoRkhiay1QNHFsSklqdTM3Rl9aSFBFMzVfb0pDQkVoQlNyMzBFVkRuVUhGMC13VTcwMk10?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "투표용지 상자 못 찾아...선관위도 \"어딨는지 몰라\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPWlYzYWswY1h3UHZILUdFVUJmSE52LVJVWS02WFQ2YkxwbUlwaWplRlc0dTJoNWVJd1VaT0wyR1JtakttYl9PVEoxc0lFb2R6LTB3bUdZMy1teGVQT0E?oc=5",
-              "source": "YTN"
-            },
-            {
-              "title": "허술해도 너무 허술한 선관위, 근본부터 뜯어고쳐야",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaGdIZE1fVHpCLVppZ0preVEyeW9Rc21MV1dpUVVoUVJvb0VFa2NXZFp5OG9jMjV5cjJoQUJ0OWQ2OUdyd2FuX2RYYmIxTFk?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "1900매 투표지 보관상자가 폐기된 뒤 증거보전 결정문이 전달된 것으로 드러나며 선관위의 허술한 관리가 도마에 올랐다. 오늘 처음 등장한 키워드다.",
-          "headline": "선관위, 투표용지 상자 분실 논란"
-        },
-        {
-          "rank": 2,
-          "word": "트럼프",
-          "count": 3,
-          "articles": [
-            {
-              "title": "트럼프 \"이란 발전소·교량 겨냥 새 공습 가까워져\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rQk1TQk9mT2ViNVdFc3NwRTBlSE9EQmVNc1lUQ3VGWVZMQnE2WlQ1enhERmdrYlhDXzlad0JoMFJXcGFaUTdBSVVqNmh1cVV5ak5XaFk1bUVTUG8?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "'부정선거 의혹' 띄우는 트럼프...지지층 결집·패배 불복 포석?",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tczloMU03QzJIVzhnaVdtTWNjUXlLLTZGc2dfN0RkSnpNQkdlV3N1bkRvemxHbWVwdVlldGlSaTNuVlBWNkZpdkY4ZE45ZGdXUDBub004MkZPZGg4SXc?oc=5",
-              "source": "YTN"
-            },
-            {
-              "title": "안끝나는 이란전에 중간선거 빨간불…부정선거 불지피는 트럼프",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aODBTWHM4ak82OWF1QlB0UjAxQ040X09qcFppdkhHVXJrWWtDb29UT0ZhUzNIeFJVMzlUekRRS2hEeldWb3E2Y1Q3OWZJZ3c?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "트럼프 대통령이 이란 발전소·교량을 겨냥한 새 공습이 가까워졌다고 밝혔다. 장기화하는 이란 갈등 속에 부정선거 의혹까지 띄우며 중간선거 정국에도 파장을 일으키고 있다.",
-          "headline": "트럼프, 이란 추가 공습 시사"
-        },
-        {
-          "rank": 3,
-          "word": "정점식",
-          "count": 1,
-          "articles": [
-            {
-              "title": "국민의힘 새 원내대표에 PK 3선 정점식 선출",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXcWtHVjVVby1QcFVZZVdlR2dwYVJHRDZmTThJU0NxUFV1ejlvT09pSV81Q01GUTBVTFVCeFY0UjQzbmN2dEFKWXo0cHFVSDRYRWMtMXBR?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "국민의힘 새 원내대표에 ‘당권파’ 정점식 선출…7표차 승리",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xbWt3SDlVTVJqOHg5T0ZYd3N4a1FfLTk3UVlZWHhCTnVROEI2OWpLN1FCb3lNRWVRNDFudjFabllnb1lIVGs4OHoyUW55M29ZV29HOWJzZXN0UVE?oc=5",
+              "title": "선관위, 개표 결과 잘못 입력…1,104명 민의 증발",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVdmN2MkZIc1RxRWQtdnBtbWEwOVFFRzRyLW5Jdzd3NlUzN2VLSmhSMV9DLWxPdmN4RjZpOEgzYmJhQUh2TEZLZ0owNjNLaUlwbWJDVUkxQnVYNDA?oc=5",
               "source": "KBS 뉴스"
             },
             {
-              "title": "원내 수장 된 정점식, 장동혁 거취 관련 “의원들 의견 듣겠다” 신중론",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZYklHY3hvZnc4Y2FZeHV0M21lZjBFRHAyTUhXM0JsMHltazN3MEtlMktQOXcxRWEtSndTeGFsd2dETUl6UGZVMGxXXzlPaEU?oc=5",
+              "title": "‘부실선거 증거’ 없어졌다…선관위도 \"어딨는지 몰라\"",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BcnRVMURhNG5VS0gwN2p3QjdwaHdKUlRKZWRuN1pFMmJrWlVtbGdQaTZVMEVkUEVIVzRfc3ZmUi1TYzU3RHktOVllNGZNNnN4NXdLYQ?oc=5",
+              "source": "JTBC"
+            },
+            {
+              "title": "선관위, 이래서 무능했다... '참사' 일어날 수밖에 없는 구조 [소셜 코리아]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xRnRFV0tfN2ExV255TThFWVZBUVZIVi1NVUxJdWgtWFVuQVU2RXdlOERDNGtxQkxLTlNKbE1BYXRudzAtc2lPUzZPeFQ4Mkk?oc=5",
               "source": "v.daum.net"
             }
           ],
-          "description": "국민의힘 새 원내대표에 PK 3선 정점식 의원이 7표 차로 선출됐다. 장동혁 거취 등 현안에는 신중론을 내비쳤다. 오늘 처음 등장한 키워드다.",
-          "headline": "정점식, 국민의힘 새 원내대표 선출"
-        },
-        {
-          "rank": 4,
-          "word": "아이바오",
-          "count": 1,
-          "articles": [
-            {
-              "title": "에버랜드 판다 아이바오 세번째 출산…암컷 아기 판다 탄생",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12eWxVMmVhVVZ2VDczVmlWUDYxV09pdlcxWmRYM3hFUVVNUkJYZE96Yll5OFZNMENpVDBWa0dyUVpXMkp6SnpHMDFfb3BBbzNwYm1jSlZ6eVZEUEHSAWBBVV95cUxNTU0yWTdCN2ZIcVZadDRfNlhyeUpvZEU1eVBhMU9IYUdtYVR0RnhvWjFCM0RBRFFWbkUzQm4wa2ZXVUtYTEk5V0hLcDlpaVh0bkZzV19iZmZNZTk2NWZaR3E?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "아이바오, 푸바오 여동생 또 낳았다… ‘네 자매’ 딸부잣집 된 에버랜드",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Tdk9zZEFZWDIwMDBFYXM0OXp0c3NnMk0zLXh3eUE0aGVkREFrRWdoaEV1VUFWanRENm51RnVZMWxOaWFPQU1BaU5kLUxudUYzaDNKWFFTOVJaN3FGaGpaeExB?oc=5",
-              "source": "이코노미스트"
-            },
-            {
-              "title": "“푸바오 여동생이 태어났어요”···에버랜드 판다 아이바오 세번째 출산",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KRkJqUHFqUDNwaXgzUDNZRkt2VlN0ck9nZmJkZlZqenFYeWpVcnZKREZSdWt2T2hMOGtqUEZheXRxWkZscHVaMnpkME02OGFZdUhUUzhqSk9JQdIBX0FVX3lxTFBoY2E3dUZXWnJiTnFKV3lhcmpkZmRGdzRoakpqa0Z5dnkwNnVZd2JteHcwYm45amlfaXFfSUxaUjRxcFlmcEQ0aFg3SGZwcnM0aHFTS2oyRmEwN0VGUkl3?oc=5",
-              "source": "경향신문"
-            }
-          ]
-        },
-        {
-          "rank": 5,
-          "word": "카카오",
-          "count": 1,
-          "articles": [
-            {
-              "title": "네이버는 엔비디아·AMD, 카카오는 구글·오픈AI...두 기업의 같은 길, 다른 동맹",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PMlBMcE4tY0l1QVJOeE1tTU9qSjMtR0Z1ZkZlM0ZHcWt4RHk5MnlhLVVMS1BBcThWRmRRVWJXaXJ4MjQwU0RYWmh4NVdZRndXUGppQWVR?oc=5",
-              "source": "지디넷코리아"
-            },
-            {
-              "title": "카카오 노조 29일 추가 파업 예고… \"경영진 불신이 문제\"",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMHd3b09NN1BZSEtlOGQ0TTN2cGdTZU83TG9EdUpVZUFxWldKS2tIQnJqd3ZuVkhLRWRHc3BUOWgyc0Fmb2x6NjlYa3ZxNEVOSHA2cmVNdDE1WXUxVXZMSE9XR1FrWnpmRGtVSFFNdHMyQWZMMTE1T2MzdGVBbTV4UjRVYw?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "카카오페이, 삼성페이·지역화폐 결제하면 '페이백' 이벤트",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56M1ZSbllQQWtOQnJHQmlZM2pqV3Noamk3OU5naGFaQ0tYeWxMNHBDaHlpTUpaUWZ3ak1oaHE1VzhUZGRRaFlUMVY1S2dPR2xFakpjdlU1RHdKT3Mtd1FtTNIBeEFVX3lxTE96ZTF2OUI2cWUtLXpyaUJ6QTlPZFdxWkd0aktaQVFXWHNDSVVBZUNYWXFxOHgzWlNTRHhpSDR3S3d2dFA3WmtnZXpPM01jd1RKd1JhdUx6M1VJNGtqRHRNWEVRWHVsVzFXUmJVZXhhdWZ6Vzk4WGpVeQ?oc=5",
-              "source": "뉴시스"
-            }
-          ],
-          "description": "카카오 노조가 경영진 불신을 이유로 29일 추가 파업을 예고했다. AI 동맹 전략과 카카오페이 이벤트 소식도 함께 전해졌다. 오늘 처음 등장한 키워드다.",
-          "headline": "카카오 노조 29일 추가 파업 예고"
+          "description": "선관위가 개표 결과를 잘못 입력해 1,104명의 표가 누락된 사실이 드러났고, 부실선거 관련 증거도 소재를 파악하지 못하고 있어 무능 논란이 확산되고 있다.",
+          "headline": "선관위, 개표 오류·증거 분실 논란"
         }
       ]
     },
     "경제": {
-      "summary": "반도체 공장 입지로 호남 지역 부상 및 최태원 해외 가능성 언급 · 카카오 노조 첫 파업 · 젠슨 황 방한 화제",
+      "summary": "반도체 기술 유출 중국행 적발·삼성전자 AI·패키징 부각·미국발 반도체 투매로 증시 급락·SPC 공장 끼임 사고·미국 물가 상승에 금리인하 전망 후퇴",
       "keywords": [
         {
           "rank": 1,
           "word": "반도체",
-          "count": 5,
+          "count": 7,
           "articles": [
             {
-              "title": "최태원 “반도체 차기 공장입지, 한국이 아닐 수도···종합적으로 고려해 결정”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xSkd6dE5vaDBZQlNDa1VXTGpVZ1FnMzJqemltcy1hNWkxWmtRQUNycnpVQVdKUWx2R0M4X0dDNUV6V0d2cmlrR0lPMm1KNnBEVUJaNmttTmxad9IBX0FVX3lxTE9KNmduejhBWGVkbGs4N3c4MTk4Xy1Zck82a0ZGaUs5TFFhZkZMWExYSklZY3dTWmRGYXdTTFVwMERVRkJIeC1oMGs3N09TUk9ZZEQ1Rm1Cb3BlMVcwOVJB?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "내년 잠재성장률 1.5% 미만 전망… “반도체 착시에 빠져선 안돼” - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdUpJNm1hT0s5NkpWZE9PTGJkNHBSNzBSNG5jcWNuVG9Gb2pOdTdvTGNsdGZZLVNQa2x1UXRlNU5PSVdobUgwU09RUXdRazY4LVRXdkVaOVJKUkZwNUowOFppbVlsTWhzd0s1dG41ZHE3NFhVV2NOVkZHRkVfenlYenFDdVVPQdIBmgFBVV95cUxNN25neDFKV0hkSTlrbU1BdHBwLThocDdYU0hOVE1DcG1kSFZJMW44MHI5MUhFUFQ4enJxa1YyQTF1VVZMdDB1RDl4ZjhWdFJTTlBTNEZKSGdxQ2tEQURpYkJnMXVoV2xnZk1nRk1Cam9iMnFjbDNfQjJUcnlyUHZjTXA3cERyZlpnUGpMelhSRWp2MTBIWnZHcFB3?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "하닉 우습게 아는 中기업 있다…단가 8배 뛴 전력 반도체 강자",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DTGdtWmluRHMxS04tcTZ4aWNDdFhvRmVXbmRwU3ZuZ0pQMHM0YXFuZ1FVc2MwV29WMjBPajRrUDVvYnh1RnY0NEV1YzdzMnpTOVN6d25n?oc=5",
-              "source": "중앙일보"
-            }
-          ],
-          "description": "최태원 SK 회장이 반도체 차기 공장 입지가 한국이 아닐 수 있다고 밝혀 화제다. 한편 내년 잠재성장률 1.5% 미만 전망과 함께 '반도체 착시'를 경계하는 목소리도 나온다.",
-          "headline": "최태원 \"차기 공장, 한국 아닐 수도\""
-        },
-        {
-          "rank": 2,
-          "word": "삼성",
-          "count": 4,
-          "articles": [
-            {
-              "title": "삼전, 광주에 반도체 공장 추진… SK하닉도 전남 투자 검토",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96dWxleU9CWXdQanFZT0wxWml3MWhCRDlfQUJUTkJuQ25ZZmxwbGxfY1dyb0tsM2tGTG5BUWJ1b0UzVF9QUDYyZXAxZk9QeWhOUUx0ZjdJcGdSemRuV2tZcnlwTUVIcDc2R3lKdERBdkZJRHZjd0E?oc=5",
-              "source": "동아일보"
-            },
-            {
-              "title": "삼성·SK 반도체 호남 투자설…전남광주 첨단3지구 부상",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SbFJvNFdnYzNsWVVRVGhiZlliamM0TEc0bk50WkNNLVNpWU9qQk1VQ2k0YWU0a0VhZHI1YjhnNWV2NXB1SHhhZVpGVTBxX0U?oc=5",
+              "title": "삼성 반도체 공장 베끼고, SK 설계 도면 빼돌려… 종착지는 中",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnUnZaSHhTV0xtbDZhTUJORXpIVktqLWRBdkU4TDI3elVlUTJlQWpmQkN3cmRKYzlVZ2NOQzBlVGI0dHFmLVZuQWhzZ1FsS0E?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "삼성전자·하이닉스, 각각 6.1%·7.5% 급락(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3X0E0OV9WeG9mTDZtNDF3OXhzYzUtTWlieGxleEsyU1NRclc2UzlZa2xfTDZTeHUyd083Zm9OeUVZdUo0X3FucU9INHYwRlN6cE12R2ZTaWVCSUXSAWBBVV95cUxPa3ZhYjg2VHJISVBfbWkyWC1VaENaM0JwM0trRTVSX3dxQmFmLW5BcmpOUDdyMHBna1R4MDJfTHN3WjY4bndTdHZtbkJFZEJpUDVtUmRVSGVVWElWOXJWb0o?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "삼성전자가 6.1% 급락하며 하이닉스(7.5%)와 함께 큰 폭으로 하락했다. 동시에 삼성전자가 광주에 반도체 공장을 추진하고 SK하이닉스도 전남 투자를 검토 중이라는 소식이 전해졌다.",
-          "headline": "삼성전자 6% 급락, 호남 공장 추진"
-        },
-        {
-          "rank": 3,
-          "word": "파업",
-          "count": 3,
-          "articles": [
-            {
-              "title": "카카오 노조 첫 파업, 29일엔 ‘업무 로그아웃’ 예고",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44b1l5b0RWd3h3TUVrRlpOVHNoT2xIWkFOQk16MzNhNDFCaDRqVU1tdGRYMEJQT1RkMFc4c015X25fU1YxNDdMdEpreDNaV21FWjROQThHa3hkdk43eHc2SVk3UzNMN0RVWW5HVWxGZHY5RUpFVVHSAWZBVV95cUxPRENNNHZuQXNoNUx0ZXY3X21YbEYwWm1naHJic0NsTklvZGM3dENfRGt3N3A0VVFzU1NaTVJFaHJZUkRTc19HTl9iamU4RTNWem9OM1Y5NnFVbEh1Ri1nTjRZZVhVcFE?oc=5",
-              "source": "동아일보"
+              "title": "최태원 “일본, 반도체공장 훌륭한 후보지…AI팩토리도 가동”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5czhFQ2MtYWxRWEJmMmhzWUh4V3o5ZHZoVGtNdWZaOEJkSXFSc2hOS2QwR0JjM2ZqR282dDV1VnhKdHBhYXEtV0JDUzlQZWVYUU9uNHNCRWxMSk0?oc=5",
+              "source": "KBS 뉴스"
             },
             {
-              "title": "‘성냥팔이 소녀’…40여년 후 성냥소녀들의 파업 [김현아의 우연한 연결]",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zZFNSejJ1ODlWeFJmWVdfcE9KQUxiSnpJOXV4RWk4NlNDWkQ4WHhqU2VjSWppWFZRcjdlV3ZlQmppLVJ2RzRvMFA5Rnk5cHJ0dUhiUXVXUFpyeEQtX3BBZ2NET3ZQQQ?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "카카오 오늘 첫 파업...노조 \"참여 인원 1000명 돌파\"",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTl1WmZoR1NBMGNPQ0xjbjZZbzJQNnJrTGs5V0d6VG5xYlUzWFpBcnd2VnZNT3k2bGRsbVhRZ2VlaXFBT3N4dmFKX0lKTG9YQmx4UEV6cWZRdGZIOXBzRzd6SUlGVUZHWmRnbkpJN3NqY193LTU3LTVrVXRsQjZEVVMyUQ?oc=5",
+              "title": "최태원 \"日에 AI 팩토리 구축…해외 반도체 공장도 검토\"",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMWVFc2kyaFBjdkQzaGc4TjZWUTBBZ0FvdFlIQk8xaEVlYk51WGhSUVZaWmhzOUx2M0RrNjFKWC1tNDZzeEhRZENEdVpEb1ZjeThXVDlFdUMzakFaQ3dEZFJmZHhtdGdqdzlPOWpjXzhoVk83ekNfX01ud3oteXFFNmR6NlJpT0xJNUJPYkdrbw?oc=5",
               "source": "조선일보"
             }
           ],
-          "description": "카카오 노조가 창사 이래 첫 파업에 돌입해 참여 인원이 1000명을 돌파했다. 29일에는 '업무 로그아웃' 형태의 추가 행동도 예고했다.",
-          "headline": "카카오 노조 첫 파업 돌입"
+          "description": "삼성 반도체 공장을 모방하고 SK 설계 도면을 빼돌려 중국으로 유출한 사건이 보도됐다. 최태원 SK 회장은 일본 내 반도체 공장과 AI 팩토리 구축을 검토 중이라고 밝혔다.",
+          "headline": "반도체 기술 중국 유출 적발"
         },
         {
-          "rank": 4,
-          "word": "코스피",
-          "count": 3,
+          "rank": 2,
+          "word": "삼성전자",
+          "count": 4,
           "articles": [
             {
-              "title": "\"지난 22년간 삼성전자는 8월 하락 확률 73%…코스피 8월 변곡점 가능성\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iVlY5ZHZNR0dCeWpudFFZNXpoei1Rbk9iQTloV0dyMHNxMEtFUHhnZGJEbC14REEzOU5ubVZtQnA4SmpDcEFJWWZoLWotX1JSV2o2ZG9TaHJTNFRDVXQ1VtIBeEFVX3lxTFA2LTlJZlN1emwwM1RsZFJyLUQwdVk4c0hrX18xaVJRZWl2Y3B0RTh5QjNfbkNiN29xd1pWbW9EeHYzYjBrSFZnZjEyX3RrbHNpVTlYOG05MzZmd1diNmo5STlBMnpuVHFTbEFua0dWai03V1U4Y0I0Xw?oc=5",
-              "source": "뉴시스"
+              "title": "샘 올트먼 오픈AI CEO, 방한해 삼성전자에서 AI 활용법 사내 강연한다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQalFWTzdSMGpmWHdyX0hnejBhSmlEXzZfNktrbmVfTWxPSEVMSUExbzJHWnZqMXVaeXU3VkFZUHVPcWtXOGx6d2k0MGxEN1k?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "\"미 5월 CPI가 중요해\"…어질어질 코스피 오늘 밤이 변수 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SSlRGRTVVMXlEQS16SEUxRTg0WGh6N0d4djdhUWQ4dmRzaDUtTlhKRDJFUjNKc3JEanZoMGV3dXROX3FjLWh5VDlGNzA0R1o3MHZ5azNuWUJ6NXNidm5FMEsybFZxSmZ30gFuQVVfeXFMT3FPQjNVRmYxWWg2dlhzOXl4LUxxVzR2VUdHZ0FKTkRBdmY3Nnp2WEc4dHFNYlZjN0NzWGxMM1ZHZWNGOTlzUVhfbkc4bzc2THhBTFlvOFctR3d0QXZrMWVvS2ctUjMtME5WLXVOc2c?oc=5",
-              "source": "머니투데이"
+              "title": "삼성전자 반도체 모멘텀의 마지막 퍼즐은 '패키징'",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45djhabGUzZmY2TV9US1lfcDJMS09ya3QzOTdTSTFFWFNxcXl2TFpVbkRlMmctY3pIX3VybGRwQUNPUktSa2NDS2U0dmx2cktrM3NpUGl3?oc=5",
+              "source": "지디넷코리아"
             },
             {
-              "title": "코스피 외면한 외인, 코스닥은 6조 샀다 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10dVcteFpqVlh1UTM0NG1RSFJib3UyLTVkSDZlSUxxd1NHTTZTaVZpVFZHTGJjaGZudk1MYmNOU2dVRlo5VjVJbkl3XzZqbjU4MjJfbmRsUW95a2htaVJWeXROOEZianBi0gFuQVVfeXFMUFpSTGp6b3UyQUFOZHl4ZjFrSE1kWXA5dHJoV2txa2FjeW9ySWFyUFRPSWFBN0lwVm5ZMU81ZmphdExtbzdTVnoyMzc0WC0tcGhkNzNkQzVsaFVsaGlfbERDX0JzdFNCNHRkTjlsQ3c?oc=5",
-              "source": "머니투데이"
+              "title": "삼성전자, '12회 대학생 프로그래밍 챌린지' 개최...AI 부문 신설",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5na0J5SWtTbmJ5VmdjUW5qQ1lreWdGM0N5bVEyOHgyeVpNVkhZa3BnUkdoUDlicFJXWU4zbGJWMk9PbldoTm1qUktYQlBEMHdlaWhJNGp3?oc=5",
+              "source": "지디넷코리아"
             }
           ],
-          "description": "미국 5월 CPI 발표를 앞두고 코스피 변동성이 커지고 있으며, 외국인은 코스피를 외면하고 코스닥에 6조 원을 순매수했다. 최근 2주간 꾸준히 상위 키워드를 유지 중이다.",
-          "headline": "코스피 흔들, 미국 CPI가 변수"
+          "description": "오픈AI CEO 샘 올트먼이 방한해 삼성전자에서 AI 활용법 사내 강연을 진행한다. 삼성전자는 반도체 패키징 역량 강화와 대학생 프로그래밍 챌린지 AI 부문 신설 등도 화제다.",
+          "headline": "샘 올트먼, 삼성전자 방문 강연"
         },
         {
-          "rank": 5,
-          "word": "젠슨",
+          "rank": 3,
+          "word": "급락",
           "count": 3,
           "articles": [
             {
-              "title": "\"젠슨 황 자리 주세요\"…홍대 일대서 '성지 순례' 열풍",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4bUgyQ3Bvbi1OZmhGdTFYcEJoZElxU2hZMEw2NWh5M3lQQlp4a2FUd29UbzdIS2JtM2ZZSDlhQThxcjRxeFdoMWhTREtSVUc5d2EwZWk1M21FWmvSAWBBVV95cUxOaGtoYnQ1MjZ1czJvTW5fbXBMMUVpd3lwREp6NnBxcE4xazhFX2dCdkpaLTN2anNDdm5CeWRRWnAzdjlnUWJWRWVzOXVxVndUTDdjQkdSOG9TUktGdWRZQXg?oc=5",
+              "title": "마이크론5%↓반도체 투매 뉴욕증시 급락",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FZ0RPTjU1clBsVFFPWURuZDJrZDBMTmxkbHRnMHJGME9KekhGY3M4aF9NYXQxRkVXaTJOd3pnQm95aXBQVU53U0MtMHhXams5?oc=5",
+              "source": "문화일보"
+            },
+            {
+              "title": "코스피, 또 4.5% 급락 7,730 마감…다시 '8천선' 밑으로(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XTWxzRmRjc1FWOWMtdWt2MVBOWFJIWm5GT1MxdGxtTHFrcFhpQTBaNnpMY0tyT2NKQ0JWSkNpY3ZqSmktbjJ0Mms5WXpUMnVmODlHVXJrc0NTRlXSAWBBVV95cUxQNEtNV3NFbkxKeVZJRUNQMEp3eko2UW84aVJKdUlwV3ViVVFGdHR1NDY1anZPeFdhZzd4V0VJVVotQ05PUnlyUmRMZHlyQzgzS0IyMm1lUnZkTXAxWDBzU0w?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "“빅테크가 산타는 아니다”… 젠슨 황이 남긴 ‘선물’의 불편한 진실 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT2ZFWjBIb0tZRDkzX0x6YVJZTXIydDlsWFh3OUVhcE13R3NaOXV2SW9OWE5GdjVOY1BsXzFoaW1UR2JSNFJ6LUZZTXJNYzNCZ253SVUtZUNSMXpMVUxDU0pzT1dkek9Vak51LU9kUVZYV2Z0Q1FieTZ6N0VtWjRYTElB0gGWAUFVX3lxTFAtS3pTS2hNTnE1NzJjbVFOVmVZcEt1LU10WkIybzF2MHNnOXRpa29wazlCRFZRQ3htZHJaemNFZ1dyZ0tZSXZ3YjUwRkxxM2J6T2cwSF9Ra0owWDNYN1hnSTRBVlF0TkliR08xRTEyQWhEbFpsajB0eEhDanhvbEd6NUlaX2hFUV9rMExrRlZka3dOTnN0QQ?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "LG 구광모에 맥주 따라준 그녀…‘젠슨 황 패밀리’ 숨겨진 비화",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SbW5OdXZ5ZS1XQ1dCRjdjQUVncDhwRGpYRGFqYnNNX1lLbFJCQjlOUTJmQW54SXV5cHJFRXRNOXFldVMwclJtMmZKLXRiOTZjN1YteXFB?oc=5",
-              "source": "중앙일보"
+              "title": "이 대통령, 지지율 급락에 “겸허히 받아들여”…9.4%p 하락",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PdWpzb3V4eDVyYnR2R3I2VG9hTV9va01XYzFydm1iVDZpNmQ4c0Q4dDFDM0djS3M4d0NkZHpZeWdma19ibm9JZmwyczVCUXQwSGIxcWh2ZFloMHk0UEY1bkVKUFI3Q05mVVdzOGJoVEpuanpB?oc=5",
+              "source": "한겨레"
             }
           ],
-          "description": "엔비디아 젠슨 황 CEO가 방한하며 홍대 일대에서 그가 방문한 장소를 찾는 '성지 순례' 열풍이 일고 있다. 한편 빅테크 투자에 대한 '불편한 진실'을 짚는 분석도 함께 주목받고 있다.",
-          "headline": "젠슨 황, 홍대 '성지 순례' 열풍"
+          "description": "코스피가 4.5% 급락하며 다시 8천선 아래로 내려앉았고, 뉴욕증시도 반도체주 투매로 급락했다. 이 대통령 지지율도 9.4%p 하락하는 등 각 분야에서 급락 소식이 쏟아졌다. 오늘 처음 등장한 키워드다.",
+          "headline": "코스피 4.5% 급락, 뉴욕도 투매"
+        },
+        {
+          "rank": 4,
+          "word": "공장",
+          "count": 3,
+          "articles": [
+            {
+              "title": "(단독)또 SPC 사고…샤니 대구공장서 노동자 '끼임 사고' 중상",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnNXdJbjFUd2NyYU5oTFMyQjlOelREUzVOQnM0eDNHbjJSVWdSVE9hZ0lVNWVxdXZBNUhZY3Jaa20tR3d1WDRBZUJzcVI2LVhxNkNNWE14dUJrSWgwbGZOUQ?oc=5",
+              "source": "뉴스토마토"
+            },
+            {
+              "title": "SPC 계열 샤니 공장서 또…이주노동자 끼임 사고로 중상",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xZzdoVzFkQ3dQNmwzQUQ1OUVyQkk4MzdNTUc5YWxjY2Z1NWU2NFNvQndWSkpmRjNBbWtFcTFHY3RicHZReEZsaU1HX0ItOTc4RE92ZUJ5WmRMYldiV2pzM0NsTUs?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "대구 샤니공장서 끼임사고로 40대 중상",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTURBMG11emt2cTAwRkFxd2FaaDlpT1h0S2NsMjE4aTlrVTFsMGVtLWI2MGFtRThadlhWMURnX0pNWGZQVkhHWGZVcmR2dlNiM29BdERCY21oZ1o4OFAwMlRMb0J1TXdlZzJrVHQxU29uclNDek5qWmQ1UGw4dE9od3pYTkNmdw?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "SPC 계열 샤니 대구공장에서 이주노동자가 끼임 사고를 당해 중상을 입었다. SPC 관련 산업재해가 또다시 발생해 안전 관리 문제가 재조명되고 있다.",
+          "headline": "SPC 샤니 대구공장 끼임 사고"
+        },
+        {
+          "rank": 5,
+          "word": "금리",
+          "count": 3,
+          "articles": [
+            {
+              "title": "美 CPI 3년來 최고…연내 금리인상 힘실려",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkZXFnSTRFUHB3VFg2ejYwcjVKa0tjdTc0WHlrSk8yUmxnMERCTnYzUnFzNWt2T1MyYjVxc3F5d1puOThCa2w5aE1UVTVyY2hHcFdXZkxVRjJjd9IBVEFVX3lxTFBpWUNlS3Z0RHN3cEpzNEVnSml1RVEzOVhqdUFXQ3ljVzBKSU9TRDZzQU91WGVlWm5kaTdCeVhLRFRlak5qbkdUOXhDS2tubUhvcXRPaw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "美 물가 3년만에 다시 4%대… 금리인하 전망 멀어져",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXJFa2RIRWM0dFlqcVh6eUdaaXVvRnd5WmgtdFA4R011MndsWjA2eDkyYnJ3WFQ3aTdEMGw2QWVCRUVBQjZDSDUtWXZQWWJtdWptMGF6cW5xd09neW0wUmZSdHZSWmwtSlU2S0RyNlZPOU1IbGZoOG14M21aZF9aRm80alhRaWNMM1lF?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "미국 물가상승률 3년만에 최고… 주요국 금리인상 빨라질듯",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oN25jdUNGMm9JdC04T3ZQZTZKNHJHaUpVN3ItWERqTVI1aWxFTDd3OExtN21VZk5BUHJTQUdWRGEzRHptRmF1eGpqaW0wcV8z?oc=5",
+              "source": "문화일보"
+            }
+          ],
+          "description": "미국 소비자물가 상승률이 3년 만에 최고치를 기록하며 연내 금리인상 가능성에 힘이 실리고 있다. 금리인하 전망은 멀어지고 주요국 금리인상도 빨라질 것이란 관측이 나온다. 최근 2주간 꾸준히 상위권을 유지 중이다.",
+          "headline": "미국 물가 3년 최고, 금리인상 압력"
         }
       ]
     },
     "연예": {
-      "summary": "넷플릭스 '참교육'이 故송영규 유작으로 화제 · '하트시그널5' 출연자 불륜 의혹 논란 · 수영·정경호 결별 재조명",
+      "summary": "정경호 열애 결별 재조명 · '참교육' 국내외 화제 · 빅뱅 데뷔 20주년 월드투어 발표 · 하트시그널5 불륜 의혹 논란 · 황정음 재결합 오해 해명",
       "keywords": [
         {
           "rank": 1,
-          "word": "참교육",
-          "count": 3,
+          "word": "정경호",
+          "count": 2,
           "articles": [
             {
-              "title": "故 송영규, 유작 '참교육'서 펼친 마지막 열연…묵직한 존재감",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PRXpYc0FqOFpPNzVISmh4bjVYLUVPWmhBMTFhX3VTZTFvV2FVb2J4UzZXcGJRd2tBRU1GdExSWmZmUV8xNXBmRXltckhpa01tWFdaN2hTdUxOZXU5dDdPYw?oc=5",
-              "source": "뉴스1"
-            },
-            {
-              "title": "넷플 1위 '참교육', 故송영규 유작이었다…사망 1년만에 공개[이슈S]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhWVUySTRyc25fUnFlWDdlMFhjN2dESWllRzhVbmxvNVRBMThFMkkwVW9pZmlITm5Wb2VtZjlneWgwR016ZjRCTWlWbFpjcDg?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "故송영규, '참교육' 유작으로 남았다…마지막 열연",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1leG1HOTZZb002WDdFMGVuY2lhN1Nvak5aeThLOE9oQzYweGlJVFlvcWd0LWgyeDJ1cWNKa09BdW5GSk16MGpDOVJfWU1QMHp0V3JBWExXaXhmUzk4b3RrddIBeEFVX3lxTE52Zm9BdVhqV3VGZDVQeUxMYlJNYmJjVHVpV3VWdlByc29FWDRFYTl6YVlERkp4QXhwODlTZ21PZjdEeC1NSnJXMnlZdkpFREt0MmNqTmg2T1cxOXQwdkpZd2o0RllKVllJR3E1YnlaUTVQYm5TdXp5RQ?oc=5",
+              "title": "14년 열애 끝 결별…정경호, 수영 언급 발언 재조명",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5R2h6VTkwRmhhc2pWcTJXYWNQQkZ3NVFZLWhPT1BlZzUzRmNueVhQYmlEeHppSmZJaUZ2OFJXUHJrZ2tmNHpRb1ZNbW5hSDVrZi1feDI2LXRRRkx2bXhTMtIBeEFVX3lxTE41QW5SNDBSSUNaSmw3OWd5bmdJUTRGbEFWRnNiTWFKZjBVWjdTeHczblhEenJJbFhNc01vNjNHemhVNExoOEl2amFiUHRkMXJvc0hoNEVZSjVQMlVXZjU1U3JiN1A3dlVXZUlwdkNJU1RjbVJZaU52TA?oc=5",
               "source": "뉴시스"
-            }
-          ],
-          "description": "넷플릭스 시리즈 '참교육'이 공개와 동시에 1위에 올랐다. 지난해 별세한 배우 故송영규의 유작으로, 사망 1년 만에 마지막 열연이 공개되며 화제를 모으고 있다.",
-          "headline": "故송영규 유작 '참교육' 넷플릭스 1위"
-        },
-        {
-          "rank": 2,
-          "word": "슈돌",
-          "count": 2,
-          "articles": [
-            {
-              "title": "‘슈돌’ 한다감, 한옥 본가 공개…“父, 청사초롱 100개 밝혀”",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZM3lRVjRrcUhaLWs2VVZ2SGtreXBGU1lUNGRaWWFsdmdNZTBXUU5aVWs3MUpJYUhLQUEtRVkxaFRFZElLSE9jdVBkZS1lRVVWcjdFbXZsMTJtQnQyaFhuYTNYcDVDbG9wUjRTOHEzWHphOXZpZDNtMDRlRF9md9IBZkFVX3lxTE05aDV6VGo2bmZNU2ZYUTFqYzZsWENNZmNpU1ZlZGNqYmlDSk9Pc1RCTW9rbWROS3dtX2paYTl2WmFoT0ZzS2RHWlRRWE1BSDdRaGFQODE3dFl4MWY3dzBmSVc3QVQ4Zw?oc=5",
-              "source": "동아일보"
             },
             {
-              "title": "'슈돌' 곽튜브 아들 태산, 튀김·꿀벌 변신…류현경도 심쿵한 치명적 '귀여움'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZGxPSWpJZTdIU3p1bmVhazBHUlUya2dDOXFmenlvRkdQZHRKdG5meGUzTEdweFNHVkFQa2xMUmZJdUZOd3NwLW9fQ3g4aEE?oc=5",
+              "title": "박정수, 정경호 말고 또 있었다…식품회사 대표 '양아들' 공개 [마데핫리뷰]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83dmoxWjlaMHpaM3FYSUM3dFdqaDhsOGZhcC10dGJHUTQwTVJCZ3Y3b1pRQWkxT3FoZXlTbm1zN2FxOC1wSTd1SkRqYlBJVnM?oc=5",
               "source": "v.daum.net"
-            },
-            {
-              "title": "추사랑은 모델 도전, 하루는 라이즈 작사가…DNA 입증한 '슈돌' 키즈 [엑's 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yaXZ1ZlZEQ3ZqT0NDTUlUUXdsSjA4STFiRERpSzdyYTV4NXBJMEIteGNpLUN2X3JaRkl1ZEZyT0xFNzd3WUgxemdCZVRld19vaXRQWA?oc=5",
-              "source": "엑스포츠뉴스"
-            }
-          ],
-          "description": "곽튜브 아들 태산의 귀여운 변신과 한다감의 한옥 본가 공개 등 '슈퍼맨이 돌아왔다' 출연 가족들이 화제다. 추사랑·하루 등 '슈돌' 출신 키즈들의 성장 근황도 주목받고 있다.",
-          "headline": "'슈돌' 곽튜브 아들·한다감 화제"
-        },
-        {
-          "rank": 3,
-          "word": "하트시그널5",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'하트시그널5' 출연자 불륜 의혹에 제작진 \"방송 방향 신중히 검토\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lMzJQcTdXeVpoSEppcl9hUmE3QzBublFIbXF4Q05KcEhJRGRuX2xWSV92REpEZmFZT2pTMENaQWc2dmJDU1BQTTdVbHk5UDg?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "박우열, 강유경에 직진…최소윤과 깔끔하게 정리 (하트시그널5)",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HT1YtNl96TWNXZVpXRl9abDFoRmNfOWYteXRtbUdHZERlb01YWFRzcVVJdnUyUUFRS01QWkQxVEZsd0NtbHB5Wk92V3ZhMVc3THVmTzRmQW51SlkyaUU3MmN4VkJSN19ucHgzYzln?oc=5",
-              "source": "스포츠동아"
-            },
-            {
-              "title": "하트시그널5 9회",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Id1lBUVd2S1hERkhBalZNbGlLZjF0enNBbDVIWGdWbGp5QWhoOHBrazdGZW5tTWg4TkdXRGxXODlrZEItOWNqNW0xVTBIVHdwMVhkTmwyV1dJaE1OT09Z?oc=5",
-              "source": "채널A"
-            }
-          ],
-          "description": "출연자의 불륜 의혹이 제기되며 제작진이 \"방송 방향을 신중히 검토하겠다\"고 밝혔다. 어제 5위에서 오늘 3위로 상승했다.",
-          "headline": "'하트시그널5' 출연자 불륜 의혹 논란"
-        },
-        {
-          "rank": 4,
-          "word": "양정아",
-          "count": 1,
-          "articles": [
-            {
-              "title": "양정아, 결혼 2년만 이혼..“43살에 급하게 해, 철이 없었다” (‘같이삽시다’)[핫피플]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lVHMyMzF3dl9SMnpLbGFRRkdnandMcHh5ejAzT3o0RHlMWmFlRkNxendsM05YV3luVzFNOGpRTzNCZjJwbjdCYW9qamRFcDQ?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "'같이 삽시다' 신계숙 \"아침에 삼겹살 먹어\"…양정아 폭소",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPRG9OS2tXLTVMOS1wYm4wQ0hHOFZlR18yUUU4Q2NnWGRNRG5rVUt4YXcycGZrOEdvdC1mMWI1Skw0eGtqVDI0VTZhTEpXNGs?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "양정아, 결혼 2년만 이혼..“43살에 급하게 해, 철이 없었다” (‘같이삽시다’)[핫피플]",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKR0hvUFZkaVJxSkhiVmJQMTZSQmZLcHBLa0VWeUxncW5ES0ZPcUlLeW9JWElWVkVYbFdmcV9wbHduMEUyOHR5aFBFSzhzRVUwY3dJ?oc=5",
-              "source": "osen.co.kr"
-            }
-          ],
-          "description": "'같이 삽시다'에 출연한 배우 양정아가 결혼 2년 만에 이혼한 사실을 밝히며 \"43살에 급하게 해, 철이 없었다\"고 털어놨다.",
-          "headline": "양정아, 결혼 2년 만에 이혼 고백"
-        },
-        {
-          "rank": 5,
-          "word": "수영",
-          "count": 1,
-          "articles": [
-            {
-              "title": "정경호 \"수영에 감히 물어보지 못했다\" 결별 후 과거 발언 재조명 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Tb3pxNFZvV0NTbkIyb3pzZGRPcTUwSXdJU0I3U0ZzRE9BbTU4S2xlWWFBZl9kUGV5V0ZTejNqQVpaMXBUVnUwX3FaRjBDdWFacVVtNTJhN3Q3WUpmd1dzazJ3NUV3ZGE0c0dMRzBZSzkxbmvSAXhBVV95cUxNYkdaMXBxTldILUd5aVZ3VmRtZ2w5LUwzZmpIeFJwaGNVS19tdHU3WFF5aTRMeEFGNzhZeDFKREV1WDUwOUZ6MHNnQVdoYkZSQktyaktMNWwwc3NfRmFMeEVINEhod2dRUFZUMWNvU3huWkU4aVI4eUg?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "수영·정경호 결별에 재조명…정경호父와 '사실혼' 관계인 데뷔 55년차 국민배우",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11YXE3YVppUEVwbnVQVHlYaHJXYVBTYUVhRWxfcU56ZllzRGdBSk9fenlTVS1HU2hSTkpOSlBEOTE5N3llcjY4c2lfUEYzOVNNQ2VhZXZR?oc=5",
-              "source": "위키트리"
             },
             {
               "title": "수영·정경호, 14년 열애 끝 ‘결별’…“좋은 동료로 남기로” [공식] - 스타투데이",
@@ -370,42 +276,136 @@
               "source": "매일경제"
             }
           ],
-          "description": "소녀시대 수영과 배우 정경호가 14년간의 열애를 끝내고 결별했다. 양측은 \"좋은 동료로 남기로 했다\"고 공식 입장을 전했다.",
-          "headline": "수영·정경호 14년 열애 끝 결별"
+          "description": "정경호와 수영이 14년간의 열애를 끝내고 결별했다. 양측은 '좋은 동료로 남기로 했다'고 밝혔으며, 과거 수영 관련 발언도 재조명되고 있다. 3일 연속 1위.",
+          "headline": "정경호·수영 14년 열애 끝 결별"
+        },
+        {
+          "rank": 2,
+          "word": "참교육",
+          "count": 3,
+          "articles": [
+            {
+              "title": "'참교육' 진기주, 정부기관도 공개 응원했다…관세청 \"알고리즘 점령\" [★해시태그]",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yMUtnazJucHpJSEFFS0NmV2diSmc1bms4dlltNlZsUS1jaWFaaUtfNWhvSVBQb05rRkFxTWVPYlZPRUItWEVqcUJNbGwyTVVyTjVN?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "존 시나도 결국 인정했다, 김무열 ‘참교육’ 샤라웃",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JRDBFcVJNbkI2RzVnUDdsdVVHaUNFbjc3SGhDY05JeEV1dVY1WmRrenZXelF4RjBkX0owXzlDX0dfTUVnTmsxTXRFNExjNE83ZEdfS3FxTkd0RUg2T3fSAWNBVV95cUxPcWJMbGlfbXMxV2x2R1UzWGNWdVZIajdDR1JuUWEtX1V3WnA2SlU1OEw5SmJKMjhMRlJHb2pOV01LWTNINlFpLS1yd2FiZmlEa3B6ejlkWEZlbTVqNVdneUVpUkE?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "‘참교육’ 김무열, 존 시나 ‘샤라웃’에 직접 등판…넷플릭스 “쌍둥이” 인정 [왓IS]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LQ3NWc01aclNja21wZUg0eGJGQkhTeU5BSTJzQXBqZEYzVlRxYVFlWHY2ZnlLZGdUdjloQVlWdFNPWFRkVjZxb29UMG4zeTA?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "넷플릭스 '참교육'이 글로벌 화제를 이어가며 존 시나가 김무열에게 샤라웃을 보냈고, 관세청 등 정부기관까지 공개 응원에 나섰다.",
+          "headline": "'참교육' 존 시나도 샤라웃"
+        },
+        {
+          "rank": 3,
+          "word": "빅뱅",
+          "count": 1,
+          "articles": [
+            {
+              "title": "빅뱅, 데뷔 20주년 기념 월드투어 콘서트…8월 고양 달군다",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Pd3BHR3JPTUUxSE9Rd19sbUVZUWN6YVZHbUJrbWRkTlFDTHp4VXFjWFlTc0tBVGJPMUVHdG5PV0hyc3lpWFBJNWFFeG1FMGhWdVBJWDUxc1JhVm5ZaXN1MFVZZ0tvWFU1c2UzMkdMR1FCQQ?oc=5",
+              "source": "TopStarNews"
+            },
+            {
+              "title": "빅뱅, 8월 고양 시작으로 월드투어 개최…18개 도시 찾는다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UMkpuVkhLSzA1cWJHWk5oSzBxZVFJUDlnZXdIMU9na3NMQ0ctM1FudnBGeXhjMUNwa0JTcWt3OG94aE82Mk1JdEhueVJrTEU?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "빅뱅, 8월 고양서 20주년 월드투어 출발…18개 도시서 31회 개최",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40amVnay1UdDdrSS15T0daVHpNdWh5Y2FlNFpwenNoazRQZzlWQlhRci1fSTd1dFZQZWtSNV9mWDQxcU9abEh6OWp6OU5pSHprXzN1TEVpaDlGb3NfNGVUd0ZsR1lLUQ?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "빅뱅이 데뷔 20주년을 기념해 8월 고양을 시작으로 18개 도시 31회 규모의 월드투어 콘서트를 개최한다.",
+          "headline": "빅뱅 데뷔 20주년 월드투어 발표"
+        },
+        {
+          "rank": 4,
+          "word": "하트시그널5",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'하트시그널5' 측, 출연자 불륜 의혹에 \"사실 확인 중…방송 신중히 검토\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aMFZLUzlINDhRTEhDelFyd2ZKSzJXSURVaG1pOXEzUGxYQTdrTkpLVlZ0dG45MnF0blJKajM1UXZOc25BS3BaNXA0X2JXeU9sRklFLTNTODRMYkVzV29Kdg?oc=5",
+              "source": "뉴스1"
+            },
+            {
+              "title": "박우열-강유경 '핑크빛 무드'…최소윤과는 성숙한 마무리(하트시그널5)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GWkVLMVVSYU5GMnp2M2VKME1pSnBzLW1EVTliNExpQ0pUaXBNWkE0eG5JRXROYjFjWGFHMU1PSl9PTzREZXhwTFV1TWtxZzQ?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "“女출연자 유부남과 불륜, 가정 파탄내” 주장에…‘하트시그널’ “방송 방향 신중 검토”",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90eFUyRGdubnk1TFZjNWFNQ0lqdkVMdjhVcWZlcDVzN2prc3NGbERSdDdDVG9UTjlZdzlZbFlNZFRIVllxRUxfbF9qcTAyN0U?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "여성 출연자의 유부남 불륜 의혹이 제기되자 제작진이 '사실 확인 중이며 방송 방향을 신중히 검토하겠다'고 밝혔다.",
+          "headline": "'하트시그널5' 출연자 불륜 의혹 논란"
+        },
+        {
+          "rank": 5,
+          "word": "황정음",
+          "count": 2,
+          "articles": [
+            {
+              "title": "황정음 \"둘째 생겨서 재결합 아냐…많은 사람이 오해\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCWW5IZmF5NXFiNUlXRXBQaExSRkYzUDJxRHdpLURvLTU1bEdnZ2lEbldZLWlHRml4a2FzYnhlT3F2eWw0VHFJTl9PXzZWX3VQZWxMVlF3N2JmdkduUFN4UdIBeEFVX3lxTE1QWDhLR3NWRGRqNk9pNjNad3VfYnhxcWQ2eVpaREx4ejE5bFpFWmRFNVlkTHNhYVpPejVnR1Z3NFVuSmVBeG5UcnJzOEtrQUYzNnQ5LVhFMlVRVVJiSlZ4TVc2TVdvSUZNdUEtTTI2Q2dNQm1pOFBUXw?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "\"왜 이렇게 웃어?\" 악플에…황정음 \"웃기라도 해야지\" 초긍정",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DSks0cjF4RzlocDlGNFM2M2VUTkhlSmpXNm9vNDJrNUt5QU1FNnZVZFpJSG1wQ3JpcF8yVHhTYVpZdzZXRzZrOG1MLXBrMnpDVjIzeWw4Vzdaa1ZtLXZRZA?oc=5",
+              "source": "마이데일리"
+            },
+            {
+              "title": "황정음, 이혼 후 ‘바퀴벌레’ 드글드글한 곳에서 사는 근황 ‘충격’",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONDIwNDZUNVMwZGJYZG14bFdKbDVKUnpBaHBxbHlzdWVGUXNKUnd5U0YyOTBUYWxHYjBnWDMtSmlCam9HbEFGN0FuZEFfcWVSc0Jac2tnenpqaGZoZUNpajI4bTZzdGlsaldNWkV5c0FkQXBOWkZjcUt4YXJqUVhuSFQ4SmFodw?oc=5",
+              "source": "서울신문"
+            }
+          ],
+          "description": "황정음이 '둘째가 생겨서 재결합한 것이 아니다'라며 오해를 해명하고, 이혼 후 근황과 악플 대응 등이 화제가 되고 있다.",
+          "headline": "황정음 '재결합 오해' 해명"
         }
       ]
     },
     "스포츠": {
-      "summary": "월드컵 체코전 임박에 손흥민 주목 · 이정후 17경기 연속 안타 한국인 MLB 신기록",
+      "summary": "북중미 월드컵 개막 임박, 홍명보호 체코전 준비에 총력·손흥민 막말 논란 파문",
       "keywords": [
         {
           "rank": 1,
           "word": "월드컵",
-          "count": 10,
+          "count": 14,
           "articles": [
             {
-              "title": "결승전 티켓 5000만원… 20조 수익 노리는 ‘쇼 비즈니스 월드컵’",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NLXc5aDJzMzVCbVZIejg3RFN4U1hwYW5iN1JVb0owWXhFc01hOWhweVp0LVBzcS0tMmwzcE9jc25tSS02OW51elYzU3luV3V1cGRmSFJPeWJMR0UwMnkwNUJqVk1RNzB4WXRUdG1RZEU4eVdP0gFmQVVfeXFMT01nSDJsNndvMzNiRFFfcGxSeGM3QlpUZkhNeXN1TXhvS2F4RFZBb25kWTRnMldZQjJOT3owLWxDc1M1Yno2NjNUbU1ia3V2bFkwV2RHUEItMDQzbWY2VDBEYzVSeGZR?oc=5",
-              "source": "동아일보"
+              "title": "34세 손흥민에 북중미월드컵은... \"내가 마지막이라고 한 적 없다\"",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMnJibHpWMFRMTEROUzRtOXFyeHhjT2ZwUGwzQ0hSdTc5cFlkcERWemIyaWF0bUF2R2F0Xy1JNlowbm1ZNkVaaVBWMUhJUzZsZXl0UlZ2VW1pMy1YWjhOc0Nxd1MyRUhEejR3M3BrTDF5SUpBS0R1X0Nrdk80c21xd29UcXh5NC1SbVJr?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "속초 실향민문화축제 12∼13일 개최…\"월드컵 체코전 함께 봐요\"",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KblJ0cGswVmY3MFRtS3V5V0txeWlWZXpoTjVaU3liQW9mXzFDb1VJb3RzZU1NWnRfRFZtQUROVG03MUtNWjE4bzFLLTh2cllTenhPRzRGSVB2QdIBVEFVX3lxTE5NUEFxOHZBYlVpRGNFa1duWDFZMDhGVGJfTEZMZU9jTHhVbkNIOTk0R2ZBY3RscG1OQkY2cGpYenN0UWxBdlFIWHdvdldEZFRoa01fTg?oc=5",
-              "source": "한국경제"
+              "title": "홍명보 감독 “2014년엔 실패했지만 이번 월드컵 잘 준비했다…체코전에 모든 걸 쏟을 것”",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yY1V3SE9sTFhlcWhMWVM2NmRTTmFCSVdNS1JiVGo2Ym5jQ0VlTmo0V29GLXBydktZTDF4emZoUXpoejBqVU1EZUlqSU1EcGc?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "월드컵 개막일에 학교 휴교령·공무원 재택 근무…인구 2200만명 ‘이 도시’",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vcmQ3ODF4eHppN1hEZVM0SXlrREdmb0d5QmtEM3czcTFSZ0pHR0JHUzJyZFJhSXNxemxZMjlMWjh4TEpaZkpWN21TVVdGb3F0bEZTU0Zn?oc=5",
-              "source": "헤럴드경제"
+              "title": "체코 베테랑 소우체크 \"첫 경기 경계 대상 1호는 당연히 손흥민\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wZ014VTBXN1ZPNXQwVXk3WUlhR0h0SWNHV0dWXzNBZlFKLU1ULWlGVGRHNU1KRVRUZDFPeHhCR3UyUDNDNWpUdGNMcy1rN1hweGVTTFRsclpvRXfSAWBBVV95cUxNaHZhOTNZc0pWcWIxckVjNE9FdGk2SWdHNk91SXg2UnlWRjVxNVZ0X0VPbTNJOS0tc2lEdWQ2OGJ3WFV2ZUFiQmNzWWRFZFJxcGlZdTJIQXFRMUdhVW1Sc2w?oc=5",
+              "source": "연합뉴스"
             }
-          ],
-          "description": "북중미 월드컵이 개막하며 결승전 티켓이 5000만원에 달하는 등 역대급 '쇼 비즈니스 월드컵'으로 주목받고 있다. 개막일 휴교령·재택근무를 시행하는 도시도 등장했다.",
-          "headline": "월드컵 개막, 20조 수익 전망"
+          ]
         },
         {
           "rank": 2,
           "word": "체코",
-          "count": 4,
+          "count": 6,
           "articles": [
             {
               "title": "역대급 월드컵 하루 앞으로…한국, 체코와 운명의 첫판",
@@ -418,13 +418,11 @@
               "source": "경향신문"
             },
             {
-              "title": "'4번째 월드컵' 손흥민, 체코와 1차전 대표 선수로 기자회견 참석",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IM1dnYWlOdjE5T0tyQUdLYTNMb3FsVXpPVm9zUmJxWDZoS3ZqQlFaMGVFLUxoU1VJLVBzanlKQTRzN3YyU0JWWDJfYWlPRUlTeUFzVGs1TGhnc2VXX1NObdIBeEFVX3lxTE5sRmRoRTBndzJfeXgtODIybmFGNW82bjgzeUs5cDJjX1JMQVlDMDR5VmwzOWJjS2h5MjA4amVvbFd4THZmYWFvOEZ4MHp2LXU0NjFvV1lRMnpNdGlRMVRlQXVvVGs4ZkwtY05FTmRVandZakNGLWVadw?oc=5",
-              "source": "뉴시스"
+              "title": "체코 감독도 인정한 손흥민…\"한국의 레전드이자 최대 위협\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDWUtWTHdMNE5IR19uZ3o1RWVQSXl2U2VGWUFFRlFub1J4Y2VmXzI1cDF1UXowQko2RFhIVkFVNjZ1aTROT0ZwajBfMkRDMmE0dWdCNkFFbURlbmVMM3Vhb3d6c2xveVVBMUHSAW9BVV95cUxNWXB6RjZnblNwTS1ZdmZnbHZhM25TSV9MN0dMME5XTkZjN3RVWmhZTVJodHJGcTItdUVwY3NyS0I1VDZ1TjEteDZYa1VrUFE1OXpoVFpCU0FWWWF2RV9tRmpfbDF6ckdrNHVfVi1LSjA?oc=5",
+              "source": "머니투데이"
             }
-          ],
-          "description": "한국 대표팀이 월드컵 조별리그 첫 경기로 체코와 맞붙는다. 광화문에서 거리 응원이 예정되어 있으며, 손흥민이 대표 선수로 기자회견에 참석했다.",
-          "headline": "한국, 체코와 월드컵 1차전 임박"
+          ]
         },
         {
           "rank": 3,
@@ -432,71 +430,65 @@
           "count": 3,
           "articles": [
             {
-              "title": "손흥민, 야후스포츠 선정 '북중미 월드컵서 주목할 26인'",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBWWFlOVQtekdEWENYWXdFTXNJTVVMMnJOUWhxR2g1X1hVSVQ5X1J0SC04TU1PV2R5RTdzRWFDOF96Z3gxcmE5TkRZNFJrT2ZrdmFoTGhWbWZCY0pXYnk2ZNIBeEFVX3lxTE5mbDNKMm05dGVTVV9GbF9kc2x3VGJrN3hQZzNDcGx2RUhURTBDZnNYbW1INGhqRFNRUzB3SWFoTVhNeUJEM3JkMDlISmNJZjBMdVVVclU4Rk8yb2Zob0tyN1JzU0ZhT2tBS1JGa0o2R3dUVTJ2T19XNA?oc=5",
-              "source": "뉴시스"
+              "title": "손흥민 향한 막말 논란…한국 대표팀 훈련장서 충격 발언 파문",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PVW5GZzBlMHJtMUREYVctQ3ZNNGlnSG5MQzdfdGRXOGh4NkJYOXZzWnZwZjR1dGVMU1UtSVdBTjRITFV4dktHN3BEVWZ3QUVJdXVRMQ?oc=5",
+              "source": "엑스포츠뉴스"
             },
             {
-              "title": "'손흥민·이강인 어떡하지...' 벌벌 떠는 홍명보호 월드컵 상대 체코 \"한국전 치명적 변수 발생\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83bXBiT0xCVmNpSTMwdm5FZUhudklBZkhNdHJNV01ubEx3YlljeUNyRG1EZzFObUZUYmd6ZVJrNEJ4VTVvRFQwWkVJOFpxRVU?oc=5",
-              "source": "v.daum.net"
+              "title": "손흥민 떠나자 '눈물 펑펑'...토트넘 함께 이끌었던 '절친' 벤 데이비스, 1년 재계약 확정 '13시즌 동행'",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUTJFRnIwY29TbHVxWXJ6V2F5aVlEYmhlYWt4TE5HX3l5RjdmTlZhUm9IODlHNVdyZ21Gc19nVGxZVm1UN09JbWVSaC1TSHN3ME5fQ05OS1p4M0NJRXRlYU9Fdms1MlpjaGhVcm04NNIBc0FVX3lxTE5zZWFPYTl5czhzQUFZT0Z4ZGVSWnhvSWU4SkVFbE9Wc3RPUWQzbkNBRkMwaWJJNTBWNVhFUXJZaE1XU0tJTnFDVVVWcVV0UG5ZOEZXNmVTazM3OTdBdTI3RGxaZi1hUFNHMWFDU1lCbVF4clU?oc=5",
+              "source": "SPOTV NEWS"
             },
             {
-              "title": "손흥민 못 이뤘는데…이게 바로 토트넘 종신! 'SON 절친' 데이비스, 방출설 딛고 토트넘과 재계약",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CTHlNd19lN1NzM3R6Umk1U3BXSlZONEFlUkNvTDhPNEZxN1p5N19jVjNnZHo5aFZRdERBWnFxWVplUjQ2cDlNOFB6dGZ2cnBsTWJSX1d3bU5iOG05?oc=5",
+              "title": "\"토트넘 13번째 시즌\" 레전드 손흥민보다 오래 남는다…'절친' 데이비스, 재계약 확정 \"정말 집처럼 느껴진다\"",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5obnlXdzREZmtYWGk0ZkpXNEFuNWEtS0RYa2Z5QVZIeUpiVVhFTHNfTk9FbGJQakUtU2RTV25Ud3VzQXlxSm5lYUdfeUVTZng1VzdpUzJjUDMtVlNx?oc=5",
               "source": "네이트"
             }
-          ],
-          "description": "손흥민이 야후스포츠가 뽑은 '북중미 월드컵에서 주목할 26인'에 이름을 올렸다. 4번째 월드컵에 나서는 손흥민은 체코전 기자회견에도 대표 선수로 참석했다.",
-          "headline": "손흥민, 월드컵 주목선수 26인 선정"
+          ]
         },
         {
           "rank": 4,
-          "word": "연속",
-          "count": 2,
+          "word": "홍명보호",
+          "count": 3,
           "articles": [
             {
-              "title": "이정후, 한국인 빅리거 새 역사 썼다…17경기 연속 안타 폭발",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY1RMSDlzZVBBV2ZtVWVUQ2NKSEV6b3JjcTVibzE5NGR5el9PTmNkRzkyYndIVnhjN3M3Qi03azNyWjRLMmVzV3ZnMFlnYW9lTzBxaWs2b2VIVUYtZkNYdkMybXRmNHR3T1hWT1JWQ284dkltckhXcFNrVTJvV0lTSGo0SGY4eXRFUFJN?oc=5",
-              "source": "조선일보"
+              "title": "슈퍼컴 ‘홍명보호 승리’ 선택…\"한국 32강 갈 확률 70.1%\"",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZVnY2Y2dRYldHdjViT1RBWlo5N21rYktTenJFTFRZYkhOTWV0MkJqWUpHcUJGSUxzS2QzTm5JdzFzRUFkSW5FNmFtazVlZDJ6R2JpUQ?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "SF 이정후, 17G 연속 히트…한국인 MLB 연속 안타 신기록",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NN0xuaElGRkVvb0RBd0U2MXVCT0YxLUFtdzVyeGJhTmw0QjJkTjA5Tkd6VFdxaG5JMHZzbVhacnVuWEpieGFISzRWLXR0djF5WXplazdR?oc=5",
-              "source": "중앙일보"
+              "title": "교도소 같았던 홍명보호 훈련장…기관총 든 군경 속 '철통 보안'",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nWU95amFCdzJjcDJIenIxOHRLeGN1LXZIYkFjWXRqUVpPWVZZXzhhbTdldVFjVUlKVDd0c1phUmw1Q0txV2EwbzdZSkgzc2p1ZWZCQTZDem1UTzByUUNjVNIBeEFVX3lxTE5JYXRWVTdUb2VEZGhKRE14UzBHdUI0dnBKbE96YkRrVjI3TS14WU84eUg1T3E3dUIwOTJjRXBRQWhwdTFUcldDRFNiTVFXSWowNkVOWi1FR2p0OFZjX08wT1NDZkRWTDRpMjVlM3B3MlMzdEFIZ2NCTw?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "신들린 이정후, 17경기 연속 안타…MLB 한국 선수 신기록",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZR3VabjB0a1FhckRzTVlCSGFVeXJNUmEySENNNzJwa1FiMEhncTNEenllVVNlYVhzUHZyWDNMSXQ0SWFNS3VYODlCbXFRZUhzb1RJaF9QcnVubnlUbDVvTnNoSDUyT28?oc=5",
-              "source": "한겨레"
+              "title": "“홍명보호, 1차전 체코 잡을 확률 42.9%”···슈퍼컴퓨터도 한국 우세 점쳤다",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fZEhCdFowNzJRbkx2NkNVM083WndIbU1jRGtEUm1KcC16MTJKd29SdHBncWx1Z0pZV0d5bTV2V2xPcUtyclhKbERUU0tMNklTS0NKS0hnRHZYZ9IBX0FVX3lxTE5Td2l0ZmV6dk5zNFA2ZkxxUmV6c0NzemY2ZTkxc29DdWljMmNEUWY1QUdBMG1EMkJPQlRaa0h6b3hnLUxkQ2lxUVRQMkZNOHg2dHIzT0VvdlRkQmIxVVg0?oc=5",
+              "source": "경향신문"
             }
-          ],
-          "description": "이정후가 17경기 연속 안타를 기록하며 MLB 한국인 선수 연속 안타 신기록을 세웠다.",
-          "headline": "이정후 17경기 연속안타 신기록"
+          ]
         },
         {
           "rank": 5,
-          "word": "태극",
-          "count": 2,
+          "word": "미국",
+          "count": 3,
           "articles": [
             {
-              "title": "美, 태극전사 1·2차전 격전지 할리스코주에 '여행재고'",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nOEdrdVRxT1lESzJ1RzdiMG9CejZ6ZjUzMGE3WVBQTEctTS1PemJJcHY2X0lsQ2NxbU16b1lIaEpOTWpzalhLVTRRb0VZUTd3N3VPTERydXhsM1Z5cWltWNIBYEFVX3lxTE9nOEdrdVRxT1lESzJ1RzdiMG9CejZ6ZjUzMGE3WVBQTEctTS1PemJJcHY2X0lsQ2NxbU16b1lIaEpOTWpzalhLVTRRb0VZUTd3N3VPTERydXhsM1Z5cWltWA?oc=5",
-              "source": "연합뉴스"
+              "title": "\"아무도 못 나가\" 이란, 미국 공습에 호르무즈 폐쇄...선박 2척에 발포 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFUmRhMWdzQ3c3N1ppOXFUb2c4OGhhbmxGZE15THphZ0g2SjZ3R3VGWXRRWm9LVExuWDlEdmttTWJLVEl6eUxkQmd6LVNjLUc1Si1KS2lwWDJRbzhFSmxrQURNLWRyMWtx0gFuQVVfeXFMUG9TNTFRRVZWcGIzUUVDUjExZkNkck5NclJDYlhvYXhyNlJ5NFpNWmFrcl8xZ0NRWGdXRWZFRWN6U3pFdG5QUVVpeEFNQVFjSUIwMEpQNnloa2d2RGZ0MUdaMXBhblpCa1huc0tOWXc?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "미국, 태극전사 1·2차전 격전지 할리스코주에 ‘여행재고’",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zNXU5aW1pVGI4NmtLcFg5S3dCWEJ0aVlzeU1CMmlydUFhOG9rRl9NeXRYMDI5OGdCbmpsVVJmZXF5NEJyaTJmOXBETTd1cFRtM1NPcXdPaC1lRWs?oc=5",
-              "source": "KBS 뉴스"
+              "title": "미국 소비자 물가 3년 만에 최고로 치솟아...트럼프 \"인플레이션 마음에 들어\"",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00dmxCZWFzTmNkVnVSSjRfZVZEQXBGNmF5Tk1rV0VzMEI3WmVDMnBwQ3JoRUdmUFgxT0xESWxLMkczNkM0THp2Ni1rSmxLa2NLTHVWXzU5SzZNX1hVOVd6cGJOb1FXX0FmTXB4T2NReHdLNVIwUmc?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "태극전사 지키는 멕시코 국가방위대",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RNU5SckU0SmJrb3g5cFVnMTVXZkF4dm53eDZpWTYxQl9qb21rd1loaHZKOWxJYWZyNEVPUmtHUGYyakVQYWtyUm5fcDh0cjE1NUE5MnhyRFlHM1RROUJ6Y9IBYEFVX3lxTE5RNU5SckU0SmJrb3g5cFVnMTVXZkF4dm53eDZpWTYxQl9qb21rd1loaHZKOWxJYWZyNEVPUmtHUGYyakVQYWtyUm5fcDh0cjE1NUE5MnhyRFlHM1RROUJ6Yw?oc=5",
-              "source": "연합뉴스"
+              "title": "한국 의사 아빠조차 “거기 살아”…미국보다 뜨는 이 해외 의대",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnRmlkYWpZdEktbUpLaEMwUzRkU2tJeG1yTkViUXFZR0E5eGVVNllRSWRMeUhFLVViWVdKbnJXSTRMcTQzTG4yaExBeWo3bzlBVjhkMnR3?oc=5",
+              "source": "중앙일보"
             }
-          ],
-          "description": "미국이 한국 대표팀 1·2차전이 열리는 멕시코 할리스코주에 '여행재고' 경보를 내렸다. 현지에서는 멕시코 국가방위대가 태극전사의 안전을 지원하고 있다.",
-          "headline": "태극전사 격전지에 미국 여행재고"
+          ]
         }
       ]
     }
