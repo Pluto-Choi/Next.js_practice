@@ -86,11 +86,11 @@ export default async function KeywordPage({ params }: Props) {
         {/* === 본문 도입 (AI 요약) === */}
         {description && (
           <section className="mb-12">
-            <p className="text-[17px] lg:text-lg leading-[1.85] text-zinc-800 dark:text-zinc-100 break-keep">
+            <p className="text-[17px] lg:text-lg font-bold leading-[1.85] text-zinc-800 dark:text-zinc-200 break-keep">
               {descLead}
             </p>
             {descRest && (
-              <p className="mt-4 text-base leading-[1.85] text-zinc-600 dark:text-zinc-300 break-keep">
+              <p className="mt-4 text-base leading-[1.85] text-zinc-800 dark:text-zinc-200 break-keep">
                 {descRest}
               </p>
             )}
