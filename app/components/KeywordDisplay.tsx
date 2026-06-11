@@ -1,7 +1,6 @@
 import Link from "next/link";
-import AdFitBanner from "./AdFitBanner";
 import ShareButton from "./ShareButton";
-import CategoryQuickNav from "./CategoryQuickNav";
+import CategoryTabs from "./CategoryTabs";
 import RisingTicker from "./RisingTicker";
 import type { RankChange, RankChanges } from "../data";
 import { categoryEmoji, categoryLabel, categorySlug, HERO_CATEGORY } from "../categories";
@@ -182,12 +181,10 @@ function CategorySection({
   category,
   categoryData,
   rankChanges,
-  showAllLink,
 }: {
   category: string;
   categoryData: CategoryData;
   rankChanges?: RankChanges;
-  showAllLink?: boolean;
 }) {
   const slug = categorySlug[category];
   return (
@@ -203,14 +200,6 @@ function CategorySection({
           />
         ))}
       </div>
-      {showAllLink && slug && (
-        <Link
-          href={`/category/${slug}`}
-          className="mt-3 inline-flex items-center gap-1 text-xs font-medium text-zinc-500 dark:text-zinc-400 hover:text-zinc-700 dark:hover:text-zinc-200 transition-colors"
-        >
-          {categoryLabel[category] || category} 전체 보기 →
-        </Link>
-      )}
     </section>
   );
 }
@@ -250,11 +239,9 @@ function RisingHero({
 export default function KeywordDisplay({
   data,
   rankChanges,
-  showCategoryLinks,
 }: {
   data: KeywordsData;
   rankChanges?: RankChanges;
-  showCategoryLinks?: boolean;
 }) {
   const entries = Object.entries(data.categories);
 
@@ -278,40 +265,18 @@ export default function KeywordDisplay({
     );
   }
 
-  // 홈·날짜별: 급상승 히어로 + 경제/연예/스포츠 반응형 그리드.
-  // 빈 카테고리(예: 스포츠 미수집일)는 덩그러니 헤더만 남지 않게 렌더에서 제외한다.
+  // 홈·날짜별: 급상승 히어로(티커) + 경제/연예/스포츠 카테고리 탭.
+  // 빈 카테고리(예: 스포츠 미수집일)는 탭에서 제외한다.
   const heroEntry = entries.find(([name]) => name === HERO_CATEGORY);
   const topical = entries.filter(([name, c]) => name !== HERO_CATEGORY && c.keywords.length > 0);
 
-  // 모바일 긴 스크롤에서 섹션으로 바로 점프하는 스티키 앵커(스크롤스파이).
-  const jumpTargets = entries
-    .filter(([, c]) => c.keywords.length > 0)
-    .map(([name]) => ({ slug: categorySlug[name], emoji: categoryEmoji[name] || "📌", label: categoryLabel[name] || name }))
-    .filter((t) => t.slug);
-
   return (
     <>
-      {jumpTargets.length > 1 && <CategoryQuickNav targets={jumpTargets} />}
-
       {heroEntry && heroEntry[1].keywords.length > 0 && (
         <RisingHero category={heroEntry[0]} categoryData={heroEntry[1]} />
       )}
 
-      <div className="flex justify-center my-2">
-        <AdFitBanner adUnit="DAN-yItNPmN2B2cR2RlZ" width={300} height={250} />
-      </div>
-
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-x-5 gap-y-8 mt-8">
-        {topical.map(([category, categoryData]) => (
-          <CategorySection
-            key={category}
-            category={category}
-            categoryData={categoryData}
-            rankChanges={rankChanges}
-            showAllLink={showCategoryLinks}
-          />
-        ))}
-      </div>
+      <CategoryTabs categories={topical.map(([category, data]) => ({ category, data }))} />
 
       <ShareButton topKeyword={topKeyword} />
     </>

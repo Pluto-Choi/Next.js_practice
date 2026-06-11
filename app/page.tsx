@@ -98,7 +98,7 @@ export default async function Home() {
           <KeywordSearch keywords={searchKeywords} />
         </div>
 
-        <KeywordDisplay data={data} rankChanges={rankChanges} showCategoryLinks />
+        <KeywordDisplay data={data} rankChanges={rankChanges} />
 
         <div className="mt-8">
           <InstallButton />
