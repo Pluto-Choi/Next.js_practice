@@ -207,14 +207,11 @@ function CategorySection({
 function BoardRow({
   item,
   change,
-  compact,
 }: {
   item: Keyword;
   change?: RankChange;
-  // compact: 분야별 보드에서 좁은 열에 맞게 서술형 헤드라인 대신 키워드 단어만 노출.
-  compact?: boolean;
 }) {
-  const label = compact ? item.word : item.headline || item.word;
+  const label = item.headline || item.word;
   return (
     <Link
       href={`/keyword/${encodeURIComponent(item.word)}`}
@@ -240,16 +237,18 @@ function RankBoard({
   rankChanges,
   lead,
   showAllLink,
-  compact,
+  limit,
 }: {
   category: string;
   categoryData: CategoryData;
   rankChanges?: RankChanges;
   lead?: boolean;
   showAllLink?: boolean;
-  compact?: boolean;
+  // limit: 홈 분야 보드는 상위 N개 구만 노출, 나머지는 "전체 보기"로.
+  limit?: number;
 }) {
   const slug = categorySlug[category];
+  const rows = limit ? categoryData.keywords.slice(0, limit) : categoryData.keywords;
   return (
     <section id={slug ? `sec-${slug}` : undefined} className="scroll-mt-16">
       <div className="flex items-center gap-2 mb-2.5">
@@ -275,12 +274,11 @@ function RankBoard({
         )}
       </div>
       <div className="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-sm dark:shadow-none divide-y divide-zinc-100 dark:divide-zinc-800/60 overflow-hidden">
-        {categoryData.keywords.map((item) => (
+        {rows.map((item) => (
           <BoardRow
             key={item.word}
             item={item}
             change={rankChanges?.[category]?.[item.word]}
-            compact={compact}
           />
         ))}
       </div>
@@ -331,7 +329,7 @@ export default function KeywordDisplay({
         </div>
       )}
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-8">
+      <div className="flex flex-col gap-7">
         {topical.map(([category, categoryData]) => (
           <RankBoard
             key={category}
@@ -339,7 +337,7 @@ export default function KeywordDisplay({
             categoryData={categoryData}
             rankChanges={rankChanges}
             showAllLink
-            compact
+            limit={3}
           />
         ))}
       </div>
