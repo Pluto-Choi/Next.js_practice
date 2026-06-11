@@ -3,7 +3,8 @@ import type { Metadata } from "next";
 import Logo from "../components/Logo";
 import ThemeToggle from "../components/ThemeToggle";
 import StreakTrends from "../components/StreakTrends";
-import { loadTrends } from "../data";
+import DateArchive from "../components/DateArchive";
+import { loadTrends, getDateArchive } from "../data";
 
 export const metadata: Metadata = {
   title: "키워드 트렌드 | 왓뉴스",
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
 };
 
 export default async function TrendsPage() {
-  const trends = await loadTrends();
+  const [trends, archive] = await Promise.all([loadTrends(), getDateArchive()]);
   const hasStreaks =
     trends?.streaks && Object.values(trends.streaks).some((l) => l.length > 0);
 
@@ -38,12 +39,18 @@ export default async function TrendsPage() {
           </Link>
         </div>
 
-        {!hasStreaks ? (
+        {archive.length > 0 && (
+          <div className="mb-10">
+            <DateArchive entries={archive} />
+          </div>
+        )}
+
+        {hasStreaks && <StreakTrends streaks={trends!.streaks} />}
+
+        {!hasStreaks && archive.length === 0 && (
           <p className="text-center text-zinc-500 dark:text-zinc-400 text-sm py-16">
             아직 집계할 데이터가 부족해요. 곧 채워질 거예요.
           </p>
-        ) : (
-          <StreakTrends streaks={trends!.streaks} />
         )}
 
         <div className="mt-8 mb-4 flex justify-center">

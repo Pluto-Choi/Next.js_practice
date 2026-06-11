@@ -79,6 +79,26 @@ export async function getAllKeywords(): Promise<string[]> {
   return trends ? Object.keys(trends.keywords) : [];
 }
 
+export type DateArchiveEntry = {
+  date: string;
+  topWords: string[]; // 그날 "오늘의 이슈" 상위 키워드 구(헤드라인 우선)
+};
+
+// 날짜별 둘러보기용. 수집된 모든 날짜를 최신순으로, 각 날짜의 대표 이슈 키워드와 함께 반환한다.
+export async function getDateArchive(): Promise<DateArchiveEntry[]> {
+  const dates = await listHistoryDates();
+  return Promise.all(
+    dates.map(async (date) => {
+      const data = await loadHistoryData(date);
+      const issue = data?.categories["오늘의 이슈"];
+      const topWords = (issue?.keywords ?? [])
+        .slice(0, 3)
+        .map((k) => k.headline || k.word);
+      return { date, topWords };
+    }),
+  );
+}
+
 export type KeywordDetail = {
   word: string;
   entries: TrendEntry[]; // 날짜 내림차순
