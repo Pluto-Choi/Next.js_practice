@@ -1,358 +1,310 @@
 {
   "date": "2026-06-12",
-  "updated_at": "2026-06-12 05:23",
+  "updated_at": "2026-06-12 12:54",
   "categories": {
     "오늘의 이슈": {
-      "summary": "이란 종전 합의 가시화 속 트럼프의 공격·협상 양면 압박 지속 · 선관위 투표용지 분실·개표 오류 논란",
+      "summary": "트럼프·이란 핵 합의 발표에 이란은 최종결정 유보 · 한국 체코전 앞두고 광화문 붉은 응원 열기 · 선관위 부실·해체 논란",
       "keywords": [
         {
           "rank": 1,
           "word": "이란",
-          "count": 3,
+          "count": 4,
           "articles": [
             {
-              "title": "\"이란, 수정된 종전 합의안 카타르 중재자에 제출\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HMV81eko5VDZsYTZSUmJKOHdFUXQ3OEpJZlhsakJCRmxxMXY5aW5sZm5OcHFZUXJ4NXM0Sk5Jblkza2ZqYWloREdLMW9nZFFTLVZWN1A5U2JJcnhHMFhjUFBzS0hNVDZoYzRDOW9zbGo?oc=5",
-              "source": "연합인포맥스"
+              "title": "트럼프 \"이란과 방금 훌륭한 합의\"…이란 \"최종결정 안내려\"(종합2보)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HTkhHeUNraTc5UDRUa1BFRlRnQUN3VUNNZVo4OGladE0wZXNZaVdWdWtOdHpKdXR0T202UU95VWFDYmxsNVNKWGw3RE1aRGc?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "뉴욕증시, '이란 종전' 가시화에 급등 마감…나스닥 2.5%↑",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZTE9nOWVqSjNKQlRLZkZDR204SUVubkFQdDVicDRoZ241VlJhc05VUGxSdk1pT3VYQ3lTdko1WU5CWmN1TFN3LW5hZWFpcUcydGhWTVgxYzlnWkhRYnVMY9IBeEFVX3lxTE82eFlPaG5QWXljVFFxNnVka1BCblc4Vno5bU5PSV9wV2UxTkFIQ01PcXlkUF9MaTZqODRud0JoVTVRQ2tyT3ZUZXVKeW9BUWJEUk84WVlPMVYzZEFvbnNOY2gtVWtVRDR6NDNOdVloTWpvTmJIT0pwVg?oc=5",
-              "source": "뉴시스"
+              "title": "트럼프 \"핵 보유 불가 합의\"...이란 \"트럼프, 추가 요구 철회\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqUGpmNFd4dXJpcGlVWEh5YmFZUEdjVXRjZHk0V3VuaXRBMXV0VkpyRXFwR0JzYTIyc29YMTVZYkN6ODUycm5WU2FhclFMeWk5OHh1QUhTQVMycEZBLWc?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "트럼프 \"이란과 문서 최종조율 단계…아마 주말 유럽서 서명식\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZLXdvRzVINVJhUHEzU1A1TGpsQUp1MzNsNHNONGh3RUdudTA3dnNqNnZjT2xlOGV5QlpWZ3pVVWpNVHVfVGZXc2xvUzljV256WnpQZUMyN0tyNlnSAWBBVV95cUxPamM1VDZodzVGMEhDQkRnNmdocVV6eTVocF9aQ3BCYWtwbWY1QmhZeHB2VngtSXBMbUNhS2NpMF9JMVNYSjdLX2M2Um9jZTB4X0xRdmI0YVllTHJ4REtUSHc?oc=5",
-              "source": "연합뉴스"
+              "title": "CNN \"네타냐후, 미국·이란 종전 MOU 임박 소식 전혀 알지 못해 놀라\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wRzVuV2QtQjhGMllXWWNzTEFSUVhZQUtvSDRXSmQ1VUt2Z205TDlhZWJMeWJqZEVFQncwVk5GdlJPZXl1bzAtUHg0TXBDcWZkNktVbjVDS2VzdVhHdzVOdW1CN050Y2JvTTJmTklEZUhXRXRY0gF0QVVfeXFMUHI0N3NDbDNJQ2V0eDA4RjVGbFlILVhCRTEzTVhZTVYwZjFVaUtjTnlOXzNObGkyY2xoVy1La2lZLXg5SGZ2aTZ5dGpBdHdDTjdGTmxJdkdkSDh1dkNMUzk3c0U5Q3d4Q1pfMjZpM2w4LUxyNWY?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "이란이 수정된 종전 합의안을 카타르 중재자에 제출하며 핵 협상이 급물살을 탔다. 트럼프 대통령은 '문서 최종조율 단계'라며 주말 유럽에서 서명식이 열릴 수 있다고 밝혔다. 종전 가시화 소식에 뉴욕증시도 급등해 나스닥이 2.5% 상승 마감했다. 공습 위협과 협상이 동시에 진행되는 가운데 서명식 일정이 핵심 변수로 떠올랐다.",
-          "headline": "이란, 종전 합의안 제출"
+          "description": "트럼프 대통령이 이란과 '핵 보유 불가'를 골자로 한 합의에 이르렀다고 발표했다. 다만 이란 측은 '최종 결정은 내려지지 않았다'며 신중한 입장을 보이고 있어 양측 해석에 온도 차가 있다. CNN은 네타냐후 이스라엘 총리가 미국·이란 간 종전 MOU 임박 소식을 전혀 알지 못해 놀랐다고 보도하며, 이번 협상이 중동 정세에 미칠 파장에 관심이 쏠린다.",
+          "headline": "트럼프, 이란과 핵 합의 발표"
         },
         {
           "rank": 2,
-          "word": "트럼프",
-          "count": 2,
+          "word": "응원",
+          "count": 3,
           "articles": [
             {
-              "title": "트럼프 급반전‥\"이란공습 취소, 곧 서명식 시간·장소 발표\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VbjNSNXRMSTlhSHotVElqTVI4cmRTOUdIV2d6NVhkVkRwd2xMUVFtWFBOTzNRVWc0UUlXOWhwTU1sNFRyX2h6QmxGbnd3bFJGSUFQSTNtMERTTU8zQ2tWbzRJWDdOUXNvalpwRFZZdklRdnNk0gF0QVVfeXFMT0xKVldyMUZyUUFQd3U0aU5XaG5Sc3ZiR3lvUXZoMDBjWW81TDJ3VUh3c0ZVMmw3ellCdVRXcXNGVUZwSWdFVFFvV29fRHU3RGhqS2NoMVgyWWpXQVF3eWxUNFFXcWJET1V6WVcxV2xmZ09uemk?oc=5",
-              "source": "MBC 뉴스"
+              "title": "김무열, '참교육'으로 다시 쓴 인생캐…아내 윤승아도 공개 응원",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByaC1sN0EwY2lZVzFWWFI5dnVrWDROREtNbTJJM0J0cW03bTVKMVdFQXJNRmZwT3hqUFhFUTNTZktWRU1acVpiTTBMdGpkZkFJTmN1RmFLVW1nYnJoZ3hv?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "트럼프 \"이란 49발 추가 폭격…합의 안 하면 내일 밤 박살낼 것\"",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JMkJ1d2FaQ1RIX3Y4TEZiN1NETEF5VEkySEY4ZXNVclZzb2M2NjFtY2RaY3JrVk5BeWFURDZ4eFFOTGtsSXZtWDRDSE81OWhQdmFDWA?oc=5",
-              "source": "JTBC"
-            },
-            {
-              "title": "트럼프 \"이란과 합의 서명식에 밴스 부통령 참석 예정\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFZ0E4ZGVuV21wRklobXk5ZkQ5Q25IZXR5X056b2poU3Jqbm5rcGhoSExOUVpRVWlSQnQxcjBjc0x2QTJqZVpoRmxSVHdzTm8?oc=5",
+              "title": "온 우주가 응원하네..김혜수도, 존 시나도 반한 김무열 '참교육' 신드롬 [핫피플]",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSTklSY19uTlFGNUVkZWctMDZpamtabGo0Q0paWklMbW9EUDRwNF9INlRVNEpKYzJLSEMzU2laUERtbTdxdDcySEpQTQ?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "'참교육' 감독 \"김남길 작품 거절? 서로 응원…김무열 너무 고마워\"[인터뷰]①",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2M5NE9NT3BHSDBaT2dFUWlxX0pvSUVHVUQtT3B0dVlVZG9OaFNMdjVIa29zdXlCbmN2VGptRzc3dWNLcnlHSl9UOFZJU3NPeXBWbHloMzZvZGNLUEs1N1JWYk4ybWF5Q0F0VjJqbzZwd3NWYjhFY2xoYzNUUklrWQ?oc=5",
+              "source": "이데일리"
             }
           ],
-          "description": "트럼프 대통령이 이란에 대한 추가 공습을 취소하고 '곧 서명식 시간·장소를 발표하겠다'고 밝혔다. 앞서 그는 '49발 추가 폭격'과 '합의 안 하면 내일 밤 박살낼 것'이라고 경고한 바 있어, 군사 위협과 협상을 동시에 밀어붙이는 양면 전략을 이어갔다. 서명식에는 밴스 부통령이 참석할 예정이라고 덧붙였다. 급반전이 이어지며 이란 사태의 향방에 관심이 집중되고 있다.",
-          "headline": "트럼프, 이란 공습 취소 후 서명식 예고"
+          "description": "영화 '참교육'이 흥행 돌풍을 일으키며 김무열을 향한 응원이 쏟아지고 있다. 아내 윤승아의 공개 응원을 비롯해 김혜수, 헐리우드 배우 존 시나까지 반응을 보이며 '참교육 신드롬'이라는 말이 나올 정도다. 감독은 인터뷰에서 김남길의 작품 거절설을 해명하며 '서로 응원하는 사이'라고 밝히기도 했다. 오늘 처음 등장한 키워드다.",
+          "headline": "김무열 '참교육' 신드롬에 응원 물결"
         },
         {
           "rank": 3,
-          "word": "타격",
-          "count": 2,
+          "word": "체코",
+          "count": 3,
           "articles": [
             {
-              "title": "트럼프 \"오늘밤 이란 매우 강력히 타격\"…사흘째 공격 예고",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RVkpQZXRsOFNyS3lXNS00ck1udUFPOVpsRHQ3MFEzYi1XRHZBU2c1NGF0bnRuNzM3bkFoTm5vd3lMUXkwYlVZWnM2amZRWWg5d2NzVUpMVmFtMnJ0b00tVdIBYEFVX3lxTE1RVkpQZXRsOFNyS3lXNS00ck1udUFPOVpsRHQ3MFEzYi1XRHZBU2c1NGF0bnRuNzM3bkFoTm5vd3lMUXkwYlVZWnM2amZRWWg5d2NzVUpMVmFtMnJ0b00tVQ?oc=5",
-              "source": "연합뉴스"
+              "title": "\"연차 내고 거리 응원\" \"손흥민 보러 왔어요\"… 체코전 앞둔 광화문, 붉은 응원 열기",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjZ4OU0tZ1JLYVI1dFg3SkxQbHM3Ql9jZFRmNjFIa0NPWWhMRWh3YjdsanNGc09kTDNQVWNMMGJYQy1tVmItYTV1SGNhVEtqY1MxWlRxd0NmMEt4R1kxVnJpeHN0am1CUjFGeURhVVBScGc0UmpwZ2ppOXZiSmFXN0xYdWxDNkNkWVpJMTJsN2Y?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "트럼프 “오늘 밤 이란 강하게 타격…머잖아 석유 거점 장악”",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnZyM1E0LUduTkhoNzZnUU1zMEVGNk9nOTJUcFdoTU5qaUNMa05jcTNmU1NPMThJcVFCWXAwZGVQMUYwM3NYd1NCRFlSTGlDWWxGVGVIRXFiLXZzVXBCTmZQeTBBeklSNzM1OTd4cTMyR3pfVkFTZ1JEbVFSbkxERy13?oc=5",
-              "source": "한겨레"
+              "title": "손흥민, 체코전 선봉 ‘월드컵 최다골 도전’...이강인도 선발",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HVEY3MWQ4dWI3VVIxRzdFSGVQS0ZOeU9fWVNnOG91R25DN3kwM016dllMcWlMRDNabk9PSU9tWEFGQXhJSTBxVGJnZC1SLVFrNUVxSVln?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "트럼프 \"미국, 오늘 밤 이란 매우 강하게 타격…석유 인프라 확보\"(상보) |",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SdVlscXotM201VWNpNG5jaGlLenJpWTUtelJfZzJ1VUdqQnl0MFNwdG52dDczTjFwcGxtY3VnT3BsOE5yX2REUmdVckFrTjFHbWpsbndNdGFCVE05X1picGJWSExZTjVESGxoODExM3lJOWV0?oc=5",
-              "source": "연합인포맥스"
+              "title": "홍명보호 체코전 선발 명단 발표‥손흥민 원톱에 스리백으로 출격",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83UHlxSTFycWxWNDlwbFBsYUY5M254cm9Fc0ZHeE5pSVhyUlY0ckpPV2FTaXNvQklqN2Zqbm56T2lULVZDblduV2VBYTM4dkhYWEJlVzh6YUktcE82QzAtcnVzcWZUWEJ4YklFMkU2RGY1RXEyWWfSAXZBVV95cUxQd2RXWDZ1aHhLNkpEWUtJNjd2SW55aDgxVTRCLWxhMUstanRXVFRFZnA5VnpvLTZNYTVZZU5oWDVzMXphanVoTURPRTd6aF9tT09Ucm5OYzB1WklySEU2aEFieVl1RkVfa3VFR2Z5RUliTm9jLUp3?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "트럼프 대통령이 '오늘 밤 이란을 매우 강하게 타격하겠다'며 사흘째 공격을 예고했다. 석유 인프라 확보와 거점 장악까지 언급하며 군사적 압박 수위를 높였다. 이란 종전 협상과 병행되는 공습 위협이라는 점에서 협상 레버리지용 발언이라는 분석이 나온다. 오늘 처음 등장한 키워드다.",
-          "headline": "트럼프, '오늘 밤 이란 강하게 타격' 예고"
+          "description": "홍명보 감독이 체코전 선발 명단을 발표하며 손흥민을 원톱에 세운 스리백 포메이션을 택했다. 이강인도 선발에 이름을 올렸으며, 손흥민은 이번 경기에서 월드컵 최다골 기록에 도전한다. 광화문 일대에는 연차를 내고 거리 응원에 나선 시민들이 모여 붉은 응원 열기를 이어가고 있다.",
+          "headline": "한국, 체코전 손흥민 원톱 선발"
         },
         {
           "rank": 4,
+          "word": "당뇨병",
+          "count": 3,
+          "articles": [
+            {
+              "title": "순천향대 \"당뇨병 치료 새 길 열어\"…인슐린 주사 치료 대체",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ETEZwaVVxNnEwenFPdmpsZ1lOWGhTSHYyWkM2ME0xUlVUUUJ1ZzRwcUE0LWpEdGRKS0xsem4tYTdlRG1vRllYWk0tNTZmdTA?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "美 당뇨병학회 달군 비만약 경쟁…‘얼마나 빼나’ 넘어 ‘무엇을, 어떻게 고치나’로 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORjlrWE8zQnNoUl90T3RWdTFWdzFjdlRYcnZOVTdQclZSV2hEelExb1ZjTnZaWEc2b294T2hXOE1KNHd1REhxNUN4Q3VkRWZQWjVUTUs3ZGZKZFBoc0JzeVlocGxTWldVYlE1NkR6eUxUZlNVal9WNDhDaFpSbWdxYkNFekZUNzDSAZsBQVVfeXFMT3FxSnR4UU1YdmdyaUhZR1NkZGlkOENiUE1SbWNNajhWZEpBTXFLektWQ21XcExjY1pUeVpsOEFYTTZ1WGdxN0MxVXMwbUtvbjVwQTVIMllBZ25hVHByTVczQmVYMEYzMDVtMDBveWw0aUhMNkpVaEF1eTMxMGgyUjlvSVo2Wk1iLTh4U3N5VlVBY0RsWEl0c1RUeFk?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "당뇨병환자 '인슐린 주사' 대체한다…인공췌장 기술 개발",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsby1xX2REZHdDaXBBSDlPYUtHNlNIa0k0ZlFGRXJlSlpSc0VWcFZyeUF4ZU1jLWpfay1KZ3BTbjNzc0V1ak1sd1F3RVlEaHZmZDJ6RW03ZnJieG5EQjg1UNIBeEFVX3lxTE1aWXkxZlF5VjJQRHNRTTZMTmZqb1JkWjNiRnFXcGpKaG04S3JSaFkzR2JWelg1ZHk1UUdxa2lPcnFrYzEteUk4Q0pad2ZFeVBndTZYb185NFE2R213enZsSDZzOG1QMzhsMHhfQzhRTDQ2ejgwNjIzLQ?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "순천향대 연구팀이 인슐린 주사 치료를 대체할 수 있는 인공췌장 기술을 개발해 당뇨병 치료의 새로운 길을 열었다고 밝혔다. 미국 당뇨병학회에서도 비만약 경쟁이 '체중 감량'을 넘어 '무엇을, 어떻게 고치는가'로 논의가 확대되며 치료 패러다임 전환이 주목받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "인슐린 주사 대체 인공췌장 기술 개발"
+        },
+        {
+          "rank": 5,
           "word": "선관위",
           "count": 2,
           "articles": [
             {
-              "title": "증거보전 결정 난 투표용지 상자 사라진 듯…선관위 \"갖고있지않다\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03QkljRWFkbHI3TmE2X0NsWGpRTHpzcS1TWXZnSTc3QVVXQTY2WGZvd2gwOW9hQ0dyZFE5NDRQcHlYbzdOaS1RRzZxclZXRGdZU0w4cFhoQzRxMW_SAWBBVV95cUxPM01BSE9XblFhRmxNNG1OZ3RGWV90N0JvLUJwWGtiUWFwRElKQks2VXAzQkRVZjY2bUZYLUVBSkVFcW5YOXB0MDA5dEtCeXNlSDFuanZiazVhalViTEx0eUc?oc=5",
-              "source": "연합뉴스"
+              "title": "김민석 총리 \"선관위 투표용지 보관상자 파괴, 심각성 인식 못해‥해체가 낫지 않나\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Tel9zblU0Uk1EU3RYZlhFeU4tNm85Z3g1dmdRUkVFQ2FFOTZncFFfWlhuOFhxYjJpSjkxZF8zVnZObUViZl84YTNoMENFcTdjYjkxd1luUE1pMzRoVHBodkJWVHpOT3ZRZzdCWlpremJwY1NONzJCQdIBeEFVX3lxTE92c2FOck0wU2tDS21OQk9vQ0M1NXZIb3A3LTJFRmJ6emI0N0M1cFlLRmZUUi1JQ2ZLeGdaZ2ZFRl82a0R6MjdldGxkQlhINE9SaFJoRWl3NkNoVjRUeDdXNzM5cE8xS0pPRG1URVJxTmVIOTFnczlWQQ?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "선관위, 개표 결과 잘못 입력…1,104명 민의 증발",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVdmN2MkZIc1RxRWQtdnBtbWEwOVFFRzRyLW5Jdzd3NlUzN2VLSmhSMV9DLWxPdmN4RjZpOEgzYmJhQUh2TEZLZ0owNjNLaUlwbWJDVUkxQnVYNDA?oc=5",
-              "source": "KBS 뉴스"
+              "title": "선관위, 행정예산 3334억 쓰고도 곳곳 부실",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLbkdORjR2MWlNUkdWWnRaMmdoX2daVUFXNThGYjhXdXdNeDR3eDUyX2Ywc240OHhxSE02STczdTc4Zzd6Tkh0eHd3TDJtM3N5?oc=5",
+              "source": "문화일보"
             },
             {
-              "title": "검경, 중앙·지역선관위 7곳 압수수색…직무유기·선거법 위반 수사",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4UUhNOG41dzNXcGx4UmNZMnhWUDNWQWZ0Qk5iN1NyMF9uWXR5eHFOcW9JRWNzSTkxSENYSklIWlNoYTBLMGJualdYQ0lZV01McExvMlFNRnBlZ9IBX0FVX3lxTE9UdG55dFA4eTUzVDhvRGNfN1MzakRIcVJHVVVkb2ZBMTBKdFZMMlZqbVFJSlQybXltX3pvMV8zMEdHVjFpQUU2dENtOWVXNEp4U0poUHFlZnZQZ1ppaDhN?oc=5",
-              "source": "경향신문"
+              "title": "총선 2241표 무효 만든 선관위…후보에만 알리고 정정 안했다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VSWxUbWFGNFdLS0xhNVFMLWlsNEtRNXJQU0ROMFBOVGJXampKWGZHS3YwRzJfUVpYN0ozX1R0VTRHVTlTVUdINHFuajhvb0FhcW9nZGRn?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "검경이 중앙선거관리위원회와 지역 선관위 7곳을 직무유기·선거법 위반 혐의로 압수수색했다. 법원이 증거보전을 결정한 투표용지 상자가 사라졌다는 의혹이 불거졌고, 선관위는 '갖고 있지 않다'고 해명했다. 별도로 선관위가 개표 결과를 잘못 입력해 1,104명의 표가 누락된 사실도 드러나 선거 관리 체계 전반에 대한 신뢰가 흔들리고 있다.",
-          "headline": "검경, 선관위 7곳 압수수색"
-        },
-        {
-          "rank": 5,
-          "word": "장동",
-          "count": 2,
-          "articles": [
-            {
-              "title": "정청래, 지선 후폭풍에 \"많은 고뇌와 회환의 밤\"",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qaUlxdG9kS0dWV1Q3dkpuMG9zYnFJNG5vTndWSms1WlVyXzNOQkUtaHpSVU4wZDcxMUN5YThiX05OY1M0S0gxT3VzMWJvdWJmQVlJcE4zdERpeXpJV2VFa0RmeUZWWXRhbUNuOS1B?oc=5",
-              "source": "네이트"
-            },
-            {
-              "title": "김민석·정청래 '뜨거운 포옹'",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJWnJ2Q01lQjFESmpMeENGc2RCTEM2eWZQRktzMWVlMEd4ZVM3S05ZX3hLYnFUU3hoaDRvQm53WTdoa1VRb3VQRjdlckcwVWhQRXNN?oc=5",
-              "source": "네이트"
-            },
-            {
-              "title": "정청래 \"정권은 짧다\" 발언에…김유정 \"해보자는 건가\"",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LcWhETkt2ZG5nMWVpM2pLNC05NFdidE13WWRFQXU4S0E0bUwyNzh0X294UGhCOW5nZnhMTjQxWUcya1BadWZ3ODdmUUxxdThnNnhF?oc=5",
-              "source": "네이트"
-            }
-          ],
-          "description": "지방선거 결과 후폭풍 속에서 정청래 의원이 '많은 고뇌와 회환의 밤'이라며 심경을 밝혔다. 김민석 의원과 '뜨거운 포옹'을 나누는 장면이 포착되기도 했다. 정청래 의원의 '정권은 짧다' 발언에 대해 김유정 의원이 '해보자는 건가'라며 반박하는 등 당내 설전이 이어지고 있다.",
-          "headline": "정청래, 지선 후폭풍 속 '고뇌의 밤'"
+          "description": "김민석 국무총리 권한대행이 선관위의 투표용지 보관상자 파괴에 대해 '심각성을 인식하지 못하고 있다'며 '해체가 낫지 않겠나'고 강하게 비판했다. 선관위는 행정예산 3334억 원을 집행하고도 곳곳에서 부실 운영이 드러났으며, 총선에서 2241표를 무효 처리하면서 후보에만 알리고 정정하지 않은 사실도 확인됐다. 선관위의 관리 능력과 조직 존폐를 둘러싼 논쟁이 격화되고 있다.",
+          "headline": "선관위 투표용지 보관상자 파괴 논란"
         }
       ]
     },
     "경제": {
-      "summary": "반도체 업황 악재·고용 없는 성장 우려 속 뉴욕증시 급락 · 쿠팡 정보유출 역대 최대 과징금 부과",
+      "summary": "호남 반도체공장 입지 논란 · 스페이스X 투자·기업공개 주목 · 금융위 포용금융추진단 발족 · ECB 금리 인상",
       "keywords": [
         {
           "rank": 1,
           "word": "반도체",
-          "count": 8,
+          "count": 10,
           "articles": [
             {
-              "title": "SK하이닉스도 삼성도 멈췄다…반도체 공장 덮친 악재",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02ZEFwa1VJcVpaU1d1dUdCUGJkNzEtdzJPcU1ySlJNU2xTWXRnRTc5Tkl6d25abWdMWncweklCcDNDWW9ENi04Z3VfXzdtVTA?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "반도체 호황의 그늘… ‘고용 없는 성장’ 현실로",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wRTJZeXBfbDBSSmhMTXhSSTFRcF9NUjEwTVZpZC0xM3FtYWhuTWp1NlJKQW5hSllkemZRZnBrMUJ4YnFCX25jVFRmZGdYUmdfNVkzV3FVUG0wcy1vaTdvSnFkZHdVU0czWUVsa09pLTUzWDNXenfSAWZBVV95cUxPNnZUMGs5a0NFSU1BS2h1SlE1Vl9qeXZrNEk4U1Z1bHAySmc5VmNvbmhGbGJoUFJSSXg2ZTVWS3gweWpXS1ozVEVjVko0cXd2aHZYX1BHWlF5WF9uX0c5UXR4MVJhWmc?oc=5",
+              "title": "호남 반도체공장 두고 “집적효과 떨어져” vs “수도권 전력난 해결”",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56WGR5VVVyT05NcHJkMUdaTUhLcmdnZWxSWnNuZmdURkRDUHdsNXRyZXAwdGI2NlBKTTRuUHN2U1owRDVxYVY5NmZnWFJjYWsyV2gzcUdaOTQ2akFkb0Z1aE9pa2JJWTczMlZid1o3a2RfQ19CeEHSAWZBVV95cUxQSjVPX0k4TGhSTE16X080RjFXX0pVcVFfa1hiUzRNdXlzWUxZNlhQcEtwemd2TGt3OWs4OGJpR0VvWVpUNDU1aGpkUHZnM0Z6V0VfNEJDeHF0SWp6emxDb1owWW9ON2c?oc=5",
               "source": "동아일보"
             },
             {
-              "title": "반도체 호황에도 5월 ‘고용 쇼크’, 노동·규제개혁 시급",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnVmV0RDVJalVuOVZFcU5RYmFrWUtIUlJOOUhZbk5iNUcwYXQ3OE9hMkFYTkpqOEJteFlYR25uNW5Kbm50aWN5cHppWDNYOG8?oc=5",
+              "title": "한미반도체, 스페이스X에 500억 베팅…\"미래 성장성에 투자\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PdW1VZmRfamN3NmQ3U3NCYTRxcjdMQjVUYnBEQW9sSmJWY0xPZzRha2hPOTMxLXFTWUFQUUF2RG1IYnFxbmxLR0JMR3ozWnM?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "한미반도체, 스페이스X에 500억 베팅…‘테라팹’ 생태계 진입 포석 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQTVTYXBJZkFxTmZfUUlTVHFKbFdIZEJEUG14cWV3R1Q3VFNEeEVqeFhPUmxtMy1xZExDNWRjeC1yOGI4SGY1YmVpb3Q5RUV3c1JLNGlTMEFaNnAyVl9HeFI3UjU1N0Y3Zl9oakNlOFd1SHdsTHpiQ21nRWNIOTFCYnp30gGWAUFVX3lxTFBnRFBHY0VNLWJQelZfbHFIbGVXQVJoWFl5eHFzSGNfRDQ4SEhWZ2VmREE4ZzRYZC1IWXhQQ3B5V0o4YlRzSEpNNWpXemNMWFM5ei1oeXZzQVRMVjFYVGRHUkhxVDhSNERXYTJodUFMNzJIX0tleXh4bUw0NVluSFRZWkl1bjZPdHVEZzZPWUd2SWFvNmFWUQ?oc=5",
+              "source": "Chosunbiz"
             }
           ],
-          "description": "반도체 업황 호조에도 5월 고용 지표가 쇼크 수준으로 나타나며 '고용 없는 성장'이 현실화되고 있다. SK하이닉스와 삼성전자 공장 가동에도 악재가 전해지면서 업계 불안이 커지고 있다. 자동화·첨단 공정 확대로 생산은 늘어도 일자리 창출로 이어지지 않는 구조적 문제가 부각되며, 노동·규제 개혁이 시급하다는 목소리가 높아지고 있다.",
-          "headline": "반도체 호황 속 고용·공장 악재 겹쳐"
+          "description": "한미반도체가 스페이스X에 500억 원 규모의 투자를 단행하며 '테라팹' 생태계 진입을 위한 포석을 깔았다. 미래 성장성에 베팅한 전략적 투자로 평가된다. 한편 국내에서는 호남 반도체 공장 유치를 둘러싸고 집적효과 우려와 수도권 전력난 해소 필요성이 엇갈리며 입지 논쟁이 이어지고 있다.",
+          "headline": "한미반도체, 스페이스X에 500억 투자"
         },
         {
           "rank": 2,
-          "word": "삼성전자",
-          "count": 6,
-          "articles": [
-            {
-              "title": "삼성전자 반도체 공장, ‘광주 첨단3지구’에 15만평 사실상 확정···앰코도 증설",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnZzRfNmZ5bHBmUHRpM1R4LVBuV0tIQnh3SjhndHIwUHVxUHU3eWFuZExXRlJFdlFvNHVmS0xvV1hwdlBfMDNqSUVrSi1KX193VGpyQWhlampDZ9IBX0FVX3lxTE5rckZJSy0yUHBEalNLYkhwcG14TEloZVF2NzBtb2Z3ejkzSDZDS216N040QWNOX3pmZUVKd2hyWGh0akJ1VkJmMUsyQlJiU0ZhejZXRFhCS2ZxSV9JZDhz?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "배당금보다 직원 성과급이 최대 10배, 삼성전자·SK하이닉스 주주환원 압박 거세진다",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCbUp4WFRTZFpJLW9LV2x2eDNNVU50dVphT3pOLWhZd2RBYWZ1b1ZRUGpuY01VUm5RejdvRDV4VVR4TE96Zjh3ZWF1b3Q2OUJyWkQ5N19aVlY4OGJXTnQ2SWU1S1J0QmY2cFFYbXlJblBhUjQ?oc=5",
-              "source": "비즈니스포스트"
-            },
-            {
-              "title": "호남 반도체공장說 확산에…삼성전자·SK하이닉스 내부 직원들 반응은",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TbmxGTFdsSzR4aUJ4ZkpBZlBuZHI5bFhwT1ZjczVhcFRfaHBGSVJKOEtpZm9WUWRNWkVHUjNadThvSS1hQlhiLXdSY0xJcDdnRGU5QkJhczB3OWpjdTV0VNIBeEFVX3lxTE9VQ0FiUmdTUlhoOTU0bGYwSXZ1b2pucUpNbW5kNXBpNFIwZjhmWndNRkRKWHJ5dHRlaVpWdHpKYzNveF8wYmJ0RnVZa2F0aENHd25JaVBJQzZoTENmYjlibWttbkduTGZ4c0JkMjdiRldQcjUtc25EVA?oc=5",
-              "source": "뉴시스"
-            }
-          ],
-          "description": "삼성전자 반도체 공장이 광주 첨단3지구 15만 평 부지에 들어서는 것이 사실상 확정 수순에 접어들었다. 앰코 증설 계획도 함께 전해지며 호남 반도체 클러스터 조성에 대한 기대가 커지고 있다. 다만 내부 직원들 사이에서는 근무지 이전 등을 둘러싼 다양한 반응이 나오고 있다. 한편 삼성전자와 SK하이닉스의 직원 성과급이 배당금 대비 최대 10배에 달한다는 분석이 나오면서 주주환원 확대 압박도 거세지고 있다.",
-          "headline": "삼성전자 반도체 공장, 광주 확정 수순"
-        },
-        {
-          "rank": 3,
-          "word": "급락",
-          "count": 4,
-          "articles": [
-            {
-              "title": "마이크론5%↓반도체 투매 뉴욕증시 급락",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FZ0RPTjU1clBsVFFPWURuZDJrZDBMTmxkbHRnMHJGME9KekhGY3M4aF9NYXQxRkVXaTJOd3pnQm95aXBQVU53U0MtMHhXams5?oc=5",
-              "source": "문화일보"
-            },
-            {
-              "title": "오라클, 어닝서프라이즈에도 주가 7% 급락",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aWE5OZVhhUzNNQll2a2JtYXVOei02ZEdEb0M2VjItdTVxVTVRa3RFTW5VVFotbzRqOEx5Mi1FVkhRdWpDTVl4a0RoRW9kZw?oc=5",
-              "source": "매일경제"
-            },
-            {
-              "title": "코스피, 또 4.5% 급락 7,730 마감…다시 '8천선' 밑으로(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XTWxzRmRjc1FWOWMtdWt2MVBOWFJIWm5GT1MxdGxtTHFrcFhpQTBaNnpMY0tyT2NKQ0JWSkNpY3ZqSmktbjJ0Mms5WXpUMnVmODlHVXJrc0NTRlXSAWBBVV95cUxQNEtNV3NFbkxKeVZJRUNQMEp3eko2UW84aVJKdUlwV3ViVVFGdHR1NDY1anZPeFdhZzd4V0VJVVotQ05PUnlyUmRMZHlyQzgzS0IyMm1lUnZkTXAxWDBzU0w?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "마이크론이 5% 넘게 빠지며 반도체주 투매가 이어졌고, 뉴욕 증시가 급락했다. 오라클도 어닝서프라이즈에도 불구하고 주가가 7% 급락하며 기술주 전반에 매도 압력이 확산됐다. 국내 코스피 역시 4.5% 급락해 7,730에 마감하며 다시 8,000선 아래로 밀려났다. 글로벌 기술주 동반 약세 속에 투자 심리가 급격히 위축되는 양상이다.",
-          "headline": "뉴욕·코스피 동반 급락, 반도체 투매"
-        },
-        {
-          "rank": 4,
           "word": "정보",
-          "count": 4,
+          "count": 5,
           "articles": [
             {
-              "title": "트럼프, 새 美정보당국 수장에 클레이턴 뉴욕남부검사장 지명",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jRTY1Q1ZCc1RnVnl5T2laSmZKX3laSjNQV2pyWHNiV1hPUkFfQ3Z3UUNaNjl5U1p2eGlESVB2WkNPWml5cVNOZUhsOFVxNEpKdzZTRkZWV2tCbkHSAWBBVV95cUxNSGF1TDA4d2Y4V00wRDZIVmtYc2x3eEs4ZzFzZUdCQllQRTlhTVdIX3V5MldJdE4taHgyNHEzbmplcWRMQWJhRDU0YXQtSW00ZWRibGFSakdpSGJwdDdNcFM?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "'6246억원' 쿠팡 정보유출 제재, 전세계 최대 과징금 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XNVhPMU02cTJWRXFQZWhfTXlLWGFCa291YXllbnpVekxHaU5OclVMcTVYT3V6T0U4YzExMWpJRHNFZllYMUEyTXQ5TjVrc3N5d0ZDZWdQOHpaMWNMYUJGanhDeWEtXzYzTUHSAW9BVV95cUxNLWZNdHlzUjM5Z3hhQ1RORFJvM2tzM0xScGlMMGRuX0tKVWV5aXdLcDM3b2hzZTFUem5ULTE1SEp5Y25aMjkwMEZBYUc5N2NlT2FhVm5KV3V2SFdBZ1k2WWo4R0R6M1daallDWkQ4ekk?oc=5",
+              "title": "트럼프, 정보수장에 클레이턴 지명…SEC 위원장 출신 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xTkRZTzAtckR4UFdFOVkwcHhMNTFRRi1YdXVKV0IzaWh0dngyU214MlA5RDAtTmNNTDd4TFoxbDZYTmk5dFQxbGp0WmVSU3dPemxZRHJ4LWdCWDltYjVTTjF5WG0zVXc30gFuQVVfeXFMTWZtM0oydFdkbVNkaDllSEhLNmp6UHdRMVQwRjAyX3BRNkNFQ1ZTbThUTDVpM0RMWlJRTW82Q0p0cXItM3FJVFZzTXJycTYtbnRpRF9xak04dWNLY3labWNYSjhqVnlWS0dNQm5PTlE?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "온라인 강의 플랫폼 ′패스트캠퍼스′도 개인정보 유출",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zRjd1eGF5Uk95X09oSkdMbG5FSE9OMUVPTHdLUzhlVllJcGhhOEMyY3NGNmlGVUdlWDRNMW1TLVptRHhJeVJjdkk1VnNIUlQ5dnZUbmJCcGoxVUo4S3BsVmtvM3JxMmc?oc=5",
-              "source": "연합뉴스TV"
-            }
-          ],
-          "description": "개인정보보호위원회가 쿠팡에 정보유출 관련 과징금 6,246억 원을 부과했다. 이는 전 세계 개인정보 제재 역사상 최대 규모로 알려졌다. 온라인 강의 플랫폼 패스트캠퍼스에서도 개인정보 유출이 발생해 정보보호 이슈가 잇따르고 있다. 한편 트럼프 대통령은 미국 정보당국 새 수장으로 클레이턴 뉴욕남부검사장을 지명했다. 오늘 처음 등장한 키워드다.",
-          "headline": "쿠팡 정보유출 과징금 6246억 부과"
-        },
-        {
-          "rank": 5,
-          "word": "역대",
-          "count": 3,
-          "articles": [
-            {
-              "title": "이번 '정원박람회'가 역대급인 이유! 관람포인트 7",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53MlN6Q2puakpfZUlWV3VkWHJuTHJMSng0QncxbG5tV25Fb29heWpfZ0h5bnZCZXpXaGFURzhJTlQ3LVFidG1QSDdtUDZWSGJlZTRwRVl0Y1g?oc=5",
-              "source": "내 손안에 서울"
+              "title": "해진공, 해상운임지수 국가물류통합정보센터서 본다 등[부산소식]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtdXphT041TzhkV2Nldm93TGFxTGxiWkxtSmM3RnRvbHg2S0E4cVpfZEZiamRhM3VrQzVTZUtNSENmT20wek5wZVRHaGJmM1lyLXdSRDhJUVpFbkZMX09kcNIBeEFVX3lxTE9waGsxSVJPb210c2FBbWQ4RnFKY19vV0RKWXFvOW5uLVNST3RUa2pqaWZuVS1SU0doN0xlYXZPMHZhWWh4MnVlNDFRenVrWEp1eDZWMXdTYmFTTnNNUzZRUHJlWGc5SzRWZF9jT2duSE9QYVlUNlZLQg?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "'개인정보 유출' 쿠팡 과징금 6246억 원‥역대 최대",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGN1pQT1dNZWVDM3RiS1NxYlhlUHI2cGMwRC1rcjlPOElYOGdFNHN2a3lobVpqTlk5X3ZuS3FnbDJVSG9pekJkRTl4Q1VvcEJ1RTBaWl9kTUdRamZ1eTdNQzJjcTFqeWNjblpTTW1JVEVTWHda0gF0QVVfeXFMTmFaVVpKNzk1TTJmOWpyaGRTNzNHMWlJZEhFRWF1TW1uTVNnMVBJcTliSHlRdDRLNFUxYjRKRmxaelMydjh5UlRDdmJEUEFScS1HQVltTzNpTkFEVHlsWEg4azhjWTdjaUhXMTZ6LUt5dS1ybC0?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "'배드민턴 여제' 안세영, 역대 최초 누적 상금 300만달러 돌파",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GX01fYlIzMjVPRG1jc0UtVWRSVlR0N3ZENjhfZ3A1d1BHTXNkVUViaTlUVm1Zd3VtdTdQMjk0Q2RzaGRESEMwRUdCZ0xHUHBVSnE0NUZVUXYycktWSGc?oc=5",
+              "title": "해진공 운임지수, 국가물류통합정보센터 홈피서 제공",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fUkpDbk5CV2EtWkNxdV9uOUNQSUI4V0JiQkZmTE5Icm85UjZ6WkRWYjdhc29sczB5ek1aN1J2ZF9abXozdHJnWUE0Y25CVWRxeDV2QmphNGRLVjVpYlFr?oc=5",
               "source": "뉴스1"
             }
           ],
-          "description": "쿠팡의 개인정보 유출에 대한 과징금 6,246억 원이 역대 최대 규모로 확정되며 화제를 모으고 있다. 배드민턴 안세영도 역대 최초로 누적 상금 300만 달러를 돌파하는 기록을 세웠다. '역대급'이라는 수식어가 경제·스포츠·문화 등 여러 분야에서 동시에 등장하며 오늘 처음 키워드에 오른 만큼, 각 분야의 새로운 기록 경신이 주목받고 있다.",
-          "headline": "쿠팡 과징금 6246억, 역대 최대 기록"
+          "description": "트럼프 대통령이 전 SEC 위원장 출신인 클레이턴을 정보기관 수장으로 지명했다. 금융·증권 분야 경력을 가진 인물이 정보 수장에 발탁된 이례적 인사로 주목된다. 별도로 해양진흥공사(해진공)가 해상운임지수를 국가물류통합정보센터 홈페이지에서 제공하기 시작해 물류 정보 접근성을 높였다. 오늘 처음 등장한 키워드다.",
+          "headline": "트럼프, 정보수장에 클레이턴 지명"
+        },
+        {
+          "rank": 3,
+          "word": "스페이스",
+          "count": 3,
+          "articles": [
+            {
+              "title": "'역대급' 스페이스X 뜬다…직원 4400명도 '돈방석' 예약 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UclpCY1VJYXo1eEV6MkUydXlDUXUzR2JnSWtVZHdWUG4xVEpqQXZ0aTR1NEtsN0JQeVI3dFU5czloYk9zWVJYS1JJa3kzX0sybDl4YzktRlR3VlVmMmt1RTRGZTBVNWV40gFuQVVfeXFMTVNxMTg3Mzlzb2dlWktPLXBlc2RvazdPdDJBcnZORk5zRmpSUmgtbjlTblRnVkdIUTlEWTNOTmpnRVpUWVBHTVh4R3h1MldJOHNhOThpcXUxcGRIbEVIN1dhd1g4aHJSUTVBRlVRYlE?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "\"스페이스X, 투자자들에 손실 안길 듯\"-NYT",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zczRkRjBwb01iQ3dXTUJHYWFybHkzQURwMERBUks5d013M3ZiWWo2YzVxZzNCZ1E0eUtmZkpSZUFpcmJGOTRjTTJNUENMT1hZYllUcExkX3o1SVF6b3F5ddIBeEFVX3lxTE9KdWlFUzJzWHpHd2lnLTJnY09fcVFmNFl3Q2o4dHJsbm9jWExJVWFPZjFiRHNDZXRIZjRXMU45S3pyNVdHRldhaHJMMzdMcnI1OUZRNUhab0hRb0ZIZmhmdS10WGZxOGQ3bF9MYzZpc3c3S0ppUDlPaA?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "한미반도체, 스페이스X에 500억원 투자",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFa0lfX0k3TTM5NkFoaU5yWkxQaE9EZE5qcHNGUklhYjlKRF9fei13SFEwanhEdUFTdVN4ZUZhWndqeUR6ZHViSVFIcG9UQQ?oc=5",
+              "source": "전자신문"
+            }
+          ],
+          "description": "스페이스X가 역대급 기업가치 평가를 받으며 직원 4,400명이 '돈방석'에 오를 것이라는 보도가 나왔다. 다만 뉴욕타임스는 스페이스X가 투자자들에게 손실을 안길 수 있다는 우려도 제기했다. 한미반도체가 스페이스X에 500억 원을 투자하는 등 국내 기업의 관심도 높아지고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "스페이스X, 역대급 기업가치 평가"
+        },
+        {
+          "rank": 4,
+          "word": "금융위",
+          "count": 3,
+          "articles": [
+            {
+              "title": "\"포용금융, 국민 앞에 생중계한다\"… 금융위, 17일 '포용금융추진단' 발족",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEcnYzdmdFQjJLSVNrM0RsWEkwZS1JNk1NMVNKcmFvUmRqVXNkUk1YVWcxWmNsTGFPRmQtOGx2QjgySnUxeko1ZllHNTBVSUE?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "비거주 1주택 5.9만건 운명 가른다 … 금융위 예외기준 시뮬레이션 착수",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rcEExWGRFWFJ4a1VGRkQtd3ZtVWhSN2JmZVZMYUdLTUxIeWJtT0pYVXhQOUw5bVVmR2E0QVNrTVl5eldUNzAwUXZxckxES3ZtR3FlYlF0anR1X0EtS2lSOVdnQ3NnazhvWkE4TkpjS2UzcFJPaHVFNFhVa9IBgAFBVV95cUxQLVZ0S0paekZ6bkJsc1hrVjVaVnpzaFFuUGhrenFybW1ka3lEa0RnUEc0RW5BYlV4ZUFsM0hEbmZNQXJxeElZOElGU3lyaWVZbWNBalVtTldJb3JkaDllb0ZYdGtXQkJqcnBrSnVKcUt3Snc1OGxuOTlkVlBMREZidA?oc=5",
+              "source": "뉴데일리"
+            },
+            {
+              "title": "‘집값 주범’ 전세대출 옥죈다…금융위, 3중 규제 카드 검토",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwN1loYUxjYWJ1dHBIb0k0TTVSVWlwVV9sUHVMbUtPZm5jNGVTSEFWY1BBUE5SMFRuZHJ2bzJ6TXYzT1pTbkZPTTN4RVhjVWd5aWVWb1hn?oc=5",
+              "source": "중앙일보"
+            }
+          ],
+          "description": "금융위원회가 '집값 주범'으로 지목된 전세대출에 대해 금리 인상·한도 축소·창구 제한 등 3중 규제 카드를 검토하고 있다. 비거주 1주택 5만 9천 건의 대출 처리 기준을 가르는 예외기준 시뮬레이션에도 착수했다. 17일에는 포용금융추진단을 발족해 포용금융 정책 논의를 생중계할 예정이다. 오늘 처음 등장한 키워드다.",
+          "headline": "금융위, 전세대출 3중 규제 검토"
+        },
+        {
+          "rank": 5,
+          "word": "금리",
+          "count": 3,
+          "articles": [
+            {
+              "title": "ECB, 3년만에 금리 인상…예금금리 0.25％p↑",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tVm5JeEZGUzJpejM3c3FoWDJndGx3Z01VSFpNUGZYLUhpV3VuMm5pRkpVNUJ6X0hYU0g0Y3JGUUpRUW9ZM2VwTWU2N0x2aVNGbW8xRnk3czgzZWvSAWBBVV95cUxNUFNrVzNzSHU3Q2RFNGhvME91LWxzeDJsSFItbUlzWTcwR2FLSlQydEZRdm9wT3doaGRramVJaENPQlVST3NMT0lYZEV2cUNhRHpRc19SWWg3RmFYWlNSX2s?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "씨티 \"코스피 랠리가 환율·집값 자극…금리인상 주택시장 영향은 제한적\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veW5nZzdLQU9vdGd1ZWNIbVBEMUhtT1pSdnYwcXBDVjRoTmxPREQyVVktRzdJSUREc3J2OWY4N0NyOUdqX1dSSEZVWTFnbHdNYlN4cGtVNVBFS0p1TE9SVtIBeEFVX3lxTE5VWUhBaFJvSTlDTVo5bE5WUFRyV2Z5R3RfcV9vNlFweU9aOVJGTDg1dDhqMWhpRGxkWjZUd0FZRDRwTk1iZ1JwNTk5bVlRd2xaVHpRWUVlRzZwdlExNjRaWVZrLXNlakxlTk84dllweGJSbTlpT1hEdw?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "\"금리 올리고·한도 줄이고·창구 닫고\"…은행권 '빚투 차단' 총력전'(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YbHhySE1fUVM5OVdaOXgwSEg0T2FLWUE2Y1FhaE1iNWFpSFRzbHdUVDVoQzNaWEQwcVI1bzBHNWp0eGpIVXZjcVVnNTZZaXc?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "유럽중앙은행(ECB)이 3년 만에 금리 인상을 단행하며 예금금리를 0.25%포인트 올렸다. 글로벌 금리 인상 기조가 이어지는 가운데, 국내에서는 은행권이 금리 인상·한도 축소·창구 제한 등 '빚투 차단' 총력전에 나섰다. 씨티는 코스피 랠리가 환율·집값을 자극할 수 있으나 금리 인상이 주택시장에 미치는 영향은 제한적이라고 분석했다. 최근 2주간 꾸준히 상위권을 유지하고 있는 키워드다.",
+          "headline": "ECB, 3년 만에 금리 인상"
         }
       ]
     },
     "연예": {
-      "summary": "'백룸' 할리우드 흥행·'참교육' 미국 극찬 화제 · 문채원 유튜브 활동 · 정경호·수영 결별 관심",
+      "summary": "김무열 병역 미담·월드컵 열기 고조·정경호-수영 결별·이승기 전세 공방·유재석 예능 화제",
       "keywords": [
         {
           "rank": 1,
-          "word": "백룸",
-          "count": 2,
-          "articles": [
-            {
-              "title": "커뮤니티 괴담이 할리우드 흥행작으로…'백룸'은 어떻게 주류 문화 됐나",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SeWlNcHJFejQ5VEVoT0tja2g5ZGVQd1dQVXBzYUNQcHdZbkdIUGpxTUF4YWJfN0x6dUxRRno3LVRQM1BYcVhaVUYzWXl3OWFVYjlIc0xn?oc=5",
-              "source": "지디넷코리아"
-            },
-            {
-              "title": "예정된 악화 속으로,",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82RE1uQXIzRWJjMHd0UkNuWHpnQmpfOFF4SU1zUElFeXRLRl9yZEczZVRFbHZVSzI4MjhJMnc3VDV5UGZqdm01WHpRRVNHWVBSUHFvS0tR?oc=5",
-              "source": "씨네21"
-            },
-            {
-              "title": "“일주일 만에 제작비 14배 매출”…20세 감독 데뷔작 ‘백룸’ 인기 이유",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tVnRxT29QNVJhWmFMZENtWVVJTUYxYmlpU1V3MmRrUkxXbmdtVEdwRXlBS3p4OEw4N1hkS0tSb0pqblA3QzZhX0VqRHZJMF91dGJHR2dn?oc=5",
-              "source": "중앙일보"
-            }
-          ],
-          "description": "인터넷 커뮤니티 괴담에서 출발한 공포 영화 '백룸'이 개봉 일주일 만에 제작비의 14배에 달하는 매출을 기록하며 화제다. 20세 감독의 데뷔작이라는 점도 주목받고 있다. 온라인 크리피파스타(괴담)에서 시작된 소재가 할리우드 흥행작으로 자리 잡으며, 인터넷 밈이 주류 문화로 편입되는 흐름을 보여주고 있다. 오늘 처음 화제 키워드에 등장했다.",
-          "headline": "백룸, 일주일 만에 제작비 14배 매출"
-        },
-        {
-          "rank": 2,
-          "word": "참교육",
+          "word": "김무열",
           "count": 3,
           "articles": [
             {
-              "title": "학폭男 따귀 날린 ‘참교육’…“올해 최고 드라마” 美포브스 극찬, 왜",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mZWZpVVdXYldlRlltbmFjRlRlS0VOTUJZSEFIWjFMdEE1cUJQXzd4QVNra2FvYzdTa2ozMFU0SWlqZUpQRVFLd09OV3lKZF93b0JzeUxn?oc=5",
+              "title": "\"3억 버는데 생활고?\"...김무열 병역기피 의혹, 오히려 미담 된 사연 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TemV2dDRpek1hOHBJRmV4ZEJfRlJUUUl0WEJ1YTFJNk9XUzR2VE9EX1A5TDBqRlBmT1JtelVIQlJOZjE3UWNFQ0pIWGQ0M1FfNGEybDdZanpOc2NncTlLT3Fwa3pRZ2xvMkRr0gFwQVVfeXFMTVdGaHM4T0oxMzlQVkRpWWpEZ2pkSzNLMmhoU2ZBMXVFTjJkZk5jekJ1ajBncjREbjdHMktJUjZESUw4Nml4eE1KM25wbkh3UmtwckN6Vm0wdFFLSGdub0hkdG1Ea3Y1d0ZyRGNTV2UxUQ?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "‘참교육’ 김무열, 존 시나 SNS에 직접 등판…넷플릭스도 “쌍둥이” 인정",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVZ3VTYUw1UV9jVk9MMk1FdjFIemZKZUJtM0FjeVJPd2U1cXZNNDhYOEhEQktDNkpCeVM0LVdsOXZIaWV0clFsemdvbUs1eWVRN3BoeThwczZ3T2pvOUHSAWNBVV95cUxONm9vNEJTc294b0JWc2U0enVwVjU2OHl3b0pSVU1uWnNKTTFoeVpMdEdBU253cS1iRFo1dmsxYU9RbUhCanhBR1ZWbUhVNHBhSlZCU2lWVkxtclZNMTNXbEc1Vzg?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "학폭男 따귀 날린 김무열…“사이다” 美까지 열광한 까닭 [송원섭의 와칭]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uQUNNbzQ4S2Y0TGJqMTY3b2k1b0V1UzlhdUlvckJOXzUyVXNiQjhmR1NHMGZhTXBWN1V1MU9CS2VNQzR1YjhmdkMyLUlLeFlsOFJEMWtB?oc=5",
               "source": "중앙일보"
-            },
-            {
-              "title": "‘참교육’ 논란 털고 인기…“사이다 뒤 남는 씁쓸함” 뭐지",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vaktYREJjWnlVYlpCM1RDdlVidTMxOWFVT19pS244bUlxdzNFd2pUSWF2OEp1V1o1Ynlfc3FUd1B1SUtUY3g0RHp4TkYxeHJWdHNMMlE5aE9KcGE4eW43WGk5dnhjbk5KVGtfWXpEWTFqQQ?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "화제의 '참교육' 김무열, 군 면제에도 자진 입대…'생계 곤란' 가정사 눈길",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TU2pDX1ZTNnowQWM5NkFsNHhWaFlYTUJxeXljM3U4UEROemtWamNsTERIamwteXFPTXFhM09YbmNQWW1OUWpqZ29oSjFlQzlRSWVaR0p5cVRja1oxZ1BMbHBvVkZ5UnNnelE?oc=5",
-              "source": "뉴스1"
             }
           ],
-          "description": "드라마 '참교육'이 미국 포브스로부터 '올해 최고 드라마'라는 극찬을 받으며 국내외에서 주목받고 있다. 학교폭력 가해자를 응징하는 사이다 전개로 인기를 끌고 있지만, '사이다 뒤에 남는 씁쓸함'이라는 시선도 함께 나온다. 주연 김무열의 과거 군 면제 사유에도 자진 입대한 일화와 생계 곤란 가정사가 재조명되며 배우에 대한 관심도 높아지고 있다.",
-          "headline": "'참교육', 미국 포브스 극찬"
+          "description": "넷플릭스 영화 '참교육'에서 학폭 가해자를 응징하는 역할로 출연한 김무열이 글로벌 화제를 모으고 있다. 존 시나가 SNS에서 김무열 사진을 공유했고, 넷플릭스 공식 계정도 '쌍둥이'라며 반응하면서 미국 팬들의 관심이 폭발했다. 한편 과거 병역기피 의혹이 재조명됐으나, 실제로는 생활고 속에서도 정당하게 복무한 미담으로 밝혀지며 호감도가 더 높아졌다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "김무열, 미국까지 열광 화제"
         },
         {
-          "rank": 3,
-          "word": "문채원",
+          "rank": 2,
+          "word": "월드컵",
           "count": 1,
           "articles": [
             {
-              "title": "'유튜브' 문채원, 코르티스 과몰입…동묘서 '레드레드' 춤까지",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhLUNTMGtCNnRIQ3VGMTlDSmtpOG1ibUk2SGxjcXBoUThSdDR1QUp0N0FNRGwtX0RHUjZWeEJxNHZjSnF1MHBEdWYxOHQ5TVU?oc=5",
+              "title": "교도소 월드컵 시청, 16강 가야 가능할까…법무부 \"이슈 커지면 검토\"",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WT29CZzFsdktiUWozc1UzUWdvT0xDTDVUUWZrV3ZqdFBKVlZGY0oyZDFYaWJPV1hOZWswVHhnUTR4SHFvNlAzUnhXS2ZzZlI1ZFpr?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "韓 뚝섬서·美 댈러스서…월드컵 열기 달구는 車업계",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DWUkzS1Nyd1ktQThRcEN0ZE1MdzJ2M294TUZ5WktkUmRZLS1yeU53ZHYxektvVjZ3YzJEU2VtU21JMTIzWklFbXpqT0JiTDQ?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "문채원, 결혼식 앞두고 식욕 폭발…\"자제가 안 돼\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qemNVRTVLZjBSRjI4bVRwOUlXU3dtY3hGbjY4LUQweDl4NW94UUwwLXVXV3ljZjFjWFN3WXNPRFViUndyWVFRV2xfb2JRNXNGeElmelRFWmhzRFctQkE2X9IBeEFVX3lxTE9ncWNUM1Jsbk1nekpUeVlIS3JzbVo2UHBkSm5sLXdUanpMUDNBVXBaN0pPcm9EcmhKUlhIR1FHVktxRmFXSk5EeTYyM010YUFzd3gtTHVzdFZzcjhvYzFhc25RWl9RQXFnU3BnV28yU0dtRUd0M3pfbQ?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "문채원, 결혼 앞두고 현실 고민 \"자제가 안 돼\"",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vWHFyajdHMHhJRHVmYVNwVUZwQkRpNTZ0enVNb0hXb3ZvUk5kRktENkJibHVhQVhISWFuWjJJcFFVY3VVdDBpV253UWhDU3VPXzNpV05Sd2pVWUcyYURkRUFhNzF5V3ln?oc=5",
+              "title": "'한국-체코 둘다 별로네!' 전반 0-0 끝나자 사방서 야유 터졌다[월드컵 현장]",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sd0NzZVlBR0RRLWI2NDkyRkk4SjdGanc0XzcycVRtTWQ2SGppWHVMWEc5X2hrU1BkTmhEQkVtZ0dld1o0NW44YV9mRjJjRzBMcFFMTjBYNlFCLUlY?oc=5",
               "source": "네이트"
             }
           ],
-          "description": "배우 문채원이 결혼을 앞두고 유튜브 콘텐츠로 활발히 소통하고 있다. 동묘에서 '레드레드' 춤을 추는 등 코르티스 과몰입 영상이 화제가 됐고, 결혼식 준비 중 '식욕이 자제가 안 된다'는 현실적인 고민도 솔직하게 공유했다. 꾸밈없는 모습이 시청자들의 호응을 얻으며 오늘 처음 화제 키워드에 등장했다.",
-          "headline": "문채원, 결혼 앞두고 유튜브 활약"
+          "description": "2026 북중미 월드컵 조별리그 한국-체코전이 열렸으나 전반 0-0으로 끝나면서 현장에서 양측 팬 모두의 야유가 쏟아졌다. 국내에서는 뚝섬 등지에서, 미국 댈러스 현지에서도 자동차 업계가 월드컵 열기를 활용한 마케팅에 나서며 축제 분위기를 이어가고 있다. 수용자 시청 문제도 화제로, 법무부는 교도소 내 월드컵 중계 허용 여부에 대해 '이슈가 커지면 검토하겠다'는 입장을 밝혔다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "월드컵 한국-체코전, 전반 0-0 야유"
         },
         {
-          "rank": 4,
-          "word": "김성수",
-          "count": 1,
-          "articles": [
-            {
-              "title": "'신랑수업2' 김성수♥박소윤, 댄스 스포츠 도전…과감한 스킨십 [RE:TV]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xdkdBLXA4bXlPOEtsQllBVWZJZmE5b20wdnd3TXk4TzJPXzVMX2Z6ZzdOWmhEeHRYYURIVFZMZWRHM0RZa0VhbDJCaElYdXdGZTlPNjB3dXNaNUdPRmdiOQ?oc=5",
-              "source": "뉴스1"
-            },
-            {
-              "title": "'신랑수업2' 김성수 \"동네에선 박소윤과 결혼하는 걸로 알아\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TUmJJb2dFRnJqRmxicTRqMVZoVWtuUlhITlpyOUdSMjRNTnJUcjFHYjlTZS02elpoSHhZd0VjN3ZVVUNBdUphQUJhelUzTW8?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "김성수, ♥박소윤 휑한 화단에 꽃 선물하고 '탄식'..\"종류 잘못 선택했다\" ('신랑수업2') [순간포착]",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWHFlWmJnVl82LWV1TVlBWlhfUDRDaV85RE9TZ1lWU1hIYzc2V19ERThMMVpMdklUMW1GcUQ0M3ZKQTRSUUpQZmNOckU0T1lsWkFGa25LZG9FZkJQTjBtcEI1TDZmemNGOVoxVTcwQkNRbnNqT1JIVThXVktVRGo2TlJYdlBYWVhyckM5MGY1MA?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "배우 김성수가 '신랑수업2'에서 박소윤과 댄스 스포츠에 도전하며 과감한 스킨십으로 눈길을 끌었다. 김성수는 '동네에서는 박소윤과 결혼하는 것으로 알고 있다'고 밝혀 웃음을 자아냈고, 박소윤의 화단에 꽃을 선물했다가 종류를 잘못 골라 탄식하는 장면도 화제가 됐다. 오늘 처음 화제 키워드에 등장했다.",
-          "headline": "김성수, '신랑수업2'서 박소윤과 화제"
-        },
-        {
-          "rank": 5,
+          "rank": 3,
           "word": "정경호",
           "count": 2,
           "articles": [
@@ -362,143 +314,191 @@
               "source": "머니투데이"
             },
             {
-              "title": "박정수, 양아들 공개→‘♥정경호父’ \"내 반려자는 하늘, 나의 자존심\"('박정수 유튜브')[핫피플]",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yLVAtMUpHcXgwVWQzdE9BTjFRdEgwNDRhTU9FZk83blMyamUtNG11N0pvX2p5NWxlVTJKRl9QeFlRWEdRQVpjVVprY0NrbW85X2RB?oc=5",
-              "source": "osen.co.kr"
+              "title": "수영, 정경호와 결별 후 첫 공식석상…'시각장애인 마라톤’ 참석",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81MjRzdGFmR0FfRmtQbkJoenF2eHRXUVFzQWlNS0pESkI4ZG9wNTI5b2pTQ01pNzBlLXd0RFR3bWxtME5TQVg2OC1HTDFsVkpKdWd5Z0hQS1BFN3BHc25Z?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "정경호·최수영, 14년 열애 끝 결별…“좋은 동료로 남기로”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uRndFVmhFVko5S0lmV1dEVC1pZUt5Q1pkXzE2VDg2X3dRd29Ec3VtemF6LTliMzY2TDR1cWM4OUlxU29kOUxwZXI5WllZOFg5a1dvYXFR?oc=5",
-              "source": "중앙일보"
+              "title": "정경호·최수영 결별 맞춘 무속인, 재회 예측 \"여전히 아끼고 사랑해\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xREE1S0YwUExfMllsT0ctN1Q3RS1ZN3RfU3ROUHFxYjlZT2tiRFl4d3BoZmM3di0wZ2RIR0dFZ09HazU3NGJTSWVheFZ2MWM?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "배우 정경호와 최수영이 14년간의 열애를 끝내고 결별했다. 양측은 '좋은 동료로 남기로 했다'고 밝혔다. 오랜 공개 연인이었던 만큼 팬들 사이에서 아쉬움이 크다. 한편 과거 무속인이 두 사람의 궁합을 본 영상이 재조명되고 있으며, 정경호의 어머니 박정수도 유튜브를 통해 근황을 전해 함께 화제가 됐다.",
-          "headline": "정경호·최수영, 14년 열애 끝 결별"
+          "description": "배우 정경호와 가수 수영의 결별 소식이 전해진 뒤, 수영이 결별 후 첫 공식석상인 시각장애인 마라톤 행사에 참석해 근황을 알렸다. 한편 과거 두 사람의 결별을 예측한 무속인이 재조명되며 '재회 가능성'까지 점치는 콘텐츠가 화제를 모으고 있다. 무속인은 두 사람이 '여전히 서로를 아끼고 사랑한다'고 언급한 것으로 전해졌다.",
+          "headline": "정경호·수영 결별 후 근황 화제"
+        },
+        {
+          "rank": 4,
+          "word": "이승기",
+          "count": 1,
+          "articles": [
+            {
+              "title": "'전세 105억' 공방 계속…이승기 측 \"엄중히 책임 물을 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42ZmU5Y3RFRHNOenAwNVROZkx4WGdITmlHamhDTmx1bHRCV1IzaXhQeFppYlprUW8wYzNkTjZ6cDlRbHpkNE1jenZqdGJ3Ujg0eTBQNHBUMXBIVXNqXzdxcdIBeEFVX3lxTE5nUlhtMUhNNDRrXzlCeE1Fb3NxUkgtb2NQREQzb3I3VTRxbUQ5X1REMjQtOEU4Q0hvRy1NLVVsaTNUdV8tT295RWFTZXZoM1B2UmFoT1R1YlduOFBCZkVvZWNlWV9jOGxTRFRRWVNFMEsyMTlPdGhaVA?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "이승기 '분노' & 차가원 '사과문', 갈등 전말",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ibTB2c3lVQkpIS2ZoUVhzWkhvZW9ub1FNNTZhaXJwc1V5Yks4U3E5cjI5SXU5WlVZNUpQWXlQdU12Ri1hMGdlS3NSa3ZLakliUk9GM0pMT0xsVndO0gFXQVVfeXFMUE5mT2JSMFZNMGxhcV9ickpmWVhmVGxMMi1EOTBfMlRpYV9hQlhLOG4zbG1HRWdaRVRjQ0VnSkN3dTJsZUJFY2NIcll1SG1hdzhDdkxOWnRv?oc=5",
+              "source": "더팩트"
+            },
+            {
+              "title": "‘105억 전세 공방’ 격화…이승기 측 “차가원 범죄 상세히 밝히겠다”",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oSUNWRkNmZ21yUndyTlA3UGdWU2VPb0tfZ1ppWjBRTk9pYndyU0prdFVPblNyQV9oMHY5LTR5elZkb2piNDVnajR4WEpKZFJQamdDUDljSGM4VWpfeGlPamlpYXk2TlVLTFVB?oc=5",
+              "source": "서울신문"
+            }
+          ],
+          "description": "이승기 측과 차가원 사이 '전세 105억' 분쟁이 격화되고 있다. 이승기 측은 '엄중히 책임을 물겠다'며 강경 대응을 예고했고, 차가원의 '범죄 내역을 상세히 밝히겠다'고도 밝혔다. 차가원 측은 사과문을 발표했으나 양측 갈등은 좁혀지지 않는 양상이다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "이승기, 105억 전세 공방 격화"
+        },
+        {
+          "rank": 5,
+          "word": "유재석",
+          "count": 1,
+          "articles": [
+            {
+              "title": "\"누워 있고 싶어\"... 유재석 한 마디에 정신이 번쩍 들었다",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfcEtZVmdSaHBzU1RRbGZmS1lZWDhCNkJweEtPYnFzelUtNjYtQmJJU3JKMnZqdFRPbllSeEFPN3p0Si0zVHp2WEVHV3R3Vk11WlZDM1V2bDQ2VG10eFdqUWpFT1htWWpJUFJVUTk0dVZJSV90NEdZ?oc=5",
+              "source": "오마이뉴스"
+            },
+            {
+              "title": "유재석, `인맥 캐스팅` 꼬리표 또 언급…\"추천은 가능, 선택은 제작진 몫\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vWGxrM2JjSHVPSVlsYzVoenFOTEhvRTNfVnpHRWh3WlJGcWE2UkRxOUs1aE13UnBvYjFfVUl5U0Y0aEppVVg2c0NuS1BGRFhjMjlUMXp5QTNQNmVmU0FPcw?oc=5",
+              "source": "마이데일리"
+            },
+            {
+              "title": "유재석 이름 내건 '유재석 캠프', 한국관광공사와 역대급 콜라보 성사..'코리아 캠프' 참여",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlJXMDJ0MzdMSWpwMFh5U3pReHRzbXF4Ukk4R3ZyeUM4ZGwxOEVua0M5Sl9zSkwtODJZc1N6MWRzQ3pZemlSemUwS3JldDVSekRDeVFWMUhHR2FjVVo0VElxc0pldVVXRE1zdlZjY2dQYmNjX1FZd1JBS0dOQ1F2MzhHMXRrRFpGZFhmUXBQUVFpU09D?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "유재석의 이름을 내건 예능 '유재석 캠프'가 한국관광공사와 역대급 콜라보를 성사시키며 '코리아 캠프' 프로젝트 참여가 확정됐다. 꾸준히 따라붙는 '인맥 캐스팅' 꼬리표에 대해서도 유재석은 '추천은 가능하지만 선택은 제작진 몫'이라고 직접 언급했다. '누워 있고 싶다'는 솔직한 한마디가 공감을 얻으며 함께 화제가 됐다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "유재석, 한국관광공사 콜라보 성사"
         }
       ]
     },
     "스포츠": {
-      "summary": "한국 축구대표팀 월드컵 조별리그 체코전 D-1 준비 · 롯데 3선수 아시안게임 야구대표팀 발탁",
+      "summary": "한국 축구 체코전 앞두고 거리 응원 열기 · 키움 이용규 코치 음주운전 사고 · 아시안게임 야구 대표팀 명단 발표 · 이정후 18경기 연속 안타 · 박현경 실격",
       "keywords": [
         {
           "rank": 1,
-          "word": "월드컵",
-          "count": 13,
+          "word": "체코전",
+          "count": 5,
           "articles": [
             {
-              "title": "'월드컵 통산 1무 2패' 김민재, 체코전서 월드컵 데뷔 첫 승 정조준",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaRGJ2cHluSHdtRHpIUFUweG1vb3Q0UXBBTlhLb1ZRdm5hT0hOaERNejBuSmI3aG0zMFBIdTI5NThERWNVZkVyQzBKZnMxZVBKcnVKNDhaNGJyRHlT?oc=5",
-              "source": "네이트"
-            },
-            {
-              "title": "‘아침마당’ 2026 북중미 월드컵 특집 ‘퀴즈쇼 천만다행’···조원희·김영광 VS 마이진·요요미, 한판 대결",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yOXFKZmhiYkpYTG9KT0FRRHg0T1FJb252U3ktbjg1WmVVeEZqak9BUE5RNHUxaFo2VFhmbko5ak1xOVBnZU1LakpyTlR0UTJQUm5FNXczS3U1N3RWd2fSAWNBVV95cUxQZzBHcUZWc0FqaDlOa0NjSGJ0SEZoUFA2VFNuVFdsT3ZTYlMxSXRacmdfbXhGUk5ITEl5Yk1RUFFiVkJ0OGxQeUFob3lfeUo2X1dmVFhSbzZCbExJeTJnY3FxMTA?oc=5",
-              "source": "스포츠경향"
-            },
-            {
-              "title": "이번에도 맞으면 ‘소름’…점쟁이 푸마가 한국을 ‘콕’ 찝었다고? [월드컵]",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSOVlKc2RKN3drbnN5MnpQUjhVNVVFQXRwS19xN0d5N0I0Y2VfWHVqU3NINEF5M3FVVlRZSlB5TUJBS3d1QlE?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "2026 북중미 월드컵 조별리그 체코전을 하루 앞두고 대표팀이 첫 승을 향한 각오를 다지고 있다. 월드컵 통산 1무 2패인 김민재는 이번 경기에서 월드컵 데뷔 첫 승을 노리며, 각종 예능에서도 월드컵 특집이 편성되는 등 전국적 관심이 뜨겁다. 점술 동물 '푸마'가 한국의 승리를 예측했다는 재미 요소까지 화제를 더하고 있다. 월드컵은 3일 연속 1위를 기록 중이다.",
-          "headline": "월드컵 체코전 D-1, 첫 승 정조준"
-        },
-        {
-          "rank": 2,
-          "word": "체코",
-          "count": 3,
-          "articles": [
-            {
-              "title": "“인생을 걸었습니다” 손흥민의 비장한 출사표…체코전 D-1 [현장영상]",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FaWNuNGlZRWdNSllyd2JVRnN1MHlmNGdBZlFULVVIa0IyU2EwSE1xNE1pVWRmVERabk5tc0w0RlRRbjRVNVFnV0pwNlFrYllCb2lPQS1IdnR5TGM?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "체코전 'D-1'...광화문, 거리 응원 준비 한창",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zTm1xekZBZWpKeEM5Y293aHdtXzZMemtQR2x3T3M0OHZKRjlucXRrTVVwSlIzdGtZYjc0UUdUSmF6RU1POGpaQ2xCQnRvSXVkMXNZWDNuOWZHRkFUN2c?oc=5",
-              "source": "YTN"
+              "title": "\"연차 내고 거리 응원\" \"손흥민 보러 왔어요\"… 체코전 앞둔 광화문, 붉은 응원 열기",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjZ4OU0tZ1JLYVI1dFg3SkxQbHM3Ql9jZFRmNjFIa0NPWWhMRWh3YjdsanNGc09kTDNQVWNMMGJYQy1tVmItYTV1SGNhVEtqY1MxWlRxd0NmMEt4R1kxVnJpeHN0am1CUjFGeURhVVBScGc0UmpwZ2ppOXZiSmFXN0xYdWxDNkNkWVpJMTJsN2Y?oc=5",
+              "source": "조선일보"
             },
             {
               "title": "박지성이 내놓은 체코전 전략 “후반 25분 ‘이 선수’ 투입하라”",
               "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PeXYxeW91dlZFN2ZwTTBzS1VGSHc2Smt4TGphYWxxR1RwLTV0UlNHa3ltQzE4YUJuckM0NGlzXzJJZ0R0N1lNTGxESm14LTFfcWlqcGVB?oc=5",
               "source": "중앙일보"
+            },
+            {
+              "title": "한국 대표팀 체코전 명단 발표...손흥민 선발 출격, 이강인 이재성 측면, 중원은 백승호 황인범 내세워",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5M2ZPZ2h4Wi1DbU54U0wtam9UR2p2VjlYQlM0ZE5lbmFubGNfT3NvNlowOGdHM1AtY1o4YkNjcURxU21NbWsyeDZsMk45RENLQnljQg?oc=5",
+              "source": "JTBC"
             }
           ],
-          "description": "월드컵 조별리그 체코전을 하루 앞두고 손흥민이 \"인생을 걸었습니다\"라며 비장한 출사표를 던졌다. 광화문 일대에서는 거리 응원 준비가 한창이며, 박지성은 후반 25분 특정 선수 투입을 제안하는 등 전문가들의 전략 분석도 활발하다. 대한민국 축구 팬들의 이목이 내일 경기에 집중되고 있다.",
-          "headline": "손흥민 '인생 건다' 체코전 출사표"
+          "description": "한국 축구 대표팀이 체코전 선발 명단을 공개하며 손흥민이 선발 출격한다. 이강인과 이재성이 측면을, 중원은 백승호와 황인범이 맡는 구성이다. 박지성은 후반 25분 특정 선수 투입을 제안하는 등 전략적 관심도 높다. 광화문에서는 연차를 내고 거리 응원에 나선 시민들로 붉은 응원 열기가 가득 차, 경기 전부터 뜨거운 분위기가 형성됐다.",
+          "headline": "한국 대표팀, 체코전 선발 명단 발표"
+        },
+        {
+          "rank": 2,
+          "word": "이용규",
+          "count": 1,
+          "articles": [
+            {
+              "title": "키움 이용규 코치, 음주운전 하다 교통사고···경찰차 들이 받아",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VcmR0d1diMmFvOEVnQ3NpeFhqQjdLNUZ0UXpWOGwtc256V2UtMGpndVlBMmo1S2MxMm9yRDU0LXpLSUd6VWdIZUhhTWpJbThHTGM1UWZCaV9pQdIBX0FVX3lxTE9VeFF1dkpyZ0JvOUUySnZpRGZXdGU4bW9mMXB2c2J0aDVFWWJmX3JPNXdPamVpX1pVRkNGbUI1UEZxZGpaNkNXNXd3N2twMlE0SzQ1SGhwN3hKTXo2T29z?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "키움 이용규 코치, 만취 운전 사고 입건…경찰 조사 중",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaGFYNDJJZm1BbU9TbEhCT0VJTVl1TzVMZXlPcV94ajJ0Ny1rRmxBX0QyM1dNdnVFbGFUaGd6Y2YwYVJQaURmdkd6VGdiOGZMa2NvWjRuaDZjWW5kbkxZZE8xaTN4Zm45MlhnVFg0amJCY3h5MlpiS09TWjBieWVtbVJlUndkQdIBbEFVX3lxTE5mbld6N0tGb202dVJNMnJ1TWF1RERlM1BKSzJBNWphVWZpWVlySC0td2RrUWo1dUxxZWJWd05PZFRfd0FWU1N2X3c0MThUWk5EMUVabE1HaGNuejd6Z0h1aHRmUkdxano3MHJHeA?oc=5",
+              "source": "국민일보"
+            },
+            {
+              "title": "키움 이용규 코치, 음주 운전 사고…경찰 입건",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00WV9Ma0wxWW1KV0Y0SHF3VlhTcFlkUFc3Mzh3QlpoSER0SWxkcERETWNuandORTlJRXhyYXlhN0hGMmFFTjA3Z1RCX1Z3ZkZKdEZvQkJTR1hxUnc?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "키움 히어로즈 이용규 코치가 만취 상태로 운전하다 교통사고를 내고 경찰에 입건됐다. 사고 당시 경찰차를 들이받은 것으로 알려졌으며, 현재 경찰 조사가 진행 중이다. 현역 시절 한국 프로야구를 대표했던 선수 출신 코치의 음주운전 소식에 팬들의 실망이 크다.",
+          "headline": "키움 이용규 코치, 음주운전 사고 입건"
         },
         {
           "rank": 3,
-          "word": "중계",
-          "count": 3,
+          "word": "아시안게임",
+          "count": 2,
           "articles": [
             {
-              "title": "'2026 FIFA 북중미 월드컵' 12일 대한민국 VS 체코, 생중계 지상파 채널은?···이영표 \"머리 위로 발이 지나가\"",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CSVBzY0luLUVyOFU1aWJPTUE1OTNsdGlOY2RiZGJ1ZEtfTE5kNDZoNE94NzlDNHhvMURYM01BTDZjS003dXprWU1YeWYwSXo0YU1haUdweEJjWnlW?oc=5",
-              "source": "네이트"
+              "title": "김도영·문보경, 아시안게임 야구대표팀 승선…안현민 제외",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hSGNlX0x3ZzB5M1BON2dBX3FNMjc3ZXpkOEpOUzJqUFE3anN0aFdSLVpxd2JSX1Z0d0VoQTRtanBod3kycnJOTjdjREhpRGdxU21BbGpkaw?oc=5",
+              "source": "뉴스1"
             },
             {
-              "title": "2026년 06월 12일 대한민국 체코 월드컵 중계…시간, 어디서?",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KSGJHbDVSOWJCR3hoNGZmbGFkYXVjbF8tdTFpWFE4Z1kwSEN0Y3o3emdadVN6dHVkcTdiMEtlbVNxSmEyakh5MXpUakhlUmE2cERRMnBn?oc=5",
-              "source": "위키트리"
+              "title": "아시안게임 야구 대표팀 명단 발표하는 조계현 KBO 전력강화위원장",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMVDFMLUpVQmgwS0lTSFF2cE5Cc21hckw1cVY4RlprSXd1MU54eUVhZkk0ZGRtckZfdnVkdFVWRC1pLWJTV0JvZjR2OUlmWE9lLTJQY3JwNGd6Ni00NFB2WQ?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "2026 월드컵 무료중계 보는 방법! (실시간 중계)",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CNHVnSWNGSU9SYWh4eUNvazZJeFdKUlF3bUgzQmZYUVI1WVJOSFoxVkFmdmd0WUl6c1JsNGxyODBlZ2F0SHJXQ2h0UTNrZUNYWkE?oc=5",
-              "source": "브런치"
+              "title": "AG 야구 대표팀 '병역 미필' 16명…KIA는 3명 모두 '미필'",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGNzJUMURMSEg0d2xROUJGMTJmNlpkYXRfS1JSZ1MzQVJtd0Y5ZXZaOXJ3WldkWnFFY2xRVUZnMTdoRVgyeDlWcHdGdjd3MDMzaUhtTEdBZ1dqSEHSAWBBVV95cUxOUUlSMHRuamk5UjNzSDhFZTZ3RElTQktiRlhFNHJVQ1pCUjU4VkxDUktURVdpVDZVYTZoUE9EXzJXZ0ZnYVd5OVgxNXIxTnFMc3BmSWktSXVvcWMweDhEMC0?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "2026 북중미 월드컵 대한민국 대 체코 조별리그 1차전의 지상파 생중계 채널과 시청 방법에 관심이 쏠리고 있다. KBS 등 지상파 채널에서 생중계가 확정되었으며, 해설진으로 이영표 등이 참여한다. 무료 실시간 중계 시청법을 안내하는 기사들도 다수 올라오며, 시청자들이 경기 시간과 채널 정보를 찾고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "한국 vs 체코 지상파 생중계 확정"
+          "description": "2025 아시안게임 야구 대표팀 최종 명단이 공식 발표됐다. 김도영과 문보경이 대표팀에 승선한 반면, 안현민은 최종 명단에서 제외됐다. 병역 미필 선수가 16명에 달하며 KIA에서만 3명 모두 미필 선수가 포함돼, 병역 혜택을 건 대회 성격이 뚜렷하게 드러난다.",
+          "headline": "아시안게임 야구 대표팀 명단 발표"
         },
         {
           "rank": 4,
-          "word": "아시안",
-          "count": 2,
+          "word": "이정후",
+          "count": 1,
           "articles": [
             {
-              "title": "롯데 김진욱·최준용·윤동희, 아시안게임 태극마크 단다",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxdHRUeTg4YUNvamU1SmNTZWJCZFAwemtjd1J0aENmNU40NjY4N2tVQi02MG8yXzJYSEg2RUVIa1U4M3BxbkVlZ0IwNXU0RDdLLXJ3UA?oc=5",
-              "source": "v.daum.net"
+              "title": "이정후, 또 쳤다… 18경기 연속 안타에 9회 대역전극 발판",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdTV6M3d0LS0zbGV1LUtYdFV6OVQya2EwXzR6UktUbkp6OGx2Qy1zRUU2WTBMZUZOWkl5eHJ5ZGN6WllCWWVpQ185NTJMV2VZcHhVSF82ZHZVVEtHYkk3NC1vdU85Y2puRk9JUTJoVFlXUXZlWXo3Rmd0Z2p6NEd6UmNhVVpPcEU1UVdz?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "아시안게임 야구대표팀 명단 발표…롯데 최준용·김진욱·윤동희 3명",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10RVZmX0cyai1pZmE4VC16ZWhvY3k1M19Yd0R1TkZpVWlyNTRYMldSVW5BeGJUcGNDaWhhY2hJelRvMFpFY0NULVUxM3FaWlJCTlV6bw?oc=5",
-              "source": "이투데이"
+              "title": "\"이정후 기록 끝날 줄았는데…조심해라 오토!\" 이렇게 잘 쳐도 2등이라니, 두 번 방출된 타자가 '타율 1위'",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JTDFDbXJ4dUY4SVRkUVp2dVZ3QWwxN1RWZEwwSmV2bW4teW9kaW9uQjY1S2YxMmNpQ2tFU0FkOTJxcGEyUjlOTjRmbTFWOUg0TjMzR1EtY0NZVDdOUDhqMWZ3?oc=5",
+              "source": "미주중앙일보"
             },
             {
-              "title": "롯데 김진욱 최준용 윤동희 AG 야구 대표팀 승선",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXlhM3drdGFqdE5ISHRWeDktSWdxbmV4TmJuM0ZHVE54Y01KM0RzWV9reUxnNFdGNHp3UDFqY3hRSURCZTgzU2hXZ1RHQWhpb2hUcXZXdDliUDZEMnRlYjlvSExqWk5GNzRjU2twYWduYUp2UVhZRHhyaWxtbVk2OXFEX215UUtKZ1JraDZn?oc=5",
-              "source": "국제신문"
+              "title": "와! \"이정후, 이게 MLB 전체 1위…의심은 끝났다, 이제는 무시할 수 없는 선수\"→미국 유력지 18G 연속 안타에 \"올스타 왜 안 돼?\" 감탄",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3TnRTeHUtRkpLSFE3SUtJNzBWRFNhVUVacTliVXZxYmF4cnVzUHlmdTN2M3UzN0JYU1ZMZ0wyTnprT3pSOGJXellnVkxrRmlVOFhIX1ZpR2FaUUc1?oc=5",
+              "source": "네이트"
             }
           ],
-          "description": "아시안게임 야구 대표팀 최종 명단이 발표되면서 롯데 자이언츠에서 김진욱·최준용·윤동희 세 선수가 태극마크를 달게 됐다. 롯데에서 한꺼번에 3명이 선발된 점이 눈길을 끌며, 대회를 앞둔 대표팀 전력 구성에 대한 관심이 높아지고 있다.",
-          "headline": "아시안게임 야구대표팀 명단 발표"
+          "description": "이정후가 18경기 연속 안타를 기록하며 9회 대역전극의 발판을 놓았다. 이 연속 안타 기록은 현재 MLB 전체 1위에 해당하는 수치로, 미국 유력 매체들도 '올스타에 왜 안 되느냐'며 감탄을 쏟아내고 있다. 시즌 초 의구심이 있었으나 꾸준한 타격으로 그 의심을 불식시키며, 이제 무시할 수 없는 메이저리거로 자리매김하고 있다.",
+          "headline": "이정후 18경기 연속 안타, MLB 전체 1위"
         },
         {
           "rank": 5,
-          "word": "조별",
-          "count": 2,
+          "word": "박현경",
+          "count": 1,
           "articles": [
             {
-              "title": "축구대표팀, 오늘 체코와 월드컵 조별리그 1차전…KBS 생중계",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtcUNmaVIyREFyMDhqRlBLWWszWkJLVUNuX2kya2NJSWg3UDNXc2p0aENfeDBMd0RxUnBKVHMzVjZhWFdDMW5yc3JMQ0k0bXlHVnp1Z0ZzZ2ZiME0?oc=5",
-              "source": "KBS 뉴스"
+              "title": "‘거리측정기 사용 위반’ 박현경이 한국여자오픈 1R 4번홀 경기 도중 실격",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ3ZPOFlfTnQ0Snl1Vi0ybzdaX09PbjNBZGJmY25KTWktZWtYU0ZMYm82azBURFV0SVNfZnNWRnVvb1ZSekRxS1lpSFhEY2kwbXVlSGN2Yjg3Z1dWX3NXZFpFaHRaVEhaTmFZVUFySkNDbFl1T0laTHJGOEE3SzRpZzczWk1NNV80cVBr?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "독일 대표팀 선수들, 자국 팬 600명에게 '무료 버스' 쏜다",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aZ0x3QnB0S3B6S0x1dkdjTEhEdkFUeXpiYU84U0dhajFvc2VMMGg1NEg2WnJNVkF4cGpDMWpsNVY0MThlbTdYRTdLaVV6TU5IY2l5THJhYkhFUUNiM1JyNdIBYEFVX3lxTE5aZ0x3QnB0S3B6S0x1dkdjTEhEdkFUeXpiYU84U0dhajFvc2VMMGg1NEg2WnJNVkF4cGpDMWpsNVY0MThlbTdYRTdLaVV6TU5IY2l5THJhYkhFUUNiM1JyNQ?oc=5",
-              "source": "연합뉴스"
+              "title": "박현경,페어웨이 중앙을 향하여",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ldG5QaUg0RzNEX3FLUEpvTjZRZjJKa1hwbE9leG4yeFlwOTRjekl1ZjRITFc3V0ZJTGtfQVBtWGU0UnM2SFB6bllxTms5VjRyZXpQbUpUeE01ZFl0OVRlRg?oc=5",
+              "source": "네이트"
             },
             {
-              "title": "모든 준비는 마쳤다… 운명의 체코전 축구 인생 걸고 반드시 이긴다",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oYWpjUEk2d3A2SEJXNDltRF9VM0dwQVRmSFI1cDB0TmFvLUpYTW5vLWV4SDhKODduYkFRTmsteHdmY2ptSEpVM0RFNVZPRkxFOWlsRkc3V0xMVEJUQXBGOG1FaTBlQXg1VkV6LW90SGY1dlFQ?oc=5",
-              "source": "부산일보"
+              "title": "‘대회의 간판’ 박현경 너무 이른 퇴장. 한국여자오픈 거리측정기 실격 사건은 왜?",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GNzVoZGo1M1NBQmJXRWtpZmJROUV2b2pfZlFuUVJoV0NnamlCQkI1ZEp6ZHJDSDlxUkw5dWhlMXVvQlZCWEtzOTZDZDBfNS1VR3hLUWVuNnhaREhWUVdBUmR1X0IzbDNkRXc?oc=5",
+              "source": "테니스코리아"
             }
           ],
-          "description": "대한민국 축구대표팀이 오늘 체코와 월드컵 조별리그 1차전을 치른다. KBS에서 생중계되며, 선수단은 '축구 인생을 걸고 반드시 이긴다'는 각오를 밝혔다. 한편 독일 대표팀은 자국 팬 600명에게 무료 버스를 제공하는 등 각국의 조별리그 분위기도 뜨겁게 달아오르고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "오늘 체코전, 월드컵 조별리그 개막"
+          "description": "한국여자오픈 1라운드 4번홀 경기 도중 박현경이 거리측정기 사용 위반으로 실격 처분을 받았다. 대회의 간판 선수로 꼽히던 박현경의 이른 퇴장에 팬들과 관계자들의 안타까움이 크다. 경기 중 거리측정기 사용에 대한 규정이 엄격히 적용된 사례로, KLPGA 대회 규칙 준수에 대한 경각심을 일깨우는 사건이 됐다.",
+          "headline": "박현경, 한국여자오픈 거리측정기 위반 실격"
         }
       ]
     }
