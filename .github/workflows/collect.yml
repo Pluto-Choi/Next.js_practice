@@ -87,3 +87,22 @@ jobs:
       - name: Vercel 재배포 트리거
         run: |
           curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
+
+      - name: Discord 수집 완료 알림
+        if: always()
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK" ]; then echo "DISCORD_WEBHOOK 미설정 — 알림 건너뜀"; exit 0; fi
+          python - <<'PY'
+          import json
+          d = json.load(open('data/keywords.json', encoding='utf-8'))
+          issue = d.get('categories', {}).get('오늘의 이슈', {}).get('keywords', [])
+          tops = [(k.get('headline') or k.get('word')) for k in issue[:3]]
+          lines = '\n'.join(f"{i+1}. {t}" for i, t in enumerate(tops)) or "(이슈 없음)"
+          content = (f"📰 **키워드 수집 완료** · {d.get('date', '')}\n"
+                     f"오늘의 이슈 TOP3\n{lines}\n"
+                     f"https://www.whatnewstoday.com")
+          json.dump({"content": content}, open('discord_payload.json', 'w', encoding='utf-8'), ensure_ascii=False)
+          PY
+          curl -H "Content-Type: application/json" -X POST -d @discord_payload.json "$DISCORD_WEBHOOK"
