@@ -1,137 +1,185 @@
 {
   "date": "2026-06-13",
-  "updated_at": "2026-06-13 17:59",
+  "updated_at": "2026-06-13 23:00",
   "categories": {
     "오늘의 이슈": {
-      "summary": "미군의 이란 우라늄 탈취 작전 검토·보류 보도 · 한국 축구대표팀 월드컵 1차전 승리 · 특검 윤석열 2차 조사 · 전한길 폐기 투표용지 논란",
+      "summary": "미·이란 종전 합의 임박 · 월드컵 개막전 한국 체코에 역전승 · 대전교도소 실탄 100발 분실 정황에 법무부 조사 착수",
       "keywords": [
         {
           "rank": 1,
-          "word": "이란",
-          "count": 4,
+          "word": "종전",
+          "count": 3,
           "articles": [
             {
-              "title": "\"미군, '이란 우라늄 탈취' 지상군 옵션 보고…트럼프가 보류\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FVGREUXVSSVZyVDJaMGFwUGF2b0c2TndPSmxEY3ZyMXBYNHc3RlhuR0FkSG9mV0g0SlFsRmdna2dLRlNIaTB1Y3J1V2xwRWc?oc=5",
-              "source": "v.daum.net"
+              "title": "파키스탄 총리 “미·이란 종전 합의 24시간 내 타결 전망”",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWF0dUFMTE1rV0p0cXpBMTdVRXoyVE13YXV4V0RDUFlfb0JTR2dsQy1qZmpWQ0FadnFlbnBmWHNYNndKZzRvSTN0NlF3UDFMUUdva1VMa2h3TkZUZXdqV3ZOQjhFdW9DdTByT09pajRLeWRQT040U2Y3aS11dFdIaTh3?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "\"미군 '이란 우라늄 탈취' 방안도 검토…트럼프, 작전 보류\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zanpuSFczRURXMWNEV1BVUlp1bkFLQ0NGOU9yTS1tVzNVWDhzS1hBNXlfZ0U1WjlLaFRvV0JqZEJYUm5feXpXWGR4dGowQVU?oc=5",
-              "source": "v.daum.net"
+              "title": "파키스탄 총리 \"美·이란 24시간 내 종전 합의 예상… 전자서명 대기中\"",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTXFHS1laQURhLTRGemlrWUJoSU1pdUdxNDRvWEljYkIweW1JUmg4cVdDWlNLZHZZOTFiZU4xUXRPdDN4SGwwQ1ZKQlp0dDJSTkNRUDJzcG9PTjA5cXdEYk13LVBxdGpjaUpVVXVPSEMtRkl6eHBiNjNfb0lGNjYyQTJPVHlNcnpGN1VBTzc5SS1lMzFWNF94RTlhZHNqQQ?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "이란, 美 우라늄 탈취 우려에 핵 시설 '요새화'…입구에 지뢰 매설·터널 붕괴",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XRnFUWUotUHdKSzR0Slh3dGU2SDh6elNySTNRamU4RkJiUk0takI4dmRFVFZVN21ocjVWZHdoZWQzMVZ3Uy1ZTXJrVnNLVDdCd0JiRjNHQnc5Wkt1X3Fja3pR?oc=5",
-              "source": "뉴스1"
+              "title": "파키스탄 총리 \"美·이란 종전 합의 24시간 내 타결 전망\"",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDEybHNURmtjUWlxYWZvMTlnT3c1clBFVTFlTUc4V0diSTI5UTFUVExjeVlRSzBKVGJzd09FNjA3LWNzbkczNHdESUpZSmhsN285aEJMU2RRTW1aSGhyNUh3UHZ1NkVQZlZQSWdjbjdOaHlwSDEyV1BDWFVwb2c0emloZDRpUkZL?oc=5",
+              "source": "글로벌이코노믹"
             }
           ],
-          "description": "미군이 이란 핵 시설에서 우라늄을 탈취하는 지상군 작전 옵션을 트럼프 대통령에게 보고한 것으로 알려졌다. 트럼프는 해당 작전을 보류한 상태다. 이에 이란은 핵 시설 '요새화'에 나서 입구에 지뢰를 매설하고 터널 붕괴 장치를 설치하는 등 방어를 강화하고 있다. 미국과 이란 간 핵 협상이 난항을 겪는 가운데 군사적 긴장이 고조되는 양상이다.",
-          "headline": "미군, 이란 우라늄 탈취 작전 검토"
+          "description": "파키스탄 총리가 미국과 이란 간 종전 합의가 24시간 내에 타결될 것으로 전망한다고 밝혔다. 총리는 전자서명 대기 중이라고 언급하며 합의가 임박했음을 시사했다. 양국 간 군사적 긴장이 고조되었던 가운데, 파키스탄이 중재 역할을 해온 것으로 알려져 합의 성사 여부에 관심이 집중되고 있다.",
+          "headline": "미·이란 종전 합의 24시간 내 타결 전망"
         },
         {
           "rank": 2,
-          "word": "미국",
+          "word": "체코",
           "count": 3,
           "articles": [
             {
-              "title": "이란 \"종전 MOU 최고지도자 승인, 우리가 미국전쟁서 승자\"(종합2보)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhSUVkY1hFa3RlUmNPX29nbkRyM3RQc0FhRDhPdkt6SGtKWjJjRFpQMkJTWGV2cWZQdzk1MGZrU0N6OG5wRzdDYi01TGxUbkFwTy1pRGpHdjdqWGfSAWBBVV95cUxNS3hvd3R4ZWlTbjhsc1JJbDZyZ3UxWk9YcVFtcnBMeS1qWDZjNEFteVE3bGx6YWpTWWJ2Nm1RM0VJYjZxUnJ6UFRCUkxaN1RsSi0tR1VPVFhtN1lFSlFpVC0?oc=5",
-              "source": "연합뉴스"
+              "title": "대한민국 2:1 체코 풀하이라이트…2026 북중미 월드컵 개막전서 짜릿한 역전",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YS0NoTVM4MjdqZEhoRDlHeno5bmFWT2ota3ZIYzhBdzJIZXBZZ1hsSnpPaFYwRlBYcVZRUWJWMWlkMElqV1pESkNGODl5dUpYdTRFUw?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "‘이럴 수가’ 7분 만에 뚫었다···미국, 단단한 수비벽 파라과이에 3-0 앞선 상태로 전반 끝",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PZlFXUG11ZWZiZVlPcjRodWM2bWVfUHhJSEhKLXpkQm1TQjB6Y2c1NVc1Z1c0M2xBSWhhQjdXZlp3X2U4aHFPaUROM0FXWlpoVE9peFpTOVEyZ9IBX0FVX3lxTFB2UGlPX1AwdTFybkMyNkd1aEN1c3VPNGJhdzlHV0V2VXJlMWxUMDU3SmhmT3Nha3lRaERKNi1ic2xKS3JDT1kzM3U1Q1lTNUZ1LWQ2a1ZHNG5MaUhrM05N?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "공동개최국 미국, 첫 경기서 파라과이에 4-1 완승",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uc1lOUFNmOFpyVkYwdzM5cURIdklMZ0MwNG9Ga0ZrNlRycWJnS2ViX0diaWdTd2J5RTBjZlRxV0NGZTRKejRsbmEtanRrZ0swbDVFZHRjNWJLR2VrcG5YbUxWTl93SF9nZ240Tk5KY1lGS0ktM1HSAXZBVV95cUxPR1V1bF93V2xTNE1IeG54UDlmV0FfRW14eDBPbWQ5T0cybEoxYjNOc1pyR21oaC1hY29vN0tZcU9TdHVsMERJbWh4b1NiRDR1QVJQY0FMcTRNTzk1V1J0ZGNzVWU0QjNBMVJ4dlUxOTZQZnVfUUVn?oc=5",
-              "source": "MBC 뉴스"
-            }
-          ],
-          "description": "2026 월드컵 공동개최국 미국이 첫 경기에서 파라과이를 상대로 4-1 완승을 거뒀다. 전반 7분 만에 3골을 몰아넣으며 단단한 수비로 알려진 파라과이를 압도했다. 한편 외교 무대에서는 이란이 미국과의 종전 MOU에 최고지도자 승인이 이뤄졌다고 발표하며 '우리가 승자'라고 선언하는 등 양국 관계도 주목받고 있다.",
-          "headline": "미국, 월드컵 첫 경기 4-1 완승"
-        },
-        {
-          "rank": 3,
-          "word": "월드컵",
-          "count": 3,
-          "articles": [
-            {
-              "title": "월드컵-축구대표팀 황인범 1골 1도움 체코전 승리",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VYTBpWTlibWFlRzdMb1dLNVhxQkhTZldIeHgxSkpyVGVKRU5EdTFxdnR5NWFhVGpzQUdIeVZzcDdiT2hWNDVrM24wN2N4SlVCXzVMcUd0dXVrTE0?oc=5",
-              "source": "KBS 뉴스"
+              "title": "뜨거웠던 체코전…네이버 치지직도 동접 482만 ‘역대 최다’",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdnF3eUVNUU9uSzl0dnV0Z2VGVHIwVDd2U1NVRXphVjBac0llSXBKM3BZSkN3bVFSWU11VWJZN0YzUVpzUFZKWS1pRGF3TXJTb3ZzazhTRktGOWR2cW1XVGZtNFZwMk9kV2xKZTVFOFI1RjFVbDk1TGJUYTRRUjdyY1ZMaw?oc=5",
+              "source": "조선일보"
             },
             {
               "title": "16년 만의 월드컵 1차전 승리에…“韓 의외로 강하다” 日 깜짝",
               "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tdDA2WUZCNndwYlFsMFlVM1RCdVVvSTdWckhjcDg4MUhRSC1ieGNXdzFfbzJmekRsX2g4UjBvTVMzcFU0M0xsc2lnSVdZdXNpcEphdE1B?oc=5",
               "source": "중앙일보"
-            },
-            {
-              "title": "체코전 승리한 태극전사들, 가족과 함께 하루 푹 쉰다",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52MDYtY3pRbHk3X1JVSG9oRGNHdHNRQU5uUWxWejNRamp6WkZQeVo2dTBMYjAySDFKRGlRNEE5ajdIXzJLWHc?oc=5",
-              "source": "v.daum.net"
             }
           ],
-          "description": "한국 축구대표팀이 2026 월드컵 조별리그 1차전에서 체코를 꺾으며 16년 만에 월드컵 첫 경기 승리를 거뒀다. 황인범이 1골 1도움으로 활약하며 승리를 이끌었다. 일본 언론도 '한국이 의외로 강하다'며 놀라움을 표했다. 경기를 마친 태극전사들은 가족과 함께 하루 휴식을 취하며 다음 경기를 준비하고 있다.",
-          "headline": "한국, 체코전 승리로 16년 만에 1차전 돌파"
+          "description": "2026 북중미 월드컵 개막전에서 대한민국이 체코를 상대로 2대 1 역전승을 거뒀다. 16년 만의 월드컵 1차전 승리로, 일본 언론에서도 '한국이 의외로 강하다'며 주목했다. 이날 경기를 중계한 네이버 치지직은 동시접속자 482만 명을 기록하며 역대 최다를 경신했다. 어제 4위에서 오늘 2위로 순위가 올랐다.",
+          "headline": "한국, 월드컵 개막전서 체코에 2:1 역전승"
+        },
+        {
+          "rank": 3,
+          "word": "국민",
+          "count": 2,
+          "articles": [
+            {
+              "title": "일주일째 잠실개표소 지킨 대학생들 \"참정권 박탈, 말도 안돼 … 국민으로서 당연히 참여\"",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIQVhqZTZFRlRWc0NqSk9xRW9EV3NlSHNZcEhkYkVzM2R5eHc1QzFoNXlWSTFXcWZsanhIVnc4TXNjRXFHVGE5WE83ZEh5WU9zMWJyOGl5eHhoLVlvQXVEbTgyNEVUa0NMSU5xSVhTdzNEQXRmSzVpZnRiNNIBgAFBVV95cUxNWnY1R1hvLTRMem9GcHBJam1NOHQ3Vm9IVmpOa0VZbHNoVkcyUHlqdnhRVDd1aU1aVjRUcTVvTnFCb2NMTnZ1TE5yR0tHX0d5QXB3dDFoVXZpbEVYU256QkNMQWNPMnB2bm5iR05aQWJmdjkxTDZXZGxVbGdyVVFrZQ?oc=5",
+              "source": "뉴데일리"
+            },
+            {
+              "title": "(2030 보수의 눈)①중도·보수 20명에 물었다…\"국민의힘 찍었지만 잠실 안 간 이유는…\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sZlNCTk5QdkZNeHlCcE5kZ1NxdXhobU5haTZvMDJiOE16LUFJWF9sZ2h5NWtnbk1UM2ZQSDdiaVgyM3MyMTk0THJ2eXBweDgyRVhrRm5yTElOTlMtU1dHQw?oc=5",
+              "source": "뉴스토마토"
+            },
+            {
+              "title": "법원, ‘잠실 투표용지 보관상자’ 폐기 경위 들여다본다",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVDlSMGF6bEhtMzFsSVd5Ri1jSjhWSEZEZVBEcklTTkZyOGhSQXFqQ0Nrcm5PQmw4T2FQMzNSa2M3NEUyVXJyeE5ENUJvazdRU2J3aGlRSHFaNVpaY0ZsdkU1Y0NRUkM5OHBDYVNHRFJrOUlFcjMzWkRnY2w5Ymp5Z2ZlUEs3QdIBbEFVX3lxTE5aemVSOGxuWFBnWE5oODU0WjFRMmhXVGd1R0NyWTBvRlA2Y3lVZGE0RVJrNURIM0FVT1I5aVFrQUZtUm1BWWFrcUhzdlpkemY1WFhnbVdYbEpvMm54Qzc3U08yY1dDaERLcnNBTw?oc=5",
+              "source": "국민일보"
+            }
+          ],
+          "description": "법원이 잠실 개표소 투표용지 보관상자의 폐기 경위를 들여다보기로 했다. 일주일째 잠실 개표소를 지키고 있는 대학생들은 '참정권 박탈은 말이 안 된다'며 국민으로서 당연히 참여한다고 밝혔다. 한편 중도·보수 성향 2030세대 사이에서는 국민의힘을 지지하면서도 잠실 현장에는 가지 않는 이유에 대한 목소리도 나오고 있어, 개표 논란을 둘러싼 여론이 다층적으로 전개되고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "잠실 개표소 투표용지 폐기 경위 법원 조사"
         },
         {
           "rank": 4,
-          "word": "특검",
+          "word": "민주당",
           "count": 2,
           "articles": [
             {
-              "title": "종합특검, 윤석열 2차 조사‥반란 우두머리 혐의",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TSGYzZzZra29FZ3lnY3VXYjQ2Z2lHeUkycmpRdDNLUTNpZFJTYnBxRmNESlljWU5KLWI1VUVMTWU4dmRnSkZEckZRcEc2aGxSZndHNEtGY3NKTGhfQ0U2eGZETGJqTG5SM193eFBMNWpzaThkZktn0gF3QVVfeXFMTTJpYlNlOEg1U1VPR2ZDaFlHN254MHY0V29KaGs2X1FrS1RibTRQc2J4YkthRGkzYlFTcDQ4OEpkeVV0eU9QelpKdUpwZVhUSFBOb1Azb3pDdV9LY0FEU2l3bTJsSVFJUmVRaGdIbUFFUkdqLVpLa28?oc=5",
+              "title": "당 지지도 균열 … 민주당 39.5% vs 국민의힘 40.9%",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56ZmdXR080djltVFJIenJIcU0zbV8wVF9ST2hMc2dnd1NNeWZVbTlMSlR4Umlkcl8zdDJZa2wzMXJzX19zaFdDZ2pCQlBsOHlsQzZ2QkVhTUVxc2xYdGJ0ckExanZtYXRJNUpnNDh6dF9nSGtnZk5LbTJRY9IBgAFBVV95cUxPQndGSWZKeUN1Wm5ySXBwcTBmY1o4YThIRGkzTGw0T3IzM1F2enBpenV0dnZCandJVFljRTgzT2hlNFNEcU54cmNHcUdWTHNxWFdSVTFNbG5SbG9HYlNwUmJFMkNfc2RjSTNZc29sZnpRMUtZdjBfTkVKbHdmcTZxbQ?oc=5",
+              "source": "뉴데일리"
+            },
+            {
+              "title": "이재명 대통령 지지율 57%‥민주당 41%·국민의힘 29% [한국갤럽]",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xX0lmc2JuT0dqemxnZlFJdXJfMGZEMzJ4NVhkYXBrdFlRcVF0WWdJT3VzNTJ0ejBXWTgteURGb1liaUJoNlZ0NnNxMFF1V0NFOUFQallpNnh1ZXdlTjEzeVU4Q0wtdC05OHE5MWhaNFhEdkVSMDl2TtIBeEFVX3lxTE1BSGRKVkJ3Z0FKZDRfNV9LMXFqN09JdEhIOTNaTnNjUVB3c2pGYmd5T3EyeC10ZDdTRXU4QjR5TjlCcHhZTnEyRFk1MXFZazQwN19qOEROTVY1TlNrWWU5c1IxNUNPQVVBWnU4Z3dwbmhWYUpwQ3pLUw?oc=5",
               "source": "MBC 뉴스"
             },
             {
-              "title": "장동혁, 김민석·정청래 향해 “만나서 재선거·특검 논의하자···3자 회동도 좋아”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrQTMtanlLdUlXNFE3VmUwSzhnc3R0STJlcVEyT09uWjRFSklKTjhjYV9JZ1dHOWhtWGFJMDlpRkxMZk5WQ1JCam5QZ1U3bE9keWdwOExSXzNjQdIBX0FVX3lxTE5QM3NjYTFGOXZ6MVpZOTcycnV1S0xUX1ZtLWFKdTZWWFVldERJOE9HRkdDblBRRHFwZjFwZGs1RWg0VUZUV0djZUZ0dFJ1ZkhTdUlvMFRaNGs0bTVWbnZv?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "장동혁, 김민석·정청래에 '3자 회동' 제안‥\"재선거·특검 논의하자\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnTzNZdVdfNDlNTDY4WENQUlFlczVKYjdBTkd2ak81QVByS1dudkNldkVkbEJrcW9xWVY3T3hodVVweTlFTldvZmJQZjRJRTI1NDRNU2NtWGpnR2NPLS1pVHlMaWphd2dsZUU4dVZxVF9nYVVpRjRjS9IBeEFVX3lxTE5fLWFRVmNVSHBfaVVQM3pxYlZIbjdGNGE3ajhPVmVVd2hmeXpWNkgxWUdWazFKclJRaVUzUGFSY0VzZVVmTXNuYTVFc25zbWdQTmdxSGdaZkg0eFpBSG5rOENHem4yTjVqdkRQTFVaUG1nYUtvNVBpcA?oc=5",
-              "source": "MBC 뉴스"
+              "title": "이재명·민주당 지지율 동반하락…독주 체제 경고?",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UaHVSSFNPRVRVNGRYMlFYX2FpR2ZFc2EzRjF4SHRqeGdsWDMzZzhIYkpFOHd1aTNkSTVfcXJ5N3lXVXplanktUTIzRGZ0Tmc?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "종합특검이 윤석열 전 대통령에 대한 2차 조사를 진행하며 반란 우두머리 혐의를 추궁했다. 정치권에서는 장동혁 국민의힘 원내대표가 더불어민주당 김민석·정청래 의원을 향해 재선거·특검 문제를 논의하자며 3자 회동을 제안하는 등 여야 간 공방이 이어지고 있다. 오늘 처음 급부상한 키워드다.",
-          "headline": "윤석열 2차 특검 조사 실시"
+          "description": "이재명 대통령과 민주당의 지지율이 동반 하락세를 보이고 있다. 한국갤럽 조사에서는 이재명 대통령 지지율 57%, 민주당 41%, 국민의힘 29%로 나타났으나, 다른 조사에서는 민주당 39.5% 대 국민의힘 40.9%로 정당 지지도가 역전되는 결과도 나왔다. 취임 초기 독주 체제에 대한 경고 신호가 감지되는 가운데, 당 지지도 균열 여부에 정치권의 관심이 쏠리고 있다.",
+          "headline": "민주당·이재명 지지율 동반 하락"
         },
         {
           "rank": 5,
-          "word": "투표",
+          "word": "파악",
           "count": 2,
           "articles": [
             {
-              "title": "전한길 \"폐기 투표용지 상자 확보\"…선관위 \"돌려받을 계획 없어\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VSjVRaEp4ZlNIRGJnTk1ycTRBbkNGZ2ZoWjZucHhNbFRwS3VjWDNHMVNMZzh3blp1S1VQMk0yX2JQMjJDaFE?oc=5",
-              "source": "v.daum.net"
+              "title": "대전교도소 실탄 100발 사라졌나···법무부, 장부보다 수량 적어 진상 파악 중",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tQXRKbUl2dTRtVmtYQXEzX0o5Sk1CRDVwOWpncVY2NG81WXA4bW50RlY2aC1FWHM1VEo1MlRwbzcyb1FqTUNHMWVKN0Fybm9QSUhTbklvQ095d9IBX0FVX3lxTE04NjdtNmd5Y0pSVWJQd296OUxtWW5UTGJURmhJTnFoV1hNZnhHd28xZVdpUkpWSks4aVBib3JRLVBnRUJBb2U3akZEcHVLU29XZWp6a29yWDdndXphMnhZ?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "전한길 “유재석·아이유·BTS, 재선거 목소리 내달라…오세훈도 부정선거 당선” 주장",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tdURQZDZoLW5NM3B0WEVIY0JPeGQ2SWJ2NXVzYXdHcU9IOHFfV3oxMmxnX2ZhLVA4eTQ1ZC03T2kwTlZtUFl2MlA1eXF2S1lZM0hTSVM2OWNSZ2VJ0gFiQVVfeXFMTTVpcVVHdnQwQUZXSmFyN1FsdTRPaFZtYjRhemx0ekR1R1J5ZElaUFNpdl82Y1E4aW5ONE0tbzQwMXVkSm5sSjJrMGZmSDhmRlFZaWxhemNMNDZqdWNTQzRkN2c?oc=5",
-              "source": "tvreport.co.kr"
+              "title": "대전교도소서 '실탄 100발 분실' 정황…법무부 조사 착수(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56eF81TlJoVGM3dGEtZ1RTdVVBWF9aVDNjMXBCaXJTeDg3NXpsd25yc1R0dWZ4VlY1a3lCMDFpdkVNSXJ0SHI1cVRsQkRVdlZ1N0xUZGtRVXc0RXZBUHVWaNIBYEFVX3lxTE56eF81TlJoVGM3dGEtZ1RTdVVBWF9aVDNjMXBCaXJTeDg3NXpsd25yc1R0dWZ4VlY1a3lCMDFpdkVNSXJ0SHI1cVRsQkRVdlZ1N0xUZGtRVXc0RXZBUHVWaA?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "전한길도 투표용지 보관상자 공개…법원 폐기 사실 확인 요구",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mWDRCck1TUDZ3aEVaS2hDVU1STnZjTENubnVuaEJjaWdScmg1TzAtakk2TGhDNjRJRnQ2LTM3OGpIUkFmQzYwWXE2Y3hwaE9JcGdHVnBkS0x6MVk?oc=5",
-              "source": "KBS 뉴스"
+              "title": "대전교도소서 사라진 '실탄 100발'...행방 묘연 [지금이뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15Q0RpemlDS1lvMFM0T29oTmFndEc4ZzdUcUIzRTNLbkFkVjlfd0huNWxiMkJWeVBHa1ZXd1VOcHFSNjA3TGdWMm9jUFVuZmNKRmhvcFU1N0dFc3pxTHc?oc=5",
+              "source": "YTN"
             }
           ],
-          "description": "전한길 씨가 폐기된 투표용지 보관상자를 확보해 공개하며 법원에 폐기 사실 확인을 요구했다. 선관위는 '돌려받을 계획이 없다'는 입장을 밝혔다. 전한길 씨는 유재석·아이유·BTS 등 유명인에게 재선거 목소리를 내달라고 요청하고, 오세훈 서울시장도 부정선거로 당선됐다는 주장까지 펼치며 논란을 확대하고 있다.",
-          "headline": "전한길, 폐기 투표용지 상자 공개"
+          "description": "대전교도소에서 실탄 100발이 사라진 정황이 포착돼 법무부가 조사에 착수했다. 장부 기록보다 실제 보유 수량이 적은 것이 확인되면서 분실 가능성이 제기됐다. 현재까지 실탄의 행방은 묘연한 상태로, 교도소 내 실탄 관리 체계 전반에 대한 점검이 이뤄질 것으로 보인다. 오늘 처음 등장한 키워드다.",
+          "headline": "대전교도소 실탄 100발 분실 정황 포착"
         }
       ]
     },
     "경제": {
-      "summary": "반도체 호황 속 한국·대만 고용 격차 · 미래에셋 스페이스X 청약 번복 논란 · 삼성전자 페이백·파운드리 이슈 · 증시 변동성 속 사이드카 빈발 · 월드컵 치킨 소비 기대",
+      "summary": "SK하이닉스 주가 급등·청주공장 화재 발생 · 삼성전자 광주 반도체 공장 유치 확정 · 스페이스X 투자 열기 지속",
       "keywords": [
         {
           "rank": 1,
+          "word": "하이닉스",
+          "count": 5,
+          "articles": [
+            {
+              "title": "3년 간 19배 뛴 SK하이닉스…여기 투자해 '대박' 난 곳은?",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaTUI0c3lBcXJPOGowcHdPOFFKdzQ4RXpZUHZTVHRSYUFQYjYzc2N5SHNmYmpCV0xUZnBpMjBkQVRmT0JZeUN3VWRoRFZqVDJOVlNmXy03T2ZJUdIBVEFVX3lxTE1vQlA0VDg5X3RhQ0UzVF9PMkFnX2ZEMUpwdmJxZXhfZ1JIcDNUcWpWZVZYWkZuV3M1dEJqTXNybnRScXhvSTlmOXNjOXV6VFFONlk3Sg?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "SK하이닉스 청주공장 가스룸서 또 화재…1명 부상·4천명 대피(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3eFRtVUZUUGVicW54ZWt0dGxHUVQ4Ul9SNXpOTTJFQUd6eEFIbkZuNU9iRVljbE9CRW5tYXpWU3NVMXlHN2FrU1pDTWp4ZnRQUlJtSmtMSHlTWDDSAWBBVV95cUxQY0V1TEZ4ZVBhTmpfY291eXVNcENZLTRIMVNObkhKbEV0cVNTQmJGVkkwQ1QwZ09fS1ZNTnpKQmdBSWszU05sVFByUndVUGhnenYwTlZQRl9VNEdQeVUxbmE?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "\"삼성전자·SK하이닉스 다 팔아라\"… 상위 1%의 진짜 향방은?",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PYzJXLXBENm5mZWVyVUxkWDZCUlFyaUNMQ1NQMjIxZktaMGt2MFdGaExGMEpOdF9aQkdmNlpCZ2tRVkFOX1JuaEFtN0dnamdjZWZqWXdnQUxxQdIBVEFVX3lxTFBYZzAzUmo0cEFQc21jSUl2RVctWVZIamRsYVl0XzBTMUUyTmNQd3JOQ01IeUdHOGdUTkRsWE1oQXlPYXRnOVhSYlVDWmNtSnhiZUYxWg?oc=5",
+              "source": "한국경제"
+            }
+          ],
+          "description": "SK하이닉스 청주공장 가스룸에서 화재가 발생해 1명이 부상하고 약 4천 명이 대피했다. 같은 공장에서 잇따라 화재가 발생한 것이어서 안전 관리에 대한 우려가 커지고 있다. 한편 투자 측면에서는 SK하이닉스 주가가 3년간 19배 상승하며 관련 투자처가 주목받고 있으며, 일부 전문가는 삼성전자·SK하이닉스 등 반도체주 매도 의견을 내놓아 향후 투자 방향에 관심이 쏠린다.",
+          "headline": "SK하이닉스 청주공장 또 화재"
+        },
+        {
+          "rank": 2,
+          "word": "스페이스",
+          "count": 4,
+          "articles": [
+            {
+              "title": "스페이스X 공모주 ‘0주’ 된 미래에셋증권…최종 물량 못 받아",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NU216Nl9BRzE1R05MSE13aWxSTURsYzRCd08xYUhfd3hCWVQ0V1FTTHF6eVp1UmNsUndVam9qU3FUWkotX3kwLTIwN2Fnc19DUVHSAVNBVV95cUxNZmJwMnlFVnBWVHZOaG9QSVE1cXhvVVpHYjZORDUyelp4bTRSaWdzbWpBN0U1aWc3MF9VTmRyalFhXzY2Sl92Sm95bS1OZ2JiczZ1NA?oc=5",
+              "source": "서울경제"
+            },
+            {
+              "title": "\"조 단위 평가이익에도 안 판다\"…박현주의 스페이스X 베팅",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZVC10LXZYNUhmbjlHVEQ5cm1PY1FnWmlfVDBnbHhtYkEtMG9nMlRyM29maHA4aGN0RGMtd3IyNzg0bnNqaUxxcERYYkZKLTB1N21CUU5Vbl95ZHE5YmRsbUhfTGZhTWhjUDktRDBXejU?oc=5",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "미래에셋 '스페이스X 0주' 쇼크에…금감원 경위 파악",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40cTM5by1YS0NPVS1rMzgyVjhYamN6aDl4VTBGcGhNbDBkaVNXcWp0aXh4YVBVY1kxU29FZ1dyYzVFcTdMaUY0cDZhV1A5a2tyUEVZZ3dtQkg0UHhTSXh6ZHB0RU1kVFFoUmZVM1U4ZXk?oc=5",
+              "source": "연합인포맥스"
+            }
+          ],
+          "description": "미래에셋증권이 스페이스X 공모주 청약을 진행했으나 최종 물량을 한 주도 배정받지 못해 투자자들에게 충격을 안겼다. 금융감독원은 경위 파악에 나선 상태다. 미래에셋 박현주 회장은 조 단위 평가이익에도 스페이스X 지분을 매도하지 않겠다는 장기 투자 의지를 밝혀, 공모주 배정 실패와 대조되는 행보가 주목받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "미래에셋, 스페이스X 공모주 최종 배정 0주"
+        },
+        {
+          "rank": 3,
           "word": "반도체",
           "count": 4,
           "articles": [
@@ -146,117 +194,93 @@
               "source": "중앙일보"
             },
             {
-              "title": "한미반도체, 스페이스X에 500억 베팅…\"미래 성장성에 투자\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PdW1VZmRfamN3NmQ3U3NCYTRxcjdMQjVUYnBEQW9sSmJWY0xPZzRha2hPOTMxLXFTWUFQUUF2RG1IYnFxbmxLR0JMR3ozWnM?oc=5",
+              "title": "코스피, 변동성 딛고 다음 주 FOMC로⋯‘반도체ㆍ실적’ 시험대 올라",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yX3BwZWdGZXo4bnQ2RTNDOXJadXVodHdNbmdDNnR0ejNmOUo0M0FSZHI0SEdNZ1dBcF9BdmxwMDZQOEwyZDZHX2dpV2FwR1k?oc=5",
               "source": "v.daum.net"
             }
           ],
-          "description": "반도체 호황을 함께 누리는 한국과 대만의 고용 성적표가 정반대로 나타나 주목받고 있다. 대만은 반도체 산업 확장에 따라 고용이 늘어난 반면, 한국은 상대적으로 부진한 것으로 분석됐다. 한편 광주에 반도체 공장을 유치한다는 설이 돌며 전문가들 사이에서 입지 적합성 논란이 일고 있고, 한미반도체는 스페이스X에 500억 원 규모 투자를 단행하며 우주 분야로 사업 다각화에 나섰다.",
-          "headline": "반도체 호황 속 한·대만 고용 엇갈려"
-        },
-        {
-          "rank": 2,
-          "word": "스페이스",
-          "count": 3,
-          "articles": [
-            {
-              "title": "청약 번복 '초유의 사태'…미래에셋, 스페이스X發 주가·평판 리스크 돌출",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HdVJSOFBndm5FQlQ2SEl4QkI4WGNEblk0RHZQeVpmNElMRFRrMWZnZndQX19VcW1WLTVnMDJTV1YxYjh6N1ZXOElkVlRXSEt5YU1ZSWl5NUFUTEpTTXlzRkw2SUF0OGlYNFJyT1pGZnc?oc=5",
-              "source": "연합인포맥스"
-            },
-            {
-              "title": "미래에셋, 스페이스X IPO 투자 위해 자기자본으로 펀드 결성... 최대 7000억 더 베팅 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2NSMW00endpb3BORU9sa1pqZ2c0eWJaUXZWZ2xuZG41S08yWkNLNWowZ0w5WGNCemY1ejBWVEhwMFhfNlJVNDYydmlLZXdObXpKRTRONUNvZC1BOG1FUk0yRGpyWDlWY1c2ZUN0Qkw1MEJWSHE1LU5oQlFXWXJDaHZrZHJkNHfSAZsBQVVfeXFMTVNLeTJsaU1ZN3JiTTQ5ZW02RE5adzRsMWl5MGdrNmRyV01FY3haZmdwMDM5Y3pLWGJPV0FZM3IxbnBKbVN4MjMzODVQNlQ4SXlUaE4teFNfZldGR3kwYVpJRlBLY0xpdjQ0a0NnNGVoeDh3NVdfY3pQM3VoWk9XM1FxNDRLV2RhdExleFNrNU5BOXJ2LVJrRTVwczQ?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "'스페이스X 공모주 무산'에 운용사들도 직격탄…\"투자자에 송구\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JbVlTT3hBWTBJWnlhaG9lcWZhUmRDZWlGSDdvcXlJRzZmODIwTXJROXBiVmNTR0o5TlFnZEU3OUtJVWhnTkp4dVRVUlJRUVYzOVViVWMwZWFqX1XSAWBBVV95cUxNOG52dkxjaW1fVFE5RDR2NzRxM3ZnczlMaVJpb3B5OHBiU3Q4VmVjOGNuWEtMMlhMRHBidS1zQzlyWGdEdDE0dEtIclo2ZGs0ZFVSNnIwNFRJMWJ2ZUZGV2o?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "미래에셋증권이 스페이스X IPO 관련 청약을 번복하는 초유의 사태가 발생하며 투자자와 운용사 모두 직격탄을 맞았다. 공모주 배정이 무산되면서 주가·평판 리스크가 불거졌고, 관련 펀드에 투자한 운용사들도 \"투자자에게 송구하다\"는 입장을 내놨다. 미래에셋은 이에 자기자본으로 최대 7000억 원 규모의 펀드를 별도 결성해 스페이스X IPO 투자를 재추진하겠다고 밝혔다. 오늘 처음 등장한 화제 키워드다.",
-          "headline": "스페이스X 공모주 청약 무산 파장 확산"
-        },
-        {
-          "rank": 3,
-          "word": "삼성전자",
-          "count": 3,
-          "articles": [
-            {
-              "title": "\"최대 42만원 환급, 폰 바꿀까\"...삼성 역대급 페이백, 통신사도 신났다 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLTXk2OHNvNXFwRGU0RkE5SWVaQzdJVWh6QzRmV3I1TEdFcm44SjlYNTUtX29saUw2UkNwcC15NGdBbjhtd1hiUzVtSllUMmVqSnVVUy1UcDkzTDhjcGJ1UHZJQ1VIbjTSAWxBVV95cUxONUk0TUJ6am02WVg1dEJQVnd5RjI3N2QyTDdoYW5lLTVxUlQ5OTdzSlR6TUxzSmZ3ZnJUNkVuQzRzUllpWm5Jb2dRLWJNdjBkU3JoWmFLNlQwbjFIT2NiWEdQTHEwOEdvOHhMZFI?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "삼성전자 파운드리, 구글 AI칩 생산하나",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTTdrMlNhc1JWc3lTYXA4VjJqQnlGeVVsaE5KdEN0S29acG5vSlhMZGJ0WTlQZVNudXJST2s1NHhRd0lwNHc3bnctM092NklhMFdzVGV5dm5jVUtCX3kyMHdaNS10eUVCOTJpX25JZ1AteFJiOWlfeHJyMHR6dkpxc3JXSQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "\"삼성전자·SK하이닉스 다 팔아라\"… 상위 1%의 진짜 향방은?",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PYzJXLXBENm5mZWVyVUxkWDZCUlFyaUNMQ1NQMjIxZktaMGt2MFdGaExGMEpOdF9aQkdmNlpCZ2tRVkFOX1JuaEFtN0dnamdjZWZqWXdnQUxxQdIBVEFVX3lxTFBYZzAzUmo0cEFQc21jSUl2RVctWVZIamRsYVl0XzBTMUUyTmNQd3JOQ01IeUdHOGdUTkRsWE1oQXlPYXRnOVhSYlVDWmNtSnhiZUYxWg?oc=5",
-              "source": "한국경제"
-            }
-          ],
-          "description": "삼성전자 파운드리가 구글의 AI 반도체 칩 생산을 맡을 가능성이 제기되며 관심이 집중되고 있다. 파운드리 사업 수주가 현실화되면 삼성전자의 비메모리 반도체 경쟁력 강화에 중요한 전환점이 될 전망이다. 한편 삼성전자는 역대급 페이백 프로모션으로 최대 42만 원 환급 혜택을 내걸어 스마트폰 교체 수요를 자극하고 있으며, 증권가에서는 삼성전자·SK하이닉스 매매 전략을 둘러싼 상반된 시각이 나오고 있다.",
-          "headline": "삼성전자, 구글 AI칩 파운드리 수주 가능성"
+          "description": "다음 주 FOMC를 앞두고 반도체 업종이 코스피 변동성의 핵심 변수로 부각되고 있다. 미국 반도체주 급등에 힘입어 삼성전자·SK하이닉스가 장 초반 강세를 보이는 등 시장 분위기는 긍정적이다. 다만 반도체 호황을 함께 누리는 한국과 대만의 고용 성적이 대조적이라는 분석이 나오고, 광주 반도체 공장 유치설을 둘러싼 입지 논란도 이어지고 있다.",
+          "headline": "반도체, FOMC 앞두고 실적 시험대"
         },
         {
           "rank": 4,
-          "word": "매수",
-          "count": 2,
+          "word": "삼성전자",
+          "count": 4,
           "articles": [
             {
-              "title": "\"앞으로 35% 더 오른다고?\"…투자고수, 1등주 집중 매수",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRkNQeXlwUXFweTd4NUVzVl83ZlNwUUNTYnZNMC0telg1TFpHV3RzT0g2MHZKNjVYYWlheFlYcHN3bVhnRk5oSmhXVHZmN0dNRUJHQ2lnTUp3Z9IBVEFVX3lxTE4zUXRQWF9wbmhubk1YSlh3cGpIUlJXWjVya3kxeU04ZFM4RmtBcFFrc0tMbkM3MGljS2lWa2pjWm95dnRBUWtsUU1sVW1GSkk1QnFESQ?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "일주일 새 매도·매도·매수·매도·매수 사이드카···올해만 25번, 금융위기 기록도 넘나",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mUmtzRUVwTmY0ZkpudGJhWHNRUnVlYkhnaWJXd204SFN1bTZSdmUya0pXZjJLVzF3UGJVdHItQzZnaWpEcDFid29uVjFrNEUtb0JtczBhMXNsQdIBX0FVX3lxTE80QmJMMDZvampUY19JaGdSMlR5ZVNBWTZtQUJPMy1IcHRwbncyeEZ3Szl1Y1pNTmwxcTR1c2RFSDFJbEVWUVNOdUViWG93emZUNWNNN0VkMzZXMnVrTDVj?oc=5",
+              "title": "삼성전자 반도체 공장, ‘광주 첨단3지구’에 15만평 사실상 확정···앰코도 증설",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnZzRfNmZ5bHBmUHRpM1R4LVBuV0tIQnh3SjhndHIwUHVxUHU3eWFuZExXRlJFdlFvNHVmS0xvV1hwdlBfMDNqSUVrSi1KX193VGpyQWhlampDZ9IBX0FVX3lxTE5rckZJSy0yUHBEalNLYkhwcG14TEloZVF2NzBtb2Z3ejkzSDZDS216N040QWNOX3pmZUVKd2hyWGh0akJ1VkJmMUsyQlJiU0ZhejZXRFhCS2ZxSV9JZDhz?oc=5",
               "source": "경향신문"
             },
             {
-              "title": "미-이란 종전 임박에 코스피 6% 급등…또 매수 사이드카",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tNjVIYnV3d0YwVEdpWlQ5S19aTmt2TDlZYjFsRzZobWh3WElmRW1ObUYtX1ZfeU9tMnltNnUzcHdmdWFrX0ZyQl9PbTJfM2pqWmNIY0VXRGtYX3VLVE0xTlU5bF9QM1k?oc=5",
-              "source": "한겨레"
-            }
-          ],
-          "description": "미국-이란 종전 임박 소식에 코스피가 6% 급등하며 또다시 매수 사이드카가 발동됐다. 올해에만 사이드카가 25번 발동돼 글로벌 금융위기 당시 기록마저 넘어섰고, 일주일 사이 매도·매수 사이드카가 교차 발동되는 극심한 변동성이 이어지고 있다. 한편 투자 고수들은 1등주에 집중 매수하며 향후 35% 추가 상승 여력이 있다는 분석도 나온다. 오늘 처음 등장한 화제 키워드다.",
-          "headline": "코스피 6% 급등에 매수 사이드카 발동"
-        },
-        {
-          "rank": 5,
-          "word": "치킨",
-          "count": 2,
-          "articles": [
-            {
-              "title": "\"아침부터 치맥은 좀\" 치킨집 대신 웃는 이곳…월드컵 공식 바뀐다 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xZ1VOZHBLUjJvRTRidXM3VzlEd2hrd1J2T24weUdBd1RNV3ViRTRydms4N01GWDh0WHgyaUhvcTVqcW1hNTBiYS1OYjVROURnZjVtUnZ0cDBsbDdGY2tUaTUtbVo1SU11dGfSAW9BVV95cUxPaGkwZkFVVTNDMEdqXzZtM0ZIZ0NBQmplQWsyX1pnNlRiM082WWpZMWpmX0tkaHlvaExCVUdHNGRMSTQ4eUdoeExsZnZfSElaS1ppWDNhYnhNNjd4eUpjblF5cDJnTVI0R2tTdTN2NjA?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "‘월드컵=치맥’ 공식 불패…치킨株 달린다",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93NGMyTllxYmVJN19rd1lYR2RHNG1TeEUyT1VUdFpMYjN1dFF0WFhhUEtLZzZTVnFhb1BPSW9WYVh3RjJJbVRsM3dtYlM4QVk?oc=5",
+              "title": "삼성전자·SK하이닉스, 美반도체주 급등에 장 초반 강세",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EWnY5a1hlUEFZbkZWZlhuRTBYb3IybklnQWpKT21OS3JHRHNXNlRScjhxVjZ3ckNCUW9iQTZFSHUzbUNJcFlCeHplVkhrRzA?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "교촌치킨, 축구 국가대표팀 경기 연계 SNS 응원 이벤트 운영",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oMlAzTlpRMURRVzJxQmhKc21fVzlNcVRKSTVzTnJPZHJ0cVljR19sYWpERGFiYm56TkRZSUtpNjBCMGxwTjVVcFVCbFNDOFVYTVlLMmxldENOX193dlVTYlMzVktQMXI1bnl2ZnNTMDU?oc=5",
-              "source": "신아일보"
+              "title": "삼성전자·SK하이닉스에 ‘3배 베팅’ 가능해진다…개미들 또 몰릴까",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FT1p3alZtN1ZlcWNrX3liYjRWTHZTazVpcWxHTXdBaUVLYm5FX1NDY1F4WnR4WGs2RHdWel9SNjZMTDM0eTRNLVdLS1ByVV9lOEHSAVNBVV95cUxObHpfZlZvdk56NzFZQ0dXblNGRE9QaWMtRUVmWXV3UmdPVk1HSm5IY1Azb0VhQXUxa2o3cllGOURob2FsM2M1emNQODRIcE5NTDd0MA?oc=5",
+              "source": "서울경제"
             }
           ],
-          "description": "'월드컵=치맥'이라는 공식이 여전히 건재하면서 치킨 관련주가 상승세를 타고 있다. 교촌치킨은 축구 국가대표팀 경기에 연계한 SNS 응원 이벤트를 운영하며 마케팅에 나섰다. 다만 아침 시간대 치맥 소비에는 한계가 있다는 분석과 함께, 편의점 등 대체 채널이 월드컵 특수를 나눠 가지며 소비 패턴이 변화하고 있다는 시각도 나온다. 오늘 처음 등장한 화제 키워드다.",
-          "headline": "월드컵 열기에 치킨株 상승세"
+          "description": "삼성전자가 광주 첨단3지구에 15만 평 규모의 반도체 공장을 짓는 방안이 사실상 확정됐다. 후공정 전문 기업 앰코도 해당 부지에서 증설을 추진하는 것으로 알려졌다. 미국 반도체주 급등 영향으로 삼성전자·SK하이닉스가 장 초반 강세를 보였으며, 두 종목에 3배 레버리지 투자가 가능해지면서 개인 투자자 유입 가능성도 거론된다.",
+          "headline": "삼성전자 광주 반도체 공장 사실상 확정"
+        },
+        {
+          "rank": 5,
+          "word": "투자",
+          "count": 3,
+          "articles": [
+            {
+              "title": "\"삼전, 가장 싼 주식인데 안 샀다고?\"…4조 굴리는 큰손의 일침",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SSWc2eVpucHdoWGExYmpPamxiZnlHNVhjVG5tZDRTX2YydzVVQmI3dGlZLVlIMU9MWWRlYUZQMm45b0FobW02ZnFodnJKZ19KLUhBT2Y2UklTZ9IBVEFVX3lxTE9MLW04UVN5WnIxbHFUOWdCZmMwWm5xbkJ1c0JKeHVSQm42Q3QyOXFvZGZHdTQtdXVKeGxYYXBLUG56V2dpa0EzVUIwN0ZKZFo3SnBubw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "한미반도체, 스페이스X에 500억 베팅…\"미래 성장성에 투자\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqNlg0dFNPYnhnN2lWVGNkRHNpN1JWcFZETDgyOHN1SDZ0T2ZOQVp0U1E4eEhscnRFX05zTk04RGRsaTdDQlhZb09UU3gyR0p5MHA1alZlMlpuSGvSAWBBVV95cUxPN18ycWNyRk1Mb241Q2tXN2N0RVF0QWEzYU8wamJCZ2JSM1JZM29XTzcwQjJyWjFxTjlqWVJiZW9laDJSSkJmeUlzWF9DcXdueWdPb0NLZWZlZGxXNmNDV18?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "한미반도체, 스페이스X 500억 투자 결정...23% 급등",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CSW04ZFB1UWVrYUdFdXY4QTBrU2dUZjVfelNRSk95VXB6YlF1bkFPYldxZURjVUNKcjZfZ2NGYUlyU3FmaHJEZER1U0h2RWs?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "한미반도체가 스페이스X에 500억 원 규모의 투자를 결정했다고 밝혀, 주가가 23% 급등했다. 미래 성장성에 대한 기대가 투자 배경으로 제시됐다. 4조 원대 자산을 운용하는 큰손 투자자가 삼성전자를 '가장 저평가된 주식'으로 꼽으며 적극 매수 입장을 밝힌 것도 화제다. 오늘 처음 등장한 키워드다.",
+          "headline": "한미반도체, 스페이스X에 500억 투자 결정"
         }
       ]
     },
     "연예": {
-      "summary": "북중미월드컵 개막식에 이재·리사, 결승전에 BTS 등 K팝 대거 참여 · 한혜진·김무열 과거 사연 화제",
+      "summary": "월드컵 한국 유니폼 혹평 · 쥬얼리 20년 만에 완전체 무대 · 한혜진 별장 무단침입 경험 고백",
       "keywords": [
         {
           "rank": 1,
+          "word": "월드컵",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"피 묻은 옷인 줄\"…2026 월드컵 한국 유니폼, 48개국 중 40위 '혹평' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZ2tQSnNJRFU0RUhFdW8zd0E1X2dYaU9rMktUaDlERXl2RHZyRnozSUFwY2pLME1OVnhhckZEQVVLOWhCejVqeXpLZzhwaFpDdUZxVzlhZ2tid19TNm91YUp5ZzU5eXVX0gFuQVVfeXFMUC1vY05YZy1YdU5abkEtZy1iUHg2UkpuY0F2eWNfYlJSNDNrbktfTFNaT0U3QXV6LU9GeXUtZTJzdUh3aTJlSlNzUjhYV2xCclJULXpMTU0tdlVRb2ZYOTl2RlhYQURPY2FtaGFNcXc?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "월드컵",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pNHVvQlFOeTBEbW1WY09XOS01TlJOdVdUOG9Eb2x1MElFWVczR0wtQU1rVFFYa2RBbGx6OXVERmxfNmVDWHBMS1p5QU55OVJQWE9tY2FyWDN0STA?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "홍명보호, 16강 한·일전 예측 또 나왔다!…월드컵 본선 역사 최고의 승부 터지나?",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sWXozUGw0WjQtMUlSWk5LR0Z1R3RUcXQyNVRtQXhqV0RGcjNxNzBXak9OeVBpaEFWYkhNWTFTOTQzVUx4QTRQWFN3VmI4VEZEUU0zTGs1Y2lmenZI?oc=5",
+              "source": "네이트"
+            }
+          ],
+          "description": "2026 월드컵 한국 대표팀 유니폼이 48개국 중 40위라는 혹평을 받으며 화제가 되고 있다. 디자인이 '피 묻은 옷' 같다는 해외 반응이 전해졌다. 한편 홍명보호의 본선 16강에서 한·일전이 성사될 수 있다는 예측도 나오며 팬들의 기대와 관심이 높아지고 있다. 어제 4위에서 오늘 1위로 올라섰다.",
+          "headline": "2026 월드컵 유니폼 혹평·16강 한일전 관심"
+        },
+        {
+          "rank": 2,
           "word": "한혜진",
           "count": 2,
           "articles": [
@@ -271,234 +295,210 @@
               "source": "세계일보"
             },
             {
-              "title": "한혜진 \"샤워하고 나오니 낯선 사람이 마당서 커피·담배를\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3QnBweFBWSXZRd0pBTGZEYlc5YjQ3VHJOV2dZMWctNnJSU25jbmVheWNGZUYyN1BDVVRtVy1ESjFpeC1NdTRHMms1YVRDNU50dzNjYnhfWS1zNkVuUWpuc9IBeEFVX3lxTE5qUzFSaTZJSWJKY0xES3RWLTJzSzlDZkE1NkZ4eDdoQkR1S2hDTzZYUmJqOHJnWFZsSDdmTDhRQlJxWjNuWnQwUzhna3NsS1R2NElkb3QwWW44eWRMTXNyNzh4QXA2MFBNYU1reFRwcEFoYnJqUGpZTg?oc=5",
-              "source": "뉴시스"
+              "title": "김숙, 제주도 집 공개 후폭풍..“관광객 10팀씩 몰려와” 한혜진도 우려 [순간포착]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82MDRmOVhvOHlUZGsyQmJ1dUJRRVBTNmlOcm5IZ0pXNWRNMG8wbVI2WWdnQWlMRGJYY1JtMXZjNUVJVXN5dmlzQ21wUzVpSmc?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "한혜진이 방송에서 홍천 별장에 낯선 사람이 무단 침입한 경험을 털어놨다. 샤워 후 나왔더니 마당에서 커피와 담배를 즐기는 낯선 이를 발견했다는 충격적 에피소드를 전했다. 또한 회당 4000만원을 벌던 전성기 시절 현금 다발을 냉장고에 숨겼던 사연도 함께 공개해 화제를 모았다. 오늘 처음 등장한 키워드다.",
+          "description": "모델 한혜진이 홍천 별장에서 샤워 후 낯선 사람이 앉아 있었던 무단침입 경험을 고백해 화제다. 또한 회당 4000만 원을 벌던 전성기 시절 현금다발을 냉장고에 숨겼던 사연도 공개했다. 김숙이 제주도 집을 방송에서 공개한 뒤 관광객이 몰려드는 후폭풍을 겪자 한혜진이 우려를 표하기도 했다. 오늘 처음 트렌드에 등장한 키워드다.",
           "headline": "한혜진, 별장 무단침입 경험 고백"
         },
         {
-          "rank": 2,
-          "word": "김무열",
-          "count": 2,
-          "articles": [
-            {
-              "title": "“너무 끔찍해 무서웠다” 진상 학부모 ‘참교육’한 김무열의 고백",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03cmkzcWQ5MVpFTGl0SjFVMlEyclFvTDZLU001dUxZSFlCdEh4MjBqQ2JEaEZYckZXOURMZjVVTkFwcmVCcTVsV09pM1hLSUpqRUFOWmhR?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "\"3억 버는데 생활고?\"...김무열 병역기피 의혹, 오히려 미담 된 사연 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TemV2dDRpek1hOHBJRmV4ZEJfRlJUUUl0WEJ1YTFJNk9XUzR2VE9EX1A5TDBqRlBmT1JtelVIQlJOZjE3UWNFQ0pIWGQ0M1FfNGEybDdZanpOc2NncTlLT3Fwa3pRZ2xvMkRr0gFwQVVfeXFMTVdGaHM4T0oxMzlQVkRpWWpEZ2pkSzNLMmhoU2ZBMXVFTjJkZk5jekJ1ajBncjREbjdHMktJUjZESUw4Nml4eE1KM25wbkh3UmtwckN6Vm0wdFFLSGdub0hkdG1Ea3Y1d0ZyRGNTV2UxUQ?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "김무열, 병역 면제 논란 → 자진 입대…21개월 복무 마쳤다",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14aUtMZXZDTy1ydi1ydXljZUN1d0I0VW9wREptQXdna3dvS2tPdXZEYkkyX2R2a21nd0poX0NvTVNrNF83MlR5OTdNczJla3c?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "김무열의 병역 면제 논란과 자진 입대 사연이 재조명되고 있다. 당시 면제 판정을 받았음에도 스스로 입대해 21개월 복무를 마친 이력이 오히려 미담으로 회자되고 있다. 한편 진상 학부모를 상대한 에피소드도 함께 화제로, 방송에서 '너무 끔찍해 무서웠다'며 당시 경험을 고백했다.",
-          "headline": "김무열, 병역 면제→자진 입대 사연 재조명"
-        },
-        {
           "rank": 3,
-          "word": "이재",
+          "word": "쥬얼리",
           "count": 1,
           "articles": [
             {
-              "title": "개막식 이재·리사에 결승전 BTS…존재감 드높인 K-컬처",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45N0RNUmhCNlY3OFRBYS1Jb3MxYkFibmhPOUVueVBJMlFhaE1wYUphdmE1UGtnaTJldm1mT043NUhXWlpBNDctSnR0Vjg1dDZLVjAwRGNCMkEyYUXSAWBBVV95cUxOQktNWVNDa0pKZUZwa0tHdHp6eXZmOVpOTFQxU0YzbnF6RGhnZU1qSmI1ZHQ4QTFBbHJaY1ZaQjZVSnlPZVN6VGRqVWEzWkFvVUZSX0xkUlVfbUIxVDFUdEw?oc=5",
-              "source": "연합뉴스"
+              "title": "쥬얼리 20년만 완전체 무대에 조민아 오열 \"보고 싶었다\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TekxSeGNVZE5oYlVWak4xTklma0tNdWJDS1NRYllxV1BFMmdONnE5LThfWWlYZElRREM5cy1jMFIyWGNSVWUwZDBpd2piUTQ?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "북중미월드컵 멕시코서 화려한 개막...‘케데헌’ 이재 주제가 열창",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45bVpfRHdLdHMxYU9RRUdEY25CS1p3RW9wRGN1Q2RFcWtueW54bGxJVlJjbi1WVkhmaXhnbDM2U1FNaXJyOGZrQkJMNkRDcGhSQjA5LXBR?oc=5",
-              "source": "중앙일보"
+              "title": "박정아 눈물, 조민아 고백..쥬얼리, 불화설 딛고 20년만 완전체 무대 뭉클 [종합]",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuQzZWbENkTS1KVlE0YUFFWlFHV2VITzFhSnd6dUFWVGZqd2tLVHpZZjBsUU8xWFBwcE9sd1dKWjJoaFJDNWNjWWVmTUVyRGdlbzcwUWNORTZ5UFA0YUlwQzZxelZYc2xnRTNPR3hxUlRlRlMz?oc=5",
+              "source": "starnewskorea.com"
             },
             {
-              "title": "개막식 이재·리사에 결승전 BTS…존재감 드높인 K-컬처",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CS01ZU0NrSkplRnBrS0d0enp5dmY5Wk5MVDFTRjNucXpEaGdlTWpKYjVkdDhBMUFsclpjVlpCNlVKeU9lU3pUZGpVYTNaQW9VRlJfTGRSVV9tQjFUMVR0TNIBYEFVX3lxTE5CS01ZU0NrSkplRnBrS0d0enp5dmY5Wk5MVDFTRjNucXpEaGdlTWpKYjVkdDhBMUFsclpjVlpCNlVKeU9lU3pUZGpVYTNaQW9VRlJfTGRSVV9tQjFUMVR0TA?oc=5",
-              "source": "연합뉴스"
+              "title": "쥬얼리, 20년 만 완전체 무대… 서인영·조민아 불화설 종결",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43QlJKc2gza0dJS29uclVMZ1VwcmhGMDJzZjExblVHYXFQWlhGN1JHSWRDUEZtZmJoQ1lkVEZPSXpnM3U1WUs2RzZ4cDRqWm84MDE0bDI0c0VBX2V2aGYyYVgwbkwtNjR2NTVpZllR0gFzQVVfeXFMUEVfclpzM3VoVV9KWDJoam12UGZvNjRtUm9fcWh4MkotQkpWQnJxY0hHVFR0RmlEUzNIZkVFSHhya1NWR21lMjJGMWtValh2b0gyV0o3RlN2UE5ld2RMVjBOaDV0V0d0NlY2Q1JSR3FjVzhkTQ?oc=5",
+              "source": "한국일보"
             }
           ],
-          "description": "2026 북중미 월드컵 멕시코 개막식에서 이재가 주제가를 열창하며 무대에 올랐다. 리사와 함께 개막식을, BTS가 결승전 무대를 맡으며 K-컬처가 월드컵 전면에 나선 구도가 화제다. FIFA 역사상 개막식과 결승전 모두 한국 관련 아티스트가 주요 공연자로 선 것은 이례적이라는 평가가 나온다. 오늘 처음 등장한 키워드다.",
-          "headline": "이재, 월드컵 개막식 주제가 열창"
+          "description": "걸그룹 쥬얼리가 20년 만에 완전체 무대를 선보이며 뭉클한 감동을 안겼다. 멤버 조민아는 무대에서 오열하며 \"보고 싶었다\"고 밝혔고, 박정아도 눈물을 보였다. 서인영과 조민아 사이 불화설이 오랫동안 회자됐지만 이번 합동 무대로 사실상 종결 수순을 밟았다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "쥬얼리 20년 만에 완전체 무대 재결합"
         },
         {
           "rank": 4,
-          "word": "리사",
+          "word": "최수영",
           "count": 1,
           "articles": [
             {
-              "title": "블핑 리사, 월드컵 LA 개막식 당당 무대…그라운드서 존재감으로 압도",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85dXF2d0VQY2h6OWJORTVCNGtXZDNFcFZKX2FoYm9IZWtUUGNSSTAwMjZHMUczRDltanpPLVdEemhJc2RRc3FHNnNwRVUxazg?oc=5",
-              "source": "v.daum.net"
+              "title": "\"정경호·최수영 재회 후 결혼도 가능하다\"…이 예상이 뜬금없지 않은 이유",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56SU4tSi1haGNud1R4TF9pRmo3WEJCaHV5Z05aZkYwaE1rZ3NTRkY2cGwxSVA5TjVCMkFZWGx4Y08xcXczbzItU3JqVFJxdzE3SkxUcnNyc0o5a3pvajM2cWVnUFQ4eG9xZGc?oc=5",
+              "source": "뉴스1"
             },
             {
-              "title": "이강인 유니폼 입은 블랙핑크 리사…이강인 \"월드클래스 서포트\"",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82S05HNkpYTlFUMndjM0x6R2lpbnJ4R09ncnlSOWxIZDA2NXVYWHRNbWNKSTRFQTVSZTB2S2RtVkxJdlhEMzVNNWl1QmZWTWNEcXc?oc=5",
-              "source": "노컷뉴스"
+              "title": "MHN스포츠 '스타블링Shot'|[포토] 최수영 '선한 영향력'",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYlh4b3ZVbWlSOS11R2JrMlVXZkJTSG5vMzFvLXREQXFOSzI0QjhxVnBvamFCbndFelpRZmdZYlYzaU44dVEzY09saXhNenB6dkZjYWlWTTVZR0VqQ2VBU3BYbkxwVTNqVzl5TXlONlN4cWhOaWhiRnZ2dl9zUlhMNGxBSQ?oc=5",
+              "source": "ZUM 뉴스"
             },
             {
-              "title": "‘블핑’ 리사, 월드컵 개막식 찢었다… ‘Goals’ 열창",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1dTFVRTBzUzNra3dpckJwdDhRNGdodWgzd184NUtrcXRYczVpM0RiRklDbGtTU09xbDdfV1c3VVNia1B1RjgyU1NSNXpIZWNIN3RTMVdaT1IxRXptRmfSAWNBVV95cUxOQW9pS25KeXBhN0JSRUttSU1BOWlGUnJwSzBDWDZ4SlMwTGUxM3lIRjNYZlFOa1hUd3ZyckZHLWhrWnhzUkVfTTgxUHlXVkg2QU9NOEkwU29FQWEtVVFxR3BKeUE?oc=5",
-              "source": "채널A"
+              "title": "최수영 '실명퇴치운동본부 홍보대사'[엑's HD포토]",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UaUgtSkhtQk5RYTEyblg2NEpnMWRWUEk1NHVDeVFwSk1KNElvS2hfS1hBampFNTVGcnJ5eC1HeVBwQjNocjdQTUFSVnlER0VyMklJ?oc=5",
+              "source": "네이트"
             }
           ],
-          "description": "블랙핑크 리사가 2026 월드컵 LA 개막식에서 'Goals'를 열창하며 그라운드를 압도했다. 이강인 유니폼을 입고 등장해 이강인이 '월드클래스 서포트'라고 화답하는 등 화제가 이어졌다. 개막식 이재·리사, 결승전 BTS까지 K-팝이 월드컵 핵심 무대를 휩쓸며 존재감을 드높였다. 오늘 처음 등장한 키워드다.",
-          "headline": "리사, 월드컵 개막식 무대 압도"
+          "description": "배우 최수영과 정경호의 재회 후 결혼 가능성이 점쳐지며 관심을 모으고 있다. 두 사람의 재결합이 '뜬금없지 않은 이유'를 분석한 기사가 화제가 됐다. 한편 최수영은 실명퇴치운동본부 홍보대사로 활동하며 선한 영향력을 보여주고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "최수영, 정경호와 재회·결혼 가능성 화제"
         },
         {
           "rank": 5,
-          "word": "결승전",
+          "word": "성동일",
           "count": 1,
           "articles": [
             {
-              "title": "\"이번에 한국 월드컵이었나?\"…개막식·결승전까지 온통 K팝",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIUVMtZ2d6eHI0OHhWUlN2Z1BRYWhTQWl5eUpaT3ZLMjhOQ2hQWW5PRkc5MjJPWnlwbElta2U0R09OZnZKQ0tFZVhCRkhnMXp6ei1CWjFHX3h1QS1mMzZnOU9pVmNpOVhPbGc?oc=5",
-              "source": "조선일보"
+              "title": "'성동일 아들' 성준 \"악플은 자격지심에서 나오는 것\" 윤나라 울린 위로('술 빚는 윤주모')",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uWGJhTHlfY1cwS0JwZER0YnA1cjZJVEFMdXpHX3l1SzRuc21tS0NHNHAycUc1MzY1RWg0SG8td0h4cmVMdHdzTlkybkN1Z00?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "결승전 티켓 한 장에 880만원…FIFA '폭리'에 월드컵 관중석 텅텅",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NdVFzRHMyXzh1RGlBRFFsbXJwYVVWNEd1ZEVzeUQ2bE9sd21pQkx5cFpybWc5N3RBeHBwMjVyRHotUVNZaGhDMWFwR2dHZ2xaZGN2S1Z0YVdWT3c4Z0lxedIBeEFVX3lxTE9qSURkeXNKNTQ1TnIzMEgzUW43UVRvZlRiVW8xdFo4YVZVTW1wcE5BSnhXSmhVSVhDS1FwaDVnU1pyV1ZteUJHRHlVcXU5cGFuYlhCTDZnV1liZ1puYTF0WHVOd1gyNTRWbFlBeGxKSDRITlJBbWRmeQ?oc=5",
-              "source": "뉴시스"
+              "title": "폭풍 성장한 스타와 스타 2세들|성동일 딸 성빈, 폭풍 성장 근황 \"현대무용 전공\"",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMXdleUpmNTFfa1FWRHRwVDNhbjNXQ1BnekV5TWl4c1BzSXJIRWF5UFdVbVgzOVpaV1BwUTJXelpQQWtsWnU5dWZpNVpaMG83TC1wTEl2Q3hmRm5pdkh0ZGplWkktQkdNeFR1NUJfbDhoSzN3QmZIX2h1TUZjOXRmNFZhbw?oc=5",
+              "source": "ZUM 뉴스"
             },
             {
-              "title": "결승전 티켓 5000만원… 20조 수익 노리는 ‘쇼 비즈니스 월드컵’",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NLXc5aDJzMzVCbVZIejg3RFN4U1hwYW5iN1JVb0owWXhFc01hOWhweVp0LVBzcS0tMmwzcE9jc25tSS02OW51elYzU3luV3V1cGRmSFJPeWJMR0UwMnkwNUJqVk1RNzB4WXRUdG1RZEU4eVdP0gFmQVVfeXFMT01nSDJsNndvMzNiRFFfcGxSeGM3QlpUZkhNeXN1TXhvS2F4RFZBb25kWTRnMldZQjJOT3owLWxDc1M1Yno2NjNUbU1ia3V2bFkwV2RHUEItMDQzbWY2VDBEYzVSeGZR?oc=5",
-              "source": "동아일보"
+              "title": "‘성동일 딸’ 성빈, 47kg ‘뼈말라’ 미녀로 컸다",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aZnJiTkFvaVd1ZjE1bmlfbUUzaGl5Z0hSRFdnSDMxS0JNbUhHV0pqcTdabVkyR0dVNFl4amFPb3l5SGpfZXc?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "2026 월드컵 결승전 티켓 가격이 한 장에 최대 5000만원, 최소 880만원에 달하면서 FIFA의 '폭리'라는 비판이 일고 있다. 20조원 수익을 노리는 '쇼 비즈니스 월드컵'이라는 지적과 함께, 고가 티켓으로 인해 관중석이 비는 역설적 상황도 우려된다. 한편 결승전 공연에는 BTS가 확정되며 개막식부터 결승전까지 K-팝 일색인 점도 화제다. 오늘 처음 등장한 키워드다.",
-          "headline": "월드컵 결승전 티켓 최대 5000만원 폭리 논란"
+          "description": "배우 성동일의 아들 성준이 예능 프로그램 '술 빚는 윤주모'에 출연해 악플에 대한 소신 발언으로 눈길을 끌었다. 성준은 \"악플은 자격지심에서 나오는 것\"이라며 출연자 윤나라를 위로했다. 딸 성빈도 현대무용을 전공하며 폭풍 성장한 근황이 공개돼 화제다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "성동일 자녀 성준·성빈 근황 화제"
         }
       ]
     },
     "스포츠": {
-      "summary": "홍명보호, 월드컵 체코전에서 오현규 역전골로 2-1 첫 승·정몽규 회장 사임 앞두고 징계 효력정지",
+      "summary": "홍명보 감독 손흥민 선발 제외 검토 속 체코전 용병술 호평 · 이용규 음주사고 · 이정후 연속안타 중단 · 월드컵 유니폼 혹평",
       "keywords": [
         {
           "rank": 1,
-          "word": "월드컵",
-          "count": 8,
-          "articles": [
-            {
-              "title": "시간 지연하면 공 뺏긴다…월드컵 첫 스로인 ‘5초 룰’ 장면 나왔다",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TaGNkTE16MmxPXzRNS3l6bURiS1NYUWIzX0dDUm11SldhZVBXRk5EcWxvZmJJRDNEZlp6bFZCUUlSZnktNklJQjFQWVdDNnJyLWpkcw?oc=5",
-              "source": "JTBC"
-            },
-            {
-              "title": "농구에 밀리고 트럼프에 치인 월드컵…46조 경제 효과 기대 무색",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84U095Ul80SldZZ0hsODdEX3VINnNNQUtJU0VpU1pCeVM0VU4yQWlsNXdSNDJub2NwM1NYZWlzQ1hKMGQwUFZWYktBdWExV2M?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "3연속 월드컵 우승 맞힌 독일 예언가…\"네덜란드 우승…한국은 16강\"",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ1FsOUVhUlA3UXpXMTRCVXdpNHZMNlBwMlJoY29MX2VxbGtJVXJHM2QwVElBVng2dU1YSkstZ0s2WlM3LTB4aDIxXzZaWW5BR3pYbWpjMURfbzR2NHZEZEgwSk1mb0F6c2d5YmQ2YTF5bW9vQ193UTdXZzVoYllUZWpQZ21Wc1ZkMktj?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "2026 월드컵에서 스로인 시 5초 안에 공을 던지지 않으면 상대에게 넘기는 새 규칙이 처음 적용되는 장면이 나왔다. 한편 대회 경제 효과가 46조 원에 이를 것으로 기대됐으나 농구 등 타 종목과의 경쟁, 트럼프 행정부의 영향으로 흥행에 우려가 제기되고 있다. 독일의 예언가는 네덜란드 우승을 점치면서 한국의 16강 진출을 예상해 화제를 모으고 있다.",
-          "headline": "월드컵 '스로인 5초 룰' 첫 적용"
-        },
-        {
-          "rank": 2,
-          "word": "체코",
-          "count": 5,
-          "articles": [
-            {
-              "title": "손흥민 막으려 4번 반칙…“체코 수비진, 韓에 압도 당했다”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rcE1BOUtmSWowZ29nUTR3TnpTTWtPMm9oTmRzS3VnZ2thWUlPd1NoR08tMlc3WE9KTHR1VXhxMmlsejZxNWlBZVUyX0dkUXN3UU1idG1R?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "홍명보 교체카드 적중…'조커' 오현규 역전골, 체코에 2-1 월드컵 첫 승 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Db2Q3dV8zMEUwQnRSUmFVWlVITnVrd1U5TWszbjlGUTVqR2xXb1NSQktLN0dJdFlDVlNsZlZTeWc3RndxMms5Y3pFNTcta2dDdXNBejU3R0MwOUFXWWQ4dnAxck9DdEgwVFHSAW9BVV95cUxPemJkN19KeXNMYXA0NG5neDBDUUxORGRjalBNTEtZXzhZN1lyRHN2ZDIxZ3lXTDRjRm5EcEhReGtLNVI0Zk80Z2ZzSmV5eVhUbWEzdmdDZ29kVGlxM2NSOU5RbTNfenFmcWtkUkZLM1k?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "주영한국문화원, 월드컵 대한민국-체코전 응원전 성황리에 개최",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTc0JrRGgyZXlUbkM3dEgxaEw0VzZFOUptaGU3MWFwUmNZZDJpaDM3d3NOZVBkZ3hpMHZCT2Y0ZDF1WVhYeThleml3WGk1M0NBV1BQaEw2LXhJcWdjejNQSE85a3lMZnM0V0t4T013?oc=5",
-              "source": "지금제주"
-            }
-          ],
-          "description": "홍명보호가 월드컵 조별리그 첫 경기에서 체코를 상대로 2-1 역전승을 거뒀다. 교체 출전한 오현규가 역전골을 터뜨리며 '조커' 역할을 해냈고, 손흥민을 막기 위해 4차례 반칙을 범한 체코 수비진은 한국 공격에 압도당했다는 평가를 받았다. 런던 주영한국문화원에서도 응원전이 성황리에 개최되는 등 해외 교민들의 열기도 뜨거웠다.",
-          "headline": "한국, 체코에 2-1 역전승"
-        },
-        {
-          "rank": 3,
-          "word": "홍명보호",
-          "count": 4,
-          "articles": [
-            {
-              "title": "홍명보호 체코전 선발 명단 발표‥손흥민 원톱에 스리백으로 출격",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83UHlxSTFycWxWNDlwbFBsYUY5M254cm9Fc0ZHeE5pSVhyUlY0ckpPV2FTaXNvQklqN2Zqbm56T2lULVZDblduV2VBYTM4dkhYWEJlVzh6YUktcE82QzAtcnVzcWZUWEJ4YklFMkU2RGY1RXEyWWfSAXZBVV95cUxQd2RXWDZ1aHhLNkpEWUtJNjd2SW55aDgxVTRCLWxhMUstanRXVFRFZnA5VnpvLTZNYTVZZU5oWDVzMXphanVoTURPRTd6aF9tT09Ucm5OYzB1WklySEU2aEFieVl1RkVfa3VFR2Z5RUliTm9jLUp3?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "첫판 첫승 홍명보호에 희소식…'부상' 김태현, 2차전 출전 가능",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50TmxteElva0w4OVFBVXA0aVV4U1JrNkRuQ3diRnN4YVN1c2htNVY3Q1JOLUhJV2ExR2pxVjlGZ1VaVE96cUpHdzRjM0ZZSDRKRldvd3IwRnNzV2PSAWBBVV95cUxNQXZqbVR1Z1BEQXVKUXRXcks3ZzNmNVd5NUdESGU4RXpLUktjTDFvTmY3VmdiSEdwakVtU1BiVjFOYzdrUW5Fd1VSU1h5c3Z1NWhZSUVZYUpfam5TWDNad2U?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "첫 관문 통과 홍명보호, 멕시코도 넘는다",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15SDdNejM0ZUFPV2NpRDdETEZBYzV6T0RTNnBqMGNoaldzQ1ZLYjRKeTBQeWhtR2FaQmRNOEMyRHdzbFN0S0IzVWNmSWV1emp1b2ZpTmFicGpwVklFVTdGNXBNT055ZEMtZEpFUXotUQ?oc=5",
-              "source": "YTN"
-            }
-          ],
-          "description": "홍명보호가 체코전에서 손흥민 원톱·스리백 전술로 출격해 월드컵 첫 경기 첫 승리를 따냈다. 교체 카드가 적중하며 역전승을 일궈냈고, 부상으로 우려됐던 김태현도 2차전 출전이 가능해져 희소식이 전해졌다. 다음 상대인 멕시코전까지 연승을 이어갈 수 있을지 관심이 쏠린다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "홍명보호, 월드컵 첫판 첫승"
-        },
-        {
-          "rank": 4,
-          "word": "손흥민",
+          "word": "홍명보",
           "count": 3,
           "articles": [
             {
               "title": "'손흥민 선발 제외' 현실이 될 수 있다, 홍명보 멕시코전 '결단' 내릴까",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xYjVkWEFRcEVkckJYdXJlc2NwZEUwRFdVRUh3ZnpYOGNNSW9OOUt6R2dHYnpiV2FKbzZRZ3p0c1BTYm1TSXNRNGhJbXJYVHM4blZfY1BBVUUzWnM2?oc=5",
-              "source": "네이트"
-            },
-            {
-              "title": "김태영 \"손흥민, 월드컵서 마스크 투혼 내 영향 때문\" 자화자찬(불후)",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zUXZ3eDdIdzdNdnVtYUNvUWZDZjdOVkNrZEFlbDBadUxFUTB6T0RIZ3hwTHE0aGQ4b3VxZk5nNzdLMEFhOENmLUZfMkNHdXpxWjFn?oc=5",
-              "source": "osen.co.kr"
-            },
-            {
-              "title": "'불후' 김태영, '손흥민 마스크 투혼'에 \"제가 시초\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JTGJiV3lrdWwwdjE5LTF5cTJQTXgyMnBiVDdpZ1VOemRUUTh0cnduTnRkYndKSU1nYWJVT3VEWjlwa3pNQldTdFJmZ3ZaTmM?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qZ19hQWVHRW1DcmlpVkcwaUlNQkJBQ1FkX1BDSUI3U1dQeDI2d2dQWEVfS0dUX3JVbVlqekFjQmg1bHpGZVljVFNVbXdvUlk?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "“감독이 거액 받는 이유”…BBC가 극찬한 홍명보 체코전 용병술",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRmphdjQ3bFd2dktxa244WDNfcDRDckt6YWF1SkJ6UmwtV2xCX01FVmItZTRwTUxFaGFudGdVUmxHZVNwSjhBX1FEcU85Vm4zc2daU2xn?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "‘손흥민 빼고 오현규 투입’ 홍명보 용병술의 승리",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tY3lLaXJlWkNPNlRkQlNsa2czYWgxM0dpeGlYakFKN3ZzVlB5c0p0b3Etb2RtdS1sbjFHR0hmSmpFdTRUOUJsWXZUUUlQSnhtdlVLRmFCRGdLZ3FSMDJrSmx4bU9ZWDNwXzBMWHdheXhuNHlM0gFmQVVfeXFMUEMyRG53Vmd0Rjh5dzJZYjNWSWRqaTBxX0tiWXhWQS1YUHAwNXZ2NWhFTE43c0RpZi1VTkFwYTJzcFdnN054M3o1YUoxSUVYTjEyRE1XclZwdkZwZ3BQLUZCZ1NoX1l3?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "체코전에서 원톱으로 선발 출전한 손흥민을 둘러싸고, 다음 멕시코전에서는 선발 제외가 현실화될 수 있다는 전망이 나오고 있다. 홍명보 감독이 컨디션 관리 차원에서 '결단'을 내릴지 주목된다. 한편 예능 프로그램 '불후의 명곡'에서는 전 대표팀 동료 김태영이 과거 손흥민의 마스크 투혼이 자신의 영향이라며 자화자찬해 웃음을 자아냈다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "description": "BBC가 홍명보 감독의 체코전 전술 운용을 극찬하며 '감독이 거액 받는 이유'라고 평가했다. 손흥민을 교체 투입하고 오현규를 선발 기용한 용병술이 승리의 핵심으로 꼽혔다. 다가오는 멕시코전에서도 손흥민 선발 제외 가능성이 거론되며, 홍명보 감독의 과감한 결단에 관심이 쏠리고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "홍명보, 체코전 용병술 극찬"
+        },
+        {
+          "rank": 2,
+          "word": "손흥민",
+          "count": 1,
+          "articles": [
+            {
+              "title": "'체코전 부진' 손흥민, 선발 제외?… 오히려 왼쪽 측면 배치해야[초점]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNUTV4ZjBpN3BUTC0welBETWstNFNFNU94VDY2Ul9FT0JScmR4Rk8yVnZ0SDRrRW1kbnJIY3hGSERNTXp2TEdJTy1FWE9LaEE?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "맥도날드 세트 시키고 '손흥민 컵' 뽑자",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iNmFURlBfaWZKTkYzV2dRMl9Kc1JtQmtzaENCY0tlVW9vMXd4ZWJxQ2FNc1IwWW1MZ2RMZ2o1ZXo0WHptbEdjN3k2QTNlY0F2TkxSN3BYVUFnNkx6MkpCQlZR?oc=5",
+              "source": "미주중앙일보"
+            },
+            {
+              "title": "해외선 주는데 \"한국만 왜 손흥민 컵이 없죠?\"…국내서 빠진 이유 알고 보니",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aci1fX0s5R1VIbjh2MDNsTkFuWWVFZzZSWVVUY3AtSnJmYlJpaUNfTzJmVDVGY0xEQXMzWXlNVEwzUmxGdnAwbWtsRXFMajZoRzBB?oc=5",
+              "source": "네이트"
+            }
+          ],
+          "description": "체코전에서 부진했던 손흥민의 멕시코전 선발 제외 여부가 화제다. 일각에서는 오히려 왼쪽 측면에 배치하는 방안이 효과적이라는 분석도 나온다. 한편 맥도날드가 해외에서 출시한 '손흥민 컵'이 국내에서는 빠져 팬들의 아쉬움을 사고 있다. 오늘 처음 등장한 키워드다.",
           "headline": "손흥민, 멕시코전 선발 제외 가능성"
         },
         {
-          "rank": 5,
-          "word": "정몽규",
-          "count": 2,
+          "rank": 3,
+          "word": "이용규",
+          "count": 1,
           "articles": [
             {
-              "title": "사임 앞둔 정몽규 회장 “역전승 일군 투지에 박수”···팬들에게 “변함없는 응원 부탁”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5cXJKOUphbDNTcVpVclJYYmhwVXFXUFlYVVpSdGR0anBkbWpXa1MyNDVWVF9yWnpnTFpocTI4WjRCb3hhZERNUUNwb1lVVUplOEpjS1dUR3Fvd9IBX0FVX3lxTE1MVkZocGV2US0zOVp1a3dMZGtyaWN0UmJRb3V0NjdVUzVzVk5qcVAtZV83MDRhWktXZ2huakhtUkltUzR3bXd5Mi00N0VwTDBtMU5Vc05jUkpmeXAza3Rn?oc=5",
-              "source": "경향신문"
+              "title": "처참했던 이용규 음주사고 현장, 은퇴할 만 했네",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfV3BoYjV5YWlhLXZ0cnVMNi1oRWNoRFRxTUV6OTlsSmtuOTk0bzhuY2xEX3RTWC1SUld0b1N4a0tTd3lHOEFwMFRKakhlZHh1SzhNWG9vdkNWSzZh?oc=5",
+              "source": "네이트"
             },
             {
-              "title": "법원, 정몽규 축구협회장 징계요구 2심까지 효력정지",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPV3pZcHBnYTBlcTMtVDFhQ19iU0JXZ0dxdjFpTTJmSmdMX3NwSnZ4UkV3alQtZmJzYWpBVDNhMWUtd0h5Y0hwZUR5ZVd4c0k?oc=5",
+              "title": "세상이 등 돌렸던 '트레이드 파문' 이용규는 그 때도 변명을 늘어놓지 않았다",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuOUZVV2FJYTVMMklCeWZOYXY3SzBva2VpNUpIYmJLbnluOGoyZVNnSlp0bUdTVjVRcC1zRFQ0VVhTak1LNFVrbjN2LUI0UHZFQk9IaVk0V0dGd3c?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "체코전 관람하는 정몽규 대한축구협회 회장",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZM3l0TzZvUjdNUXVoY0lieHl1TVFIZEJNaFRxVlNRLVRQaUNiaUZVeGRGQjFHcVNUSXNJakRsRXVEYjVBTnN6TXFqNm51OC1mSDhibXdOalJSZlBpa0FZdA?oc=5",
-              "source": "뉴시스"
+              "title": "'순찰차 쾅' 이용규 만취운전→은퇴...아내 유하나 SNS에도 비난 댓글 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIUXpCXy1ud1dMQnhaN1JSQklramNFREZqMFlLWHM1NEd3RmRlR0tLNUxvTzNvazMxSWNRZTloeUk4M1FQM0FQbEhXZDMzbC1zZ3lFcDI1TlJNWVBPREYwaFFpTzFObEUwRjBJ0gFwQVVfeXFMUEZHRFFnc3lRTDR4cWRNZG0xNnhHUXlEQlEtc2FOUkEzVUsyWmt0ZGMyMGlseUVTS3RJdUk1M1hybF9XdXdCUW8xMHJ5aEplWkNqN1VDbVlLekl2M0tTejE3M2NRa3pyR3Rvc2xmaE5jNQ?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "사임을 앞둔 정몽규 대한축구협회장이 체코전을 직접 관람하며 \"역전승을 일군 투지에 박수\"를 보내고 팬들에게 변함없는 응원을 부탁했다. 한편 법원은 정몽규 회장에 대한 징계 요구의 효력을 2심까지 정지하는 결정을 내렸다. 축구협회 수장 교체를 앞둔 시점에서 월드컵 첫 승이 겹치며 관심이 집중되고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "정몽규, 사임 앞두고 체코전 관람"
+          "description": "전 프로야구 선수 이용규가 순찰차를 들이받는 만취운전 사고를 내고 은퇴를 선언했다. 사고 현장 사진이 공개되며 그 참담한 상황에 비난 여론이 거세졌고, 아내 유하나의 SNS에도 비난 댓글이 쏟아지고 있다. 과거 '트레이드 파문' 당시에도 변명 없이 버텨냈던 이용규였지만, 이번 사건으로 선수 생활의 막을 내리게 됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "이용규, 음주운전으로 은퇴"
+        },
+        {
+          "rank": 4,
+          "word": "이정후",
+          "count": 1,
+          "articles": [
+            {
+              "title": "이정후, 3타수 무안타…18경기 연속 안타에서 기록 중단",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSTjBZbWxOeFY3bDZpN3pPVk0yWFlWaEctdjRZdFEtZWlvSVB2ekROTmlTSGs3MFRMeGd3aHkzclloa2FyaUl1YjYwV3pIay1MYVUtUmRB?oc=5",
+              "source": "헤럴드경제"
+            },
+            {
+              "title": "\"닥쳐\" 한국어 잘하는 이정후 단짝, SF 떠나 아시아 왔다…'새로운 도전' 일본 요코하마 입단",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3X0xNbGZMbFo0NUlFblk5Q0MyQUNndVRjMS1JYl9DQzFjZlhIS0FHZ3JEdUJJUjlNdjVPbHFTdzdpTTdnUXU1RmpTaWZYWlFYbjJTb0Rtc1NHNjZIN19PUHVSM1VOT1pQWElsUUxPNA?oc=5",
+              "source": "SPOTV NEWS"
+            },
+            {
+              "title": "이정후, 3타수 무안타…18경기 연속 안타에서 기록 중단(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EX1F4LXVJa1R0UEdFVjJLSGloWTAtTzFhY3ZDb2RRQS1aZmRBb1JCMnIzTDE5TjJXdlNEOElYTHl5bHhva21ROWdlaFVkdkhaVlhlZHFwNkFkazhzUktSddIBYEFVX3lxTE9EX1F4LXVJa1R0UEdFVjJLSGloWTAtTzFhY3ZDb2RRQS1aZmRBb1JCMnIzTDE5TjJXdlNEOElYTHl5bHhva21ROWdlaFVkdkhaVlhlZHFwNkFkazhzUktSdQ?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "이정후가 3타수 무안타에 그치며 18경기 연속 안타 기록이 중단됐다. 시즌 중 꾸준한 타격감을 보여주며 기록을 이어왔으나 아쉽게 멈췄다. 한편 샌프란시스코 시절 이정후의 단짝으로 알려진 선수가 일본 요코하마에 입단하며 아시아 무대에서 새 도전을 시작해 화제가 되고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "이정후 18경기 연속안타 중단"
+        },
+        {
+          "rank": 5,
+          "word": "월드컵",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"피 묻은 옷인 줄\"…2026 월드컵 한국 유니폼, 48개국 중 40위 '혹평' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZ2tQSnNJRFU0RUhFdW8zd0E1X2dYaU9rMktUaDlERXl2RHZyRnozSUFwY2pLME1OVnhhckZEQVVLOWhCejVqeXpLZzhwaFpDdUZxVzlhZ2tid19TNm91YUp5ZzU5eXVX0gFuQVVfeXFMUC1vY05YZy1YdU5abkEtZy1iUHg2UkpuY0F2eWNfYlJSNDNrbktfTFNaT0U3QXV6LU9GeXUtZTJzdUh3aTJlSlNzUjhYV2xCclJULXpMTU0tdlVRb2ZYOTl2RlhYQURPY2FtaGFNcXc?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "월드컵",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pNHVvQlFOeTBEbW1WY09XOS01TlJOdVdUOG9Eb2x1MElFWVczR0wtQU1rVFFYa2RBbGx6OXVERmxfNmVDWHBMS1p5QU55OVJQWE9tY2FyWDN0STA?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "홍명보호, 16강 한·일전 예측 또 나왔다!…월드컵 본선 역사 최고의 승부 터지나?",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sWXozUGw0WjQtMUlSWk5LR0Z1R3RUcXQyNVRtQXhqV0RGcjNxNzBXak9OeVBpaEFWYkhNWTFTOTQzVUx4QTRQWFN3VmI4VEZEUU0zTGs1Y2lmenZI?oc=5",
+              "source": "네이트"
+            }
+          ],
+          "description": "2026 월드컵 한국 대표팀 유니폼이 48개국 중 40위라는 혹평을 받았다. 해외 매체에서 '피 묻은 옷 같다'는 반응까지 나오며 디자인 논란이 일고 있다. 동시에 본선 조별리그 이후 16강에서 한·일전이 성사될 수 있다는 예측이 다시 제기되며, 월드컵 본선 역사 최고의 승부에 대한 기대감도 높아지고 있다.",
+          "headline": "2026 월드컵 한국 유니폼 혹평"
         }
       ]
     }
