@@ -6,6 +6,7 @@ import AppShell from "../components/AppShell";
 import UpdatedAt from "../components/UpdatedAt";
 import { jsonLdHtml } from "../jsonld";
 import { loadHistoryData, getRecentDates, getRankChanges, getAllDates } from "../data";
+import { HERO_CATEGORY } from "../categories";
 
 type Props = { params: Promise<{ date: string }> };
 
@@ -21,7 +22,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { date } = await params;
   const data = await loadHistoryData(date);
   if (!data) return { title: "왓뉴스" };
-  const issue = data.categories["오늘의 이슈"];
+  const issue = data.categories[HERO_CATEGORY];
   const issueKeywords = issue?.keywords.slice(0, 3).map((k) => k.word) ?? [];
   const keywordStr = issueKeywords.join(" · ");
   const title = keywordStr ? `${date} 뉴스 | ${keywordStr}` : `${date} 뉴스 | 왓뉴스`;

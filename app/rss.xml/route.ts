@@ -1,6 +1,7 @@
 import { SITE_URL as BASE_URL } from "../site";
 import { loadCurrentData, loadHistoryData, getRecentDates } from "../data";
 import type { KeywordsData } from "../components/KeywordDisplay";
+import { HERO_CATEGORY } from "../categories";
 
 export const dynamic = "force-static";
 
@@ -25,7 +26,7 @@ function topKeywords(data: KeywordsData): string {
 function itemFor(date: string, data: KeywordsData): string {
   const title = `${date} 왓뉴스 키워드`;
   const link = `${BASE_URL}/${date}`;
-  const issue = data.categories["오늘의 이슈"];
+  const issue = data.categories[HERO_CATEGORY];
   const summary = issue?.summary ? `${issue.summary} ` : "";
   const description = `${summary}${topKeywords(data)}`;
   const pubDate = new Date(`${date}T00:00:00+09:00`).toUTCString();

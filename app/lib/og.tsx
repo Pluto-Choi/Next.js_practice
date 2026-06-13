@@ -1,5 +1,6 @@
 import { ImageResponse } from 'next/og'
 import type { KeywordsData } from '../components/KeywordDisplay'
+import { HERO_CATEGORY } from '../categories'
 
 export const ogSize = { width: 1200, height: 630 }
 
@@ -17,7 +18,7 @@ export async function buildOgImage(data: KeywordsData) {
   const font = await loadFont()
 
   const text = (kw: { headline?: string; word: string }) => kw.headline || kw.word
-  const issueKws = data.categories['오늘의 이슈']?.keywords.slice(0, 3) ?? []
+  const issueKws = data.categories[HERO_CATEGORY]?.keywords.slice(0, 3) ?? []
   const entTop = data.categories['연예']?.keywords[0]
   const econTop = data.categories['경제']?.keywords[0]
   const sportsTop = data.categories['스포츠']?.keywords[0]

@@ -10,10 +10,11 @@ import LeftSidebar from "./components/LeftSidebar";
 import RightSidebar from "./components/RightSidebar";
 import { jsonLdHtml } from "./jsonld";
 import { loadCurrentData, getRecentDates, getRankChanges } from "./data";
+import { HERO_CATEGORY } from "./categories";
 
 export async function generateMetadata(): Promise<Metadata> {
   const data = await loadCurrentData();
-  const issue = data.categories["오늘의 이슈"];
+  const issue = data.categories[HERO_CATEGORY];
   const issueKeywords = issue?.keywords.slice(0, 3).map((k) => k.word) ?? [];
   const keywordStr = issueKeywords.join(" · ");
   const title = keywordStr ? `왓뉴스 | ${keywordStr}` : "왓뉴스 | 핫이슈 & 경제 키워드";

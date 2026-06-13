@@ -2,6 +2,7 @@ import { cache } from "react";
 import { promises as fs } from "fs";
 import path from "path";
 import type { Article, KeywordsData, KeywordSection, KeywordSource } from "./components/KeywordDisplay";
+import { HERO_CATEGORY } from "./categories";
 
 const DATA_DIR = path.join(process.cwd(), "data");
 const HISTORY_DIR = path.join(DATA_DIR, "history");
@@ -110,7 +111,7 @@ export async function getDateArchive(): Promise<DateArchiveEntry[]> {
   return Promise.all(
     dates.map(async (date) => {
       const data = await loadHistoryData(date);
-      const issue = data?.categories["오늘의 이슈"];
+      const issue = data?.categories[HERO_CATEGORY];
       const topWords = (issue?.keywords ?? [])
         .slice(0, 3)
         .map((k) => k.headline || k.word);

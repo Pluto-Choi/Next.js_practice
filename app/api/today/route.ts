@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { loadCurrentData } from "../../data";
+import { HERO_CATEGORY } from "../../categories";
 
 // 데이터는 배포 시점에 고정(키워드 수집 → 커밋 → 재배포 주기와 동일).
 export const dynamic = "force-static";
@@ -12,7 +13,7 @@ const CORS = {
 
 export async function GET() {
   const data = await loadCurrentData();
-  const issue = data.categories["오늘의 이슈"];
+  const issue = data.categories[HERO_CATEGORY];
   return NextResponse.json(
     {
       date: data.date,
