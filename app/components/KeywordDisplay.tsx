@@ -10,6 +10,16 @@ export type Article = {
   source: string;
 };
 
+export type KeywordSection = {
+  heading: string;
+  body: string;
+};
+
+export type KeywordSource = {
+  title: string;
+  url: string;
+};
+
 export type Keyword = {
   rank: number;
   word: string;
@@ -159,7 +169,7 @@ function EmptyCategory({ category }: { category?: string }) {
         {(category ? `${categoryLabel[category] || category} ` : "")}키워드를 준비 중이에요
       </p>
       <p className="mt-1.5 text-xs text-zinc-400 dark:text-zinc-500">
-        6시간마다 자동 업데이트 · 다음 수집에서 채워집니다
+        매일 아침·저녁 자동 업데이트 · 다음 수집에서 채워집니다
       </p>
     </section>
   );

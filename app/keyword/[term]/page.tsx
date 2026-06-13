@@ -37,8 +37,9 @@ export default async function KeywordPage({ params }: Props) {
   const detail = await getKeywordDetail(term);
   if (!detail) notFound();
 
-  const { word, headline, categories, latestDate, articles, description } = detail;
+  const { word, headline, categories, latestDate, articles, description, sections, sources } = detail;
   const title = headline || word;
+  const hasSections = !!sections && sections.length > 0;
 
   // 설명문은 "1문장=오늘의 사실 / 나머지=배경·맥락" 구조로 생성된다.
   // 그 구조를 살려 리드 문장과 본문 문단으로 나눠 가독성을 높인다.
@@ -46,7 +47,8 @@ export default async function KeywordPage({ params }: Props) {
     ? description.split(/(?<=다\.)\s+/).map((s) => s.trim()).filter(Boolean)
     : [];
   const descLead = descParts[0] ?? description;
-  const descRest = descParts.slice(1).join(" ");
+  // 소제목 본문이 있으면 깊이는 소제목이 담당하므로 descRest는 생략한다(중복 방지).
+  const descRest = hasSections ? "" : descParts.slice(1).join(" ");
 
   return (
     <AppShell>
@@ -79,6 +81,45 @@ export default async function KeywordPage({ params }: Props) {
                 {descRest}
               </p>
             )}
+          </section>
+        )}
+
+        {/* === 소제목 본문 (급상승 키워드 전용, 웹 검색 근거) === */}
+        {hasSections && (
+          <div className="mb-12">
+            {sections!.map((s) => (
+              <section key={s.heading} className="mb-8 last:mb-0">
+                <h2 className="text-lg lg:text-xl font-bold tracking-tight mb-3 break-keep">
+                  {s.heading}
+                </h2>
+                <p className="text-base leading-[1.85] text-zinc-800 dark:text-zinc-200 break-keep">
+                  {s.body}
+                </p>
+              </section>
+            ))}
+          </div>
+        )}
+
+        {/* === 출처 (웹 검색 근거) === */}
+        {hasSections && sources && sources.length > 0 && (
+          <section className="mb-12">
+            <h2 className="text-sm font-bold tracking-tight mb-3 flex items-center gap-2 text-zinc-500 dark:text-zinc-400">
+              <span aria-hidden="true">🔎</span>출처
+            </h2>
+            <ul className="flex flex-col gap-1.5">
+              {sources.map((src) => (
+                <li key={src.url}>
+                  <a
+                    href={src.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xs text-zinc-500 dark:text-zinc-400 hover:text-orange-700 dark:hover:text-orange-400 transition-colors break-all"
+                  >
+                    {src.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
           </section>
         )}
 

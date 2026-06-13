@@ -1,7 +1,7 @@
 import { cache } from "react";
 import { promises as fs } from "fs";
 import path from "path";
-import type { Article, KeywordsData } from "./components/KeywordDisplay";
+import type { Article, KeywordsData, KeywordSection, KeywordSource } from "./components/KeywordDisplay";
 
 const DATA_DIR = path.join(process.cwd(), "data");
 const HISTORY_DIR = path.join(DATA_DIR, "history");
@@ -10,6 +10,24 @@ const DATE_RE = /^\d{4}-\d{2}-\d{2}\.json$/;
 export const loadCurrentData = cache(async (): Promise<KeywordsData> => {
   const raw = await fs.readFile(path.join(DATA_DIR, "keywords.json"), "utf-8");
   return JSON.parse(raw);
+});
+
+// 본문(소제목) 데이터는 keywords.json과 분리해 side file로 관리한다.
+// 수집(collect.py)은 keywords.json을 매번 덮어쓰지만 sections.json은 건드리지 않으므로,
+// 구독 플랜으로 로컬 생성한 본문이 수집 주기와 무관하게 보존된다.
+type SectionEntry = {
+  sections: KeywordSection[];
+  sources?: KeywordSource[];
+  generated_at?: string;
+};
+
+export const loadSections = cache(async (): Promise<{ [word: string]: SectionEntry }> => {
+  try {
+    const raw = await fs.readFile(path.join(DATA_DIR, "sections.json"), "utf-8");
+    return JSON.parse(raw);
+  } catch {
+    return {};
+  }
 });
 
 export type TrendEntry = {
@@ -110,6 +128,8 @@ export type KeywordDetail = {
   latestDate: string;
   description?: string;
   headline?: string;
+  sections?: KeywordSection[];
+  sources?: KeywordSource[];
   articles: Article[];
 };
 
@@ -134,6 +154,10 @@ export const getKeywordDetail = cache(async (rawTerm: string): Promise<KeywordDe
   const source = (await loadHistoryData(latest.date)) ?? (await loadCurrentData().catch(() => null));
   const keyword = source?.categories[latest.category]?.keywords.find((k) => k.word === word);
 
+  // 본문(소제목)은 side file(sections.json)에서 키워드 단어로 조회한다.
+  // 없으면 description 폴백이 자동으로 동작한다(page.tsx의 hasSections 분기).
+  const sectionEntry = (await loadSections())[word];
+
   return {
     word,
     entries: sorted,
@@ -143,6 +167,8 @@ export const getKeywordDetail = cache(async (rawTerm: string): Promise<KeywordDe
     latestDate: latest.date,
     description: keyword?.description,
     headline: keyword?.headline,
+    sections: sectionEntry?.sections,
+    sources: sectionEntry?.sources,
     articles: keyword?.articles ?? [],
   };
 });

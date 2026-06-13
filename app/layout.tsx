@@ -22,7 +22,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: "왓뉴스 | 핫이슈 · 연예 · 경제 키워드",
-  description: "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.",
+  description: "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 매일 아침·저녁 자동 업데이트.",
   keywords: ["왓뉴스", "핫이슈", "연예 뉴스", "경제 키워드", "경제 뉴스", "트렌드 키워드", "오늘의 이슈", "K팝"],
   applicationName: "왓뉴스",
   robots: {
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "왓뉴스 | 핫이슈 · 연예 · 경제 키워드",
-    description: "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.",
+    description: "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 매일 아침·저녁 자동 업데이트.",
     url: `${SITE_URL}/`,
     siteName: "왓뉴스",
     locale: "ko_KR",
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "왓뉴스 | 핫이슈 · 연예 · 경제 키워드",
-    description: "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.",
+    description: "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 매일 아침·저녁 자동 업데이트.",
   },
   verification: {
     google: [

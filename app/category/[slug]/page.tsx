@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const words = data.categories[cat.name]?.keywords.slice(0, 3).map((k) => k.word) ?? [];
   const kw = words.join(" · ");
   const title = `${cat.name} 키워드${kw ? ` | ${kw}` : ""} - 왓뉴스`;
-  const description = `오늘의 ${cat.name} 뉴스 키워드 TOP5.${kw ? ` ${kw} 등.` : ""} 6시간마다 자동 업데이트.`;
+  const description = `오늘의 ${cat.name} 뉴스 키워드 TOP5.${kw ? ` ${kw} 등.` : ""} 매일 아침·저녁 자동 업데이트.`;
   return {
     title,
     description,
@@ -85,7 +85,7 @@ export default async function CategoryPage({ params }: Props) {
         <KeywordDisplay data={single} rankChanges={rankChanges} />
 
         <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pb-4">
-          6시간마다 자동 업데이트 · Google News RSS 기반
+          매일 아침·저녁 자동 업데이트 · Google News RSS 기반
         </p>
     </AppShell>
   );

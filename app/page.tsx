@@ -19,7 +19,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const title = keywordStr ? `왓뉴스 | ${keywordStr}` : "왓뉴스 | 핫이슈 & 경제 키워드";
   const description = issue?.summary
     ? `${data.date} 오늘의 핫이슈 — ${issue.summary}`
-    : "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.";
+    : "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 매일 아침·저녁 자동 업데이트.";
   // 키워드는 매일 바뀌지만 og:image 경로는 고정이라 메신저가 옛 이미지를 캐시함.
   // 날짜+1위 키워드로 버전을 붙여 미리보기 캐시를 매일 갱신시킨다.
   const ogImage = `/opengraph-image?v=${encodeURIComponent(`${data.date}-${issueKeywords[0] ?? ""}`)}`;
@@ -108,7 +108,7 @@ export default async function Home() {
         </div>
 
         <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pb-4">
-          6시간마다 자동 업데이트 · Google News RSS 기반
+          매일 아침·저녁 자동 업데이트 · Google News RSS 기반
         </p>
         </main>
 

@@ -34,7 +34,7 @@ export function buildJsonLd(data: KeywordsData) {
         name: "왓뉴스",
         alternateName: ["오늘의뉴스", "오늘 뉴스 키워드", "실시간 뉴스 키워드"],
         description:
-          "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.",
+          "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 매일 아침·저녁 자동 업데이트.",
         inLanguage: "ko-KR",
         publisher: { "@id": `${SITE}/#org` },
         potentialAction: {

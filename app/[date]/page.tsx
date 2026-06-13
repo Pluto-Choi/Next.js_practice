@@ -101,7 +101,7 @@ export default async function HistoryPage({ params }: Props) {
         <KeywordDisplay data={data} rankChanges={rankChanges} />
 
         <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pb-4">
-          6시간마다 자동 업데이트 · Google News RSS 기반
+          매일 아침·저녁 자동 업데이트 · Google News RSS 기반
         </p>
     </AppShell>
   );

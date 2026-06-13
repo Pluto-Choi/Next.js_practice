@@ -21,7 +21,7 @@ const SECTIONS: Section[] = [
     title: "왓뉴스란?",
     body: (
       <>
-        Google News를 6시간마다 자동 분석해서 지금 가장 많이 다뤄지는 뉴스
+        Google News를 매일 아침·저녁 자동 분석해서 지금 가장 많이 다뤄지는 뉴스
         키워드를 카테고리별 TOP5로 추려 보여주는 서비스예요. 긴 기사를 다
         읽지 않아도 오늘 무슨 일이 있었는지 한눈에 파악할 수 있어요.
       </>
@@ -147,7 +147,7 @@ export default function GuidePage() {
         </div>
 
         <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pt-6 pb-4">
-          6시간마다 자동 업데이트 · Google News RSS 기반
+          매일 아침·저녁 자동 업데이트 · Google News RSS 기반
         </p>
       </div>
     </AppShell>

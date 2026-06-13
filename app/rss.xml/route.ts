@@ -66,7 +66,7 @@ export async function GET() {
     <title>왓뉴스 | 핫이슈 · 연예 · 경제 키워드</title>
     <link>${BASE_URL}</link>
     <atom:link href="${BASE_URL}/rss.xml" rel="self" type="application/rss+xml" />
-    <description>오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 6시간마다 자동 업데이트.</description>
+    <description>오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 매일 아침·저녁 자동 업데이트.</description>
     <language>ko</language>
     <lastBuildDate>${lastBuild}</lastBuildDate>
 ${items.join("\n")}
