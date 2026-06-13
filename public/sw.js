@@ -76,13 +76,19 @@ self.addEventListener('push', (event) => {
 
 self.addEventListener('notificationclick', (event) => {
   event.notification.close()
-  const url = (event.notification.data && event.notification.data.url) || '/'
+  // 푸시 페이로드의 url은 신뢰하지 않는다. 같은 오리진으로만 이동시켜 오픈 리다이렉트를 막는다.
+  const raw = (event.notification.data && event.notification.data.url) || '/'
+  let target = '/'
+  try {
+    const resolved = new URL(raw, self.location.origin)
+    if (resolved.origin === self.location.origin) target = resolved.pathname + resolved.search
+  } catch {}
   event.waitUntil(
     self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then((clientList) => {
       for (const client of clientList) {
-        if (client.url.includes(url) && 'focus' in client) return client.focus()
+        if (client.url.includes(target) && 'focus' in client) return client.focus()
       }
-      if (self.clients.openWindow) return self.clients.openWindow(url)
+      if (self.clients.openWindow) return self.clients.openWindow(target)
     })
   )
 })

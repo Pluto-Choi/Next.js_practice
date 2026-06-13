@@ -9,6 +9,10 @@ import { loadHistoryData, getRecentDates, getRankChanges, getAllDates } from "..
 
 type Props = { params: Promise<{ date: string }> };
 
+// 데이터는 빌드 시점 고정(수집→커밋→재배포). 미생성 날짜는 온디맨드로 렌더하지 않고
+// 404 처리해 임의 파라미터가 서버 함수에 닿는 표면을 제거한다.
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   return (await getAllDates()).map((date) => ({ date }));
 }

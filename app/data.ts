@@ -45,6 +45,8 @@ export const loadTrends = cache(async (): Promise<TrendsData | null> => {
 });
 
 export const loadHistoryData = cache(async (date: string): Promise<KeywordsData | null> => {
+  // 경로 조작 방지: YYYY-MM-DD 형식만 파일 시스템에 닿게 한다(심층 방어).
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return null;
   try {
     const raw = await fs.readFile(path.join(HISTORY_DIR, `${date}.json`), "utf-8");
     return JSON.parse(raw);

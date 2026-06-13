@@ -8,6 +8,9 @@ import { cleanTitle } from "../../lib/format";
 
 type Props = { params: Promise<{ term: string }> };
 
+// 키워드는 빌드 시점 수집 데이터로 고정. 미생성 키워드는 온디맨드 렌더 대신 404.
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   return (await getAllKeywords()).map((term) => ({ term }));
 }

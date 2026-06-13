@@ -26,6 +26,30 @@ function isAllowedEndpoint(endpoint: string): boolean {
   }
 }
 
+// IP당 간단한 슬라이딩 윈도(1분 20회). 서버리스 인스턴스 단위라 완벽하진 않지만
+// 단일 출처의 폭주성 구독 스팸을 저비용으로 차단한다.
+const RATE_LIMIT = 20
+const RATE_WINDOW_MS = 60_000
+const hits = new Map<string, number[]>()
+
+function rateLimited(req: Request): boolean {
+  const ip = req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown"
+  const now = Date.now()
+  const recent = (hits.get(ip) ?? []).filter((t) => now - t < RATE_WINDOW_MS)
+  recent.push(now)
+  hits.set(ip, recent)
+  // 메모리 누수 방지: 가끔 오래된 IP 정리.
+  if (hits.size > 5000) {
+    for (const [k, v] of hits) if (v.every((t) => now - t >= RATE_WINDOW_MS)) hits.delete(k)
+  }
+  return recent.length > RATE_LIMIT
+}
+
+// 푸시 구독 키는 base64url 고정 길이대(p256dh 87, auth 22 내외). 과대 입력 차단.
+function isValidKey(v: unknown, max: number): v is string {
+  return typeof v === "string" && v.length > 0 && v.length <= max
+}
+
 function supabaseHeaders() {
   return {
     apikey: SUPABASE_SERVICE_KEY as string,
@@ -39,6 +63,10 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: 'not configured' }, { status: 503 })
   }
 
+  if (rateLimited(req)) {
+    return NextResponse.json({ error: 'rate limited' }, { status: 429 })
+  }
+
   let sub: PushSubscriptionJSON
   try {
     sub = await req.json()
@@ -46,11 +74,11 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: 'invalid body' }, { status: 400 })
   }
 
-  if (!sub?.endpoint || !sub?.keys?.p256dh || !sub?.keys?.auth) {
+  if (!sub?.endpoint || !isValidKey(sub?.keys?.p256dh, 256) || !isValidKey(sub?.keys?.auth, 256)) {
     return NextResponse.json({ error: 'invalid subscription' }, { status: 400 })
   }
 
-  if (!isAllowedEndpoint(sub.endpoint)) {
+  if (typeof sub.endpoint !== "string" || sub.endpoint.length > 2048 || !isAllowedEndpoint(sub.endpoint)) {
     return NextResponse.json({ error: 'invalid endpoint' }, { status: 400 })
   }
 
@@ -76,14 +104,20 @@ export async function DELETE(req: Request) {
     return NextResponse.json({ error: 'not configured' }, { status: 503 })
   }
 
+  if (rateLimited(req)) {
+    return NextResponse.json({ error: 'rate limited' }, { status: 429 })
+  }
+
   let body: { endpoint?: string }
   try {
     body = await req.json()
   } catch {
     return NextResponse.json({ error: 'invalid body' }, { status: 400 })
   }
-  if (!body?.endpoint) {
-    return NextResponse.json({ error: 'endpoint required' }, { status: 400 })
+  // 구독 해지는 endpoint 문자열만으로 동작한다(브라우저가 자기 구독을 해지하는 정상 패턴).
+  // 임의 입력으로 DB를 긁지 못하게 정식 푸시 엔드포인트 형식만 허용한다.
+  if (!body?.endpoint || typeof body.endpoint !== "string" || body.endpoint.length > 2048 || !isAllowedEndpoint(body.endpoint)) {
+    return NextResponse.json({ error: 'invalid endpoint' }, { status: 400 })
   }
 
   const res = await fetch(

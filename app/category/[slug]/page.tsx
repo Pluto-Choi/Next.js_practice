@@ -10,6 +10,9 @@ import { loadCurrentData, getRankChanges } from "../../data";
 
 type Props = { params: Promise<{ slug: string }> };
 
+// 카테고리는 고정 화이트리스트. 그 외 slug는 온디맨드 렌더 대신 404.
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return CATEGORIES.map((c) => ({ slug: c.slug }));
 }

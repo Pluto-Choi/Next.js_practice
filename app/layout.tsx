@@ -102,13 +102,15 @@ export default function RootLayout({
         {/* Pretendard를 렌더 비차단으로 로드한다 (media=print → onload 시 all). */}
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css';l.media='print';l.onload=function(){this.media='all'};document.head.appendChild(l);})();`,
+            __html: `(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css';l.integrity='sha384-GIdEBaqGN9mNkDkMkzMHW8EKUqtpPIe/sLj1X7DIrnc9uPtLROJgmuDlh+3rBw0j';l.crossOrigin='anonymous';l.media='print';l.onload=function(){this.media='all'};document.head.appendChild(l);})();`,
           }}
         />
         <noscript>
           <link
             rel="stylesheet"
             href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
+            integrity="sha384-GIdEBaqGN9mNkDkMkzMHW8EKUqtpPIe/sLj1X7DIrnc9uPtLROJgmuDlh+3rBw0j"
+            crossOrigin="anonymous"
           />
         </noscript>
       </head>
