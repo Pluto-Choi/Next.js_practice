@@ -2,7 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import KeywordDisplay from "../components/KeywordDisplay";
-import SiteHeader from "../components/SiteHeader";
+import AppShell from "../components/AppShell";
 import UpdatedAt from "../components/UpdatedAt";
 import { jsonLdHtml } from "../jsonld";
 import { loadHistoryData, getRecentDates, getRankChanges, getAllDates } from "../data";
@@ -58,13 +58,11 @@ export default async function HistoryPage({ params }: Props) {
   const rankChanges = await getRankChanges(data);
 
   return (
-    <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
+    <AppShell>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(data) }}
       />
-      <SiteHeader widthClass="max-w-lg lg:max-w-5xl" />
-      <main id="main-content" tabIndex={-1} className="max-w-lg lg:max-w-5xl mx-auto px-4 py-6">
 
         <h1 className="sr-only">{date} 뉴스 키워드 — 핫이슈 · 연예 · 경제 TOP5</h1>
 
@@ -105,7 +103,6 @@ export default async function HistoryPage({ params }: Props) {
         <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pb-4">
           6시간마다 자동 업데이트 · Google News RSS 기반
         </p>
-      </main>
-    </div>
+    </AppShell>
   );
 }

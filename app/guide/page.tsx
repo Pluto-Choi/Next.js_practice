@@ -1,7 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import Logo from "../components/Logo";
-import ThemeToggle from "../components/ThemeToggle";
+import AppShell from "../components/AppShell";
 import { CATEGORIES, categoryLabel } from "../categories";
 
 export const metadata: Metadata = {
@@ -125,26 +124,11 @@ const SECTIONS: Section[] = [
 
 export default function GuidePage() {
   return (
-    <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
-      <main id="main-content" tabIndex={-1} className="max-w-lg mx-auto px-4 py-6">
-        <div className="relative mb-8 text-center">
-          <ThemeToggle />
-          <div className="flex justify-center mb-2">
-            <Logo />
-          </div>
-          <p className="text-xs text-zinc-500 dark:text-zinc-400">
-            ❓ 이용 가이드
-          </p>
-        </div>
-
-        <div className="flex gap-2 mb-6 justify-center flex-wrap" role="navigation" aria-label="이동">
-          <Link
-            href="/"
-            className="px-3 py-2.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
-          >
-            ← 왓뉴스
-          </Link>
-        </div>
+    <AppShell>
+      <div className="max-w-2xl">
+        <p className="mb-6 text-center text-xs text-zinc-500 dark:text-zinc-400">
+          ❓ 이용 가이드
+        </p>
 
         <div className="space-y-3">
           {SECTIONS.map((s) => (
@@ -165,7 +149,7 @@ export default function GuidePage() {
         <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pt-6 pb-4">
           6시간마다 자동 업데이트 · Google News RSS 기반
         </p>
-      </main>
-    </div>
+      </div>
+    </AppShell>
   );
 }

@@ -1,7 +1,6 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import SiteHeader from "../../components/SiteHeader";
+import AppShell from "../../components/AppShell";
 import { getAllKeywords, getKeywordDetail } from "../../data";
 import { categoryEmoji, categoryLabel } from "../../categories";
 import { cleanTitle } from "../../lib/format";
@@ -50,25 +49,8 @@ export default async function KeywordPage({ params }: Props) {
   const descRest = descParts.slice(1).join(" ");
 
   return (
-    <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
-      <SiteHeader widthClass="max-w-2xl" />
-      <main id="main-content" tabIndex={-1} className="max-w-2xl mx-auto px-5 py-8 lg:py-10">
-        {/* 데스크탑 네비 (모바일은 하단 탭바가 담당) */}
-        <div className="hidden lg:flex gap-2 mb-8" role="navigation" aria-label="이동">
-          <Link
-            href="/"
-            className="px-3 py-2 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
-          >
-            ← 왓뉴스
-          </Link>
-          <Link
-            href="/trends"
-            className="px-3 py-2 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
-          >
-            📊 트렌드
-          </Link>
-        </div>
-
+    <AppShell>
+      <div className="max-w-2xl lg:py-2">
         {/* === 문서 헤더 (노션 타이틀 블록) === */}
         <header className="mb-8 pb-6 border-b border-zinc-200 dark:border-zinc-800">
           <div className="flex flex-wrap items-center gap-x-2 gap-y-1 mb-3 text-xs text-zinc-500 dark:text-zinc-400">
@@ -130,7 +112,7 @@ export default async function KeywordPage({ params }: Props) {
         <p className="text-zinc-400 dark:text-zinc-500 text-xs pb-4">
           누적 수집 데이터 기반 · Google News RSS
         </p>
-      </main>
-    </div>
+      </div>
+    </AppShell>
   );
 }

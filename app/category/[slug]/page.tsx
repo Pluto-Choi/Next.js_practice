@@ -2,7 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import KeywordDisplay, { type KeywordsData } from "../../components/KeywordDisplay";
-import SiteHeader from "../../components/SiteHeader";
+import AppShell from "../../components/AppShell";
 import { jsonLdHtml } from "../../jsonld";
 import { CATEGORIES, categoryBySlug, categoryLabel } from "../../categories";
 import { SITE_URL as SITE } from "../../site";
@@ -47,13 +47,11 @@ export default async function CategoryPage({ params }: Props) {
   const rankChanges = await getRankChanges(single);
 
   return (
-    <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
+    <AppShell>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(single) }}
       />
-      <SiteHeader />
-      <main id="main-content" tabIndex={-1} className="max-w-lg mx-auto px-4 py-6">
 
         <h1 className="sr-only">{cat.name} 뉴스 키워드 TOP5 — {data.date}</h1>
 
@@ -89,7 +87,6 @@ export default async function CategoryPage({ params }: Props) {
         <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pb-4">
           6시간마다 자동 업데이트 · Google News RSS 기반
         </p>
-      </main>
-    </div>
+    </AppShell>
   );
 }
