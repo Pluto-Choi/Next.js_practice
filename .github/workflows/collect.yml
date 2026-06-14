@@ -2,7 +2,8 @@ name: Collect Daily Keywords
 
 on:
   schedule:
-    - cron: '0 22,9 * * *'  # 하루 2번 출퇴근 시간 (UTC 22:00, 09:00 → KST 07:00, 18:00)
+    - cron: '0 21 * * *'   # 06:00 KST (UTC 21:00) — 출근 피크(7시) 전 완료 목표
+    - cron: '30 8 * * *'   # 17:30 KST (UTC 08:30) — 퇴근 전
   workflow_dispatch:        # 수동 실행 가능
 
 env:
