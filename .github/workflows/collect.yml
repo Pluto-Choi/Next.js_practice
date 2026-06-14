@@ -89,6 +89,23 @@ jobs:
         run: |
           curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
 
+      # 수집 성공 직후 급상승 본문 생성 루틴을 즉시 호출(이벤트 체이닝).
+      # 고정 시각 추측 대신 키워드가 푸시된 그 순간 본문이 따라붙는다.
+      - name: 급상승 본문 생성 루틴 호출 (fire)
+        env:
+          ROUTINE_FIRE_URL: ${{ secrets.ROUTINE_FIRE_URL }}
+          ROUTINE_FIRE_TOKEN: ${{ secrets.ROUTINE_FIRE_TOKEN }}
+        run: |
+          if [ -z "$ROUTINE_FIRE_TOKEN" ] || [ -z "$ROUTINE_FIRE_URL" ]; then
+            echo "ROUTINE_FIRE_* 미설정 — 본문 루틴 호출 건너뜀"; exit 0
+          fi
+          curl -fsS -X POST "$ROUTINE_FIRE_URL" \
+            -H "Authorization: Bearer $ROUTINE_FIRE_TOKEN" \
+            -H "anthropic-version: 2023-06-01" \
+            -H "anthropic-beta: experimental-cc-routine-2026-04-01" \
+            -H "Content-Type: application/json" \
+            -d '{"text": "키워드 수집 완료 — 급상승 본문 생성해줘."}'
+
       - name: Discord 수집 완료 알림
         if: always()
         env:
