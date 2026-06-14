@@ -71,6 +71,12 @@ details[open] > div {
   to { opacity: 1; }
 }
 
+/* 모바일 카테고리 시트 패널: 하단에서 위로 슬라이드(바텀시트 관습). */
+@keyframes slideUp {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+
 @starting-style {
   details[open] > div {
     opacity: 0;

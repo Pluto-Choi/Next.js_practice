@@ -84,7 +84,7 @@ export default function MobileTabBar() {
             className="absolute inset-0 bg-black/40 animate-[fadeIn_0.15s_ease]"
             onClick={() => setSheetOpen(false)}
           />
-          <div className="absolute inset-x-0 bottom-0 rounded-t-2xl bg-white dark:bg-zinc-900 border-t border-zinc-200 dark:border-zinc-800 pb-[calc(env(safe-area-inset-bottom)+1rem)] pt-2">
+          <div className="absolute inset-x-0 bottom-0 rounded-t-2xl bg-white dark:bg-zinc-900 border-t border-zinc-200 dark:border-zinc-800 pb-[calc(env(safe-area-inset-bottom)+1rem)] pt-2 animate-[slideUp_0.22s_cubic-bezier(0.16,1,0.3,1)]">
             <div className="mx-auto mb-2 h-1 w-10 rounded-full bg-zinc-300 dark:bg-zinc-700" />
             <p className="px-5 pb-2 text-xs font-semibold uppercase tracking-wide text-zinc-400 dark:text-zinc-500">
               카테고리
