@@ -62,6 +62,8 @@ stopwords_economy = stopwords_common | {
     '자금',
     # 경제 방향성 동사명사(무엇이 올랐는지가 중요하지 오름 자체는 키워드가 아님)
     '상승', '하락',
+    # 경제 행위 동사명사(무엇에 투자하는지가 중요하지 투자 행위 자체는 키워드가 아님)
+    '투자',
 }
 
 stopwords_entertainment = stopwords_common | {
