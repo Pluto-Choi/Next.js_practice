@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17 21:35",
-  "days": 36,
+  "generated_at": "2026-06-18 07:46",
+  "days": 37,
   "keywords": {
     "이란": [
       {
@@ -104,6 +104,12 @@
         "category": "오늘의 이슈",
         "rank": 5,
         "count": 2
+      },
+      {
+        "date": "2026-06-18",
+        "category": "오늘의 이슈",
+        "rank": 3,
+        "count": 2
       }
     ],
     "미국": [
@@ -197,6 +203,12 @@
         "date": "2026-06-16",
         "category": "오늘의 이슈",
         "rank": 2,
+        "count": 3
+      },
+      {
+        "date": "2026-06-18",
+        "category": "오늘의 이슈",
+        "rank": 1,
         "count": 3
       }
     ],
@@ -754,6 +766,12 @@
         "category": "경제",
         "rank": 5,
         "count": 3
+      },
+      {
+        "date": "2026-06-18",
+        "category": "경제",
+        "rank": 1,
+        "count": 5
       }
     ],
     "증시": [
@@ -2374,6 +2392,12 @@
         "category": "스포츠",
         "rank": 1,
         "count": 17
+      },
+      {
+        "date": "2026-06-18",
+        "category": "스포츠",
+        "rank": 1,
+        "count": 16
       }
     ],
     "시장": [
@@ -2532,6 +2556,12 @@
         "category": "오늘의 이슈",
         "rank": 1,
         "count": 3
+      },
+      {
+        "date": "2026-06-18",
+        "category": "오늘의 이슈",
+        "rank": 4,
+        "count": 2
       }
     ],
     "미사일": [
@@ -2970,6 +3000,12 @@
         "category": "연예",
         "rank": 1,
         "count": 3
+      },
+      {
+        "date": "2026-06-18",
+        "category": "연예",
+        "rank": 1,
+        "count": 3
       }
     ],
     "젠슨 황": [
@@ -3193,6 +3229,12 @@
       },
       {
         "date": "2026-06-16",
+        "category": "오늘의 이슈",
+        "rank": 5,
+        "count": 2
+      },
+      {
+        "date": "2026-06-18",
         "category": "오늘의 이슈",
         "rank": 5,
         "count": 2
@@ -3426,6 +3468,12 @@
         "category": "경제",
         "rank": 1,
         "count": 4
+      },
+      {
+        "date": "2026-06-18",
+        "category": "경제",
+        "rank": 3,
+        "count": 3
       }
     ],
     "투자": [
@@ -3473,6 +3521,12 @@
         "date": "2026-06-13",
         "category": "스포츠",
         "rank": 1,
+        "count": 3
+      },
+      {
+        "date": "2026-06-18",
+        "category": "스포츠",
+        "rank": 2,
         "count": 3
       }
     ],
@@ -3734,6 +3788,12 @@
         "category": "연예",
         "rank": 1,
         "count": 2
+      },
+      {
+        "date": "2026-06-18",
+        "category": "연예",
+        "rank": 4,
+        "count": 2
       }
     ],
     "빅뱅": [
@@ -3782,6 +3842,12 @@
         "category": "오늘의 이슈",
         "rank": 1,
         "count": 3
+      },
+      {
+        "date": "2026-06-18",
+        "category": "오늘의 이슈",
+        "rank": 2,
+        "count": 3
       }
     ],
     "국힘": [
@@ -3798,6 +3864,12 @@
         "category": "경제",
         "rank": 3,
         "count": 3
+      },
+      {
+        "date": "2026-06-18",
+        "category": "경제",
+        "rank": 2,
+        "count": 4
       }
     ],
     "수출": [
@@ -3813,6 +3885,12 @@
         "date": "2026-06-17",
         "category": "연예",
         "rank": 2,
+        "count": 2
+      },
+      {
+        "date": "2026-06-18",
+        "category": "연예",
+        "rank": 3,
         "count": 2
       }
     ],
@@ -3830,6 +3908,12 @@
         "category": "연예",
         "rank": 5,
         "count": 2
+      },
+      {
+        "date": "2026-06-18",
+        "category": "연예",
+        "rank": 2,
+        "count": 2
       }
     ],
     "랭킹": [
@@ -3846,6 +3930,52 @@
         "category": "스포츠",
         "rank": 4,
         "count": 3
+      },
+      {
+        "date": "2026-06-18",
+        "category": "스포츠",
+        "rank": 3,
+        "count": 3
+      }
+    ],
+    "상장": [
+      {
+        "date": "2026-06-18",
+        "category": "경제",
+        "rank": 4,
+        "count": 3
+      }
+    ],
+    "카드": [
+      {
+        "date": "2026-06-18",
+        "category": "경제",
+        "rank": 5,
+        "count": 3
+      }
+    ],
+    "권은빈": [
+      {
+        "date": "2026-06-18",
+        "category": "연예",
+        "rank": 5,
+        "count": 2
+      }
+    ],
+    "응원": [
+      {
+        "date": "2026-06-18",
+        "category": "스포츠",
+        "rank": 4,
+        "count": 3
+      }
+    ],
+    "훈련장": [
+      {
+        "date": "2026-06-18",
+        "category": "스포츠",
+        "rank": 5,
+        "count": 2
       }
     ]
   },
@@ -3870,9 +4000,9 @@
       {
         "word": "월드컵",
         "category": "스포츠",
-        "streak": 4,
+        "streak": 5,
         "start": "2026-06-14",
-        "end": "2026-06-17",
+        "end": "2026-06-18",
         "ai_summary": null
       },
       {
@@ -3936,9 +4066,9 @@
       {
         "word": "월드컵",
         "category": "스포츠",
-        "streak": 4,
+        "streak": 5,
         "start": "2026-06-14",
-        "end": "2026-06-17",
+        "end": "2026-06-18",
         "ai_summary": null
       },
       {
@@ -4002,9 +4132,9 @@
       {
         "word": "월드컵",
         "category": "스포츠",
-        "streak": 4,
+        "streak": 5,
         "start": "2026-06-14",
-        "end": "2026-06-17",
+        "end": "2026-06-18",
         "ai_summary": null
       },
       {
@@ -4068,9 +4198,9 @@
       {
         "word": "월드컵",
         "category": "스포츠",
-        "streak": 4,
+        "streak": 5,
         "start": "2026-06-14",
-        "end": "2026-06-17",
+        "end": "2026-06-18",
         "ai_summary": null
       },
       {
