@@ -1,20 +1,41 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 
 // 오늘 화제 키워드를 클라이언트에서 즉시 필터 → /keyword/[term] 추이 페이지로 점프.
 export default function KeywordSearch({ keywords }: { keywords: string[] }) {
   const [query, setQuery] = useState("");
   const q = query.trim().toLowerCase();
+  const wrapRef = useRef<HTMLDivElement>(null);
 
   const matches = useMemo(() => {
     if (!q) return [];
     return keywords.filter((w) => w.toLowerCase().includes(q)).slice(0, 8);
   }, [q, keywords]);
 
+  // 모바일은 hover가 없어 드롭다운이 한 번 열리면 결과 외 영역을 탭해도 닫히지
+  // 않고 본문을 가린다. 바깥 탭/Esc로 닫아 준다.
+  useEffect(() => {
+    if (!q) return;
+    const onPointerDown = (e: PointerEvent) => {
+      if (wrapRef.current && !wrapRef.current.contains(e.target as Node)) {
+        setQuery("");
+      }
+    };
+    const onKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setQuery("");
+    };
+    document.addEventListener("pointerdown", onPointerDown);
+    document.addEventListener("keydown", onKeyDown);
+    return () => {
+      document.removeEventListener("pointerdown", onPointerDown);
+      document.removeEventListener("keydown", onKeyDown);
+    };
+  }, [q]);
+
   return (
-    <div className="relative mb-5">
+    <div ref={wrapRef} className="relative mb-5">
       <label htmlFor="kw-search" className="sr-only">
         키워드 검색
       </label>
