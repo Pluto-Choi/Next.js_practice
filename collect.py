@@ -65,6 +65,8 @@ stopwords_economy = stopwords_common | {
     '상승', '하락', '급등',
     # 경제 행위 동사명사(무엇에 투자하는지가 중요하지 투자 행위 자체는 키워드가 아님)
     '투자',
+    # 동작·과정 명사 — 무엇이 시작하는지가 중요하지 시작 행위 자체는 키워드가 아님
+    '시작',
 }
 
 stopwords_entertainment = stopwords_common | {
@@ -78,6 +80,8 @@ stopwords_entertainment = stopwords_common | {
     '감독', '시즌', '콘텐츠',
     # 토픽피드(ENTERTAINMENT) 전환 후 올라오는 일반명사·섹션라벨 노이즈
     '공개', '근황', '자택', '댓글', '성공', '사태', '아들', '스타이슈',
+    # 이웃: 노래 제목·법원 판결·생활정보 기사에 흩어지는 분산 노이즈 — 연예 키워드 아님
+    '이웃',
 }
 
 stopwords_sports = stopwords_common | {
