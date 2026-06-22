@@ -1,379 +1,445 @@
 {
   "date": "2026-06-22",
-  "updated_at": "2026-06-22 07:15",
+  "updated_at": "2026-06-22 23:12",
   "categories": {
     "오늘의 이슈": {
-      "summary": "레바논 · 주택 · 수석 · 월드컵 · 응원",
+      "summary": "이란 · 민주당 · 가입 · 검찰 · 판결문",
       "keywords": [
         {
           "rank": 1,
-          "word": "레바논",
+          "word": "이란",
           "count": 2,
           "articles": [
             {
-              "title": "트럼프 \"이란이 레바논 대리세력 막지 않으면 다시 타격할 것\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jdWtyREcwckhIcGJnb084YjhZN1NIekJNMnZYdGZ2eWE4dVpxTkllbVZNVkYyWUFpLV9jZkFYdDdGWHhDUURnVGVGRGhzT0wxQnZ6bjdiOW42YTgtcTJyYVZLMVlxa2p1Y1Z3cFNMRDRVS0FD0gF0QVVfeXFMUHV5YlM1emZVWGtleF95ZkFIUVQ0eS1MaDM1d3RDNUZQOHRPNXN0UkRHeW1CSDRDQzBLUXNoSWF0Ym9YX1B0TG1VUDhTOEhVZHk4cFpwMl94XzUtdzltT2pmSkR0WU9RV05HdWFncVZsVzBHS0M?oc=5",
-              "source": "MBC 뉴스"
+              "title": "美부통령 \"이란, IAEA 핵사찰단 복귀 동의…이번주 활동 재개\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBObG5URTlXbUcwZy1VM2pzclpjRGRQcVR5ZVQtYno2LWhmZzRxb2Q1aHllcHdSbHJKcnY2TDFfMmwwY1lqcTBCQmcwUjVQcmg5eGg4NFVya2ctV03SAWBBVV95cUxNdURtMS1CWFFjalBkOTBrNjl3UlhJblJ2UVdJSzFKMnlsTnI3dUxMZGJ3UXFoWEFiclFid0t6ZlBZMzRYc0ZCRU1FM0dpV3JKOTFpeVRMYTJfUzI0bTVOdFY?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "이스라엘엔 아무 의미 없는 ‘휴전 합의’···또 레바논 남부 때려 5명 사망",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYbFhfdE56VGdNQm5lSy12clFVVEZidW80ZTY5dURqdHphd0lRSFhjdlQwS3lTMW4wMzlSRkhrZjNLQjdRUTZ6UVhDRkthOFNoYlpJRjdaOVA3d9IBX0FVX3lxTE02bDJqSlp5X2l6ZHQxQzNaMVVlUjRRdDl3SHFJRHJhcUFzdHhqTHNsNkc0SHprMG1EbnU2QnFKd2ZOZmVpWFFGUjZfY19vV2NmSVpnYVJUbTNoblh2Zmxj?oc=5",
-              "source": "경향신문"
+              "title": "밴스 “이란, IAEA 사찰단 접근 허용”…동결자금 용도는 이견",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lWnJEUW1fVjI4WWNvVUZoVE50dVFLVWZKRW5EWkhFeUJ5TWJCMGxRQ0tqdnAzcXNqOHB1OU15QktqdWlma3ZvRkkxNkZ0U0g4V2NiYkhpSDFNRGZZNmZpZnItWngwR2x4ZUlEVGQzRTFTa1XSAWZBVV95cUxPc3dZMjdRcXpDQkhxRFZfS2JYV1VCdHRPNzlVMVpqYUFudWRUaGlQZXVqWHpadkVtRS1CMlVtSzV0SnNWSkJFcmhicnNZMHZsYm5ETnFObU9qTm14WEQyc2JXT0R4dnc?oc=5",
+              "source": "동아일보"
             },
             {
-              "title": "시리아 대통령 \"레바논 군사개입 생각 없다\"…트럼프 구상에 선긋기",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsWFlTSjRPM0xxX25jN0JjNGw2Z09XYktpWkg3MHM1ZWFVOG42NEc3WFoxODd4Zno3T0E1TzdNakpxOHZ2MmswYmF5WGRRUmxlYlhPN0Zqb29CNEhIMElZQjlR?oc=5",
-              "source": "뉴스1"
+              "title": "밴스 美 부통령 \"미국산 대두·밀 구매 위해 이란 자산 동결 해제\" 시사",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40ZEJKTjJaQndscXhhYnlpQ0Z4YmRjaW1MUGhTOUtybU1vZ25Qd1E2dnh2S2owdkVFdXhxWjFXLWc3Um1GUEw2cVpiSXRIaTg?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "주택",
+          "word": "민주당",
           "count": 2,
           "articles": [
             {
-              "title": "공정가액비율 대폭 올릴 듯… 다주택·고가1주택 ‘핀셋 증세’ 거론",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2JlTlFUOWNva0dGbWw1aFlrOFBGSU0wM2FPVFZkdF9XWFJMcEx2NjNfZjZLREo5MTBsaUJUbWp5QmlHbk9ucHJQQXczNENNTDJSZmx2Vkw1d0VBbVRRcDluOU1yUFVwdFpDR3ZTVl9lay1jRTk0aVJwREp0OFBpTVJrRVRsZFZk?oc=5",
+              "title": "고민정 \"2030에게 민주당은 위선적 기득권\"…\"이대론 총선도 어렵다\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VMVZzQ292MTJrREwzWTZvQUVqeDZHVHpoUjIybi0xOGYtUkR1YVlnSVlmYzVmenlDaC1KdDZMNHpTSjZnYzhRMDlPUmRobTBzd1o0Q29tdGJxS29tLXNTdUJ2N1Y5RjJxYWc?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "충남도, '공동주택 골조단계 합동 품질점검단' 활동 시작",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95TDBtUkVOeWdXazg3OTJIb25LY0U1VElScVFOVWpCTkdWbmt4eENHdGhfeUxkV293YUFIUlAxU2ZHUE96bmRkVm1NVFZFZno5RnMwdXlUd0JYZ0HSAWBBVV95cUxNME9PWWliYlcyQkJKczFzZXR4LTk4eTVnOXFqMmNXTThCZUxfMGgyZ19TWW1xS3RkQW5aQmk4OS1mM2I3WENGbzFFSV9zS1RYbDFyTTdaamwtbGxXdV93R2g?oc=5",
-              "source": "연합뉴스"
+              "title": "고민정“2030에게 민주당은 위선적 세력…정권 재창출 어려워”",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hamQ0Vkgzdy14bWdLeGdINGt5TnhzT2xQWUkxOUhaYnFYdG5URnRPdjNZTnJmT01fekNZWFp4V211VTlFRGhKSHdqV1p3aGNR?oc=5",
+              "source": "문화일보"
             },
             {
-              "title": "충남도, 공동주택 골조단계부터 합동 품질혁신 ‘첫 신호탄’",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFNEZZeDZzNUV4MWZTUDVYN2ZlREppUDNuSzVfeEhTOWVqbkNQbEVjMktuUVNRZl9kd012clpfWmlVMjUtNTJIcnBGZVJWUU0zblZweFVpVEphdw?oc=5",
-              "source": "브릿지경제"
+              "title": "고민정 \"민주당, 2030에게 위선적 기득권…이러다 정권 뺏겨\"",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MZWJSU25EaW9tUzRzTmFKWGlLcGYwMWQ2YTF1Z3puSGNJYnlVMUJuaVV3M0RjQlR1eFg4RUp1dU5xazdiTUtjSVljVXVKcXBYekpwX0d6bDk4VTJ5cTZBalB2dTBJOWVrWGl5eEEtUEZleVNCS19PSkJkTnFzMnc?oc=5",
+              "source": "TV조선뉴스"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "수석",
+          "word": "가입",
           "count": 2,
           "articles": [
             {
-              "title": "홍보소통 성기홍, 민정 한찬식, 사회 김경자···청와대 수석비서관 5명 인선 발표",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2b2dlbXhZZmY4S1BGSXFxM0pJMXlLQlBaZnB3RHhVa1Q5MHZzV0tydlM4QlZ4aEJHejBYM2oyNU9PZW02NTdZdl9TLXFUQjBaMU0yaldSMnNQUdIBX0FVX3lxTFBiZEtxRzRCc215N2tsLVp3UC1UMnFRbzRWbGxmQ0NyMUh1Y09GaFNvSC14bkxRS2gxc2N0azFpWkE5OWE0d3ZWd0JDOERxTmZnaWhiRFdacHlCZG13SDIw?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "‘환경부 블랙리스트’ 수사 지휘 한찬식…‘2기 청와대’ 민정수석 됐다",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiak1OS3FvUFZUT2d3MWs1TWJRTmZhZzhBd1ZKTFR5OGVuYzliNVVEMDl0bG5nYUc0TjBaa1hiMGtiY0JfMFV4Z3Z4UzlvX25zM04ydDh3?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "신임 민정수석 한찬식…'정통 검사' 출신",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rMThLcDJ2NnRhdmlldHRIRFpEN2U4MHlGOGxfVS0tUmNCd0lRLXJoMDhrTTN1NDVYYWNKVktlcndqRG9kNF8yZFktNTZPYlBfbV9zLVVYZkdvVTTSAWBBVV95cUxQTzF1Vy1EelBNUWJva3dfamlMT0xaam1NNE1hYlVqRW5NNllYTFBkaDlfdDNQbjkzWThTbjVmUWwzd0tnTTZzQ2FHemhRMXk2RjRBNTBESWtJRWo3NS1VaFk?oc=5",
+              "title": "\"신도들에 국힘 당원가입 압력\"…이만희 신천지 총회장 구속영장(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HQnBxeGJUS0dfZlV1djhBa25jWDRNdHg2bmctZndfSFgtVzZaamI4UTlnNGFRbFBhSTFwX1pwWDVpZkp1a1NqMmdrUTVMbXJxODh4aDFBYWVXMk3SAWBBVV95cUxPeS1mRDM3bXA0WU0wcTlNeTUyN3VMdnFZNHc0WTFWN195cW1FbnVYaUduUV9XM2pCUjFscHhRb0g1dmNWTWVLTVJsRnBNaDF0MHpNX0p3YmM2ei1pbjl6SXc?oc=5",
               "source": "연합뉴스"
+            },
+            {
+              "title": "\"신도들에 국힘 당원가입\"‥이만희 신천지 총회장 구속영장 청구",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1haGFrd2s0YjEyeWZZdkN1WE5Bb1BCOU4tNjJ2ODBrUi15VWRNSHBkUW5jWnJHbnk1UEs0RzczeUlrd204cWVaaEgxRE94UDJnRkpncWZ4NU1KSzNXZzFOTlY2b2REYnpRN0FtVmN1OHFhRVduX3Fz0gF3QVVfeXFMUHNOcnkwejF1RVNRcU5TZm5obHhjMUh0Z0pNQ0FRZ25jY1VZQmptUHU2bG9fZVNXRUE0V1dkWWRhWk5tWmN3QnBMQ0luU3pwb1gxX0hWUW1mVDRJZC0tZkd2Q3VDN3cwOWszaEhmNzRPdG5vSTJXS0k?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "합수본, 신천지 이만희 구속영장 청구…국힘 집단 입당 의혹",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TMG5aWGJOQzBneGV0OUI2RDBGbGZpMzVqT0liVzdOS2h5RV9QckdlY3JYWkN3NHhsUnF3Zy1weEs1dDBnVGhyTlhOWkVpenE2T3hSa1hVd2JpbVVKTDRXaWxiWnl5R0lsU2ZaQkZCZllpdw?oc=5",
+              "source": "한겨레"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "월드컵",
+          "word": "검찰",
           "count": 2,
           "articles": [
             {
-              "title": "44도 폭염에 에펠탑 조기 폐장, 스페인은 월드컵 응원 취소",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3hoLTRyN3U4TzBvU050cnhWZ1ZnZWdNd2xMeG5YeVhRcnlHZm1YMHlJTURlQ2ZDTzFNZ3ZsWVdtaWE0T2Q1b1Y0d0hJS1RJZWh5c2IxVXdCVHQyM0RNTTluSmdsSHltMDNIWDF3SXlWQ3Rpa3dvSDlrMElSOVlPazFTaDNoMlhxUUhhQzMzVlZUaXpMdkFRel9taHNBUQ?oc=5",
-              "source": "조선일보"
+              "title": "정청래 \"검찰, 고쳐쓰기 어려운 집단…보완수사권 완전 폐지해야\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93RzdsY09NdS1iRGVIRkZobFZVX3NVNHRJSE8tLTdZNTliNXhxNE5KU1FZV3d0UG5Celcza3IwQ09TdlNvWjI4SGFYTTFxYXc?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "28년 기다린 월드컵, 하루 앞두고 사망…경기 중 추모받은 남성 정체",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52cDlFNVhOaWROYnBDXzVoT2NzZU52bDBvZlRxYUp4OGJ3endYUWhieEc5a1gtbmJEcDBiX1RaRERONUtvZ1lQc1NNdVNiUV9feThuRVdn?oc=5",
-              "source": "중앙일보"
+              "title": "검찰, 이화영 '위증 유죄' 본격 항소 검토...이번 주 중 결론",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqU0k3aWszOHVQR2N2T0wzSWdDTmNMQ1hSel9TQnhPU0RlRU9pUlBfLWlqTWQzWm13X2tHWi1uN1dFTldqZ2UwVlN3MDJIRFBWLTNuSDVzMW1USTJDTjFYUjRYemhoTFBKV3IxOEFCTkEteW1CZlE?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "\"대형 스크린에 압도적 음향…월드컵 즐기기에 최고\"(가보니)[진화하는 극장]",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnbm5ockhlUkEzZG1oRFNaZjBkQ2pQMVdJdFd4MnE5Y3FjbEs4RVdTTWVsUmJ6MDl2bzNHQnNycjlIdWl6MXYxZVNOekRoWnZIN1hj?oc=5",
-              "source": "네이트"
+              "title": "민주당 \"한찬식 신임 민정수석, 尹 검찰과 거리 멀어‥개혁 수행 적임자\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RSWpwWFY0eVlqOWVCd3BCSFhfVm1sOWlPeFJIeXExWVdYbUxWaGtxY09HdlR4cFpnVE5PbkRqeXdtcjI2SWpiekdhN0pLOGJKLXloVzQxMl92UDlLbml5dXhraWVic3hMMjRoUTdoYjBncnZ0Zjl4WdIBeEFVX3lxTFBzZ2UxOFluRkZ1dTdoQk1ibTluOWw5cDZBVEEteDZFcG5TSm1ieDl3RzVVblFoeHY1dTFHWWQ0UkRGei00eDFCSlozRVNybmdwS28xeXBaVHBUS19lTTRIeXhDMnQxUFoxV3ZFYmpqaGhMNDAzeXZJMA?oc=5",
+              "source": "MBC 뉴스"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "응원",
+          "word": "판결문",
           "count": 2,
           "articles": [
             {
-              "title": "프랑스 에펠탑 조기 폐장, 스페인은 월드컵 응원 취소…서유럽 무슨 일",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WV3FzMWZtc3JQUE5BREFoVE4zRG82QmhySTZGS1RVX2NiUDBtS0Q0WjAxbWhhZ3RZTXhhWVktWkZyV2p5TlVEVlpMZXVadWdlVUQwVWtn?oc=5",
-              "source": "중앙일보"
+              "title": "“검찰, 내란 관여 정황 있으나 수사 안 이뤄져”…박성재 판결문 적시",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qMTR4U2o1aXA2VHROeVNUVHhIUGh2Xy1BbjQ1MTZ4c2h5M1FnclhmSUV2aU14MW9vNmlvREZPYXNnN2dUeTNTbG9uZy13SVZhTlVZSWpHdWJuQm9OX1pQNmVpYTNsV0VWZnJOZU5JQktBQQ?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "프랑스, 폭염에 휴교·에펠탑 조기 폐장...스페인, 거리 응원 취소",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxR0RyUVZpVHN1WTF3OWFheEF3NFVMek1sMC1vMHVwOThpMlpYQUJpaG9oR0t3V0F1WWMyRHctUFNtUWc3LVlzVElHenhNbkNzSlhialVzeGFZNWFxYlE?oc=5",
+              "title": "'김건희 수사 청탁' 공소기각...박성재 수사 어디로",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEWVk2TFRqa3pOdFl4c0JJRzlsSjJPRUItZWpfNzNXazk4ZXFLYTZFN2RRUWdRdVNDOGo3SUY1UWs5TEFxNFoxM2ppdDFmQ2NkbVZzWTMtTzVYV0dXVmc?oc=5",
               "source": "YTN"
             },
             {
-              "title": "폭염에 에펠탑 조기 폐장…스페인은 월드컵 거리응원 취소",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oQzZKWmJqOEhZVWR0OUl6XzR4NlpQWEhLWElDVkhfQVVRR0tFeG0xNzlueFR5VXV2R3FIbVBqc1JxV1NCY1dxaVV3X29TaW8?oc=5",
-              "source": "v.daum.net"
+              "title": "'내란 가담' 박성재 前법무장관 1심 징역 25년…\"즉각 항소\"(종합2보)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RV0dZMmZTS1dBLV9Wa1dHMEFHUEQzaFZTOTBxT0tzeExqTnljWFAyejlXbFhZYWJmTjVIRmJsVjM5WFp5akp5RU91akFReF9nNVdidjFaVzgwOTQwWVhNVdIBYEFVX3lxTE1RV0dZMmZTS1dBLV9Wa1dHMEFHUEQzaFZTOTBxT0tzeExqTnljWFAyejlXbFhZYWJmTjVIRmJsVjM5WFp5akp5RU91akFReF9nNVdidjFaVzgwOTQwWVhNVQ?oc=5",
+              "source": "연합뉴스"
             }
           ]
         }
       ]
     },
     "경제": {
-      "summary": "반도체 · 코스피 · 청년 · 상장 · 삼성",
+      "summary": "반도체 · 하이닉스 · 금리 · 코스피 · 그룹",
       "keywords": [
         {
           "rank": 1,
           "word": "반도체",
-          "count": 6,
+          "count": 9,
           "articles": [
             {
-              "title": "반도체 폭등에 올라탔다…10억 굴리는 고수들 쓸어 담은 종목",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXNHczRVExWkR6ZWVLNXdBaTFUaWV1WVN0dUgycnJrVTFkRWN5cXZwcGRjZUU1dWVGbFhaa1hsWDg4SnJsaUlCbDRtRGdqZEJMaDIxZ1JGdUJ4Z9IBVEFVX3lxTE5TaThaRG9aQmFPLWhJdzBHRU1VY0ZFQmhXXzNycDhpdVRCNXJ0UnZXUWN5S1hNMHpzdWlEUWVRODBrQ0hQazd3cThObUZVMnIyeFJ1cg?oc=5",
-              "source": "한국경제"
+              "title": "삼전 반도체 공장 부지 ‘광주군공항’ 유력",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rX244M1BfZWhESExDMS10Y2ZCQ1hkejNLOTI4dDUzWTgzVHNWNk9SaGV2V0xkc0NzeWc0eVkxYV81ZVFUT0M5UmZHVHdnTjBrb3h5c0d0QkjSAVRBVV95cUxQaWI3WWRQMElzQnBWQjJ3V2NPNDNPSUdFWi1IX2lpdTNadHMzUmNINUNBZ0pOV1Z0cXY5YmQ2ZDdJOFZyUncxTFNRZFpZRC1vcnhDbkU?oc=5",
+              "source": "세계일보"
             },
             {
-              "title": "삼성·SK, 광주·전남에 대규모 반도체 투자 임박",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42RWN0V3ZjX19oZnlOcW9IeU5QYVJxSGN6X0lpbVU4RXpOMjlOTEZORjJMVTBHTk9Nak9rRE80SmtKazN1SVJFaS1rTnZiTjA?oc=5",
-              "source": "v.daum.net"
+              "title": "반도체 성과급의 역습…금리·세금 올리는 방아쇠",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQWnUzZmhKWmRfVTc4aDBsRk1VNFpnZ3Z5NVZsVjFKOWdKNDFQaU5uS1A0WjBfbDFqWHVBSjVrU1pseW9xVjFIMXVSM05ndzlqcEVjMDZNN0tMZXdyU2RVNkJTeFNPV0IyN3lJNjUxMjFpOFHSAXdBVV95cUxObnp2V0dpakRpdHFTTkhjYXJHUjdwX3J0c3poendvV1Y4UUxhOWw1cmozaDV5QnA3UEdVZWY1QnZINWdWTTdsY211ZzhQc1Z3VW1VeGpNQUJzREk2bE13bXlVdnQ5dUt6LWJ4ZDFRMkdaOWNqVWZHQQ?oc=5",
+              "source": "스트레이트뉴스"
             },
             {
-              "title": "반도체 성과급발 인플레 현실화하나…저소득층 '삼중고' 우려",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yb0pkQ2NMVlZTdmF4Skg2am5kYXkybUFoaV9BRjZVRzljME5hOWhRTmF2YVZtQ1ZGWm9XWEhSaExDRXN5WDA5WFp1T0VPM0ZPU3Fpc2JIc0RhT2vSAWBBVV95cUxPVWs5SUhfT1hKcVIwZldVc3o1bG96RGR3SU8yNDhzX0FfLXNDZ0hEZjJxTEo5V0VaQ0taN1Znb3BKdWdya1JaTlJiRHM1TDlLWnVSdTJ4QWllaEZ4UmlUWV8?oc=5",
-              "source": "연합뉴스"
+              "title": "반도체 원청 “동탄 임장 3팀씩 다녀요”…하청은 “임금 그대론데 집값 올라”",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02TVJ5aXVMb0JSQzlpODI5RkoxQzF0NGtwc3pwb0RNcnY4V1ZFeTM5NVE1YndDNzBBVC1vdWllUHVHY2ViOGFZOWZCMTI0VFBYWER0VUJIMVFnaUhNWWJoQVFSNmI?oc=5",
+              "source": "한겨레"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "코스피",
+          "word": "하이닉스",
           "count": 5,
           "articles": [
             {
-              "title": "'반도체 투 톱' 쏠림 심화…이달 코스피 내 거래량 비중 확대",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vYV9ncFhod3VQeFFCWUlwaEZyZ0ZhaEhxb1R6a0lVNk9xOE5NVlFjNElfT3M5VVFXM1l1eGx3MVZBX0lvR2tJM2tKVmlRMWdBQzdJU0VRalBIekHSAWBBVV95cUxOMjhqc2s4dlA3ekpjV2ZIWmYtWUVTZldkbm9wRXpZRlp2TFZzTllya01kV3FleXlqM1N3dEJxVEc5Y29BQ3hrdW1YdnczeU9weHFTREQ3QnRMX1l3Y29SdjE?oc=5",
-              "source": "연합뉴스"
+              "title": "SK하이닉스, 삼성전자 제쳤다…25년 만에 시총 1위 교체",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zd2hGc1Q3aE1oTGZJTU93dEJyM3hEeVN6LXgwaWJaNHZOc2paVFBnam9lZVRRcng1SVpHR2hTbFFJVk9scUo4MkhObDkxdXFPdTlXS1lB?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "“계좌가 녹아내린다” 코스피는 신났지?…코스닥은 ‘와르르’ [투자360]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWWGpLX215RUtkVklMeU1mYldrS21kR193c3YyVXNGNVRxTkxjZGhBak05YnNHaEg4cV9oczdoUFpfS3ppbXhoOEJ5cW5YTGtRdEROdnBB?oc=5",
-              "source": "헤럴드경제"
+              "title": "SK하이닉스 美 ADR ‘팩트체크’…주당 가격은 상장 직전에 나온다",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MZWFSUDgwaFg0X1hwenBVM1laZU5iOGJtV2JfNVE4Mm53VGJDYnhucUp4V0N1RXFnRmVkUUVUMEp4dEZJdExYcFBEVm9teVJrcnfSAVNBVV95cUxNWndOSDBXTWxrU29SWWZ2bXBVYllMV216SV9ySXdieC1qNktpVEVfNFB0MFpQVk5jZnpYMDEzM1hQY3J3MkVfd0t5YVlXekIxeGxsUQ?oc=5",
+              "source": "서울경제"
             },
             {
-              "title": "코스피 9천에 자산운용사들 '활짝'…\"작년보다 1조 더 벌었다\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HR3JYSFlZN1RLOHJxa24xa2V1YUdma2x2bC1Zb2tfNmRDTW1UY3ZicWxwSTcxZFItOTJxT1VPa25iWkl5dHpyczZZa29UN3c?oc=5",
+              "title": "최태원 \"하이닉스 10배 커져야\" 언급 반년만에 코스피 1위",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyNGRMaGxydmxzRk8xTHB5YjZBM2ZLRzRWUE56b3YxMFl4dEFqMUl0VV9mdjAxRXlZZk96NWlvU0NWVENzZG42N2xJaDA2THc?oc=5",
               "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "청년",
-          "count": 4,
+          "word": "금리",
+          "count": 3,
           "articles": [
             {
-              "title": "'최고 19.4%' 청년미래적금 출시 D-1…내일부터 가입 신청",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LMmMtMXJpVzhCWXRyU3JlNWdYV2FNZHNCY3FCNG53V0t4WkRQc1JTSVF6VEhNY0ZPMk95U1U4b2xjSVl5TURMWnF0bDhXLVVqdUQ3ZVB3Rl9EUGp5TGt2NkVB?oc=5",
+              "title": "전쟁 물러서자 금리 돌아왔다…금값 흔든 진짜 주인은?",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvNHJLNm4wc29FRWIxc2VNeDRJZ2V2SWh0RWxHYloxZHpqRmhpUUl5ZTRyMUtyTXBnOENBcWszY0lRby1ZMFBPaEpBM0pKWGlwalJhX29n?oc=5",
+              "source": "지디넷코리아"
+            },
+            {
+              "title": "금융 위기 전으로 돌아가는 연준? 금리 방향 ‘힌트 주기’ 없애는 워시",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QR1dMSW5EZDBlT1VrNk90T1A3SHZVUDl2U0lfenJRdUo2Y2VKR0oybTlYa2dMeUw4WjJKN2VpWnRoSUNlZS05dGVFblFQd3c?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "美 '금리 마에스트로' 앨런 그린스펀 별세…향년 100세(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4RkpHbk9wQTVtYVNiRzFtVjZRMTJSSWVvMjl6bHIyZ0RROURJczhZSDRIWTBIclpQcXJ0SlRqWW1fTTQwYXItTUxoRnV0T0pZSDduUUpIRTk?oc=5",
               "source": "뉴스1"
-            },
-            {
-              "title": "與, 장관급 ‘청년부처’ 신설 추진…정책 컨트롤타워 만든다",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZm5Wczk3UmRlVTN0bGk0d2pWQWtOeWJmMDE0OFVZbVJQSnJEUTdwU044ekplU3lLSUFRV1JTS2NlZVF4RWhEdDhaUV81NE5WM1HSAVNBVV95cUxNeGJDZmo5QlNJNzVmdUpEaXBPTkdEZFVrSlFxM3I5QWQyODhJc0hfWnNKQlo1N1hsbDJRV3dpcGlFczFQRmJBUlJYZ3hhSkxuZ3lfVQ?oc=5",
-              "source": "서울경제"
-            },
-            {
-              "title": "청년이 느끼는 ‘정치의 공백’ 그 틈에 스며드는 극우 논리",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQzZaczBCdnRwNFRtb0ZDY2hSTFplNjN6bWVuQk0tQkRrVGpoellLR0l5dHczVTR6X0ZuQi1PM3BRR1lwQnZMNEVvalp0aERJR0VNdG9EY1NzUdIBX0FVX3lxTE5EQy1rTERHaXZfUHhyRUp1bW15XzlLdHB6ZzAwQV8xVnhzUlptR3RDQU84d1czRzlDQ1pqZHJ0bGZOMVQ5aS1IUjhzQkVacEtUbEMxZkVHNHYwSGxyeFlZ?oc=5",
-              "source": "경향신문"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "상장",
-          "count": 4,
+          "word": "코스피",
+          "count": 3,
           "articles": [
             {
-              "title": "'동전주 상폐' 초읽기…219개 종목 위기, 시총만 8조원",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5ZnRFdnBHRHhPWXgyR3Z3dXFnU0RKN1E1Y29mYlZJb0VxcnN6Ti1VWW9LZUVaejNKX1doWUhUc2M5N1ZTMnl4ckZIODUtamRaaExzWHJ3NS1zclXSAWBBVV95cUxPX0R0WnVkN1hkTXdQcnF1UHRxbGJlVFlJMmRnMVVLMHgzeVBVZGNwT2lubElXU3ZrclROWFZhWDl4R3ZkM3NBTTE5dURmWVREa0l3azU5VHhnUFRHaERvUHA?oc=5",
-              "source": "연합뉴스"
+              "title": "SK하이닉스, 삼성전자 제치고 코스피 시총 1위 등극",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uS3NXck5qbzJRUnBhRVllVkt2MENnNTR3Q2VxbkQyZVE4ZnQ2MWZ4U1FXTElrSWtFbkZ6b1hTdlNMYk1zd1U5UnhTWFRjdGM?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "삼성전자 턱밑까지 온 SK하이닉스…美 ADR 상장 기대에 질주[이슈분석]",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGp6VG5pRkl2M3l4UWF3dUJQci1DUjQ3eDNFdmlXQnZRdzE3dlcxMmxOUDNKSlJQMnpyUkE0QnJOODVrN2FjbTJTQU1mSE56UnhmczNaOFpZU3JIUjd3TE00SzkzT1dxZHNiMEdkREVNQmlHcjdGNjlFUXlFRHlLYw?oc=5",
-              "source": "이데일리"
+              "title": "\"1만 간다\" vs \"6500도 열려 있다\"… 5대 리서치센터장의 코스피 전망",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORS0zSUlEZFk0WGExYW0wNGtBZVhUYXFlMkNJelZXS3FsSmljZEpHeE4tV01xMXhmNjZ6cWU5TzJMdGE4Z0l6U0pyNjJTWDZ2Ty1Wb1lkbzhjX2NvY1BqMnVTSS1WNHVPc1VhZTNrbkZoRVhNMjFrYzFhRi1IOEljcg?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "'300억弗' 서울환시 본격 투하된다…SK하이닉스 ADR 상장 급물살",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DWGVOUks1a3hNUjRlSTNyNFUxcHBkTl9MNU5SNnFobi1QQnlZZUh3R3gzaUh4dTg2TlRzeV9ZTm1oNC1helJOUE5rWjZIX2g3VEsza0l5MXVfT24zZWNfbDZnS2pBS2c4bzliSmJHbTQ?oc=5",
-              "source": "연합인포맥스"
+              "title": "한국콜마 역대급 실적 내고도 주가는 코스피 상승률 못미쳐",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1admlqYVZFalRSam5xMU1BcE56ckUzamp2UzB2R1ZnS0wxZm9GOUJkZ2R5dllDZ3dQZHNDeGpFUm1wSXFHTW5POTFiVm5KZlFxYmc?oc=5",
+              "source": "매일경제 마켓"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "삼성",
-          "count": 4,
+          "word": "그룹",
+          "count": 3,
           "articles": [
             {
-              "title": "\"스마트폰 때문에 더 불편\"…삼성전자가 꺼낸 '비장의 무기'",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wTldSTFNLNFI2ZU9hWUp5VzhZM0ZxWm1saVNtYXNwTnFMdVRTNXMzWk8wTm9yaGx2Q21RaUdqNGJnd0g0V2NPeXFPZHdBdUNHMUF6RG9NaXJZd9IBVEFVX3lxTFAtZlUzYUpXS1JWYmZpalFHd0pUeUkxcE5oaWJGcmpRTWs2Ynd5N2tkSWhtZEhjZU5rYmxRUmtZYk5OOVM3dHBaZzlHbnpGZElqSW1zdw?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "'주가 고공행진' 삼성전기…경쟁사는 \"MLCC 가격 안올릴 것\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LdVNZQVduS2Nib3F0NTNLRThXR1BIWXdZRGE1VGh3Q2R1QU5jWENyWHpMTElISFhsOHhQU3FJbGlNb1V6bk9HNnZzLTRRWWZLN0lSS3l3clVpUzA1SXUtYjZuNGxLMXRQd3BPWVVXaWg?oc=5",
-              "source": "연합인포맥스"
-            },
-            {
-              "title": "MLCC 탑재량 '632%' 폭증, 제2 메모리 반도체 조짐…삼성전기 '미소'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Zd3prODdCSE9fQUczRVB3MFJHZm1WbHFwdzE0czBRTHB3WmpkbnJONUpybkxqSlIxcVhnME8zNjlPbzFRQ2JNSDl5akVibVU?oc=5",
+              "title": "나스닥 상장 앞…현대차그룹, 보스턴다이내믹스 지분 100% 품을듯",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zb0dqZkJ0d0Mwb0xCT3Yxd2huQkdLT201LUtQb1c2OHp4R1lkZ29zemVIVlFrYkZzTGgwUWJhNUU4LW1kcng2LUh5bVJqZms?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "동경을 넘어 기준이 된 그룹, 제로베이스원",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYMDhYVzEtZUdsb1pySFdzSnJXTUhyOFdvVHBtTWpaZG8ycXcyOGZZUHM3YnozekhsWlBiaVc0NTlRTXMzTElsVk81WWVRbzNFTUNOT2JCaHdfVjd0R3FGOWpHczhBRGRhcWhFVFRDWHdpQQ?oc=5",
+              "source": "포브스코리아"
+            },
+            {
+              "title": "LG, 엔비디아와 차세대 AI 협력 논의 박차…그룹 경영진 방미",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QODdPQkV0NEw0X0d4bHBiOG9Bd2YyZkNmelAtbENqRDBwOXdyY0RRZEQ1VE8wazZvMFQzTUdJXzR2WG5XOVJ1XzVvMDVWUHFSckpscHJpYnFxMTTSAWBBVV95cUxNeXVvVUd0Wlc3X19qODJWRzNZOXdtZThZTE1FLTdsS3RyWmhaR3NQbGRlNXpUVWRLSW5UeVJRZllJWnlFRllEQm5UWXctTzQ0ZzUxVktOMGh5TjYzdWFNXzI?oc=5",
+              "source": "연합뉴스"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "미우새 · 정경호 · 김다예 · 고윤정 · 허남준",
+      "summary": "손예진 · 소지섭 · 고윤정 · 은현 · 김수현",
       "keywords": [
         {
           "rank": 1,
-          "word": "미우새",
+          "word": "손예진",
           "count": 2,
           "articles": [
             {
-              "title": "김희철, SBS 수상 트로피 꺼냈다가 충격…\"금이 하나도 없다고요? 버려주세요\" 폭소 ('미우새')",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvSl9PaHk2c185UGNYMHNTR2VSTVlaMGQ0VkdvaVdrNk9rS0JwUVZHSm1MVU96a1ppZGd5dllTYmxIMDBjenByRnNoQzlfdXpLd2RDNg?oc=5",
-              "source": "v.daum.net"
+              "title": "손예진·현빈, 가족여행…훌쩍 큰 아들도 공개",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54RURYNWtxQXFKcGhLVVdUclVPSW1HX1NVUXpCdG85LUZpSF95Zk5odE9xN01vdnl4NjNRdDJFRHVGVUt2SnNEMDE3dVZKM0VIMEk5VVVEdWJOMC1GWjdhWnc1VnBJUV9UY2FYaTlPNVFKdW5hbFHSAWZBVV95cUxNUmZpRGxOUXFLQlcwVVpmeEt4NFRCOEF1TEJVXzFUUElHdU1KbWVPSU5jOHZXVnZjdG1OR1hLSW85ak1EZk1aaGZubllVaV84MHdaX2hXa2J1aFRrcHpmaVZlMXlxRnc?oc=5",
+              "source": "동아일보"
             },
             {
-              "title": "소지섭 \"입금 전후 달라…작품 안 할 때 하루 3kg 찐다\" (미우새)",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yVG1RbW9mSlhTT0gyNlR5YmhPbkZEMGJwdnN6SlRwLVkzcEctVnMtMmhiOWhJTUxtZlhZRDR5d0RJUFVxbENUWDhRdE5SZjhLN01KRS1NODNkaU1iOHdhTQ?oc=5",
-              "source": "iMBC 연예"
+              "title": "수영복 몸매 자신감…손예진·엄정화, 자기관리의 정석",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiUVpNSXpIbVZzUUpPSnZ4UDJweXphOUF3alFwdUNFV3Z3WHl2dTFSTHVCajlTV3FaSk9zYlEzdUtOZVhVMVNHSzdkX0doa2N5Q1ppQw?oc=5",
+              "source": "엑스포츠뉴스"
             },
             {
-              "title": "박정수, '정경호 父' 남편 정을영♥ 위해 압구정에 '5층 건물' 지었다...역대급 내조 FLEX ('미우새')",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXV3ZfTFlQOEpENngtTkt3VXZmVW83Y2UzYTJTR1FGS29oTmpHN1FkdHl1LWZEZkgtcko2LTloenV6a2xBbHFIcDZ2QlRrbm1pVktVMmdfQzh5ZVMxeUNhMWpB?oc=5",
-              "source": "미주중앙일보"
+              "title": "'현빈♥' 손예진, 3세 아들과 꽃 들고 포즈…행복한 미소 [N샷]",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QMHJ0QzdIZWF5TElfTkRybFRuNG42ZjFydkFpOHNNUlpoYzBEUnNDTjdGYzRxQXUxY1B5eVcxS25WenRxUlIzZGY2TFJoSHVvUGVWTXhoSTBqMFpfekx6RERiSDE?oc=5",
+              "source": "뉴스1"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "정경호",
+          "word": "소지섭",
           "count": 2,
           "articles": [
             {
-              "title": "'정경호 결별' 최수영, 거침없는 디스전",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUJCMEVXT0dVTmFWdFhyXy05TE5xVHJ4NEg4YjJKSnZTYXBPZ3E2MzhTTllsay15VzBvQ1BwRmdMZlo4OG1VSkkzM0k1aHI5elM0OWU2QV85RWRPUEg3U2FVWF82WDItMXFHZU8zSDNuSkNVQ2d4QWl5cExvYVk3TA?oc=5",
-              "source": "starnewskorea.com"
+              "title": "신동엽, 절친 송승헌에게 \"소지섭 멀리하라\"고 조언한 이유…왜?",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IUFVzVFhob0xVZ3VRMlRzWWEzQ3laM2ppLTB2Vkh2d2pndEJYeFZEdTczeGRyQzNLSXVkak83RGJISHJtbUQxcHdTUmpiTEdPSENFUUI0OUNDQnZudk1MS9IBeEFVX3lxTFBYMTlkbVJQcVBsZnNtd0ZrUzdqb2J6ZWc5MHQ4eXRXemxYYTRqNTJwNjNoY2FOcHZ5ZnlRZklBVjhXeWp2OVVOVmtwQTdaLWg4YTdRdjA2eXZxeHhLd0hGRjJZaXFnZzVjNjVjendTcDZNX0pRUENMdg?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "\"정경호, 지 아빠랑 똑같다\"..'정을영PD' 25년 사실혼 박정수가 공개한 사진[미우새]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBra3luOUdjVUloSkNwV0FMdkRUSDk1NnZybjVBV1NVSGxIVVB5M3NIUUwtMmlrS3o3ekJmUkVReXhXQnBCYzcxby1tUDlHSWM?oc=5",
+              "title": "소지섭, 17세 연하 ♥조은정과 결혼 후 달라졌나…\"그럴 수도, 예전보다 많이 편해져\" (요정재형)",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13TWNGOVo5cS1za1Vwd05hVXdVenZtRERhZ3NpRHZsMHdKZkdESE45bnRGRDhsUF9zT2w0b3ZwYm0zQmVCSnVxM1ZWSGI2X0hva2tPQw?oc=5",
+              "source": "엑스포츠뉴스"
+            },
+            {
+              "title": "소지섭 \"넉넉지 않던 시절, 날 재워준 사람\"…송승헌 향한 진심 ('미우새')",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02SWxHRF9FTFhqVnNtMjF0Qk1PUmVxS3VsenhicVNCSW01aUVqdDJiRno4cXFBMDA2c1lFOWp1MzFJUTE2Y0FmLV9Lb1FmdUk?oc=5",
               "source": "v.daum.net"
-            },
-            {
-              "title": "‘정경호와 결별’ 수영 “느낌상 1순위가 아니었던 것 같다”",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNThnQlRnLTJNU0loX0FOelRRbUpaNThlUVFFTzZvVHpXZnE0TDhKRFdkRFBQUVRjVzhGNEx5cGRNNUo4dFMzd3NVdVh6VGhuZmpqU2JwTXprZWJkQkZxaFpUZ0NfNjJUdllKcnV1eUdhLTNEQXlTSXRKNGhvWWRrb3hFQ3RUZw?oc=5",
-              "source": "서울신문"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "김다예",
+          "word": "고윤정",
           "count": 2,
           "articles": [
             {
-              "title": "‘박수홍♥’ 김다예, 1세 딸 ‘종소세’ 자랑하더니…800만 원 신발 공개에 누리꾼 싸늘",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xb0ZLdVdWR19YdjJPc3lDTUNoVXU5OXdXMGREZkZoc3NaQkZrR2NIWWtoMGRxUzRtRmlmckdYLVVQTk9KTTJWbUFfNXlLbEppanhzOE1nemtaU1pycGfSAWNBVV95cUxNTFk5ZURLQTVtQjNLU091WGNvN2ZSMW5LUkNELWlBcERJbWQ4RzFjTWVUMHFGSk5Tc2pON1Z4amVsdW1JWEhiZkZfcUlHMkJjbk9fTUxyZXNvYW5WMnZqYW55ZjA?oc=5",
-              "source": "스포츠경향"
+              "title": "김도훈, 고윤정·허남준 향한 애정…“나의 최애 둘” [DA★]",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54ZWU2Y2dzZ2tnazI3NmxIc05kaUZtWGZHdHplQUNOZEYzdEpXdDFITzBZd3BTX0hMRmpKOGdtUzZkX1BZalpkeFl5d3ZZeUs3eHR5Ni1TZ21ia1VyTlF0SGlwMGhyNHBqYk5FX1RR?oc=5",
+              "source": "sports.donga.com"
             },
             {
-              "title": "'-35kg' 김다예, 90kg 시절 끌올 \"행복했던 돼지\"…♥박수홍 또 놀랄 그 시절",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbk0zT3lPaWIyaENGTnh2ZHBael9idFF6ek1YbzB5NnNnazIzQzE4S1lDTmNFdE5ZdXJ1aG5STjNjNHdRSWJZZF8wdUFSbW5aWTA2RExTNFd0NkxDSUI0Nlp6dWoyNWpnUXJ4WjRYYzl5UEpLamQ1dDJUTmt2Q3NiNFJHSUktcDJ0TmpUYlMzRQ?oc=5",
-              "source": "조선일보"
+              "title": "고윤정, 인형인 줄…시상식 뒤집은 드레스 자태 [IS하이컷]",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UVlNvNjI3MER1aU9kTmlGLWhhbkhQY1pOUl8yR2tuLTAxSm9zNGdoN2pnclV6ZEI5b1VTRk52dVh1YUxlV1h5ZDA2Mzg3bnl1UzNjSWFqaTBHa0E?oc=5",
+              "source": "일간스포츠"
             },
             {
-              "title": "인'스타'그램 세상|\"슈즈만 800만 원\" 박수홍♥김다예, 13개월 딸 재이의 화려한 신발장 인증 [MHN:피드]",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sMFBlMXlNZmc1bjJwcVVsZ0I3NnpRZkx5NTVmVGhqa3hLa1RjS3oyQ1ZwX25acTV4c2VpUHNmdVlhSFRwQ3VjSy1obGphWHNfTURrb1dGelREVHVQUUwwZTI0SWdGVkJtcngtYnZPYmFaSERWaGtJdzR1Q3Q?oc=5",
-              "source": "ZUM 뉴스"
+              "title": "고윤정과 샤넬의 향기로운 여정",
+              "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY05Id2VMWUJXN1h1SS0yNE9ZaDlnd0FaWldBQ3hHNDE5ZVM4ODNPelZ0RmlTV2hoRkxVRFh3bUhTcnNoQ3hQY3RQai1Rd1l5M3RVNHJtWjdLblFjMjB3Y0VBWF9pUTlYanBoN0RRT2MyeldKZm0tVDFjVGpmeHhEbVVwOXp0SGFrWUF4d25LZXdGbmhHWDZSbzdSdXV5N3VtMlRwczlJbWlFdzhuX0lubDdQRXdPZ0xPNnZCaktiYWxfcVpReEp4S3F4d0xVOXA5UkdlazZYMExsMm1sY1NCY0hfM0w0cHF0em13?oc=5",
+              "source": "W Korea"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "고윤정",
-          "count": 2,
+          "word": "은현",
+          "count": 1,
           "articles": [
             {
-              "title": "김도훈, ‘최애 둘’ 허남준·고윤정 모았다..‘거제 야호’ 쓰리샷 눈길",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0RtaWF6cFo4dHVsd3pkY1FNbUdoUnNQT0dvQ2JYdjVBbVN6ZlE3d01acTh4V1VSVGlhbUZDVkM3UmUtR0t0MmdWSUFKNlF6SllHQ3BON2t2dTdkMnY1RGF5Rml2Z2hyNV9mM0RvSW8tNzcxUnRZendwNFFMa0ZfU0VYT1JLOUs5cXQtRGMzSQ?oc=5",
-              "source": "조선일보"
+              "title": "은현장, 김수현 측 변호사 공개 저격…\"김세의 감방 보내려는 나를 비판해?\"",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaDk2bVg0WkxIaDVfMTU1WTBEaHVjR2Jjb0FJRjlyajdJaEx3cm4wT3pxbWlWME1pc0lmaUxCOGd2LVUzb3ctMnZRY1pORjFZMndfakpZNFNnZmZJN3Q3SlFNakRjSVlYMGR5OGhNa2Z0NUJHZWRyNUgwUk9sTURnRGZJWmg?oc=5",
+              "source": "sportschosun.com"
             },
             {
-              "title": "고윤정, `뼈말라` 근황...가녀린 팔뚝에 AI 뺨치는 비주얼까지",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKZDBna3FHVnh0SUpjTlBGVTl2Xy1iZUQ5VHlGc3gwemgzOUpWdUxLZHpXbzRLNWJ0ckZNRi1qSk12RV9GWUZBWkhsM25vOXRsOE5KeW9TQ25JeXU3dDduMg?oc=5",
-              "source": "마이데일리"
+              "title": "은현장, 김수현 측 변호사에 경고 \"'궁금한Y' 방영 못한 이유 말하게 만들지마\"",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95YWZ3dDl0THR3RU9zSnVQZnhxTU9sdktiWnJ6NzhEY2J5N3VDUzlzQ1NZb0RFaThNd2NqQUt2QlBwaU01NU9qZGs0OUYzaUEzeHVKSWN6ZW5aYUQ5YVpoR1M3TUNyOTRfd2JUUkNFVQ?oc=5",
+              "source": "SPOTV NEWS"
             },
             {
-              "title": "고윤정, 인형인 줄…시상식 뒤집은 드레스 자태 [IS하이컷]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RTVhCWlM4eGJoTld3ZXFuRzhfNVpvbkFoWjdJTzNyRXpOclNmenlUd0lweEswblhaTVUzb1d0ZC1UV29NOVJLeUxwVldpeUk?oc=5",
-              "source": "v.daum.net"
+              "title": "은현장 “나 뒤통수친 연예인들 연락하지 마!…정해인만 끝까지 응원해 줘”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xaXVRXzBEaF9lUWF1c3VIcEpmY3pwSHRDalFqZnBXNEFjVkY1RENEVDNCdTBfVUE1SHpaS3RLbDk0d3lEUnR3ck8yTUR5TTY5cmJkOW9B?oc=5",
+              "source": "헤럴드경제"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "허남준",
-          "count": 2,
+          "word": "김수현",
+          "count": 1,
           "articles": [
             {
-              "title": "임지연·허남준, 운명 뛰어넘은 해피엔딩…‘멋진 신세계’ 11.8% 종영",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NT1RpYWVHaTBVSmhtTktBaDM5SXVZQjdlZVZSMG42UHpxMVZuNnlhYnREX1dGaWFhQVRodE8xNHVTdy1kVWczQkVSSDREalhUczhpbDZ3TmRwVXhTOXRleTFCS0ZzODA1dEpwcjBPMUZBLUwzWWduX0NJcDdTd9IBZkFVX3lxTE03OTc3Z2o2R2lIVmMzcUVpQzBTcWJHRUN4ZzViRlBTRlg4ZGo4Vm9zeGxyN2o3algtSVA0c0szNUJ2TEhzaTY1RWk5UmpGVmRlMmJYMjdxSWpQRXNmYUdfQzFNUENOUQ?oc=5",
-              "source": "동아일보"
+              "title": "김수현, 복귀 시동",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlSF9PT0hYX2FUUzJBckw2Y2U2WFJWVXFlUFVtdWhtVTJ4bm5vTU9uU3M3YmItWFM0aEI0aE0zM284bVlQMjREUlgtMi1MOXlHU3pTelRaSlJyaWVtRm9vU3dSc04?oc=5",
+              "source": "bntnews.co.kr"
             },
             {
-              "title": "허남준 \"저는 그냥 딱 연기만 할 줄 아는 사람…아직 신인이라 생각\"[EN:터뷰]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lcFRqVzJ0UXNldkVRRUxqXzhlTnZ0LXNEYkZ6MXVtc254VlpEcXZLY05fcUkycjNoelREZUk1V19haWtnVkpMaHFsSzhnTms?oc=5",
-              "source": "v.daum.net"
+              "title": "김수현, 1년 3개월만 활동 재개 속 39억 손배소 4차 변론기일 연기…8월 진행",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WcDBLUEpxeUFoYjM3cjFWQlV3QnM2TUFUUWxfV3lHZk9lUUFWcHRtM1dST2RhX3ltQ3lobktTeXdKQWRtSkFITGRrVDlyVHdleHdJYUt2dnJITFg3RXR2dXZ5Yy0wV1RUVXFKOV9JX2RDUQ?oc=5",
+              "source": "톱스타뉴스"
             },
             {
-              "title": "‘하남자 중 상남자’ 차세계 연기한 허남준 “찌질한 모습도 재밌었죠”",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnVLeXFWM3BldzRQTWFEMkpiTkU0cjh0M3NQdUJxd3VhWmp2Unk2aFhZdHBVc2xvekY3V01RRmRGZ1dLQ1l6RGJnY0ZfREdvelRuWHg4TTR5eTRMd3U0SVZSd0M5Y24yWFNKNmY4WGFsTmpKVVlBOWJoQU1RcVlZZGQ2ZVVxT0R4UkZpVUlZWGtQTFBjV2F6UHppNy1yUk9NMWQ2VVlSaVZmQdIBX0FVX3lxTE1OLTA0clpHMHBsVVBKR1dQamxUX0JSWVJLNWFLcjJscmpXOHp6S2tZd3VsTERndzFnamd6ZEFqWlVqcFgwQ0lmSXNSbl8zVFBOZnViNVJ2aDNTa0c1SmdF?oc=5",
-              "source": "경향신문"
+              "title": "김수현, 스타덤차트 배우부문 주간랭킹 1위…차은우 2위, 변우석 3위",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94TDgwUUZodUtkX1VWUDNVNUhLWGwwejZWVkVaMG5vakVjcXZfSnNWNXpRT0FSTE84b1ZGRGpDUzloSWVjSXFIV2kyczJLdTdPQ0Z0R09TUS1lRUt1Q0NPS3Focl81NkpGMElCelhJWdIBc0FVX3lxTFB6amluY3FVSlBpdnd4Z1MwS0dBNnJNcUhsM091UzZzc2FYdkU0dzJ3Z3NmcU81WEs1aXl3T2RUTnVZYnBPRVY3VWNlNXBrSFZub2thY0NOaEVCNUJaT2hrNnU2NHNBdWs3RTBQMnU0djZYUUk?oc=5",
+              "source": "SPOTV NEWS"
             }
           ]
         }
       ]
     },
     "스포츠": {
-      "summary": "월드컵 · 홍명보호 · 메시 · 눈앞 · 튀니지",
+      "summary": "월드컵 · 홍명보 · 남아공 · 영상 · 홍명보호",
       "keywords": [
         {
           "rank": 1,
           "word": "월드컵",
-          "count": 13,
+          "count": 17,
           "articles": [
             {
-              "title": "44도 폭염에 에펠탑 조기 폐장, 스페인은 월드컵 응원 취소",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3hoLTRyN3U4TzBvU050cnhWZ1ZnZWdNd2xMeG5YeVhRcnlHZm1YMHlJTURlQ2ZDTzFNZ3ZsWVdtaWE0T2Q1b1Y0d0hJS1RJZWh5c2IxVXdCVHQyM0RNTTluSmdsSHltMDNIWDF3SXlWQ3Rpa3dvSDlrMElSOVlPazFTaDNoMlhxUUhhQzMzVlZUaXpMdkFRel9taHNBUQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "28년 기다린 월드컵, 하루 앞두고 사망…경기 중 추모받은 남성 정체",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52cDlFNVhOaWROYnBDXzVoT2NzZU52bDBvZlRxYUp4OGJ3endYUWhieEc5a1gtbmJEcDBiX1RaRERONUtvZ1lQc1NNdVNiUV9feThuRVdn?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "\"대형 스크린에 압도적 음향…월드컵 즐기기에 최고\"(가보니)[진화하는 극장]",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnbm5ockhlUkEzZG1oRFNaZjBkQ2pQMVdJdFd4MnE5Y3FjbEs4RVdTTWVsUmJ6MDl2bzNHQnNycjlIdWl6MXYxZVNOekRoWnZIN1hj?oc=5",
+              "title": "월드컵 뛰다 \"첫 아이 곧 출산\" 짐 싸서 집으로?…축구선수에 '와글'",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRbHN2VmZBblhlcXA1WEIxQ0RZVWlPX1NZZzR6aTdmVDg0dGFMc04wTWVXLUtpQ19jSlF5T3BNbU9sU2VsZFRqdWN1eGV0dTg5QUo3QnVHNXJEdDdQ?oc=5",
               "source": "네이트"
+            },
+            {
+              "title": "미국에서 월드컵 하면 뭐다?",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56MGRfYk02UjhJcGgwaGNrMU4wbHNQbkhuV0J6OGUyeGZMQ0xaa1FtV00yU1otQWVmUlI2bUtNOFI3TEx0U2pkbnJhdmotS0NFbG1fY1NkYWpfZzQ?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "살라흐, 이집트 92년 월드컵 무승 잔혹사 깼다···뉴질랜드전 1골·1도움 원맨쇼",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wOVFJbE1Lei1FOXZzVlRlb2NKUWhROExPUlFpMjZsUXlxZE5naDBhYTd5MDU1OTJWcHZEYzBFQzR0cEFDN05ReGg3RVV5T3N3eFJDMkl1M014d9IBX0FVX3lxTE5VTFpRbEltVjhQSHF0aHk4SDFuUGFDX0RNNVh6aTEtRWpXT2Q1alEwYTItUm1haWdWbkdUWFBIOUVPX0dHcmtqVHM0SXlHS3JSbzBwUnlteVBrbzRMaXdB?oc=5",
+              "source": "경향신문"
             }
           ]
         },
         {
           "rank": 2,
+          "word": "홍명보",
+          "count": 3,
+          "articles": [
+            {
+              "title": "멕시코전 손흥민 '조기 교체' 논란…직접 이유 밝힌 홍명보 감독 \"침투 움직임 좋았지만, 프레시한 자원 필요했다\" [2026WC]",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoWjF5RmtYenJfRHRDLW9Vc0ZwX0RHZlBnUGQ1YTFmT3V6Z1hlekRhYmJselg3Wk81ZnZESG1SQXVMbHdLdEZWM3dEX2dHUkp5clF4czZSRGRLdnFG?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "\"사람 안 바뀐다\"…'멕시코전 패배' 홍명보 감독 비판한 김신영 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbFJJYU45QTA4cElOaV83Snphd2Q2dkZfX19CajR3QTVIcGFKTHJ5akxXejhCYVRIbTAzempET0RDVVpwa1F3Q2J2dzFkZ1dLUXlqa2tfeWNSMGthR2JlZTNqYWV4bXRWYnfSAW9BVV95cUxPT21pU0NOLUNnOHlGT3ZrMEotUy1jMHNiRVZac0hoaDU4VWlnb2gxZlZSTlF0SXNWRnBsRFFteWhvRE1DZTZKRUhyckFxb1dCZWN3Z2c1UjZubjdqT2NySXpBa3pqNm1sNVhrTGlsUWc?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "32강전서 스위스 꺾고→16강전서 네덜란드 격파? 홍명보호가 그리는 최고의 복수 시나리오[한국 남아공]",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VbV83dXZqX1JUUjRoYXhwMDJ1R2JaSVBFUTBiQXhCNFMyUGJoaUIyOEdTWXZzVnJmRkFwc1BoNzFIUDFWMUJfQUtmZHJUYU1fTkJzN05TUUl1aktG?oc=5",
+              "source": "네이트"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "word": "남아공",
+          "count": 3,
+          "articles": [
+            {
+              "title": "남아공과 비겨도 A조 2위 ‘32강’",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53MzlzN1d5bXVtVFZGTGRGb2FTZEFaYVlIQ2QwMlZaWXpvYWVGLWhldm5CdEpLTHJjS09EOTdndVMtclNvRk1XTFpUQnZBWTc2X3FF?oc=5",
+              "source": "미주한국일보"
+            },
+            {
+              "title": "\"홍명보 감독도 손흥민 빼기 어려웠을 것\" 고종수가 본 멕시코전 패배…\"잘 준비했는데 너무 아쉽다, 남아공전 대량 득점해야\"",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15ZlJ0VmdYeldGY3ZobjJwc2tRZ2NZcXB3Uk41MmhJNld2R3F2VjVCVWJKazBHSmd6SHVWN1ZTU0RUNG9tX1pwcUhQeGdyTWU3clBaYmhkazI2a21M?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "약체는 확실히 짓밟은 일본… 운명의 남아공전 앞둔 홍명보호도 '지레 겁먹을 필요 없다'",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HU2RieWRzZEJUSlRLWmJCbTdCUEdneXlySDdFNjVVQVJ3YWFoWWFnYldkY0hHaGtuSk9zWHcyN18wNVpoMmVWelJLaEJUazQ?oc=5",
+              "source": "v.daum.net"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "영상",
+          "count": 3,
+          "articles": [
+            {
+              "title": "“경우의 수는 없다, 총력전뿐” 홍명보 감독이 밝힌 손흥민 교체 이유와 남아공전 해법",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQWjhtdlVBTnNPOHMzd0ZzdnNMS1A0ZzQyYk4tYjk4clVvNm1qekl1X3pKRUc4c0w0MmRMOTF0eHQySWxaZXpIRU9UTnRkYVlaNThyQjlRWXNMZkFrRzdVMjRrYzU5Zw?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "\"멕시코전 준비 끝. 2002년 4강 성적 깨고 싶다\" 멕시코전 D-1 홍명보 감독 인터뷰 풀영상",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82cXlFdC0waXJzakQ0LXhUemM4ZUlmNHk4NDV0QktzNUhlYmx5aDVCaFlmT0NlX0k4cUZ4MW9ONTB1ZkZSWTVUVWtwbE55YkNxb2xiUQ?oc=5",
+              "source": "JTBC"
+            },
+            {
+              "title": "“손흥민 왜 뺐어요?”라는 질문에 홍명보 감독이 꺼낸 '답변' (영상)",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MTC1OTXk0ZUwyQ2d0OGI1bVhXWXU4YWN3R1ZHV3V3aDVCUVpGM280dmdzLTItUGRhSk1EN09ocUpjZHlmX3VBeVdoZlVTMmRFOGhBcGlR?oc=5",
+              "source": "위키트리"
+            }
+          ]
+        },
+        {
+          "rank": 5,
           "word": "홍명보호",
           "count": 3,
           "articles": [
@@ -388,75 +454,9 @@
               "source": "연합뉴스"
             },
             {
-              "title": "\"아쉬운 패배, 동기 부여됐다\"‥다시 뛰는 홍명보호",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iSHc5cWk0OVRFQkRVSEcwX09hRGpHbHR0QWg4Nkp6ZDNfUnJZZ1BZcHJ6M28wZ1NMTzRpY3FXQlpwUWRWcnFnRkQ1czNJN2FWdDFocEdXTzdLWVBHczZhWjQ1bkY3MW5PMjhRMndJRUZsM0RsWlZXYdIBeEFVX3lxTFA3MWtjSDBud1hlX25JZURVNm54eG1NYndteTh1S2lYOGJod3pUbHFoQTBEMUZLcm1oS09fTG5xNUdLWjhfN2N5OTBVS3JBQUNFLWVKR09sSnJNdmhQRVdUQ053R3JlaXF4VjVLTFdIcHphVUxLQ0NPLQ?oc=5",
-              "source": "MBC 뉴스"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "word": "메시",
-          "count": 3,
-          "articles": [
-            {
-              "title": "높이 26m짜리⋯아르헨티나에 '세계 최대' 메시 동상",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ESmZ0Nm0zSXliR090Wmd2b1BYakNIdDJHcmhBdmxjbUFLRmdaSmpxWExHNko0WGF0MnA0T01XOU1IZi12QTM3Z2xhaWF0dVd6Z2hF?oc=5",
-              "source": "네이트"
-            },
-            {
-              "title": "아르헨티나에 높이 26ｍ짜리 '세계 최대' 메시 동상 공개",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50T2gxNnh0aWNtc1EzVnk1b2ljUFZBX3dsV3JQRHVRUi1PaFJTMHVRd3VwRml6XzdWZF96VnU0eWQ2TlFXWFFpT3Z2U3pfWjVGRlp6TDdUS0pPbmfSAWBBVV95cUxQUHVxcTdvTlY2czQwWTVSQUJmZFdjUlYzSDhkNS1uWVRxbHk0alRpY0lJUEV2QV9CMEFGVVZ6WWJUVHhLeUU4bllfMnFmZEpVVEpqdUJRcFhLYVl4amI1ZGU?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "'축구의 신' 메시‥초대형 동상 '우뚝'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4TkI3OTBPdW9TZW1MbkJxTzBiWnI5SzI0VlJILUVPUHdtLUVOT05RZ1BlV2xlMTQzckxrWXdBMEZkdndhRkthVU5KMzhWSFk?oc=5",
+              "title": "이강인, 32강 가도 못 뛸 수 있다? 홍명보호 남아공전 '경고 주의보'…이강인·백승호·이기혁 '주전 멤버' 지켜라",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pbTZHcW1ZMURjWk9FVVBVa3h5eDJSMkpLNHNUQ09iNU5TMmh1cmZ4ajJfb1NpaHVoaGNsWll1OE5Md1I4bm9wYklTbG9BcTg?oc=5",
               "source": "v.daum.net"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "word": "눈앞",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'32강 눈앞' 홍명보호…지역 응원 열기 속 황인범·김문환 출격",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ndDNJLUc5b0hoUDFpVTA2ZWZmcHdtelBHRU9oQVc1ZU5Ga3c4Q3ZzN3VqcXMwa3dEU3lGd09qMFVVQzZtekVXbHFvc0R4MWM?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "\"체코 잡은 한국, 토너먼트 진출 가능성 93%\" 황인범 오현규 골로 승리한 한국, 토너먼트 진출 '눈앞' - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUN2E2RkM2cHR5cGdxb19LNEQ4bkxQOUY3SVlTMWE5N1JfUnlQM29QbWlfOGx5ZGpvTWdhLUc3LUxZbHdGczUxTGhwTE1EUW9BektlalpESjB1c2xCaVVkNEhqZW9YbzFIMGfSAW9BVV95cUxOWkU1UXRpSU5aWlVxQmJsckJwT2wweU9GWTZmaHF4WjZQT3F4OV9UaWFHY0Jodk1Ca3hfN2FDOEtPU2k1NnFGX3ZpdDVVV3hXQ0IxY2pIWmVGbEZVc0Y1aFYtSlk2bEtBbHZmdUozdUU?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "오현규 역전골 폭발! 한국, 체코에 2-1 리드",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCZFJzWTE0M1hkOFVibTYxbHd3ZEFRZExBMkJqRGxJOG14dFpzTDBQTTBSaWVIeGZhWXZzY0tUaUxQSjdleEdfYVREOURBdzBQX0M1NnNyQ1BZdHZDUHBwOG5iSEVwUTFORGhIbQ?oc=5",
-              "source": "뉴스N제주"
-            }
-          ]
-        },
-        {
-          "rank": 5,
-          "word": "튀니지",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'우승 후보' 일본, 튀니지 압도 '4-0 대승'…월드컵 1000번째 경기 승자",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0akZ0SkFZaW5DZ3d5Wl96bUZUVEtuUlJ4UU9HVThjNUJTaXQyVkR4YmFYZG42ME5aMjJYUloxTzRYTG1SWVZwNzFNM1cxRlBrNDVsWQ?oc=5",
-              "source": "뉴스1"
-            },
-            {
-              "title": "튀니지 : 일본 하이라이트…2026 북중미 월드컵 조별리그 2차전",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrSzJwNTd3Y2xEd194THo5bVcyYlBNNnlTckxaMm1FbUhXdDdIOGlQQkNOX0xRUzhwcWJNR3dYdlQ2aDlHSVpUNkVEbklQT0tmX053UA?oc=5",
-              "source": "JTBC"
-            },
-            {
-              "title": "'절정의 공격력' 일본, 튀니지에 4-0 대승... 亞 최초 4골 대기록",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GalBrZ25UMmlZaFdUblhTVVN3em4xc3FpX1NTLVdvWk9faUhqWEIwTnRUbWFpbE9aeGRjcF81amRtNmNlWGRnNUxSZ1UwVmhMQ2hMWjg4UURGWmtk?oc=5",
-              "source": "뉴스핌"
             }
           ]
         }
