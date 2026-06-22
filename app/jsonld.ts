@@ -1,5 +1,8 @@
+// 홈/카테고리/날짜 페이지(목록형)용 구조화 데이터.
+// 키워드 상세페이지(본문형)는 app/keyword/[term]/jsonld.ts에 분리돼 있다.
 import type { KeywordsData } from "./components/KeywordDisplay";
 import { SITE_URL as SITE } from "./site";
+import { orgNode, ORG_ID, serializeJsonLd } from "./lib/structured-data";
 
 export function buildJsonLd(data: KeywordsData) {
   const itemLists = Object.entries(data.categories)
@@ -20,13 +23,7 @@ export function buildJsonLd(data: KeywordsData) {
   return {
     "@context": "https://schema.org",
     "@graph": [
-      {
-        "@type": "Organization",
-        "@id": `${SITE}/#org`,
-        name: "왓뉴스",
-        url: `${SITE}/`,
-        logo: `${SITE}/apple-touch-icon.png`,
-      },
+      orgNode(),
       {
         "@type": "WebSite",
         "@id": `${SITE}/#website`,
@@ -36,7 +33,7 @@ export function buildJsonLd(data: KeywordsData) {
         description:
           "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 매일 아침·저녁 자동 업데이트.",
         inLanguage: "ko-KR",
-        publisher: { "@id": `${SITE}/#org` },
+        publisher: { "@id": ORG_ID },
         potentialAction: {
           "@type": "SearchAction",
           target: {
@@ -51,9 +48,6 @@ export function buildJsonLd(data: KeywordsData) {
   };
 }
 
-// <script> 태그에 안전하게 박기 위한 직렬화.
-// 키워드는 뉴스 제목에서 오므로 '<'를 \u003c로 이스케이프해
-// 데이터에 '</script>'가 섞여도 태그를 깨고 나오지 못하게 한다.
 export function jsonLdHtml(data: KeywordsData): string {
-  return JSON.stringify(buildJsonLd(data)).replace(/</g, "\\u003c");
+  return serializeJsonLd(buildJsonLd(data));
 }

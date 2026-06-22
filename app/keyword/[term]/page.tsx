@@ -4,6 +4,7 @@ import AppShell from "../../components/AppShell";
 import { getAllKeywords, getKeywordDetail } from "../../data";
 import { categoryEmoji, categoryLabel } from "../../categories";
 import { cleanTitle } from "../../lib/format";
+import { keywordJsonLdHtml } from "./jsonld";
 
 type Props = { params: Promise<{ term: string }> };
 
@@ -52,6 +53,10 @@ export default async function KeywordPage({ params }: Props) {
 
   return (
     <AppShell>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: keywordJsonLdHtml(detail) }}
+      />
       <div className="max-w-2xl lg:py-2">
         {/* === 문서 헤더 (노션 타이틀 블록) === */}
         <header className="mb-8 pb-6 border-b border-zinc-200 dark:border-zinc-800">
