@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { CATEGORIES, categoryLabel } from "../categories";
 
 // 모바일 전용 하단 탭바 + 카테고리 바텀시트.
@@ -47,17 +47,23 @@ function IconSearch({ active }: { active: boolean }) {
 export default function MobileTabBar() {
   const pathname = usePathname();
   const [sheetOpen, setSheetOpen] = useState(false);
+  const triggerRef = useRef<HTMLButtonElement>(null);
+  const panelRef = useRef<HTMLDivElement>(null);
 
   // 시트 열릴 때 배경 스크롤 잠금 + ESC로 닫기.
+  // 모달 다이얼로그이므로 열릴 때 포커스를 시트 안으로 옮기고, 닫힐 때
+  // 트리거 버튼으로 되돌린다 (WCAG 2.4.3 포커스 관리).
   useEffect(() => {
     if (!sheetOpen) return;
     const prev = document.body.style.overflow;
     document.body.style.overflow = "hidden";
+    panelRef.current?.focus();
     const onKey = (e: KeyboardEvent) => e.key === "Escape" && setSheetOpen(false);
     window.addEventListener("keydown", onKey);
     return () => {
       document.body.style.overflow = prev;
       window.removeEventListener("keydown", onKey);
+      triggerRef.current?.focus();
     };
   }, [sheetOpen]);
 
@@ -84,7 +90,7 @@ export default function MobileTabBar() {
             className="absolute inset-0 bg-black/40 animate-[fadeIn_0.15s_ease]"
             onClick={() => setSheetOpen(false)}
           />
-          <div className="absolute inset-x-0 bottom-0 rounded-t-2xl bg-white dark:bg-zinc-900 border-t border-zinc-200 dark:border-zinc-800 pb-[calc(env(safe-area-inset-bottom)+1rem)] pt-2 animate-[slideUp_0.22s_cubic-bezier(0.16,1,0.3,1)]">
+          <div ref={panelRef} tabIndex={-1} className="absolute inset-x-0 bottom-0 rounded-t-2xl bg-white dark:bg-zinc-900 border-t border-zinc-200 dark:border-zinc-800 pb-[calc(env(safe-area-inset-bottom)+1rem)] pt-2 outline-none animate-[slideUp_0.22s_cubic-bezier(0.16,1,0.3,1)]">
             <div className="mx-auto mb-2 h-1 w-10 rounded-full bg-zinc-300 dark:bg-zinc-700" />
             <p className="px-5 pb-2 text-xs font-semibold uppercase tracking-wide text-zinc-400 dark:text-zinc-500">
               카테고리
@@ -121,7 +127,7 @@ export default function MobileTabBar() {
           <IconHome active={isHome} />
           홈
         </Link>
-        <button type="button" onClick={() => setSheetOpen(true)} aria-haspopup="dialog" aria-expanded={sheetOpen} className={`${tabBase} ${isCategory ? tabOn : tabOff}`}>
+        <button ref={triggerRef} type="button" onClick={() => setSheetOpen(true)} aria-haspopup="dialog" aria-expanded={sheetOpen} className={`${tabBase} ${isCategory ? tabOn : tabOff}`}>
           <IconGrid active={isCategory} />
           카테고리
         </button>
