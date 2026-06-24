@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useRef, useState } from "react";
 import type { Streak } from "../data";
 import { categoryEmoji, categoryLabel } from "../categories";
 
@@ -23,6 +23,21 @@ export default function StreakTrends({
 }) {
   const [period, setPeriod] = useState("365");
   const list = streaks[period] ?? [];
+  const tabRefs = useRef<(HTMLButtonElement | null)[]>([]);
+
+  // 탭 위젯은 화살표 키로 이동(←/→·Home/End)하는 것이 ARIA 표준이다.
+  // 좌우 이동 즉시 해당 기간을 선택(자동 활성화)하고 포커스도 옮긴다.
+  const onTabKeyDown = (e: React.KeyboardEvent, idx: number) => {
+    let next = idx;
+    if (e.key === "ArrowRight") next = (idx + 1) % PERIODS.length;
+    else if (e.key === "ArrowLeft") next = (idx - 1 + PERIODS.length) % PERIODS.length;
+    else if (e.key === "Home") next = 0;
+    else if (e.key === "End") next = PERIODS.length - 1;
+    else return;
+    e.preventDefault();
+    setPeriod(PERIODS[next].key);
+    tabRefs.current[next]?.focus();
+  };
 
   return (
     <section className="mb-10">
@@ -34,23 +49,34 @@ export default function StreakTrends({
       </div>
 
       <div className="flex gap-1.5 mb-4" role="tablist" aria-label="기간 선택">
-        {PERIODS.map((p) => (
-          <button
-            key={p.key}
-            role="tab"
-            aria-selected={period === p.key}
-            onClick={() => setPeriod(p.key)}
-            className={`px-3 py-1.5 rounded-full text-xs font-semibold transition-colors ${
-              period === p.key
-                ? "bg-zinc-900 dark:bg-white text-white dark:text-zinc-900"
-                : "bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500"
-            }`}
-          >
-            {p.label}
-          </button>
-        ))}
+        {PERIODS.map((p, i) => {
+          const selected = period === p.key;
+          return (
+            <button
+              key={p.key}
+              ref={(el) => {
+                tabRefs.current[i] = el;
+              }}
+              role="tab"
+              id={`streak-tab-${p.key}`}
+              aria-selected={selected}
+              aria-controls="streak-panel"
+              tabIndex={selected ? 0 : -1}
+              onClick={() => setPeriod(p.key)}
+              onKeyDown={(e) => onTabKeyDown(e, i)}
+              className={`px-3 py-1.5 rounded-full text-xs font-semibold transition-colors ${
+                selected
+                  ? "bg-zinc-900 dark:bg-white text-white dark:text-zinc-900"
+                  : "bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500"
+              }`}
+            >
+              {p.label}
+            </button>
+          );
+        })}
       </div>
 
+      <div id="streak-panel" role="tabpanel" aria-labelledby={`streak-tab-${period}`} tabIndex={0} className="outline-none">
       {list.length === 0 ? (
         <p className="text-center text-zinc-500 dark:text-zinc-400 text-sm py-10">
           이 기간엔 2일 이상 연속 1위 기록이 없어요.
@@ -83,6 +109,7 @@ export default function StreakTrends({
           ))}
         </div>
       )}
+      </div>
     </section>
   );
 }
