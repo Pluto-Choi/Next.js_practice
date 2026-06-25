@@ -4,6 +4,9 @@ import { useState } from 'react'
 
 export default function ShareButton({ topKeyword }: { topKeyword?: string }) {
   const [state, setState] = useState<'idle' | 'done'>('idle')
+  // 공유 결과를 스크린리더에 알리는 라이브 영역 메시지. 시각적 '공유됨'
+  // 배지만으로는 보이지 않는 사용자가 성공 여부를 알 수 없어 보완한다.
+  const [status, setStatus] = useState('')
 
   const handleShare = async () => {
     const title = '왓뉴스 👀'
@@ -16,11 +19,13 @@ export default function ShareButton({ topKeyword }: { topKeyword?: string }) {
       try {
         await navigator.share({ title, text, url })
         setState('done')
+        setStatus('공유했어요')
         setTimeout(() => setState('idle'), 2000)
       } catch {}
     } else {
       await navigator.clipboard.writeText(`${text}\n\n👉 ${url}`)
       setState('done')
+      setStatus('공유 링크를 복사했어요')
       setTimeout(() => setState('idle'), 2000)
     }
   }
@@ -51,6 +56,9 @@ export default function ShareButton({ topKeyword }: { topKeyword?: string }) {
           </>
         )}
       </button>
+      <span role="status" aria-live="polite" className="sr-only">
+        {status}
+      </span>
     </div>
   )
 }
