@@ -53,12 +53,35 @@ export default function MobileTabBar() {
   // 시트 열릴 때 배경 스크롤 잠금 + ESC로 닫기.
   // 모달 다이얼로그이므로 열릴 때 포커스를 시트 안으로 옮기고, 닫힐 때
   // 트리거 버튼으로 되돌린다 (WCAG 2.4.3 포커스 관리).
+  // Tab 포커스는 시트 안에서 순환시켜 배경으로 새지 않게 가둔다 (포커스 트랩).
   useEffect(() => {
     if (!sheetOpen) return;
     const prev = document.body.style.overflow;
     document.body.style.overflow = "hidden";
     panelRef.current?.focus();
-    const onKey = (e: KeyboardEvent) => e.key === "Escape" && setSheetOpen(false);
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") {
+        setSheetOpen(false);
+        return;
+      }
+      if (e.key !== "Tab") return;
+      const panel = panelRef.current;
+      if (!panel) return;
+      const items = panel.querySelectorAll<HTMLElement>(
+        'a[href], button:not([disabled])'
+      );
+      if (items.length === 0) return;
+      const first = items[0];
+      const last = items[items.length - 1];
+      const active = document.activeElement;
+      if (e.shiftKey && (active === first || active === panel)) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && active === last) {
+        e.preventDefault();
+        first.focus();
+      }
+    };
     window.addEventListener("keydown", onKey);
     return () => {
       document.body.style.overflow = prev;
