@@ -19,7 +19,7 @@ export default function UpdatedAt({ updatedAt, date }: { updatedAt?: string; dat
   return (
     <>
       {updatedAt ? `${updatedAt} 업데이트` : date}
-      {rel && <span className="text-zinc-400 dark:text-zinc-500"> · {rel}</span>}
+      {rel && <span className="text-zinc-500 dark:text-zinc-500"> · {rel}</span>}
     </>
   );
 }

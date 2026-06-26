@@ -55,7 +55,7 @@ function RankChangeBadge({ change }: { change?: RankChange }) {
   return (
     <span
       className={`text-[11px] font-semibold tabular-nums shrink-0 ${
-        isUp ? "text-orange-700 dark:text-orange-400" : "text-zinc-400 dark:text-zinc-500"
+        isUp ? "text-orange-700 dark:text-orange-400" : "text-zinc-500 dark:text-zinc-500"
       }`}
       aria-label={isUp ? `${change.delta}계단 상승` : `${change.delta}계단 하락`}
     >
@@ -95,7 +95,7 @@ function KeywordCard({
                 </p>
               )}
               {isTop && item.articles.length > 0 && (
-                <p className="group-open:hidden mt-1.5 text-[11px] font-medium text-zinc-400 dark:text-zinc-500">
+                <p className="group-open:hidden mt-1.5 text-[11px] font-medium text-zinc-500 dark:text-zinc-500">
                   관련 기사 {item.articles.length}건
                 </p>
               )}
@@ -108,14 +108,14 @@ function KeywordCard({
       <div className="border-t border-zinc-100 dark:border-zinc-800 px-4 py-3.5 flex flex-col gap-3.5">
         {item.description && (
           <div className="border-l-2 border-orange-300 dark:border-orange-800 pl-3">
-            <p className="text-[11px] font-semibold text-zinc-400 dark:text-zinc-500 mb-1 tracking-wide">AI 요약</p>
+            <p className="text-[11px] font-semibold text-zinc-500 dark:text-zinc-500 mb-1 tracking-wide">AI 요약</p>
             <p className="text-zinc-700 dark:text-zinc-200 text-sm leading-relaxed break-keep">
               {item.description}
             </p>
           </div>
         )}
         {item.articles.length > 0 && (
-          <p className="text-[11px] font-semibold tracking-wide text-zinc-400 dark:text-zinc-500">
+          <p className="text-[11px] font-semibold tracking-wide text-zinc-500 dark:text-zinc-500">
             관련 기사 {item.articles.length}
           </p>
         )}
@@ -127,13 +127,13 @@ function KeywordCard({
             rel="noopener noreferrer"
             className="flex items-start gap-3 group/link -mx-2 px-2 py-1.5 rounded-lg transition-colors hover:bg-zinc-50 dark:hover:bg-zinc-800/40 active:bg-zinc-100 dark:active:bg-zinc-700/40"
           >
-            <span className="text-zinc-400 dark:text-zinc-500 text-xs font-medium mt-0.5 shrink-0 w-3 tabular-nums">{idx + 1}</span>
+            <span className="text-zinc-500 dark:text-zinc-500 text-xs font-medium mt-0.5 shrink-0 w-3 tabular-nums">{idx + 1}</span>
             <div className="min-w-0 flex-1">
               <p className="text-zinc-700 dark:text-zinc-200 text-sm leading-snug group-hover/link:text-orange-700 dark:group-hover/link:text-orange-400 group-hover/link:underline underline-offset-2 transition-colors break-keep">
                 {cleanTitle(article.title)}
               </p>
               {article.source && (
-                <p className="text-zinc-400 dark:text-zinc-500 text-xs mt-0.5">{article.source}</p>
+                <p className="text-zinc-500 dark:text-zinc-500 text-xs mt-0.5">{article.source}</p>
               )}
             </div>
             <span className="text-zinc-300 dark:text-zinc-600 text-xs mt-0.5 shrink-0 group-hover/link:text-orange-700 dark:group-hover/link:text-orange-400 transition-colors" aria-hidden="true">↗</span>
@@ -168,7 +168,7 @@ function EmptyCategory({ category }: { category?: string }) {
       <p className="text-sm font-medium text-zinc-500 dark:text-zinc-400">
         {(category ? `${categoryLabel[category] || category} ` : "")}키워드를 준비 중이에요
       </p>
-      <p className="mt-1.5 text-xs text-zinc-400 dark:text-zinc-500">
+      <p className="mt-1.5 text-xs text-zinc-500 dark:text-zinc-500">
         매일 아침·저녁 자동 업데이트 · 다음 수집에서 채워집니다
       </p>
     </section>
@@ -307,7 +307,7 @@ function RankBoard({
         {showAllLink && slug && (
           <Link
             href={`/category/${slug}`}
-            className="text-xs font-medium text-zinc-400 dark:text-zinc-500 hover:text-orange-700 dark:hover:text-orange-400 transition-colors shrink-0"
+            className="text-xs font-medium text-zinc-500 dark:text-zinc-500 hover:text-orange-700 dark:hover:text-orange-400 transition-colors shrink-0"
           >
             전체 보기 →
           </Link>

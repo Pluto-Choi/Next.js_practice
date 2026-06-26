@@ -97,7 +97,7 @@ export default function StreakTrends({
                   {s.streak}일 연속
                 </span>
               </div>
-              <div className="mt-1 text-xs text-zinc-400 dark:text-zinc-500 tabular-nums">
+              <div className="mt-1 text-xs text-zinc-500 dark:text-zinc-500 tabular-nums">
                 {md(s.start)} ~ {md(s.end)}
               </div>
               {s.ai_summary && (

@@ -110,7 +110,7 @@ export default function KeywordSearch({ keywords }: { keywords: string[] }) {
               </Link>
             ))
           ) : (
-            <p className="px-4 py-2.5 text-sm text-zinc-400 dark:text-zinc-500">
+            <p className="px-4 py-2.5 text-sm text-zinc-500 dark:text-zinc-500">
               검색 결과 없음
             </p>
           )}

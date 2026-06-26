@@ -29,7 +29,7 @@ export default function DateArchive({ entries }: { entries: DateArchiveEntry[] }
 
       {[...groups].map(([label, days]) => (
         <div key={label} className="mb-6">
-          <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-zinc-400 dark:text-zinc-500">
+          <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-500">
             {label}
           </p>
           <ul className="flex flex-col">
@@ -43,7 +43,7 @@ export default function DateArchive({ entries }: { entries: DateArchiveEntry[] }
                   >
                     <span className="w-12 shrink-0 text-sm font-semibold tabular-nums text-zinc-700 dark:text-zinc-200">
                       {day}일
-                      <span className="ml-0.5 text-zinc-400 dark:text-zinc-500">{weekday}</span>
+                      <span className="ml-0.5 text-zinc-500 dark:text-zinc-500">{weekday}</span>
                     </span>
                     <span className="min-w-0 flex-1 truncate text-[13px] text-zinc-500 dark:text-zinc-400 group-hover/day:text-orange-700 dark:group-hover/day:text-orange-400 transition-colors break-keep">
                       {entry.topWords.length > 0 ? entry.topWords.join(" · ") : "키워드 보기"}

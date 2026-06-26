@@ -4,7 +4,7 @@ import AdFitBanner from "./AdFitBanner";
 // 데스크탑 전용 우측 사이드바. 스크롤해도 sticky 유지(부가 위젯/링크).
 export default function RightSidebar({ className = "" }: { className?: string }) {
   const sectionLabel =
-    "px-1 mb-2 text-[11px] font-semibold uppercase tracking-wide text-zinc-400 dark:text-zinc-500";
+    "px-1 mb-2 text-[11px] font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-500";
 
   return (
     <aside aria-label="부가 정보" className={className}>

@@ -166,7 +166,7 @@ export default async function KeywordPage({ params }: Props) {
           </section>
         )}
 
-        <p className="text-zinc-400 dark:text-zinc-500 text-xs pb-4">
+        <p className="text-zinc-500 dark:text-zinc-500 text-xs pb-4">
           누적 수집 데이터 기반 · Google News RSS
         </p>
       </div>

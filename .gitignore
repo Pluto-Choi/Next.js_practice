@@ -58,6 +58,11 @@ TOOLS.md
 USER.md
 .openclaw-cli-images/
 
+# internal analytics report (local-only, uses out-of-repo key)
+weekly_report.py
+# devlog auto-sync to Notion (local-only)
+devlog_sync.py
+
 # python cache
 __pycache__/
 *.pyc
@@ -67,6 +72,8 @@ notion_body.json
 
 # 로컬 스크래치/실험 — 커밋하지 않음
 experiments/
+# claude design-sync 스테이징 (디자인 시스템 프리뷰 카드 빌드 산출물)
+.design-sync/
 invest-news/
 tech-news/
 gukshil_qr*.png
