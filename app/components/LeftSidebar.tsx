@@ -3,10 +3,8 @@ import { CATEGORIES, categoryLabel } from "../categories";
 
 // 데스크탑 전용 좌측 사이드바. 스크롤해도 sticky로 유지(부가 네비/링크).
 export default function LeftSidebar({
-  recentDates,
   className = "",
 }: {
-  recentDates: string[];
   className?: string;
 }) {
   const navLink =
@@ -33,29 +31,8 @@ export default function LeftSidebar({
                 <span aria-hidden="true">🗃️</span>뉴스창고
               </Link>
             </li>
-            <li>
-              <Link href="/guide" className={navLink}>
-                <span aria-hidden="true">❓</span>이용 가이드
-              </Link>
-            </li>
           </ul>
         </nav>
-
-        {recentDates.length > 1 && (
-          <nav aria-label="지난 뉴스">
-            <p className={sectionLabel}>지난 뉴스</p>
-            <ul className="flex flex-col gap-0.5">
-              {recentDates.slice(1, 6).map((d) => (
-                <li key={d}>
-                  <Link href={`/${d}`} className={navLink}>
-                    <span aria-hidden="true">🗓️</span>
-                    {d}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </nav>
-        )}
 
         <div className="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4">
           <p className="text-sm font-bold text-zinc-900 dark:text-white">📬 뉴스 구독</p>
