@@ -38,7 +38,7 @@ export default async function KeywordPage({ params }: Props) {
   const detail = await getKeywordDetail(term);
   if (!detail) notFound();
 
-  const { word, headline, categories, latestDate, articles, description, sections, sources } = detail;
+  const { word, headline, categories, latestDate, daysCount, peakRank, articles, description, sections, sources } = detail;
   const title = headline || word;
   const hasSections = !!sections && sections.length > 0;
 
@@ -73,6 +73,17 @@ export default async function KeywordPage({ params }: Props) {
           <h1 className="text-2xl lg:text-3xl font-bold leading-snug tracking-tight break-keep">
             {title}
           </h1>
+
+          {/* 키워드의 화제성을 한눈에: 최고 순위·등장 일수. 데이터는 이미
+              계산돼 메타 설명에만 쓰이던 것을 본문에 노출해 정보 위계를 보강. */}
+          <div className="mt-3 flex flex-wrap items-center gap-1.5">
+            <span className="text-[11px] font-semibold px-2 py-0.5 rounded-full bg-orange-50 text-orange-700 dark:bg-orange-950/50 dark:text-orange-400 tabular-nums">
+              최고 {peakRank}위
+            </span>
+            <span className="text-[11px] font-medium px-2 py-0.5 rounded-full bg-zinc-100 text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400 tabular-nums">
+              {daysCount}일 등장
+            </span>
+          </div>
         </header>
 
         {/* === 본문 도입 (AI 요약) === */}
