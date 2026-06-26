@@ -32,30 +32,35 @@ export default function DateArchive({ entries }: { entries: DateArchiveEntry[] }
           <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-500">
             {label}
           </p>
-          <ul className="flex flex-col">
+          <div className="grid grid-cols-2 gap-3">
             {days.map((entry) => {
               const { day, weekday } = parts(entry.date);
               return (
-                <li key={entry.date}>
-                  <Link
-                    href={`/${entry.date}`}
-                    className="group/day flex items-center gap-3 border-b border-zinc-100 dark:border-zinc-800/60 py-3 transition-colors"
-                  >
-                    <span className="w-12 shrink-0 text-sm font-semibold tabular-nums text-zinc-700 dark:text-zinc-200">
-                      {day}일
-                      <span className="ml-0.5 text-zinc-500 dark:text-zinc-500">{weekday}</span>
-                    </span>
-                    <span className="min-w-0 flex-1 truncate text-[13px] text-zinc-500 dark:text-zinc-400 group-hover/day:text-orange-700 dark:group-hover/day:text-orange-400 transition-colors break-keep">
-                      {entry.topWords.length > 0 ? entry.topWords.join(" · ") : "키워드 보기"}
-                    </span>
-                    <span aria-hidden="true" className="shrink-0 text-zinc-300 dark:text-zinc-600">
-                      ›
-                    </span>
-                  </Link>
-                </li>
+                <Link
+                  key={entry.date}
+                  href={`/${entry.date}`}
+                  className="group/day block rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-3.5 shadow-sm dark:shadow-none hover:border-zinc-400 dark:hover:border-zinc-600 transition-colors"
+                >
+                  <div className="mb-2.5 flex items-baseline gap-1.5">
+                    <span className="text-sm font-bold tabular-nums text-zinc-800 dark:text-zinc-100">{day}일</span>
+                    <span className="text-xs text-zinc-500 dark:text-zinc-500">{weekday}</span>
+                  </div>
+                  {entry.topWords.length > 0 ? (
+                    <ol className="flex flex-col gap-2">
+                      {entry.topWords.map((w, i) => (
+                        <li key={i} className="flex items-start gap-2">
+                          <span className="mt-0.5 w-3.5 shrink-0 text-[11px] font-bold tabular-nums text-zinc-400 dark:text-zinc-500">{i + 1}</span>
+                          <span className="min-w-0 flex-1 text-[13px] leading-snug text-zinc-700 dark:text-zinc-300 line-clamp-2 break-keep group-hover/day:text-orange-700 dark:group-hover/day:text-orange-400 transition-colors">{w}</span>
+                        </li>
+                      ))}
+                    </ol>
+                  ) : (
+                    <p className="text-[13px] text-zinc-400 dark:text-zinc-500">키워드 보기 ›</p>
+                  )}
+                </Link>
               );
             })}
-          </ul>
+          </div>
         </div>
       ))}
     </section>

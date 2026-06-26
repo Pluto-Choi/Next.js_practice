@@ -5,7 +5,7 @@ import KeywordDisplay from "../components/KeywordDisplay";
 import AppShell from "../components/AppShell";
 import UpdatedAt from "../components/UpdatedAt";
 import { jsonLdHtml } from "../jsonld";
-import { loadHistoryData, getRecentDates, getRankChanges, getAllDates } from "../data";
+import { loadHistoryData, getRankChanges, getAllDates } from "../data";
 import { HERO_CATEGORY } from "../categories";
 
 type Props = { params: Promise<{ date: string }> };
@@ -52,11 +52,16 @@ export default async function HistoryPage({ params }: Props) {
 
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) notFound();
 
-  const [data, recentDates] = await Promise.all([loadHistoryData(date), getRecentDates()]);
+  const [data, allDates] = await Promise.all([loadHistoryData(date), getAllDates()]);
 
   if (!data) notFound();
 
   const rankChanges = await getRankChanges(data);
+
+  // allDates는 최신순(내림차순). 인접 날짜로 전날/다음날 이동을 만든다.
+  const idx = allDates.indexOf(date);
+  const newerDate = idx > 0 ? allDates[idx - 1] : null; // 더 최신 = 다음날
+  const olderDate = idx >= 0 && idx < allDates.length - 1 ? allDates[idx + 1] : null; // 더 과거 = 전날
 
   return (
     <AppShell>
@@ -71,33 +76,43 @@ export default async function HistoryPage({ params }: Props) {
           <UpdatedAt updatedAt={data.updated_at} date={data.date} /> · Google News RSS
         </p>
 
-        {recentDates.length > 0 && (
-          <div className="relative mb-5">
-            <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-none" role="navigation" aria-label="날짜 선택">
-              <Link
-                href="/"
-                className="px-3 py-2.5 rounded-full text-xs font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors shrink-0"
-              >
-                오늘
-              </Link>
-              {recentDates.slice(1).map((d) => (
-                <Link
-                  key={d}
-                  href={`/${d}`}
-                  aria-current={d === date ? "page" : undefined}
-                  className={`px-3 py-2.5 rounded-full text-xs font-medium shrink-0 transition-colors ${
-                    d === date
-                      ? "bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 font-semibold"
-                      : "bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-500 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500"
-                  }`}
-                >
-                  {d.slice(5)}
-                </Link>
-              ))}
-            </div>
-            <div className="pointer-events-none absolute right-0 top-0 h-full w-8 bg-gradient-to-l from-zinc-50 dark:from-zinc-950" aria-hidden="true" />
-          </div>
-        )}
+        <nav className="mb-5 flex items-center justify-between gap-2" aria-label="날짜 이동">
+          {olderDate ? (
+            <Link
+              href={`/${olderDate}`}
+              className="inline-flex items-center gap-1 rounded-lg px-2.5 py-1.5 text-sm font-medium text-zinc-600 dark:text-zinc-300 hover:text-orange-700 dark:hover:text-orange-400 transition-colors"
+            >
+              ← 전날
+            </Link>
+          ) : (
+            <span className="inline-flex items-center gap-1 px-2.5 py-1.5 text-sm text-zinc-300 dark:text-zinc-600" aria-disabled="true">
+              ← 전날
+            </span>
+          )}
+
+          <Link
+            href="/trends"
+            className="inline-flex items-center gap-1 rounded-lg px-3 py-1.5 text-xs font-medium text-zinc-500 dark:text-zinc-400 hover:text-orange-700 dark:hover:text-orange-400 transition-colors"
+          >
+            ↩ 트렌드로 돌아가기
+          </Link>
+
+          {newerDate ? (
+            <Link
+              href={`/${newerDate}`}
+              className="inline-flex items-center gap-1 rounded-lg px-2.5 py-1.5 text-sm font-medium text-zinc-600 dark:text-zinc-300 hover:text-orange-700 dark:hover:text-orange-400 transition-colors"
+            >
+              다음날 →
+            </Link>
+          ) : (
+            <Link
+              href="/"
+              className="inline-flex items-center gap-1 rounded-lg px-2.5 py-1.5 text-sm font-medium text-zinc-600 dark:text-zinc-300 hover:text-orange-700 dark:hover:text-orange-400 transition-colors"
+            >
+              오늘 →
+            </Link>
+          )}
+        </nav>
 
         <KeywordDisplay data={data} rankChanges={rankChanges} />
 

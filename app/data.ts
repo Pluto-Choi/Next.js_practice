@@ -102,7 +102,7 @@ export async function getAllKeywords(): Promise<string[]> {
 
 export type DateArchiveEntry = {
   date: string;
-  topWords: string[]; // 그날 "오늘의 이슈" 상위 키워드 구(헤드라인 우선)
+  topWords: string[]; // 그날 "오늘의 이슈" 상위 3개 키워드 구(헤드라인 우선, 순위순)
 };
 
 // 날짜별 둘러보기용. 수집된 모든 날짜를 최신순으로, 각 날짜의 대표 이슈 키워드와 함께 반환한다.
