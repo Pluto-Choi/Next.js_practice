@@ -34,18 +34,17 @@ export default function LeftSidebar({
           </ul>
         </nav>
 
-        <div className="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4">
-          <p className="text-sm font-bold text-zinc-900 dark:text-white">📬 뉴스 구독</p>
-          <p className="mt-1 text-xs leading-relaxed text-zinc-500 dark:text-zinc-400">
-            업데이트되는 핫이슈를 RSS로 받아보세요.
-          </p>
-          <a
-            href="/rss.xml"
-            className="mt-2.5 inline-flex items-center gap-1.5 rounded-lg bg-orange-600 px-3 py-2 text-xs font-semibold text-white hover:bg-orange-700 transition-colors"
-          >
-            <span aria-hidden="true">📡</span>RSS 구독하기
-          </a>
-        </div>
+        <nav aria-label="바로가기">
+          <p className={sectionLabel}>바로가기</p>
+          <div className="flex flex-col gap-0.5">
+            <a href="/rss.xml" className={navLink}>
+              <span aria-hidden="true">📡</span>RSS
+            </a>
+            <Link href="/guide" className={navLink}>
+              <span aria-hidden="true">❓</span>이용 가이드
+            </Link>
+          </div>
+        </nav>
       </div>
     </aside>
   );
