@@ -20,7 +20,7 @@ export default async function TrendsPage() {
             <span aria-hidden="true">🗃️</span>뉴스창고
           </h1>
           <p className="mt-1.5 text-sm text-zinc-500 dark:text-zinc-400 break-keep">
-            그동안 모은 뉴스를 한 곳에. 월을 골라 그날의 키워드를 둘러보세요.
+            그동안 모은 뉴스를 한 곳에. 지난 날의 키워드를 둘러보세요.
           </p>
         </header>
 

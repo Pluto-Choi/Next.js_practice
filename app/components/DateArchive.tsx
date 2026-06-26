@@ -82,7 +82,7 @@ export default function DateArchive({ entries }: { entries: DateArchiveEntry[] }
       {/* 선택 월 요약 + 정렬 토글 */}
       <div className="mb-3 flex items-center justify-between gap-2">
         <p className="text-xs font-semibold uppercase tracking-wide text-zinc-500 dark:text-zinc-500">
-          {selY}년 {Number(selM)}월 · {days.length}일
+          {selY}년 {Number(selM)}월
         </p>
         <button
           type="button"
