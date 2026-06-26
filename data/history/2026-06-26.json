@@ -1,139 +1,163 @@
 {
   "date": "2026-06-26",
-  "updated_at": "2026-06-26 17:39",
+  "updated_at": "2026-06-26 20:24",
   "categories": {
     "오늘의 이슈": {
-      "summary": "법원이 김건희 여사의 금품수수·청탁 대가를 인정한 가운데, 민주당 차기 당권 선호도는 김민석 45%로 1위.",
+      "summary": "호르무즈해협 긴장 속 한국 선박 철수 진행 · 영국 왕실 세무기록 첫 공개 · 제임스 웹, 별 탄생 현장 포착",
       "keywords": [
         {
           "rank": 1,
-          "word": "인정",
-          "count": 2,
+          "word": "공개",
+          "count": 3,
           "articles": [
             {
-              "title": "법원, 김건희 ‘서희건설 금품수수’ 모두 인정",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tbDRWeFJsVzFQNDMwZkJzT09QR0Y3YlVIcGZydXBKU2Zpak5VcHdzaUh2OWdiM09PbGpwZFVlcVdlYmdSYnBSRnlSZkRpYW5PSXhLN25MRG5IUdIBX0FVX3lxTE9XeThlMGRiNFFCa2F0YUJqNm9mR2pQYTlhNndzSVZqcjUxQnZkSTJud3cxNU05S2pWdzVYSk5nLXZNZ3ItUlR2c2Q3LWwxVFMwcUtmeW5Kc2VfUjFWZmNZ?oc=5",
-              "source": "경향신문"
+              "title": "英 왕실 세무기록 첫 공개…찰스 3세 세금 264억원 냈다",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WTk1QQmJIeC1aX3YyMnhpaDlOOFFNVzA0ZkhrVTR3VEpMRE9mbmQzM2hOdEZKaktLRk1QeXY5TG9HWWpWVzlWOGx4V1ZLa0pfTjU2NUJVek1yR2htOTBXcg?oc=5",
+              "source": "아시아경제"
             },
             {
-              "title": "법원, 김건희 ‘디올백’ 청탁 대가 인정",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wZ3ZhaEkyRzNsRzN4SDdpRjYyajYyeldLeF92NkNlV3pZaEd6WHZ0X1ZtQjRyUDhHQjR3aGNtZGtvMDV4anJfV0ZjcGF0eFoyOW9ub0xVZldZM2M?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "법원 \"김건희, 알선 명목 '반클리프 목걸이' 수수 인정\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11YnFUNXF6YWdIQVd3ckI3WjF0OWJha0hwTGVUaFBjbnhyMFBwNEtES1RVYmJCWHhyZG5vb2VSTVFWQU0wTDk5eEVvYlBfd2FsYlVVbFB0WmQtZFXSAWBBVV95cUxPS1hrSnNGMmYyRDEyR2tQMnpvOEtqS2pHMVRnWXM2eGRDUF9yMlNtdU1qdms5NXVIeXVIanF1c1B2bTJ3Q2VDYjZnbDVYTkh3YTN5ZWEyRXhBOW1waWM5dFo?oc=5",
+              "title": "왕실 세무기록 첫 공개…찰스 3세 영국왕 연간 264억원 냈다",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aRDFoazdJSlFtNDk4RDlzdUd3elpBZlVMWWN5T25nQmdLZ2NzNDhvMmJDT01jRlRxaGVpTDJsaXZHZ290N1h4U3J4bTVUZGFMOTYxOE5WWnNvaDTSAWBBVV95cUxNRkNGOUFXQW1ZUWNpREZ4U0RmOG5xUjlYNGdmM3Z5WmNOWm9HdTBzbWEyYWh6RXhERzFGamMwVE9UMkh4ZGZYOEZRUnV0aThnRzR3b0dHRk9aLUlIYm5JVzE?oc=5",
               "source": "연합뉴스"
+            },
+            {
+              "title": "영국 왕실 세무기록 첫 공개…찰스 3세 연 264억원 세금 납부",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LNFFseHpxM2NDSkIwS2VPSUlSeFM3VC0zTEVfNGxXYnI3X2JMemNnWkNvaW9RVFhQcXY1cnhCX1hpU2ZFNDVkRUtFLThRMmNtSVNwdEdB?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "법원이 김건희 여사의 서희건설 금품수수와 디올백 청탁 대가 수수, 반클리프 목걸이 수수 혐의를 모두 인정했다. 명품 가방부터 목걸이, 건설사 금품까지 여러 건의 혐의가 재판부에 의해 일괄 인정된 것으로, 이번 판단이 향후 재판 결과에 미칠 영향에 관심이 쏠린다. 오늘 처음 등장한 키워드로, 판결 소식이 전해지자마자 빠르게 주목받았다.",
-          "headline": "법원, 김건희 금품수수 혐의 모두 인정"
+          "description": "영국 왕실이 사상 처음으로 세무기록을 공개하면서 찰스 3세가 연간 264억 원의 세금을 납부한 사실이 드러났다. 왕실 재정이 공식 문서로 공개된 것은 이번이 처음으로, 왕실 수입과 납세 내역에 대한 투명성 논의를 불러일으키고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "英 왕실 세무기록 사상 첫 공개"
         },
         {
           "rank": 2,
-          "word": "김민석",
-          "count": 2,
+          "word": "치료",
+          "count": 3,
           "articles": [
             {
-              "title": "민주당 지지층 45%, 김민석 당대표 선호…정청래 24%·송영길 15%[갤럽]",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNUE1meHhLSDhnM3Q5Sm05SjdvamJLNUl6RkFMQmMwLW9TOEdDREJlSGRXN0tnTHNXcVVjRkFjS29mZUJGNEVHQkFFa3NydVNIQ2NQSHBHZXBlQ2c?oc=5",
-              "source": "뉴스1"
+              "title": "“7월 도수치료 관리급여 결사반대”…의사도 물치사도 28일 장외로",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WRXM3R0JrdUJLQjhSTFBPZGM1Z2FOa3diUXFUXzdabl9IT1N2bUlxX253eEF5VXpGNFNQb18yWW9lS2I3TGhobnFmaFozMS1HbHhpQzZ6Y3phTzhoLXBma0w2ZUQ0czY2VlY4R1FWMNIBc0FVX3lxTFBsWXBNcXVybmJGZGY2bDFWb2dVUnlOS1R0akFLMTFDMDhUMUdaU0ZBSXNaMU8wRGJrUmpGYWxvNzh5Wmx5c3JZVVRLZHV2aUZhYjhtV08tRkFtNFpSTTNfZmNSWDM4QnZONklUWVZLXzZLTGs?oc=5",
+              "source": "청년의사"
             },
             {
-              "title": "정부안 접은 김민석 \"보완수사권 폐지가 최종 입장‥이제 국회에서\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Kc2pwYjBDZG5sVmdGZHRtd0VYdmZMWnJkbS00UzJTYy1NYVF6encyN0pyblppdS1OZWRKUmlvbVo0cDlPNFZHZFZaUV9oQXc?oc=5",
-              "source": "v.daum.net"
+              "title": "“사우나 세신비보다 못한 도수치료 수가...신경외과 벼랑 끝”",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IZE9OWk1LLVdDSlNSeGk5czVoZ0tFTGNWTV9wQkFScFd5bFdjdWJWT2p3X1hhdlRCN3VVMTlvUktkRXgtdGNRWWF0SUtMaC1aWEI2XzFQTlpMVDdXcE9tVmc1UUNMOVhuQ2c?oc=5",
+              "source": "의학신문"
             },
             {
-              "title": "국힘 “김민석·정청래, 檢보완수사권 제물 삼아 공천권 경쟁…민심 분노”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01V0JEUG4yN21PZ2xrcUxuWG80OFJHaVY1SjFkV0NwaV9tR3I1V2FTR1lWTHVRVTNlNnotYUNGSW5vbnJvS3JiQkZmZ1YxRHc?oc=5",
-              "source": "v.daum.net"
+              "title": "대학병원도 '도수치료' 중단…관리급여 여파에 '사장' 수순",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oYVNIYTc4MTNCQVoxQTVlazlCQXRKNHY5NEFFdmtFZW9ra25xSDVNZHRRbHU5NUZSbGV2ZGM4ZFZRR0xzUWlsNHA4WmpxeXBXRG82S1dYNA?oc=5",
+              "source": "MEDI:GATE NEWS"
             }
           ],
-          "description": "한국갤럽 조사에서 민주당 지지층의 45%가 차기 당 대표로 김민석을 선호하는 것으로 나타났으며, 정청래(24%)·송영길(15%)이 뒤를 이었다. 검찰 보완수사권 폐지 문제에서도 김민석이 '폐지가 최종 입장'이라며 국회에 공을 넘기는 등 존재감을 높이고 있다. 국민의힘은 김민석과 정청래가 보완수사권을 공천권 경쟁의 수단으로 삼고 있다고 비판했다.",
-          "headline": "김민석, 민주당 차기 대표 선호도 1위"
+          "description": "정부의 도수치료 관리급여 전환 방침에 의사·물리치료사 단체가 28일 장외 집회를 예고하며 강하게 반발하고 있다. 일선 병원들은 낮아진 수가로는 운영이 불가능하다며 치료 중단에 나서고 있고, 대학병원 일부도 도수치료를 중단하는 등 현장 혼란이 가속화되는 양상이다. 관리급여 제도는 비급여 항목을 건강보험 관리 체계로 편입해 가격을 통제하는 방식으로, 의료계는 수가가 지나치게 낮다고 주장한다. 오늘 처음 등장한 키워드다.",
+          "headline": "도수치료 관리급여 전환에 의료계 반발"
         },
         {
           "rank": 3,
-          "word": "불참",
+          "word": "호르무즈",
           "count": 2,
           "articles": [
             {
-              "title": "6·25 행사 불참 후 '또' 집회현장 찾은 장동혁 [앵커리포트]",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uS2RjQ2oyNVNoU2xtblNpV0RrQXdRdlE5UDhtYUQxVC1NcUhfaHdpNU9DMnBzek5VNXMzZVlCT1BCeWZKRkFzM3NTUzBmWUpFeXZJQlVlSUNLeGZPWVE?oc=5",
-              "source": "YTN"
+              "title": "이 대통령 “호르무즈해협 남은 배 3척 주말 안에 빠져나올 것”",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uQTMxZ3JSdEZFTnRhYTBjak9OS1Q0dkNybUw3M2Jub1RGd3U0RG1oNW12RDZsLVQ0TXMtcFRudDdKVC1Tdnl6d0ZCcHVkd01sYU15Zl9aM0QwUjhBLVFlQ0lhTktRTExadzRJ?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "장동혁, 6·25 기념식 불참 뒤 '올림픽공원'행‥\"시민 함성 귀에 맴돌아\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sZ21reVZIckdJZ1BJa0d6dmVNaTE5U0w2Ty1iX2FTd0RRU1FQT2ZoTEwzV0tIbHBHeTcwSjExbWlnNjZBckZnQ25PU1EteDNKejZRZjUtX3pybERmeklNbWd1dVNDemVWcUxYTnpjQzlKNWpEdkx4TtIBeEFVX3lxTE95QV9XYXI3dEctMHV2SGFmQU1GNXFHOG54T19GdXJOZTJzaFFLTm4xMVNHdGJYTlZTOS13NS05Y3NkNE5fRWZwNWRuRTRlaFdvUFZsTnhQX0ZDaEJwa0hFTGJhZlNzODRENV91T1hrNUxvUXlEYTFaVw?oc=5",
+              "title": "한국 선박 8척 호르무즈 해협 추가 탈출‥우리 선박 남은 건 5척",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40cURwdnVNMzhyNDBNUE5ELWxIdWFvX05oQW1zUkVmVVFmX0hKc1BaZC1LSVZ1V1RXclprbGVlYjVaSUYzaElZRmpHTHVTZ2VuZnEzMHpJckNjUkQ0ZGlzdVdSMzlRS1B5X0lkdl9sNUp4NUdN0gF0QVVfeXFMTnk4NXRlQ1FWVXFQTTBGYnVOOEZubjZCUVpYQzBwc1NDRTExamxtYnVRSHBqQUZKZEIyd1pVcWlPbUpuLVIxUzNiQTVnVE5wVTgzbTJjMElEUVpfdmhoZkIxck5ucWNqUHJxZExscHdsQUZMelU?oc=5",
               "source": "MBC 뉴스"
             },
             {
-              "title": "민주당, '6·25 기념식 불참' 장동혁에 \"말로만 '안보', 행동은 '외면'\"",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14bGhBbmFWZHRNeTVQVUdpV25yM0lNb3B0RWhwXzdudFFuSjMwT1Z1c3E5cldxMW1YeXNzUWNkM2NMaHFaWmd5OUxmeUotNWNaelhmVA?oc=5",
+              "title": "호르무즈 열며 '62조원 청구서' 꺼낸 이란…美 \"국제수로 수수료 불가\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sdzlwQ3pKNUU3Q2VSMnpEMUhYeW05eE9QbEdES3hnYkk2a1N3aFRJM1pJNmE2ZFJGT3VrZW1leXRVaFdQYkhqMFdHOFJBZGs?oc=5",
               "source": "v.daum.net"
             }
           ],
-          "description": "국민의힘 장동혁 의원이 6·25 전쟁 기념식에 불참한 뒤 올림픽공원 집회 현장을 찾은 사실이 알려지며 논란이 됐다. 장 의원은 '시민들의 함성이 귀에 맴돈다'고 밝혔으나, 민주당은 '말로만 안보를 외치고 행동은 외면했다'며 강하게 비판했다. 기념식 불참 후 집회 현장 방문이 '또' 반복된 행태라는 점에서 비판 여론이 확산되고 있다.",
-          "headline": "장동혁, 6·25 기념식 불참 후 집회 현장 방문"
+          "description": "이재명 대통령은 호르무즈 해협에 남은 한국 선박 3척이 이번 주말 안에 빠져나올 것이라고 밝혔다. 앞서 8척이 추가 탈출에 성공했으나 아직 5척이 잔류 중이며, 이란 혁명수비대의 드론 공격으로 화물선이 피격되면서 철수 작전도 일시 중단됐다. 이란은 호르무즈 해협 통과에 대한 수수료 명목으로 62조 원 규모의 청구서를 꺼내 들었고, 미국은 이를 거부하며 긴장이 고조되고 있다.",
+          "headline": "한국 선박, 호르무즈 해협 단계적 탈출"
         },
         {
           "rank": 4,
-          "word": "지지",
+          "word": "긴장",
           "count": 2,
           "articles": [
             {
-              "title": "與 지지층, 차기 당권 김민석 45%·정청래 24%·송영길 15% 지지 [한국갤럽]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03U29ubFFMcm9YRFk3aXdic1pGQTFrRVBIaC1oVER5NU1GcVdVQVZfTzBhZnQwMGphN1pwXzY4S2lNdkNRZm5PT3BhQ2pob2tTV2dSQ2hB?oc=5",
-              "source": "헤럴드경제"
+              "title": "호르무즈서 화물선 피격, 철수작전 중단…\"이란 혁명수비대 소행\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IeGpaM29YLTlzNkpycE9lQ19ZX3VFRkFiV1k0OUhsdWJwanRIV0lKeGI2OVRiRjVqZjJhQVg1NkJiU05Rczd4dENpTFR6OXZzZVdr?oc=5",
+              "source": "네이트"
             },
             {
-              "title": "민주당 ‘당심’ 김민석…李지지 44.8% 최저-미디어토마토",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kc1VBQnRFVHpPNG9xSTJSX0dxaGtJZUt6UlppSm9sRGFiX2gzT2hfdEFXQjRFbXVzSldVYXk5MGgwQVowekFnbGF0eGRHWkNK?oc=5",
-              "source": "문화일보"
+              "title": "'종전' 하겠다던 이란, 호르무즈서 다수 드론 공격…“미국이 격추”",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXMWpMTDhiOEZpallNV3Z3MUxMZXlVQ0dqQnhmLU5GV2RJeVVMRU9rWThhN0pKNG1URGZWX2MyeXJfNElObWM0OC1FV1R5QQ?oc=5",
+              "source": "전자신문"
             },
             {
-              "title": "김민석 압도적 지지…차기 더불어민주당 대표 선호도 1위",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83OU8wZ0lGcVprTzVZZ0hHeEExbTFRRXdnNHkyUGZqNEZYQWRaWm5uQkdHNzlPMFhaUmxQRnFER0NqdGVNLWpPVXdnSkJoZE1vR0RTa0NsRFpvenYzSXI2c2JQRVBrUlJB?oc=5",
-              "source": "공감신문"
+              "title": "美·이란 호르무즈서 또 무력 충돌 긴장 악순환",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yWXJVV3RyLWlDNzVOam1aNmEzQ1YzOEFwQ3ZtRVdNbmtrdEV6MHZkVnVfM21WTnVFRDc5WTZocEY3dUR5cTY4YUxMdkFaRzI2anRZMFVjMW0tWHY5VUJZNVoyTGE5XzFhLTBhdtIBcEFVX3lxTFA2RkVlQU5ac2d5b3ZOSGs2Nm5OVWYzZ0s3czlSUmtLZW9zdk5aQ1ZJOXdWQlY2X2dUR3lvZ2NtcVRlLUFGei14a2pGSjJNZktXM0NFWDlGQ3lNQm80V2QxeWdKanhVcFA0eHhkYlQ0SjI?oc=5",
+              "source": "데일리굿뉴스"
             }
           ],
-          "description": "한국갤럽과 미디어토마토 조사 모두에서 김민석이 차기 민주당 대표 선호도 1위를 기록했다. 갤럽 기준 45%로 2위 정청래(24%)를 크게 앞섰으며, 이재명 지지층 내 지지율도 높게 나타났다. 당권 경쟁이 본격화되는 가운데 김민석으로의 당심 쏠림 현상이 뚜렷해지고 있다는 평가가 나온다.",
-          "headline": "민주당 당심, 김민석에 45% 몰려"
+          "description": "호르무즈 해협에서 이란 혁명수비대가 다수의 드론을 동원해 화물선을 공격했고, 미국이 이를 격추하면서 양측의 무력 충돌이 다시 불거졌다. 종전 의사를 내비쳤던 이란이 공격을 강행하면서 갈등의 악순환이 이어지는 모양새다. 호르무즈 해협은 세계 원유 수송의 핵심 길목으로, 이 지역의 불안정은 국제 에너지 시장에도 직접적인 영향을 미친다. 오늘 처음 등장한 키워드다.",
+          "headline": "美·이란, 호르무즈서 무력 충돌 재발"
         },
         {
           "rank": 5,
-          "word": "반도체",
+          "word": "탄생",
           "count": 2,
           "articles": [
             {
-              "title": "하이닉스보다 더 뛰는 지주사…SK, 반도체 ‘낙수효과’에 16% 급등 [코주부]",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rWlJGVGN6MmZwSjJPODFfNmt4eW1zSjhiaXFmU0tWMEl0dVByMXlIaVVJQ1RMWHFoelZqWVVyNmlTWXNPdGR3VmR0bWs0ZjBWb2fSAVNBVV95cUxNYlc5NUpUNTg4QlBZS3FXWFBKSEstdXpmRlJvbkJZbDI0RDFqR29mb1FvRHg1VTRmMW5reXNjNGs0U2MzM1R2MnU5YTJEUVBqdHRCSQ?oc=5",
-              "source": "서울경제"
+              "title": "제임스 웹이 본 오리온의 '우주 탄생 요람'…\"별들의 탄생 순간\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uRzBRM1czeXptQjNsQXQyRmZ6dkxIcEtQY0FvS0xGZ3VWa3QtUjVPSFM4QXdPZEJ1TEdBbzFtOFBldFFTYVB2M3R5WVdkN1E?oc=5",
+              "source": "v.daum.net"
             },
+            {
+              "title": "먼지 구름 속 별 탄생 현장, 제임스 웹이 처음 포착",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kaUY0R3loRE1RQTFSbk1xQkNFOU0zYlRqQmU2cGdPdWhITVRJTExNZktwMDd2U0xyQ0dBM2dMcHV4dUNUMEZtdVZPVjBSdDRLRDlKMw?oc=5",
+              "source": "동아사이언스"
+            },
+            {
+              "title": "천문학 새로 쓴 제임스 웹 우주망원경 '우주를 깨우다'",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVTVlzcXFVa2FNd0tBakVfNnJyTU9nMUxISG5LNllGZkFjTThXbVVBd1RRalNyYnVNTHdMNTRTOGNCSF9jWkx5TDRUemVRc2Y3NHpTWlJn?oc=5",
+              "source": "비즈한국"
+            }
+          ],
+          "description": "제임스 웹 우주망원경이 오리온 성운의 먼지 구름 속 별 탄생 현장을 사상 처음으로 포착해 공개됐다. 지금까지 두꺼운 먼지에 가려 관측이 불가능했던 영역을 웹 망원경의 적외선 관측 능력으로 꿰뚫어 낸 성과로, 천문학 교과서를 다시 쓸 수준의 발견이라는 평가가 나온다. 오늘 처음 등장한 키워드다.",
+          "headline": "제임스 웹, 별 탄생 순간 처음 포착"
+        }
+      ]
+    },
+    "경제": {
+      "summary": "SK하이닉스 총 연봉 1위·삼성 반도체 공장 광주 유력·고금리 청년적금 출시 닷새 만에 100만명 돌파",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "반도체",
+          "count": 6,
+          "articles": [
             {
               "title": "삼성, 신규 반도체 공장 광주 첨단3지구로… SK는 전남 장성·해외 놓고 저울질 - 조선비즈",
               "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX2szMnllTVJ0dFJHR1kyNTlJLWFlQkZmblExNXktX1p5dlowbEVuM21NcVNIdEZKdTFoNlk4VGJxLXlwcUI3cGNhTDlZQk9jNmtveFZ2M1R5al9zRTgwU2stRS04b0hVb0VfWGVfeGxwd3A5MU9xd2xybFc3SmZSV1dB0gGWAUFVX3lxTE82TVFsWFVHVkF4QXQ5NWhZZGVITGRnVjZ1a2FLNnlfaXpQdkk4R3M1anQtZUpDU3RJTmJabUFSdmFHVy1PNzZTMm9SZkFyZVJkY2NqcHFER2lnZHVEMTFFRUVqZUctUFd4VFdnVGZMa2dxTE5uVG5ISG1GS1dnRmZXWDEwbUpsNkFYOWVIVXVKTkF3WVdBZw?oc=5",
               "source": "Chosunbiz"
             },
             {
-              "title": "삼성·SK 반도체 광주전남행…전북 정치권 '초비상'속 늑장대처 '반발'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxNlhfQlFJUUpYZ2p0WkdMc2s2UTlMNm9oc2VXU0wyM0JYNXMxNVJybkNER29HczBXN2ZxdTFDRXFScC1iSi1vTlNBT25maWc?oc=5",
+              "title": "\"영남 역차별\" \"광주 몰빵 안 돼\"… 호남 반도체, 전국 벌집 쑤신듯",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3cxU3QzUXFIQVFxVzB3SlRvakhzbHNSVzJ0YWhDWUdrWVVOT3dUR19NRkNkZ1ZBbnVMRl9sTFhiYXBkNEpJSmZzYXc3bHpSYnV3czdDV0xqZ2MyQW1wMk9Yd0NLMDRaRDZ3SDg4UGEwOEx1SmtkU3V3Mk5SMlVGa28wcklHdw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "“I♡최태원” 했던 구미, 이번엔 “1000원 부지”…반도체 유치 잔혹사 끊어낼까",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00VGk2ckZKdl83ZHBCajF5NnNBZ3AyZVYtRzVZLVo2UTlsdEpGbXhxMkM3bzlPWkptX1BBOHZEZDBLMGdxYTBVTDFSVmNzdUU?oc=5",
               "source": "v.daum.net"
             }
           ],
-          "description": "삼성전자가 신규 반도체 공장 부지로 광주 첨단3지구를 유력하게 검토 중이며, SK하이닉스도 전남 장성 등 후보지를 저울질하고 있다. SK의 반도체 투자 기대감에 SK 지주사 주가가 16% 급등하는 등 시장도 민감하게 반응했다. 반면 전북 정치권은 양사 모두 전북을 배제하는 분위기에 '초비상'을 선언하며 반발하고 있다.",
-          "headline": "삼성·SK, 반도체 공장 광주·전남 입지 확정 수순"
-        }
-      ]
-    },
-    "경제": {
-      "summary": "SK하이닉스 나스닥 상장 검토·반도체 신규 공장 부지 저울질·청년미래적금 100만명 돌파·메모리 대란 가격 인상 우려",
-      "keywords": [
+          "description": "삼성이 신규 반도체 공장 부지로 광주 첨단3지구를 선택하면서 전국 지자체들의 반도체 유치 경쟁이 재점화됐다. SK하이닉스는 전남 장성과 해외 후보지를 놓고 저울질 중인 것으로 알려졌다. 삼성의 광주 결정에 영남권에선 '역차별' 반발이 나오고, 구미는 '1000원 부지' 카드까지 꺼내며 SK 유치에 사활을 건 모습이다. 반도체 공장 하나가 지역 경제 판도를 바꿀 수 있는 만큼 각 지역의 유치 경쟁은 더욱 치열해질 전망이다.",
+          "headline": "삼성 반도체 신공장, 광주 낙점"
+        },
         {
-          "rank": 1,
+          "rank": 2,
           "word": "하이닉스",
-          "count": 6,
+          "count": 5,
           "articles": [
             {
               "title": "성과급이 다가 아니었네···SK하이닉스, 정서적 연봉까지 합친 총 연봉 1위",
@@ -146,165 +170,93 @@
               "source": "연합인포맥스"
             },
             {
-              "title": "'검은 금요일' 삼성전자 5%·SK하이닉스 8% 급락 마감",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ocGpvb1V2NklaaXlmXzdac3lUSnRCSXJCRWtFUTdsc0RkZDB0aU1sQ0xsNnV4bVBTeUhMSEhRN3hoZHZBWnNzRG0xcjBITXBWWlRsNUFzYkR5QVQ1TmZfTg?oc=5",
-              "source": "뉴시스"
+              "title": "SK하이닉스 내달 10일 미국ADR 상장 추진…최대 45조 규모",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpLXliSTgzdlo1bmkwSWltWWVSUExsVFI1cWluTHJuUll1eTVCZGREVWdfV2pGcXhLNGsyNENvaHdtRUprclZuUzZtTm9vZ3RtS0pfT0gxWDFFa3PSAWBBVV95cUxPcDZZTGd2T0s2S1p2TnBhMl8zMUhOelZLUzRaSFdBR3hKelVaZlJSTWMwQjNOczJGNFBsQ0hZQ1dJWEM2UEdGLTVvTEpnSl9SeV9OS2Uzb3dISTU1TFdkSnA?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "SK하이닉스가 성과급뿐 아니라 정서적 연봉까지 합산한 총 연봉 1위로 꼽히며 화제다. 한편 월가에서는 SK하이닉스의 나스닥 상장 가능성이 경쟁사 마이크론에 '양날의 검'이 될 수 있다는 분석이 나왔다. 이런 가운데 오늘 장에서는 반도체주가 급락해 삼성전자가 5%, SK하이닉스가 8% 하락하며 '검은 금요일'을 맞았다.",
-          "headline": "SK하이닉스, 정서적 연봉 포함 총연봉 1위"
+          "description": "SK하이닉스가 다음 달 10일 미국 ADR(주식예탁증서) 형태로 나스닥 상장을 추진한다고 밝혔다. 최대 45조 원 규모로 알려진 이번 상장에 대해 월가에서는 경쟁사 마이크론에 '양날의 검'이 될 수 있다는 분석을 내놓았다. 한편 SK하이닉스는 성과급에 더해 정서적 보상까지 반영한 '총 연봉' 기준에서도 국내 1위를 기록했다는 조사 결과도 주목받고 있다.",
+          "headline": "SK하이닉스, 미국 나스닥 상장 추진"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "word": "주식",
           "count": 5,
           "articles": [
+            {
+              "title": "\"월급 만으론 못 산다\"…너도나도 주식하더니 '놀라운 결과'",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mcEppY2xNTjRpQWtsTlZDSmZzejlLZTNCbDJyTjZvRjRYZmp2Tll3akkwSkVqcnhFMzZWS2o1bzRMYVlCYnRlRWR3aGlneUhkc3pvUnk2dW1JZ9IBVEFVX3lxTFB6Ymg1UFlLXzlLRldyazJIYWV4ODlqN3lOVkNiZGxCRUFLYlFHaFlNZE9qaXB6LVozLTJ3UThyZjNFbFFyMnJVNExBUVh6QmI2TzRkbA?oc=5",
+              "source": "한국경제"
+            },
             {
               "title": "물리학자 “주식 몰라도 잘 번다”…펀드매니저 제친 투자법 깠다",
               "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GLVNrMjN1OG4zdEVxb1owWlhYUktGSVNZNkFyWjdRZlFtMkVERzZCdGd0eUVlQVlwS1BheE9YX0Qyc3pMTDc1TXhBSXR6V3NGQUhhcktB?oc=5",
               "source": "중앙일보"
             },
             {
-              "title": "국민연금, 비대해진 주식 비중 리밸런싱... ‘기계적 매도’ 시장 충격 우려도 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzB0cFhaVUhKYlo2cXZnNVJlclY4NnRTTDJkbU1fWW1uZUFqRjNSdUs0OTljS1dnQzhPY3VMTmFVa0ZyMDNGUEN6OGJtX1MyWFk2MGlkVHpQajF4amtzTnY5VHo5cTdqWjF2TWZpNXlSRU8wb09SckRzb0dxSjVZdHpEQmN3eEEz0gGcAUFVX3lxTFBicVViaG5tUm9PMTdzT0lCVnRUM2paVTEtQUtab1NNenFEQXpHWHg2eFFJc290TmZzdVExUWY2M3FMMkMxXzdBRjdZYXQzT3dfMkFfN3U5N0JDdVZVSjRRa1NtODBVTjRPOU9iMlhvRU00aVh4WWowb0dRUTU3UjRXM0RCZnFQdkx6Q3Q3clJBVWtydzJ1T0lfaUJKdQ?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "국내주식 비중 최대 28.8% 늘린 국민연금...코스피 방어위해 또 늘리나",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yc096SjBoQlBIRXJmckRfMFpWU09TM280WXhVWHhaQ0FKN0lFR0Rla3E0ZHhNLUtQRmtrb0FodDNPTGpBdm53RUs2am9LTjA?oc=5",
-              "source": "v.daum.net"
+              "title": "850선까지 내려온 코스닥, 제약바이오 오른 곳은…3곳뿐이라고?",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZWHBRT1pCUFQ2XzdNLTRkUGk1bDNQLTBVMERZSW5pX2VwU3NRbWlJQzFtdUp1T204VmtqNnNZcm5rd2VHZ0x6SFZxT1I0MkpBa3RNTHNHZUw4T2NHSEJJNUdLTERyUXVZR2xJ?oc=5",
+              "source": "히트뉴스"
             }
           ],
-          "description": "국민연금이 비대해진 주식 비중을 줄이기 위한 리밸런싱에 나설 수 있다는 관측이 제기되며, 기계적 매도가 시장에 충격을 줄 수 있다는 우려가 나오고 있다. 반면 국내 주식 비중을 최대 28.8%까지 늘려 코스피 방어에 나설 가능성도 동시에 거론된다. 한편 물리학자 출신 투자자가 펀드매니저를 제치는 독자적인 투자법으로 주목받는 사례도 전해졌다. 오늘 처음 등장한 키워드다.",
-          "headline": "국민연금, 주식 비중 리밸런싱 나서나"
-        },
-        {
-          "rank": 3,
-          "word": "반도체",
-          "count": 4,
-          "articles": [
-            {
-              "title": "하이닉스보다 더 뛰는 지주사…SK, 반도체 ‘낙수효과’에 16% 급등 [코주부]",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rWlJGVGN6MmZwSjJPODFfNmt4eW1zSjhiaXFmU0tWMEl0dVByMXlIaVVJQ1RMWHFoelZqWVVyNmlTWXNPdGR3VmR0bWs0ZjBWb2fSAVNBVV95cUxNYlc5NUpUNTg4QlBZS3FXWFBKSEstdXpmRlJvbkJZbDI0RDFqR29mb1FvRHg1VTRmMW5reXNjNGs0U2MzM1R2MnU5YTJEUVBqdHRCSQ?oc=5",
-              "source": "서울경제"
-            },
-            {
-              "title": "삼성, 신규 반도체 공장 광주 첨단3지구로… SK는 전남 장성·해외 놓고 저울질 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX2szMnllTVJ0dFJHR1kyNTlJLWFlQkZmblExNXktX1p5dlowbEVuM21NcVNIdEZKdTFoNlk4VGJxLXlwcUI3cGNhTDlZQk9jNmtveFZ2M1R5al9zRTgwU2stRS04b0hVb0VfWGVfeGxwd3A5MU9xd2xybFc3SmZSV1dB0gGWAUFVX3lxTE82TVFsWFVHVkF4QXQ5NWhZZGVITGRnVjZ1a2FLNnlfaXpQdkk4R3M1anQtZUpDU3RJTmJabUFSdmFHVy1PNzZTMm9SZkFyZVJkY2NqcHFER2lnZHVEMTFFRUVqZUctUFd4VFdnVGZMa2dxTE5uVG5ISG1GS1dnRmZXWDEwbUpsNkFYOWVIVXVKTkF3WVdBZw?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "삼성·SK 반도체 광주전남행…전북 정치권 '초비상'속 늑장대처 '반발'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxNlhfQlFJUUpYZ2p0WkdMc2s2UTlMNm9oc2VXU0wyM0JYNXMxNVJybkNER29HczBXN2ZxdTFDRXFScC1iSi1vTlNBT25maWc?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "삼성전자는 신규 반도체 공장 부지로 광주 첨단3지구를 선택했고, SK는 전남 장성과 해외를 놓고 저울질 중인 것으로 전해졌다. 양사의 광주·전남 행이 가시화되면서 전북 정치권은 초비상이 걸린 가운데 늑장 대처에 대한 반발도 일고 있다. SK 지주사는 반도체 사업의 낙수효과를 기대하며 오늘 16% 급등하기도 했다.",
-          "headline": "삼성·SK, 신규 반도체 공장 광주·전남 검토"
+          "description": "코스닥 지수가 850선까지 내려앉으며 약세를 이어가는 가운데, 제약·바이오 종목 중 상승한 곳은 단 3곳에 그쳤다. 반면 '월급만으론 못 산다'는 인식이 확산되며 주식 투자 인구는 꾸준히 늘고 있고, 물리학자 출신 투자자가 펀드매니저를 앞선 비결이 화제가 되는 등 투자법에 대한 관심도 뜨겁다. 오늘 처음 트렌드에 등장한 키워드로, 증시 부진 속에서도 개인 투자자들의 고민과 관심이 맞물리며 화제가 됐다.",
+          "headline": "코스닥 850선 붕괴, 개인 투자 열풍 속 희비"
         },
         {
           "rank": 4,
+          "word": "데이터센터",
+          "count": 5,
+          "articles": [
+            {
+              "title": "SK텔레콤도 美 ‘AI 컴퍼니’에 4억8000만달러 출자… SK그룹 반도체·전력·데이터센터 투자 허브로 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN19IZ0Y0RUFTZURINUJ4cmZsbEdFWVBWb0J4cDZ6ajJRX3pwVlBzVlhZM2dlcURPM0xyaGZONDJQSGttOFdVc0NERVVWamc3QWFMWkl0bFFidkgxUUg4aWJCclNVNUlHTjBwdm91a2Q4V0hfVDRqYjBfVTlCa19scXBB0gGWAUFVX3lxTFBVQ2pVZ0h6R3BjaXJfSjl6SjNmN2loSnlsQ2xUTkVpQ1RUZ1huZ3YydnY5dVAtV09MOVVrbldjUXRGZ0ZVbEhzN0h2dkM5Q3ZHaUJNSUg1ZlZqSElWT2VyVjdIOEFoYTJHUDg1Z2VzTkkxM2plekdscG5HYkp6cEN5SDVEQUQ2My1GSjlrZVpDay02eVBGUQ?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "GS, AI 데이터센터 사업 진출…후보지로 당진·동해 검토",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXOUVGb2o2UG5OOVBfQ3Q3ekRnWGdDTEpiQ2NSUVJuWUMyNGNzeXFTSk1aUW45MWw2NkFxRXlQN1JRQUZlVlRsTDZNTEFURmVIOFpzZHFMQmU1aDA?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "비수도권 발전소 갖춘 GS, 데이터센터 직접 지어 시너지 노린다",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiTURWcHgzeTFXdFdHT1VKUUJpdk0xazlDZ0xfWXNIcHlpTThyd293d3p0V19IZHhFcmlxMndORWItdXpES1pzQ0prOW5zT05RRjlUQk5pR0dmUdIBVEFVX3lxTE84SHpnbTJOV1l5MHhrQU5BVFRKREZZY0F4NlBIcUhUc08tdGlIMHdWN0JnMWg5ZDRWbU02SXpRa0RHbTZaRzI4Mml2LU9PZ29lcXFyZg?oc=5",
+              "source": "한국경제"
+            }
+          ],
+          "description": "GS가 당진·동해를 후보지로 AI 데이터센터 사업에 직접 진출하겠다고 밝혔고, SK텔레콤은 미국 AI 기업에 4억 8000만 달러를 출자하며 SK그룹의 반도체·전력·데이터센터 투자 허브 구축에 가세했다. GS는 비수도권 발전소를 보유한 강점을 활용해 전력 수급과 데이터센터 운영을 결합한 시너지를 노리고 있다. AI 인프라 수요가 급증하는 가운데 국내 대기업들이 데이터센터 시장을 새로운 성장 동력으로 낙점하는 흐름이 뚜렷해지고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "GS·SK텔레콤, AI 데이터센터 사업 본격 진출"
+        },
+        {
+          "rank": 5,
           "word": "청년",
           "count": 4,
           "articles": [
             {
-              "title": "‘청년미래적금’ 가입신청 100만명 넘겨…출시 5일 만에",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FOVNZU2ZtVUg3V3lnR0tIeU9yVmNzUnViaHZqTEhoa3VqUWdRRjBGaDBra2ZYZFIxMmVRWmh6UFlJUTkxM25WczNtX0NMWVRaRmZyYjFMTE1BRzlIcnhJQmRMYlhoSU0?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "최고 19.4% 청년미래적금 가입 첫주에만 100만명 신청",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oVXlCbzVGcTFWS0xSeGdMQUhGb096WlVyVE14TkdGY3BTLUJ6VVlGT3pJMVJLSm5SS0VRUmF2dTUzeHlWSGZoMDJ3dU1jT3Q4Vl9aVjdud191MExxQjMyb1FB?oc=5",
-              "source": "뉴스1"
-            },
-            {
-              "title": "'최고 연 19% 수익'에 가입신청자 100만명 넘어…청년미래적금 흥행",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrd0c5YlNLams1UXNkZGl3NUU5RGpJRE8yQkNSSEtsS0wzWlNmcDZxRng5T0hfSUhmYlRPelItVENKT24yOGFGMDNqczJNNHM?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "최고 연 19.4% 수익률을 내세운 청년미래적금이 출시 5일 만에 가입 신청자 100만 명을 넘기며 흥행 돌풍을 일으키고 있다. 고금리 혜택에 청년층의 관심이 집중되며 가입 첫 주부터 폭발적인 신청이 몰렸다. 오늘 처음 등장한 키워드다.",
-          "headline": "청년미래적금, 출시 5일 만에 100만 명 돌파"
-        },
-        {
-          "rank": 5,
-          "word": "메모리",
-          "count": 4,
-          "articles": [
-            {
-              "title": "‘메모리 대란’에 애플, 맥북·패드 가격 인상…전자제품 가격 인상 도미노 오나",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KcWRacHRUMUJMVW1PNTZ6T1Z5ZGJFWkJFazVOSUZ0ZDBHOHNDSDhWSkpnek5kTng0eGcxa1JuQWtKMHVOZS1sV1l3TlA3emZpT0pBT0NhamNFQdIBX0FVX3lxTE9rRUpsNUx0Y185QU13c3NjWWxFNXVwMDhMbVJibnhrWHJscGZZOVhPQ2tWOUx2WTYtLWI3Vkc3aG5NeTVrUW9COTVjdEZWXzU4UDY1OGhJcV9aWDNNZUNB?oc=5",
+              "title": "‘최고 금리 19.4%’ 청년미래적금 닷새 만에 100만명 몰려···“요건 충족 땐 전원 가입 ”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85Z1FlVEdhVTdjeTRFUHVIeUxQSU9zVDI0cDliWHlxcHd4bnIxLVhmeWdIY191SHBscWdtdGpEdjNmUUFacnZUQ2ZWOTZDU01hM2F4ajREQUtsUdIBX0FVX3lxTE5icU9LSk13WjFSLURVNFRlS09mZVFEbVZfZ29OWF9KUWFEVDA0Y3JyUUJpT240NjN5elY3aE1BR1ctbGFnbGM3U1haa095WFQ0MWdwS09vaXY5NzdtR3M4?oc=5",
               "source": "경향신문"
             },
             {
-              "title": "韓 메모리 패권 겨눈 美·日 ‘HBM 대항마’ 기술 연구 진전… ZAM 개발에 대만도 합류 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM0FlcU1FVElfOHhfcjVZN0lXNUgyaFJzVng1bGxqYTV5Wkpod010VDNVVncyYUpkN1JIWjhFTGhYSzFoRksyWWttTkk3TWRwelVLbmg1Y29EMVlIc3RCdDcxUHpLWkJzZVk4QkM0RXZ0WDZubkIyd25ldXVmUjVhcXd30gGWAUFVX3lxTE5WWHhOVW1JZGllbmdPLTljcEZGRFpmVmtselRwQ1VfZi1MRWNrb2dscDRfZFl2Y2hsSzJPWmozMWZjMEprYWhicHBsM1NLa3JVMEEwUl9ad044SHM1aWlNeElvTGpXMGJPdEV4Q0xQUkQ4aUtWYVpQbFlRSjdIM3N6UlRGQnBsT1RLMkpGOG9nRnQ5bG8tUQ?oc=5",
-              "source": "Chosunbiz"
+              "title": "발트3국 청년 드림 서포터즈 발대식 개최",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82dmFEbzZCTEJWVkNJR2JMVWRjSExQcUZma0VDaWpYbE5FR2U2S2VGVjhJcnpXb3pQUUlDaGZ2M0NFS2dkLVJXcFVpejFqYV81MkNSejYydkxPblBfMGp2NTBB?oc=5",
+              "source": "서울Pn"
             },
             {
-              "title": "삼성·SK, HBM 경쟁할 때 中 ‘범용 메모리’ 시장 잠식 [biz-플러스]",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyLXYwYzlKdHZ1S1p3T1VfTjhleTFZeUYzMmtLMWNXX2s0SEJZc0Fhc0RWMGhKaVB2TmxDb2loUjVsWTZ6TVpDdnUwTjhyWTNqLWfSAVNBVV95cUxNMFdwcklsS3hROFlaZENmSHZWUXg0LUFhUk5ldHJjLWtRTkota0VoNE1Gb29BWnFWWG1WVkFjNVoxbmxPck1mb2ZoMGVoWjFwU1c3dw?oc=5",
-              "source": "서울경제"
+              "title": "\"인재양성\"…울산도시공사, 시민·청년 도시재생 참여확대",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBINmRYYnFhdnczLVFrUHJGX0R6bEI5MUUwSUVLMURZRDlFbmYyblZsck1SR21KWmRvVW55dGFJNW5oMWxIeTA4bEZad2pYQ1pVM1BSb0xRVXFmazh1Z1BKRg?oc=5",
+              "source": "뉴시스"
             }
           ],
-          "description": "메모리 대란 여파로 애플이 맥북과 아이패드 가격을 올리면서 전자제품 가격 인상 도미노 우려가 커지고 있다. 미국과 일본은 한국의 메모리 패권에 대항하는 ZAM 기술 개발에 대만까지 합류시키며 연구를 진전시키고 있다. 한편 삼성·SK가 HBM 고부가 경쟁에 집중하는 사이 중국이 범용 메모리 시장을 빠르게 잠식하고 있다는 분석도 나왔다. 오늘 처음 등장한 키워드다.",
-          "headline": "메모리 대란에 애플 맥북·패드 가격 인상"
+          "description": "최고 금리 연 19.4%를 내세운 청년미래적금이 출시 닷새 만에 가입자 100만 명을 넘어섰다. 정부는 요건을 충족하는 청년은 전원 가입할 수 있다고 밝혀 추가 신청 수요도 이어질 것으로 보인다. 고금리 혜택에 청년층의 관심이 집중되면서 오늘 처음 트렌드에 등장한 키워드가 됐다.",
+          "headline": "청년미래적금, 닷새 만에 100만 명 돌파"
         }
       ]
     },
     "연예": {
-      "summary": "김민하 탈북 여성 실화 모티브 드라마 출연 · 장영란 '금쪽이' 종영 눈물 · 정선희 사별 후 감정 고백 · 현빈·손예진 아들 미모 화제",
+      "summary": "임영웅 드라마 '산골총각 영웅' 시청률 1위 · 김준수, 외주 PD 절도 혐의와 무관 선 긋기",
       "keywords": [
         {
           "rank": 1,
-          "word": "김민하",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'하나 코리아' 김민하 \"감히 상상도 못할 이야기\"…'실화 모티브' 탈북민 연기 [엑's 현장]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XV0ZHN2FsLUF3M3p0V0NyVjVlTElhQ3ZMUjVIMTRsZVZieDRad0xzdzlkam93MWJRSjktcjBZMHJOajgtOVUwQmRfMzZzYnc?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "'하나 코리아', 김민하가 그리는 탈북 여성의 삶(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BRTlCZkt1NlE4SVBRaWNiMVdOaFlMdzFtUjh6T1IyYnFkNkN2aDJ1djJDeS00a3ZqdUpXZU9QZklCSmxwYUNHX3hySnRVN0k?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "김민하, 시한부 맡고 '뼈말라' 됐는데..선명한 기립근 '반전'",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SdXZILUFVM2lkc1MzYkYtWUdKdDVFZEVYbUE1NWE0ZnczM0JRODM3czgwMTgyM2xDSk1idTBhVXVGT0lCWlptOEh1ZkRabE9BMmFETl85Qkl5OFJuSjVhNEV3?oc=5",
-              "source": "미주중앙일보"
-            }
-          ],
-          "description": "배우 김민하가 신작 '하나 코리아'에서 탈북 여성을 연기하며 '감히 상상도 못할 이야기'라고 소감을 밝혔다. 실화에서 모티브를 따온 작품인 만큼 캐릭터 준비 과정에서의 무게감을 전했다. 한편 시한부 역할을 위해 극도로 체중을 감량해 선명한 기립근을 드러내는 등 몸 만들기에도 공을 들인 것으로 알려졌다. 오늘 처음 화제 키워드에 오른 만큼 신작 홍보 행보가 관심을 모으고 있다.",
-          "headline": "김민하, 탈북 여성 실화 모티브 연기 도전"
-        },
-        {
-          "rank": 2,
-          "word": "장영란",
-          "count": 2,
-          "articles": [
-            {
-              "title": "장영란, ‘금쪽이’ 6년 만 종영에 눈물 “오은영 존경해”…애틋한 추억 방출도",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11WjlYSGRkeDlRMUlMamNiLVJzcEhaZjVWd2hUZ2tqam8yZ1NKc2FaRnJLeW15OWwxQWJySkpxQXRNcy1UbE42eUhHZFNydmM?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "\"얼굴 못생겨서 공채 탈락\" 장영란, 과거 오디션만 100번 봤다 (A급 장영란)[순간포착]",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNalpNbUM0Wkd3LUpIUjMxWnNKSmpiNk1xQldueFpYcjdmeTdDRGdoOGdVT3hyeDJ4MWlLcXZvVjNhLU1aRnhWX3F2Z0xkWk5oTFcyN0RidzUzUXJVbkZkc2NzbC1fcU81ZXNDTGRuYlFwdm1rV0pqUmJWSzd0NkQ0cVZpaU5ENnd2MFJiWlF2Zw?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "이효리, 여회원에게 명품 팔찌 받은 남자에 발끈…\"장영란법 걸려\" 말실수 폭소 (연애전쟁)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hdWVrd0NfLURpMGhCZExSVENEWEcxLW13U05RcFlwZGU1c1pKeVdNSGI1UHhSZktvNnd5REJCQnFxTWptTjVxNTRkUTZyemM?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "개그우먼 장영란이 6년간 방영된 '금쪽같은 내새끼' 종영 소식에 눈물을 보이며 오은영 박사에 대한 존경심을 드러냈다. 프로그램과 함께한 애틋한 추억을 공개하며 긴 시간의 마무리를 아쉬워했다. 한편 '얼굴이 못생겨서 공채에 탈락했다'는 과거 오디션 100번 도전 일화도 재조명되고, 이효리의 예능 발언에서 '장영란법'이 언급돼 웃음을 자아내기도 했다.",
-          "headline": "장영란, '금쪽이' 종영에 눈물로 작별"
-        },
-        {
-          "rank": 3,
           "word": "정선희",
           "count": 2,
           "articles": [
@@ -314,52 +266,28 @@
               "source": "스포츠경향"
             },
             {
-              "title": "'54세' 정선희, 복근·기립근 깜짝 공개…\"비결은 수영과 웨이트\" (집 나간 정선희)",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE55UldyRGh1cy15ZTdqV1RxaGIwQVQ0c2JpSXBiZVpvWExqQWh0eUpHTzFZeVJMemtjUjl6bjhjVVlwTndxZVE?oc=5",
-              "source": "v.daum.net"
+              "title": "54세 정선희 '코어근육' 비결… 기초대사량 높이는 2단계 전략",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2xCa3VkQ2g3MWREWjlLeEV5UVRIMXhBbXdjZFFLRHc5VHE3YUNmUFNmN1FqUGp0UzJrRjdVQS1RZVNTZmhmZzhDZ3VjTUprZ1Bhd2x6RFNBbEl0OVAxcWRuRjZNUEhXUGZXcUVSZFQ0UmRtOWtaRWFWb3VSOTg?oc=5",
+              "source": "헬스조선"
             },
             {
-              "title": "나영석, 정선희와 재회에 눈물…\"누나 얼굴 너무 좋네\" (채널십오야)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGZHhDVUxyRDVXU245UldGSkFrbDdnRzk0SGNuOGxLRkRIZFRQTVFsNkZrZHNWM3pFN1Fua25sRVFJb01ENEpNVndZbWhPd1k?oc=5",
-              "source": "v.daum.net"
+              "title": "정선희, 54살에 찾은 잘록 허리…\"이것만큼은 꼭 한다\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82R1E5M2tRNWZBcDhwbVdja2tJaGsxN2twU0M4ZllxV1psRjV2MnZZZXU0emlUVlZxSzMzbklwOEMwTFpJREkzeFJHWENQcm44VlcxS3BMM1JLOWRZYkNHRQ?oc=5",
+              "source": "네이트"
             }
           ],
-          "description": "개그우먼 정선희가 故 안재환과의 사별 이후 '사람들을 저주할 만큼 미웠지만 나도 다르지 않더라'며 당시의 솔직한 감정을 고백해 눈길을 끌었다. 54세의 나이에 복근과 기립근을 공개하며 수영과 웨이트 트레이닝이 비결이라고 밝히기도 했다. 나영석 PD가 정선희와의 재회에 눈물을 보이며 '누나 얼굴이 너무 좋다'고 말하는 장면도 화제가 됐다.",
-          "headline": "정선희, 고 안재환 사별 후 심경 고백"
+          "description": "방송인 정선희가 고(故) 안재환과의 사별 이후 느꼈던 감정을 솔직하게 털어놓았다. '사람들을 저주할 만큼 미웠지만 나도 다르지 않더라'고 고백하며 당시의 복잡한 내면을 전했다. 또한 54세 나이에도 탄탄한 체형을 유지하는 비결로 코어 근육 운동과 기초대사량을 높이는 습관을 공개해 눈길을 끌었다. 오늘 처음 화제 키워드에 등장했다.",
+          "headline": "정선희, 故 안재환 사별 심경 고백"
         },
         {
-          "rank": 4,
-          "word": "현빈",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'손예진♥현빈' 아들 미모 어떻길래 \"AI합성 같아…\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wZUk4SGp0OW1xQTE4SHFwbV9EWTB1dG1IaHh4aEFRVGhadHZvVFppekM0TXVwTEFXLTFWV2NPTmdjNFJDV0JqUDluQ3c1V3A3MzJyQi03bm9jQVNJZVpWUNIBeEFVX3lxTE5sZENVbTg0ZkpEZzlndjVNYVFaZTU3UmtaSUZBQUJVaUZwT0RzLTZRWVBqZDlWZ3dlTHphSkFpLWZfRTFEeE5idjhFMGFlS3NuQWEycVZYNjZTaW1IR0ViN2ZsTy1sc2VUREFES2w2TzdGODhTc2hVdQ?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "장혁, 현빈 대신 '시크릿 가든' 남주 될 뻔…하지원 \"처음에 주인공\" (26학번)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Rb1VqX1ZoSzZiR1ljZVpMd0pfV0gwTHZmQi1Bck1iZ2t0UTNFR3dzVkI1MEhyVWtnZzBtVkh3VkJwNXJxWDBMT1VWN2lnajQ?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "손예진♥현빈, 가족여행 쓰리샷 포착 “아들 AI인 줄” 깜짝",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0ZtS2JLd0UtSzE3WnEzeFV4TFlHTmlUeWxIWjdpTmZXY1o4VkhnREVTZkJRS1lqSDd3c3dBX0pQT0hyQjItdFZMR2podmE0NGZheDVtVUpsekFSQmMzU25hcEhJVFRSWFVGS1pjZDY5dWh1aGR0cGYtcWZJUEphOTZjZlM?oc=5",
-              "source": "twig24.com"
-            }
-          ],
-          "description": "현빈과 손예진 부부가 아들과 함께한 오키나와 가족여행 쓰리샷이 포착되며 화제다. 목격자들 사이에서 '아들 미모가 AI 합성 같다'는 감탄이 쏟아질 만큼 외모에 대한 관심이 집중됐다. 한편 장혁이 현빈 대신 드라마 '시크릿 가든' 남주 후보였다는 하지원의 발언도 함께 주목받았다.",
-          "headline": "현빈·손예진 아들, 오키나와서 목격돼 화제"
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "word": "손예진",
           "count": 2,
           "articles": [
             {
-              "title": "현빈♥손예진 子, 오키나와 목격담 “아들 너무 예뻐 AI 합성같아” 감탄",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94ajMwS0xZWktHNk9NXzVVcWxBU2FLcW9rVnRyaEF2Y1hHYy04RUdfeTFOUXVZV2xMbzVzUUpMXzBwV2ViVWR4NXJiOUV6WjhzcU9od2lBUkR3YmNaZkHSAWNBVV95cUxOUW9QSG9BczNtYVFkTGo1enEtMFZodVkwUUhkckRVbHlzM01hOVB5Y0Q0eE93WWdRaXpuOHBZZzhsSUhJMWgwZnAtMGFnc0FtTjB2Yy0wdkZmY0tnbksydWxWMTA?oc=5",
-              "source": "스포츠경향"
+              "title": "\"AI 합성한 것처럼 예뻐\" 현빈♥손예진, 3살 아들과 가족여행 목격담 떴다[핫피플]",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOTZQUjhhQ2VaXzdYdHppMUYxQXJ6TjRFTUxxamhyX2tmWXhXLWxmWTdpZ2ZDZDJFNmhoQXhBclpYaWZFRUhaQ2gyN2Nxd0hiVzNtNE15aGIxWVJ3bkY0aEdGSXZ4T01sbzVMcHZmcmRBcndXQzZEUm5Peng5UFQ5N2hmS1VFZHRYdmJESU5Mdw?oc=5",
+              "source": "조선일보"
             },
             {
               "title": "손예진, “촌스럽다” 반응에 굴욕 無 스타일링 선보여…본인도 ‘대만족’",
@@ -372,13 +300,85 @@
               "source": "스포츠동아"
             }
           ],
-          "description": "손예진과 현빈의 아들이 오키나와에서 목격되며 'AI 합성 같다'는 반응이 이어져 화제를 모으고 있다. 손예진 본인도 최근 스타일링 공개에서 '촌스럽다'는 반응에 아랑곳 않고 만족감을 드러냈고, 블랙 드레스 차림의 우아한 자태도 눈길을 끌었다. 가족과 패션 모두에서 꾸준히 주목받는 모습이다.",
-          "headline": "손예진·현빈 아들 미모, 'AI 합성' 감탄 쏟아져"
+          "description": "현빈과 손예진 부부가 세 살 아들과 함께한 가족여행 목격담이 전해지며 화제를 모으고 있다. 목격자는 'AI로 합성한 것처럼 예쁘다'고 표현할 만큼 손예진의 외모가 눈길을 끌었다고 전했다. 한편 손예진은 최근 '촌스럽다'는 반응이 나온 스타일링에도 굴욕 없이 자신만의 우아한 패션을 선보여 본인도 만족감을 드러냈다.",
+          "headline": "손예진, 현빈·아들과 가족여행 목격담 화제"
+        },
+        {
+          "rank": 3,
+          "word": "산골총각 영웅",
+          "count": 1,
+          "articles": [
+            {
+              "title": "'산골총각 영웅' 임영웅 \"연기 재밌어…토크쇼는 NO\" [RE:TV]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkR3R4RWNJeGpsRWltREFqVGtJMTBzWkNVcV94TWRfTjJ2ZDFyZlVoRDJEUkRwU1U5eE5Ka2ZUd0VVcVRoTzJhdGdJdGlrdTBlWmdGZjNzRmJkNUNkTFRzOA?oc=5",
+              "source": "뉴스1"
+            },
+            {
+              "title": "역시 임영웅 파워..'산골총각 영웅', 시청률 1위",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaS1pQmo1Rk5sS1FYY1RvejdNaEZIUGtuVVF3YUwyLXREOEJ4bmZacmI5dmdYa2Y0TjlOcVl6cnFSd3JiMkszZHFhVVRlcUxUUHppd0xFSW4tZWtuNy1peGg4VVViSzVwbU14UXdNajl5SGVzMkNxVldHQ0FidWt1aA?oc=5",
+              "source": "starnewskorea.com"
+            },
+            {
+              "title": "임영웅에 \"니 쌀이랑 연애하나\"…허당미부터 감성 라이브까지 '산골총각 영웅'",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QbTNMZjlnaWpzZ2tGU1dsSlR6b2gyb1JnT2lwa3luUkZSYXNoQlljb3V0NTVNX0FhbF9kVUFmN1d1SjR2SVZLdzdBSnlSOTg?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "임영웅이 출연하는 예능 '산골총각 영웅'이 첫 방송부터 시청률 1위를 기록했다. 임영웅은 허경환·조째즈·현봉식과 함께 산골 생활에 도전하며 허당미와 감성 라이브를 동시에 선보였고, '니 쌀이랑 연애하나'는 등 웃음을 자아내는 장면들로 시청자를 사로잡았다. 임영웅은 방송에서 '연기는 재밌지만 토크쇼는 하고 싶지 않다'는 솔직한 속내도 밝혔다. 오늘 처음 화제 키워드에 등장했다.",
+          "headline": "'산골총각 영웅' 시청률 1위 등극"
+        },
+        {
+          "rank": 4,
+          "word": "허경환",
+          "count": 1,
+          "articles": [
+            {
+              "title": "45세 허경환 \"결혼식은 조용히…4년 안에 결혼하고파\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwY0pxX25YS0xIX3cyRkRFekUzX1JQYUNVQUZxMkxzN0d3dkRwRVdnbDhvNThNQjBVa2xvLWF4Zlc3QlpCdmFXSk5uUGVSekE?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "박영진, '놀뭐'서 독기 품었다…허경환 \"이런 애가 아닌데\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XUEtBVHhrMGpoZWlOQ3RYODZadUdxQ0pEc2xwT29US3p2MmpMTkhCV0E0b1p2T2pIZUUyLXYwanQwS1pZbDVLZzlwZzFJQ1ZldGl1aVdGYjB5d3VUSjZYTw?oc=5",
+              "source": "iMBC 연예"
+            },
+            {
+              "title": "\"힐링됐으면” 임영웅, '산골총각' 됐다…허경환·조째즈·현봉식과 무공해 첫방 [어저께TV]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PXy0yWVpxWk1sTFlxSlpOYXZETk1uMElIbDk2eE4wUmltM0M1SUtRSWdvOHNmQW1ObjhkbEVFV1lGT1A2UE5ZRVZmTVBpQTg?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "개그맨 허경환이 '결혼식은 조용히 치르겠다'며 4년 안에 결혼하고 싶다는 의사를 공개적으로 밝혔다. 한편 '산골총각 영웅' 첫 방송에서는 박영진이 독기를 품고 나선 모습에 허경환이 '이런 애가 아닌데'라며 놀라는 장면도 눈길을 끌었다. 오늘 처음 화제 키워드에 등장했다.",
+          "headline": "허경환, 4년 내 결혼 의지 밝혀"
+        },
+        {
+          "rank": 5,
+          "word": "김준수",
+          "count": 1,
+          "articles": [
+            {
+              "title": "김준수 측 \"절도 혐의 외주 프로듀서와 무관…모든 협업 종료\"",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRbzgyTUkxbzR1QXpFZDdHUnpPR3VMTVBBM3l1M212RTZ0MkxuaTRaZzJJdERtZ3ZWVzkxc1Y3VDQxSjNhRFJnLVMtd3FvUjU1RndhenpQNHMzTTk2a2h2QnVoTjE?oc=5",
+              "source": "뉴스1"
+            },
+            {
+              "title": "김준수, 외주 PD 범죄 선긋기…“개인 일탈, 앨범 반영 NO”",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XQ25JaEdCWHJRX3VjOFp5cGhaLUZRWnZqbVVoNWszcGM3R3ZhRl9hQm1OZ3lLak4yUzJNLU5vSUZOYk55aWtHVnh2R1dnOUxHN2N0MWNYSnNRUlV6NjhKcA?oc=5",
+              "source": "스포츠월드"
+            },
+            {
+              "title": "김준수 5집 참여 프로듀서, 사기 혐의 재판…피해자 측 \"케이팝 작가 31명 창작물 범죄에 악용\"",
+              "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQQXR4UVBRNUNFbEoxZ1NZaXE1YzNfVWg0RUt3ZzRwdFdvdE5ibWdZMURIazNSYkFvRGNuc1FZYlJzM01qdzVOSW1BR3VmT0NJcDJCRXlZQWpQNVdBN29yeFpSZ3FRU1RaRGhrNU50NFpGN2dYVFh2WnU4VHpGZzl6X3pVSk11dF9mOW11WXlTaWY3Z1lXUUYzNTFYdTJaZVBRWWMzbEdKYzM3NUFQZ0FzOUZQSW9YQTlUZ3k0ZElLMlJ5eFR0bnJhalhKdDJ2bDlITTBKdXpLOGVVOXJZRXItcTl3djhneTJGVEtrSjU3R1pESEpfV2ItRnVWeFN1dVJFNjZlVTRUTnZQSk9RV2VUNtIBkAJBVV95cUxQQXR4UVBRNUNFbEoxZ1NZaXE1YzNfVWg0RUt3ZzRwdFdvdE5ibWdZMURIazNSYkFvRGNuc1FZYlJzM01qdzVOSW1BR3VmT0NJcDJCRXlZQWpQNVdBN29yeFpSZ3FRU1RaRGhrNU50NFpGN2dYVFh2WnU4VHpGZzl6X3pVSk11dF9mOW11WXlTaWY3Z1lXUUYzNTFYdTJaZVBRWWMzbEdKYzM3NUFQZ0FzOUZQSW9YQTlUZ3k0ZElLMlJ5eFR0bnJhalhKdDJ2bDlITTBKdXpLOGVVOXJZRXItcTl3djhneTJGVEtrSjU3R1pESEpfV2ItRnVWeFN1dVJFNjZlVTRUTnZQSk9RV2VUNg?oc=5",
+              "source": "데일리안"
+            }
+          ],
+          "description": "가수 김준수의 5집 앨범에 참여했던 외주 프로듀서가 케이팝 작가 31명의 창작물을 범죄에 악용한 혐의로 재판을 받고 있는 것으로 알려졌다. 김준수 측은 즉각 입장을 내고 '해당 프로듀서와의 모든 협업을 종료했으며, 개인의 일탈 행위로 앨범에는 반영되지 않았다'고 밝혔다. 피해자 측은 해당 프로듀서가 절도 혐의 외에도 사기 혐의로 기소돼 재판 중이라고 전했다. 오늘 처음 화제 키워드에 등장했다.",
+          "headline": "김준수, 5집 참여 PD 범죄 혐의에 선긋기"
         }
       ]
     },
     "스포츠": {
-      "summary": "한국 축구대표팀이 월드컵 32강 진출 위기에 처하며 조 3위 경쟁에서 6위로 하락, 손흥민 벤치 논란까지 겹쳤다.",
+      "summary": "한국 축구, 에콰도르의 독일전 승리로 월드컵 32강 가능성 더욱 낮아져·홍명보 감독 패인 분석 논란.",
       "keywords": [
         {
           "rank": 1,
@@ -391,23 +391,95 @@
               "source": "경향신문"
             },
             {
-              "title": "오늘의 월드컵",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ONHlEZjYxZVR2NEZIdG1XZEkyWGhkWVBub0JCblVERGdLdkYyUTB1T1VON1lNeFJVZ1hqTU5jeW1yQ2xZOVZEVWUxZkMzYTh2MG5HUFZWZnFFUkU?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
               "title": "\"오 필승 코리아!\"…세계 한인회장들 월드컵 응원전",
               "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xWnBHVlVLdjRDSmp0U0NkS0tFUmJ4Yk5yelh2dDJfeUl3SlUzdzZ2dEF0d1BOSldWclBvQVRjWjRLOWRhYTdMNHc3aXo3OFloTmN5MTZGSDlmdUXSAWBBVV95cUxQaW1xUVNqTmpvSkQxRjE3MTN1Z1lSRVltd1A5N1RSS0xuZVoyYk5sTFY3X1hYS3dOXzJKTnkwZy00SU1UVWpJQk5LOEVaX0ZITGZoeE44NDZJcVJ3by1KM3U?oc=5",
               "source": "연합뉴스"
+            },
+            {
+              "title": "홍명보, 연봉은 ‘월드컵 16강’···20억 아닌 37억 봉사설",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPM3dQRExseWhUTWQzYnJfemxMeEJxSEhkVzZsRzBUOGJXUHo4ZnVpM2VtZXhOa1NYb0cwMkpZeWxBcUNHQlVrdHgwUjBPUkRYZzM4SFl6YWQxVGlWUVHSAWNBVV95cUxOZDhUX2JCbjJ2S21RMkw3aUV2dVd0OXdOU1kxZjFzWU1jSno4aGp4QVhCUFprNWthRm4zRzFsNUE5NFZvNDd5cTZuSENQOGRZM252Wk1PUVQxX2thV0pQdndYZlE?oc=5",
+              "source": "스포츠경향"
             }
           ],
-          "description": "에콰도르가 독일을 2-1로 꺾고 32강 진출을 확정하면서 한국의 32강 전선에 비상이 걸렸다. 한국은 조 3위 경쟁에서 밀리며 진출 가능성이 불투명해진 상황으로, 경우의 수가 갈수록 좁아지고 있다. 국내외 한인 사회에서도 응원 열기가 높아지는 가운데, 결과에 따라 희비가 엇갈릴 전망이다.",
-          "headline": "한국 32강 진출 '비상'"
+          "description": "에콰도르가 독일을 2-1로 꺾고 32강 진출을 확정하면서 한국의 32강 경쟁에 먹구름이 끼었다. 호주-파라과이가 0-0으로 비겨 승점 4를 쌓는 사이 한국은 32강 경쟁 6위로 밀려나며 상황이 더욱 불리해졌다. 한편 홍명보 감독의 연봉이 월드컵 참가국 감독 중 전체 16위 수준인 37~38억 원대라는 해외 추정치가 화제에 오르고, 세계 한인회장들의 응원전 소식도 전해지는 등 월드컵을 둘러싼 다양한 관심이 쏟아지고 있다.",
+          "headline": "에콰도르 독일 꺾어 한국 32강 비상"
         },
         {
           "rank": 2,
+          "word": "홍명보",
+          "count": 2,
+          "articles": [
+            {
+              "title": "이게 할말인가…'선수탓+변명' 일관한 홍명보 감독 \"나도 당황스러워\"",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQZ0FnZWJfb2NOUDg5djJQOEwwZVVNYTNyWHVkSlBpTzZjeHBCZlMta0J3OXpRY0hwMEpmX2hKSl9DSGtUMjhjOVo0aVhpVC1lS0ZCZ3NSR2NOT1I0?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "'수십억 연봉' 홍명보, 충격패 다음날도 미소⋯축구 팬들 \"웃음이 나오나?\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45bFJOdzZPU0tfNzhUZ2FQM1E1YjdaZEx1RC1haW1TMUZ0TDRsaWpxWV9Xb0NYYmNPMWpheUUtTDBtaWxiOHZsMmxuNDFPX1k?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "\"사명감으로 마지막 봉사\" 홍명보 감독, 연봉이 38억? 때아닌 논란 불거졌다...'월드컵 전체 16위' 해외 추정치 화제 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUxQNE5CWmVoS2xDUzNrLXdoVWtLUXREdUJyY20yM0VKeElOVDQ0TE9OWExUX2w1NXFyWnRPV0hrM2Z4TjF6SWZDNzhQWFlhMzlGYWF0V3hPck42bk5QeFVZejZuWXAzZDROMDJrLUh0b2kwLVRsZW0wY1hEdkJLX2N3UdIBlwFBVV95cUxQWFNtekhYMEJRbnVfemVJX284bndiNklkNmJfRFpBWFhPWWwxb2loYXRSRUVzTTljNHpFZ1o4dFJCYUxnVnFWcXJsbC1XSDI3MWhRcG1yWDBLbWZLalJub1YtUVBXQl9IZDRtWFVOdDd3eXh4c0NPdVpFZlJ6Wm9EWnlXZ2lPU1Q0SU1Gall3MDZWbjNLOU9F?oc=5",
+              "source": "Chosunbiz"
+            }
+          ],
+          "description": "충격적인 패배 다음 날에도 미소를 보인 홍명보 감독의 태도와 '선수 탓·변명'으로 일관한 발언이 축구 팬들의 강한 비판을 받고 있다. 여기에 '사명감으로 봉사한다'는 홍 감독의 연봉이 해외 추정치 기준 37~38억 원에 달한다는 보도가 더해지며 논란이 커지는 모양새다. '월드컵 감독 중 전체 16위' 수준의 연봉이라는 수치가 화제로 번지면서 팬들의 불만이 더욱 고조되고 있다.",
+          "headline": "홍명보, 충격패 후 '선수 탓·변명' 논란"
+        },
+        {
+          "rank": 3,
+          "word": "에콰도르",
+          "count": 2,
+          "articles": [
+            {
+              "title": "한국 32강 먹구름 끼나 ... 에콰도르, ‘전차 군단’ 독일 잡고 조 3위",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcW5sSWRXc1VqQzFsUkQzNEtFZ3FjWkdXRjJVRDZVS1JJZnBEZVJqdDF5T0hlR1hkT01PMEIxUGRxeHJ1bWxkOTJEb1Mza0o1Tm1aRFNFY3M0Q1VFaGdGMGpjMEx1RUxtbWVSVTNPc08xU25lX1V1RU1xeHYyOEgwb0RydENGQjJaRUhV?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "E조 3위 에콰도르도 32강 진출… 더 낮아진 한국의 가능성",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rcUZpTjUwMmdXbzdoZXdPVUlWQlVvRWZ5Y2Z2elJUNllXWlQ5U3RtbUdsUXVQUy11cTdvZk00bzdQdm10MVdVYXE4eFFoVnN3bDVYcjl3?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "에콰도르, 독일 역전승으로 잡았다…한국 32강 진출 확률 하락",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQNUVpYkk4R3lKX21rbkZ6WDFuMklNdmtnbWtHaGIzWUpNRzA3eDNwSHZ2SUVpZ2x6blgxN0JFNTNQODVOZnZ5enUtOG5ueGV3RkVUWjZB?oc=5",
+              "source": "중앙일보"
+            }
+          ],
+          "description": "에콰도르가 독일을 2-1로 역전 승리하며 32강 진출을 확정지었다. 이로써 같은 조에서 32강을 다퉈야 하는 한국의 진출 확률이 하락했고, 한국은 32강 경쟁 6위로 내려앉았다. '전차 군단' 독일을 잡은 에콰도르의 결과가 한국 월드컵 전선에 직접적인 영향을 미치면서 오늘 처음 주목받는 키워드로 떠올랐다.",
+          "headline": "에콰도르, 독일 꺾고 32강 확정"
+        },
+        {
+          "rank": 4,
+          "word": "확정",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘탈락 확정’ 튀르키예 극적 첫 승 신고… 미국에 3대2 신승",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2FXVjRTbExvM25PeVVPTHBvSEhvX2I2aDNRa2dIREoyX2QzSkxFdElJNmdmZFdwZElGUTlLcUQwWUtPRnRQVUFOWll0eXVMS1dlM002cHdyWC1RVVlZc09lU212Z2VEYVkybm5wSWIzZHdHMEk3c2ZBMGJuT3BCeTlUNjVFYldYYUpv?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "호주-파라과이 0-0 비겨 승점 4…한국, 32강 경쟁 6위로 하락",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oLTJoNnpuWHcyaVM2U2FiaDdWQWlOY3p5SmMwRDZvcHBhYWNXNjVRMVJKbDRqemxlREYtazY4RTItZTJMWVdYUk04dHJ5VmZETzVOSEowQ0Y0ak1zUUFyaNIBYEFVX3lxTE1oLTJoNnpuWHcyaVM2U2FiaDdWQWlOY3p5SmMwRDZvcHBhYWNXNjVRMVJKbDRqemxlREYtazY4RTItZTJMWVdYUk04dHJ5VmZETzVOSEowQ0Y0ak1zUUFyaA?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "‘유종의 미’ 튀르키예, 진즉 이렇게 하지 그랬어? 탈락 확정 뒤에야 미국에 3골 쏟아부으며 승리",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyWW9MOGVmY1JLRWU3T2ZZdWpPQXBUN2RtSE40cjJBeEJYaGZSakU2OFZBSTN2UUk4bGZvYkxqZmhMNVRuSnBHbzBRVzFjTmNkYk81X2Z1ZGloR3FZcDRQVkRoQVByQ1NRNFpTRElLellrQQ?oc=5",
+              "source": "풋볼리스트"
+            }
+          ],
+          "description": "이미 탈락이 확정된 튀르키예가 미국을 3-2로 꺾으며 극적인 첫 승을 신고했다. 탈락이 결정된 뒤에야 3골을 쏟아낸 튀르키예의 경기력에 '진즉 이렇게 하지 그랬느냐'는 아쉬움 섞인 반응이 나오고 있다. 한편 호주와 파라과이가 0-0으로 비기며 각각 승점 4를 유지해 한국의 32강 경쟁은 더욱 좁아진 상황이다.",
+          "headline": "튀르키예 탈락 확정 후 미국에 역전승"
+        },
+        {
+          "rank": 5,
           "word": "손흥민",
-          "count": 3,
+          "count": 2,
           "articles": [
             {
               "title": "손흥민父 굳은 얼굴로 벌떡…“굉장히 열받은 듯” 남아공전 포착",
@@ -420,85 +492,13 @@
               "source": "뉴스1"
             },
             {
-              "title": "남아공전 관중석에 ‘손흥민 父 손웅정’ 굳은 얼굴 포착",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43a2RyNEVISTJiVGJ0U0pMWFM0bDUyZGVJR1d2enNhMm9wT3pyRWZISmNJLWx5anM1cXVIQ1BsaUVOWnNFMmFtNmtnTHhRbUNnMmZBTkw0WFFXZ1oyaW5PdURQaXJCRE0zaXlKQUhVTU5GZk9R0gFmQVVfeXFMTURjLUlvOEhuYnFRMXNVT3BOQmVDNGNKYjAtOGh6WjB6RW9pdGdGemVrazVZd1kxNEFEclptWHd2ZWJrTE1HWDBGRHI1M1pKWEpaQ25DckpZanZpTWpnX2llcWd5bHJB?oc=5",
-              "source": "동아일보"
+              "title": "\"손흥민 벤치 둔다고 해서 잘렸다\" 무리뉴 감독, 토트넘 충격 경질 회상…\"결승전 앞두고 SON 휴식 주려고 했다가 해임됐어\"",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uOTVIVTlzN1lvRy1FRDlISVJRWmlENDNoS3V2U2wtNXk3QjZWbllxcHJ4MExnYjVDZklxNFN0QnkzNEZCLXlJaElFX3NnYVhjd1pHR2hvT1lzVU5D?oc=5",
+              "source": "네이트"
             }
           ],
-          "description": "남아공전 관중석에서 손흥민의 부친 손웅정 씨가 굳은 얼굴로 자리를 박차고 일어서는 장면이 포착돼 화제다. 해설위원 신문선은 손흥민을 벤치에 두는 것은 홍명보 감독이 선수에게 모욕감을 준 것이며 선수단 분위기에도 영향을 미칠 수 있다고 강하게 비판했다. 주장 손흥민의 출전 및 활용 문제가 월드컵 기간 내내 논란의 중심에 서고 있다.",
-          "headline": "손흥민 벤치 논란, 부친 굳은 표정 포착"
-        },
-        {
-          "rank": 3,
-          "word": "홍명보호",
-          "count": 2,
-          "articles": [
-            {
-              "title": "홍명보호, 조 3위 중 6위로 ‘탈락 위기’…호주까지 안 도와줬다",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xYktBTjd5NXM4ejVqRldEX0pwLW9Cb2Z2bldVR3ZNRE1oYUJLNmNBZU15enpUdmtfSldBaERKNGFFdnh3cnZ3Q3hBam53dUJPQ3RYc2lR?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "홍명보호 '조 3위 32강 진출' 확률, 87.6%→70.96% 추락[월드컵24시]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80cExVX2NaQndxczE5eXduNGpIenVZX2xTeTh5b2YzYmhsYlRTa25aeExqcVdodzRhVk0zeTM5blFpMVlCM1dqNENkZFZPUEpBcW5ZcFZRY18xei1LdlJRNNIBeEFVX3lxTFBCbEJTRXlDYUVCSWZISEFfSDFES1NOQWNYZWdtOHVHYTdnUkhPNzVRSTFNUXhKbnRQN0JYQV9XcTlXNkROMUtQSHZZaUkyWHdzaVR2YTFCbnVSZVNQMzNRbHVWNGRpMm1aT21xekczTk0weVNmM2RRUg?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "또 경우의 수 하나 삭제…홍명보호 32강 경쟁 더 험난해졌다",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1icWJhT1hfZFBKRC1nX0RwOFd4cnNZQ3pMdXpDUUlOS2dwdktMQlpfN3hOal95RlFOTUpzRi1vTnhOZ2RvOTFOVVNidF90b0h6eEZUVXdpOFVMbDJtTEx6bmpveEI0WC1yUHfSAW5BVV95cUxPZDI2WDJ0Mlh4RDBWdkFmRXBqbFVpRzFKWlVLWFlzN05hM2kxTDlxWmI1MDBvMjFZREs0OElhWUhoTGRsYU5pWU9uc0V1OFlJVXVlS21DLWRYeExzRTEtcWFtQUNvMndvZ0tyWnN5QQ?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "홍명보호의 32강 진출 확률이 87.6%에서 70.96%로 급락했다. 조 3위 경쟁에서 현재 6위에 머물고 있으며, 호주마저 한국에 유리한 결과를 만들어주지 못하면서 경우의 수가 하나씩 사라지고 있다. 남은 경기에서 결과와 타 경기 결과가 맞아떨어져야 하는 복잡한 상황으로, 32강 진출을 장담하기 어려운 국면에 접어들었다.",
-          "headline": "홍명보호, 32강 진출 확률 70%대로 추락"
-        },
-        {
-          "rank": 4,
-          "word": "경쟁",
-          "count": 2,
-          "articles": [
-            {
-              "title": "F조 3위 스웨덴에도 밀린 홍명보호…32강 경쟁 5위",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhbVJUc0tEVGRzWExLdk0zQzB2Sl9GQ2ZCUnROV3hlbnVBQWRjYnVzZ2hsSGlyOUlTM01DdFBMNERvN0VTZGxMcTgzX25mRFR2UDZ0TGJ4bWpBQjg?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "일본 무승부에 한국 ‘초비상’…32강 경우의 수 더 꼬였다",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52S3hKTGRxaE9mNkNFOVdob1dlQ0Z4eWJ6ZmV1Vm9LMDM2YWEzX3BxTjd3NW10T3cwcEl6bTdiSWpvNnFxa1RUMlhWM251eTgyZVBZbXRjMA?oc=5",
-              "source": "knn.co.kr"
-            },
-            {
-              "title": "\"75% 내어준다\"…경쟁 지자체와 이익 공유한 스웨덴의 '방폐물' 해법 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16WkoyMEdzMm1lWHpFY1lXLUdtRzd0aTN5Y2UzaU8tcFVOaE9zb09kWVZKcGNPVHJ1M0FtSi1nSmZhV0JTOHV1OWtXQ0xIZWJLSnh0X19JNmtUSWRFRXFPRWFFUVBfX3Z3ckoyZ2FSRzjSAXBBVV95cUxNelpKMjBHczJtZVh6RWNZVy1HbUc3dGkzeWNlM2lPLXBVTmhPc29PZFlWSnBjT1RydTNBbUotZ0pmYVdCUzh1dTlrV0NMSGViS0p4dF9fSTZrVElkRUVxT0VhRVFQX192d3JKMmdhUkc4?oc=5",
-              "source": "머니투데이"
-            }
-          ],
-          "description": "일본이 무승부를 거두면서 한국의 32강 경우의 수가 더욱 복잡하게 꼬였다. F조 3위인 스웨덴에도 밀려 32강 경쟁 5위로 처진 홍명보호는 사실상 타 경기 결과에도 운명을 맡겨야 하는 처지다. 오늘 처음 화제 키워드로 등장한 만큼, 한국의 조별리그 탈락 위기감이 오늘 들어 본격적으로 수면 위로 떠올랐다.",
-          "headline": "한국, 32강 경쟁 5위로 밀려"
-        },
-        {
-          "rank": 5,
-          "word": "승점",
-          "count": 2,
-          "articles": [
-            {
-              "title": "호주-파라과이 0-0 비겨 승점 4…한국, 32강 경쟁 6위로 하락",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzejAyTWVpU1FYZ0w2UnpWWU50UHJKQVZrbVlHZWdxc2RQUHFmZ3gzd25rbEhfcUpoT29ZNmdoZXItdTlRWjVzelRCRUNtM0ItOUUtWTdUbm84OW_SAWBBVV95cUxNaC0yaDZ6blh3MmlTNlNhYmg3VkFpTmN6eUpjMEQ2b3BwYWFjVzY1UTFSSmw0anpsZURGLWs2OEUyLWUyTFlXWFJNOHRyeVZmRE81TkhKMENGNGpNc1FBcmg?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "한국 월드컵 32강 상대는 '캐나다 유력', 16강 상대까지 윤곽",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBycVBvRTU4QU1SUDNHdjh1bzFEZzUtMHNrWWdjVUlmVHNfM09zaGtka0Nfcl9EZ1lDQkRBQ05DU0xNVkNOZ0JPLTlvdjFnQVNuWmxnYjkwUEFtNzViLWFuaXltWFNiVjdrdEFCaElCRFdkQjZkU3c?oc=5",
-              "source": "starnewskorea.com"
-            },
-            {
-              "title": "호주-파라과이 0-0 비겨 승점 4…한국, 32강 경쟁 6위로 하락",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oLTJoNnpuWHcyaVM2U2FiaDdWQWlOY3p5SmMwRDZvcHBhYWNXNjVRMVJKbDRqemxlREYtazY4RTItZTJMWVdYUk04dHJ5VmZETzVOSEowQ0Y0ak1zUUFyaNIBYEFVX3lxTE1oLTJoNnpuWHcyaVM2U2FiaDdWQWlOY3p5SmMwRDZvcHBhYWNXNjVRMVJKbDRqemxlREYtazY4RTItZTJMWVdYUk04dHJ5VmZETzVOSEowQ0Y0ak1zUUFyaA?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "호주와 파라과이가 0-0으로 비겨 각각 승점 4를 기록하면서, 한국은 32강 경쟁 순위에서 6위로 밀려났다. 한국에 유리한 결과가 나오지 않으면서 32강 진출 가능성이 한층 불투명해진 상황이다. 한편 32강에 오를 경우 상대는 캐나다가 유력하고 16강 윤곽도 나오고 있어, 조기 탈락 여부에 관심이 집중되고 있다. 승점 계산이 오늘 처음 주요 화제로 떠올랐다.",
-          "headline": "호주-파라과이 0-0, 한국 32강 경쟁 6위로 하락"
+          "description": "남아공전에서 손흥민을 벤치에 배치한 홍명보 감독의 결정을 두고 신문선 해설위원이 '선수에게 모욕감을 준 것'이라고 강하게 비판하며 선수단 분위기에도 영향을 미쳤을 것이라고 지적했다. 경기 중 손흥민 부친이 굳은 얼굴로 자리에서 벌떡 일어나는 장면이 포착돼 팬들의 관심을 끌었다. 무리뉴 전 감독이 토트넘에서 결승전 직전 손흥민을 쉬게 하려다 경질됐다는 과거 일화까지 재소환되며 '손흥민 벤치 기용'을 둘러싼 논쟁이 확산되고 있다.",
+          "headline": "손흥민 벤치 기용 논란, 팬·전문가 반발"
         }
       ]
     }
