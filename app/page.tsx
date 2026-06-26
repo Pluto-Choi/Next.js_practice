@@ -71,11 +71,6 @@ export default async function Home() {
 
         <h1 className="sr-only">왓뉴스 — {data.date} 핫이슈 · 연예 · 경제 키워드 TOP5</h1>
 
-        {/* 데스크탑은 상단에 업데이트 시각, 모바일은 맨 아래로 내린다. */}
-        <p className="hidden lg:block lg:mb-4 text-center text-xs text-zinc-500 dark:text-zinc-400">
-          <UpdatedAt updatedAt={data.updated_at} date={data.date} /> · Google News RSS
-        </p>
-
         {data.briefing?.text && (
           <div className="mb-5 lg:mb-6">
             <BriefingCard briefing={data.briefing} />
@@ -95,8 +90,8 @@ export default async function Home() {
           <NotificationButton />
         </div>
 
-        {/* 모바일 전용: 업데이트 시각을 하단으로. */}
-        <p className="lg:hidden mt-8 mb-1 text-center text-xs text-zinc-500 dark:text-zinc-400">
+        {/* 업데이트 시각을 하단에 표시(데스크탑·모바일 공통). */}
+        <p className="mt-8 mb-1 text-center text-xs text-zinc-500 dark:text-zinc-400">
           <UpdatedAt updatedAt={data.updated_at} date={data.date} /> · Google News RSS
         </p>
 
