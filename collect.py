@@ -818,6 +818,49 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
             item.pop("_trend_note", None)
 
 
+def generate_briefing(categories_keywords):
+    """전 카테고리 상위 키워드를 묶어 '오늘의 브리핑'(3~4문장 종합)을 생성한다.
+    각 키워드의 headline/description을 근거로 쓴다. 실패·거절 응답이면 None을 반환해
+    프런트에서 브리핑 카드를 숨긴다."""
+    blocks = []
+    for category, keywords in categories_keywords:
+        for item in keywords[:3]:
+            label = item.get("headline") or item.get("word")
+            desc = (item.get("description") or "").strip()
+            line = f"  · [{category}] {label}"
+            if desc:
+                line += f" — {desc}"
+            blocks.append(line)
+    if not blocks:
+        return None
+    joined = "\n".join(blocks)
+    prompt = (
+        "다음은 오늘 한국에서 화제가 된 분야별 상위 뉴스 키워드와 그 설명이야.\n"
+        "이걸 묶어, 한국 독자가 '오늘 무슨 일이 있었는지' 한눈에 잡도록 종합 브리핑을 써줘.\n\n"
+        "규칙:\n"
+        "- 3~4문장, 한 단락. 가장 큰 이슈부터 자연스럽게 엮어라.\n"
+        "- 주어진 사실만 써라. 추측·과장·없는 숫자 금지.\n"
+        "- 키워드를 본문에 자연스럽게 녹여라(단순 나열 금지).\n"
+        "- '오늘' 같은 도입으로 시작해 신문 1면 요약처럼 담담하게.\n"
+        "- 사과·변명·메타설명 없이 브리핑 본문만 출력해라.\n\n"
+        f"{joined}"
+    )
+    try:
+        message = anthropic_client.messages.create(
+            model="claude-sonnet-4-6",
+            max_tokens=600,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        text = message.content[0].text.strip()
+        if not text or _looks_like_refusal(text):
+            print("  generate_briefing 거절/빈 응답 — 브리핑 생략")
+            return None
+        return text
+    except Exception as e:
+        print(f"  generate_briefing 실패: {e}")
+        return None
+
+
 anthropic_client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
 kiwi = Kiwi()
@@ -1135,10 +1178,26 @@ def main():
             if item.get("description"):
                 print(f"  [{category}] {item['word']}: {item['description']}")
 
-    # ===== keywords.json 저장 (summary 포함) =====
+    # ===== 오늘의 브리핑 (전 카테고리 종합) =====
+    briefing_text = generate_briefing([
+        ("오늘의 이슈", keywords_issue),
+        ("경제", keywords_economy),
+        ("연예", keywords_ent),
+        ("스포츠", keywords_sports),
+    ])
+    briefing = {
+        "text": briefing_text,
+        "period": "아침" if datetime.now(KST).hour < 14 else "저녁",
+        "generated_at": datetime.now(KST).strftime('%Y-%m-%d %H:%M'),
+    } if briefing_text else None
+    if briefing:
+        print(f"오늘의 브리핑: {briefing_text}")
+
+    # ===== keywords.json 저장 (summary·briefing 포함) =====
     result = {
         "date": today,
         "updated_at": datetime.now(KST).strftime('%Y-%m-%d %H:%M'),
+        "briefing": briefing,
         "categories": {
             "오늘의 이슈": {
                 "summary": summaries["오늘의 이슈"],
