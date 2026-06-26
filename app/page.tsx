@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import KeywordDisplay from "./components/KeywordDisplay";
+import BriefingCard from "./components/BriefingCard";
 import SiteHeader from "./components/SiteHeader";
 import InstallButton from "./components/InstallButton";
 import NotificationButton from "./components/NotificationButton";
@@ -9,7 +10,7 @@ import KeywordSearch from "./components/KeywordSearch";
 import LeftSidebar from "./components/LeftSidebar";
 import RightSidebar from "./components/RightSidebar";
 import { jsonLdHtml } from "./jsonld";
-import { loadCurrentData, getRecentDates, getRankChanges } from "./data";
+import { loadCurrentData, getRecentDates } from "./data";
 import { HERO_CATEGORY } from "./categories";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -48,7 +49,6 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default async function Home() {
   const [data, recentDates] = await Promise.all([loadCurrentData(), getRecentDates()]);
-  const rankChanges = await getRankChanges(data);
 
   const searchKeywords = Array.from(
     new Set(
@@ -71,9 +71,15 @@ export default async function Home() {
 
         <h1 className="sr-only">왓뉴스 — {data.date} 핫이슈 · 연예 · 경제 키워드 TOP5</h1>
 
-        <p className="mb-3 lg:mb-6 text-center text-xs text-zinc-500 dark:text-zinc-400">
+        <p className="mb-3 lg:mb-4 text-center text-xs text-zinc-500 dark:text-zinc-400">
           <UpdatedAt updatedAt={data.updated_at} date={data.date} /> · Google News RSS
         </p>
+
+        {data.briefing?.text && (
+          <div className="mb-5 lg:mb-6">
+            <BriefingCard briefing={data.briefing} />
+          </div>
+        )}
 
         {recentDates.length > 1 && (
           <div className="relative mb-3 lg:hidden">
@@ -95,7 +101,7 @@ export default async function Home() {
           </div>
         )}
 
-        <KeywordDisplay data={data} rankChanges={rankChanges} />
+        <KeywordDisplay data={data} />
 
         {/* 검색은 "원하는 걸 아는" 2차 행동. 글랜스(랭킹 보드)를 위로 올리고
             검색창은 보드 아래로 내린다. 하단 탭바의 /#search 앵커가 여기로 스크롤한다. */}

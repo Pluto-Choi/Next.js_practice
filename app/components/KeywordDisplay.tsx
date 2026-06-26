@@ -34,9 +34,16 @@ export type CategoryData = {
   keywords: Keyword[];
 };
 
+export type Briefing = {
+  text: string;
+  period?: string;
+  generated_at?: string;
+};
+
 export type KeywordsData = {
   date: string;
   updated_at?: string;
+  briefing?: Briefing | null;
   categories: {
     [category: string]: CategoryData;
   };
@@ -212,45 +219,72 @@ function CategorySection({
   );
 }
 
-// 랭킹 보드 한 줄. 순위 + 헤드라인 + 순위변동 화살표로 한눈에 스캔된다.
-// 줄 전체가 해당 키워드 추이 페이지로 가는 링크.
+// 랭킹 보드 한 줄. 줄 전체가 해당 키워드 추이 페이지로 가는 링크.
+// 이슈(hero) 보드 상위 3개는 "왜 떴나"(description)와 관련 기사 수를 함께 노출하는
+// 맥락 행으로, 나머지·분야별 스냅샷은 한 줄 컴팩트 행으로 렌더한다.
 function BoardRow({
   item,
-  change,
   hero,
 }: {
   item: Keyword;
-  change?: RankChange;
-  // hero(급상승 보드): 순위가 높을수록 크고 진하게, 1위는 틴트+보더로 강조 → 한눈에 판세.
+  // hero(급상승 보드): 1위는 틴트+보더로 강조, 상위 3개는 맥락 노출.
   hero?: boolean;
 }) {
   const label = item.headline || item.word;
   const rank = item.rank;
   const isFirst = hero && rank === 1;
+  const articleCount = item.articles?.length ?? 0;
+  // 이슈 보드 상위 3개 + 설명문이 있을 때만 맥락 행.
+  const showContext = hero && rank <= 3 && !!item.description;
+
+  if (showContext) {
+    return (
+      <Link
+        href={`/keyword/${encodeURIComponent(item.word)}`}
+        aria-label={`${rank}위 ${label}`}
+        className={`block px-4 transition-colors hover:bg-zinc-50 dark:hover:bg-zinc-800/40 active:bg-zinc-100 dark:active:bg-zinc-700/40 ${
+          isFirst
+            ? "py-4 border-l-2 border-orange-400 bg-orange-50/60 dark:border-orange-500 dark:bg-orange-950/20"
+            : "py-3.5"
+        }`}
+      >
+        <div className="flex items-center gap-3">
+          <span className={`text-xs font-bold w-6 h-6 flex items-center justify-center rounded-md shrink-0 tabular-nums ${rankBadgeStyle(rank)}`}>
+            {rank}
+          </span>
+          <h3 className={`min-w-0 flex-1 truncate tracking-tight ${isFirst ? "text-lg font-bold text-zinc-900 dark:text-white" : "text-[15px] font-semibold text-zinc-800 dark:text-zinc-100"}`}>
+            {label}
+          </h3>
+          {articleCount > 0 && (
+            <span className="shrink-0 text-[11px] text-zinc-500 dark:text-zinc-500">관련 {articleCount}건</span>
+          )}
+        </div>
+        <p className="mt-1 pl-9 text-[13px] leading-relaxed text-zinc-600 dark:text-zinc-400 break-keep line-clamp-2">
+          {item.description}
+        </p>
+      </Link>
+    );
+  }
+
+  // 컴팩트 행 (이슈 4위 이하 · 분야별 스냅샷): 한 줄 스캔.
   const labelCls = !hero
     ? "truncate text-[15px] font-medium text-zinc-800 dark:text-zinc-100"
-    : rank === 1
-      ? "line-clamp-2 text-lg font-bold leading-snug text-zinc-900 dark:text-white"
-      : rank <= 3
-        ? "truncate text-[15px] font-semibold text-zinc-800 dark:text-zinc-100"
-        : "truncate text-[13px] font-normal text-zinc-500 dark:text-zinc-400";
+    : "truncate text-[13px] font-normal text-zinc-500 dark:text-zinc-400";
   return (
     <Link
       href={`/keyword/${encodeURIComponent(item.word)}`}
-      aria-label={`${item.rank}위 ${item.headline || item.word}`}
-      className={`flex items-center gap-3.5 px-4 transition-colors hover:bg-zinc-50 dark:hover:bg-zinc-800/40 active:bg-zinc-100 dark:active:bg-zinc-700/40 ${
-        isFirst
-          ? "py-4 border-l-2 border-orange-400 bg-orange-50/60 dark:border-orange-500 dark:bg-orange-950/20"
-          : "py-3"
-      }`}
+      aria-label={`${rank}위 ${label}`}
+      className="flex items-center gap-3.5 px-4 py-3 transition-colors hover:bg-zinc-50 dark:hover:bg-zinc-800/40 active:bg-zinc-100 dark:active:bg-zinc-700/40"
     >
-      <span className={`text-xs font-bold w-6 h-6 flex items-center justify-center rounded-md shrink-0 tabular-nums ${rankBadgeStyle(item.rank)}`}>
-        {item.rank}
+      <span className={`text-xs font-bold w-6 h-6 flex items-center justify-center rounded-md shrink-0 tabular-nums ${rankBadgeStyle(rank)}`}>
+        {rank}
       </span>
       <span className={`flex-1 min-w-0 tracking-tight hover:text-orange-700 dark:hover:text-orange-400 ${labelCls}`}>
         {label}
       </span>
-      <RankChangeBadge change={change} />
+      {hero && articleCount > 0 && (
+        <span className="shrink-0 text-[11px] text-zinc-500 dark:text-zinc-500">관련 {articleCount}건</span>
+      )}
       {/* 모바일엔 hover가 없어 행이 링크임을 알기 어렵다. 연한 › 로 탭 가능 힌트. */}
       <span aria-hidden="true" className="shrink-0 text-zinc-300 dark:text-zinc-600 text-sm">›</span>
     </Link>
@@ -272,14 +306,12 @@ const accentDefault = { bar: "bg-zinc-400", text: "text-zinc-900 dark:text-zinc-
 function RankBoard({
   category,
   categoryData,
-  rankChanges,
   lead,
   showAllLink,
   limit,
 }: {
   category: string;
   categoryData: CategoryData;
-  rankChanges?: RankChanges;
   lead?: boolean;
   showAllLink?: boolean;
   // limit: 홈 분야 보드는 상위 N개 구만 노출, 나머지는 "전체 보기"로.
@@ -315,12 +347,7 @@ function RankBoard({
       </div>
       <div className="rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 shadow-sm dark:shadow-none divide-y divide-zinc-100 dark:divide-zinc-800/60 overflow-hidden">
         {rows.map((item) => (
-          <BoardRow
-            key={item.word}
-            item={item}
-            change={rankChanges?.[category]?.[item.word]}
-            hero={lead}
-          />
+          <BoardRow key={item.word} item={item} hero={lead} />
         ))}
       </div>
     </section>
@@ -366,7 +393,7 @@ export default function KeywordDisplay({
     <>
       {heroEntry && heroEntry[1].keywords.length > 0 && (
         <div className="mb-8">
-          <RankBoard category={heroEntry[0]} categoryData={heroEntry[1]} rankChanges={rankChanges} lead />
+          <RankBoard category={heroEntry[0]} categoryData={heroEntry[1]} lead />
         </div>
       )}
 
@@ -376,7 +403,6 @@ export default function KeywordDisplay({
             key={category}
             category={category}
             categoryData={categoryData}
-            rankChanges={rankChanges}
             showAllLink
             limit={3}
           />
