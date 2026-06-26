@@ -94,7 +94,7 @@ export default async function HistoryPage({ params }: Props) {
             href="/trends"
             className="inline-flex items-center gap-1 rounded-lg px-3 py-1.5 text-xs font-medium text-zinc-500 dark:text-zinc-400 hover:text-orange-700 dark:hover:text-orange-400 transition-colors"
           >
-            ↩ 트렌드로 돌아가기
+            ↩ 뉴스창고로 돌아가기
           </Link>
 
           {newerDate ? (

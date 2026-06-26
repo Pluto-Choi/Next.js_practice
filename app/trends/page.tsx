@@ -1,23 +1,28 @@
 import type { Metadata } from "next";
 import AppShell from "../components/AppShell";
 import DateArchive from "../components/DateArchive";
-import { loadTrends, getDateArchive } from "../data";
+import { getDateArchive } from "../data";
 
 export const metadata: Metadata = {
-  title: "키워드 트렌드 | 왓뉴스",
-  description: "뉴스 키워드가 가장 오래 1위를 지킨 기록을 기간별로. 왜 화제였는지 AI 요약까지.",
+  title: "뉴스창고 | 왓뉴스",
+  description: "왓뉴스가 매일 모은 뉴스를 월·날짜별로 둘러보세요. 그날의 핫이슈 키워드를 한눈에.",
   alternates: { canonical: "/trends" },
 };
 
 export default async function TrendsPage() {
-  const [trends, archive] = await Promise.all([loadTrends(), getDateArchive()]);
+  const archive = await getDateArchive();
 
   return (
     <AppShell>
-      <div className="max-w-2xl">
-        <p className="mb-6 text-center text-xs text-zinc-500 dark:text-zinc-400">
-          📊 키워드 트렌드{trends ? ` · 최근 ${trends.days}일` : ""}
-        </p>
+      <div>
+        <header className="mb-6">
+          <h1 className="flex items-center gap-2 text-xl font-extrabold tracking-tight text-zinc-900 dark:text-white">
+            <span aria-hidden="true">🗃️</span>뉴스창고
+          </h1>
+          <p className="mt-1.5 text-sm text-zinc-500 dark:text-zinc-400 break-keep">
+            그동안 모은 뉴스를 한 곳에. 월을 골라 그날의 키워드를 둘러보세요.
+          </p>
+        </header>
 
         {archive.length > 0 && (
           <div className="mb-10">

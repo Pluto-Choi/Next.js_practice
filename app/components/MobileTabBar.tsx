@@ -27,11 +27,11 @@ function IconGrid({ active }: { active: boolean }) {
     </svg>
   );
 }
-function IconTrend({ active }: { active: boolean }) {
+function IconCalendar({ active }: { active: boolean }) {
   return (
     <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={active ? 2.4 : 2} strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-      <path d="M3 17 9 11l4 4 7-7" />
-      <path d="M14 7h6v6" />
+      <rect x="3" y="4.5" width="18" height="16" rx="2" />
+      <path d="M3 9h18M8 3v3M16 3v3" />
     </svg>
   );
 }
@@ -132,7 +132,7 @@ export default function MobileTabBar() {
             </nav>
             <div className="mt-2 flex gap-2 px-4">
               <Link href="/trends" className="flex flex-1 items-center justify-center gap-1.5 rounded-xl border border-zinc-200 dark:border-zinc-800 px-4 py-3 text-sm font-medium text-zinc-700 dark:text-zinc-200 active:bg-zinc-50 dark:active:bg-zinc-800 transition-colors">
-                📊 트렌드
+                🗃️ 뉴스창고
               </Link>
               <Link href="/guide" className="flex flex-1 items-center justify-center gap-1.5 rounded-xl border border-orange-200 dark:border-orange-800/60 bg-orange-50 dark:bg-orange-950/40 px-4 py-3 text-sm font-semibold text-orange-700 dark:text-orange-300 active:opacity-80 transition-opacity">
                 ❓ 이용 가이드
@@ -155,8 +155,8 @@ export default function MobileTabBar() {
           카테고리
         </button>
         <Link href="/trends" aria-current={isTrends ? "page" : undefined} className={`${tabBase} ${isTrends ? tabOn : tabOff}`}>
-          <IconTrend active={isTrends} />
-          트렌드
+          <IconCalendar active={isTrends} />
+          뉴스창고
         </Link>
         <Link href="/#search" className={`${tabBase} ${tabOff}`}>
           <IconSearch active={false} />

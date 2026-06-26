@@ -30,7 +30,7 @@ export default function LeftSidebar({
             ))}
             <li>
               <Link href="/trends" className={navLink}>
-                <span aria-hidden="true">📊</span>트렌드
+                <span aria-hidden="true">🗃️</span>뉴스창고
               </Link>
             </li>
             <li>
