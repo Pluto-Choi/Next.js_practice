@@ -432,7 +432,9 @@ def _get_ner():
     return _ner_pipe
 
 
-_NER_PUNCT = re.compile(r"^[\s'\"''\""·,\.\-…]+|[\s'\"''\""·,\.\-…]+$")
+# 개체명 앞뒤에서 떼어낼 문자: 따옴표(직선·곡선), 가운뎃점, 쉼표·마침표·하이픈·말줄임표.
+_NER_EDGE_CHARS = "'\"‘’“”·,.-…"
+_NER_PUNCT = re.compile(r"^[\s" + re.escape(_NER_EDGE_CHARS) + r"]+|[\s" + re.escape(_NER_EDGE_CHARS) + r"]+$")
 
 
 def _ner_clean(s):
