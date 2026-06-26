@@ -38,7 +38,7 @@ export default async function KeywordPage({ params }: Props) {
   const detail = await getKeywordDetail(term);
   if (!detail) notFound();
 
-  const { word, headline, categories, latestDate, daysCount, peakRank, articles, description, sections, sources } = detail;
+  const { word, headline, categories, latestDate, daysCount, peakRank, articles, description, sections } = detail;
   const title = headline || word;
   const hasSections = !!sections && sections.length > 0;
 
@@ -114,29 +114,6 @@ export default async function KeywordPage({ params }: Props) {
               </section>
             ))}
           </div>
-        )}
-
-        {/* === 출처 (웹 검색 근거) === */}
-        {hasSections && sources && sources.length > 0 && (
-          <section className="mb-12">
-            <h2 className="text-sm font-bold tracking-tight mb-3 flex items-center gap-2 text-zinc-500 dark:text-zinc-400">
-              <span aria-hidden="true">🔎</span>출처
-            </h2>
-            <ul className="flex flex-col gap-1.5">
-              {sources.map((src) => (
-                <li key={src.url}>
-                  <a
-                    href={src.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-xs text-zinc-500 dark:text-zinc-400 hover:text-orange-700 dark:hover:text-orange-400 transition-colors break-all"
-                  >
-                    {src.title}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </section>
         )}
 
         {/* === 관련 뉴스 === */}
