@@ -103,6 +103,10 @@ export default async function Home() {
           <Link href="/copyright" className="underline underline-offset-2 hover:text-orange-700 dark:hover:text-orange-400">
             저작권 안내
           </Link>
+          {" · "}
+          <Link href="/privacy" className="underline underline-offset-2 hover:text-orange-700 dark:hover:text-orange-400">
+            개인정보처리방침
+          </Link>
         </p>
         </main>
 
