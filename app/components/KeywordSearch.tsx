@@ -82,7 +82,9 @@ export default function KeywordSearch({ keywords }: { keywords: string[] }) {
         onKeyDown={onKeyDown}
         placeholder="키워드 검색 (예: 환율, 손흥민)"
         autoComplete="off"
-        className="w-full rounded-full border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-4 py-2.5 text-sm text-zinc-700 dark:text-zinc-200 placeholder:text-zinc-400 dark:placeholder:text-zinc-500 focus:outline-none focus:border-orange-400 dark:focus:border-orange-600 transition-colors"
+        // text-base(16px): iOS Safari는 16px 미만 입력창에 포커스하면 화면을
+        // 강제 확대(auto-zoom)한다. 모바일 퍼스트 사이트라 이를 막는다.
+        className="w-full rounded-full border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-4 py-2.5 text-base text-zinc-700 dark:text-zinc-200 placeholder:text-zinc-400 dark:placeholder:text-zinc-500 focus:outline-none focus:border-orange-400 dark:focus:border-orange-600 transition-colors"
       />
       {q && (
         <div
