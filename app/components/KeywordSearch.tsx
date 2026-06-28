@@ -12,6 +12,21 @@ export default function KeywordSearch({ keywords }: { keywords: string[] }) {
   const [active, setActive] = useState(-1);
   const q = query.trim().toLowerCase();
   const wrapRef = useRef<HTMLDivElement>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  // 하단 탭바의 '검색'은 /#search 앵커로 이 영역에 스크롤시킨다. 사용자의 의도는
+  // 곧장 검색이므로, 해시로 도착하면 입력창에 포커스를 줘 한 번 더 탭하지 않고
+  // 바로 타이핑하게 한다. 앵커 스크롤과 싸우지 않도록 preventScroll 사용.
+  useEffect(() => {
+    const focusIfHash = () => {
+      if (window.location.hash === "#search") {
+        inputRef.current?.focus({ preventScroll: true });
+      }
+    };
+    focusIfHash();
+    window.addEventListener("hashchange", focusIfHash);
+    return () => window.removeEventListener("hashchange", focusIfHash);
+  }, []);
 
   const matches = useMemo(() => {
     if (!q) return [];
@@ -70,6 +85,7 @@ export default function KeywordSearch({ keywords }: { keywords: string[] }) {
         키워드 검색
       </label>
       <input
+        ref={inputRef}
         id="kw-search"
         type="search"
         role="combobox"
