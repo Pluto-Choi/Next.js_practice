@@ -100,7 +100,7 @@ export default function MobileTabBar() {
   const isCategory = pathname.startsWith("/category");
 
   const tabBase =
-    "flex flex-1 flex-col items-center justify-center gap-0.5 h-full text-[10px] font-medium transition-colors";
+    "flex flex-1 flex-col items-center justify-center gap-0.5 h-full text-[10px] font-medium transition-colors active:bg-zinc-100 dark:active:bg-zinc-800/70";
   const tabOn = "text-orange-600 dark:text-orange-400";
   const tabOff = "text-zinc-500 dark:text-zinc-400";
 
