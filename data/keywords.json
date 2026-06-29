@@ -1,275 +1,270 @@
 {
   "date": "2026-06-29",
-  "updated_at": "2026-06-29 07:04",
+  "updated_at": "2026-06-29 21:47",
   "briefing": {
-    "text": "오늘 가장 큰 충격은 스포츠계에서 나왔다. 홍명보 감독이 이끈 한국 축구대표팀이 북중미 월드컵 32강 진출에 실패하며 두 차례 연속 월드컵 탈락이라는 오명을 남겼고, 홍 감독은 \"모든 책임은 내게 있다\"며 자진 사퇴 의사를 밝혔으며, 이재명 대표 등 정치권에서도 축구협회 직선제 도입을 촉구하는 등 파장이 확산됐다. 경제 분야에서는 정부와 삼성전자·SK하이닉스가 3대 메가 프로젝트에 2천조 원을 투입하기로 하면서 반도체 주도권 경쟁이 가열되는 한편, 코스닥 30주년을 맞아 정부의 활성화 정책과 AI·자율주행 관련 기업들의 IPO가 맞물리며 반등 기대감이 커지고 있다. 연예계에서는 '미우새'가 화제의 중심이 됐는데, 안문숙이 집 공개 후유증으로 고정 출연을 포기했다고 밝힌 데 이어 윤은혜가 29살 이후 14년간 연애를 하지 않았다고 고백해 눈길을 끌었고, '옥문아'에서는 장항준이 결혼 전 윤종신과 동거했다는 사실을 공개해 웃음을 자아냈다. 한편 요리 연기가 실외 초미세먼지보다 수십 배 높아 치매 위험을 높인다는 연구 결과도 주목받으며 실내 공기질에 대한 경각심을 일깨웠다.",
-    "period": "아침",
-    "generated_at": "2026-06-29 07:04"
+    "text": "오늘 국내외에서 굵직한 이슈가 동시에 터졌다. 국제적으로는 유럽과 미국을 강타한 역대급 폭염으로 WHO가 유럽 초과사망자가 1,300명을 넘을 것이라 경고한 가운데, 호르무즈 해협 충돌 이후 고조된 미·이란 긴장 국면에서 미국 언론이 양국의 상호 공격 중단 및 회담 합의를 보도했으나 이란 외무차관이 이번 주 실무회담 일정이 없다고 공개 부인하며 혼선이 이어지고 있다. 국내에서는 이재용 삼성전자 회장이 광주를 반도체 신규 단지 후보지로 검토 중이라 밝히며 정부의 2,000조 원 규모 호남 반도체 메가프로젝트가 본격화됐지만, 당일 외국인이 7조 원어치를 팔아치우며 코스피가 8,390대까지 급락하는 엇갈린 풍경이 연출됐다. 스포츠계에서는 2026 월드컵 32강 탈락의 책임을 지고 홍명보 감독이 자진 사퇴를 공식 발표한 같은 날, 붉은악마가 '축구계에서 영원히 떠나라'는 강경 입장문을 내놓으며 갈등이 봉합되지 않은 채 마무리됐다.",
+    "period": "저녁",
+    "generated_at": "2026-06-29 21:47"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "우크라, 드론으로 러 우주통신센터 피격 · 이영자, 윤남노 식당 개업에 테이블마다 와인 선물 · 린, 이혼 고백 첫 공개",
+      "summary": "유럽·미국에 역대급 초여름 폭염 강타 · 미국·이란, 공격 중단 및 회담 합의 후 이란이 부인",
       "keywords": [
         {
           "rank": 1,
-          "word": "실외",
-          "count": 2,
+          "word": "폭염",
+          "count": 3,
           "articles": [
             {
-              "title": "칩 스케일 패키지 기반 실외조명용 LED모듈 출시",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uX2xtXzAzYms0elFwY0RVbktTb2VsenhlOHp3Z1VjcVFEdENKWjB5NmJqVGRRRThsem5yTDdnQ193bkJrZWZNTkdoWEQ2MnZNaUpYX1RtQmI2QUJLVEhRUmlQN3RJajhRc0pOZXJmMA?oc=5",
-              "source": "samsung.com"
+              "title": "전례 없는 초여름 폭염…\"유럽 초과사망 1300명 발생\"",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1icHJKMmVCN2FoakZBS2M3QnVMM2RzbnBWX2p6aklmckplaXRneDl0a0tQaGU0VkI2MlNnQnR6LWJYTVRFRlF6TGU4UWU0QTVzTTE5Ug?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "시흥시, 농업인 폭염 온열질환 경보…“실외 작업 주의·예방수칙 준수” 당부",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZdnJMYnlrRnVXVXpsNUdtYTY5OUxnMkc1MF9aOFRRaGlBY244bWRoNWE1eE5xZHVCR3hOUGR2YjZxU2NVUkFzZTZQVDlJb25jVEl1eGZ0TdIBpgJBVV95cUxPdWh6bG5WZGZraVdCMTVicGd6YjliSG5HRm5JUC1icnJRV3B3OWtkckpma0hRSi1jNlBoTTNVdmNMcE5DY0x6bEx2RUdUYThtaEd2bngxTFpiWEhmYXhiaU9INEhSOVdvb0R5U2ZicmRBU1hEdTVSUVpSbmpMdExYbDdWSWtXdGFOWEphMFZVeHlhZXc0cjJ2LUcxa29vUzdIOTZwcnJFcC0tdFpmSndZN1RlYXNNZTFSNUZVN1pTSGY0ZkVkOUJwVUdwekE3MThfSW90WlNSZXViOWotN1B0Mk9iV3JEaEZabzhhQkJwNVJ5U21TcDRSMUpDMTlfeWVua2Uzb3lHQnVDWVdkb1BETGdhQUR2d25KVGhrRFhCMWgzeUY5dHc?oc=5",
-              "source": "데일리안"
+              "title": "유럽 이어 미국도 역대급 폭염…체감온도 최고 46도 예보",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Jc091c0diUjUwZ2tzbnV2TkhXaVFzS3JoMkNtMjRGcUhjeHdyN1lIT3pteUtGTEVvd1BOaHE1SURvcUt6aWpOenB1MnliWXZDUEUxZDYyQWM2aXJiNlcwT2ZaMktBZTFoU3c?oc=5",
+              "source": "SBS 뉴스"
             },
             {
-              "title": "요리할 때 나오는 연기, 치매 위험 높인다…\"실외 초미세먼지 수십 배\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XYy16RFRNbi1GUXFsRksxbGFVWk9GUmVueHpHRUVMUFhJSG1VbDE1bE1GYl9IXzF0bDRzTWtwZVdDUGdSUnctTlJRd0luMTQ?oc=5",
-              "source": "v.daum.net"
+              "title": "40도 넘는 유럽 역대급 폭염에 WHO, '초과사망자 1300명 넘을 것'",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45ODhQengtWUNnd2R4bzVHNVVSVXZwazczV2t1QWpINllUNHMzNGdDa3Fva1NXNzUtcnE1RXJ0dmVvNndvcl9yZEI1TWozdzhEalQtV19PLVBOVU140gFiQVVfeXFMTmVmenlhUWFzWHdVcDdWZXdiOXlzOS12elZBaXJIUU5OaFNSUGRTWmhZdlNyX0h4T3oyWmlRcmxndk5Qb3hqZ2Y4TmVWVWdKbnlhdENfZHc2RjZmeGZqSkdscmc?oc=5",
+              "source": "BBC"
             }
           ],
-          "description": "요리할 때 나오는 연기가 실외 초미세먼지보다 수십 배 높아 치매 위험을 높인다는 연구 결과가 주목받고 있다. 한편 시흥시는 폭염 속 농업인의 실외 작업에 온열질환 경보를 발령하며 예방수칙 준수를 당부했고, 실외조명용 LED 모듈 신제품 출시 소식도 전해졌다. 오늘 처음 등장한 키워드다.",
-          "headline": "요리 연기, 실외 초미세먼지 수십 배"
+          "description": "유럽과 미국에서 역대급 폭염이 동시에 강타하며 WHO가 유럽 초과사망자가 1300명을 넘을 것이라고 경고했다. 미국에서도 체감온도 최고 46도에 달하는 극한 더위가 예보되며 피해 우려가 커지고 있다. 기후 전문가들은 이번 폭염을 전례 없는 수준으로 평가하고 있어 국제적 대응이 주목된다. 오늘 처음 주목받기 시작한 키워드다.",
+          "headline": "유럽·미국 역대급 폭염, 사망자 속출"
         },
         {
           "rank": 2,
-          "word": "드론",
-          "count": 2,
+          "word": "회담",
+          "count": 3,
           "articles": [
             {
-              "title": "\"모스크바도 사정권\"…우크라, 드론 이어 '플라밍고' 꺼냈다",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tWFhaQ0x1RnFCZ240bUExeW5UQWY0bWNBcmpwcGdfaUk5YTNzV0k5dHVrU0JDNUQ3aTVGMWhkblhYNEwwc0paNjFrclJCbDRsWDVuRHk3WWhteGfSAWBBVV95cUxPb1pMclZpSzdGMWRHVFpEeHVPRC0teXZKUGJ0N2EtWFc5MW8zSkFPd0RGS0l5dFVyem1YY2N4NXVON0dRUjFORXR2UWc4SEZFRmM3Smd4WDVzTHFTMlo1TkU?oc=5",
+              "title": "이란 “이번주 내 미국과 회의 예정없다”···‘카타르 2차 회담 예정’ 보도 부인",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMHowc2dRd3dtSmR4T1c2emdtVm4xbDQ0LXNpYUxnWTBkZmxiSmxoWmhtMnVXXzNvSWhMb1BwX2ZsRGppLU1jMURXQmE0Umw2Y1JvN3RiZE5DQk1NNW1WRV9MQVJ4RnJnNjFON3pHV0JXZnRmLVdldEpGa2UtdXlZUXlrTmpqNG5DeXB2VFhzM2NSWm9FZWdDa1lsMmhVaERhQmQ1cFUxd9IBX0FVX3lxTE9SNmJGdU1ZTjE3RGdjVG1kTFlmeDNYb1ZwVE5fWG01UTlnUXF1aEhOUlpRa2hvUlhpYS1VbmhjSGE0ODNPT1YybGhXNlRMeWRxMUMwWDhHSzlwak50QklN?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "\"‘호르무즈 충돌’ 미국·이란, 공격 중단 합의…이번주 회담\"",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tWTBQeUlfanZyNzF0aXc0UjM1WnJkUmdmNVBZX2tyZkpqekZmZkI0Q3BOTUNBNjhIWDJoLWpiY2RzSHlJenh4VUFFU1AySER1Q1ZlWQ?oc=5",
+              "source": "JTBC"
+            },
+            {
+              "title": "이란 외무차관 \"미국과 실무회담, 이번주 예정 안 돼\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12em9hVHdZajBYb2N6VkpmZl9Nd0pXS0pqRXc3TnA5UExZeWQ0dTVRcW1SZ0xYZ0o4dGROOUxQSFprb0FIdnMtSTJ5RExneGkxTXU4MkpYaHUzdGvSAWBBVV95cUxPVHpUZndPZzMtS1NGVjFjajJfY0ZsNl8tLXpObGZZVzBNZEdLRzh6UXFDZm5ubUNzSE1Yb2Jjbm5JYnh6c00xMGJYWXpaQ0Y2OW9kN2tyTmJlYmZKaHNuaC0?oc=5",
               "source": "연합뉴스"
-            },
-            {
-              "title": "모스크바 외곽 러 최대 우주통신센터, 우크라 드론에 피격",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IQ0FaWElBTzBDcFRIeS1hUjBDdk1FUUh3UGxJZWFBTVR5N2dlOFItSTF3alpuLVo5dkdJaUYwaGxHWUxXRnBGaG5ib21MRDZrYnBfaEdR?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "\"우크라 드론 맞은 모스크바 정유공장, 연내 재가동 어려울 듯\"",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tSTVFTjlvUUtRTVF5c1JNLWtZUXlLTGQ5eVpEVkUzcGRpQl84ajh2UjZDZG04VGNNMExTbkI1Sk5fanI4eW1kdzgxcUxpVEhJQzlJ?oc=5",
-              "source": "뉴스1"
             }
           ],
-          "description": "우크라이나 드론이 모스크바 외곽에 위치한 러시아 최대 우주통신센터를 피격했다. 드론 공격을 받은 모스크바 정유공장은 연내 재가동이 어려울 것이라는 전망도 나왔다. 우크라이나는 드론에 이어 장거리 타격 무기 '플라밍고'까지 꺼내들며 모스크바를 사정권에 두는 공세 수위를 높이고 있다.",
-          "headline": "우크라 드론, 모스크바 우주통신센터 피격"
+          "description": "미국과 이란의 이번 주 회담 개최 여부를 둘러싸고 혼선이 빚어지고 있다. 미국 언론은 양국이 공격 중단과 이번 주 회담 개최에 합의했다고 보도했지만, 이란 외무차관은 이번 주 실무회담 일정이 없다고 공개적으로 부인했다. 호르무즈 해협에서의 충돌 이후 양국 간 긴장이 고조된 상황에서 협상 재개 가능성에 국제 사회의 관심이 쏠리고 있다.",
+          "headline": "미국·이란 회담 개최 여부 엇갈린 신호"
         },
         {
           "rank": 3,
-          "word": "이영자",
-          "count": 2,
+          "word": "중단",
+          "count": 3,
           "articles": [
             {
-              "title": "이영자, 윤남노 식당서 '와인 골든벨' 울렸다..테이블당 1병씩 플렉스 \"최고 매출액 찍어\"[종합]",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGIydGY3WnA3V3VKb1ZtQTBnUHgtT1ZHejNVZkJ0aUh1NHJIQnVJYklTWVh5VVRVVWRCSm9fTG1XQkZCa29DaWxrb2t2ZDBOdVA5aEFCWnBpZkVvZkpaZjdoVUIxRE9DQ01tZ3hvdUNpYlhobS1MRktiTFdHamhYWGtxLXU?oc=5",
-              "source": "sportschosun.com"
+              "title": "美언론 \"미국-이란, 공격 중단 및 금주 회담 합의\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wS3YyUDRpeEQySUtIYnhaOVhIN2VNQjdjNmZ1NzIybDNsU1hJSlp0Yzg2cFIwS1FuclJncUdURTRJYV85OEk4RnhmdEpIdWZLR3l5YkhieHpqdHPSAWBBVV95cUxPR0RBMC1TSXZWWnRKM1cwR3BuX2ROTDktcjJzUk91a0NfS1NXdG0zaEFiS0NTWDBsdDJwWjY4eFhrWERzZWtxTDJLaHpLaHF6alBHZlU0TWFxU3V0UHJRTlE?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "이영자, 윤남노 식당 개업에 통 큰 선물…\"테이블마다 와인 한 병씩\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZY1hubGE5Q2xzTTltVmdudXo5eHpGc01fTE9Tc1RydVlpX0hXb0pWakZUSzJvYmhjYjlGVFJJc0hmcjRiRVhjVGUxajhMVEg1YjRhQWxVZWJIUER2UnhQeg?oc=5",
-              "source": "마이데일리"
+              "title": "'호르무즈 충돌' 미국-이란 \"공격 중단·내일 회담\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IZk45MHUtWE9meUVwQzVSTDd4Z2dDMDZfRFRQRDg0Z1Q4aUNZRWt0WjdZbDRCdnMtUlRJOFBVSGZzTkhfci1TZm54SHNoOGt1N05BUWFGeFNKbE03Xzk1YmRrQm9XcXdzdHZRMmJVYWFibG1fTnB2Vw?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "이영자, 윤남노 식당 테이블마다 와인 각 1병 쐈다…\"많이 베풀어야 돼\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44Q0RhRnkwVFJpcG5pNEV4bVZPNkt0eXM1QktIeDFYYlVvaDBjUTY0YWNqbmtXaTdGY0pCN0dTNDQtcUlfOUhmbXRfZkpGVGVVNWc3dzR5clVieFU?oc=5",
-              "source": "텐아시아"
+              "title": "\"미국·이란, 공격 상호 중단 및 이번 주 회담 개최 합의\"",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1Bpa1djRjRRcXdRaDVNb2xfVFJWVUlLQ3dVSG1jWUYxankyUEdFakdXUzFsQzRZTmV5dUhNS01mZXpZY1NBNk1FdzFPQUJteVZGQS1JMTEzUjJYNjI3VlliejYzbkJEVzFNOXhwaHZ2S3ZUcnI0VExkZXN2ZWtFMjV4MEQ?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "방송인 이영자가 방송인 윤남노의 식당 개업을 축하하며 테이블마다 와인 한 병씩을 선물하는 통 큰 플렉스로 화제가 됐다. 이영자는 \"많이 베풀어야 돼\"라며 최고 매출액을 찍도록 했다고 전해졌다. 오늘 처음 등장한 키워드다.",
-          "headline": "이영자, 윤남노 식당 테이블마다 와인 쐈다"
+          "description": "미국 언론이 미국과 이란이 상호 공격을 중단하고 이번 주 회담을 개최하기로 합의했다고 잇따라 보도했다. 호르무즈 해협에서의 군사적 충돌 이후 양국이 전면 교전 대신 협상 테이블로 방향을 틀었다는 분석이 나오고 있다. 다만 이란 측이 회담 일정을 공식 부인하는 등 합의 내용의 신뢰성을 둘러싼 논란이 이어지고 있다.",
+          "headline": "미국·이란, 상호 공격 중단 합의 보도"
         },
         {
           "rank": 4,
-          "word": "눈물",
+          "word": "개발",
           "count": 2,
           "articles": [
             {
-              "title": "린, 이혼 고백 떠올렸다…“백지영은 눈물, 윤종신은 눈치챘다” (미우새)",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bXhteGpLS2ZBZjlmNUZwVTZuY093YWVrd19ZYUpFYnctdVI0UjY4dU9LUkRlSVRTZlljWFNqXzFQRy1nSVQ0SnNvbE1JdFVSNUlxTnpic1k3ejhMT1ZzUUsyNWxYMmRXU2NyTGtn?oc=5",
-              "source": "스포츠동아"
+              "title": "인니, KF-21 공동개발 분담금 6000억 완납…구매 계약 기대감도",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWLUhWd1VEaWZ4elAtSTBCWk52UUM1RDFGenl0UnFkZ010Vkt6VzRoTHBMNnFKLVQ4dkhxZ1JDOG43WHQwMkk2akdiT0xxYkE?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "\"이혼 소식, 지영 언니한테 가장 먼저…\" 린의 눈물 섞인 첫 고백과 백지영의 뭉클한 진심",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zWkZJUTFmTHdWRkVialpHTmd1UHY2WlZSME1sU3I0RWthNzlZWndQUmpsNkNqeER3dHdIS0ZDMTkwdmNhajA2MTB1eVpnUTVzTUI4R0Rwc3h3OV81OHdqZFJ6M1N2UXJtenFsdw?oc=5",
-              "source": "뉴스버즈"
+              "title": "\"1000만명 찾은 예산시장처럼\"…더본코리아, 지역개발 사업 키운다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ONVh2Um1uaWxLMTJKQkFQTTlKTnctNmJIZ3dWVGNGZ0tEcllEbXR1QmV3WnR3T3o1cWx3UlV0dzRBY3ROMWE2dl9KVWFPdHN6Y3gtdDN3?oc=5",
+              "source": "지디넷코리아"
             },
             {
-              "title": "백지영, 신지 결혼식서 결국 오열 \"험난한 시간 지나와…\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VaUZJVWdPMFFmdS1JeUNSa01rRTJHcXM1V21zRk41MFV1czRHU0ZkRm13aVB5UWlmbWlFMkJXeThSM1g5c2ZjZlB5QlliM0paQVIwcjdtOEd3SUF2TmROcWZzSlQ4NUR4MU8yeVQzNEhTVVnSAXhBVV95cUxQMnE5Z2ZXNFB3OTFzSWlEXzZlTjFPUy02T3V2VVY2aEI5ZXl5c2xFNHpydFNhaHlWUk5SbU5DejAzeGJ6cUI4SUdXOWRzdGtLbzZKY1ZzeGstS2RXS1BtUHRNY1VSejNkUkdORVZGeEdfR3Azb1daYWI?oc=5",
-              "source": "머니투데이"
+              "title": "연구 성과 관리, 수십년 자료없고 '구멍숭숭'역대 최대 예산, 국가R&D 과제 종료되면 끝?",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0VnRzYTkteFZCa0hUNFduUVF6a1J2d2psX0R5LUEta3NqVC1qZ0F4Ukl5Tjc2SU1qdzJGMW8xTnVIb1hUX2NyZEdJd05BemJFaldtQVlsYW9aLUpKYlN5ZFhRam52Uy01N1E?oc=5",
+              "source": "헬로디디"
             }
           ],
-          "description": "가수 린이 TV 프로그램 '미우새'에서 이혼 사실을 처음 고백하며 눈물을 보였다. 린은 이혼 소식을 가장 먼저 백지영에게 전했다고 밝혔고, 당시 백지영도 눈물을 흘렸으며 윤종신은 이미 눈치챘다는 이야기가 화제가 됐다. 한편 백지영은 신지 결혼식에서도 오열해 뭉클한 진심을 전했다. 오늘 처음 등장한 키워드다.",
-          "headline": "린, 이혼 첫 고백…백지영 앞서 눈물"
+          "description": "인도네시아가 한국과의 KF-21 전투기 공동개발 분담금 6000억 원을 완납하며 향후 구매 계약 체결에 대한 기대감이 높아지고 있다. 한편 더본코리아는 예산시장 성공 사례를 발판으로 지역개발 사업을 확대할 계획을 밝혔다. 국가 R&D 분야에서는 역대 최대 예산에도 불구하고 과제 종료 후 연구 성과 관리가 부실하다는 지적도 제기됐다.",
+          "headline": "인니, KF-21 분담금 6000억 완납"
         },
         {
           "rank": 5,
-          "word": "삼전닉스",
-          "count": 1,
+          "word": "국민",
+          "count": 2,
           "articles": [
             {
-              "title": "'삼전닉스 레버리지' 50배까지 나왔다…\"사실상 도박판\"",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qVDZhVXUyT0MxMzZUZmRic3BuZGVhT1R5YzNnSFI1M01fUldPM0VMbE04NDRDcGUtQ3UwYWhTQzFZbW8xR1VqU2RvZFY1dG9iQXRRVTU5NXE3UdIBVEFVX3lxTE51eUNrWUZLOGgxTUJJNEdBWVhhX3l1VmxIVUtXUW1ydkJidlhWZm1ZMTB0VTFqOTJsMDFDUS10eW8wSzU2TVJUR0FSOXdhOXptYTVGRA?oc=5",
-              "source": "한국경제"
+              "title": "국민연금 국내주식 수익률 4월말 벌써 60%",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mTWtBR0J1REE0VGR6SjVCYUNhMzdRdnd2OFlrbW45T21VWTV5VkcxTUpzQkhTTDBTRlBoaVVFQTNFMDkzWDMzemZoM2I2cnJjUXc?oc=5",
+              "source": "매일경제 마켓"
             },
             {
-              "title": "정부·삼전닉스, ‘3대 메가’에 2천조 투입한다",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NdzZHcnV1QmVfVkx3TlhpeWE1VzdRZE1iRmZ4N3NLVlgtYUw1MzNMdHNUVEFCeTJMWmVEbGllRkx3Tm9ieXNHOGc3TS05dUZVVjRXRV96RVczWUZiODRKc0Y1VUEwMlhoaDhxSjZZYmNSQQ?oc=5",
-              "source": "한겨레"
+              "title": "이 대통령, 이재용·최태원 양옆 두고 \"국민 영웅\"‥메가프로젝트 '원팀' 띄웠다",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aQ2hwNzBnaFBLYWJXZ3IxQUdRS0VMYnVOd3lUY3NkaU9IRnlPaXhlZ0xqRURRX3BIV1BJaW8yUVpFWUd3SUpxaHZqS05OVUlxb0pvRHVzcFNUUWRxNW1wRmhDSG5PZDJzRHZ5M0tIeEF0cWJidTZnStIBeEFVX3lxTE9uUVZsYUtKbmVTZHphdVlGZDJSSVB5UnI3N3hJLVdyM2VuTVpITUJtWW5KUkdUalBYN05LZ2dsRGdlYlNCd3NsOThKXzF5UWEyLWkyWlFOb3pEdkt0X2Y4YnhYSjlIWVh4cXk1cm95clNlQksyMFNXVQ?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "삼전닉스 호남투자 ‘물부족 논란’에···기후장관 “하루 100만톤 이상 용수 확보 가능”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zOWhNQnhDQXQ1eEZRVGlSblVwQ0MzczdRTE5HYll6T3ZlNm1XREFSdkxfUU5HODVWSHRCeWZlNWRMOXkyQW9ZZGotcGk1QlljYlRWMmdDR1ZiUdIBX0FVX3lxTE9YbGo1NGQxNUYtSlUxWGtvd1RFdkp1TGNyLUVGRWFCRHd3NWU5cEg2WS1POHpIN0hyWllvMzJhM3Z2cXM1S3FibWNOT19BUElMSXlPczhvR2d2Yzc4R2k4?oc=5",
-              "source": "경향신문"
+              "title": "나만 없어? 갖고 싶다…국민성장펀드!",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5neTZabmZuMUd5X015STlnZmwwUFRIVWtZd0RlVWI0OXVhdldZeEtGWmJidld0bjdkZ2thZ05UY0RZYjZ6akdPdFUtaDc5elRseWI4SmV3YW5vSXNpS1laaWcxZ1BrOXowbXc?oc=5",
+              "source": "대한민국 정책브리핑"
             }
           ],
-          "description": "삼성전자·SK하이닉스를 묶은 투자 상품인 '삼전닉스' 레버리지가 50배까지 출시되며 \"사실상 도박판\"이라는 비판이 나오고 있다. 한편 정부와 삼전닉스는 반도체·AI·에너지 등 '3대 메가' 프로젝트에 2천조 원을 투입하는 계획도 발표됐다. 호남 투자를 둘러싼 물 부족 논란에 대해서는 기후장관이 하루 100만 톤 이상의 용수 확보가 가능하다고 해명했다. 오늘 처음 등장한 키워드다.",
-          "headline": "삼전닉스 레버리지 50배…'도박판' 논란"
+          "description": "국민연금의 국내주식 수익률이 4월 말 기준 이미 60%에 달한 것으로 나타나 주목을 받고 있다. 이재명 대통령은 이재용·최태원 등 주요 기업인과 함께 메가프로젝트 '원팀'을 강조하며 이들을 '국민 영웅'이라고 치켜세웠다. 또한 국민성장펀드에 대한 관심도 높아지며 투자 상품으로서의 화제성도 이어지고 있다.",
+          "headline": "국민연금 국내주식 수익률 4월 말 60% 돌파"
         }
       ]
     },
     "경제": {
-      "summary": "삼전닉스 레버리지 등 빚투 광풍 속 개미 피해 우려·코스닥 소외 및 활성화 논의 부각",
+      "summary": "이재용·최태원 반도체 투자 발표에 정부 지원 의지 표명, 코스피는 외국인 매도세에 하락하며 변동성 지속.",
       "keywords": [
         {
           "rank": 1,
-          "word": "삼전닉스",
-          "count": 4,
+          "word": "이재용",
+          "count": 1,
           "articles": [
             {
-              "title": "'삼전닉스 레버리지' 50배까지 나왔다…\"사실상 도박판\"",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qVDZhVXUyT0MxMzZUZmRic3BuZGVhT1R5YzNnSFI1M01fUldPM0VMbE04NDRDcGUtQ3UwYWhTQzFZbW8xR1VqU2RvZFY1dG9iQXRRVTU5NXE3UdIBVEFVX3lxTE51eUNrWUZLOGgxTUJJNEdBWVhhX3l1VmxIVUtXUW1ydkJidlhWZm1ZMTB0VTFqOTJsMDFDUS10eW8wSzU2TVJUR0FSOXdhOXptYTVGRA?oc=5",
-              "source": "한국경제"
+              "title": "‘반도체 투자’ 이재용·최태원, ‘삼단 논법’ 사용한 이유는...",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR1RUM28tc1dFZW1veEFyckpSc1NwcktJbG45R01HUVZqTkZKOUU0bjYxRTJiZU54WXh5Q3RyUGJSNS1iMVpJT3hZN3VoNjFFbllOZGxIZjBVLW9ZWlZkbS1IRzZ3RlZGYk9hWThhMGhkaUx4YTdUTWJZTDVCcWY3NDd4bExwaS1YZUVUaEN1bw?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "정부·삼전닉스, ‘3대 메가’에 2천조 투입한다",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NdzZHcnV1QmVfVkx3TlhpeWE1VzdRZE1iRmZ4N3NLVlgtYUw1MzNMdHNUVEFCeTJMWmVEbGllRkx3Tm9ieXNHOGc3TS05dUZVVjRXRV96RVczWUZiODRKc0Y1VUEwMlhoaDhxSjZZYmNSQQ?oc=5",
-              "source": "한겨레"
+              "title": "李 대통령 \"역사적 결단 이재용·최태원에 재차 감사...어떤 지원도 마다 않겠다\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oQ2NHV1RuUlFOQlJnblh2WEpwRmZ0WEZlOUVaMkI1eFM1WW95UEJoc2NfNXJCNm9kT1plX0lIbVN2cjhGc2MxOEZsWkVfaTBlcE9veVNYRDJ2SGdDYkRKRVo0TFFobWl1aXprZNIBckFVX3lxTFA2VFhPcXhnNjFKTnlIWDJucHRZRWdPRHVObkZhT195ZS1vMTZ4NDY4OVA2T2hzRDFpYlZrZHhXdUNoLTlMVndEMHJCWFhUVjdkV0NTTGZ0OWZhdVFXVU15Mjk3VUZVcEJFV2NpeDhhTDg3UQ?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "삼전닉스 호남투자 ‘물부족 논란’에···기후장관 “하루 100만톤 이상 용수 확보 가능”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zOWhNQnhDQXQ1eEZRVGlSblVwQ0MzczdRTE5HYll6T3ZlNm1XREFSdkxfUU5HODVWSHRCeWZlNWRMOXkyQW9ZZGotcGk1QlljYlRWMmdDR1ZiUdIBX0FVX3lxTE9YbGo1NGQxNUYtSlUxWGtvd1RFdkp1TGNyLUVGRWFCRHd3NWU5cEg2WS1POHpIN0hyWllvMzJhM3Z2cXM1S3FibWNOT19BUElMSXlPczhvR2d2Yzc4R2k4?oc=5",
-              "source": "경향신문"
+              "title": "이재용 “반도체 새로운 단지, 광주를 후보지로 계획”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lSnRkT2V2X21TQS1sODFHZldFZXpfX2x6N1ZVaFFtTjJSSGd5YWdzWTdSOGFNSHdkUVBRTmg0bUVLVGZPelhqZjJfOGswTXVJTkZ3dFZn?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "정부와 삼성전자·SK하이닉스가 3대 메가 프로젝트에 2천조 원을 투입하기로 하면서 삼전닉스가 주목받고 있다. 동시에 이를 기초자산으로 한 레버리지 상품이 50배까지 출시돼 '사실상 도박판'이라는 비판도 나온다. 호남 투자 부지를 둘러싼 물 부족 논란에는 기후장관이 하루 100만 톤 이상 용수 확보가 가능하다고 직접 해명했다.",
-          "headline": "삼전닉스, 2천조 메가 투자 본격화"
+          "description": "이재용 삼성전자 회장이 반도체 새 단지의 후보지로 광주를 검토 중이라고 밝혔다. 최태원 SK그룹 회장과 함께 대규모 반도체 투자 계획을 발표한 자리에서 나온 발언으로, 이 대통령은 두 총수의 결단에 재차 감사를 표하며 어떤 지원도 아끼지 않겠다고 화답했다. 정부 주도의 호남권 반도체 거점 구축과 맞물려 투자 방향에 이목이 쏠린다.",
+          "headline": "이재용, 광주 반도체 신규 단지 계획 공개"
         },
         {
           "rank": 2,
-          "word": "코스닥",
-          "count": 4,
+          "word": "코스피",
+          "count": 2,
           "articles": [
             {
-              "title": "급등장서 소외된 코스닥…활성화 정책 반등 계기되나",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YbEZqbUVkN0NsN1lzNjQ0NWFTQmREZ1VRQ3hwRXlSWUpDdHN0X2dLRVZIckRtSDgxaVhIckdZUlZLNFpPSEVVdnE0S2xFUkhlcFZPMlYyUWN1WUXSAWBBVV95cUxNUE9feDB4bEZUd3psZFlKclBtRXNhMVNkWm9YWFlnQ2ZtQ0tnbkxPZ3JsdXRYTXZYNU1mZlhOeGh6WXhDN0poQXFOeW1ObDRDbkpVRGFHTGZEODJsajZHbG8?oc=5",
+              "title": "6월 한달 내내 출렁인 코스피…실적 시즌 7월에는 다를까",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wNk1CYmREMHJleTdXeHk0ZE4wZWhaQjlhWmRYTFI0bFVFWW5oX3lpUVVpN00yYjdZRlNaZkRCZVAxaTY4NGp1bHBFdWJYZ2hBNmVvTFNuTUZwOHfSAWBBVV95cUxOa1NBa0MwTFRmM3BMcUdZbFIxR2lKZ1FHZGR4YUlOanpUNl9BVlUxWUhnR2IyMDVCUG1wdHlXdFpRcGRlNTZzbUdwVkJRZVFRdGpxU0JxMHJDMnllMmltaHo?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "코스닥 30주년, 올해는 '보다 더 제약·바이오'",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41ZDNYMDBXMUxOejJkM2NvVVRlOWIySklyZkMzLTdQeXAwSXZuSklVNkJUUk1wM3MtVEgxQVN5VzV0TmplaldtQnlKUU9CMkllQzJ1T0VldE9UaWlhbjZZYkRRczUtenRNRVVN?oc=5",
-              "source": "메디칼업저버"
+              "title": "코스피, 외인 역대급 투매 속 8,390대 하락…코스닥은 8% 급등(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKeVRYUklfMHJPQkx5cGJ0WE9HUjlkT0ZGX3pTZXlEU1EtampqbWdkTU00R3NHTkVyTmFpM2ZvZkhnQnlqSDhEUW83STVKNDg?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "기지개 켜는 코스닥 IPO…AI·자율주행 등 3개社 줄줄이 입성 [이번주 증시 캘린더]",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YMWFpSkxqa3BHMElUWno0R2kwTmFXX2RtbnliQ3ZlQVpmMlQ2SGJDc1BMWjZ6WHBLOHlCaEllUDhxa1Q5MGY1azFobDBrN2RDNUHSAVNBVV95cUxNRm81WWxJb3JnMkYyaGhNTERSTFpnZktOUDBkSHdzb2NlR2NhUTBNa2tVM25tZHdQY2UzbEhqbFZ5NHB1Ny1GWGlyZDlfTm9OUVdDSQ?oc=5",
-              "source": "서울경제"
+              "title": "코스피 공포지수 치솟아도 평온한 CDS프리미엄…\"시스템 위기 아니다\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6VERhQlZjbno2SnlRTVdkMjJ3RmtfNzdVaDFvNmhMVzhWMTViSFJTWDVXcU1pY3pzZmxnRG9PQUJuM2x1bjdmYU1ham5TVHdPcjUxQVVFdGdWZ9IBVEFVX3lxTE93OGhjYXFMdEFMRzF2dDZhYU5keDlBU1poWjE0WXpXSFUtd2hpa3lYaG5DQ3oxS3FDVE1CVzlqdzJQYUVKTVFhYjdLMVYyYzRldjRKMA?oc=5",
+              "source": "한국경제"
             }
           ],
-          "description": "최근 증시 급등장에서 소외됐던 코스닥이 정부의 활성화 정책을 계기로 반등할 수 있을지 주목된다. 올해 코스닥 30주년을 맞아 제약·바이오 섹터가 시장을 주도하는 가운데, AI·자율주행 관련 기업 3곳이 이번 주 줄줄이 IPO에 나서며 분위기 반전을 꾀하고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "코스닥, 활성화 정책·IPO 반등 기대"
+          "description": "외국인의 역대급 투매가 이어지며 코스피가 8,390대까지 밀렸다. 반면 코스닥은 같은 날 8% 급등해 엇갈린 흐름을 보였고, 공포지수가 치솟는 가운데서도 CDS 프리미엄은 안정적으로 유지돼 시장에선 '시스템 위기는 아니다'라는 해석이 나온다. 6월 한 달 내내 변동성이 컸던 만큼 실적 시즌이 시작되는 7월에 흐름이 바뀔지 주목된다. 코스피는 어제 4위에서 오늘 2위로 올랐다.",
+          "headline": "코스피, 외인 역대급 투매에 8,390대 급락"
         },
         {
           "rank": 3,
           "word": "반도체",
-          "count": 4,
+          "count": 2,
           "articles": [
             {
-              "title": "반도체 다 뺏기고 ‘뒷북 성명’만…정보력·전략 참패에 멈춰 선 TK",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oeTJUOEZCeDIxOXRsTlJPZi05bExGU2oxSndoWkxnZi1wZ2J1d2VRVWQ0a2VOWncteWpMT0pHaEpaRHVBTTI1YVVqcDNSX0k?oc=5",
+              "title": "삼전·닉스, 반도체 투자 발표에 주가 하락…외국인 7조원 팔아치워",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82c09vWl90MjhTVUJwbDRTeHozalUzbEN2cDY0SkVONjJ6b2hEcGR1aFFxLVF0d2JfdDdmTV93YUdYZ2FIT1g5amxNUjVnVlE?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "한미반도체 폭등 맞춘 수퍼개미 “다음 텐배거 이 종목서 나온다”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zRGhuRU5Fa1FLNGpndUtHNjdEejRNSFEtUjRJemh1STA1QnFQakhqd19Xb1dfR2hIaW5DcnJXNFlNNUx4eTJHQk1lOEd1elBkWVlPQmpn?oc=5",
-              "source": "중앙일보"
+              "title": "호남 ‘제2 반도체 거점’…정부 2천조원 메가 프로젝트 시동",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0R01ldkRvM0YxX0hMS1U3WmZyTEU5MDUwN2txQVJ3aVg2Mm5sVTZuaDJSM2h0Xy1hRjlUQTNZWkZzZWxMYVF2NjVWNWNQNFB1ZDNsdWZTMGFuUmxQYkpyOXlNekk3Q191TDFN?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "이천시, 반도체특별법 시행령 변화에 소부장 거점 시동",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GUzYtbzNwdDNSUkNzNERtekF6dThPSHVLUnJKX0pXLWVHejctSUw5WmdWM2UydXFadDRwRVA5ZVYtaW54UDFTSy1RZW1xZw?oc=5",
-              "source": "전자신문"
+              "title": "이 대통령 “서남권 대규모 투자로 압도적 반도체 공급…메가프로젝트, 직접 챙기겠다”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yM0NDTVBlV1BfUzVuVXQtNmVReGJwVTBPTUpXRF9lZE5ldjJVOTFZeTBOUDZNNEFhTnVXV2p3Ump4MlNHb040WUxqNXZIYmhFcUd5ZndkS1paZ9IBX0FVX3lxTE5pYTNoN2NVR1VycnBtS0hsdUNBNk1helBXY2pjVW83ckViT01sY1gzYTBNZnhPQVNReEE2WVBINXhxQXI1WFREeWFqNkNKcHNDd1Q0STVpdnBQNXQ5bXdr?oc=5",
+              "source": "경향신문"
             }
           ],
-          "description": "반도체특별법 시행령 변화에 맞춰 이천시가 소재·부품·장비 거점 육성에 시동을 걸었다. 반면 일부 지역은 반도체 유치 경쟁에서 정보력과 전략 부재로 뒤처졌다는 비판이 제기됐다. 종목 측면에서는 한미반도체 폭등을 적중시킨 수퍼개미가 다음 유망 종목을 언급해 투자자들의 관심을 끌고 있다.",
-          "headline": "반도체 주도권 경쟁, 지역·정책 전선 확산"
+          "description": "정부가 서남권을 대규모 반도체 공급 거점으로 키우는 2,000조 원 규모의 메가프로젝트를 추진한다고 밝혔다. 이 대통령은 직접 챙기겠다고 강조했고, 삼성전자·SK하이닉스도 투자 계획을 발표했다. 다만 두 회사의 주가는 발표 당일 하락했으며, 외국인은 7조 원어치를 팔아치운 것으로 나타났다.",
+          "headline": "정부, 호남 반도체 메가프로젝트 시동"
         },
         {
           "rank": 4,
-          "word": "개미",
-          "count": 4,
+          "word": "레버리지",
+          "count": 1,
           "articles": [
             {
-              "title": "스페이스X 팔고 '이것' 1조원치 담았다…개미들 '태세 전환'",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yVlZYSHBDc1ltNERuT2s4aFVWbDZWNHhoVm1RMjk1OVQ0c1pTenBXQko2aVE1azlOOWxfOFdyMVZyVGw2ZzNnSmd5M3NBNXBfUWJhN3JYS05DZ9IBVEFVX3lxTE11NFhCcXhXV0Q5THkyZUFtamxWZnNFRkIyMWs2N3hxWnJYSnBTbzlfRVVlOTdlVHNmNzE3blNleFV3M1ZIVmE5NXJoSkhLYnU4ellXTg?oc=5",
+              "title": "진짜 ‘도박판’?…바이낸스에 ‘코스피 150배·삼전닉스 50배’ 레버리지 상품 출시",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRkVwa2JBZk02T3ZuSmtrSVUzVERBdDY1MjlfdDhUcS1UU0JOU0dOY3hvOTExbUNyTnY0N0NDMmdJaEVEOE9VcVZfMFNlVGhxejJ4UnZEOEF5QdIBX0FVX3lxTE1FVVRHZjk4cmwwX2RRQkk5MVpqV1ZrZWE4TDZMeDJmeDAyUnRxaWdXNjZ1MVhfOGZQb1NMWEE4YkdCT25uUTU0UDdSQ1R6OF9CQkg4SWpKNDFwMHdiZU1n?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "사실상 도박판…바이낸스에 ‘코스피 150배’ 레버리지 상품 등장",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pb3BqS1R4djRQNXVZMzFOSWJ2R2RDNlZpVnJnZlVwM3lqQm10NURyN3dzS3pKSmROR01QOUU1bHZQUTI1ZVhYYTd2WHNTNEp2WkI3QVNzR2h4cjlLOXYyb1JfNENtLW95OXAyckZUcVZnVkU?oc=5",
+              "source": "마켓인"
+            },
+            {
+              "title": "'삼전닉스 레버리지' 50배까지 나왔다…\"사실상 도박판\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qVDZhVXUyT0MxMzZUZmRic3BuZGVhT1R5YzNnSFI1M01fUldPM0VMbE04NDRDcGUtQ3UwYWhTQzFZbW8xR1VqU2RvZFY1dG9iQXRRVTU5NXE3UdIBVEFVX3lxTE51eUNrWUZLOGgxTUJJNEdBWVhhX3l1VmxIVUtXUW1ydkJidlhWZm1ZMTB0VTFqOTJsMDFDUS10eW8wSzU2TVJUR0FSOXdhOXptYTVGRA?oc=5",
               "source": "한국경제"
-            },
-            {
-              "title": "\"외인·기관 20조 매도 폭탄에 개미 죽겠네\"…널뛰는 코스피, 대피처는? - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GcTlnYjNzalZjWGZSeHVhYTJGSUdFdFRpckNILWRldkVIQzJROVdraEZSV2hVYWQzdDdjQWVTTFliMndzcTN6QXRhaG92NmNNdkg1OTdBMFJGNnFQRW5rdmkwV1Z3Tl9o0gFuQVVfeXFMTk9kSFU3ZC1vSzE2ekhvcWZBSW9uZzJUaVB6YzhhcHJiMThlWVd4ZzlEaXp0Vm4zb0pOWjllWEFOZTF0TVBJTmtKMnJ4dklqaUc5b3g3emxZSjBUNEYxbEZqN2Fmc0hrUUpianFzVnc?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "‘개미들의 블랙홀’ 스페이스X, 내달 나스닥 100지수 입성…초고속 편입",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zU1B6Zm1BTE1ybnFEV2dhS3N1a1l2T3MzSV84b0F6aVU4TGU3aHQzeHBPMkhCWnBxaER0R3hDdTAySDh4ZnoxWDdYT2lteUJ0STBEdlR1VHlXMDA5SFM3bWVfNGV4WUtVcXFzTmd3N2wwTEtHVGFn?oc=5",
-              "source": "한겨레"
             }
           ],
-          "description": "국내 개인 투자자들이 스페이스X 보유분을 매도하고 다른 자산을 1조 원어치 사들이며 빠르게 포트폴리오를 바꾸고 있다. 한편 외국인·기관의 20조 원대 매도 물량이 쏟아지는 변동성 장세에서 개인 투자자 피해가 우려되는 상황이다. '개미들의 블랙홀'로 불리는 스페이스X는 다음 달 나스닥 100지수에 편입될 예정이어서 추후 수급 흐름도 주목된다.",
-          "headline": "개미, 스페이스X 팔고 1조 '태세 전환'"
+          "description": "글로벌 가상자산 거래소 바이낸스가 코스피 지수에 최대 150배, 삼성전자·SK하이닉스를 묶은 상품에 최대 50배 레버리지를 적용한 파생 상품을 출시해 논란이 일고 있다. 레버리지는 소액으로 수십 배 규모의 포지션을 취하는 구조로, 수익도 손실도 그만큼 커진다. 전문가들 사이에서는 '사실상 도박판'이라는 비판이 나오고 있다.",
+          "headline": "바이낸스, 코스피 150배 레버리지 상품 출시"
         },
         {
           "rank": 5,
-          "word": "레버리지",
-          "count": 3,
+          "word": "새만금",
+          "count": 1,
           "articles": [
             {
-              "title": "\"주식 레버리지는 미친 짓, 총자산 1% 규모 손실 보면 미련없이 나와야\"",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzh6czBfZzlEbUNNRnZwcHZTQW80M2pPUXZlU3F0ZGF5eUhUVTFtbWtQalB4LWN1TElWXzZOcmRMOFRLMzJTUkd5OVVhMlJWUDFQQk13VlZSem5rVXV6d2xfdXdnOUtUVllGSkxFMzFfT1BqV2RNNVVORHlRaVFrYQ?oc=5",
-              "source": "조선일보"
+              "title": "새만금·대경권, 로봇기지 등 ‘토종 피지컬 AI’ 양대축으로",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hSHdMaFJSRUNFWG5Ic1M3Z3FaU3NLbnBZaXRpVkxOTHlYSXJnOXZLc0o0MV9sdExnUUo4QjFWdXc2aFhGMllUbTF4N1FscDlSeHEwWTBoTmZ0ZjY5V1haRURhX2pHNTBMZ0xoQmZjVS10UQ?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "‘빚투’ 광풍…개인 차입·레버리지 금액 420조원 육박",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wTEpCR3JidG5qSFJ1V1FpZHlWakNCOG9JUnJkcmpsQ0ZmQm9tY3FWeXhLN3B0S0xxZHNqNnhLdG5tQ25CUmNyNXJRb3A0WE0?oc=5",
-              "source": "v.daum.net"
+              "title": "대한민국 AI반도체 전략거점, 왜 새만금이어야 하는가",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZG5wTEpUbDlTQVlhc1ZuazI4NFVSLVJNOTAxSkpscWFWajZPS09kdGJLRWNMRE1ySmROUWdDRjNUeG1pSGZxdGVkZDBFVllhalExNUM3cUIyb2FHWHBmSWVLME5wbV85OEFwNUZFalMwQVdIMVpKakVIMkxDU25NaXJ3SXJjRUk?oc=5",
+              "source": "전북도민일보"
             },
             {
-              "title": "이를 어쩌나…증시 변동성 '폭탄' 된 단일종목 레버리지",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TYWV4dGZ1N2Mwb0pZX1BPaW5IQmJ1MjE3WF9RanNBd1ZtZXdXR2ZVSUZCdC11ZzkzcEplSjJRbS1UbDdwYVVOT1ZNY1VmTF9QMUl1NlVUU0ZMaTjSAWBBVV95cUxQQ3F2dFFLS2pXZDAtdXhNWFRQUWFTZVlBZGtmTElzTlZ2d0R0TVV0TWIwRVpsWk1GWmZueXEyWWpjanlUYlpOSjZGZjM3clY3cHJVV29yTVJrUU9BWkJOb00?oc=5",
-              "source": "연합뉴스"
+              "title": "새만금 관할권 시군 다툼, 항만법 놓고 재격돌",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lOUZhamF4STVMaEdxNjRlam1uUXNvdDJJNEZIb1dLZ1hnTngyeGNJX0tRekRBamtGdndseWl4S21ISTN0NGkya0hZeFlDYy1ZN2hscE5TT1I3anZiQkhXeG5ScDA0eURvQzZaM2oyZw?oc=5",
+              "source": "서울신문"
             }
           ],
-          "description": "개인 투자자의 차입·레버리지 금액이 420조 원에 육박하며 '빚투' 광풍이 다시 거론되고 있다. 단일 종목 레버리지 상품이 증시 변동성을 키우는 '폭탄'이 되고 있다는 지적도 나왔고, 한 전문가는 '총자산의 1%만 손실이 나도 미련 없이 빠져나와야 한다'고 경고했다. 오늘 처음 등장한 키워드다.",
-          "headline": "개인 차입·레버리지 420조 육박, 경고음"
+          "description": "새만금이 국내 AI 반도체 전략 거점으로 주목받고 있다. 정부가 새만금과 대경권을 '토종 피지컬 AI' 양대 축으로 육성한다는 구상을 내놓으면서 새만금의 전략적 가치가 부각됐다. 한편 새만금 관할권을 둘러싼 인근 시군 간 다툼은 항만법 해석 문제로 재점화되며 개발 속도에 변수가 될 수 있다는 관측도 나온다.",
+          "headline": "새만금, AI 반도체 전략 거점으로 부상"
         }
       ]
     },
     "연예": {
-      "summary": "미우새에서 윤은혜가 14년간 연애 없음을 고백하고 안문숙은 고정 하차를 밝혔으며 · 소지섭 주연 '무법중년'이 안방극장을 접수했다.",
+      "summary": "소지섭 주연 '김부장' 시청률 15% 기록 · 안문숙, 집 공개 후유증으로 '미우새' 고정 포기 · 최민식·최현욱 '맨 끝줄 소년' 32개국 TOP10 진입",
       "keywords": [
         {
           "rank": 1,
           "word": "미우새",
-          "count": 3,
+          "count": 4,
           "articles": [
-            {
-              "title": "이희진♥임원희, 심상찮은 핑크빛…“귀여우셔라” 볼 꼬집 (미우새)",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vRmJRWkg5b3Jra3lxNklPN2JVd1RJMGd2dDBkbllzMl8zVnNkV19xYU9DMnBVSUNhWmZjLS1TbURxcDNlcHdVcElvZVdaZzZmX1BsUHg1R3ZEa1FrTmdyS01JQnZLTDByZG1TT3ZR?oc=5",
-              "source": "스포츠동아"
-            },
             {
               "title": "안문숙 \"집 공개 후유증 컸다…'미우새' 고정도 포기\"",
               "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBbmppZFowNWtic1VSdl9DU2xkdFlZSVBVenBfN1ZIUFF1VzB0ZjkxNlpCdTVfcW1oMUJjRUM0RUNHOThnSXNCaTA2S1RnVU5HWUpJeU1KQkhITzRGZThHRtIBeEFVX3lxTE84a25mWXMyNGVVNFQ4c0twbE50dkVTZGdpS0lZcTltSTJMMnpPYkk3U3RwT1RQRWtxWXQ5MzQ1cDMxUGVOU1ZuUFBaNkhrT3ZTNGptQV9lYjU3V01BeVA4ZWJ4cTYwZVluV0tTTEQ4cEZqb01pNjNORA?oc=5",
@@ -279,227 +274,235 @@
               "title": "안문숙 \"집 공개 후유증 심했다\"…'미우새' 고정도 포기한 소신",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Id3NJcGFZbzJfaTE3V19lcUVUd3VZVVowSU4wZHlCNk5lMlptdEtlWW5xb0daXzcyVWxGeEl2bXJuSjJYSjhHZXlhTklPdGc?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "“집 공개 후 후유증 컸다”…안문숙, ‘미우새’ 고정 거절한 이유 - 스타투데이",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83NndBdHBJNnhxNy1XR2pTdUZhS2Jkbmo0LUdWemk2MmMyUnBSb1BRX2FWajRQOWFTcS03bUlJdW9GMkd1Ym9nWGJzTkhWZjJFdDZZR0lRRmQ?oc=5",
+              "source": "매일경제"
             }
           ],
-          "description": "안문숙이 '미우새' 집 공개 후 후유증이 심했다며 고정 출연까지 포기했다고 밝혀 화제다. 한편 같은 방송에서 이희진과 임원희의 핑크빛 케미가 포착되며 '볼 꼬집' 장면이 눈길을 끌었다. 두 소식이 맞물리며 '미우새'가 오늘 연예 화제 중심에 올랐다.",
-          "headline": "안문숙, 집 공개 후유증에 고정 포기"
+          "description": "배우 안문숙이 '미우새' 고정 출연을 거절한 이유를 밝혀 화제다. 그는 과거 방송에서 자신의 집을 공개한 뒤 후유증이 컸다고 털어놓으며, 그 경험이 고정 출연 제안을 포기하게 만든 결정적 이유였다고 설명했다. 사생활 노출에 대한 부담을 솔직하게 드러낸 고백이 시청자들의 공감을 얻고 있다.",
+          "headline": "안문숙, 집 공개 후유증에 '미우새' 고정 거절"
         },
         {
           "rank": 2,
+          "word": "김부장",
+          "count": 3,
+          "articles": [
+            {
+              "title": "소지섭 파워 대단하네…“‘김부장’ 시청률 15% 경이로운 수치”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hbzZkdjcxaC1hNnBjOGE2VFR4VnFLQ01VWTdiWEZDUS1XQTZrR2NNRURDUDlIVnR5Y01yRUlTLWtRanNrYVc2bDdVM3NDdHlZTkxJa1h3?oc=5",
+              "source": "헤럴드경제"
+            },
+            {
+              "title": "'김부장'에 밀려 초라하게 종영한 '대군부인' 후속작…이학주 \"고민 많고 걱정 커\" ('오십프로')",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5POWtHb2U2UzdpT3NjUnhzUDZJc3FwRWdKQXpBUU90M2VleW11dXJvbXk4U2hZM0Zfc0M0R1RIZkpUWERTblE?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "소지섭 '김부장' 통했다…2회 만에 최고 시청률",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83RXpxS2wyNGs1NGVHWmNBRGFOM1NSa2NJajlkNzF0NERDeTZYendIRThoMkNYejdXMlhzLXQxaTRIenRtQmJUMHhpeU1XMUhLeC1SekxGSFh1enlJNUExN9IBYEFVX3lxTE83RXpxS2wyNGs1NGVHWmNBRGFOM1NSa2NJajlkNzF0NERDeTZYendIRThoMkNYejdXMlhzLXQxaTRIenRtQmJUMHhpeU1XMUhLeC1SekxGSFh1enlJNUExNw?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "소지섭 주연의 드라마 '김부장'이 방영 2회 만에 시청률 15%를 기록하며 '경이로운 수치'라는 평가를 받고 있다. 같은 시간대 경쟁작 '대군부인' 후속작이 초라하게 종영했다는 분석이 나올 만큼 압도적인 출발을 보였다. 오늘 처음 트렌드에 등장한 키워드로, 초반 흥행 열기가 화제를 모으고 있다.",
+          "headline": "소지섭 '김부장', 2회 만에 시청률 15% 돌파"
+        },
+        {
+          "rank": 3,
           "word": "윤은혜",
           "count": 2,
           "articles": [
             {
-              "title": "42세 윤은혜 \"14년 동안 연애 안 했다\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55aWYwV0sxTzJTaVZnam1UYnREQjF3VlNFaTZGbC0zakhZcFBQYmc5bDJBODNEZi1KYm9QTkdWV1ZVWDFxS2xpTzRWUEhNTzQycWt5bnR2ZkJkOE52eFZvM9IBeEFVX3lxTE5FR3d1RGRZblZNWGVRbjZyU2U2bXhLVVFyVFpnc2sxcGxzRk1uVk1sNUpYUV96ZXNfVXJuQTNqTWdaNlNaVmpvemJXbzdjbkFNblJSVElrSVVmM1A1NHUyTXBlVUw1NHExeE1YenQ5TThscEkxWG9hYQ?oc=5",
+              "title": "‘43세’ 윤은혜, 29살 이후 연애 無…“혼자가 편한가 싶기도“",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zT3drM04tZGk0MGpTMWIxZTFsZVIwRU5DRWNXLUNmZERPOFRfQnZnendMU1F0RGI2Q2gyZjNqR3lqdlhHMU1tWmlMZzBkeTJPSHZqeVJUaVZQWHY3anZBM18yWmM4RFNaUmczNExn?oc=5",
+              "source": "스포츠동아"
+            },
+            {
+              "title": "이희진, 임원희 볼 꼬집었다…\"언니 설렜어\" 윤은혜 깜짝",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKcEtjUXdaVkNJV3Z4aXpFOU95Y01WMHotaXc1ZUJSdTlFMXJNSGh2WFpWUE9yU2l4UGp3N3NLU3l0U2xIdmpFOTZPVm5rQW1WN0tKVjZxRnlyTHlWR3ByLdIBeEFVX3lxTFBGeHdDTmQ1NTlKSHNBNXR4S0x6WDJ6TWVCLXpfZnFGZVh0MjJNZHRyNk55ZFgxaTJUOXJmYklFc0QwX2xaei1VajVCSkV6VzZDUkxkMmZSbm5GdUNFSmpJTktabThuWFpFQTc3c0lNaFNsRjZRSjF1Uw?oc=5",
               "source": "뉴시스"
             },
             {
-              "title": "`43세` 윤은혜, 술도 남자도 끊었다…\"29살 이후 연애한 적 없다\" [미우새]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52QlZWYTViQlNuaTN1eUg1ODJOa0k3akI3YVh1Nm5CU1AxQXVBbHVTa2RUMHE1SC1pZTlTN0IyNWFWazRnQkNtazRoODVjNmhCekJmZzg1X2RsNlhLRUNmRg?oc=5",
-              "source": "마이데일리"
-            },
-            {
-              "title": "\"형부들 눈에 다시 하트터져\" 윤은혜, 베복 14년 만 재결합 1200만 조회수('미우새')",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZU3NEMk1vMGVEU3BaODZ0R2FHVExwcXd3ZTkxaEJQbzNsWlBMOXItSXRJdmRubjljb2xlQmt6M0Z4SnlyaENjMEktRHZFVlU?oc=5",
-              "source": "v.daum.net"
+              "title": "윤은혜, '커프' 공유 vs '궁' 주지훈 중 재회하고 싶은 사람 공개 (아니근데진짜) - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSzNSZkIxZ3BWQXlPR2drLThyVjdyWHBPcHlTd0REcXZsd25vNzIwdVBRWUE5VU1teFJscHdjeWhZMUZodlNNUWJzUlB5YlpXZzNrNmxxQWlZaHpWbjBMUDNqWm9PZGszTy1TUUhLdEd2Z2dMbTFoNm5jdTFxSzdJVkNSTljSAZgBQVVfeXFMT3kwN0F3UEp5R1JwVVM1dkFnbEI4ZmxWcXhJZ3Nkb0xtTFNwVjF2OWpnVmJ1YVJKTkJIU1VZZjdxRllVdU5xQmdCdU5BWkppMjI0SGFwVzI4SVM1S1VRVG1qOWFxTXpKODJDTTNqREZyNFkyQWZ0M1RXOVJZMUhJaWNEV0p5cm14NVllNUZDdUZ2c3JlT1U5TTg?oc=5",
+              "source": "Chosunbiz"
             }
           ],
-          "description": "윤은혜가 '미우새'에 출연해 29살 이후 14년간 연애를 하지 않았다고 고백해 화제를 모으고 있다. 술도 남자도 끊었다는 발언과 함께, 14년 만에 베이직하우스 복귀 영상이 1200만 뷰를 돌파했다는 소식도 함께 전해졌다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "윤은혜, 29세 이후 14년간 연애 無 고백"
-        },
-        {
-          "rank": 3,
-          "word": "윤종신",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'김은희♥' 장항준, 결혼 전 동거했었다…상대는 윤종신, \"강아지도 무시해\" ('옥문아')",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNTE0TlRVeXp2aHhMM2Y0d29HZzVOQks0WUdSc2IxN3J5NlNVNzUtV3dnTXpueVhNQkp0OUFxWkJSdXZnWUl2bjJucXpYbThfRE1FTzg3ZDJYYXc?oc=5",
-              "source": "텐아시아"
-            },
-            {
-              "title": "린, 이혼 고백 떠올렸다…“백지영은 눈물, 윤종신은 눈치챘다” (미우새)",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bXhteGpLS2ZBZjlmNUZwVTZuY093YWVrd19ZYUpFYnctdVI0UjY4dU9LUkRlSVRTZlljWFNqXzFQRy1nSVQ0SnNvbE1JdFVSNUlxTnpic1k3ejhMT1ZzUUsyNWxYMmRXU2NyTGtn?oc=5",
-              "source": "스포츠동아"
-            },
-            {
-              "title": "윤종신, '경박함' 사라진 장항준에…\"박찬욱 감독 코스프레 하는 느낌\" 웃음 (옥문아)",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTklFcE1HRGdnczYweGFhRmxwS3VLTkd0LXdSLXNFTHZnUnVfNlMtTDlQUzFMaUVxajN3X2pjbHhzNDExamx2NXl0TlJMU0RPUmhZ?oc=5",
-              "source": "네이트"
-            }
-          ],
-          "description": "장항준이 '옥문아'에 출연해 결혼 전 윤종신과 동거했다는 사실을 밝혀 웃음을 자아냈다. 윤종신은 장항준의 달라진 분위기를 두고 '박찬욱 감독 코스프레 같다'고 꼬집기도 했다. 한편 '미우새'에서는 린이 이혼 고백 당시 윤종신이 눈치챘다는 뒷이야기를 전해 관심을 끌었다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "윤종신, 장항준과 결혼 전 동거 사실 공개"
+          "description": "43세 배우 윤은혜가 29살 이후 연애를 한 적이 없다고 직접 밝혀 눈길을 끌었다. 그는 '혼자가 편한가 싶기도 하다'며 담담하게 현재 상황을 털어놓았고, 과거 공유·주지훈 등 함께 출연했던 배우 중 재회하고 싶은 사람도 공개해 관심을 모았다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "윤은혜, 29살 이후 연애 없었다 고백"
         },
         {
           "rank": 4,
-          "word": "소지섭",
+          "word": "최민식",
           "count": 2,
           "articles": [
             {
-              "title": "‘무법중년’ 소지섭 제대로 터졌다…‘김부장’ 처절한 부성애 액션 안방 접수",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyaXZBcU12bFF3TTJfcGprQnc4ZTNRZlFHM2RIdS1GT2ZhRmJlUjlkQXRhTmhLUmZ2d2c3TC1WSXg4eUpTeGd5dk1RNVN5aE8zOTVuSHlPSWpucGZCMXfSAWNBVV95cUxOVmdzY0tvUmN3cjY1V3FQODVFOFBmRVlBSUpWZnM2bHpaV1RjaGFyU2RqRWpUVjhvRzN2TVpJSnd4Vi1taF84OUlxdFFSZmk0T04tcUxrRk9FbGcxOFVpOWJCME0?oc=5",
-              "source": "스포츠경향"
+              "title": "최민식·최현욱 '맨 끝줄 소년', 32개국 TOP10 진입",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tQ084VTZ2RU1VbVhvaXRBQjhGaW9wNE0wWjZSYXI2Yy1qeUp5OF9Yck1XYTNlbjRHR19FenQwZllRa1Q2TG5PUDNfWDhPeE0?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "손나은, ‘김부장’ MZ 변신…소지섭과 케미 폭발",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLbkQ1RW9Zb09fZEdieFhEX05FSVVMa2dyRjA4OS1RQWpBRjBycVZocURHbExhOGlyWnpOU3NNeTZVRU9uT2Z3SEtlNk1QdWtZVlVfQXl1NGRFLVM3UDhwVmEyd0V0Mk95SHQ2bUhR?oc=5",
-              "source": "스포츠동아"
+              "title": "최민식, 최현욱 응원 \"젊었을 때 연애도 하는 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QSy1TQVJkVnZFNmtuU1o4VDdPRlVYOFZfQUxWVk1Fc1ltQ3NSQTMyVS14bGRycmhSRlFodUJjelN6MFB2elRtemRTbk44SGFrc1Qyb0IxR0wwQVFiSE42aNIBeEFVX3lxTE5meklYczgtSW0tclpHMTVtWUg1enMtSjZENDgwSGVYa2FYQ2hObEpabXlJZUllWWFaUFpWVXNLYnhjNmxIbVFFWnI2cFZESmUyWFo5NkJtbVpxdUNSRkdoT2VTcjVkMGVWM3VqUmltNzkyT3R6aW45TQ?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "소지섭 주연 ‘김부장’ 2회 만에 시청률 15.7% ‘대박’",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCZVJZLUJWdmgyWlMxSDhPN20yQzl5TGk0LVI0cVZ5WU5JVUNQMV9sai1OcERWNFBzX0hhbnZxMEM1VnhHRXFWbVZCVWF4SHp0TEF1SVdUdV95ZWlDenRNMDVkVTlCNEU2V09xTdIBbEFVX3lxTFBCZVJZLUJWdmgyWlMxSDhPN20yQzl5TGk0LVI0cVZ5WU5JVUNQMV9sai1OcERWNFBzX0hhbnZxMEM1VnhHRXFWbVZCVWF4SHp0TEF1SVdUdV95ZWlDenRNMDVkVTlCNEU2V09xTQ?oc=5",
-              "source": "국민일보"
+              "title": "최현욱, '데뷔 45년차' 최민식 옆에서도 안 밀렸다…'맨 끝줄 소년'으로 증명한 존재감 [TEN피플]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xTHRpbUh2T1RZdm1xTFQxdy04R1BnODJ2ZnFnQkppdHUyZXY2bXgya2M2YnpJaTltM0ZnWTNaUl82a01YMTVmSFFfMHh6YkE?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "소지섭 주연의 드라마 '김부장'이 2회 만에 시청률 15.7%를 기록하며 흥행에 성공했다. 처절한 부성애를 담은 액션 연기가 안방극장을 사로잡았다는 평가가 이어지고, 손나은과의 케미도 화제다. MZ 세대 캐릭터로 변신한 손나은과 소지섭의 호흡이 드라마 흥행을 이끌고 있다는 분석이 나온다.",
-          "headline": "소지섭 '김부장', 2회 만에 시청률 15.7%"
+          "description": "최민식·최현욱 주연의 '맨 끝줄 소년'이 32개국 TOP10에 진입하며 글로벌 흥행을 증명했다. 데뷔 45년차 최민식과 신세대 배우 최현욱의 조합이 국내외에서 주목받고 있으며, 최민식은 최현욱을 향해 '젊었을 때 연애도 하는 것'이라며 훈훈한 응원을 전해 화제를 더했다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "'맨 끝줄 소년', 32개국 TOP10 진입"
         },
         {
           "rank": 5,
-          "word": "IS",
+          "word": "문세윤",
           "count": 2,
           "articles": [
             {
-              "title": "이우성 SGC에너지 대표이사 사장",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82SUdFeHlIdUkxaWVDRmpGZTJnY0I2VlVIVVJZNTJuS2g4TUJhQk9MaFE2OVdBRDZ1b2gzQW9TN0RNY3k1T3NWTFFWZjF2WWJKUzZlR09CMGhPRzZ3LUkwdHc2aWJpbmV0Zk83ZVJtY0lHRUU?oc=5",
-              "source": "비즈니스포스트"
+              "title": "문세윤 용돈 덕분에…'배그부부' 남편 \"오늘 하루도 사람으로 산다\" [MD이슈]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55RUZraDNWLWIzSUZ1S0JhbTNKdlVEaXpDRVBEbVhwWFZoTS11VXNiMS1QS3VZMFh4N3ZlSFNvQ3VHR2R2ZFNaUGlaU2FhTUU?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "하룬 파로키 《What Is Seen, What Is Made.》 | 부산 디오티미술관에서 개최",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0xoQlktazVfbTc3dmhtZnNYT0d6MHhmZTBkRUhtWHh3a3FtY05WU0paNWprXzVvTm9WSEw4Z0FwcVNScjN2c1N6OGRMWU1nOTVzOXhJTmlVUEEzMGhnQzFQeDFORWZvRWlaenhJS28xUmhCZENfSEg4SWRsOENTWVJGbm9tS2lULS1UZ251UmU?oc=5",
-              "source": "Thaddaeus Ropac"
+              "title": "작전명 ‘라스트 댄스’! 김종민-문세윤-이용진 OB팀 대역전극",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hdFNFTV8xUmZCaWE5Y0R6Wm50VFc3SHVZQ2FYTWtfSGdMS3MzSnA2c2NPNUU1ZzE2cFlnM1ZuSlpwUEFCYnZCSFBmMTJrbTlkQzYwMGh5U05CNnNoSHc?oc=5",
+              "source": "KBS연예"
             },
             {
-              "title": "3일간 2만7천명 몰렸다… IS동서 `펜타힐즈W 1단지` 청약 돌풍 예고",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NcVJ5YWhaLU5VNFZpUGZKQXl4TzZNMXJMOV9yT1JRLUJwWDV1dnpVRURfWnp0ck9ZVENwWUFpazV0eUpuY05UNG9raWVFV0NuYTVaTmRIM09ldVFIUVFBZkJfNEF5Zlk?oc=5",
-              "source": "경상투데이"
+              "title": "문세윤, 결국 선 넘었다 ‘맛녀석’ 제작진 밥까지 압수한 먹방 본능",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RbDJBYW41cUF6NHBHNmh1WGlkcUR1SHI0QnB4eXdnbWNKZXpSQlp2aW1uZmNsTDc0YlViZ21kdzFuYjZmRFlIa0x6UzFKSE95STlFdEhZdE1oTmFPcTVnVHVHSEhweDhn?oc=5",
+              "source": "newsen.com"
             }
-          ]
+          ],
+          "description": "개그맨 문세윤이 '맛있는 녀석들' 촬영 현장에서 제작진 밥까지 압수하는 '선 넘은' 먹방으로 웃음을 자아냈다. 한편 예능 '라스트 댄스'에서는 김종민·이용진과 함께한 OB팀의 대역전극을 이끌며 활약했고, '배그부부'에서는 용돈 지원으로 남편에게 감사 인사를 받는 훈훈한 모습도 전해졌다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "문세윤, 제작진 밥까지 압수한 먹방 본능"
         }
       ]
     },
     "스포츠": {
-      "summary": "홍명보 감독, 한국 축구대표팀의 2026 월드컵 32강 진출 실패 책임지고 자진 사퇴 · 손흥민은 눈물로 라스트 댄스 마무리.",
+      "summary": "홍명보 감독이 자진 사퇴하며 사과했고, 붉은악마는 축구계 영구 퇴출을 요구하는 공식 입장을 발표했다.",
       "keywords": [
         {
           "rank": 1,
           "word": "홍명보",
-          "count": 1,
+          "count": 3,
           "articles": [
             {
-              "title": "두 번째 월드컵 도전도 실패한 홍명보 감독, 자진 사퇴",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9weVIxaWo3SmlSSmNmU0VLRGFCUUxKRlFuUDcxYk83MVFuYXlnNTgwelBMQ3pTaC1OZ1ZrR0lYaTRWazZtTTZUMWJFZlV4dVNndEFJNkFDdVhuem1uWEhFUNIBeEFVX3lxTE04Rkg3RW5hcmZRN1hGNnFrZnFYdjJ2SHNNNHhWQm5lX1hsVVpwd3ljdW5oSTl4dmt2Uy1jQ3l6T3J6SDAzRU05TTZFWjN1cnBiY05YeWxiNExlY1cydGx3Rm5mcWlNRmFfS05sQ2VHSy1WNC1JZ3poWg?oc=5",
+              "title": "‘자진 사퇴’ 홍명보 저격한 붉은악마...“축구계 영원히 떠나라”",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekVfV2xrV3g5Q1JNRzk2OGo4cDhlU01GZE50aDhKNTlZR2xTaVBSQkd0aUZTYlU2LWhqWWhGR05QakwzdzJCUFNia3YtLUtCS01YTWp0RmtHd2s4QmVFRVJGaXZ3ODB3NHZSbEgxMzhhZHhpeFJNeGxhY3VjT0F4UzROYmFRWVJ1ZzAw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "경찰 \"홍명보 선임 고발 8건...필요한 수사 적극 진행\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wWGRQYm5HMTZjWmtzNUpVTE5IVmluWWw3YmZZWkVOSGp0bHo0bFcwMXhjY3h5YVZTSlVVZC1Ndmo4bTYwd0diUzhoSm12MGY3WEJ6UWR4RUF1blVfeVE?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "경찰, '홍명보 선임' 축협회장 수사 2년째…고발 8건 접수",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4NnE0VC1YVkdKcHZ2UUZXZUdqQlBibENhNnBTZU1FdVVwaTR4T3ExNTVjRWR6THppNlV5d2lmNVVJTEdpQkh5Y3RPYkExQjYwMFhubDdRS1dMX2Y1TE5hctIBeEFVX3lxTE5ob1RaZ1pTN0NnNkI2S2RxakhoQURHcWYyMU1STFpVLXlZZFhhbldiWUN2NjNIOVZTRGFZT1N3S25rT01GNS1LSEJZTExqT3ZtYmdBcWlhNDVDbXFjYTR4ZGhmalNpS2gxTWdFekNtWE5ENl9pNGY1ZQ?oc=5",
               "source": "뉴시스"
-            },
-            {
-              "title": "감독 사퇴 홍명보 “기대 못 미쳐 죄송…모든 책임은 제게 있다”",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yeWdlX2VhMnlWUXRBRDFGd2I1SmpQUDI4bXI3S19FVk5wV1VyVTMyV3lDMDdPQzR5VGFuM0twb0QyVGFqOTdYbkJ4Nk5HUWZGSjRPMFd0c0ctd0JTUDZtSmtPR3dwYzBSdDhXODRpejFhMDF6akE?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "\"얼마나 욕을 먹고 싶은지...\" 야구계 레전드 김병현, \"홍명보 나가 귀에 거슬려\" 최악 타이밍 소신 발언→팬 분노만 키웠다",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPZklEM05kSmcwd2FDX0FUb1h1cGNjN1JycUl6cjVkR0U3RjVybGVTZ2ZxcnU4Qlg0NGd2SDlVVXItNkhHUFFNVUhfMEw3d1k?oc=5",
-              "source": "v.daum.net"
             }
           ],
-          "headline": "홍명보 감독, 월드컵 32강 실패 후 자진 사퇴"
+          "headline": "홍명보 감독, 자진 사퇴"
         },
         {
           "rank": 2,
-          "word": "진출",
+          "word": "악마",
           "count": 1,
           "articles": [
             {
-              "title": "홍명보 대표팀 감독, 32강 진출 실패 책임지고 사퇴",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96RVVSSDNwU0haZ29BXzdLRFprX2xqV0NYVmhaZGlJeEsxT1JRS3BQWm41WHlnR1RXZ1lqakVKT1JqSG1TWk1nN2xRNDFtYUhzVDJtYnpKWmE0dUXSAWBBVV95cUxOUEliQnQ0eWwtcVIwSTF5YnR2OTZGeTlLQ2ZrZGRQSXFWZldpaERRckVobTlFckJzNk1CTnNPbTRkcXNXajF6S09XZHBHV3FESVFscUpjTTVaLXJsSWFvMHM?oc=5",
-              "source": "연합뉴스"
+              "title": "“홍명보 끝까지 궤변, 축구계 떠나라”…붉은악마 분노의 투쟁",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11b2N2QktLY25QNnVoZFhVanBkX25ocGw1M0JYQ21YTmRBdEtEUW13ZS00ckNDTlA4bWVERTZkZHJsVGJFYTdDTGtwNW5ZMkFXeTVhQUpB?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "'32강 진출 실패' 홍명보 축구대표팀 감독 사퇴",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94bVc4M25Ga3pPSVhNLWtnT2FpTHdrZVJkWmhKQmpfaUFvQTJVRU11Mktmb21JVm4zVzhCemNJZW5HMUZXbmFwTDA2VHJ4MEk5OFQzTGltSWdrN2R0cE0weVVsc2sydS1TXzhCNnZ6TmtoZkxLMkHSAXZBVV95cUxNa1VCc1RiUHdla2Z1WlRNcEpUN3liVXlTUDZCcnZ2QzJNNXkteGJkVjJEbUQ2RlJVa2ZBaE9FRkVReGM0X2wyV0hraGpEY1BnSk1nb0NXS1JscVhLMmdqWF9faE9iUDlzWEpGMWV6Tm04MEZ1M3V3?oc=5",
-              "source": "MBC 뉴스"
+              "title": "\"과거 세탁…홍명보, 영원히 떠나라!\" 붉은악마, 최후통첩",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EZjlTeUd1MUpIQktsclVWTUphdmItSVZrR2JBNzRUak5mSFVKVWNJZlQ4YS1HUjNob0VjdUY2ZTVUSnF4THp3NlZkM280Ql8wWkNvbmNtN191bkUy?oc=5",
+              "source": "네이트"
             },
             {
-              "title": "'북중미WC 32강 진출 실패 졸전' 홍명보, 자진 사퇴...\"국민 여러분께 죄송\"",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40WjhvWnpNMk5uZmFtdnB6YnBkSXZ6WFNreVFYcnhpNGV3czJTZnV2LXJQREFZLWlRTE1lY1g4XzNFWlVUQlVZbGt0NzJSdEJXUGFPRTVSUkx0N01FRzBZRXhHaEtZRmc2NnlBU2VRZ0VlMDg?oc=5",
-              "source": "헤드라인제주"
+              "title": "32강 탈락에 성난 붉은악마…\"홍명보 축구계 영원히 떠나야\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lNU5icmRXb0xRakM5Z0NLenI0ZERPUHY0OUtqb0QwNUpUSWdKSnUyZy1VbFZPZmRjamduS0NtUU9rRXhVWEJ0bU9uRjBxUFU?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "headline": "한국 축구, 북중미 월드컵 32강 진출 실패"
+          "description": "공식 서포터즈 붉은악마가 홍명보 감독을 향해 '축구계에서 영원히 떠나라'는 강경한 공식 입장을 발표했다. 2026 월드컵 32강 탈락에 분노한 붉은악마는 홍명보 감독의 사퇴 발표에도 '과거 세탁'과 '궤변'이라며 수위 높은 비판을 이어갔다. 오늘 처음 화제 키워드에 등장했다.",
+          "headline": "붉은악마, 홍명보에 최후통첩"
         },
         {
           "rank": 3,
-          "word": "실패",
+          "word": "공식",
           "count": 1,
           "articles": [
             {
-              "title": "홍명보, 32강 진출 실패 책임지고 사퇴…\"진심으로 죄송\"(종합)[월드컵24시]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VTDB2U2sxOTI4T2doWDRVUnYyWGhheHBoN3o3cFRKZFBteDZyZzU3RHJNUzE4NkdZV1hVVUR4ekQzVGQwdWdHcHRUb1RZa2pMWUhPUWI5ejM5Ykl5NFNMZdIBeEFVX3lxTFBIaFdhb1pqdUFnU1VDTVl1eWlZVGJJWXV6YURabkVWaTA0d0RUZEUyNGYwWEkwMmdpQ2J4TnJKaDZDSXZZM3AtcWtFTTlnMm05YlpydWZBS1hFYzRrXzRuZ0tmM2E2WDFYUXVwWGZqSU9qOHp2UnVFWQ?oc=5",
-              "source": "뉴시스"
+              "title": "붉은악마 “홍명보, 축구계 영원히 떠나라” 공식 입장 발표",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OVkZOX2tTNm8xRW9lRnhoVFZDenQ4c3dOUUJyWmFRMkFYRC1ER2VPR2dGY1k2bVNUUElwaWhiTDNCNERTS1J0akNnM1c3RFB0VjBrMzZWNERiN2xmYk81MU9zRFdySlo1TzU2djktYzRlVGRqMlE?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "李, 홍명보 직격 \"인사 실패 결과…축구협회도 직선제 도입\"",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzek9tUnp4T3JJNVNWT1dwSnE4YnBuSUFseHhpcWdkWGN0MG0zTkNUdGZuV2dydmdVeXhtR3VRMnVzcy1QRXo0TXE3aTZTTXZWZFBv?oc=5",
+              "title": "홍명보 감독, '자진 사퇴'...\"국민 여러분께 죄송\" 12년 만에 또다시 월드컵서 고개 숙였다",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZMk1qTEt4bVZCR1BQZGFpVkVtOXJIMThuT1BrNWpIR1JhaTQwOGswWC1jbXJGZnB4TGlQUHJPYjB2bHM0eWJxLXNLUUZlVUlQQzhhYQ?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "홍명보 감독 내일 입국…공식 행사는 없다[어텐션 뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nZ3o4Z1g3MFE0cndTVEoxdWRHcVJTZUNzWmVtYm8tZzM3c3htSDVLeGMxMjRpcjRHY05ITTNoWGhrUEZXU0VtUVo1YncwYVE1X2ZjMjA1dkNlQ3lF?oc=5",
               "source": "네이트"
-            },
-            {
-              "title": "'월드컵 두 번째 실패' 홍명보, 결국 사퇴…\"모든 책임은 내게 있다\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TRjV1UVBMdktxTnBRZFVHY1BwQ29zWFpsS2ZaaWxocWdmMkJPZ3ExRUZOUWN6cEJSQ3BwTmpobTZFdE9jVlREdzg3ZThMcUx3WU1ISzdsTDYtbElDQ2k0THlRN21qSU9IOTZqYUVn0gFuQVVfeXFMTlNGNXVRUEx2S3FOcFFkVUdjUHBDb3NYWmxLZlppbGhxZ2YyQk9ncTFFRk5RY3pwQlJDcHBOamhtNkV0T2NWVER3ODdlOExxTHdZTUhLN2xMNi1sSUNDaTRMeVE3bWpJT0g5NmphRWc?oc=5",
-              "source": "머니투데이"
             }
           ],
-          "description": "홍명보 감독이 이번 북중미 월드컵에서도 32강 진출에 실패하며 두 차례 연속 월드컵 실패라는 오명을 안고 물러났다. 홍 감독은 '모든 책임은 내게 있다'며 자진 사퇴 의사를 밝혔고, 이재명 대표 등 정치권에서도 '인사 실패의 결과'라며 축구협회 직선제 도입을 촉구하는 등 파장이 정치권으로까지 번졌다. 오늘 처음 등장한 키워드다.",
-          "headline": "두 번의 월드컵 도전 모두 실패, 홍명보 사퇴"
+          "description": "홍명보 감독이 자진 사퇴 공식 발표를 내놓은 같은 날, 붉은악마도 '홍명보는 축구계를 영원히 떠나라'는 공식 입장문을 발표하며 정면 충돌 양상이 연출됐다. 홍명보 감독은 내일 귀국하지만 별도의 공식 행사는 없는 것으로 알려졌다. 오늘 처음 화제 키워드에 등장했다.",
+          "headline": "붉은악마·홍명보, 공식 입장 잇따라"
         },
         {
           "rank": 4,
-          "word": "사퇴",
+          "word": "입장",
           "count": 1,
           "articles": [
             {
-              "title": "'전격 사퇴' 홍명보 \"한국 대표팀 감독 맡은 이유는, 결코 쉬운 자리 아니었지만…\" [월드컵 현장 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96ZG8wbFNqYnJGTEp6dF9LaFZJdEtOVUpCYUFNUmtOVkQ2R29PaFRRaE1fTk03Tm9EeTRwU1BmSTY0VS1xNGpQZE5sSUg5YXRXMkdIZVhPUVAyWE9R?oc=5",
-              "source": "네이트"
+              "title": "홍명보 감독, ‘1분 35초’ 입장문으로 도망치듯 사퇴",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rZmtOSm9zSlUxbW9aS1ZXWi1VQ0JDRW9rOUhGMjJscTRuQnI3al9LZHhNbmJlakhFalBDeU9qdWd4Z09CaGVKQ2U0ODlwSlVHeUQ5eGtia1N0alJYOHR0NXlqbDV3Zw?oc=5",
+              "source": "KBS 뉴스"
             },
             {
-              "title": "감스트 \"홍명보 나가…협회가 자르면 위약금 줘야 하니 자진 사퇴하라\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDV1Z5MTBmOXk5QkR2OWxqb25HVG54TGtEbW10RnhOZHJrTkxqM2dmWmNxNE9MZzhSOWx6YmtscTBGX0ctWHhiOTdzOWp4UUE?oc=5",
-              "source": "v.daum.net"
+              "title": "\"홍명보, 한국축구 사지로 몰아\"...붉은악마도 비판 입장문",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nN0JxVXNUUmVTYlE2Qy14SWJWQnlIdl8wbzhLWjVqZGxmT0xDM3Bhc09FNVExbEl5TVRvWlF3QUlpNUZPOWU4UEFJanVWYU5NVVExdElGcTNGcTd1T3c?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "홍명보 감독 자진 사퇴…“기대 못 미쳐 국민들께 죄송”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VVUJzZTFoaTF3SDlXYVg4aFJtVmFPZE1kVEFGOUNnd3FNT1ZVdEdSU3p3cEF2ZXFiS2I5Z0JheGNlb1l2SXZrTlFyVEprYzk4cTR3bFpB?oc=5",
-              "source": "중앙일보"
+              "title": "‘주머니 손’ 홍명보, 2분 발표에 질문 패스…“죄송한 거 맞나” 여론에 기름",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjVFh6VXlGUXZFY0ZqLVFveFM4anpQdkkxdGtXQTN2SzFLaGhzT0ZidktaSGVqWFcwX01MR0JwWDJFMXk0SkFRTE9WN1RsOHRqMnE3SDMtT0lrOElnS2YzQVJsVHhiRHlLcUY3b1d5OGRQZw?oc=5",
+              "source": "한겨레"
             }
           ],
-          "description": "홍명보 감독이 북중미 월드컵 32강 탈락 직후 자진 사퇴를 전격 선언했다. '결코 쉬운 자리가 아니었다'면서도 기대에 부응하지 못한 데 대해 국민들께 사과했다. 유명 스포츠 유튜버 감스트는 '협회가 자르면 위약금을 줘야 하니 자진 사퇴를 유도한 것'이라는 의혹을 제기하기도 했다. 오늘 처음 등장한 키워드다.",
-          "headline": "홍명보 감독, 32강 탈락 책임지고 전격 사퇴"
+          "description": "홍명보 감독이 1분 35초짜리 짧은 입장문을 발표한 뒤 질문 없이 자리를 떠나 논란이 커졌다. '주머니에 손을 넣은 채 2분 발표 후 질문을 패스했다'는 지적과 함께 '진정성 없는 사과'라는 여론이 확산됐다. 붉은악마 역시 별도 입장문을 통해 홍명보 감독이 '한국 축구를 사지로 몰았다'고 강도 높게 비판했다. 오늘 처음 화제 키워드에 등장했다.",
+          "headline": "홍명보, 1분 35초 입장문으로 사퇴"
         },
         {
           "rank": 5,
-          "word": "눈물",
+          "word": "안정환",
           "count": 1,
           "articles": [
             {
-              "title": "\"잘 가요, 쏘니\" ESPN도 작별 인사…손흥민 '라스트 댄스' 끝내 눈물 \"한국은 아무것도 얻지 못한 월드컵\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Md0pGVUN0dElWNS0wVTU3bVJrSDJpNTktaHJwcHUwaGttR19RTkZkZTZ4R2FDVjQxaW1BMmdXNnRLMkI3MWVvd0dpbDBUVmM?oc=5",
-              "source": "v.daum.net"
+              "title": "안정환 \"가족은 건드리지 말라\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCSXBnNVR5WEZ0Q3pKLWZNTVVIX0NHN3ZXOXZpMW5rWWhHd3IwTVAyRWswd2laT1dWMTRSSGdBdWFCOG1SUGJKaUNGeEFwdnZtRHZwN3I0eTVQd0ZETnBmR9IBeEFVX3lxTE1QUXRETDlJUWhITVhESWpwbVBJdlBkU29aRVNGTkM0d0MzZEl5U2JiTldsb0t4anpoY0RtdnplMk5PTWIxeVFGelZNcVZlYWloTU1uaVEwTDZhbndXWkVKNFUwUzQ0OEU2ekhVbWhIbDR4X3JyODF0aA?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "눈물 쏟을 기회조차 없었던 손흥민…4년뒤 재도전 가능할까",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLbUNGdzY3VHgyeU9HUE1ReHFSVENvc3ZoRXRZNnFOQjlRX3NacU1PY0ZXdS1pUU4xSmRlZDZFRGJzQ2ctQy1Ea1pGajl1eTZGOU50NGFxdklMZ2h1SVdmamd1clRpNXREdGdIYVI0Ulc5ckpB0gFmQVVfeXFMTjJrNmJ4amlOMmdsV0tLZ3BxdWNDSUFzdWxySzNkSmlKVGtWSFdzcUhhMl9HQmtnRm9uZmE4ZUlhZWxPaTFZVXJ2T05paFVXM2ZLOEdiaEFRdlVnVS14ZjhTVHQ4UFln?oc=5",
-              "source": "동아일보"
+              "title": "‘되지도 않는 것들’ 발언 안정환 “이건 내 표현의 자유”",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qdUxVQ01YNU1YQjZTWEhaR3dkZ1BwVnJzNEgtdGo5eUhUdnNOT2xpWHpfMGVfTmRhTVdfOXpPNTFqQWFDb3huWWYweFF1OGk3?oc=5",
+              "source": "문화일보"
             },
             {
-              "title": "손흥민한테 자격지심? 존재감 증명해도 홍명보 선택은 ‘의문’",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81RlMxZlVweXVRSUl5SjZ2MzNXeVNuTHdRejhRTkQ2ZTdsNG1DNW9RR2xZc3M1VFZJS1N0QWZXR1JxWkk4V1R2QUVOTndzSkg0Q1dGNg?oc=5",
+              "title": "안정환 \"싹 다 청소\" 분노…대통령 이어 문체부 칼 뺐다",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80ZEZQaGtNMjZwMXJnWU11aFdqWG93cW1LN1dlcHlpSFQ5LVo1eVZXWFUtZEhYY0hGSWpLQUxDeFYtVGFueGRBWDJhUDBxbmRFQWxPMA?oc=5",
               "source": "JTBC"
             }
           ],
-          "description": "월드컵 32강 탈락으로 손흥민의 '라스트 댄스'가 허무하게 마감됐다. ESPN도 '잘 가요, 쏘니'라며 작별 인사를 건넸고, 손흥민 본인은 '한국은 아무것도 얻지 못한 월드컵'이라며 눈물을 쏟았다. 팀 내에서 존재감을 드러냈음에도 홍명보 감독의 기용 방식이 의문이라는 지적과 함께, 4년 후 재도전 가능성을 묻는 목소리도 나오고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "손흥민, 눈물도 못 쏟고 떠난 월드컵"
+          "description": "안정환이 '되지도 않는 것들'이라는 발언으로 논란에 휩싸이자 '이건 내 표현의 자유'라고 맞받았다. 또한 '가족은 건드리지 말라'며 분노를 표출했고, '싹 다 청소'라는 강경 발언과 함께 대통령에 이어 문체부까지 겨냥하는 등 연이은 강성 발언이 주목을 받고 있다. 오늘 처음 화제 키워드에 등장했다.",
+          "headline": "안정환, '되지도 않는 것들' 발언 파장"
         }
       ]
     }
