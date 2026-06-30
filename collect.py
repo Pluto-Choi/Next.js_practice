@@ -647,6 +647,55 @@ def _looks_like_refusal(text):
     return any(m in text for m in markers)
 
 
+def _parse_json_array(text):
+    """모델이 돌려준 JSON 배열을 파싱한다. 출력이 max_tokens에서 잘려 배열이
+    닫히지 않은 경우에도, 완성된 {…} 객체만 골라 살려낸다(배치 전체 유실 방지).
+    실패 시 None."""
+    if not text:
+        return None
+    start = text.find("[")
+    if start == -1:
+        return None
+    # 1) 정상 경로: 닫힌 배열을 그대로 파싱
+    end = text.rfind("]")
+    if end > start:
+        try:
+            return json.loads(text[start:end + 1])
+        except json.JSONDecodeError:
+            pass
+    # 2) 잘림 등으로 실패: 균형 잡힌 최상위 {…} 객체만 개별 파싱해 건져낸다
+    salvaged = []
+    depth = 0
+    obj_start = -1
+    in_str = False
+    escape = False
+    for i in range(start + 1, len(text)):
+        ch = text[i]
+        if in_str:
+            if escape:
+                escape = False
+            elif ch == "\\":
+                escape = True
+            elif ch == '"':
+                in_str = False
+            continue
+        if ch == '"':
+            in_str = True
+        elif ch == "{":
+            if depth == 0:
+                obj_start = i
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0 and obj_start != -1:
+                try:
+                    salvaged.append(json.loads(text[obj_start:i + 1]))
+                except json.JSONDecodeError:
+                    pass
+                obj_start = -1
+    return salvaged or None
+
+
 def generate_summary(keywords, category):
     lines = []
     for item in keywords:
@@ -795,12 +844,14 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
     try:
         message = anthropic_client.messages.create(
             model="claude-sonnet-4-6",
-            max_tokens=3000,
+            # 5개 키워드×(headline+250자 설명)을 한 JSON으로 받으므로 한국어 기준
+            # 3000은 빠듯해 잘리는 날이 있었다. 청구는 실제 생성 토큰 기준이라
+            # 천장만 넉넉히 올린다(잘림=배치 전체 유실 방지).
+            max_tokens=8000,
             messages=[{"role": "user", "content": prompt}],
         )
-        match = re.search(r'\[.*\]', message.content[0].text, re.DOTALL)
-        if match:
-            arr = json.loads(match.group())
+        arr = _parse_json_array(message.content[0].text)
+        if arr is not None:
             info_map = {
                 d["word"]: d
                 for d in arr
