@@ -8,6 +8,22 @@ export default function ShareButton({ topKeyword }: { topKeyword?: string }) {
   // 배지만으로는 보이지 않는 사용자가 성공 여부를 알 수 없어 보완한다.
   const [status, setStatus] = useState('')
 
+  const markDone = (msg: string) => {
+    setState('done')
+    setStatus(msg)
+    setTimeout(() => setState('idle'), 2000)
+  }
+
+  const copyLink = async (text: string, url: string) => {
+    try {
+      await navigator.clipboard.writeText(`${text}\n\n👉 ${url}`)
+      markDone('공유 링크를 복사했어요')
+    } catch {
+      // 인앱 브라우저(카카오톡·네이버 등)에서 복사가 막히면 최소한 실패를 알린다.
+      setStatus('링크 복사에 실패했어요. 주소를 직접 복사해 주세요')
+    }
+  }
+
   const handleShare = async () => {
     const title = '왓뉴스 👀'
     const text = topKeyword
@@ -18,15 +34,14 @@ export default function ShareButton({ topKeyword }: { topKeyword?: string }) {
     if (navigator.share) {
       try {
         await navigator.share({ title, text, url })
-        setState('done')
-        setStatus('공유했어요')
-        setTimeout(() => setState('idle'), 2000)
-      } catch {}
+        markDone('공유했어요')
+      } catch (e) {
+        // 사용자가 취소(AbortError)한 경우는 조용히 무시. 그 외 실패(인앱 브라우저
+        // 등에서 공유 시트가 안 뜨는 경우)는 링크 복사로 폴백해 빈 동작을 막는다.
+        if ((e as Error)?.name !== 'AbortError') await copyLink(text, url)
+      }
     } else {
-      await navigator.clipboard.writeText(`${text}\n\n👉 ${url}`)
-      setState('done')
-      setStatus('공유 링크를 복사했어요')
-      setTimeout(() => setState('idle'), 2000)
+      await copyLink(text, url)
     }
   }
 
