@@ -103,7 +103,7 @@ export default function DateArchive({ entries }: { entries: DateArchiveEntry[] }
             <Link
               key={entry.date}
               href={`/${entry.date}`}
-              className={`group/day block rounded-xl border bg-white dark:bg-zinc-900 p-3.5 shadow-sm dark:shadow-none transition-all hover:-translate-y-0.5 hover:shadow-md dark:hover:shadow-none ${
+              className={`group/day block rounded-xl border bg-white dark:bg-zinc-900 p-3.5 shadow-sm dark:shadow-none transition-all hover:-translate-y-0.5 hover:shadow-md dark:hover:shadow-none active:scale-[0.98] ${
                 isNewest
                   ? "border-orange-300 dark:border-orange-800/70 ring-1 ring-orange-200/60 dark:ring-orange-900/40"
                   : "border-zinc-200 dark:border-zinc-800 hover:border-zinc-400 dark:hover:border-zinc-600"
