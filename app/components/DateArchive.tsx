@@ -54,19 +54,41 @@ export default function DateArchive({ entries }: { entries: DateArchiveEntry[] }
   };
   const [selY, selM] = selected.split("-");
 
+  // 월 탭을 WAI-ARIA 탭 위젯으로 완성한다: 좌우/Home/End로 이동하고 포커스가
+  // 선택을 따라간다(자동 활성화). 선택된 탭만 Tab 순서에 두어(로빙 tabindex)
+  // 여러 달이 있어도 Tab을 여러 번 눌러 지나칠 필요가 없다.
+  const tabId = (ym: string) => `month-tab-${ym}`;
+  const panelId = "month-panel";
+  const onTabKey = (e: React.KeyboardEvent, idx: number) => {
+    let next = -1;
+    if (e.key === "ArrowRight") next = (idx + 1) % monthsAsc.length;
+    else if (e.key === "ArrowLeft") next = (idx - 1 + monthsAsc.length) % monthsAsc.length;
+    else if (e.key === "Home") next = 0;
+    else if (e.key === "End") next = monthsAsc.length - 1;
+    else return;
+    e.preventDefault();
+    const ym = monthsAsc[next];
+    setSelected(ym);
+    document.getElementById(tabId(ym))?.focus();
+  };
+
   return (
     <section>
       {/* 월 탭 */}
       <div className="mb-4 flex flex-wrap gap-1.5" role="tablist" aria-label="월 선택">
-        {monthsAsc.map((ym) => {
+        {monthsAsc.map((ym, idx) => {
           const on = ym === selected;
           return (
             <button
               key={ym}
+              id={tabId(ym)}
               type="button"
               role="tab"
               aria-selected={on}
+              aria-controls={panelId}
+              tabIndex={on ? 0 : -1}
               onClick={() => setSelected(ym)}
+              onKeyDown={(e) => onTabKey(e, idx)}
               className={`rounded-full px-3.5 py-1.5 text-sm font-semibold transition-colors ${
                 on
                   ? "bg-zinc-900 text-white dark:bg-white dark:text-zinc-900"
@@ -95,7 +117,12 @@ export default function DateArchive({ entries }: { entries: DateArchiveEntry[] }
       </div>
 
       {/* 날짜 카드 그리드 (풀 width, 2~3열) */}
-      <div className="grid grid-cols-2 lg:grid-cols-3 gap-3">
+      <div
+        id={panelId}
+        role="tabpanel"
+        aria-labelledby={tabId(selected)}
+        className="grid grid-cols-2 lg:grid-cols-3 gap-3"
+      >
         {days.map((entry) => {
           const { day, weekday } = parts(entry.date);
           const isNewest = entry.date === newestDate;
