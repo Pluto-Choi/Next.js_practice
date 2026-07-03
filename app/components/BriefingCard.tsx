@@ -7,6 +7,14 @@ export default function BriefingCard({ briefing }: { briefing?: Briefing | null 
   const text = briefing?.text?.trim();
   if (!text) return null;
 
+  // 생성 단계에서 문단을 빈 줄로 구분한다(collect.py generate_briefing).
+  // 첫 문단은 리드(핵심 이슈)로 강조, 이후는 주제별 문단. 빈 줄이 없으면
+  // (구버전 데이터) 통째로 한 문단으로 렌더 — 하위호환.
+  const paragraphs = text
+    .split(/\n\s*\n/)
+    .map((p) => p.trim().replace(/\s*\n\s*/g, " "))
+    .filter(Boolean);
+
   return (
     <section
       aria-label="오늘의 브리핑"
@@ -21,9 +29,20 @@ export default function BriefingCard({ briefing }: { briefing?: Briefing | null 
           <span className="text-[11px] lg:text-xs text-zinc-500 dark:text-zinc-400">{briefing.period}</span>
         )}
       </div>
-      <p className="text-[15px] leading-7 text-zinc-800 dark:text-zinc-200 break-keep">
-        {text}
-      </p>
+      <div className="space-y-2.5">
+        {paragraphs.map((p, i) => (
+          <p
+            key={i}
+            className={
+              i === 0
+                ? "text-[15px] leading-7 font-semibold text-zinc-900 dark:text-zinc-100 break-keep"
+                : "text-[15px] leading-7 text-zinc-700 dark:text-zinc-300 break-keep"
+            }
+          >
+            {p}
+          </p>
+        ))}
+      </div>
     </section>
   );
 }
