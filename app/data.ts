@@ -8,7 +8,20 @@ const DATA_DIR = path.join(process.cwd(), "data");
 const HISTORY_DIR = path.join(DATA_DIR, "history");
 const DATE_RE = /^\d{4}-\d{2}-\d{2}\.json$/;
 
-export const loadCurrentData = cache(async (): Promise<KeywordsData> => {
+// 데이터 파일은 빌드 시점에 고정된다(수집→커밋→재배포 주기). 정적 생성 시
+// 342개 키워드 페이지가 각각 별도 요청이라 React cache()로는 페이지 간 공유가
+// 안 되고 같은 JSON을 매 페이지 다시 읽고 파싱한다. 파일별로 프로세스 전역
+// 프로미스를 메모이즈해 빌드 전체에서 한 번만 읽고 파싱한다. 빌드는 매번 새
+// 프로세스라 stale 걱정이 없다. 실패 프로미스는 캐시하지 않아 재시도를 허용한다.
+function memoFile<T>(loader: () => Promise<T>): () => Promise<T> {
+  let p: Promise<T> | undefined;
+  return () => {
+    if (!p) p = loader().catch((err) => { p = undefined; throw err; });
+    return p;
+  };
+}
+
+export const loadCurrentData = memoFile(async (): Promise<KeywordsData> => {
   const raw = await fs.readFile(path.join(DATA_DIR, "keywords.json"), "utf-8");
   return JSON.parse(raw);
 });
@@ -22,7 +35,7 @@ type SectionEntry = {
   generated_at?: string;
 };
 
-export const loadSections = cache(async (): Promise<{ [word: string]: SectionEntry }> => {
+export const loadSections = memoFile(async (): Promise<{ [word: string]: SectionEntry }> => {
   try {
     const raw = await fs.readFile(path.join(DATA_DIR, "sections.json"), "utf-8");
     return JSON.parse(raw);
@@ -54,7 +67,7 @@ export type TrendsData = {
   streaks: { [period: string]: Streak[] };
 };
 
-export const loadTrends = cache(async (): Promise<TrendsData | null> => {
+export const loadTrends = memoFile(async (): Promise<TrendsData | null> => {
   try {
     const raw = await fs.readFile(path.join(DATA_DIR, "trends.json"), "utf-8");
     return JSON.parse(raw);
@@ -63,16 +76,26 @@ export const loadTrends = cache(async (): Promise<TrendsData | null> => {
   }
 });
 
-export const loadHistoryData = cache(async (date: string): Promise<KeywordsData | null> => {
+// 날짜별 history는 [date] 페이지·trends 아카이브·키워드 상세가 모두 같은 파일을
+// 읽는다. 날짜를 키로 프로세스 전역 메모이즈해 빌드 전체에서 파일당 1회만 파싱한다.
+const historyCache = new Map<string, Promise<KeywordsData | null>>();
+export function loadHistoryData(date: string): Promise<KeywordsData | null> {
   // 경로 조작 방지: YYYY-MM-DD 형식만 파일 시스템에 닿게 한다(심층 방어).
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return null;
-  try {
-    const raw = await fs.readFile(path.join(HISTORY_DIR, `${date}.json`), "utf-8");
-    return JSON.parse(raw);
-  } catch {
-    return null;
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return Promise.resolve(null);
+  let p = historyCache.get(date);
+  if (!p) {
+    p = (async () => {
+      try {
+        const raw = await fs.readFile(path.join(HISTORY_DIR, `${date}.json`), "utf-8");
+        return JSON.parse(raw);
+      } catch {
+        return null;
+      }
+    })();
+    historyCache.set(date, p);
   }
-});
+  return p;
+}
 
 async function listHistoryDates(): Promise<string[]> {
   try {

@@ -4,14 +4,27 @@ import { HERO_CATEGORY } from '../categories'
 
 export const ogSize = { width: 1200, height: 630 }
 
-async function loadFont(): Promise<ArrayBuffer> {
-  const css = await fetch(
-    'https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700',
-    { headers: { 'User-Agent': 'Mozilla/5.0' } }
-  ).then((r) => r.text())
-  const url = css.match(/url\((https:\/\/[^)]+)\)/)?.[1]
-  if (!url) throw new Error('font url not found')
-  return fetch(url).then((r) => r.arrayBuffer())
+// 폰트는 매 OG 이미지마다 동일하다. buildOgImage는 홈 + 날짜별 페이지마다
+// 호출되므로(빌드당 수십 회) 프로세스 전역에서 한 번만 받아 재사용한다.
+// 빌드는 매번 새 프로세스라 stale 걱정이 없고, 구글 폰트 왕복도 1회로 준다.
+let fontPromise: Promise<ArrayBuffer> | undefined
+function loadFont(): Promise<ArrayBuffer> {
+  if (!fontPromise) {
+    fontPromise = (async () => {
+      const css = await fetch(
+        'https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700',
+        { headers: { 'User-Agent': 'Mozilla/5.0' } }
+      ).then((r) => r.text())
+      const url = css.match(/url\((https:\/\/[^)]+)\)/)?.[1]
+      if (!url) throw new Error('font url not found')
+      return fetch(url).then((r) => r.arrayBuffer())
+    })().catch((err) => {
+      // 실패한 프로미스를 캐시에 남기지 않아 다음 호출에서 재시도 가능하게 한다.
+      fontPromise = undefined
+      throw err
+    })
+  }
+  return fontPromise
 }
 
 export async function buildOgImage(data: KeywordsData) {
