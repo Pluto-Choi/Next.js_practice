@@ -129,14 +129,17 @@ export default async function KeywordPage({ params }: Props) {
                   href={article.link}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="group/link block py-3.5 border-b border-zinc-100 dark:border-zinc-800/60 first:pt-0 transition-colors"
+                  className="group/link flex items-start gap-3 py-3.5 border-b border-zinc-100 dark:border-zinc-800/60 first:pt-0 transition-colors"
                 >
-                  <p className="text-[15px] leading-snug text-zinc-800 dark:text-zinc-100 group-hover/link:text-orange-700 dark:group-hover/link:text-orange-400 transition-colors break-keep">
-                    {cleanTitle(article.title)}
-                  </p>
-                  {article.source && (
-                    <p className="text-xs text-zinc-500 dark:text-zinc-400 mt-1">{article.source}</p>
-                  )}
+                  <div className="min-w-0 flex-1">
+                    <p className="text-[15px] leading-snug text-zinc-800 dark:text-zinc-100 group-hover/link:text-orange-700 dark:group-hover/link:text-orange-400 transition-colors break-keep">
+                      {cleanTitle(article.title)}
+                    </p>
+                    {article.source && (
+                      <p className="text-xs text-zinc-500 dark:text-zinc-400 mt-1">{article.source}</p>
+                    )}
+                  </div>
+                  <span aria-hidden="true" className="mt-0.5 shrink-0 text-zinc-300 dark:text-zinc-600 text-xs group-hover/link:text-orange-700 dark:group-hover/link:text-orange-400 transition-colors">↗</span>
                 </a>
               ))}
             </div>
