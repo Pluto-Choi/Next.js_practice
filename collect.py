@@ -920,13 +920,22 @@ def generate_briefing(categories_keywords):
     try:
         message = anthropic_client.messages.create(
             model="claude-sonnet-4-6",
-            max_tokens=600,
+            # 한국어는 글자당 토큰 소모가 커서 600이면 5문단 브리핑이 문장 중간에
+            # 잘린다. 5문단 종합에 충분한 여유를 준다(생성은 하루 2회라 비용 영향 미미).
+            max_tokens=1500,
             messages=[{"role": "user", "content": prompt}],
         )
         text = message.content[0].text.strip()
         if not text or _looks_like_refusal(text):
             print("  generate_briefing 거절/빈 응답 — 브리핑 생략")
             return None
+        # 안전장치: 그래도 토큰 상한에 걸리면 미완성 마지막 문장을 버려
+        # "...16강에 올" 같은 잘림이 배포되지 않게 한다.
+        if message.stop_reason == "max_tokens":
+            cut = max(text.rfind(c) for c in ("다.", ".", "!", "?", "요."))
+            if cut != -1:
+                text = text[:cut + 1].rstrip()
+            print("  generate_briefing 경고: max_tokens 도달 — 마지막 문장 정리")
         return text
     except Exception as e:
         print(f"  generate_briefing 실패: {e}")
