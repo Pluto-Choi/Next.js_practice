@@ -1,7 +1,9 @@
 export default function Loading() {
   return (
     <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950">
-      <div className="max-w-lg lg:max-w-5xl mx-auto px-4 py-6 animate-pulse">
+      {/* 스켈레톤은 빈 박스라 스크린리더엔 침묵으로 들린다. 로딩 상태를 별도로 알린다. */}
+      <p role="status" className="sr-only">오늘의 키워드를 불러오는 중…</p>
+      <div aria-hidden="true" className="max-w-lg lg:max-w-5xl mx-auto px-4 py-6 animate-pulse">
         <div className="mb-8 flex flex-col items-center gap-2">
           <div className="h-7 w-32 rounded-lg bg-zinc-200 dark:bg-zinc-800" />
           <div className="h-3 w-40 rounded bg-zinc-200 dark:bg-zinc-800" />
