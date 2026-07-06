@@ -143,6 +143,7 @@ function KeywordCard({
                 <p className="text-zinc-500 dark:text-zinc-500 text-xs mt-0.5">{article.source}</p>
               )}
             </div>
+            <span className="sr-only"> (새 탭에서 원문 열기)</span>
             <span className="text-zinc-300 dark:text-zinc-600 text-xs mt-0.5 shrink-0 group-hover/link:text-orange-700 dark:group-hover/link:text-orange-400 transition-colors" aria-hidden="true">↗</span>
           </a>
         ))}

@@ -139,6 +139,7 @@ export default async function KeywordPage({ params }: Props) {
                       <p className="text-xs text-zinc-500 dark:text-zinc-400 mt-1">{article.source}</p>
                     )}
                   </div>
+                  <span className="sr-only"> (새 탭에서 원문 열기)</span>
                   <span aria-hidden="true" className="mt-0.5 shrink-0 text-zinc-300 dark:text-zinc-600 text-xs group-hover/link:text-orange-700 dark:group-hover/link:text-orange-400 transition-colors">↗</span>
                 </a>
               ))}
