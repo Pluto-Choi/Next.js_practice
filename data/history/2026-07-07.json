@@ -1,509 +1,508 @@
 {
   "date": "2026-07-07",
-  "updated_at": "2026-07-07 07:16",
+  "updated_at": "2026-07-07 20:25",
   "briefing": {
-    "text": "국내 4대 정유사가 러-우 전쟁 발발 시점에 조직적으로 유가를 담합해 약 26조 원의 부당이익을 취한 혐의로 기소됐다.\n\n에너지·경제 분야에서는 미국발 변수도 잇따랐다. 트럼프 대통령이 월마트에 가격 인하를 요청하며 유통업계 전반을 압박했고, 미·중 반도체 갈등이 재격화되는 가운데 국내에서는 광주 군공항 부지에 호남 반도체 클러스터를 조성하는 방안이 거론됐다.\n\n정치권에서는 이병태 전 대통령실 인사가 5·18을 '성역'으로 표현한 발언 논란 끝에 청와대 권고를 받고 자진사퇴했고, 더불어민주당 경선에서는 김민석 의원이 출마 선언 첫날부터 정청래 의원 측과 충돌하며 계파 갈등이 조기에 수면 위로 떠올랐다.\n\n스포츠에서는 월드컵 이베리아 더비가 최대 화제였다. 스페인이 90+1분 결승골로 포르투갈을 1-0으로 꺾으며 8강에 올랐고, '마지막 월드컵'을 선언했던 호날두는 끝내 골 없이 16강에서 대회를 마쳤다. 홀란은 브라질전 2골로 노르웨이를 사상 첫 8강으로 이끌었다.",
-    "period": "아침",
-    "generated_at": "2026-07-07 07:16"
+    "text": "윤석열 전 대통령이 증인석에 서서 핵심 의혹에 \"모른다\"고 답하며 법정 안팎의 시선을 집중시켰고, 대법원은 오는 9일 체포방해 상고심 선고를 생중계하기로 결정했다.\n\n광주광산경찰서는 '장윤기 사건' 증거인멸에 관여한 수사팀장에 대해 구속영장을 신청했으며, 피의자 아버지가 경찰이라는 사실을 조직적으로 숨긴 정황이 드러나 윗선 개입 여부가 수사의 핵심으로 떠올랐다. 국민의힘에서는 장동혁 대표가 전한길 역할 제한·조경태 포용을 골자로 한 통합안을 검토 중인 가운데, 조경태 의원이 강하게 반발하며 당내 갈등이 계속되고 있다.\n\n삼성전자가 분기 영업이익 89.4조 원을 기록하며 엔비디아를 넘어 글로벌 1위에 올랐지만, 코스피는 오히려 8% 폭락하며 서킷브레이커가 발동됐고 삼성전자·SK하이닉스도 9~10% 급락했다.\n\n스포츠에서는 41세 호날두가 스페인에 극장골을 허용하며 눈물로 사실상 마지막 월드컵을 마쳤고, 이강인은 PSG를 떠나 아틀레티코 마드리드로의 이적이 임박한 것으로 전해지며 공식 발표에 관심이 쏠리고 있다.",
+    "period": "저녁",
+    "generated_at": "2026-07-07 20:25"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "4대 정유사 26조 담합 의혹·이병태 '5·18 성역' 발언 논란 사퇴·호남 반도체 산단 광주 군공항 부지 확정",
+      "summary": "삼성전자 2분기 영업이익 역대 최대에도 코스피 급락 · 윤석열 체포방해 상고심 선고 생중계 결정",
       "keywords": [
         {
           "rank": 1,
-          "word": "트럼프",
-          "count": 3,
+          "word": "윤석열",
+          "count": 2,
           "articles": [
             {
-              "title": "전쟁 나자 단톡방에서 \"트럼프 만세\"‥4대 정유사 \"26조 짬짜미\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIODlpaXJNV1NQc2lzZGR2LTgwUVczOHBsSUlwaklna01samlKRDA4VnhaNmVZdFJGTG9YRkRqVEhwcm44SlNPZVoxUF9vWmZYdHNocGtrTkNGb2FGeFNuaGZ2VHdtN014dVcybUJVYVRnQnE4QTlaRw?oc=5",
-              "source": "MBC 뉴스"
+              "title": "대법원, 9일 윤석열 ‘체포방해’ 상고심 선고 생중계 결정",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sbE03OHczUGVkd0RLdGdPZU81ZFJ0RlNFVGI2M2lkcUdZZXI2RDVPVFRJU29yUmFVRmY3YmNVRlB3RG14R2loenNKX1FwazJkdVFURw?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "전쟁 나자 단톡방에서 \"트럼프 만세\"‥4대 정유사 \"26조 짬짜미\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jNGZxNDRxTkFpQjAyNUxGdzd1MmpzeUp4QXI2SkNIdno5RVJtcUxydDU4WDI0WW9Ecm9QY283elRtbWdYZFktaEktTlM0d0k?oc=5",
+              "title": "윤석열 \"박영수가 조우형 봐달라 했으면 즉시 구속\"... 핵심 의혹엔 \"모른다\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0VFg1ZzhqSnpYQVJvZTJtcnhOMk9kbndyS0JSUlpoMVFzVk8xM0lxOUJMblJNaFdtejN1bkVXcS1WdVNVOUtEcHpXZXZlOGs?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "전쟁에 “트럼프 만세” “2조 벌듯”…4대 정유사 ‘유가 담합’ 기소",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1dE5DNVpGejR0SE1xTktkejdNeDZmWGR4RHBuZUdkODFsemd2Rldab01IUzRiNmU5YXhLN0RuUnlQRkxmTnMyczhlWmxhbEFjcHZZZ0c3OS1ybXM?oc=5",
-              "source": "KBS 뉴스"
+              "title": "'증인석' 윤석열 \"박영수가 조우형 봐달라했으면 즉시 구속했을 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YOXp5c3dMRGtOQXh4Q1ZSeHJLRC1CUlpkcGZGSk0yeFctbi1LcVRwZVk0QVlEN0hKTXpPOFRxREV2bWlvTUpSTm81OFc4THd0Nkt1cVBPLVowd2hUOWlNVtIBeEFVX3lxTE5pRWRPOTIzamtTN2hSc0Vma1NjbEdtdXRnV1dTM0JYNUhDRDdzTHVESXVSNzRDQWlCRTU1ODc5dFJKWFVHSXByV2NfQ2Z3bWxGeG1Jdm9OdTM1SUZrWDFaTUVRaVItMzhhbnQxMloySkRzWnBya2FobA?oc=5",
+              "source": "뉴시스"
             }
           ],
-          "description": "국내 4대 정유사가 러-우 전쟁 발발 당시 단톡방에서 '트럼프 만세' 메시지를 주고받으며 유가 담합을 모의했다는 혐의로 기소됐다. 검찰은 이들이 조직적으로 가격을 조율해 약 26조 원 규모의 부당이익을 취한 것으로 보고 있다. 전쟁이라는 외부 충격을 틈탄 대형 담합 사건으로, 에너지 시장의 불공정 거래 관행이 재차 도마 위에 올랐다.",
-          "headline": "4대 정유사, 전쟁 틈타 26조 담합 기소"
+          "description": "윤석열 전 대통령이 증인으로 출석해 박영수 전 특별검사의 청탁 의혹 등 핵심 질문에 '모른다'고 답하며 주목받고 있다. 윤 전 대통령은 '박영수가 조우형을 봐달라 했다면 즉시 구속했을 것'이라고 강조했다. 한편 대법원은 오는 9일 윤석열 관련 '체포방해' 상고심 선고를 생중계하기로 결정했다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "윤석열, 증인석서 핵심 의혹 '모른다'"
         },
         {
           "rank": 2,
-          "word": "성역",
+          "word": "수사",
           "count": 2,
           "articles": [
             {
-              "title": "‘5·18 성역' 논란 이병태, 靑 권고에 자진사퇴",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZGhDYzE5ekUzSUxMQVhQY1lvLUhIMVE0Y0pVVHgyOFhEWm9hQy01OVZNdk9ZY0xDREdpdWhlYmZnckxxWFdiNXpwbDdrendPYjFiOUVMVmhWN3dnSHg1YXgtS1BLYktzTG5mNktIWjhya0xyc3M3c0FaRHhUbS1sSG9ZZkIwY201OERQY0hldmI?oc=5",
+              "title": "'장윤기 사건 증거인멸' 광주광산서 수사팀장 구속영장 신청",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uY0hOSEZUVHZ6MWpfUUVTM05mU0J3eTNOMEhTNFFkaGNaMTJ0SVpSWkFVbmVEZUVrQkthSFYtbXNLZnNscV96V3N6aDJLbDU2Tk51RnRQZ1dudEI1RXJ2Ty16Q3RaZlQzSzFYNFgzem96SEpvOFJJ0gF3QVVfeXFMTXBLVnhfWU1VNm5kSUdwaHJQTk1yTUFUeXBKLVAyb3E2RERJNTRGSjlHYmEtQUpxMTk2YmV2VGkzSUVrRWV2N2wtaWVVWXUtTGotSzcxY0JEelU5WlJvTEZicm1lVjZrZnE2T3NZYm9ZUXJfR3ZDb1k?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "“장윤기 아버지 경찰인 거 모르게”…‘윗선 조직적 은폐’ 수사",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aUlpWZ2o5UEhPTFJmekhQNVdpT0dvVUJXZGt1bDFHcXMxTE9LYjFYbXdwdmVMUjM0OHBMQzBSalFsRHNIUmdHb2tJaFM4TGgtbDlWd2ZYZXBJOU0?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "견제 안받는 경찰의 위험성... 그대로 보여준 ‘장윤기 사건’",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcG5HdUZ2eF9jdk9MZU1PSmxpUXVNRVFLZ29mNV9FSW1Sby1wY3AwcWdqV29hYjhZYVYwMHlVcEFuU2wyZ1dpZ3JTWTdGWlRPVUZYd1U0cFBvanBkWEpmU3RqR2hJVkhnUFNRdTg5VVhLWDA0U3JaVm5YRF9EZ2Vyb0RlT1J2dw?oc=5",
               "source": "조선일보"
-            },
-            {
-              "title": "靑 경고 이어 사퇴론까지 나왔다…이병태 “5·18 성역” 발언 논란",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KY3RwR0piRVZEMTBQMGJ1MjhXY3dfenk0Wldqa2Nzd0pUT0l1X3ZhelU4RFk1VnFLX3dzRUNWdXk3cV9FeG96RGdZTmx5TkQtc0Q2anpB?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "“5·18 성역” 이병태 자진사퇴 일축…박지원 “빨리 사라져라”",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uNDdqTFZyQklicE9Lb1Jxa1VHV2NHMjFkRExKVEl2amcwaUhHLURvU2lYblNzR1Fmcm8ySnl1SHNBM0VFNDBIa25pZVNiQWgzSklGVmdNZlVSc09CNS1XZGRrSWEyQWpLVkhpZWxfUkdrX1VF?oc=5",
-              "source": "한겨레"
             }
           ],
-          "description": "5·18을 '성역'으로 표현해 논란을 일으킨 이병태 전 대통령실 인사가 청와대 권고를 받은 뒤 자진사퇴했다. 이병태는 자진사퇴를 한때 일축했으나 결국 물러났으며, 박지원 의원은 '빨리 사라져라'고 강도 높게 비판했다. 5·18 민주화운동 관련 발언이 공직 인사 논란으로 번진 사례로 정치권의 거센 반발을 불렀다.",
-          "headline": "이병태, '5·18 성역' 발언 논란 끝에 자진사퇴"
+          "description": "광주광산경찰서가 '장윤기 사건' 증거인멸에 관여한 수사팀장에 대해 구속영장을 신청하며 내부 은폐 의혹이 수면 위로 떠올랐다. 보도에 따르면 '장윤기 아버지가 경찰'이라는 사실을 숨기도록 한 정황이 드러나며 윗선의 조직적 개입 여부가 수사의 핵심으로 부상했다. 견제받지 않는 경찰 권력의 위험성을 보여주는 사례로 지적되며 여론의 비판이 이어지고 있다.",
+          "headline": "장윤기 사건, 경찰 수사팀장 구속영장 신청"
         },
         {
           "rank": 3,
-          "word": "충돌",
+          "word": "장동",
           "count": 2,
           "articles": [
             {
-              "title": "김민석 출마 선언 첫날부터 정청래와 충돌…\"네거티브 안 했다\" |",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TYnM3ellwZzdxLTU0SllNVHdXbjRTY2xlS1I5c0haUF80elFTdmVqR1VURjZWSXZ1U1doSlJGR2RzT3FGUGc4bDNwR1Brb054SmRmYzd2V1pRS0hYQlZtVHJPc1VWY29LY0JEajF3?oc=5",
-              "source": "주간조선"
+              "title": "조경태 \"징계 실행은 국민의힘 해체하자는 것\" [모닝콜]",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwWmZ2YVBfeXNaVnExNTd3Zjg2MmozXzhIbUJTZkZiU0g4cXdLY2Z1RFdralVydngxZVhlNjlJRi1LUGtfWHV3MzFpWVVzbmY2THozbHRuOGYyM0FuazItSHR0VFdobUVYTi0zMnRQZDI2R3hBY0wyeTFR?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "친청·친명 충돌…“김민석, 계엄 해제 불참” vs “한동훈식 꼬투리 잡기”",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyN0V2ejE2WmZBblJXT25rRFZTNXNoOWZ0RHB1cWVUTXVUMUdTa2xsZHMyclpLOGtIZU11bU5CMlpqSk9Bd3VaS3I3bmV5T0FmaEpBNy1HbE5QUk5lRzFYUDA5TXRPT3NneFhXRllMZzdxbG03YjlZ0gFmQVVfeXFMTXVEeGM0Y3A2QW5Zb2ZQdDRNZE1PNkFmY3ZPNjJBeUdUUHZNNEZnUWE4Q3RabjZmSzUtZkZidFFHMDNCV3JXajlyRENUak5ORjJKWVQxWE85RTFvU0thLTZQT29WdkJR?oc=5",
-              "source": "동아일보"
+              "title": "장동혁 통합 ‘전한길 역할제한, 조경태 포용’ 가닥",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFWDZ3UFh3bm93RnZYR0ItLVBTRW5WaTRwQXA0R2piS3Itd3lPajNiMDN1T1ZydzJobDlndnZEMGpJRmJ4NnlqNDRnakF2ZXRC?oc=5",
+              "source": "문화일보"
             },
             {
-              "title": "김민석, 광주서 '정청래 저격' 출사표··· 친청계 \"유체이탈\" 정면충돌",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wR2xDZlpXLTNDVzJUQ29Scl84QWlrZm42TlBYd3hDWDJDdmpWSy1ibmdacXVrRkRsbUczN0g1Y2ZHSXVYajRDV1VxeW1BY2h0M1c4clZVMWZJaVBBVjRWcjY3YXhGa3BMWm4xOURvT1AybGvSAXNBVV95cUxPMEdsQ2ZaVy0zQ1cyVENvUnJfOEFpa2ZuNk5QWHd4Q1gyQ3ZqVkstYm5nWnF1a0ZEbG1HMzdINWNmR0l1WGo0Q1dVcXltQWNodDNXOHJWVTFmSWlQQVY0VnI2N2F4RmtwTFpuMTlEb09QMmxr?oc=5",
-              "source": "한국일보"
+              "title": "김남국 “현지 누나한테 추천”…조경태 “윤석열 최고형으로 다스려야” [금주의 말말말]",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aQ195SmtSaEIyWlJ6ZkpRQ3MtS2ZZMVRKSnQxYjVhRWprYlZ6b0pjZW8tQktuc1RDcWY2ZTdIT0l0RHVvLWp2QjRpX0pJOUo5QkpHY1JySVnSAVRBVV95cUxPUTViZ2tQcGZKd000bWItcy04Rnl4ZkZMZ2NuQ2tYM0o5anBGSnhlUUFvRzVkV2UtYmRNMS12ZmZNNmRXZUlNNEtRbTF3cnRQYS1MMzE?oc=5",
+              "source": "세계일보"
             }
           ],
-          "description": "더불어민주당 김민석 의원이 출마를 선언한 첫날부터 정청래 의원과 날 선 충돌을 빚었다. 김민석이 광주에서 '정청래 저격' 출사표를 던지자, 친청계는 '계엄 해제 불참' 전력을 문제 삼았고 김민석 측은 '한동훈식 꼬투리 잡기'라고 반박하며 갈등이 격화됐다. 친청·친명 계파 간 갈등이 경선 초반부터 수면 위로 떠오른 양상이다. 오늘 처음 등장한 키워드다.",
-          "headline": "김민석 출마 첫날, 정청래와 정면충돌"
+          "description": "국민의힘 장동혁 대표가 당내 통합 방향으로 전한길의 역할 제한과 조경태 의원 포용을 골자로 한 방안을 검토 중인 것으로 알려졌다. 조경태 의원은 징계 실행 시 '국민의힘 해체'와 다름없다며 강하게 반발하고 있다. 당내 갈등을 봉합하려는 지도부의 움직임과 반발이 동시에 분출되며 당 분위기가 주목받고 있다.",
+          "headline": "장동혁, 당 통합 방향 '전한길 역할 제한·조경태 포용'"
         },
         {
           "rank": 4,
-          "word": "반도체",
+          "word": "삼성전자",
           "count": 2,
           "articles": [
             {
-              "title": "청와대 “호남 반도체 산단, 광주 군공항 부지에 조성 결정”",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sZmhJaHRyZ2FMckkzYzdxZURLbzJabzZ5aWtnVlBZYUZoU3NPY0k3REdmM1ptaDQ2WE4xSHhKQ1NiZ2IwMzVFbHBBd0M5REtWMVpEN0ZDeVRrVG9BSXVXSUF2Y0hDRXVsR2dN?oc=5",
-              "source": "한겨레"
+              "title": "삼성전자, 2분기 영업이익 89.4조…'역대 최대' 또 경신 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rdmxKSWlnbl9JeEFoTE1tWUZxZnZMOGtNV0R6d0g4OF8zQm5VYkhaOFJVR3NkVV9adTkxVGwwUk1Sdzk5RExKbWxwUEVmSEhwUVQtRl9oNldQQWxSMmQwTTh3eGRHdDJLRm1VatIBckFVX3lxTFBnWnRVbllBWXRKeHpHNERmalIyQ1Z1U255X1BPLW9Nd3lPZXhza0xPSGI0OS12YVZPUmZpM0lySGdscU1MUHl4Um9fdWhOYlVYSHhGTGRrdFdIRGFMNVgyMkxRal9yaTJjQVZ1WjY2SW9vUQ?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "靑 “호남 반도체 클러스터, 250만평 광주군공항 부지에 조성”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JcU9HYVJzY0EySll3YUE5Nktia1NtbWF1cmZwbmlOU29xQ1ZQU2pMWGVxT09GbzFqZjduUlRsS3I5b1phWUJSZkx4M0JISTVsQXI3NnJn?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "광주군공항, 반도체 부지 지정에 탄약고 이전 무산되나",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU0tyYjFwVUt5dFVpNXlLQUNzc0JXWThQNnF3RHFPUTFaT2ZQY2psUGVlY2EtdGEwQWlmVWZnOVVtOTVZV3RPeGVPTkZLNXJ0TDE2cDM4VlFPWVZvMTkzNWhIRWJZclFuSmRQaU0xLU5YRjY3LUozc0dUdjIwd2p0Z0UwcTFEUQ?oc=5",
+              "title": "삼성전자 2분기 영업이익 89.4조... 엔비디아 제치고 세계 1위",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS3ZPQ1dLTHo0Z1VneERuQ0huRkZXQWxqemE4ZlNPcmhnXzYzQmNzOHpBX0tmNVdzSWdMNkNtVFVyS3pVVHBjcm1GWGQwYVFYTjh6NFpwa1Nod0NFNE9kbjJ0OERKTUdLSkhlT1JUUHQ0N3BXak1OcTd6dHNueGx3aXMxUQ?oc=5",
               "source": "조선일보"
+            },
+            {
+              "title": "삼성전자 역대 최대 실적에도 코스피 4.9% 급락‥서킷 브레이커까지",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEeUV1eVdhYU5pcnRLUTRBY0lMREFTX3MyU1ZhLTlrUGI3TnBpS0RFbUFRWnZKSlRScFBlQ0FMNGJsTTVJaUVGelg0TURaMENyYjRXS09SeGdKdE4xLXlxU2xpWndSRGF3cWpZN19wZFpaY3kw0gF0QVVfeXFMTUVRUW1EcXpwRVItSHFCdUZVbTkwTGRGVzVhVUVUaktZWkw0SldDOHRCcWtwaVQxQ2ZrRGNRemF1aEoxSnprU2s2UkE4LVdnUklUTGE1RmxOQ0pYb0puUk45Y2VxLTJtOVFzRXpuZEEwcXNHQUk?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "청와대가 호남 반도체 산업단지를 250만 평 규모의 광주 군공항 부지에 조성하기로 결정했다고 발표했다. 대규모 반도체 클러스터 유치로 지역 경제 활성화가 기대되는 한편, 군공항 이전과 맞물려 있던 탄약고 이전 계획이 무산될 수 있다는 우려도 제기됐다. 국가 전략 산업 입지 선정과 군사 시설 이전 문제가 복잡하게 얽히며 후속 논의가 주목된다.",
-          "headline": "호남 반도체 클러스터, 광주 군공항 부지에 조성 결정"
+          "description": "삼성전자가 2025년 2분기 영업이익 89조 4천억 원을 기록하며 역대 최대 실적을 다시 썼다. 이는 전년 동기 대비 1,810.3% 급증한 수치로, 엔비디아를 제치고 세계 1위에 올랐다는 보도도 나왔다. 그러나 역대급 실적 발표에도 코스피는 4.9% 급락하고 서킷브레이커가 발동되는 등 주가는 오히려 큰 폭으로 떨어져 시장의 의외 반응이 주목받고 있다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "삼성전자 2분기 영업이익 89.4조, 역대 최대 경신"
         },
         {
           "rank": 5,
-          "word": "정상",
+          "word": "코스피",
           "count": 2,
           "articles": [
             {
-              "title": "트럼프 대통령, 6일 밤 트뤼키예로 출국…NATO 정상회의 참석",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTDBsTHJVblBOZWlGQlMzWjRPQVZpS0NsQjYtY0N6RDl5M04xSjNHd3lxY3BtblBnOUZ4UmxIWGp5UzVXX0dHQ0lUdEhjN2VzT2JOOThtMGl0b19hcHByTG1VeTc3aTFPaUVIT01COWJrQklrX0FtRGREd0N3X1BjdnQ3SmZZMzE5eEJVMEhOMDlSQnRyOTVTTdIBmwFBVV95cUxNWE5TZWNMYzNBUm9VYVplekY4Yy1WWEFYLTZ5TTh4SE9SZ0IzZ1lTZHlieEV4cEZBVFM1MVJrbEdMTWhpclhNQm1vTE9ralpHVlYzWEZvM0kwNUVlOEtQdEZ5b25jZVJpVXQ5ZEpuYmZiS1NTU1RRV3Zzb3dVZWV3YmtBWXRzcjdaOG5WYkRpUzdKVmJ4X3g3VVh5RQ?oc=5",
-              "source": "VOA 한국어 홈페이지"
+              "title": "삼성전자 역대 최대 실적에도 코스피 급락 7,500대까지 밀려‥매도 사이드카도",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wdlFIMDZCZjBvNHYtaWU5ZlNNZWJFR29BT0FJMnh3azdKNHozR2x0R2M5amFHQVRtSnlfenhabmdjaVdkMHNEbTRfZ2pMQUpnNHg1b3liNFBSUkpqdHI0Q0NGMnlfVmNMWVNnYk5mdDlpd29W0gF0QVVfeXFMT3RDbS1tVEtyT01QS2R5S1JaekYwQkI3c25LdzA0bUJoRE9lelNoR0x5dDA0Q2loNXJmbVItc0ZaQVFTM2V6Wi13WkRtYzVuM0x6RC1XZmliNGU4WGhUV0c1TEtOMFdJdmdRb0l6YWlpdVhpdVk?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "트럼프 \"시진핑, 9월 24일 방미\"…정상회의 앞둔 나토, 안팎 신경전 [글로벌 뉴스픽]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LWEtZSTVxSFRCaEZGa3RCRDFCa3ItWkpjN0taLUs2UmswQ1ROdFo4cnJlOUtjNXF4SmtGVTFTNWZON0Nfb2JQRml1cjhqTEE?oc=5",
-              "source": "v.daum.net"
+              "title": "삼성전자, 역대급 실적에도 '주가 폭락'...원인은?",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5RzVfR1d2cnM5OVFQV1ZuOWhHak9IVHdkd2hIM1RlazBtWXliaVdSeG0xRE5CSGVtbUZDaUtSU1F4eWh4QlZoMGRUMWJ2TXg4R2wyS1JnMFUteHIxN2c?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "트럼프, 나토정상회의서 수조 원 무기 세일즈 나설 듯···“동맹 아닌 돈벌이 수단”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZVloaGhmcng5ZTJ5QlJpR1BvYzhWMm1fZ2k2ODV6VnhSR1AxbjV0NWxQRWtuUlI2dERWQS1fS3ZiSDVLaHgyQkR4SXduQjVTUHQtY2h0S2hBQdIBX0FVX3lxTFBVYTFVT2FneDNjbEluc2t5VlBrVDZXcVdoc3FWc0Z0LUhlMXJybTJjUHlCNzRGUW9yXzNhMkowRmhVbnZBa2s3LWdzMW1UQWV0UXI1amdTZHo3b1VXWTRZ?oc=5",
-              "source": "경향신문"
+              "title": "삼성전자 2분기 영업이익 89조4천억원…작년 대비 1천810.3%↑",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TRERDenU4SzRJbGM5R2NGQ2tCZ21pcFRiN1JtUnkxTFNwV0thcVFoS2pOZmVRMFdSZ19hbnhrNTZTQ2NHV3ZCT1Vjbzh0bHlnRlNUZ2U1YWdzTjTSAWBBVV95cUxQbHpmNEU1eXdWUEFJNVdOOTB5OEctWVM3NnVBZmtlWm1Rb2tPQUdVTkRPQ056U19lYW1fdU80dHdLOFpRMDBzRkJUYUpUWEJrTUdIM3R5bGlNUXl0b3hMclc?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "트럼프 대통령이 6일 밤 NATO 정상회의 참석을 위해 튀르키예로 출국했다. 회의를 앞두고 트럼프는 시진핑의 9월 방미 일정도 공개했으며, 이번 정상회의에서 수조 원대 무기 세일즈에 나설 것이란 관측도 나온다. NATO 안팎의 신경전이 고조되는 가운데 동맹 결속보다 실리를 앞세우는 트럼프 외교 행보가 다시 한번 주목받고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "트럼프, NATO 정상회의 참석차 튀르키예로 출국"
+          "description": "삼성전자의 역대 최대 실적 발표에도 코스피가 4.9% 급락하며 7,500대까지 밀렸고, 매도 사이드카에 이어 서킷브레이커까지 발동됐다. 호실적 발표 직후 오히려 주가가 폭락한 배경에 관심이 쏠리며 그 원인을 분석하는 기사들이 쏟아지고 있다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "코스피 4.9% 급락·서킷브레이커 발동"
         }
       ]
     },
     "경제": {
-      "summary": "트럼프 요청에 월마트 가격 인하 · 코스피 급등락 속 외국인 복귀 여부 주목 · 이재명 정부 보유세 카드 검토",
+      "summary": "삼성전자가 2분기 역대 최대 영업이익을 기록했으나, 코스피는 8% 급락해 서킷브레이커가 발동됐다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "가격",
-          "count": 3,
+          "word": "삼성전자",
+          "count": 4,
           "articles": [
             {
-              "title": "트럼프, 행정부 요청으로 월마트 가격 인하 발표",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OeDJ5dGljNnpITE45SjRqcmkza0t4cExLb3A4V09WWFVKc0hDUEdjZ1lkVHlJYTFxNW9nWm1iWXBQVHVRN1pySnNRU3Blem9OeVFaN0ZZZmFuVWxpaTd4TXItT2VFdzg0Ymc?oc=5",
-              "source": "Investing.com 한국어"
+              "title": "삼성전자, 2분기 영업이익 89.4조…'역대 최대' 또 경신 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rdmxKSWlnbl9JeEFoTE1tWUZxZnZMOGtNV0R6d0g4OF8zQm5VYkhaOFJVR3NkVV9adTkxVGwwUk1Sdzk5RExKbWxwUEVmSEhwUVQtRl9oNldQQWxSMmQwTTh3eGRHdDJLRm1VatIBckFVX3lxTFBnWnRVbllBWXRKeHpHNERmalIyQ1Z1U255X1BPLW9Nd3lPZXhza0xPSGI0OS12YVZPUmZpM0lySGdscU1MUHl4Um9fdWhOYlVYSHhGTGRrdFdIRGFMNVgyMkxRal9yaTJjQVZ1WjY2SW9vUQ?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "트럼프 \"월마트, 정부 요청에 가격 인하…다른 업체도 따라야\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LNzE5dXlqUUdyTXN6dUVnZjhNbHhkQkhDaFJBcUs0c1hYRmY5WUMtR1Yzakt2TFp4X0QtLTJYQldqUUhXSnI4QjhoR1JvdXM?oc=5",
-              "source": "v.daum.net"
+              "title": "삼성전자 2분기 영업이익 89.4조... 엔비디아 제치고 세계 1위",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS3ZPQ1dLTHo0Z1VneERuQ0huRkZXQWxqemE4ZlNPcmhnXzYzQmNzOHpBX0tmNVdzSWdMNkNtVFVyS3pVVHBjcm1GWGQwYVFYTjh6NFpwa1Nod0NFNE9kbjJ0OERKTUdLSkhlT1JUUHQ0N3BXak1OcTd6dHNueGx3aXMxUQ?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "트럼프 “월마트, 상품 가격 인하키로...다른 기업도 따라야”",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BVHBaX1R3UDFIRlBJdlVnYW1mNkpJSVdlSlBSeHRZNmRXb2EweF9ZamNtZHFlUnZRZmdjcUs3VFhRZ1FsLVRDa0VoUFBqT0lSclHSAVNBVV95cUxQU0FDMEpHUk54UFFBX21Db2ZUazNLMElyWnJ3dWNzYnI4anlBbGJHcW9JblJlVERndHBVYzdmTzlaSkJUVmFHbFpqYVFGcnlEdUpqRQ?oc=5",
-              "source": "서울경제신문"
+              "title": "삼성전자 역대 최대 실적에도 코스피 4.9% 급락‥서킷 브레이커까지",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEeUV1eVdhYU5pcnRLUTRBY0lMREFTX3MyU1ZhLTlrUGI3TnBpS0RFbUFRWnZKSlRScFBlQ0FMNGJsTTVJaUVGelg0TURaMENyYjRXS09SeGdKdE4xLXlxU2xpWndSRGF3cWpZN19wZFpaY3kw0gF0QVVfeXFMTUVRUW1EcXpwRVItSHFCdUZVbTkwTGRGVzVhVUVUaktZWkw0SldDOHRCcWtwaVQxQ2ZrRGNRemF1aEoxSnprU2s2UkE4LVdnUklUTGE1RmxOQ0pYb0puUk45Y2VxLTJtOVFzRXpuZEEwcXNHQUk?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "트럼프 대통령이 행정부 요청으로 월마트가 상품 가격을 인하하기로 했다고 밝혔다. 트럼프는 다른 기업들도 월마트의 결정을 따라야 한다고 압박하며, 물가 안정 의지를 공개적으로 드러냈다. 미국 내 소비자 물가와 관세 여파가 맞물린 상황에서 나온 발언인 만큼 유통업계 전반에 파장이 예상된다. 가격 키워드는 어제 3위에서 오늘 1위로 올라섰다.",
-          "headline": "트럼프, 월마트에 가격 인하 요청"
+          "description": "삼성전자가 2분기 영업이익 89.4조 원을 기록하며 역대 최대 실적을 다시 경신했다. 엔비디아를 제치고 글로벌 영업이익 세계 1위에 오른 호실적이지만, 정작 국내 증시는 코스피 급락과 서킷브레이커 발동으로 요동쳤다. 반도체 부문이 실적을 이끈 반면 완제품 등 비반도체 부문과의 격차 심화는 내부 과제로 남아 있다.",
+          "headline": "삼성전자, 영업이익 세계 1위 등극"
         },
         {
           "rank": 2,
+          "word": "코스피",
+          "count": 4,
+          "articles": [
+            {
+              "title": "코스피 8% 급락에 서킷브레이커 발동‥삼전·닉스 9~10% 급락",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kRzMtbnJ6emxXSmUtd25aVXJYS1BqX0NhNno5VXBUdlFKNm9nbUdadzdZd19KQTV2UkdhY2RuRUZSb1M5YmdleUJhMlFVcmdudUtGRXlzRERNNmtxRUJyV2phWlVZT3FxQlVUcGVycU9Bbm5I0gF0QVVfeXFMT3l1VjVpbGU1Z0gwOFF5RHh4SVlrTW1ZY20xUE56cUZxbHA0YTNNWHU5NjctZnNGV3RBWGlCRVA4dWU0ck9tbTl4MUlfSnNDQndxbjh3UldJcXJUSVhLLUpuSkpiY1A3c3FEWnBOcG0zWVhRT0s?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "삼성전자 '세계 1위' 실적에도 코스피 또 급락...왜?",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WZFBYbldyRVJWdVVzVFNYX19jZmdJQk1YU2pCTTVGVXZSMUtiOGJYSFB1UVBIVWpjbEFCSGF3MkNfcWRVWmFleDhYRWhfQ09sTTNkenI0bXpJcXZpVFE?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "월가 “코스피가 미장 움직인다”…AI투자 2년은 더 간다는데 [특파원 인사이트]",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OV0hjZDVwVzc1MEdjUU5EYnY1RmdqUW9yX1J1bV8wTUlrX2ppQTFiZ1Iyc01nU1JaYUljUFppRnV5ZHVRYjVnNUVIOFhuTWI5T2c?oc=5",
+              "source": "매일경제 마켓"
+            }
+          ],
+          "description": "삼성전자의 역대 최대 실적 발표에도 코스피가 8% 폭락하며 서킷브레이커가 발동됐고, 삼성전자·SK하이닉스는 9~10% 급락했다. 호실적 호재가 시장에 통하지 않은 배경에 관심이 쏠리는 가운데, 월가에서는 코스피 움직임이 미국 시장에도 영향을 미친다는 분석이 나왔다. AI 투자 사이클이 2년 이상 지속된다는 전망도 함께 제기되며 증시 변동성의 의미를 두고 해석이 엇갈리고 있다.",
+          "headline": "코스피 8% 급락·서킷브레이커 발동"
+        },
+        {
+          "rank": 3,
           "word": "반도체",
           "count": 3,
           "articles": [
             {
-              "title": "\"중국에 반도체 장비 유출\"…美 의심에 발칵 뒤집힌 나라",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tVUY3NnN5WWkycUp4VHVKbkFkSzE0QkVGQ1daYW95Tk9uZHhHU2ZIT3pWQVdObmh5NC1VeWVIUVZKSWdqdVhrUVVZLXdhUjg4a0NGSGJEa0ozZ9IBVEFVX3lxTFBCT1RIWHlUREp5X1NDeFcydHpPekVRbXpXWUE5OUJQbzYyMTQweDlGZUJYZUM4X1F0VE1xX2FxUEcxaUk0UGE0bVlmVGpkRTRyb0Yxdg?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "靑 “호남 반도체 클러스터, 250만평 광주군공항 부지에 조성”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JcU9HYVJzY0EySll3YUE5Nktia1NtbWF1cmZwbmlOU29xQ1ZQU2pMWGVxT09GbzFqZjduUlRsS3I5b1phWUJSZkx4M0JISTVsQXI3NnJn?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "\"안 팔면 우리가 만든다\"…美 제재, 오히려 中 키웠다 [중국 반도체 굴기 2026 中]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tZlZkOFp4RVRLa2ZYYTNsQXh2ZHZjcy14Vy0wVERXLWdqZXZ1eXo2eDVvckt0SWJ5bmpkQmxiX3hNaGR4QzdFM09CWm80aWc?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "미국이 반도체 장비의 중국 유출을 의심하며 특정 국가를 압박하는 정황이 전해지면서 긴장감이 높아졌다. 한편 미국의 대중 제재가 오히려 중국의 반도체 자립을 가속했다는 분석도 나왔다. 국내에서는 광주 군공항 부지 250만 평에 호남 반도체 클러스터를 조성한다는 계획이 알려지며 지역 산업 육성 논의도 이어졌다. 반도체 키워드는 최근 2주간 꾸준히 상위권을 유지하고 있다.",
-          "headline": "美·中 반도체 갈등 다시 격화"
-        },
-        {
-          "rank": 3,
-          "word": "평균",
-          "count": 3,
-          "articles": [
-            {
-              "title": "다우 평균 5만3000선 첫 돌파…뉴욕 증시 일제히 상승",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEs0c1N0Q09jcnBuRVFPT1ppRFRFaENJX2cyN1pHMTYzSHNjV01UR3BnTzduUlNZYm5VVF9xWlludDh2X3BOU3ozd2R6c1ZWdGN5VzdLa3FLSkVmU1ItRTdjNUIzeWV3SEY4eUgxVzRDd1pxZUZrdlRBUkE5eDMwVG5sUTJzNjNuWjFRanFyNlZWdGRDT2hUUGZTS3FMQQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "\"평균나이 33살 기막힌 조직\"…편의점 히트상품의 비밀 [권용훈의 트렌드워치]",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIRkNGcjJ1Tkc3NlNDUWExUFFCbFE2VWtEeDlHNC1FUUJ0NlJlczV2VVJPZGJidDdJby02WXRKVzZVSVJla0htaWJETUl4N3JWRTNkWTBYQ0lvUdIBVEFVX3lxTFA0azRnRk1RbEJEbDFaYnlHUnVyam5YdmxHc1RBYkdKejd1Vk11ei1WQ09uT0dRbHFJblM2MjJaV3g3clR4QU0tNGRrYl83c2tONGxqZg?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "1. 전국 평균 1,898원 2. 휴대전화 개통 까다로워진다‥'안면인증' 의무화",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZUWNfQjZDSUlVcUhncDNzdTI1MERzVkkxUFJaU3doOGphN1BJZ3hPWFYwZFowUlFRQ0JSTGFva0g0eG9pYVg3dkRtTDhRNWdWaXJjXy0tZzV2c3RtN2Q1SnFTbW8teVl2VXdjOTctMDd4aW5Mel9iMg?oc=5",
-              "source": "MBC 뉴스"
-            }
-          ],
-          "description": "다우존스 평균 지수가 5만3000선을 처음으로 돌파하며 뉴욕 증시가 일제히 상승했다. 국내에서는 전국 휘발유 평균 가격이 1,898원으로 집계됐고, 편의점 히트상품 개발팀의 평균 나이 33세라는 이색 사례도 화제가 됐다. 오늘 처음 등장한 키워드다.",
-          "headline": "다우 평균 5만3000선 첫 돌파"
-        },
-        {
-          "rank": 4,
-          "word": "코스피",
-          "count": 3,
-          "articles": [
-            {
-              "title": "코스피 -3% 찍다가 8천피 '쑥'...\"내일 삼전 실적발표\" 운명은 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uYnktel9iN3ZlYlAxV2VMZ18tRVh1WkJqdFVIS2ZvUlRoSWxqc2lxanZOUVIxcHVVX0Z0V3VCR09JZ2JNM1N6bmhYNTg4VVY2cDlEUTlHZ2N1YnVfdllqN29XY2tYSndq0gFuQVVfeXFMUERuMlpVTGV3dERmNUVsaURvV2RlbU1XVWw3bFNLSjZJMlA2OXhYd1NFQ3hIVWJHUkktVEVWckh2aXZPSDU0ZjNCNkVBQmhDSXJoSW10Z2hadGpiZ3lIZmJfMkp5aXhXcC01VENVN3c?oc=5",
+              "title": "삼성, 엔비디아도 이긴 '반도체 황제' 등극…영업이익 세계 1위 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BQmhqN3M5YlFST0lrQUswNE13cV9sMTNMcVJvYnJfYl9TVTM0WllSeHUxTElJeHplSDZJYWI1ZEFnbEhuU2JtWk1KdlRfRnhkTjRvTHo4d3lFcWRMLVRBQVUyRWdhcHJpSWYtX9IBckFVX3lxTE9MVkhHd3lWeXFOUjdnWWxYc0ItUUJVUGpLY0Q0NTRKOG42YUpnRWhCNGcwdkZKbGpiZTNJYTBzZ2VjbmptTlJEWWdmYlhLMXRIdmhGNjhua3JvUHRhUlBTMWFZd282dnZ2ck45YnY3QTFDUQ?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "상반기 코스피 150조 팔고 간 외국인…하반기엔 돌아올까",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OaWpQSHRfbC03dGg0NkVYZHhhX0lkcl8tT1Mtcl9FNWQ4dHI0Z0RXOFRrOEd2SGl1dUNVaUt2UjdWeXZfMEFxRGJMMXo5Vlo5OUVxcE1FSkJsZl91R2V1d9IBeEFVX3lxTE5YajJWSklzcFpJOU8yZVNZaTgwcmN5RnRXbXdpSklDYlpZZlltWDdRNV9hN2dfaWxuMzZfWEFUVmxzT2RLa0NkekRfODBqUDJ2dVNvNjN6b0lqMTZrdF9PMzVxeVdqdGhQbVhVSEhySk1QX3RyUWNsXw?oc=5",
-              "source": "뉴시스"
+              "title": "삼성전자 분기 ‘100조’ 이면엔 반도체·비 반도체 실적 격차 심화···내부 갈등 고조",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGUkNiMkFvRklLNGxqXzlVMVF0czFDXzZrMGZ1QlpmMW16VHRJZldscGZPU3g2U0pqNHJmYjd4cVpld1FVYTdfWWM5RC1vUzVLeGZsTVVFREVPUdIBX0FVX3lxTE5qUlM4dXJEN3J6OEUxbV9KY0RCNWZLTl9ZcEl1ODBjYUtlMUhFdzN5M3ZQQ0FQdThkZXdBQ1hxQTdER2RmM3JXOHZ2aTl3bG5Kc1hfMzBqZVhuY084S2Fn?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "[코스피·코스닥 전 거래일(6일) 주요공시]",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LQXJhNGdZdU5PaWIwbVBqakt2MlpyUVljVVhPNE9pWFF0eGdWTWpLcHlWWVh4bUNjTGFodjVhcExHTGhGS1pFSFR3UVFxQk5adGhQZm9GcmlKZU3SAWBBVV95cUxNTkkxQUNoY3cwQnoyQ3JfamdWVUp5bHRHTWtYRkViUk1fbGVTX0NxaXMwRVJ3bktMYk5JUzA0S1MyQUVyZlhBcUdvUEpQOThROTZPOWl6U215QnpkNnBSajI?oc=5",
-              "source": "연합뉴스"
+              "title": "반도체 덕에 年 영업익 400조 가시권… TV 등 완제품은 '소외'[삼성전자 역대급 실적]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5URlRUbnFyQzI2TDZjX0tPNG9MR2ctQVJYX2hueGR1NWJ0Zkt4bW9MZ3NKY3haLVZFd19EMWJjdG5yeFlqUFpiWlNBRXJRbXM?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "코스피가 장중 3% 하락을 기록했다가 낙폭을 상당 부분 회복하는 롤러코스터 흐름을 보였다. 시장의 시선은 다음 날 예정된 삼성전자 실적 발표에 쏠리며 향방을 주시하는 분위기다. 올 상반기에는 외국인이 코스피에서 150조 원어치를 순매도한 것으로 집계돼 하반기 복귀 여부도 관심사로 떠올랐다.",
-          "headline": "코스피 -3% 후 반등, 삼성전자 실적 주목"
+          "description": "삼성전자가 반도체 사업 호조를 앞세워 분기 영업이익 89.4조 원을 달성하며 엔비디아를 넘어 세계 1위에 올랐다. 연간 영업이익 400조 원 달성도 가시권에 들어왔다는 분석이 나온다. 다만 반도체와 TV 등 완제품 부문 간 실적 격차가 심화되면서 내부 갈등이 고조되고 있다는 지적도 제기됐다. 반도체는 최근 2주간 꾸준히 상위권을 유지하고 있다.",
+          "headline": "삼성, 반도체로 영업이익 세계 1위"
+        },
+        {
+          "rank": 4,
+          "word": "영업익",
+          "count": 2,
+          "articles": [
+            {
+              "title": "삼성전자, 오늘 2분기 실적 발표...성과급 재원 포함 영업익 100조 전망",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oajNfcmtlQ3BuUGhpNU1HLTRJWHJxNElWLTQ2RHBWYmJOWk5LZzhRb0tyTUp5OEt3cTBlNWpOMzdwRldXN1VfVVRESEU3eHpRWGlfbmpUYzdYMm1KRkE?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "LG전자 2분기 영업익 1조5천788억…상반기에 작년 영업익 넘어(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9nLTdSc014YXB1X0dIVDJkUFZ6eGtQcFNjZ2d6TEZqcWFQZHk4bFRjbE9WOU40dXkyMV9tVVRwbzJSV1JoUWc?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "LG전자, 매출·영업익 모두 역대 2분기 최대...로봇·CDU 신산업 가시화",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZX3RVVkx3ckpiLU92U1dZY3dlVW1tUjFxZFl2OTlsajRNUDlTWVJwNEY1Wm56eE1MQmpMclcwSWlBd1c3a3Y1UUpWWXl3SlIxdk0tam9B?oc=5",
+              "source": "지디넷코리아"
+            }
+          ],
+          "description": "삼성전자가 2분기 영업이익 89.4조 원으로 역대 최대를 경신한 가운데, LG전자도 2분기 영업익 1조5천788억 원을 기록하며 매출·영업익 모두 역대 2분기 최대치를 달성했다. LG전자는 상반기에 이미 작년 연간 영업익을 넘어섰으며, 로봇·CDU 등 신산업 가시화도 성과로 꼽혔다. 오늘 처음 등장한 키워드로, 주요 대기업의 실적 발표가 맞물리며 주목도가 높아졌다.",
+          "headline": "삼성·LG, 2분기 영업익 동반 최대"
         },
         {
           "rank": 5,
-          "word": "검토",
-          "count": 3,
+          "word": "브레이커",
+          "count": 2,
           "articles": [
             {
-              "title": "\"세금 안 쓴다\"던 李정부, 보유세 카드 검토하는 이유는",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04aTMxZmtjZnAteS1ZNGxuRGdwMHhhUThsc19naWtRTnIzQWNGS2gxQThfbjktUHpGOVBZU3BveVpqY05TWUhUSzNRMkFHcG5fdDduZ2MwMWZ1a1pQVUlybdIBeEFVX3lxTE50MUsya2dSUmRITlY1aGdXUFZ1dElZZHhfemN6N3ZQYzdFT09UVVZPUGVDbWNrTElnUExmSm81eDJzZktFTzNKTllVdmw3NFlaVURHMkoySTVRZ0NaMEFqOTdVYldUUWVZWHpXZUVTbzYtUTU3TmJVTA?oc=5",
-              "source": "뉴시스"
+              "title": "코스피, 8% 폭락에 서킷브레이커…올 들어 6번째",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aa2pyUU9sMzctdElQSlQwRGVkdXM3WTg2MFJMSDdxVFB6YjRfUlJpc054NE9POUJWV0xCY0dvTThvaGdYZ2t5eTU5LUtRSXBtaUdnRVR6SmxGQdIBX0FVX3lxTFBBQVVmTy1PWmJIMjVFamR4cUNzYXVST2RxbGtCOE9hcGpOdFIzQ1VPby1CMVNkcDlPOGdTLXpLMDZMZkxRNmNvRWFvN0hnYVZRX0hoMVNmbmZTN083R3FR?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "지역별 전기요금제, 도매 2분할·소매 6분할 검토",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YQ0NHY0w5VWQyNkE2RUhscU0yV0NVMzhzQm9mQ1A1VXF5VWdKdHJKYXp6SG9GU0hDTEc5M012SmJpeTJhMDQtS3BtOVpYM0FSQk9xVzg3cnB5ME82RUl1N2dHYWpMazjSAWtBVV95cUxNOFVLMU1qU2d1bTNSV3ZsYWRESmlGWTlfUXBXamFxbXBMeUZEdHMyeXNoUHdQa1M1QzdRcTBpMTVYNFpRTzl1S0dSV3gzVER5RHZZQ3ZEQkJZRXB1VmFVNFU4ZVRESEJxNGF2QQ?oc=5",
-              "source": "이투뉴스"
+              "title": "코스피, 거래 재개…서킷브레이커 20분간 매매중단 해제",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZVGQxX3BkX2dkMklJNjBGZHNlOEZKOFhYNkRJeFVrdTIxSFNtTFhyVnlMU1ZXekZRbjZuQV9sZFVEVEx1UkMtM01fbm9QVm15T0pVd09kUFNDQknSAWBBVV95cUxON0NaVmRJRFVXSUxzaGZWcTNPZVJXTlhHNHY3NjFfazlCMVo3dm10dktPMDB5dWcyWUpGbHZqMFpkdjVqOFVrbGFsaWg5YnNWMTJCU0xMemsxd1ljUHZyY2U?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "“위법 검토” 홍천양수발전소 공사 중단 파문",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jNzdpd0hmRVN1RzNpWjVXeFllRjlmWktiOUpyTlhYWjI3WTI0LWtEWkJlRWdQLVhoXzlyNy1Gc0NVbDUxMUdHT1BCbXhGTDlxcGNyclhNVENMT0FXeHNhZnR5NG95Mmc?oc=5",
-              "source": "강원도민일보"
+              "title": "코스피, 서킷브레이커 발동…올해 6번째 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xUExoZk9IXzBOMTRMd050Wk1KTjN3bmpiaUNvSDd6MXg4X2c0SWZLZDYtV2F2WVlrX1lkamc0c2lVN2RraHRTRDZxek1hem92Y1lCWXh1LW14Wl9YY1dHYnB6Z2FsOGtH0gFuQVVfeXFMUEFvNVZPQVYyWmhqQ3lhM1U2WF9aSFBkUlNnNWlXeEJmUTByQjNRbExwMUlIRG1HVHg0OXNPc0V2RnQ2NklCbmxPNUhnZF9uQmxETGNUd0pKS0VKSjBmU3BvTXowaEhackdPSHF6bmc?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "세금을 쓰지 않겠다고 밝혀온 현 정부가 부동산 보유세 카드를 검토하기 시작한 배경에 관심이 쏠리고 있다. 에너지 분야에서는 지역별 전기요금 차등제를 도매 2분할·소매 6분할로 나누는 방안이 검토 중인 것으로 알려졌다. 강원 홍천 양수발전소 공사는 위법 소지 검토가 이뤄지며 공사 중단 파문이 빚어졌다. 오늘 처음 등장한 키워드다.",
-          "headline": "이 정부, 보유세 카드 검토 나서"
+          "description": "코스피가 8% 폭락하면서 서킷브레이커가 발동돼 20분간 매매가 중단됐다. 올 들어 벌써 여섯 번째 발동으로, 국내 증시 변동성이 얼마나 극심한지를 보여준다. 오늘 처음 등장한 키워드로, 삼성전자 실적 발표일에 증시가 오히려 급락하는 이례적 상황이 맞물리며 급부상했다.",
+          "headline": "코스피 8% 폭락에 서킷브레이커 발동"
         }
       ]
     },
     "연예": {
-      "summary": "옥주현이 '옥장판' 논란을 재조명하며 고소 취하를 후회한다고 밝혔고, 나홍진 감독의 신작 '호프' 관련 소식도 전해졌다.",
+      "summary": "옥주현이 김호영 고소 취하 후회 및 오토튠 가수 비판 발언으로 논란 · 고두심 김수미 추모 · 황인엽 신작 '그대에게 드림' 소개",
       "keywords": [
         {
           "rank": 1,
-          "word": "김부장",
-          "count": 3,
+          "word": "고두심",
+          "count": 2,
           "articles": [
             {
-              "title": "김부장 딸 서수민 \"화내고 사라져서 미안\" 생존 신고",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9teHh3cHZERFduQjhzN2VKYXdxOWVRQVBIbkRYaHpxRDlQOHFHdHMtUTBHcWlJelh0SmNhcXNqTFhjZDJIMUxRRFdqSGotNk44WjF3a05Ublg1aVdEOHQ1UNIBeEFVX3lxTE9rTTJQR2ltNFNBWEk2OGs1RnEwNEJLalNoWlNxc1pqU3lNeHlPTWxya1VaaU5rY0dVcG0wQnVEcEd4aFRIZjhlblJDcWc0SG9pajhtejAydGdkU3RCUmdWX0RfeFpyRmlURjJBaWduRm41RmZheTRYYQ?oc=5",
+              "title": "고두심, 故 김수미 사진 발견 후 먹먹…“음식만 보면 생각나”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NRUxvelptMlFoSm9pS1F1amZieThsOGhGdTVjSGtQQk1lOGpPQUlVX0l5TVVncm94aDRxRFFNSkllOU13MkFVNTdkNHpBMW5ubFJyRWVn?oc=5",
+              "source": "헤럴드경제"
+            },
+            {
+              "title": "고두심, 33살 연하 지현우와 키스신 비화…\"사랑스럽더라\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTGI2NmlRLXE4ak9lMXlycWZLcXplbUtfYnFRMlpaY1hlNnJLbTVvc3d1a2pSRWFOOGN5VUU2dHRoa2pCcGR5SmYtaGV1TEtiUDJkTm1kSlpndjJfb2plTtIBeEFVX3lxTE40eEF0WDkwQ1BSNDJSdWdBMEc4TGd2XzFnckRjeFlXOHpfQi14VkFGLUM1MnppM1FPa3RfNzRSbzFQNWttbG9oNllmSXQyZkhFUm1lS2xPNDU3VWNadS1QRURVMXBGLUllT2pLSno0RlhmMHFyRl9sbA?oc=5",
               "source": "뉴시스"
             },
             {
-              "title": "21.6% ‘김부장’, 소지섭 딸도 단 2분 만에…서수민, ‘300만뷰’ 루키답네 [후IS]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4SGM0Z2pvTVJCM0R6RFhvcTNreHhYd3NoWENwclNrX2NvM1VsdFlmbTNocTQxekltVlNBQ1p4TVJDVmZDVVdzcWJaeW91Zjg?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "김부장 : [5회 예고] “민지가 살아있었어” 소지섭, 딸 서수민이 남기고 떠난 흔적에 비장한 결심!",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wenllV2Z2SWJMOW1JYm5MTzhGNlF3Y1FTZm5jVDZWM1V0T3VUdkg3c2V2RFlGTkJDYWJFQW53T3pkcGFhWV9wQ2E3dXNnQkYzOW50MzlVbkNqMHQ0MjdaMW13ak9Xa2VwZGxYOFhB?oc=5",
-              "source": "sbs.co.kr"
+              "title": "고두심 \"'전원일기' 할머니 故정애란, 담배로 망해...폐 도려냈다\" ('남겨서 뭐하게')[순간포착] - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSkFPTlhoaXQtWG1POVUydHNEdWhVWkhBY18zZ1lvNFNpNHpJNWl2YjJWM0NrX1lXLUJOM3BQLXU4V3Bnb1dmTjBNek5TZzFfVHBEZ0tjbi12cGJELWZLb3JkQ1BaSGo3SnRFS1dwaldQWmp3amZJbXE2NTVQM2FZTmV5eWE4UGh2b1pPY0dKNWNMVUXSAacBQVVfeXFMUHRPQkRjcE1jWjRQRUZtR0tBckktRFEyS3VXcm9EUU1pc2hyZjk2eklXZkstR21SWDN6ZWdHTktWSjU2R1pzYklBT3lfNnVBb21LRWc4X3VNTEhaZlgzT2FFdXBJY2hpQVJIVkRwcGs4SXJHQlpDb2ctbVg5bUlRR1JteFVkMmpuZXpLQXNuOHVDQjVvdG5iQXZqTHFrR09pZENxeVV3TXc?oc=5",
+              "source": "Chosunbiz"
             }
           ],
-          "description": "소지섭 주연 드라마 '김부장'이 21.6%의 시청률을 기록하며 화제를 모으고 있다. 딸 역을 맡은 서수민이 '화내고 사라져서 미안하다'며 생존 신고를 해 극적 긴장감을 높였고, 소지섭이 딸의 흔적을 발견하고 비장한 결심을 세우는 5회 예고까지 공개되며 시청자들의 관심이 집중됐다. 서수민은 관련 영상이 300만 뷰를 돌파하는 등 신인답지 않은 존재감을 과시했다는 평가를 받고 있다. 김부장은 3일 연속 연예 분야 1위를 기록 중이다.",
-          "headline": "김부장, 시청률 21.6% 기록"
+          "description": "고두심이 방송에서 고(故) 김수미의 사진을 발견한 뒤 먹먹한 감정을 드러내며 '음식만 보면 생각난다'고 말해 화제다. 또한 33살 연하 배우 지현우와의 키스신 비화를 털어놓으며 '사랑스럽더라'고 밝혔고, 전원일기 동료였던 고(故) 정애란의 건강 이야기도 전해 눈길을 끌었다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "고두심, 故 김수미 그리움 털어놔"
         },
         {
           "rank": 2,
-          "word": "미우새",
-          "count": 3,
-          "articles": [
-            {
-              "title": "선혜윤 PD, 케이윌 유튜브서 \"남편 신동엽 매일 마셔도 일 완벽\"…'미우새' 공개",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fZmtxSlZsa1ZKaHc3RTlEZjlIOTY3MVpRZnpKUFF2MW9zNWRQWS1XM1dwUFVDRzNIRVBlY21hcDIyZ0poSWZCT1pwdzB1S0k?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "'미우새' 카이스트 허성범, \"최초의 영재고 졸업···입학 당시 전체 지원자 중 8등\"",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45STlrSlQ1YmlBVlZ1b083SGRuWVBnWlA3R29wdjc4ME9pVVZTMDJZakowRnNJNUxZX1hvOV9LR21BdTFoYnpjbzlDaUlfbVJGOXRqbmtjT2FUTUQ0VGpFUDFvb2NiQXZvbGc?oc=5",
-              "source": "news.sbs.co.kr"
-            },
-            {
-              "title": "'미우새' 신동엽, 이민정에게 고가 팬티 선물 받았다…왜 [RE:TV]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zMzRjb1NKVVBWVHNIeWVVUVZnTjZSaVpBYUFtMzhOcEFYWHdlbEhyZjFzYlN0VE11YzNSUk1QYjFSa3JuaTlLOWRNY295TktPdWlQN1RNamhPOE5IYjUyTg?oc=5",
-              "source": "뉴스1"
-            }
-          ],
-          "description": "'미우새'에서 신동엽이 이민정에게 고가 팬티를 선물받은 사연이 공개돼 웃음을 자아냈다. 신동엽의 아내 선혜윤 PD는 케이윌 유튜브 채널에 출연해 '남편이 매일 술을 마셔도 일은 완벽하다'고 밝혀 눈길을 끌었다. 이날 방송에는 카이스트 출신 허성범도 등장해 영재고 입학 당시 전체 지원자 중 8등이었다는 이력을 공개하며 화제를 더했다.",
-          "headline": "미우새, 신동엽·허성범 에피소드 화제"
-        },
-        {
-          "rank": 3,
           "word": "옥주현",
-          "count": 2,
+          "count": 1,
           "articles": [
+            {
+              "title": "옥주현 \"'옥장판' 김호영 고소 취하 후회…오토튠 가수 겸상 싫다\"",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjWUJQQWFxXzNiYTRpdGMtS1l4M1lJN3BGdGhRelBSZWtPeHZOaHlyQXlIaDFta3d0LW9KUXVDbVdIcWRrbnNuMnRLOHpOUEhyeEZnMmlScUtLaUVIbXlrRGlWUlg?oc=5",
+              "source": "뉴스1"
+            },
             {
               "title": "‘옥장판 논란’ 다시 꺼낸 옥주현…“김호영 고소 취하 후회” 왜",
               "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MWjJfaVYyNkxxb0hOTWhyc2RneTczQW01MDBJRS0wRUdfbzlmV2VKSTVucU4tTVVEelZ4eTZsVy0yQUYtZmxDY29zUGRLZG8xNHR1endB?oc=5",
               "source": "중앙일보"
             },
             {
-              "title": "옥주현 \"'옥장판' 사건 김호영에게 사과 못 받아, 고소 취하 후회\"[MD이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZWjlPeWxrWTRqbUxXZGFabUc5NkppMkhUNjh3aXZMMlFTdWJWTkphcjNfSkNPNF9KZWVTMjUzaVdpaDdFOGcyNUd6MmlRSDA?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "후보정 작업 지적한 옥주현, 11년 전 '성유리 라이브'에도 칼 같았다 [엑's 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55ZWFNNUhjNjVSRHlCY3RiRGRwZ2k4NG1Hb3NZNGRTYmlIeXZWQ1hhb19oXzhLbGVUdF83ajMwYWlLU0g4dm9ZZjhwWWNOSTA?oc=5",
-              "source": "v.daum.net"
+              "title": "옥주현 작심 발언에 입 닫은 김호영…뉴욕서 환한 미소만 '재점화 할까'",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3A4ZFdYWWZqZGhPT1hPdHY5dWg0aEhPVDhmUWVTQ3pnNzRuOG5MUWE5TVBTdXBvN1FrWU9RV3kwTXBYanQyOG9ZUHYtSUUyNEVxaG9ZamxsUUMtUTBjVHR3dVB6cWFDbUZycXVkY2VmU2ZRRGthV0JwZ1BMc1doQXZkREZyQ1prSGIzYWpRekVWakJW?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "옥주현이 과거 '옥장판' 논란을 다시 꺼내며 김호영에게 사과를 받지 못했고 고소를 취하한 것을 후회한다고 밝혀 파장을 일으키고 있다. '옥장판'은 옥주현이 뮤지컬 캐스팅 과정에서 영향력을 행사했다는 의혹으로 불거진 논란으로, 당시 김호영과 법적 공방까지 이어진 바 있다. 한편 후보정 작업을 지적한 옥주현의 행보와 관련해 11년 전 성유리 라이브에서도 날카로운 태도를 보였다는 과거 일화도 재조명되고 있다.",
-          "headline": "옥주현, 김호영 고소 취하 후회 고백"
+          "description": "옥주현이 과거 '옥장판 논란' 당시 김호영에 대한 고소를 취하한 것을 후회한다고 작심 발언해 다시 논란이 불거졌다. 그는 오토튠에 의존하는 가수들과 '겸상하기 싫다'는 직설적인 발언도 함께 쏟아내 파장을 키웠다. 당사자인 김호영은 현재 뉴욕에서 환한 미소만 보일 뿐 직접적인 반응을 내놓지 않고 있어 재점화 여부에 관심이 쏠린다.",
+          "headline": "옥주현, 김호영 고소 취하 후회 발언"
         },
         {
-          "rank": 4,
-          "word": "박성광",
-          "count": 2,
-          "articles": [
-            {
-              "title": "“내 나이 서른 아홉” 박성광과 ‘이혼설’ 이솔이, 의미심장 고백→’애틋’ [MHN:피드]",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mbGNRX01tOTZnTUw4eGZvVEJtREROZ0wySW1fYUQyaFVIakhDVTY2b2FpRGt3QWJybmlQNUpuR1VnLVpxSXF2WExFX0JZUlFPTGxIbXdpYmxXWjhCaThSRm1jZ9IBZ0FVX3lxTFBONE51WjNLS2g4M1dYMGQwbGJqNG1yZ2JsY2hlQng5QVlCOUt2MGNKbWlfRC04ZXl2b0RIY0ZFWlFVcWR4blFCRkVYNnY0ZTJtenhiY2xJZ0tER3NRcXdqRElUVWhaTmM?oc=5",
-              "source": "mhnse.com"
-            },
-            {
-              "title": "'박성광♥' 이솔이, 암 투병 이겨낸 건강 美…비키니 입고 뽐낸 슬림 몸매 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWZfWEcwcV9aS1ZWRWEzMTR0UWJmbEpVYTVJd3RCSmlKRWZrNGVpOUgxNmx4X1laNk5vbGN1NkFleGROUVMxZHRMNHNmZDdnY1BFVXJaQTZ4aG5Gc1NwZ09xQXBvSEpvc0h3eEliVjRveVQ2d1EzdDNrWTd1b2l2c1NZYUZ2eHZaT2ZFNkw5WVNlc2fSAacBQVVfeXFMUDZHSkNLMVZQTDRLcURqSzFNcTFMQmhHLW1nUWhkdERCZnZQaXRYLUJlLUNESXBzend1LS1CdVAzNkxpZWsxQ0Q0UnV1V0hWUTY1aFJHdEZCZzM4RVJPc1hobjZVWkZycW91bWNkZzBuUW1UR0l0eV8xdlZHMktrMGE0akNaSFNZWGJ1ci1JYmR4MEI1cVRhQTluQmZYMDczNzZHMXJic0E?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "'박성광♥' 이솔이, 항암으로 혈관까지 녹았다…\"주사 많이 맞아야 하는데\"",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16M01xdGx4V1BmeUJmaHBCNGZHSHBYakRtWXY4dG5LbVdhMlp4Sll6NV9CMkR1czlYWmxrY1FtamdjY1lSVjVLSmZJZS0yRUcxSl9Z?oc=5",
-              "source": "네이트"
-            }
-          ],
-          "description": "박성광의 아내 이솔이가 항암 치료로 혈관까지 녹았다며 힘든 투병 과정을 공개해 안타까움을 사고 있다. 이솔이는 암 투병을 이겨내고 건강을 되찾은 모습도 함께 전하며 슬림해진 몸매를 공개했다. 한편 이솔이가 '내 나이 서른아홉'이라며 의미심장한 고백을 남겨 박성광과의 이혼설도 다시 거론되고 있다. 박성광은 오늘 처음 등장한 키워드다.",
-          "headline": "박성광 아내 이솔이, 암 투병 근황 공개"
-        },
-        {
-          "rank": 5,
-          "word": "나홍진",
+          "rank": 3,
+          "word": "오토튠",
           "count": 1,
           "articles": [
             {
-              "title": "포즈 취하는 호프 주역들과 나홍진 감독",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zZGxzRVRaSklpampzcHRYZlJfN1hzVTJlV20tc1RnY3pyajNsbHVXbElZNjZZcVpoMG9jeExIMUV3YUxocUFOMV9XZFlFSWpVSmlwaGpIRTMyNTNmcjZMdUU2SEhiZw?oc=5",
+              "title": "옥주현 \"개나 소나 노래…겸상 싫어\" 오토튠 의존 가수 비판",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94U09aaEdScG1HWWdweHhBOHhqZnZRb3VMY3RGdTJyVnllX0pKQ0ZoLWkwSlBZQnIzdjI2Tjl3WDE0V3F1b0dkZU9BcXMycUpMWGVTazJSeEU0VXAyQTVOZdIBeEFVX3lxTE1hdHBaeVA0VEgtanZVR3EtSnlUOFptNnk5U0U3QTdKU2w5QlBjNEhQZjhtZU04Y1EyYWUtbkZFRkFzdXgzaVZ0MmN0SW1OQ2J5cnJoSTdIUDBfTDg0RHBUQmVzTXJfYUlQbE5mRmx3dWdPcWlkZ0sxMA?oc=5",
               "source": "뉴시스"
             },
             {
-              "title": "'호프' 나홍진 감독 \"마이클 패스벤더와 매일 술 마시며 이야기해\"",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDTXJhWHNyelRldFNjbnZRaXZEdTZRWGJnd2Q5bjdNcHNLQS1ZdC1IbUxMaXhXOUtCdmVvWUpESW1iQ2haNTZEdkVsWTNac3Z4YXF6QUU2Zw?oc=5",
-              "source": "뉴스1"
+              "title": "옥주현, 오토튠 가수·김호영 저격 이어 \"차기작 하기 싫어\"[스타이슈]",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Qa1U0Z0Ftem1nbFpYR0wxQS1tSjA1eXh1RENTdHRORGVNODlqRC1OZnlPemg0RF9TVjZKUEZkbjZ5V3lSWGlOQzVNZ1A4NG91dHJQQlZqendTdS1jeEdiSVBkU2xLdC1lX19FRE5Tb2l1cHc?oc=5",
+              "source": "starnewskorea.com"
             },
             {
-              "title": "나홍진 감독이 미쳤어요",
-              "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lRnlCM05laThCVXNvdEdpOXJzN1JEbzZlcV9JMmlKeW42ZkgxbEtreVRwYmcxVkZEM1RNMTM3Sm5BQQ?oc=5",
-              "source": "디에디트"
+              "title": "옥주현, 맞는 말도 왜 독해졌나…\"개나 소나 노래, 오토튠 가수와 겸상 싫다\"의 파장",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NVG9jaDU0OGdiZTBEY1RXV3UxSEctRzl0THBFUzMxS3ZTZTFDQ0Z3M25GNG9nVHdmV2ctNG8zenYtU05UOVl1SnJzVDZZeWZNY2Zz?oc=5",
+              "source": "네이트"
             }
           ],
-          "description": "나홍진 감독이 신작 '호프' 관련 행보로 주목받고 있다. 나홍진 감독은 '마이클 패스벤더와 매일 술을 마시며 이야기했다'고 밝혀 현장 분위기를 전했고, '나홍진 감독이 미쳤다'는 반응이 나올 만큼 강렬한 연출로 기대감을 끌어올리고 있다. 나홍진은 오늘 처음 등장한 키워드다.",
-          "headline": "나홍진 감독, 신작 '호프' 공개 화제"
+          "description": "옥주현이 '개나 소나 노래하고, 오토튠 가수와 겸상하기 싫다'는 발언으로 오토튠에 의존하는 가수들을 정면 비판해 이목이 집중됐다. 발언의 직설성을 두고 '맞는 말이지만 표현이 지나치다'는 평가가 엇갈리며 파장이 이어지고 있다. 오토튠은 오늘 처음 트렌드에 진입했다.",
+          "headline": "옥주현, 오토튠 가수 공개 저격"
+        },
+        {
+          "rank": 4,
+          "word": "그대에게 드림",
+          "count": 1,
+          "articles": [
+            {
+              "title": "황인엽 \"좋은 로코 기다려…교복 또 입어도 놓칠 수 없었죠\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BSE9PLWNUWWd2OEVCV0FWeFFtSk40TDVDX3h2dmF1X0lLRHJyUE9RTDJNVDBiaERCUEZPMXlxeDRXNUtPYXZZRjYzamtiNDJKVDZXc1dGYmpUdjDSAWBBVV95cUxPWVliaGs2NFlPYTNvYjBrMm5SUFhYX2hxWGtpZFZYMURxdS1VcjVqeU9VTGxrcjRXbGEyRk5RckVUbWdFakJTcTNPWDA4a2J0bkdNdTNGNW9UUDdkc2E2eFE?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "'그대에게 드림', 황인엽·이혜리가 전하는 청춘의 '꿈과 사랑'(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuSXJHbzViOXRMY1EyLUFpdm1mLUdQcVF1NTNIeFAwMHBqZFh1dGtrMlNDM2JZS1N1MU90QkhJZTdUMzlmT3NCSFFmR3BJekU?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "'그대에게 드림' 이혜리, 32세에 교복 연기 \"걱정했는데 나쁘지 않아…풋풋\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GQ3I4Sk41d3RzSmZyQS1QbU1naTV2cjJMUVpzVHUwYVZWcHFuQWxadF9RTEdNd20yeVdpb1RwU3R6ekl0eFFIZDRqS1ZzZzFoeVhZOTRtQ2FUa1hrc1l2dQ?oc=5",
+              "source": "뉴스1"
+            }
+          ],
+          "description": "황인엽과 이혜리가 주연을 맡은 로맨틱 코미디 '그대에게 드림'이 청춘의 꿈과 사랑을 그린 작품으로 소개되며 화제에 올랐다. 이혜리는 32세에 교복을 입는 것을 걱정했으나 '나쁘지 않고 풋풋하다'고 소감을 밝혔고, 두 주연 배우는 케미에 자신감을 드러냈다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "황인엽·이혜리 주연 로코 '그대에게 드림' 공개"
+        },
+        {
+          "rank": 5,
+          "word": "황인엽",
+          "count": 1,
+          "articles": [
+            {
+              "title": "황인엽 \"좋은 로코 기다려…교복 또 입어도 놓칠 수 없었죠\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZV3hreUhybjB3dlNMeDhPM0M0X0JRRFZ4X19IVU9wTUxxaERpOUU1aURPSXNGamZBWEo0MlBYS3F2UUhKZFQwSXN2ZnFJOFk?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "황인엽 “교복 또 입어 죄송…이번이 진짜 마지막”",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90TThpd0I3SzdPRGN5amdXZUNiM09UeGl4ZUtjZmgyYXJtMFJQR2wtOUsyWElkQ2RWcXdRaGRNQ1FFajROR2JUdnBuWXpvMS1weWxGMA?oc=5",
+              "source": "JTBC"
+            },
+            {
+              "title": "'그대에게 드림' 황인엽·이혜리 \"꿈과 사랑 함께 그린 로코…케미 자신 있다\"",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41T1AzUTQ2OXNBWVluUjhJUmpNVTBKMGtVWWppWFhzUEo2S0dnUUJLdEJ6dXBiZHpvWTJ6Y0drUjdTNUlzWnF4bXNwY3Q3QkVqNmczNEh6anBuMkJQ?oc=5",
+              "source": "뉴스핌"
+            }
+          ],
+          "headline": "황인엽, 신작 로코 '그대에게 드림' 출격"
         }
       ]
     },
     "스포츠": {
-      "summary": "클럽 월드컵서 스페인이 호날두의 포르투갈을 꺾고 8강행·홀란 2골로 노르웨이가 브라질 제압 · 홍명보 선임 주도 이임생 이사 캄보디아 취직 논란",
+      "summary": "이강인 AT마드리드 이적 합의·스페인이 포르투갈 탈락시키고 벨기에는 미국 4-1 제압.",
       "keywords": [
         {
           "rank": 1,
-          "word": "월드컵",
-          "count": 7,
-          "articles": [
-            {
-              "title": "\"내 마지막 월드컵\" 선언했던 호날두, 16강서 짐 쌌다…스페인, 90+1분 메리노 결승골→포르투갈 1-0 꺾고 8강행 [월드컵 리뷰]",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVeWJmdXVCOTZpcWliT1J1Mi02VGhKYkpwRnMzVGVtM05IOVk3dUkzUGRmOHM4NGVXVjRtRGx6OUxLNDEzdTNhbEJqSVhhR2prTFdYUERJeEk1NGRo?oc=5",
-              "source": "네이트"
-            },
-            {
-              "title": "스페인, '호날두 라스트댄스' 포르투갈 1-0 제압…8강행[월드컵24시]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yR2FtZmZzVG05VjJnbUZaLWsyekpxajNkYnVFaVA3ZEU4cXVvQW9LLXdtbUg5NzByV1Jwa1FtWmRLUGVOMlkyd05TcWxFVE9Da0lSX0NMbG9odGlGRnRRdtIBeEFVX3lxTE80YkFWSldUY1A1c0xmMksycDdYOUdvMW9IWThsQU1KbWowdWZ1T0k0WnF0eUlFZjRjRXlrUmlOclJZcFJJZ2lEbFpaaDc0X2JOMGs3N3Zwc25oeDJQUmJ2YU1KNi1QM1JuMDNFTnFsdnR1bGRETXB0cw?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "스페인 1-0 포르투갈",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vcWg0ZlotaXRLS0VuWnF0N1UwNDBJcTA3cDRFdnVLM1pvSDd6dk1NNVJKTU15dmZ6QUlEdUNzMjJvbW4yLW52NEFSQ3ZMWjlhSHFWLTliZE11N03SAWBBVV95cUxQYXpia2JPd1A1Wmh3R084a0hfbXNuNXVyNTR3ZXBEa3AzMlZQbEtqVFp1Y3FfTFJDTV9JSlBxOXNtTUs2LVZhS01rNkEwdHVOb1Z2LWJ0ZFkwVWVjRFFUT1A?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "스페인이 90+1분 메리노의 결승골로 포르투갈을 1-0으로 꺾고 8강에 진출했다. '마지막 월드컵'을 선언했던 호날두는 끝내 골을 넣지 못한 채 16강에서 짐을 쌌다. 전 세계 팬들의 이목이 쏠린 포르투갈-스페인 이베리아 더비에서 호날두의 국제 무대 마지막 장이 마무리될 수 있다는 점에서 큰 화제를 모았다. 월드컵 키워드는 4일 연속 1위를 기록 중이다.",
-          "headline": "호날두, 16강서 탈락…스페인 8강행"
-        },
-        {
-          "rank": 2,
           "word": "홍명보",
-          "count": 4,
+          "count": 3,
           "articles": [
             {
-              "title": "'홍명보 선임 결정적 역할' 이임생 이사, 한국 떠나 캄보디아 프로팀에 취직했다",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9va0I4LTVKS1NkcnVPSUY3RGpNaEEwNTJGNmMwWVd0Tzg1UjdGd0RTRF81UXlFOGVoaXA2SmJrLVZRY1VqQW1qMGZYZ2Y2Z01neFV5Vmk2TjcxMS1r?oc=5",
+              "title": "지금 청문회 한다고 난리인데…'홍명보 선임 주도' 이임생, 캄보디아 간 이유",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80emVLSTlXdktkLVdfejB4M0o1TFRKQzVCUmZQcU0xRENWa0NSVWdscDlCa1pjZy1lNjFuYVlqT2Z2NVhXdkR5YkRPTmtqbEpjaHUtZGpITENGYWVF?oc=5",
               "source": "네이트"
             },
             {
-              "title": "‘홍명보 선임 주도’ 이임생, 캄보디아 프로팀 취직",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53NXVhYU5pRTY0TGNWbVFVUnUzVC1ITnNHVTV3OTktOHFyc1hLUmswWE9uZ216eWtPSFhhS3lROXFVdWJPUTB1REZyZjNpbTNjcXl2ZTFn?oc=5",
+              "title": "영국 출신 방송인 피터 “홍명보 책임 가장 크지만, 선수들도 책임 있어”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85a09kVGZhMGN3YzZ2SWxqTWQ1VXJVQi1SdXlOZXVTckZyZGU5bmpYY2dFbGM5T1IwbFVHamNwSGlyQXhtRDE4WVdxLVE5V2xzN0lqT3RB?oc=5",
               "source": "헤럴드경제"
             },
             {
-              "title": "'홍명보 선임 주도-고액 연봉 보장' 이임생 근황, 韓 떠나 캄보디아 구단 테크니컬 디렉터 부임 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oVGZ0Q0JCb2VUUTE2SlE1NUtLbXNEd1E1NklqUnNkbHZkZkcxMGVpWmwzWldMOUcxVm5RMkJjWXdwMzl4bGoyNW1Wa3FpZWxEODRPdzhLNXhLZHZXdVJKXzlaMXhFN0JQYWfSAW9BVV95cUxOV0NDQmY5Wmt5M3lvdmtPTENhWUpCR1RmNmJ6N2pXMzhXYXdnSVlPX1o4WkM4M3F2bDNKUHdVX0RIaDV0dGdIcnJwSnpsMzZCWHhHd0RZdG1QUjltZndmMHZaRjF5cURLSzY4bThNZlU?oc=5",
-              "source": "머니투데이"
+              "title": "[송준호 교수의 건강한 세상 이야기] 홍명보 감독과 값싼 해결책의 유혹",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qQ0oyNnNzcTFJMFRXb255aS13UDQxVGxBMWpUT3AyV08yY2xWU3BoaUxxNHpCbzlPN043ZU5zSUN4TzVJYlNIY254dThKZjhvZFFXV2RtQm52TnUwN1FlV3VJZ1NzZWxhWmc?oc=5",
+              "source": "인천일보"
             }
           ],
-          "description": "홍명보 감독 선임을 주도한 것으로 알려진 이임생 전 대한축구협회 이사가 한국을 떠나 캄보디아 프로팀의 테크니컬 디렉터로 부임한 사실이 알려지며 주목받고 있다. 고액 연봉 보장 논란과 함께 선임 과정의 불투명성이 다시 도마에 오른 상황에서 이임생 이사의 해외 취직 소식이 전해지자 비판 여론이 재점화됐다. 최근 2주간 꾸준히 상위권을 유지하고 있는 키워드다.",
-          "headline": "홍명보 선임 주도한 이임생, 캄보디아행"
+          "description": "홍명보 감독 선임을 주도한 이임생 전 기술이사가 청문회 논란 속에 캄보디아로 출국해 파문이 커지고 있다. 영국 출신 방송인 피터는 홍명보 감독의 책임이 가장 크지만 선수들도 책임에서 자유롭지 않다고 지적하는 등 책임 소재를 둘러싼 논쟁이 이어지고 있다. 감독 선임 과정의 절차 문제와 성적 부진이 맞물리며 비판 여론이 가라앉지 않는 모양새다. 최근 2주간 꾸준히 상위권을 유지하고 있다.",
+          "headline": "홍명보 선임 논란, 청문회로 번져"
         },
         {
-          "rank": 3,
-          "word": "홀란",
-          "count": 3,
+          "rank": 2,
+          "word": "스페인",
+          "count": 2,
           "articles": [
             {
-              "title": "홀란 2골, 노르웨이 첫 8강 갔다... 한번도 못 이긴 브라질 또 눈물",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUlZyOURQM3RqVXpIdl90T1c3b1NPSU1LNjJqM0s5X0sydjB2LU80RVFFS0ZlcmdWQld5WE9JMmlYOUpla3dVUlN6cU55Uzk2RkM3TWRpeFRPN0hOM3hJR1RDZ0FkdFQwR1BwdXpkMkl5b0hIZFgyZXdvU3dDSXlLWGp3SUY4bzMyRUlR?oc=5",
-              "source": "조선일보"
+              "title": "막 내린 41세 호날두의 ‘라스트 댄스’···스페인 극장골, 포르투갈 월드컵 16강 탈락",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuRGFXVU9yUGZnc0hDbVJqeVN6NHhNcGd4UW95VktodHRaWUdGaUUtZkZBSHB5TjFKZ01GTlgxTHlnUGtmWUMzYU1CSzZxNF96WjRTekM2OEduUdIBX0FVX3lxTE9DdzZLQVFiUmZEOFR6VEt3cnpSaVE1OGU0VExIT2wtU25MLUdGVnYzcFltZDJVemp0YkpnRENVblpKOXlyVFJyVEhpWW1IMjFGTHJjY3dDNGFlcmYtZk9v?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "브라질전 직전 홀란 아버지가 던진 폭탄 발언… \"모든 선수는 레알 마드리드에서 뛰고 싶어한다\"",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vT3llUmVwalBrN2Z1eDlBWTlQdWF3aFZvUWFIbVBjZkNkMlM2ak80WU9FdXlfQk9Za244dUdBMzMtVzJwenc?oc=5",
-              "source": "v.daum.net"
+              "title": "벨기에, 개최국 미국 4 대 1 제압…스페인과 8강 맞대결",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RTVF0MzJNeXB2M1ZlbmhCYWpZdDJvMG5HVHBMWUNOdkwyeTA5MUZzVkF2TmZXbEZuTVR5UmoyMlRVVGc5SS1NSXVER0lEXzVQSVpZbW02eTJDVGM?oc=5",
+              "source": "KBS 뉴스"
             },
             {
-              "title": "2026 월드컵: 엘링 홀란, 노르웨이 역사를 쓰다...브라질 꺾고 사상 첫 8강 진출",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhRzAycFREMTJVOTNJN3ZJMHhUYW9vSmVTNURuY19oeHRRWF9wNGlkb0VLcGxvT050ZHFfcHRHVmJfMDhsRFY4SWN2UGpKUXFHRWlOVU5yRE9uUFh60gFiQVVfeXFMT2ZQVXotbWQ1LU50Ny1tZkJ5NjJ3Qmp3cUFfTkIxWFUyLXpiNzlyaWdoc1JTalhla3ZKNmRMMk9sWU9jZ0Z1aFRzUDVtY3ZOdUVGMkNtR1NNYlF2Qmo5Q0VZTnc?oc=5",
-              "source": "BBC"
-            }
-          ],
-          "description": "엘링 홀란이 브라질전에서 2골을 터뜨리며 노르웨이를 사상 첫 월드컵 8강으로 이끌었다. 역대 한 번도 이기지 못했던 브라질을 꺾은 이번 승리는 노르웨이 축구 역사의 한 페이지를 새로 썼다는 평가를 받는다. 경기 직전 홀란의 아버지가 '모든 선수는 레알 마드리드에서 뛰고 싶어한다'는 폭탄 발언을 해 이적설까지 덩달아 화제가 됐다. 오늘 처음 등장한 키워드다.",
-          "headline": "홀란 2골, 노르웨이 사상 첫 8강"
-        },
-        {
-          "rank": 4,
-          "word": "브라질",
-          "count": 3,
-          "articles": [
-            {
-              "title": "브라질 축구팬 '눈 찢기' 논란…\"인종차별 사과해야\"",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pR0d2MHhGNlBSNnZmbzd6cWJmS3dSVjJuclNvZHZtZE5zYVMzdmFNaE1NaWdFajA0NHJaeEZ6WW00ZVhKLXc?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "홀란 6·7호골 폭발!…노르웨이, 브라질 침몰 시키고 8강",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYU284cmNZdnFLTFdrdlRXV25admxCMUpmdjBOT1FPeG9vbU9SdU5EUzNrck9Rb1A4b2QxU1hkWnljTVhsUmxrR2hhSFRuYThhZGlUcQ?oc=5",
-              "source": "JTBC"
-            },
-            {
-              "title": "브라질 축구협, 트럼프 겨냥 \"심판 모독 말라\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aZEtCX21OVEZab2pQcDRpZnNsRmtKZDNsQWc3R0hpZk45YTkxX0lZaE5zSlI1ZWh5d0ZCZzctNFl0OWJJMy1fbkZqQmEzUDRWdDVzU3N3MmExYlHSAWBBVV95cUxPbGVCaEFDSXR6dU5aRU83V2J4Yk5ndnlKTDRya2JTcHZmbVRXSmpsdG43WnZtUkZsMXBWSTV0dkI5bmM3TU1mcU5YQVZHRDBEdzU4bTdCWWVHUzJuZGQ1c3c?oc=5",
+              "title": "벨기에, '발로건 징계 유예' 미국 4-1 완파…스페인과 8강 격돌",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JM2RfdmpROXh4UEw2WTF1UDd4Q0lLcU9sWXlZampGX1JBWmJiM2hMX01Xd0hmRVBRWHBfcXF2aDRuTzZzUlAwaXhnU1MzWGFqeTNNQTJaRXRMSFHSAWBBVV95cUxPTWo5aVpEdzBrNk1RYUVhMVg3WjFWS1VzMXYxb2R0elJidTl4YUZGTUNteWN1OVpWeVB5S0JLOFF6a1FsbVFMcDFsa0tuTFlBWnFpOUZoaVpoQVBfTTB3YUI?oc=5",
               "source": "연합뉴스"
             }
           ],
-          "description": "브라질이 홀란에게 2골을 허용하며 노르웨이에 패해 16강에서 탈락했다. 경기 후에는 브라질 축구팬들의 '눈 찢기' 세리머니가 인종차별 논란으로 번지며 사과 요구가 잇따르고 있다. 브라질 축구협회는 별도로 트럼프를 겨냥해 '심판을 모독하지 말라'는 성명을 내는 등 경기 안팎에서 잡음이 끊이지 않는 하루였다.",
-          "headline": "브라질, 노르웨이에 패해 16강 탈락"
+          "description": "41세 호날두가 스페인에 극장골을 허용하며 포르투갈이 월드컵 16강에서 탈락했고, 호날두는 경기 후 눈물을 흘리며 사실상 마지막 월드컵 무대를 마쳤다. 한편 벨기에는 개최국 미국을 4대1로 완파하며 8강에 진출해 스페인과 맞대결을 펼치게 됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "호날두 탈락, 스페인 극장골이 갈랐다"
         },
         {
-          "rank": 5,
-          "word": "도피",
-          "count": 3,
+          "rank": 3,
+          "word": "공식",
+          "count": 2,
           "articles": [
             {
-              "title": "\"힘들 때 가족 품 찾는 게 도피?\"…홍명보 감싼 대표팀 주치의 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00OVVCMFo4ZVFQOGppX1FzaVdZRmxiTC03cmRxNVk0QzB1OTJfbDNrSkJYUTltU0hfV0VuU1BXWHJkN0JLdjZEYU9FcGlkSDY0N1VtUFpsOGVlRmlqWlY1VE9VbnZHOGlPV2fSAW9BVV95cUxNQlUtbDBRMWpVVlIyN1V5OWFvdGlVNUI1UFRhdWdXMkRpU0w0Nks4YV8zSUNCU2pWVnl1Z3pqN2VENlhjdG9BNVAxUGpzODBQZ3dyODh4WURlbFRiQng5THBycXNkQVUxSHoyRm9WcUU?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "대표팀 주치의, 홍명보 옹호…\"힘들 때 가족 품 찾는 게 도피인가\"",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGZjWXR0TlJhbV9pd3owOEROcHNIZUpsSDMtNGpCVGd6eC13ZWU2YkN6SFhOUnY5ZGFJVm1zWXpkQ2RMbHV2YS1MZ2JPVHRIR21PTkRzRG9UbXZuR0xmTE1JV0NIVUdMSndMVjEyS3lVYlEtc2EtTTQtZFMzVE9leVFPaFRPWHlMUUhN?oc=5",
+              "title": "\"이강인, 스페인 명문 AT마드리드 이적 합의...곧 공식 발표\"",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlY3dlYxUHpmbTN4QXhWLXMwUmhvcHpQR0lvak9PMURrNWw2UHBDWkRyOG1RcUJBZzJHRGxtaXdFbmU3N2xjSVNUWjlKa2syZFVydmJlYzBLSkNFaFRZQWhlbFJVX253aEtTbUVYUzNjakFMNmU1NUMtRW1LUG40bjFXZW42NjRSUWRN?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "\"살해 위협 도피\" \"청문회 나와야\" 日, 홍명보 사태 전 세계에 알려지자...한국 축구 향한 걱정인가 \"대체 누가 감독하려고 하겠나\"",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11dmFuMUFKR0JTQ1BuM1ZZWmdQZ1duazFkbzNadW9WQXlqemJhVWhiek9pNElWS3lLRl9HaGZWbWRaOVdBLS1nS3BVT2FSdGxOcjNfag?oc=5",
+              "title": "'PSG→ATM' 韓 축구 역대급 커리어...'몸값 700억' 이강인, HERE WE GO 떴다! \"공식 절차만 남아 있다\" 스페인 복귀 눈앞 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kbFpraUYtMXl0X3QxazViX3NFWUV3SXU5elE3ZWdoSmFKMi1XZUI1ak1GMEpSQlJzYURicFg3Q29CeF9pT1BJRVk0VEY3aWpFYU13Q05idTctdjlCZVZ6Vm5raWJzbzhMT3fSAW9BVV95cUxONDVoN2tTazJIQXJQRUI1TzJydTJHVVpUajZrSEZUVF9UX2dLd3M4bVk4SHMzR2ktRkRuZ2JoYkhUODlOamo4RFN6TldocDBnQlVsdGlEMWk2ZmhFSjVjMlpZc1dWMzliaHJ1LXF1czQ?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "이강인 802억! 이 순간도 몸값 오른다?…\"4000만 아닌 4600만 유로\" 주장 나왔다→오피셜만 남았다, 공식 발표 터지나",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mclRreThLbGpnYUJmcnJ1U2FpdC02MW5yMzNiWVZsRTY3MW9vdjQ5aHBCMlczWkpHaWEyczlXbTlZV3dzYllXd1A2V2NrQ0xFOFZ5YWtPaF9ZVExT?oc=5",
+              "source": "네이트"
+            }
+          ],
+          "description": "이강인이 PSG를 떠나 스페인 명문 아틀레티코 마드리드(AT마드리드)로 이적에 합의했으며 공식 발표만 남은 것으로 전해졌다. 이적료는 4600만 유로(약 802억 원)에 달한다는 주장도 나오며 몸값 수치를 둘러싼 관심도 높아지고 있다. 한국 축구 역대급 커리어로 평가받는 빅클럽 이적인 만큼 오피셜 발표에 많은 이목이 쏠리고 있다.",
+          "headline": "이강인, AT마드리드 이적 공식 발표 임박"
+        },
+        {
+          "rank": 4,
+          "word": "월드컵",
+          "count": 2,
+          "articles": [
+            {
+              "title": "벨기에의 ‘월드컵 정의’ 구현",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TaDg5VlAtV05xVXFxZlZKcmRBSUFId2cyczFSai1BWWVuYzNhY0doeURISVRMdXJPVXFQa1F1cVBkOXlpbHc5U2RjU2t1dUZDS1RaNUpYUUxHd9IBX0FVX3lxTE9fSEJZdkFtZU9DQmQ2SFl2bGMyejBHb3g2VkRucngzMHh6MjZic3pOOHhjVjZqb3FMVUVnb0NuTVVwSUQxVTl2cHBhdEZiUGZXTEx3b2ZET29KNHM1R1dv?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "6월 20일 (토) 이 시각 월드컵 다시보기",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zNUxvbE5OQXh1NF9Gd3A3YnF5N2FwY1pGU1czLXI5OVJBcmNWWGo0Ul9kNmN0Z3MzandPQW85ZlJqamdPQWFuQzNHTHpEMU1iTlE?oc=5",
+              "source": "JTBC"
+            },
+            {
+              "title": "호날두 결국 펑펑 울었다, 끝내 '월드컵 우승' 꿈 못 이루고 '라스트 댄스' 끝",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE83RE5NSnYzRHNCVUFjTTJEeVI3Tl9hM2tQaG5ITFRMOGRkNUZJdnJKSWJ1eERINVBvZ0ttWVZCTFVGa2YzbVE?oc=5",
               "source": "v.daum.net"
             }
           ],
-          "description": "대표팀 주치의가 '힘들 때 가족 품을 찾는 것이 도피냐'며 홍명보 감독을 공개적으로 옹호하고 나서 논란이 커지고 있다. 홍명보 감독이 선임 반발 여론 속에 살해 위협을 이유로 잠적했다는 보도가 일본 등 해외 매체에까지 전해지며 한국 축구 내부 갈등이 국제적 관심사로 번지는 양상이다. 오늘 처음 등장한 키워드다.",
-          "headline": "홍명보 '도피' 논란에 대표팀 주치의 공개 옹호"
+          "description": "포르투갈이 스페인에 극장골을 내주며 16강에서 탈락하면서 호날두는 결국 월드컵 우승의 꿈을 이루지 못하고 사실상 마지막 월드컵 무대를 마쳤다. 벨기에가 미국을 4대1로 꺾으며 8강에 오르는 등 토너먼트 주요 결과들이 연달아 나오면서 대회 열기가 최고조에 달하고 있다. 최근 2주간 꾸준히 상위권을 유지하고 있다.",
+          "headline": "호날두, 끝내 우승 못 이루고 라스트 댄스 마감"
+        },
+        {
+          "rank": 5,
+          "word": "벨기에",
+          "count": 1,
+          "articles": [
+            {
+              "title": "‘트럼프 전화 찬스’ 美축구 1-4 대패 탈락...벨기에의 정의구현",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14VXh3X0U1Tlk2c25JWFFjS2UxaGZaMlNCT0s1LTZyd0RTY2x1UGstSk5wSzRWRXh2Z3Z6RlFlWkdqLU1UZVNmZk81TmNDLVhXeFAtRGdR?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "“이것도 뒤집어봐”…벨기에, 트럼프 레드카드 뒤집기 조롱",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yZXFRU3BUU0JBbWFud2RVTGFDQml1TXVmSEllUi1vSHhSR0pwQlRKSkg0Y1RfS3Z1OENnTEd6T2d2Nk81MmlOT1BlbjhoX2lJcXliVi1qQS15VldtTnliWjNDeFhac29Iam9BWGluaw?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "벨기에 국방, NATO 개막 앞두고 트럼프에 \"멜로니 건들지 마\" 경고",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oOHJJUjl3cWN0VUhCdHZmWHFpUWN3TE14dVFfZ2dRYXhmQktTbjBxYU1uM2tsQ1J1emNqS3R4VjkxSjlkLTBDeEEyaDRoUnFneGI2a1k1SkpPelN6dGJIUg?oc=5",
+              "source": "아시아경제"
+            }
+          ],
+          "description": "벨기에가 개최국 미국을 4대1로 대파하며 월드컵 8강에 진출했고, 경기 중 트럼프 대통령의 전화 개입으로 레드카드가 번복된 사건을 두고 벨기에 선수단이 공개적으로 조롱하는 등 경기 외적인 논란도 함께 달아오르고 있다. 축구 외에도 벨기에 국방장관이 NATO 개막을 앞두고 트럼프에게 경고 메시지를 보내는 등 벨기에를 둘러싼 외교·스포츠 이슈가 겹치며 화제를 모으고 있다.",
+          "headline": "벨기에, 미국 4-1 완파하며 8강 진출"
         }
       ]
     }
