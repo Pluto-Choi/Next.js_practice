@@ -15,7 +15,13 @@ export default function ScrollToTop() {
   return (
     <button
       type="button"
-      onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+      onClick={() => {
+        // JS scrollTo는 CSS의 prefers-reduced-motion 미디어쿼리에 걸리지 않으므로
+        // 여기서 직접 확인한다. 동작 최소화 사용자에겐 부드러운 애니메이션 대신
+        // 즉시 이동(WCAG 2.3.3).
+        const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+        window.scrollTo({ top: 0, behavior: reduce ? "auto" : "smooth" });
+      }}
       aria-label="맨 위로 이동"
       aria-hidden={!visible}
       tabIndex={visible ? 0 : -1}
