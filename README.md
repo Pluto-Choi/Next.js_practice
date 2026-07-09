@@ -21,7 +21,7 @@ Google News RSS에서 그날 한국에서 많이 다뤄진 키워드를 뽑아, 
 - **트렌드** (`/trends`) — 연속 등장 기록(streak) 30/90/180/365일 랭킹
 - **오늘의 브리핑** — 전 카테고리 상위 키워드를 묶은 종합 요약
 - **키워드 검색** — 클라이언트 자동완성 → 추이 페이지 점프
-- PWA(홈 추가) · 웹푸시 알림 · 다크모드 · 소셜 공유(동적 OG 이미지) · 카카오 애드핏
+- PWA(홈 추가) · 다크모드 · 소셜 공유(동적 OG 이미지) · 카카오 애드핏
 
 ---
 
@@ -43,12 +43,10 @@ Google News RSS에서 그날 한국에서 많이 다뤄진 키워드를 뽑아, 
 
 ### 자동화 (GitHub Actions, `.github/workflows/`)
 - `collect.yml` — **06:00 / 17:30 KST** 하루 2회 수집
-- `push.yml` — **12:00 KST** 매일 웹푸시 발송
-- `keepalive.yml` — 3일마다(유휴 pause 방지) · `threads-refresh.yml` — 매월 1일(Threads 토큰 갱신)
+- `threads-refresh.yml` — 매월 1일(Threads 토큰 갱신)
 
 ### 저장소
 - **정식 DB 없음** — `data/`의 JSON 파일이 데이터 저장소 역할
-- 예외: **Supabase** — 웹푸시 구독 정보(`push_subscriptions` 테이블)만 저장 (`app/api/subscribe`)
 
 ---
 

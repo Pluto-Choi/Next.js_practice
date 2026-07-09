@@ -5,15 +5,15 @@ import AppShell from "../components/AppShell";
 export const metadata: Metadata = {
   title: "개인정보처리방침 | 왓뉴스",
   description:
-    "왓뉴스가 수집하는 개인정보 항목, 이용 목적, 처리위탁(분석·광고·푸시), 보유기간과 이용자 권리를 안내합니다.",
+    "왓뉴스가 수집하는 개인정보 항목, 이용 목적, 처리위탁(분석·광고), 보유기간과 이용자 권리를 안내합니다.",
   alternates: { canonical: "/privacy" },
 };
 
-const EFFECTIVE = "2026-06-27";
+const EFFECTIVE = "2026-07-09";
 
 type Section = { title: string; body: React.ReactNode };
 
-// 개인정보처리방침. 실제 사용 중인 처리자(Vercel·Google·Kakao·Supabase) 기준으로 작성.
+// 개인정보처리방침. 실제 사용 중인 처리자(Vercel·Google·Kakao) 기준으로 작성.
 // ※ 표준 템플릿이며, 서비스 변경 시 갱신 필요. 법적 검토는 별도 권장.
 const SECTIONS: Section[] = [
   {
@@ -30,13 +30,9 @@ const SECTIONS: Section[] = [
     title: "2. 수집하는 항목 및 방법",
     body: (
       <>
-        <b>가. 자동 수집 정보</b> — 서비스 이용 시 접속 기록, 기기·브라우저 정보, 쿠키 및
+        <b>자동 수집 정보</b> — 서비스 이용 시 접속 기록, 기기·브라우저 정보, 쿠키 및
         유사 식별자, 페이지 이용 통계가 분석·광고 도구를 통해 자동으로 수집될 수 있습니다.
-        <span className="mt-2 block">
-          <b>나. 푸시 알림 구독 정보</b> — 이용자가 직접 알림을 켤 때에 한해, 브라우저가
-          발급한 푸시 구독 정보(엔드포인트 주소 및 암호화 키)가 수집·저장됩니다. 이름·이메일
-          등은 수집하지 않습니다.
-        </span>
+        이름·이메일 등 개인을 특정하는 정보는 수집하지 않습니다.
       </>
     ),
   },
@@ -44,8 +40,8 @@ const SECTIONS: Section[] = [
     title: "3. 이용 목적",
     body: (
       <>
-        수집된 정보는 ① 서비스 이용 통계 분석 및 품질 개선, ② 광고 게재, ③ (구독 시) 뉴스
-        키워드 푸시 알림 발송의 목적으로만 이용됩니다.
+        수집된 정보는 ① 서비스 이용 통계 분석 및 품질 개선, ② 광고 게재의 목적으로만
+        이용됩니다.
       </>
     ),
   },
@@ -59,7 +55,6 @@ const SECTIONS: Section[] = [
           <span className="block">• <b>Vercel Inc.</b> (미국) — 호스팅, 방문·성능 분석</span>
           <span className="block">• <b>Google LLC</b> (미국) — Google Analytics 이용 통계</span>
           <span className="block">• <b>카카오</b> (대한민국) — 애드핏 광고 게재</span>
-          <span className="block">• <b>Supabase Inc.</b> (국외) — 푸시 구독 정보 저장</span>
         </span>
         <span className="mt-2 block">
           각 사업자는 자체 개인정보 정책에 따라 정보를 처리합니다.
@@ -81,9 +76,7 @@ const SECTIONS: Section[] = [
     title: "6. 보유 및 파기",
     body: (
       <>
-        푸시 구독 정보는 이용자가 알림을 끄거나 구독이 만료·무효화될 때까지 보유하며, 이후
-        지체 없이 파기합니다. 분석·광고 도구가 수집한 정보의 보유 기간은 각 사업자의 정책을
-        따릅니다.
+        분석·광고 도구가 수집한 정보의 보유 기간은 각 사업자의 정책을 따릅니다.
       </>
     ),
   },
@@ -91,9 +84,8 @@ const SECTIONS: Section[] = [
     title: "7. 이용자의 권리",
     body: (
       <>
-        이용자는 자신의 정보에 대한 열람·삭제를 요청할 수 있습니다. 푸시 알림은 브라우저의
-        알림 설정을 끄거나 사이트의 알림 버튼을 다시 눌러 언제든지 구독을 해지할 수 있으며,
-        해지 시 저장된 구독 정보는 삭제됩니다.
+        이용자는 자신의 정보에 대한 열람·삭제를 요청할 수 있습니다. 쿠키 등 자동 수집
+        도구는 브라우저 설정에서 거부하거나 삭제할 수 있습니다.
       </>
     ),
   },

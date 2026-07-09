@@ -4,7 +4,6 @@ import KeywordDisplay from "./components/KeywordDisplay";
 import BriefingCard from "./components/BriefingCard";
 import SiteHeader from "./components/SiteHeader";
 import InstallButton from "./components/InstallButton";
-import NotificationButton from "./components/NotificationButton";
 import UpdatedAt from "./components/UpdatedAt";
 import KeywordSearch from "./components/KeywordSearch";
 import LeftSidebar from "./components/LeftSidebar";
@@ -87,7 +86,6 @@ export default async function Home() {
 
         <div className="mt-8">
           <InstallButton />
-          <NotificationButton />
         </div>
 
         {/* 업데이트 시각을 하단에 표시(데스크탑·모바일 공통). */}

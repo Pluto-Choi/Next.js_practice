@@ -1,4 +1,4 @@
-// 왓뉴스 — 푸시 알림 + 오프라인 캐시 서비스워커
+// 왓뉴스 — 오프라인 캐시 서비스워커 (PWA)
 
 const CACHE = 'news-v1'
 const PRECACHE = ['/', '/manifest.json', '/favicon.svg', '/icon-192.png']
@@ -50,45 +50,6 @@ self.addEventListener('fetch', (event) => {
         })
         .catch(() => cached)
       return cached || network
-    })
-  )
-})
-
-self.addEventListener('push', (event) => {
-  let payload = {}
-  try {
-    payload = event.data ? event.data.json() : {}
-  } catch {
-    payload = { body: event.data ? event.data.text() : '' }
-  }
-
-  const title = payload.title || '왓뉴스'
-  const options = {
-    body: payload.body || '오늘의 새 키워드가 도착했어요.',
-    icon: '/icon-192.png',
-    badge: '/icon-192.png',
-    tag: 'daily-keywords',
-    data: { url: payload.url || '/' },
-  }
-
-  event.waitUntil(self.registration.showNotification(title, options))
-})
-
-self.addEventListener('notificationclick', (event) => {
-  event.notification.close()
-  // 푸시 페이로드의 url은 신뢰하지 않는다. 같은 오리진으로만 이동시켜 오픈 리다이렉트를 막는다.
-  const raw = (event.notification.data && event.notification.data.url) || '/'
-  let target = '/'
-  try {
-    const resolved = new URL(raw, self.location.origin)
-    if (resolved.origin === self.location.origin) target = resolved.pathname + resolved.search
-  } catch {}
-  event.waitUntil(
-    self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then((clientList) => {
-      for (const client of clientList) {
-        if (client.url.includes(target) && 'focus' in client) return client.focus()
-      }
-      if (self.clients.openWindow) return self.clients.openWindow(target)
     })
   )
 })

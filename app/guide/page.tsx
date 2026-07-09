@@ -5,7 +5,7 @@ import { CATEGORIES, categoryLabel } from "../categories";
 
 export const metadata: Metadata = {
   title: "이용 가이드 | 왓뉴스",
-  description: "왓뉴스 사용법 — 키워드 카드 보는 법, 카테고리, 날짜별 보기, 트렌드, 알림, 공유까지 한눈에.",
+  description: "왓뉴스 사용법 — 키워드 카드 보는 법, 카테고리, 날짜별 보기, 트렌드, 설치, 공유까지 한눈에.",
   alternates: { canonical: "/guide" },
 };
 
@@ -88,13 +88,12 @@ const SECTIONS: Section[] = [
     ),
   },
   {
-    emoji: "🔔",
-    title: "알림 받기",
+    emoji: "📲",
+    title: "앱으로 설치하기",
     body: (
       <>
-        홈 화면의 <b>설치</b> 버튼으로 앱처럼 설치하고, <b>알림</b> 버튼을 켜두면
-        매일 정오에 그날의 키워드를 푸시로 받아볼 수 있어요. (iOS는 홈 화면에
-        추가한 뒤 알림을 켤 수 있어요.)
+        홈 화면의 <b>설치</b> 버튼을 누르면 앱처럼 설치해서 더 빠르게 열어볼 수
+        있어요. (iOS는 공유 → <b>홈 화면에 추가</b>로 설치할 수 있어요.)
       </>
     ),
   },
