@@ -2,7 +2,7 @@ name: Daily Push Notification
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # UTC 03:00 → KST 12:00 (낮 12시)
+    - cron: '17 3 * * *'  # UTC 03:17 → KST 12:17 (정각 혼잡 회피)
   workflow_dispatch:
 
 jobs:
