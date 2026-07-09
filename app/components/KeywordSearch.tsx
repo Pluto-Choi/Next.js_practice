@@ -102,6 +102,11 @@ export default function KeywordSearch({ keywords }: { keywords: string[] }) {
         // 강제 확대(auto-zoom)한다. 모바일 퍼스트 사이트라 이를 막는다.
         className="w-full rounded-full border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-4 py-2.5 text-base text-zinc-700 dark:text-zinc-200 placeholder:text-zinc-400 dark:placeholder:text-zinc-500 focus:outline-none focus:border-orange-400 dark:focus:border-orange-600 transition-colors"
       />
+      {/* 콤보박스가 열려도 스크린리더는 결과 개수를 자동으로 읽지 않는다.
+          WAI-ARIA combobox 관습대로 결과 수(또는 없음)를 조용히 알린다. */}
+      <p className="sr-only" role="status" aria-live="polite">
+        {q ? (matches.length > 0 ? `검색 결과 ${matches.length}개` : "검색 결과 없음") : ""}
+      </p>
       {q && (
         <div
           id={listboxId}
