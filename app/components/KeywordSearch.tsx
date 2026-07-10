@@ -77,6 +77,22 @@ export default function KeywordSearch({ keywords }: { keywords: string[] }) {
     }
   };
 
+  // 결과에서 실제로 매칭된 부분을 살짝 강조해, 어느 글자가 걸렸는지 한눈에
+  // 보이게 한다. 대소문자 무시(영문 키워드 대비)로 첫 매칭 구간만 표시한다.
+  const highlight = (word: string) => {
+    const idx = word.toLowerCase().indexOf(q);
+    if (!q || idx === -1) return word;
+    return (
+      <>
+        {word.slice(0, idx)}
+        <mark className="bg-orange-100/80 dark:bg-orange-500/25 text-inherit rounded-[3px] px-px font-semibold">
+          {word.slice(idx, idx + q.length)}
+        </mark>
+        {word.slice(idx + q.length)}
+      </>
+    );
+  };
+
   const listboxId = "kw-search-list";
 
   return (
@@ -129,7 +145,7 @@ export default function KeywordSearch({ keywords }: { keywords: string[] }) {
                     : "text-zinc-700 dark:text-zinc-200"
                 }`}
               >
-                {w}
+                {highlight(w)}
               </Link>
             ))
           ) : (
