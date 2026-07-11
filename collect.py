@@ -94,6 +94,10 @@ stopwords_economy = stopwords_common | {
     '규모',
     # 평균: "다우 평균", "평균 나이", "전국 평균 가격" 등 서로 무관한 기사에 흩어지는 분산 노이즈
     '평균',
+    # 매수: 주식·부동산·가상자산 등 서로 무관한 기사에 흩어지는 행위명사 — 상승/급등과 같은 이유
+    '매수',
+    # 잇슈: KBS 뉴스 콘텐츠 시리즈('잇슈 머니', '잇슈#태그') 세그먼트명 — 이슈(stopwords_common)의 이표기
+    '잇슈',
 }
 
 stopwords_entertainment = stopwords_common | {
