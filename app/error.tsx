@@ -19,13 +19,13 @@ export default function Error({
         <div className="flex items-center justify-center gap-2">
           <button
             onClick={reset}
-            className="px-5 py-2.5 rounded-full bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 text-sm font-medium hover:opacity-80 transition-opacity"
+            className="px-5 py-2.5 rounded-full bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 text-sm font-medium hover:opacity-80 active:scale-95 transition-all"
           >
             다시 시도
           </button>
           <a
             href="/"
-            className="px-5 py-2.5 rounded-full border border-zinc-300 dark:border-zinc-600 text-zinc-700 dark:text-zinc-200 text-sm font-medium hover:border-zinc-500 dark:hover:border-zinc-400 transition-colors"
+            className="px-5 py-2.5 rounded-full border border-zinc-300 dark:border-zinc-600 text-zinc-700 dark:text-zinc-200 text-sm font-medium hover:border-zinc-500 dark:hover:border-zinc-400 active:scale-95 transition-all"
           >
             홈으로
           </a>
