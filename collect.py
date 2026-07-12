@@ -64,6 +64,8 @@ stopwords_common = {
     '아들',
     # 이슈: "심각한 이슈", "주요 이슈" 처럼 기사 문체에서 단독 추출되는 메타어 노이즈
     '이슈',
+    # 생애: "생애 첫…", "생애 최고…" 형태로 어떤 카테고리에서든 수식어로만 쓰임 — 단독 키워드 가치 없음
+    '생애',
 }
 
 stopwords_economy = stopwords_common | {
@@ -98,6 +100,10 @@ stopwords_economy = stopwords_common | {
     '매수',
     # 잇슈: KBS 뉴스 콘텐츠 시리즈('잇슈 머니', '잇슈#태그') 세그먼트명 — 이슈(stopwords_common)의 이표기
     '잇슈',
+    # 미국: 경제 피드에서도 지정학·문화 기사에 분산돼 경제 특유 신호 없음 — stopwords_sports와 같은 이유
+    '미국',
+    # 종목: "X 종목 급등", "단일종목 레버리지" 등 서로 무관한 주식 기사에 흩어지는 분산 노이즈 — 주가와 같은 이유
+    '종목',
 }
 
 stopwords_entertainment = stopwords_common | {
