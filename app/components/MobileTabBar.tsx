@@ -98,6 +98,11 @@ export default function MobileTabBar() {
   const isHome = pathname === "/" || /^\/\d{4}-\d{2}-\d{2}$/.test(pathname);
   const isTrends = pathname.startsWith("/trends");
   const isCategory = pathname.startsWith("/category");
+  // 현재 보고 있는 카테고리 slug. 시트를 열었을 때 지금 어느 카테고리에
+  // 있는지 알려 주는 방향 표시(orientation)에 쓴다.
+  const currentCatSlug = isCategory
+    ? decodeURIComponent(pathname.split("/")[2] ?? "")
+    : "";
 
   const tabBase =
     "flex flex-1 flex-col items-center justify-center gap-0.5 h-full text-[10px] font-medium transition-colors active:bg-zinc-100 dark:active:bg-zinc-800/70";
@@ -119,16 +124,24 @@ export default function MobileTabBar() {
               카테고리
             </p>
             <nav className="grid grid-cols-2 gap-2 px-4">
-              {CATEGORIES.map((c) => (
-                <Link
-                  key={c.slug}
-                  href={`/category/${c.slug}`}
-                  className="flex items-center gap-2.5 rounded-xl border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 text-sm font-medium text-zinc-700 dark:text-zinc-200 active:bg-zinc-50 dark:active:bg-zinc-800 transition-colors"
-                >
-                  <span aria-hidden="true" className="text-base">{c.emoji}</span>
-                  {categoryLabel[c.name] || c.name}
-                </Link>
-              ))}
+              {CATEGORIES.map((c) => {
+                const on = c.slug === currentCatSlug;
+                return (
+                  <Link
+                    key={c.slug}
+                    href={`/category/${c.slug}`}
+                    aria-current={on ? "page" : undefined}
+                    className={`flex items-center gap-2.5 rounded-xl border px-4 py-3 text-sm font-medium transition-colors ${
+                      on
+                        ? "border-orange-300 dark:border-orange-700/70 bg-orange-50 dark:bg-orange-950/40 text-orange-700 dark:text-orange-300"
+                        : "border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 text-zinc-700 dark:text-zinc-200 active:bg-zinc-50 dark:active:bg-zinc-800"
+                    }`}
+                  >
+                    <span aria-hidden="true" className="text-base">{c.emoji}</span>
+                    {categoryLabel[c.name] || c.name}
+                  </Link>
+                );
+              })}
             </nav>
             <div className="mt-2 flex gap-2 px-4">
               <Link href="/trends" className="flex flex-1 items-center justify-center gap-1.5 rounded-xl border border-zinc-200 dark:border-zinc-800 px-4 py-3 text-sm font-medium text-zinc-700 dark:text-zinc-200 active:bg-zinc-50 dark:active:bg-zinc-800 transition-colors">
