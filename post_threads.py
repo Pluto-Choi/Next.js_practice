@@ -28,13 +28,18 @@ DATA_PATH = "data/keywords.json"
 STATE_PATH = "data/threads_state.json"
 TEXT_LIMIT = 490  # Threads 본문 한도 500자보다 여유
 
-CAT_EMOJI = {"오늘의 이슈": "🔥", "연예": "🎤", "경제": "💰"}
-CAT_LABEL = {"오늘의 이슈": "핫이슈", "연예": "연예", "경제": "경제"}
-CAT_ORDER = ["오늘의 이슈", "연예", "경제"]
+HERO_CATEGORY = "오늘의 이슈"
+CAT_EMOJI = {"오늘의 이슈": "🔥", "경제": "💰", "연예": "🎤", "스포츠": "⚽"}
+CAT_ORDER = ["오늘의 이슈", "경제", "연예", "스포츠"]
 
 
 def log(msg: str) -> None:
     print(f"[threads] {msg}", flush=True)
+
+
+def _phrase(k: dict) -> str:
+    """키워드에 대해 우리가 자체 생성한 한 줄 구(headline). 없으면 단어로 폴백."""
+    return (k.get("headline") or "").strip() or k.get("word", "").strip()
 
 
 def build_text(data: dict) -> str:
@@ -45,20 +50,28 @@ def build_text(data: dict) -> str:
     except ValueError:
         md = date
 
-    lines = [f"📰 오늘의 뉴스 · {md}", ""]
     cats = data.get("categories", {})
+    lines = [f"📰 오늘의 뉴스 · {md}", "", "오늘 많이 찾은 이슈 👇", ""]
+
+    # 바로 단어 나열 대신, 각 키워드에 대해 자체 생성한 한 줄 구를 노출한다.
+    # 이슈는 2개, 나머지 분야는 1개씩만 뽑아 너무 길지 않게 유지.
+    tags = []
     for name in CAT_ORDER:
-        cat = cats.get(name)
-        if not cat:
-            continue
-        kws = cat.get("keywords", [])[:3]
-        if not kws:
-            continue
-        words = "  ".join(f"{i + 1}. {k['word']}" for i, k in enumerate(kws))
-        lines.append(f"{CAT_EMOJI.get(name, '')} {CAT_LABEL.get(name, name)}")
-        lines.append(words)
+        kws = cats.get(name, {}).get("keywords", [])
+        take = 2 if name == HERO_CATEGORY else 1
+        for k in kws[:take]:
+            phrase = _phrase(k)
+            if phrase:
+                lines.append(f"{CAT_EMOJI.get(name, '•')} {phrase}")
+            word = k.get("word", "").strip()
+            if word:
+                tags.append(f"#{word}")
+
+    lines.append("")
+    lines.append(f"다른 이슈가 궁금하다면? 👉 {SITE}")
+    if tags:
         lines.append("")
-    lines.append(f"👉 {SITE}")
+        lines.append(" ".join(tags))
 
     text = "\n".join(lines)
     if len(text) > TEXT_LIMIT:
