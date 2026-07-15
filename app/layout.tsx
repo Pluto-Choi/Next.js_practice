@@ -35,7 +35,6 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-  manifest: "/manifest.json",
   alternates: {
     types: {
       "application/rss+xml": [{ url: "/rss.xml", title: "왓뉴스" }],
@@ -44,11 +43,6 @@ export const metadata: Metadata = {
   icons: {
     icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
     apple: [{ url: "/apple-touch-icon.png", sizes: "512x512" }],
-  },
-  appleWebApp: {
-    capable: true,
-    statusBarStyle: "black-translucent",
-    title: "왓뉴스",
   },
   openGraph: {
     title: "왓뉴스 | 핫이슈 · 연예 · 경제 키워드",
@@ -90,12 +84,12 @@ export default function RootLayout({
             __html: `(function(){try{var t=localStorage.getItem('theme');var d=t?t==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;if(d)document.documentElement.classList.add('dark');}catch(e){}})();`,
           }}
         />
-        {/* PWA 설치 프롬프트(beforeinstallprompt)는 React 하이드레이션 전에 한 번만
-            발생하므로 여기서 미리 잡아둔다. InstallButton이 window.__bipEvent를 읽어
-            안드로이드 원탭 설치 버튼을 띄운다. */}
+        {/* PWA 제거 정리: 예전에 등록된 서비스워커와 캐시를 재방문자 브라우저에서
+            해제·삭제한다(안 그러면 옛 캐시가 계속 남아 오래된 화면을 보여줌).
+            충분히 배포된 뒤에는 이 스크립트를 지워도 된다. */}
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){window.__bipEvent=null;window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();window.__bipEvent=e;window.dispatchEvent(new Event('bip-ready'));});window.addEventListener('appinstalled',function(){window.__bipEvent=null;try{localStorage.setItem('pwa-installed','1');}catch(e){}});if('serviceWorker'in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('/sw.js').catch(function(){});});}})();`,
+            __html: `(function(){if('serviceWorker'in navigator){navigator.serviceWorker.getRegistrations().then(function(rs){rs.forEach(function(r){r.unregister()})}).catch(function(){})}if(window.caches&&caches.keys){caches.keys().then(function(ks){ks.forEach(function(k){caches.delete(k)})}).catch(function(){})}})();`,
           }}
         />
         <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />

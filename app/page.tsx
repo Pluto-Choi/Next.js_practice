@@ -3,7 +3,6 @@ import type { Metadata } from "next";
 import KeywordDisplay from "./components/KeywordDisplay";
 import BriefingCard from "./components/BriefingCard";
 import SiteHeader from "./components/SiteHeader";
-import InstallButton from "./components/InstallButton";
 import UpdatedAt from "./components/UpdatedAt";
 import KeywordSearch from "./components/KeywordSearch";
 import LeftSidebar from "./components/LeftSidebar";
@@ -82,10 +81,6 @@ export default async function Home() {
             검색창은 보드 아래로 내린다. 하단 탭바의 /#search 앵커가 여기로 스크롤한다. */}
         <div id="search" className="scroll-mt-20 mt-8">
           <KeywordSearch keywords={searchKeywords} />
-        </div>
-
-        <div className="mt-8">
-          <InstallButton />
         </div>
 
         {/* 업데이트 시각을 하단에 표시(데스크탑·모바일 공통). */}
