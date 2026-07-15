@@ -221,22 +221,22 @@ function CategorySection({
 }
 
 // 랭킹 보드 한 줄. 줄 전체가 해당 키워드 추이 페이지로 가는 링크.
-// 이슈(hero) 보드 상위 3개는 "왜 떴나"(description)와 관련 기사 수를 함께 노출하는
-// 맥락 행으로, 나머지·분야별 스냅샷은 한 줄 컴팩트 행으로 렌더한다.
+// 이슈(hero) 보드는 모든 순위가 "왜 떴나"(description)와 관련 기사 수를 함께 노출하는
+// 맥락 행으로 통일한다. 분야별 스냅샷은 한 줄 컴팩트 행으로 렌더한다.
 function BoardRow({
   item,
   hero,
 }: {
   item: Keyword;
-  // hero(급상승 보드): 1위는 틴트+보더로 강조, 상위 3개는 맥락 노출.
+  // hero(급상승 보드): 1위는 틴트+보더로 강조, 나머지도 동일한 맥락 행으로 노출.
   hero?: boolean;
 }) {
   const label = item.headline || item.word;
   const rank = item.rank;
   const isFirst = hero && rank === 1;
   const articleCount = item.articles?.length ?? 0;
-  // 이슈 보드 상위 3개 + 설명문이 있을 때만 맥락 행.
-  const showContext = hero && rank <= 3 && !!item.description;
+  // 이슈 보드는 1위(hero)부터 하위까지 설명문이 있으면 모두 맥락 행으로 통일.
+  const showContext = hero && !!item.description;
 
   if (showContext) {
     return (
