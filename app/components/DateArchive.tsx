@@ -110,7 +110,10 @@ export default function DateArchive({ entries }: { entries: DateArchiveEntry[] }
           type="button"
           onClick={() => setDesc((v) => !v)}
           className="inline-flex items-center gap-1 rounded-lg border border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-2.5 py-1 text-xs font-medium text-zinc-600 dark:text-zinc-300 hover:border-zinc-400 dark:hover:border-zinc-500 transition-colors"
-          aria-label="정렬 순서 전환"
+          // 시각적으로는 화살표(↓/↑)로 현재 정렬을 알 수 있지만, aria-label이 버튼
+          // 텍스트를 가려 스크린리더는 현재 어떤 순서인지 알 수 없다. 현재 상태 +
+          // 눌렀을 때 동작을 함께 읽어 준다(ThemeToggle과 동일한 상태기반 라벨 패턴).
+          aria-label={desc ? "최신순으로 정렬됨. 오래된순으로 바꾸기" : "오래된순으로 정렬됨. 최신순으로 바꾸기"}
         >
           {desc ? "최신순 ↓" : "오래된순 ↑"}
         </button>
