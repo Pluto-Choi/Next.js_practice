@@ -113,6 +113,8 @@ stopwords_economy = stopwords_common | {
     '종목',
     # 평가: "관악구 합동평가 1위", "양구군 합동평가 우수" 등 서로 다른 자치단체 행정평가 기사에 흩어지는 분산 노이즈
     '평가',
+    # 허가: AI 의료기기·의약품·시설 이용허가 등 서로 무관한 행정·법적 맥락에 흩어지는 분산 노이즈
+    '허가',
 }
 
 stopwords_entertainment = stopwords_common | {
