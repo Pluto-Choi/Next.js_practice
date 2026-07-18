@@ -35,11 +35,12 @@ function IconCalendar({ active }: { active: boolean }) {
     </svg>
   );
 }
-function IconSearch({ active }: { active: boolean }) {
+function IconGuide({ active }: { active: boolean }) {
   return (
     <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={active ? 2.4 : 2} strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-      <circle cx="11" cy="11" r="7" />
-      <path d="m20 20-3.5-3.5" />
+      <circle cx="12" cy="12" r="9" />
+      <path d="M9.5 9a2.5 2.5 0 1 1 3.5 2.3c-.7.4-1 .8-1 1.7" />
+      <path d="M12 17h.01" />
     </svg>
   );
 }
@@ -98,6 +99,7 @@ export default function MobileTabBar() {
   const isHome = pathname === "/" || /^\/\d{4}-\d{2}-\d{2}$/.test(pathname);
   const isTrends = pathname.startsWith("/trends");
   const isCategory = pathname.startsWith("/category");
+  const isGuide = pathname.startsWith("/guide");
   // 현재 보고 있는 카테고리 slug. 시트를 열었을 때 지금 어느 카테고리에
   // 있는지 알려 주는 방향 표시(orientation)에 쓴다.
   const currentCatSlug = isCategory
@@ -171,9 +173,9 @@ export default function MobileTabBar() {
           <IconCalendar active={isTrends} />
           뉴스창고
         </Link>
-        <Link href="/#search" className={`${tabBase} ${tabOff}`}>
-          <IconSearch active={false} />
-          검색
+        <Link href="/guide" aria-current={isGuide ? "page" : undefined} className={`${tabBase} ${isGuide ? tabOn : tabOff}`}>
+          <IconGuide active={isGuide} />
+          가이드
         </Link>
       </nav>
     </>

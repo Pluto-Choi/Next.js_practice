@@ -78,8 +78,8 @@ export default async function Home() {
         <KeywordDisplay data={data} />
 
         {/* 검색은 "원하는 걸 아는" 2차 행동. 글랜스(랭킹 보드)를 위로 올리고
-            검색창은 보드 아래로 내린다. 하단 탭바의 /#search 앵커가 여기로 스크롤한다. */}
-        <div id="search" className="scroll-mt-20 mt-8">
+            검색창은 보드 아래로 내린다. 모바일에서는 숨기고 데스크탑(lg+)에서만 노출한다. */}
+        <div id="search" className="hidden lg:block scroll-mt-20 mt-8">
           <KeywordSearch keywords={searchKeywords} />
         </div>
 
