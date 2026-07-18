@@ -1,5 +1,6 @@
 import Link from "next/link";
 import ShareButton from "./ShareButton";
+import AdFitBanner from "./AdFitBanner";
 import type { RankChange, RankChanges } from "../data";
 import { categoryEmoji, categoryLabel, categorySlug, HERO_CATEGORY } from "../categories";
 import { rankBadgeStyle, cleanTitle } from "../lib/format";
@@ -408,6 +409,12 @@ export default function KeywordDisplay({
             limit={3}
           />
         ))}
+      </div>
+
+      {/* 데스크탑은 우측 사이드바(RightSidebar)에 광고가 있으므로,
+          여기서는 모바일에서만 스포츠 보드와 공유하기 사이에 노출한다. */}
+      <div className="lg:hidden">
+        <AdFitBanner adUnit="DAN-yItNPmN2B2cR2RlZ" width={300} height={250} />
       </div>
 
       <ShareButton topKeyword={topKeyword} />
