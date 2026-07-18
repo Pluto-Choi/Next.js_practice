@@ -852,17 +852,22 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
     """키워드별 자체 설명문을 생성해 각 dict에 description으로 붙인다(in-place)."""
     if not keywords:
         return
-    blocks = []
-    for item in keywords:
-        titles = "\n".join(f"    · {a['title']}" for a in item["articles"][:3])
-        note = keyword_trend_note(item["word"], item["rank"], history_ranks, today_date)
-        item["_trend_note"] = note  # 디버그/검증용, 저장 전 제거
-        trend_line = f"  트렌드 정보: {note}\n" if note else ""
-        blocks.append(
-            f"[{item['word']}]\n{trend_line}  기사 제목:\n{titles}"
-        )
-    joined = "\n\n".join(blocks)
-    prompt = (
+
+    def build_prompt(items):
+        blocks = []
+        for item in items:
+            titles = "\n".join(f"    · {a['title']}" for a in item["articles"][:3])
+            note = keyword_trend_note(item["word"], item["rank"], history_ranks, today_date)
+            item["_trend_note"] = note  # 디버그/검증용, 저장 전 제거
+            trend_line = f"  트렌드 정보: {note}\n" if note else ""
+            blocks.append(
+                f"[{item['word']}]\n{trend_line}  기사 제목:\n{titles}"
+            )
+        joined = "\n\n".join(blocks)
+        return build_prompt_text(joined)
+
+    def build_prompt_text(joined):
+        return (
         f"다음은 오늘의 '{category}' 분야 화제 키워드들이야. 키워드마다 관련 기사 제목과, "
         "있는 경우 트렌드 정보(우리 사이트가 매일 집계한 순위 데이터에서 계산한 값)를 준다.\n\n"
         "키워드마다 두 가지를 만들어줘: (A) headline — 한눈에 사건이 읽히는 짧은 구, "
@@ -896,36 +901,47 @@ def generate_descriptions(keywords, category, history_ranks, today_date):
         "JSON 배열로만 답해라. 형식: [{\"word\": \"키워드\", \"headline\": \"헤드라인\", \"description\": \"설명문\"}]\n\n"
         f"{joined}"
     )
+    def run(items):
+        prompt = build_prompt(items)
+        try:
+            message = anthropic_client.messages.create(
+                model="claude-sonnet-4-6",
+                # 5개 키워드×(headline+250자 설명)을 한 JSON으로 받으므로 한국어 기준
+                # 3000은 빠듯해 잘리는 날이 있었다. 청구는 실제 생성 토큰 기준이라
+                # 천장만 넉넉히 올린다(잘림=배치 전체 유실 방지).
+                max_tokens=8000,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            arr = _parse_json_array(message.content[0].text)
+            if arr is not None:
+                info_map = {
+                    d["word"]: d
+                    for d in arr
+                    if isinstance(d, dict) and d.get("word")
+                }
+                for item in items:
+                    info = info_map.get(item["word"])
+                    if not info:
+                        continue
+                    desc = (info.get("description") or "").strip()
+                    # 요약과 동일하게, 본문이 없다며 거절·사과한 응답은 설명문으로 저장하지 않는다
+                    if desc and not _looks_like_refusal(desc):
+                        item["description"] = desc
+                    headline = (info.get("headline") or "").strip()
+                    # 헤드라인도 거절문이면 버리고 키워드(word)로 폴백되게 둔다
+                    if headline and not _looks_like_refusal(headline):
+                        item["headline"] = headline
+        except Exception as e:
+            print(f"  generate_descriptions 실패({category}): {e}")
+
     try:
-        message = anthropic_client.messages.create(
-            model="claude-sonnet-4-6",
-            # 5개 키워드×(headline+250자 설명)을 한 JSON으로 받으므로 한국어 기준
-            # 3000은 빠듯해 잘리는 날이 있었다. 청구는 실제 생성 토큰 기준이라
-            # 천장만 넉넉히 올린다(잘림=배치 전체 유실 방지).
-            max_tokens=8000,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        arr = _parse_json_array(message.content[0].text)
-        if arr is not None:
-            info_map = {
-                d["word"]: d
-                for d in arr
-                if isinstance(d, dict) and d.get("word")
-            }
-            for item in keywords:
-                info = info_map.get(item["word"])
-                if not info:
-                    continue
-                desc = (info.get("description") or "").strip()
-                # 요약과 동일하게, 본문이 없다며 거절·사과한 응답은 설명문으로 저장하지 않는다
-                if desc and not _looks_like_refusal(desc):
-                    item["description"] = desc
-                headline = (info.get("headline") or "").strip()
-                # 헤드라인도 거절문이면 버리고 키워드(word)로 폴백되게 둔다
-                if headline and not _looks_like_refusal(headline):
-                    item["headline"] = headline
-    except Exception as e:
-        print(f"  generate_descriptions 실패({category}): {e}")
+        run(keywords)
+        # 모델이 한 배치에서 일부 키워드의 headline을 빠뜨리는 날이 있다.
+        # headline이 비어 word로 폴백된 키워드만 모아 딱 1회 재요청한다(항목 수가 적어 집중도↑).
+        missing = [it for it in keywords if not (it.get("headline") or "").strip()]
+        if missing:
+            print(f"  headline 누락 {len(missing)}개 재요청({category}): {[it['word'] for it in missing]}")
+            run(missing)
     finally:
         for item in keywords:
             item.pop("_trend_note", None)
