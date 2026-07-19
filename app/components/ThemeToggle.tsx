@@ -1,18 +1,9 @@
 "use client";
 
-import { useEffect, useState } from "react";
-
 export default function ThemeToggle() {
-  const [dark, setDark] = useState(false);
-
-  useEffect(() => {
-    setDark(document.documentElement.classList.contains("dark"));
-  }, []);
-
   const toggle = () => {
     const next = !document.documentElement.classList.contains("dark");
     document.documentElement.classList.toggle("dark", next);
-    setDark(next);
     try {
       localStorage.setItem("theme", next ? "dark" : "light");
     } catch {}
@@ -22,9 +13,14 @@ export default function ThemeToggle() {
     <button
       type="button"
       onClick={toggle}
-      aria-label={dark ? "라이트 모드로 전환" : "다크 모드로 전환"}
       className="absolute right-0 top-0 p-2 rounded-full text-zinc-500 hover:text-zinc-700 dark:text-zinc-400 dark:hover:text-zinc-200 transition-colors"
     >
+      {/* 접근성 이름도 아이콘과 같은 방식으로 처리한다: aria-label을 JS 상태로
+          만들면 다크 모드로 로드했을 때 하이드레이션 전까지 이름이 반대로
+          읽힌다(달↔해 깜빡임의 스크린리더 판). .dark 클래스로 전환되는 sr-only
+          라벨을 써서 첫 페인트부터 올바른 동작을 읽어 준다. */}
+      <span className="sr-only dark:hidden">다크 모드로 전환</span>
+      <span className="sr-only hidden dark:block">라이트 모드로 전환</span>
       {/* 아이콘은 .dark 클래스(인라인 스크립트가 하이드레이션 전 설정)에 따라
           CSS로 고른다 → 다크 모드로 로드해도 첫 페인트부터 올바른 아이콘이 뜬다
           (JS 마운트 전 달→해 깜빡임 제거). */}
