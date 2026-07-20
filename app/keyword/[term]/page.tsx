@@ -1,8 +1,9 @@
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import AppShell from "../../components/AppShell";
 import { getAllKeywords, getKeywordDetail } from "../../data";
-import { categoryEmoji, categoryLabel } from "../../categories";
+import { categoryEmoji, categoryLabel, categorySlug } from "../../categories";
 import { cleanTitle } from "../../lib/format";
 import { keywordJsonLdHtml } from "./jsonld";
 
@@ -61,11 +62,23 @@ export default async function KeywordPage({ params }: Props) {
         {/* === 문서 헤더 (노션 타이틀 블록) === */}
         <header className="mb-8 pb-6 border-b border-zinc-200 dark:border-zinc-800">
           <div className="flex flex-wrap items-center gap-x-2 gap-y-1 mb-3 text-xs text-zinc-500 dark:text-zinc-400">
-            {categories.map((c) => (
-              <span key={c} className="font-medium">
-                {categoryEmoji[c] || "📌"} {categoryLabel[c] || c}
-              </span>
-            ))}
+            {categories.map((c) => {
+              // 카테고리 배지를 해당 분야 페이지로 가는 링크로. 앱 전반에서 카테고리는
+              // 이동 가능한 네비게이션인데 이 페이지만 죽은 텍스트라 일관성/탐색성을 보강.
+              const slug = categorySlug[c];
+              const label = `${categoryEmoji[c] || "📌"} ${categoryLabel[c] || c}`;
+              return slug ? (
+                <Link
+                  key={c}
+                  href={`/category/${slug}`}
+                  className="font-medium hover:text-orange-700 dark:hover:text-orange-400 transition-colors"
+                >
+                  {label}
+                </Link>
+              ) : (
+                <span key={c} className="font-medium">{label}</span>
+              );
+            })}
             <span aria-hidden="true">·</span>
             <span className="tabular-nums">{latestDate}</span>
           </div>
