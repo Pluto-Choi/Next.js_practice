@@ -1,115 +1,192 @@
 {
   "date": "2026-07-21",
-  "updated_at": "2026-07-21 07:02",
+  "updated_at": "2026-07-21 19:39",
   "briefing": {
-    "text": "스페인이 2026 북중미 월드컵 결승에서 아르헨티나를 꺾고 우승을 차지한 가운데, BTS가 역사상 첫 월드컵 결승 하프타임쇼를 장식하며 K컬처가 전 세계 무대를 뒤덮은 하루였다.\n\n중동에서는 미군이 열흘째 이란을 공습하는 와중에 이란이 쿠웨이트와 바레인 미군기지까지 재보복 공격을 감행하며 충돌이 중동 전역으로 확산됐다. 보복의 악순환이 이어지면서 전면전 우려가 커지고 뉴욕 증시도 하락세를 보였다.\n\n국내 정치·경제에서는 이재명 대통령의 아파트 매도 과정에서 17억 원 근저당이 드러나 야당의 공세가 이어졌고, 삼성·SK·리노공업에서 성과급 갈등이 동시에 불거지며 리노공업은 창사 첫 부분파업에 돌입했다.\n\n연예계에서는 아이유가 이관개방증 악화로 콘서트 취소와 앨범 연기를 발표하며 \"지옥 같은 시간을 보냈다\"고 고통을 토로했고, 태도 논란을 받았던 장원영은 현장 스태프의 직접 증언으로 반전을 맞았다.",
-    "period": "아침",
-    "generated_at": "2026-07-21 07:02"
+    "text": "종합특검 연장법이 국민의힘의 필리버스터를 뚫고 찬성 183표로 국회 본회의를 통과해, 특검 활동 기간이 8월 23일까지 연장됐다.\n\n여야는 선관위 특검 설치에도 합의했으며, 노태악 전 선관위원장은 배우자를 세 차례 해외출장에 동반한 사실이 드러나 관련 비용 4743만원을 반납했다.\n\n급락 직후 '40% 세일'이라는 말까지 나왔던 삼성전자와 SK하이닉스가 오늘 6~7%대 동반 반등하며 코스피에 매수 사이드카가 발동됐다. 저가 매수 기대감이 높아지는 한편, 한 자산운용사 대표는 레버리지 ETF 투자를 멈추라는 이례적인 경고를 내놨다.\n\n스페인이 2025 FIFA 월드컵 우승을 차지하며 200만 명의 환영 인파가 거리로 나섰지만, 경찰봉 구타로 21살 학생이 고환 적출 수술을 받는 등 축제 속 사고도 잇따랐다. FIFA가 공식 시상식 사진에서 트럼프 대통령을 통편집한 사실이 알려지며 백악관이 별도 사진으로 맞대응했다.\n\n연예계에서는 아이유가 이관개방증 진단으로 콘서트 취소와 컴백 연기를 알렸고, 나홍진 감독의 신작 '호프'가 개봉 후 평론가 별점 논란과 함께 화제를 모으고 있다.",
+    "period": "저녁",
+    "generated_at": "2026-07-21 19:39"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "美·이란 보복 충돌로 중동 확전 우려 고조 · 삼전·닉스 레버리지 투자 경고 잇따라",
+      "summary": "종합특검 연장법 국회 통과·선관위 특검 여야 합의·간첩조작 연루자 정부포상 198건 취소",
       "keywords": [
         {
           "rank": 1,
-          "word": "지지",
+          "word": "특검",
           "count": 2,
           "articles": [
             {
-              "title": "‘국군사관학교 창설 지지선언문’에 대한 6가지 반론",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oNkxuWTJ5OG8ydE03ZzktMzk2RUlPLUZwVHd4SElQZmhjRnNXeWxvRTVQX3FrUk1MS0F1aU8zc1hqWkRBR3o1WGpKWkRKQWNh?oc=5",
-              "source": "문화일보"
+              "title": "종합특검 연장법 국회 본회의 통과‥8월 23일까지 기간 연장",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ydFd1Z1RCZWRTOXliYXFGYzc1RnlSeUhaSHdZbWdBc29xTnZnbTVjTElXa3hoZ3ZCZnJtdlZwR0NtMXM4UlNSYWdUNlJteTYyVk9EcGx6Qm5BX1dybU1OZnlLbGRzSzZhdzBKN0o5bm85VzJxR05teNIBeEFVX3lxTE9rZzRrOVNDOFdnYkxFN0pCWXptOTNVVmNaTlhEbnk2WVp1bkdoM3k1Zkt2WFVJZy1GdzREcjZ0NEY2WmhLQjI4blFoVy11Y0c3S3Zha0E1OEZHMWhEQk13MGlReVVJM1RCaDk1UHUybkd6d3J6SGtNWA?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "김부겸, 최고위원 출마 임미애 ‘공개 지지’",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VNWFpTGR3YlNFNEp6cHMzbzRaa1NucGg3WWZ2NS14N0JjMFFEeU5saE5ObHBLaDhONGthdmNMcTR2WmUtNmc?oc=5",
-              "source": "v.daum.net"
+              "title": "특검, 대법에 의견서 제출…\"윤 부부, 명태균 여론조사 의견 합치\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUclc0Ym5QdUUxcmdzOV9SSEVSejFKa1BhRkVGWmhGNmZ3TDlWbEhzSldXeWdEeHcwVDBFb0ZUYldUalQ3cGV4N2FHMkl1Rl8yWm05VUlmME9aSzJ6Njg0NlgzazJERVk2X3c?oc=5",
+              "source": "news.sbs.co.kr"
             },
             {
-              "title": "경찰청장 대행 \"검찰 보완수사권 폐지돼도 상황 달라지지 않아\"",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YSVRDWmNkVnFhRzhTVDdRaDhDX1h1MGFlWGJNeV9CUm10WEhLYzJHRks5bURRUWdvMHE2Y0t1S1VvNXllV2dMejJKUkEzRkZZSTFhclY2M28xenZQSm1CX0tMd19jRG1feHg4?oc=5",
-              "source": "머니투데이"
+              "title": "특검 \"김건희 '명태균 게이트' 공동정범\"‥대법원에 의견서 제출",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpYUR4RXdHS2V5SVFNeU1sbVVMdkprOThKNGFZLTJXekNXUVBHWXBIdnZOUHRrUERLaHNrVmNJY0lWbFNYdnp3OUdrX2NvNnpONlQ4NUFfQVhaTjJSUkJtSHNZcEZaNHRFMVU4NFh6ZVh1VWpxTzZJ0gF3QVVfeXFMT0VDSExHTEZKUlhiM1FKMnZ0enk0cUNqeDBvRGlheElWRjU5eGI5RFBjaXh2REpsdWhFd2xRUUdQQTFwaVVmVHl6cnpYT1RmVXplZEZKcGV6TkJfR1E3RXBSQ1VBbmFpUV8weHhCbmJtaWV4N0JRUTg?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "국군사관학교 창설 지지선언문에 대한 반론이 제기되고, 김부겸 전 총리가 민주당 최고위원 출마자인 임미애를 공개 지지하면서 '지지' 키워드가 주목받고 있다. 경찰청장 대행의 검찰 보완수사권 관련 발언까지 맞물려 정치·안보 전반에서 다양한 지지와 반대 입장이 충돌하는 하루다. 오늘 처음 등장한 키워드다.",
-          "headline": "국군사관학교 창설·김부겸 출마 지지 등 정치권 주목"
+          "description": "종합특검 연장법이 국회 본회의를 통과해 특검 활동 기간이 8월 23일까지 연장됐다. 국민의힘의 필리버스터에도 불구하고 찬성 183표로 가결됐다. 특검팀은 대법원에 의견서를 제출하며 윤 대통령 부부와 명태균이 여론조사 관련 의견을 합치했다고 주장했고, 김건희 여사를 '명태균 게이트'의 공동정범으로 규정했다. 오늘 처음 등장한 키워드다.",
+          "headline": "종합특검 연장법 본회의 통과, 8월까지 연장"
         },
         {
           "rank": 2,
-          "word": "이란",
+          "word": "연장",
           "count": 2,
           "articles": [
             {
-              "title": "美·이란, '응징과 보복' 악순환 수렁…전면전 한층 가까워져",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XOXVYaUZFWVZEX0dZMGRyRzctT2lId3pBTUdfcEM3UkZLLUVheGtuVEVIa01URTVVTy1UV21nSjRER0pxdzVnbmhKMHhuTkI3X3FEMURqYzFrdzjSAWBBVV95cUxQNDdMM1hyYmhyRUZmbHdFMkFwNURmYkp4aXlZRml2SHRNZHhlQ0hfbjh3ZXFUMGxvc3NVRFFHQk50TU5yd2c0QjltR3U5LUk1Z3pBY0lSd0Z2Q1Zqbkk5SHM?oc=5",
-              "source": "연합뉴스"
+              "title": "‘종합특검 연장법’ 본회의 통과…국힘 필리버스터 종료",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RYXpmTmt0ek5CcnctUi1ibEUyRXBxSkFGSlpiTVQySWVHeHdtN1JHUFc4V0t0ZEs4V1lYVVdHM0h1bzhJYVAtemZuZ2s4SElMa1pUVXNGMThRTVotWFhjUXA5c2NxZW05bGdhX1BxZmdxdkRH?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "뉴욕 증시, 美·이란 충돌 지속에 하락...반도체주엔 저가 매수세 유입 [데일리국제금융]",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2N0JLbGZnUjIwMzR4UUN6SnlWVVVSeWlKRnNUWEhZTEozeFRtR0RhZ0w1UWZKZXdwczhnU3Y1QmQ5MGpsa2QtRlVmNjNKYTB3OUHSAVNBVV95cUxONUZUdUVBR2YxSFR3RWNnYjRSODJNeUxJY2hoOVBKTHI1N28zcHozVmo2V2xEZk15ZlBPemtEVEFaWmxjbUNVekx5N04yWjhWVDl1SQ?oc=5",
-              "source": "서울경제"
+              "title": "국회, '3대 특검 연장' 필리버스터 종료…찬성 183 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCcEstR2V3OEp1bTZyODNvTk1zZG8tWUZxdW8tZGxoeDVWSEM4WldjaUcyOEYzYklMa0M4WW04d3Y0Rlo5ZVpZZjF5T2FzZnlnMmQtVFBkSmd0ZXV4WU9Xb1RWNGhSZlBlcFJzb9IBckFVX3lxTFBBbWJDQ2Y2NnhNNzk5a1VST1NUdUNrWUFOekFGazlrdkp2ZDVUWVdZMTlZeXhmTHUwdnUyZEpUZWlrOWZwRWU0V2JRclpnSWM1Y2JUVmJEY2pvSURtRU94cU9XT01GYXlOTGJyR0ZMWnM0dw?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "미군, 열흘째 이란 공습...트럼프 \"미군 숨질 때마다 몇 배 대가 치를 것\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZM2h1bGYxZnJvR2tYNDVBR0VOR2dnQ1NtaXdocmN3b1lxNG9GalZOSGxnUUZyV3A4Z1BDbzdRTDhFS0ZTcllVZmR2VHBNMWdQWjBNZ3oycy1nNWR3cnc?oc=5",
-              "source": "YTN"
+              "title": "국민의힘, ‘종합특검 연장법’ 필리버스터 돌입",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jRFVpUlJzZGJISnRET2hkR0d6aS1IcW5HeTVKdlpwTDdRalBLeHpVS2xHWjV6d1dpbEk0eGs4NjV3VkhzMFduaThGZlB1STJrUExQLWUwdF9NZ9IBX0FVX3lxTE5Cb1ZBcmVNZHN1N2RFODA0LXNJXzVjS2pETXVLTVh1a0hpZmVFdUlYRkJEa0pveGxSWXg5YkQ2Y3UwVWxqS0ZMRkhsejVibmR3ZzZXVHlZZ0dSanU5U2lB?oc=5",
+              "source": "경향신문"
             }
           ],
-          "description": "미군이 열흘째 이란을 공습하며 미·이란 간 '응징과 보복'의 악순환이 깊어지고 있다. 트럼프 대통령은 미군 희생 때마다 몇 배의 대가를 치르게 하겠다고 경고하며 강경 기조를 유지했다. 충돌이 장기화되면서 중동 전면전 가능성이 높아진다는 우려가 커지고, 뉴욕 증시도 미·이란 갈등 지속의 영향으로 하락세를 보였다.",
-          "headline": "미군, 열흘째 이란 공습…전면전 우려 고조"
+          "description": "국민의힘이 필리버스터에 돌입했지만 결국 종료되면서 '3대 특검 연장법'이 국회 본회의에서 찬성 183표로 통과됐다. 이번 법안 처리로 특검 활동 기간이 연장됐으며, 여야 대치 속에 강행 처리된 결과다. 오늘 처음 등장한 키워드다.",
+          "headline": "종합특검 연장법, 필리버스터 뚫고 통과"
         },
         {
           "rank": 3,
-          "word": "보복",
+          "word": "선관위",
           "count": 2,
           "articles": [
             {
-              "title": "보복에 또 보복… 美·이란 전쟁, 중동 확전 조짐",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWI2cGx1SDF5UURVbXhDSk43bmczY29iMy1tdnA5Y0ZObjg4cWV4WGRSejlwZFZ1MFpDTUNYUC1hYUFhbFdMNTdHU0FDbkxJcmpsSC1JNGVIY0JwRWN3VzZMdmIyU0xaOVlhNWVkRVlLYmxhS1lpb2lVcF85YWVQMGFGUkdtdFd2YXdLc0VTUTFvRjI4bGtXaFV5ZzdCUQ?oc=5",
-              "source": "조선일보"
+              "title": "여야, 선관위 특검 합의…국민추천위서 특검 후보 추천",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvY1EzUTNfQUNKNW9xQmRzdUJzRl81eVJKS08zMnRzUFR3WnR2Ymo2TmtrVnRYT25ndFQ5ZzM5NjdlRElFZUEyRTFQVXdzQ24tUjZGbS1BNll1T0hqbUM4QmZWdy1FQlA1OV9acjVwNkswTlo4?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "이란, 쿠웨이트 미군기지 재보복...바레인도 공격",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96ZlJQVVZKOFZHX0FFQmN5UkdRRWFfZWtzTHQ5RlVxdElXYXVpMi1QLXV2Vzc0NkRSYjJRNUpZNUl2NEJuV1ItVkdaU19qa08xczNEdm42TXdNSGx3N2c?oc=5",
+              "title": "해외출장 3차례 부인 동반...노태악, 선관위에 4700만원 반납",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CQUhrNC1xMGIyYzR1MW9VNkt1dDU4cjUyTHoxSDhTdTZ4MmRFaDdkTFQzUm4ydGNPYk5aRUJOQjBzTk4xeXk4MHFhMW1OdU5xdnVSV3ZibzFRZnBsdVE?oc=5",
               "source": "YTN"
             },
             {
-              "title": "이란 표적 된 ‘친미’ 요르단…공습 거점 역할에 보복",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12bGdLbGswMk0wd1lfeTBEVVRMZENUQzJZT3BGall6c25kblRPSjJidlRmbThyNDkwaEFIdXhkZ253ZGhDMkVtVnBVN1RNZjNDTUNrdG95QTVfUVk?oc=5",
-              "source": "KBS 뉴스"
+              "title": "노태악, 배우자 동반 해외출장비 4743만원 선관위 반납",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44NDEwODUzcHp1TEJ6dlV5TzdrQVZjTzdnVmxORUFfZHhqWXFZYjJydGc2S0JRclNtWFY0UEJMMTBOZ3dVcHExZnNWUEEzSk0xT2N1UzdmeFl0UExpMGlHd2Y2RGRjazlaU3A0ZTVLRFBlb2dONGF30gFmQVVfeXFMT180ZVB4bm90bG81SXBKYmhnblh4bkpSMUlnaU13M2ZzZjNrc1FHVVZ5a2NIRUpyZERoOURsUWxGSGZ0QUVxaW40eEtDNzNvS25BT1BRajVTTGxyeDNHaEVKUkp2N01n?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "이란이 쿠웨이트 미군기지에 이어 바레인까지 재보복 공격을 감행하며 미·이란 충돌이 중동 전역으로 번지는 양상이다. 미군의 공습 거점 역할을 한 요르단도 이란의 표적이 되면서 '친미' 중동 국가들로의 확전 조짐이 나타나고 있다. 보복에 보복이 이어지는 악순환 속에 중동 정세가 급격히 불안정해지고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "이란, 쿠웨이트·바레인 미군기지 재보복 공격"
+          "description": "여야가 선관위 특검 설치에 합의하며 국민추천위원회에서 특검 후보를 추천하는 방식을 택했다. 한편 노태악 전 선관위원장이 배우자를 3차례 해외출장에 동반한 사실이 드러나 관련 출장비 4743만원을 선관위에 반납했다. 두 사안이 겹치며 선관위에 대한 이목이 집중됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "선관위 특검 여야 합의, 노태악은 4700만원 반납"
         },
         {
           "rank": 4,
+          "word": "취소",
+          "count": 2,
+          "articles": [
+            {
+              "title": "간첩조작 연루자 정부포상 198건 취소…이근안·박처원 포함(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Db29NUGZxUUhkZ0M3ZjJBZjE4c1pDNnAtSklVNmRrTEM0SUtCRHFPMWE4VDNaZGhGZG4wTjBSdU54cm9DZFR0SVFORmtDUF9BWWU3ZjZkMTR0V1ZUTDc0b9IBYEFVX3lxTE5Db29NUGZxUUhkZ0M3ZjJBZjE4c1pDNnAtSklVNmRrTEM0SUtCRHFPMWE4VDNaZGhGZG4wTjBSdU54cm9DZFR0SVFORmtDUF9BWWU3ZjZkMTR0V1ZUTDc0bw?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "‘고문’ 이근안, ‘탁 치니 억’ 박처원... 정부 포상 198건 취소",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWpRMGtQcUlBMWdlQkNZT0J0N1haRlg1ZHpBblZWN3A1ZTV2VFc4R1VPWEw3dGYzVzJrTGk3V1BQRl9TQzVEZTNXcV93QXdkM1hZdkZXRFZoaFVTWHNzeUJEUVl0cWU5Ukx4cWdwbG9KRWxCdENyWWJZZ3hrY3RIaGliai1ZMHJuQmRyNkxvVkg?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "'고문 기술자' 이근안 포상 취소‥부적절 서훈 198점 취소안 의결",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41VlZNZnMzaVhNZWEwUkE5YTNmUE5rYzNKaWNZMm5jNUJMbkVlSmJGeTFxN2V2OEhnSHJCdVNqNnBISGtadldyeTV3bkliY2c4WVkxbU9zUFFFd0E1bENXT1hYdXJTRDcxSkVfZEk4MThwMUpEVm5B0gF3QVVfeXFMTXUtc1hkMG9JTUhmUmJQR3E2VkdSa2RPNEJmeUZ6R29fQ3B4eEFqVTJZTVh6Nmk5bXhMUDZKSU9CLVczMjVfcjAxcWhuZHdCUU1pVjZVNEpLSmR4c2VwQ0VkQXRVSEFDS3ZUQjRnYlBUUjhZM1pteEk?oc=5",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "description": "정부가 간첩 조작 사건에 연루된 인물들에게 수여한 정부 포상 198건을 취소하는 안을 의결했다. '고문 기술자'로 불리는 이근안과 '탁 치니 억'의 박처원이 대표적으로 포함됐다. 과거 권위주의 시대의 인권 침해 행위자에 대한 서훈을 뒤늦게 바로잡는 조치로, 오늘 처음 등장한 키워드다.",
+          "headline": "이근안·박처원 등 포상 198건 취소 의결"
+        },
+        {
+          "rank": 5,
           "word": "트럼프",
           "count": 2,
           "articles": [
             {
-              "title": "스페인 우승 세리모니 옆 버티던 트럼프…FIFA 사진서 통편집",
+              "title": "우승 스페인 옆 버티던 트럼프 ‘굴욕’…FIFA 사진서 통편집",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBadTF3NUNTam5LUW9sX3FRRF91MzdiSG9QblF2NXd1Y2hNRjJIM2JCZ0gxTmNtSnFfNkc0Q3ZXQVAxTzhTemxVM3ItdDJyUk0?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "수명 다 된 10% 글로벌관세…트럼프 '301조 관세' 부과 임박",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhVGZiUDhUOFF4eF9jQjBLQWNHQVktcWkxMDAtNFRmSHZtQUFUYkFzdkdHamd3bzY3X1o4cGdhakUtSGFuQ2lwMnRsRENJV2VXbXBOX2FBZUdaekXSAWBBVV95cUxPYjQ0QjJDS1hNUWZKN1BTWDFqRzVCbjVPVU4yNjNnM044NkU4bVdCOHhaTkRYTFVyckhUdFhzVGYyUmg1cHBpdWZ5YUN5amViR01oRHFpLVQ2SGpqZmJDV0c?oc=5",
-              "source": "연합뉴스"
+              "title": "FIFA·스페인축구협회, ’트럼프 빠진 시상식 사진’ 게재",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44d0QtSGhlMnFkenhwMDYtVUpmdzRUbEJpMUxBTDdaSjJBQmhvbDNxcGFBNGNlYnB4LWpJMnlNNUpHa3RCbDNyMGVVeFNNeDh5NUNPaXdnRVBvWXRtdDNKU1l1TGFUMlk?oc=5",
+              "source": "연합뉴스TV"
             },
             {
-              "title": "트럼프 \"네타냐후, 미국 체류 중에는 결코 체포되지 않을 것\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wVy1ZcUhMYlVCSWUtMk00eHcyTXdxS05YQ3FFelZ0THY5TThmODUxeW4tT2w3N21ka3I5ZVlMS3FvV1BFenhWUzJjemp0bVRCNDBld3lRRUhVdkptbDFsTGltOUkybEd0dkRmREtqN2w?oc=5",
-              "source": "연합인포맥스"
+              "title": "FIFA ‘트럼프 통편집’ 굴욕에…백악관 올린 ‘깜짝 사진’",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1OXJLSGpVeEM5UjRoakwtbDR3WWtXUktyNmp5NmZ1NUl4WWF3UTVINWZQTkVTdmhlanNGZXUxN3hhR2NEZkthVlYwSzZSc0RabnV1Umdn?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "트럼프 대통령이 10% 글로벌 관세의 후속 조치로 301조 관세 부과가 임박했다는 보도가 나오며 통상 압박이 한층 강해질 전망이다. 동시에 미국을 방문 중인 네타냐후 이스라엘 총리가 체포되는 일은 없을 것이라고 직접 밝혀 국제사법재판소와의 긴장도 주목받고 있다. FIFA 행사 사진에서 트럼프가 편집됐다는 소식도 화제를 더했다.",
-          "headline": "트럼프, 301조 관세 부과 임박·네타냐후 체포 불가 선언"
+          "description": "FIFA와 스페인축구협회가 클럽 월드컵 시상식 공식 사진에서 트럼프 미국 대통령을 편집해 제외하면서 '굴욕' 논란이 불거졌다. 우승국 스페인 옆에 자리하고 있던 트럼프가 사진에서 빠지자, 백악관은 별도로 '깜짝 사진'을 올리며 맞대응했다. 대회 개최국 정상과 국제 스포츠 기구 간의 이례적인 신경전이 화제다.",
+          "headline": "FIFA, 시상식 사진서 트럼프 통편집"
+        }
+      ]
+    },
+    "경제": {
+      "summary": "반도체주(삼성전자·SK하이닉스) 급등으로 코스피 매수 사이드카 발동 · 홈플러스 회생절차 폐지결정 취소 · 로봇 관련주 양산·협력 가속화",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "삼성",
+          "count": 6,
+          "articles": [
+            {
+              "title": "\"반도체주 회복하나\"…SK하이닉스·삼성전자, 6~7%대 동반 급등세",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83VEJHWFFMN2RKSTdXeGwwRFd4QlpEUVQ2TDVlTmFmcVRXRUxwYXdNVzAwRnQ0a21jN041ak9qeVhlWU1lMGU0QzFXemZXenJHV2pr?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "\"삼전닉스 너무 싸\" 급락한 지금이 '줍줍' 타이밍?...증권가 전망은 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJNUV0cjhiUzhQekNuRzZ0bC1YUWJCWXh0WTdWZjdnMWVuSzVSSG1MdnpvN2U2N2NPUjFGMTVhTHF6X0k0T3NBUUpIbFBwYmlZUUZCRXlxQmFEUlB2OTM0dFBXM0VsSEtr0gFuQVVfeXFMT0VVZEF0VkRLOE9DRkFZVHBKS3lfQW1jdDJpMFUyUWp0SFdXVWRPdmE1U1JkSmpmdW9aRmttSU00ZXd3bjR3NDE3Nk50VlJhdi1oNVJ1UFRXSHZRclhmVWZIMDNxZFpKUHJUQTF2dkE?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "엔비디아 독주에 제동 건 AMD, 삼성전자·SK하이닉스 HBM4 ‘큰손’으로 부상 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTZqazVaR1RoTXZCdlZIUTdXUEVjUDM0Nm9KcWJDYncyOEFWbU9ka1U5cC16b0dVNmdGTldRR25BdlZyczRKVE9FWUpGSGRNQWFpOEd2LWhUY2d0VDBDTXJrcURTcEUxa2IxdjNqY2FIdnFsUmhjcWtKZU5aNmJyWURn0gGWAUFVX3lxTE1IUUZBdTFoQ2NlTk8tS3Y2ZEN1RzhONF9XYkd5NHJ6cmhsUFZFVUlwVjUzb003SGI3WDNqaG9JMkp1VjlVUGhCVWd0OGcyLW5TTnFDcXpKNkw0c3VLcFNjMEFPTi1zU0IwYlNXS2dTZjRuYjc0d3ZvZEJWNW0zX3Y0U3VqVFVYVzVFcVhDand2WDdYWlhrZw?oc=5",
+              "source": "Chosunbiz"
+            }
+          ],
+          "description": "미·중 관세 전쟁 여파로 급락했던 삼성전자와 SK하이닉스가 6~7%대 동반 급등세를 보이며 반등에 나섰다. 증권가에서는 '지금이 저가 매수 타이밍'이라는 분석이 나오는 한편, 과도한 레버리지 투자를 경계하는 목소리도 나온다. 한편 엔비디아에 맞서 AMD가 AI 가속기 시장에서 존재감을 키우면서 삼성전자와 SK하이닉스가 HBM4 핵심 공급처로 주목받고 있다.",
+          "headline": "삼성전자, 반도체 급락 후 6~7% 반등"
         },
         {
-          "rank": 5,
-          "word": "닉스",
-          "count": 2,
+          "rank": 2,
+          "word": "코스피",
+          "count": 4,
+          "articles": [
+            {
+              "title": "코스피 급등하며 매수 사이드카...\"반도체주 바닥 다졌다\"",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXNSTUd5d0tKNXBYanV3cFhQX0pHUElhUXlHeE5makdDbHNlZHd2WWdrMERjLS00bld0X3hURWUzNDFNaDVBQkFTY2p5X2pBTHo5eXV2czI3bDN6Q0hCUk5vcUhzek1FSlBCWC1YZTU1d1RrSElIOURWV0xPMGRsZw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "\"김대리, 삼전닉스 주식 몰빵했다며?\"…코스피 폭락에 '포모'가 '조모'로",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uVXpER1llQ2N0aVFUeDlFSHBBVTZ5cy02MkVtbEh1MkgyTHlkV0lBU0Fpck9jbVJob3B2dlRRazNqZFJJYkc0cTFPSUdybFFGbkF1T3FKS3E4NGo1aVk1Rw?oc=5",
+              "source": "아시아경제"
+            },
+            {
+              "title": "코스피지수, 조정에도 핵심 포지셔닝 위험 여전: 씨티",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjTTliZlgwWUdpOWREQkRZU0NFTFB1ZkpjQnBKX2dNYVMyUU82S1FsXzVRTjlVQ3N3Q0YwMlBpVzYwMUNLQ0s0d1FQRUdXejZqb1VlM1AxVkpCbjJ3QTQ0UUN1blBoRGxhcV9MMWR6UGY1Q2NLZXhF?oc=5",
+              "source": "Investing.com 한국어"
+            }
+          ],
+          "description": "코스피가 반도체주 반등을 이끌며 급등해 매수 사이드카가 발동됐다. 시장 일각에서는 '반도체주 바닥을 다졌다'는 기대감이 나오고 있지만, 씨티는 조정 이후에도 핵심 포지셔닝 위험이 여전하다고 경고했다. 앞서 코스피 폭락 국면에서 몰빵 투자자들 사이에 '포모(FOMO)'가 '조모(JOMO)'로 바뀌었다는 자조 섞인 반응도 화제가 됐다. 코스피는 어제 5위에서 오늘 2위로 올라섰다.",
+          "headline": "코스피 급등, 매수 사이드카 발동"
+        },
+        {
+          "rank": 3,
+          "word": "삼전닉스",
+          "count": 4,
           "articles": [
             {
               "title": "“삼전·닉스 레버리지 투자 멈춰라”···ETF 팔고있는 자산운용사 대표의 양심고백",
@@ -117,199 +194,98 @@
               "source": "경향신문"
             },
             {
-              "title": "삼전닉스 전망 갈린 고수 4인…“이건 모아가라” 입모은 종목 [코스피 긴급진단]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xUml2ckQwdWI0OFc0blcxbzB6ME9zeG9YWUV1bjRycWZfMVpFaDBQM2ZwWmNUSkNLNm5hekRsX1AzZXJhdnlkNUwxNUtGdmptRTlpNHdR?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "삼전닉스 전망 갈린 고수 4인…“이건 모아가라” 입모은 종목",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iVWUtcUtmQVl4dEZIUklDU0lxcnc0VFBxZVJLeE9qOHNSaVRVRnFtdzl3X3NLU3B3RkV0SEh2ZzVNUmdfLVlZd1kzSXltdXpNd2M4UERR?oc=5",
-              "source": "중앙일보"
-            }
-          ],
-          "description": "'닉스'는 SK하이닉스를 가리키는 투자자들의 줄임말로, 최근 삼성전자와 묶어 '삼전닉스'로 함께 거론되고 있다. 오늘은 한 자산운용사 대표가 삼전·닉스 레버리지 ETF 투자를 멈추라는 '양심고백'을 공개하며 주목받았다. 전문가 4인의 전망이 엇갈리는 가운데 어떤 종목을 모아야 하는지에 대한 관심도 높아졌다. 오늘 처음 등장한 키워드다.",
-          "headline": "삼성전자·SK하이닉스 레버리지 투자 경고 잇따라"
-        }
-      ]
-    },
-    "경제": {
-      "summary": "서울 아파트 상위 1% 진입선 46억 · 최태원 성과급 제도 손질 시사, 리노공업 파업 · 3분기 은행 가계대출 문턱 높아질 전망",
-      "keywords": [
-        {
-          "rank": 1,
-          "word": "아파트",
-          "count": 4,
-          "articles": [
-            {
-              "title": "이 대통령, 29억에 아파트 팔면서 '17억 근저당'…왜?",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UTFgtNkZOUmhWYXR6X1ZnNE5aeVpvZ1FjMm1zbWxTekF3dFJhNHdEMS1HaTZrRkd4WlZLWkVaRkFuSnMzWFJTTC1OMzBrZ1k?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "서울 아파트 상위 1% 진입선 46억… 경기도는 18억5000만원",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54cGFWX3dfZEdtWmlZUm9LaUYtUGhvTHpKX3ZnUU4yTnVCN2lzV01WZ0lTa01FSXdMdXVFRk1pZ21maUprYkpUYU85NzlHMGs?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "여고생 앗아간 은마아파트 화마…\"무자격자가 테이프로 전선 붙여\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8za1JCRUxCaXVWUGtzRlpvNENhOEFGR21JZHNUY0I1Y1RZQmstazFIUXZualdrYjVRZkhlMGxzb1hiSkhXNFBOaEloUDF4V1JnU21GTjRaS1Q2SWvSAWBBVV95cUxOekVsYUY1RS1BSWNiWDBOcHJCS0J4YkdFVnA1dXc0UHlFcjZHVHgzck1TRnhYSVFUdGZFZmVaS0dCNnE1b0lzYW5EY1ZxZnQ4dlhjTWpwaWMxYnBmN2RuSDI?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "이재명 대통령이 29억 원에 아파트를 매도하면서 17억 원의 근저당이 설정된 사실이 알려져 논란이 일고 있다. 국민의힘은 사금융 대출로 규제를 피한 꼼수라고 비판하며 공세를 높이는 상황이다. 한편 서울 아파트 상위 1% 진입선이 46억 원, 경기도는 18억 5000만 원에 달한다는 통계도 공개되며 수도권 집값 양극화가 다시 주목받고 있다. 은마아파트에서는 무자격자의 부실 전기 공사로 인한 화재로 여고생이 숨지는 사고까지 발생해 아파트 안전 문제도 함께 도마에 올랐다.",
-          "headline": "이 대통령, 29억 아파트 매도 시 17억 근저당 논란"
-        },
-        {
-          "rank": 2,
-          "word": "법원",
-          "count": 3,
-          "articles": [
-            {
-              "title": "“자기야, 이건 갭투자도 된대”…집 사러 법원 가는 30대 부부",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DMlRWQ0FwRmZ4UzM3V1BNekRxdFE2MEFpb1dCUS1oaVJxTnl6NnVqX2lNODctRnBNYTZhS0ZIVkJINmtXWDEyZ2VrUXItWXJuZWlpUXl3?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "반독점 소송에 제동 걸린 파라마운트-위너 인수…법원 \"2주간 중단\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAya29sblg4V0NJYnJrNkxvMS1JNEh0ZFNtR2FZczk5UjFybmFJT3o4RlhUWTVTX1hPaW1KeDNOVlIwb2VGTHlrVVNJa2xQc1RSdUdjcXVET2I2WVZvUUV6enh2a2VzcUZh0gFuQVVfeXFMTWZSV18yTW9yMUJFV28xXzdLcGx2aWcyOWtEVjU3cUprSzBxWVVJTXBLRy0tbnZCWlItOUJOWVFjZEppeDEzTHl2djd6ek5tdWxZdm90NXFKLXIyZG9OeDMyMlBhREZYdmV6Q0VsOWc?oc=5",
+              "title": "\"40% 세일!\" 줍줍 몰린다…반도체 고점론에 급락했던 삼전닉스 반등 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kNnpKTUoxZzhKVGdBcGdsQkgwek9vU0twcUp4VmkyUHZkWTIyTS10d2xHbC13anl5NVFfQzNOVURSZ0NmNXdPVklXSWxVU3FBRlVkaDRTa3RFeENBand3VTZiSFNzSUlO0gFuQVVfeXFMTkdPR21GQ0Z3ckh5UTNXemg0OUZSVUM2YktnTlVWSy1zQVhQbVhCQ3lsNjlUWHlzMFZfSEx6Q2xkc0pNSHlnVUZNT2RpajZDTFZjVHVOVDc2YUNYbXBScXg3clJxOE1FMzl3N1FlNlE?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "결국 멈춰 선 파라마운트-워너 합병…법원, 2주간 중지 명령",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00aTdkVl9TcFJ3b3Bjb3EzZVB4TXN2d1hyalQxWS1GaWVobG1MVGNpT3lKZ1EtN1J2X002SUhPSDZwQnN2Mjc2UFZvMTY5TGlYNlRrbi1XTllVT1nSAWBBVV95cUxPVzdocXNoWE4waFpSTjM2RmVZd3ZLOENmbHR0QWU2UVNhWm1NQmFNOFpyMUFsUE56eVhSNElHLVVUZkZwY0F6YVFBZVhwZU1xelBTZDk4WEJ3TjdLMTBRWkw?oc=5",
-              "source": "연합뉴스"
+              "title": "다시 일어선 삼전닉스 … \"반도체株 펀더멘털, 살아있다\"",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45S2ZHTThnZk05Ykh5NjlYVFVqYXlwQm9XNDN6d3VFcUJmbTNld1RMN2NGbW5tUExIemhBbFVzUmhaZDVXWGs4cDVYUXA1OUZCcHc?oc=5",
+              "source": "매일경제 마켓"
             }
           ],
-          "description": "미국 법원이 반독점 소송을 이유로 파라마운트와 워너브라더스디스커버리의 합병을 2주간 중단하도록 명령하며 글로벌 미디어 업계 빅딜에 제동이 걸렸다. 수십조 원 규모의 이번 합병은 OTT 시장 재편의 분수령으로 꼽혀왔던 만큼 결과에 업계의 이목이 집중되고 있다. 국내에서는 경매·공매 물건을 저렴하게 매입하려는 30대 실수요자들이 법원 경매시장으로 몰리는 현상도 함께 조명됐다.",
-          "headline": "법원, 파라마운트-워너 합병 2주간 중지 명령"
-        },
-        {
-          "rank": 3,
-          "word": "성과급",
-          "count": 3,
-          "articles": [
-            {
-              "title": "‘청천벽력?’…최태원 “영업익 10% 성과급, 부정적 영향있다면 손 볼 필요”",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOZFo2TjFQa2lBZlJ4QzB4Mk1nUFdOaHZIUmFvMEVSQTBSR3RWV1ZoS3NlTjBndWxTT21KX2FJOEd0TmVIOHVYLXJPWE4zczct?oc=5",
-              "source": "문화일보"
-            },
-            {
-              "title": "‘성과급 지급 갈등’ 리노공업, 창사 이래 첫 부분파업 돌입(종합)",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXVIOTFOZkxVZVkzeHNqSkVZZG1XblFteWhXbklkVlRkdlpmemFabUU1SG5HM0Yzay1WRXNjV0pqdXM3UmNOUHdlMnNEUFVucHM1T1RSeWZLcEJYMlJpakV0cWlfQy03VnJ6VlNzWDdoLWhBQXFQbDVOa1pqSGFlTWJ6d3laY1dBOU5JYXBR?oc=5",
-              "source": "국제신문"
-            },
-            {
-              "title": "“주가 급락에 6억 성과급? 못 참아”…삼성전자 소액주주 국민연금에 서한 발송",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Bd2NDUFAxS2dCU0dYZDl4bHNWMHB4a3dKa2Z1WlNWcTFGYUFxOUtqTWdHR0dzRG52dFpScjBLSEtxejl4T3c?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "국내 주요 기업들에서 성과급을 둘러싼 갈등이 동시에 불거졌다. 리노공업은 성과급 지급 분쟁 끝에 창사 이래 첫 부분파업에 돌입했고, 삼성전자 소액주주들은 주가 급락 속에 거액의 성과급 지급에 반발해 국민연금에 서한을 보냈다. SK 최태원 회장은 영업이익의 10%를 성과급으로 지급하는 방식이 부정적 영향을 준다면 손볼 필요가 있다고 언급해 SK 내부에서도 성과급 체계 재검토 가능성이 제기됐다.",
-          "headline": "삼성·SK·리노공업, 성과급 갈등 동시 점화"
+          "description": "급락으로 '40% 세일'이라는 말까지 나왔던 삼성전자·SK하이닉스(삼전닉스)가 오늘 동반 반등하며 투자자들의 저가 매수세가 몰렸다. 반도체 펀더멘털이 살아있다는 긍정론이 고개를 드는 가운데, 한 자산운용사 대표는 레버리지 ETF 투자를 멈추라는 이례적인 경고를 내놔 눈길을 끌었다. 단기 반등 기대와 추가 하락 우려가 동시에 존재하는 상황이다.",
+          "headline": "삼전닉스, 급락 후 반등…레버리지 경계론도"
         },
         {
           "rank": 4,
-          "word": "대출",
+          "word": "홈플러스",
           "count": 3,
           "articles": [
             {
-              "title": "“나도 2천만 원 빌릴 수 있나?”…삼성, 2천억 무담보 대출 [잇슈 머니]",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPUlYzMndqdTZtUUY0dmEyQzdldDA3LVM1NldYRjlFdzM1U1BpMF95YTA4R2VLXzN5XzU1YVA0VUtHMUtaX1kzRExZQ25tUjQ3aHh4YkJUWWNYVUU?oc=5",
-              "source": "KBS 뉴스"
+              "title": "서울회생법원, 홈플러스 회생절차 폐지결정 취소",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dTdxTkNObHVHajFEQk5xM01EenZ5WS1zUFU5U2FxSWpMWHJlZklsOVlHMkFIM1AyWWpUcnRiSEpEOUJpVV9tdTNGVTZhdjhaa3YzcS0wM1JOMXI0eHdmaEtDRV9oUFlTR29VdjgyUWY4d0ZVZ1NR0gF3QVVfeXFMTTZKVWVWNFB0d3RfUUY1QjhCQzBxTXE3QkRYYWdvYTdrY1lJM3VfV0hjUnBfeWpwLWI5dG5rcDRQZnU4Z1IzWDlQbDJvX0plTFl1djR6cFI2V2QtZldkbkczODdjbzRqdk9vMmcwVDRHUjUwY0kzNjA?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "3분기 은행 가계대출 문턱 더 높아진다…주택대출 수요 둔화",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iZXdNQ083aTBhM25SU2ljTC1mNjdfZklmSEx2WlBfeHc4V2dNbml4Rm44Q1kwYnFSUWFsSkdoUGlKcTgzeldyM1BNV2g4dw?oc=5",
-              "source": "전자신문"
-            },
-            {
-              "title": "국민의힘 \"17.7억 근저당 李 대통령, 사금융 대출로 규제 뚫은 꼼수\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81bWg2cWhqMnp2RkNrODJrVVFsU1dSTVhteU44am9NR1hVaktuMVpqVGpXblgzZ053eTluWDdqQ0lvb3doS2gwYVNVVG0yX04yelhoWHBBVG94QlRBcGhPOVh1Tzl5dnRPQzI4etIBckFVX3lxTE9TMk4xeEczRHZCbU85VS1ieUhra1ZVVVJjSlFCM2ZBU3R0Vms2NnotN2JiRERnaktmWUJ5TXNvT2VoZzJ6VldZWEVmVm12YllfdFQwZmVqeWRXM2xnT3hJTHZDeEdNQUdwU3hpZEdOQ3BIUQ?oc=5",
+              "title": "\"홈플러스 사태 재발 막자\"…정치권, 대형마트 영업규제 손질 움직임 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHWVVuU0FqRmQ2SDVDSllhaXNfdTh2ZHB2bTE5VnBHQklocWszVWpoRDJXSTJUdHpBOVl0Zmk2QXlpMWtpeHVFQldQSUZHR3gzUTJNSmxtbV9oOW0teDFfQlA1QVMtT2hUVHfSAW9BVV95cUxOeDQxMXV1amZfc0NXYURJRUVBYkRsRFdHTHhiVG5iZ0VXc2o5RktxVHAwZVdpNGxTdFJpWThDOXViWFJ3ejNncUduak9OeUxqU1RxVzRrbHpuWVd5UENPZXU5RXlGNDcwbHpRZ205UGM?oc=5",
               "source": "머니투데이"
+            },
+            {
+              "title": "이찬진 \"홈플러스 관련 위법사항 제재절차 신속 진행\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YTnZyZjA1WVdtbFd5aDFDTUVSSmdYcEg1eWZCdWk5X1JDUXdWanZNaExaTzg5SlZrQjZKRTZhX0h6Tkh3bk9GZkdaOEhwREk?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "3분기 은행권의 가계대출 심사가 한층 강화될 전망이며, 주택담보대출 수요도 둔화될 것으로 예상된다. 이재명 대통령의 아파트 매도 당시 17억 원 근저당 설정 문제가 사금융 대출을 통한 규제 우회 의혹으로 확산하며 정치적 논란으로도 번지고 있다. 한편 삼성이 2000억 원 규모의 무담보 대출을 추진한다는 소식도 전해지며, 대기업과 서민 양쪽에서 대출 관련 이슈가 동시에 주목받고 있다.",
-          "headline": "3분기 은행 가계대출 문턱 더 높아진다"
+          "description": "서울회생법원이 홈플러스의 회생절차 폐지결정을 취소하면서 홈플러스의 회생 가능성이 다시 열렸다. 이에 정치권에서는 홈플러스 사태 재발을 막기 위해 대형마트 영업 규제를 손질하려는 움직임이 본격화되고 있으며, 금융당국도 관련 위법사항에 대한 제재 절차를 신속히 진행하겠다고 밝혔다. 오늘 처음 등장한 키워드로, 법원 결정을 계기로 관심이 집중됐다.",
+          "headline": "법원, 홈플러스 회생절차 폐지결정 취소"
         },
         {
           "rank": 5,
-          "word": "삼성",
+          "word": "로봇",
           "count": 3,
           "articles": [
             {
-              "title": "출근길마다 외치는 '톱3'…삼성생명 태국법인의 자신감 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uejI5MXJpbDlyYnl6bmw4cVVHUVZyN1NxVk03VlFwa3hva3ByWlRMbjF6QVZnWnpyUHV6SFVKOGtFaURDSm84RXdxRGZsRGppQVF0V1Z0UnIweHBndVEwcUUyaC1QZXNteXZF0gFwQVVfeXFMTmc2ZzUtZ0JTa1pJZng4SjRFYm5VSVFIUzZmdG1SblpTb3dVNEJJMnUwR3pwX2dvR0Zhem5TTGRUSlYwYnBwSVlFaFZxcTk2MTJjSm9ReU10Q3R2ZkpTS3BQX1JVQjhWdHlMLVRZUjk0UQ?oc=5",
-              "source": "머니투데이"
+              "title": "삼현, 로봇 액추에이터 양산 속도 낸다…이르면 내년 1분기 양산",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ObmM2NWRqdXFLRkQ4YkEwbE5hTlNOWWRkSkF2Qkx4ME03ZkhISkZuQ3VIc3MyNUNjUTE3RS1ObVNJVG5HMW82TmxreV9fUQ?oc=5",
+              "source": "전자신문"
             },
             {
-              "title": "\"번 돈 국민에 돌려줄 것\" 삼성 통큰 약속…벌써 '1조' 풀었다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84bXRyS09PYkFZS2NTMzdvbjVMOHRrSlJVWGJnd181OWN3UjdxTnRiT1prSHFSdDdxUDEyVEFrcE5MN3dwdjlZMVlGR0FZY1Y2MjdoN3JpdHBwUQ?oc=5",
+              "title": "레인보우·현대로템 로봇 동맹…로봇개 군단 하반기 전방 배치",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YMTY2LXVCUEd1YTlONktHMmFlSUVwa3pHQUF5ZFNZNWFlLU8xYnNSTm5EbTVybUlHbV9QdEo2djZOWUdic3VfczViWElrZnlSTTBnTFh1U0lMZw?oc=5",
               "source": "한국경제"
             },
             {
-              "title": "바클레이즈, 삼성과 美 신용카드 출시 제휴",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pY281eEJlZ0R3Vk1HUXZkYTVOU0hfMWpIYmxxaFM5NDd1WWdrSS1hWmdsc1pfdXVkdm1Kbm4tMjVnQjFya1plMFZjcGdRc29rOXJiSHAzNDR0SklDOEdMbnNzc3pZcWgyUXlsOFZkakZxUlpoelBB?oc=5",
-              "source": "Investing.com 한국어"
+              "title": "삼성전자, 로봇사업조직 신설…노태문 대표가 직접 지휘",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uTXY3MkxlZVRQbnd6NFdkRXBBNmY5S1dOU2RVaEd2STQwcEwzb005NDJsamcxT3pVN0I3Q0c4ejk3NXlDWFVoTmx1aDNMUWI4SzVjdnpR?oc=5",
+              "source": "지디넷코리아"
             }
           ],
-          "description": "삼성이 글로벌 금융사 바클레이즈와 손잡고 미국 신용카드 시장에 진출하는 제휴를 맺었다. 아울러 '번 돈을 국민에게 돌려주겠다'는 약속 아래 이미 1조 원을 환원했다는 소식도 전해지며 주주 친화 행보에 관심이 쏠리고 있다. 삼성생명 태국법인은 현지 생명보험 시장에서 '톱3' 진입을 목표로 공격적인 영업 확장에 나서는 등 금융 계열사들의 해외 사업 행보도 눈길을 끌었다.",
-          "headline": "삼성, 바클레이즈와 美 신용카드 제휴·1조 환원"
+          "description": "삼성전자가 로봇 전담 사업조직을 신설하고 노태문 대표가 직접 지휘에 나서며 로봇 사업에 본격적으로 속도를 올리고 있다. 현대로템과 레인보우로보틱스는 로봇 동맹을 맺고 하반기 전방 배치를 목표로 로봇개 군단을 준비 중이다. 부품 업체 삼현도 로봇 핵심 부품인 액추에이터 양산을 이르면 내년 1분기로 앞당기는 등 산업 전반에서 로봇 상용화 흐름이 빨라지고 있다.",
+          "headline": "삼성전자, 로봇사업조직 신설…노태문 직접 지휘"
         }
       ]
     },
     "연예": {
-      "summary": "BTS가 2026 월드컵 하프타임 쇼를 장식했고, 아이유는 건강 문제로 콘서트를 취소했으며 악플러 대응에 나섰다.",
+      "summary": "남주혁 학폭 논란 해명·아이유 이관개방증으로 콘서트 취소·BTS 월드컵 하프타임 쇼 출연·구혜선 공중화장실서 기절 발견",
       "keywords": [
         {
           "rank": 1,
-          "word": "BTS",
+          "word": "남주혁",
           "count": 2,
           "articles": [
             {
-              "title": "결승전 뒤흔든 BTS·트로피 연 정호연···2026 월드컵은 ‘K컬처 무대’였다",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0UVN6Qk9VYUd0Qm5sYnVzTmV3YlE2SUF4Ymc2TVFESEU1ZlU3ZzJEVHFaQmJqLW1zWGhnREk1b1J6LW1tX3c?oc=5",
+              "title": "남주혁, 4년만에 밝힌 학폭 논란 \"안 억울해..사실관계 바로 잡히는 중\" [인터뷰②]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84Uy16a1VKUTVvSWljWkVKcU1OSkJBcHdWZWNVb240N3hmcXRqdzdmc21YLWZtQkRMQ20zVTAxUmt5ejlFMVhPY3RlVmxWYVk?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "BTS “월드컵 하프타임 쇼, 꿈을 꾼 기분”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XUTZFd2lPRXNCUzlVX292Rm92Q0JFSlUya1diSFhRQlV2b0xHOU81RzdZLURiaEFtVHU5eG9sd1drdWlxb1dqbTBtcjZ1Z1U?oc=5",
+              "title": "남주혁 \"군대서 연기 너무 하고 싶었다..'동궁'에 120% 쏟아 [인터뷰①]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GMzJNN0stVVl3dlJGdDR2OGJWRFozdEpQZ1lFdkRIQkc0NWpyajNXLWY3dHpVb0V4amIwajY4Nm9vNzBJcGNQWjRXVUhJVzg?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "월드컵 결승전 역사상 첫 하프타임쇼…BTS가 지구촌 달궜다",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0MlB2eDk4aC1fZmJxa0tFaDdJbzdzZ0xuMVNwbW1YRkVHdGhvX0R5X2NaSEJrWXMxNExPRTA5dGlZSXNEWllrdXc0WnhzdFNpQ2hTZVV3?oc=5",
-              "source": "중앙일보"
+              "title": "‘동궁’ 남주혁 “입대 곽동연, 후임에게 사랑 많이 주길”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vSnlHN3JINVpmdUs2LXJWalBEci05b3ZkZW5LMnh5MVBRUk1CWWpsNGNnTjZCdkYtbENHSW5IMzF6MUprQVl3UmhidUZfQ25TdmQ5Z0N5R3VIYi1lN0HSAWNBVV95cUxPN0pLWkFsUXNXaWlpbkxlcVF0NGhsMGZLRnlPcjAzdmZyY09DeTA3eklXWDBDUHpYYTJFU0RHMzVLSFZSRnhZX2dWaUYxeE5xbXlfY3JDQVNFVlNYLThXTnZSbnM?oc=5",
+              "source": "스포츠경향"
             }
           ],
-          "description": "BTS가 2026 FIFA 월드컵 결승전 하프타임쇼에 올라 전 세계 시청자를 열광시켰다. 월드컵 결승전 역사상 첫 하프타임쇼로 기록된 이번 무대에는 배우 정호연의 트로피 공개도 함께 이뤄져 K컬처의 존재감을 한껏 드러냈다. BTS는 공연 후 \"꿈을 꾼 기분\"이라고 소감을 전했으며, 2026 월드컵이 사실상 K컬처의 글로벌 무대가 됐다는 평가가 이어지고 있다.",
-          "headline": "BTS, 월드컵 결승 하프타임쇼 장식"
+          "description": "배우 남주혁이 4년 전 불거진 학교폭력 논란에 대해 인터뷰에서 직접 입을 열었다. '안 억울하다'며 '사실관계가 바로잡히는 중'이라고 밝혀 눈길을 끈다. 현재 드라마 '동궁'으로 복귀한 그는 군 복무 중에도 연기를 간절히 원했다며 작품에 120%를 쏟아붓고 있다고 전했다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "남주혁, 4년만에 학폭 논란 직접 해명"
         },
         {
           "rank": 2,
-          "word": "장원영",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'태도 논란' 장원영, 현장 스태프가 남긴 진짜 한마디…\"좋은 영향 주는 사람\"",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1LZ2NjTThhaDJxaUh1R0hjNkp2dDI1TUNMMnllT0xUc0tCdG5oX3pKb01PeWdOUkhzcVl4bGxMOWpaNEJEWVE?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "리센느 원이, 걸그룹 브랜드평판 1위…장원영·카리나 제쳤다 - 스타투데이",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DbnYzZTRCR1hXaTV0V1d4MmFyaE1lc2ZtMkE5ZDQ0OGZsdExLNXJUekJDTG9IMXJfZ2N0RHFRcXFoNWVHZE1qZlRnRDhITWxWNVN1NEZqS1g?oc=5",
-              "source": "매일경제"
-            },
-            {
-              "title": "서울 자가 137억 현금으로 샀다…20대 걸그룹의 '부동산 쇼핑' [집코노미-핫!부동산]",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtS0hlYTZyZjBtdFExTXhqSUZJUkFQUWtCWWxCdlp2V3pxeHdNaG1OVHdPWldCWVJxN2MyYzc0aXgtSVM4dlVibS1OTzRyZmlXaUt4emVLeUtYQQ?oc=5",
-              "source": "한국경제"
-            }
-          ],
-          "description": "태도 논란에 휩싸였던 장원영에 대해 현장 스태프가 \"좋은 영향을 주는 사람\"이라는 직접 증언을 남겨 화제다. 한편 걸그룹 브랜드평판 집계에서는 리센느 원이가 1위를 차지하며 장원영과 카리나를 제쳤다는 소식도 전해졌고, 장원영이 서울 자가를 137억 원 현금으로 매입했다는 부동산 관련 보도도 관심을 끌었다. 오늘 트렌드 순위는 어제 4위에서 2위로 올랐다.",
-          "headline": "장원영 태도 논란, 스태프 증언으로 반전"
-        },
-        {
-          "rank": 3,
           "word": "아이유",
           "count": 2,
           "articles": [
@@ -319,191 +295,215 @@
               "source": "연합뉴스"
             },
             {
-              "title": "표절 허위에 간첩·화교설까지…아이유, 악플러 잡으려 美법원에 정보요청",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qbHpqMW40cGRwQUFRZE5PM1ByM0JjNHdwN1BXN3FyXzF6VjlraXY0YjRsaGcyeng0LXEyLWoydnVvVHplVTZEUFRRZU05UjQ?oc=5",
-              "source": "v.daum.net"
+              "title": "“약속 못 지켜 미안” 콘서트 취소…아이유도 울린 이 질환",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBadmM4OGgyNjVMWEtZN0ZpQWFVTU8ydjBBZHZ5SjRJdnlqdmRvaDl4UlYwS3Y1ekVUSEQweVdpclFXSVdYM3AzSnBZVUxxUC04b0RFNFlR?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "\"밤낮으로 지옥 같은 시간 보냈다\"...아이유, 고질병 악화로 콘서트 취소·앨범 연기까지 [헬스톡]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zbFZPeUo0VmFhWFpVeVYzanF1MkttUEx3eTVIalByWG9Lc0RBWUkzWWhGbHY0ODZoQ3RnME5uOEZ0dDM5dzF3VF9iUHN1c2s?oc=5",
+              "title": "'컴백 연기' 아이유, 오늘(21일) 예정대로 뮤직비디오 촬영…\"컨디션 고려\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpakVQMEFicEdGLVl4bkYxVlZVUWc3bm9kNFZGU1ZFVi1nTHU0MElieVpHMmdwMzd3NWdYaEJUVnRUNE8wNUt2Mk5vZTJwelk?oc=5",
               "source": "v.daum.net"
             }
           ],
-          "description": "아이유가 이관개방증 악화로 고양 콘서트를 취소하고 앨범 발매도 연기한다고 밝혔다. 이관개방증은 귀의 이관이 비정상적으로 열려 있어 자신의 목소리가 크게 울려 들리는 등 일상생활을 심각하게 방해하는 질환이다. 아이유는 \"밤낮으로 지옥 같은 시간을 보냈다\"고 고통을 토로했으며, 악성 댓글 작성자를 상대로 미국 법원에 정보 제공을 요청하는 법적 절차도 밟고 있는 것으로 알려졌다.",
-          "headline": "아이유, 이관개방증 악화로 콘서트 취소·앨범 연기"
+          "description": "아이유가 이관개방증 진단을 받아 고양 콘서트를 취소하고 신보 발매도 연기했다. 이관개방증은 귀와 코를 잇는 이관이 비정상적으로 열린 채 유지되는 질환으로, 심한 불편감을 유발한다. 아이유는 팬들에게 '약속을 지키지 못해 미안하다'고 전해 팬들의 안타까움을 샀다. 다만 오늘 예정됐던 뮤직비디오 촬영은 컨디션을 고려해 예정대로 진행한 것으로 알려졌다.",
+          "headline": "아이유, 이관개방증으로 콘서트 취소·컴백 연기"
+        },
+        {
+          "rank": 3,
+          "word": "나홍진",
+          "count": 1,
+          "articles": [
+            {
+              "title": "이동진 '호프' 별점 4점 줬다가 악플…\"나홍진과 친분 없다\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PZ3pCZ1RMaFpoYS0zOW43LTJSd0hiTU5mVlBFVkZkem9TV1o3VnBxZU1LeXhoN1VlTjFGRGxYeG9oa1VNX3YyemVpNDhLVlgzdEljdmM2emRoUjUwZ21scdIBeEFVX3lxTE5uSHhJNzFqMlE0bFMzMkN6SW9pdXJHdkpVUjVGeFNfXzY0S0lEeWd1T3drVncxQkt2VkxYSEJabU9VVU9JbU1RdGxUS1NMNVg1eGRSdS1ydnB4MWNGR3JyVFh2SFB0REw4QjBIVjFIRU1QektFRGVBNg?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "봉준호 놀라운 질문에…나홍진 “호프, 서사라는 살 내주고 디테일 ‘뼈’ 얻어”",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWbXVtLUF4QV9FMEJCaEEtX1FfZ0lUUFhnMmRmUmV6Y2JkR0ZrNHVXX2lhZUljaFlCZVhmcXhxb1ppeTFXRWVVVDNSQTJBcFRIZFUtMElIYXo5dmVISU92cTQtVzdEZmtZT3lVRUNpd3dFQQ?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "'호프' 왜 만들었냐고요? 지금 난리난 나홍진 감독 인터뷰",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYeE1tc0hKWG5uNk8zOU1uSHF4M28zYy1aMkVwWUhKOHlWNDVRc2tlZlNGTmk4ZDRKOGFxVnA0aGdQcTA3Vm5PTkRCZmRhcDQ?oc=5",
+              "source": "엘르 코리아 │ ELLE KOREA"
+            }
+          ],
+          "description": "나홍진 감독의 신작 '호프'가 개봉 후 각계의 주목을 받고 있다. 영화 평론가 이동진이 별점 4점을 준 사실이 알려지며 온라인에서 논란이 일었고, 이동진은 '나홍진과 친분이 없다'고 해명했다. 나홍진 감독은 봉준호 감독과의 대화에서 '호프'에 대해 '서사라는 살을 내주고 디테일이라는 뼈를 얻었다'고 작품 철학을 밝혔다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "나홍진 신작 '호프', 개봉 후 화제 집중"
         },
         {
           "rank": 4,
-          "word": "박진영",
-          "count": 2,
+          "word": "방탄소년단",
+          "count": 1,
           "articles": [
             {
-              "title": "박진영 “사라” 믿고 JYP 9만원대 샀다가 지금…",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ubXBVbFFCTVU2SmFuOS1RUTJibmlPeDJVcUpfT1JxYnVYNUZ1dXN3UjFjZmtHZ2pBeXJ0WWRUVlVyemtONnBoakJfNG84X21z?oc=5",
-              "source": "문화일보"
-            },
-            {
-              "title": "박진영, 연년생 두 딸 최초 공개..수영장·놀이터 갖춘 럭셔리 집 '감탄' [핫피플]",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMHhEckNNQWcySjQwUkpQR21waEFQVGYtS3lLeWdoWHgzblpYLUIwTHlLQlZxbUJ5NTRPX0NFX3JOcXhWbU40U2YtZnViMXFXQlhVVEY2Z1JPbzl2WThfczI3NGFrblI2VVFhWVlSTnNwQml0WE5FTmd5dGlkVHp1akx1UHFCNlpJRWtWM2FEQQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "‘가수 자산 1위’ 박진영, 농구장 딸린 집 공개…두 딸도 등장 (전참시)",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycTBPR3FLRkZDYkwzaVlBRnpLVFJoZ1hDSTZvcjJBNGxDTTY3b0NLVEtSRUxyQ0U0WU16RzB5dlM4S1BkQjFZVXh0bmQ5Njh5Vk1jNkR1QVpOcno3eHVvaE56Tks1MklRZzlQWkFR?oc=5",
-              "source": "스포츠동아"
-            }
-          ],
-          "description": "박진영이 방송을 통해 연년생 두 딸과 농구장·수영장·놀이터를 갖춘 럭셔리 자택을 처음으로 공개해 눈길을 끌었다. '가수 자산 1위'로 알려진 박진영의 생활을 직접 확인할 수 있는 콘텐츠로 화제가 됐으며, 과거 JYP 주식 매수를 권유했던 발언도 재조명되고 있다. 오늘 처음 트렌드 키워드로 등장했다.",
-          "headline": "박진영, 두 딸·럭셔리 자택 첫 공개"
-        },
-        {
-          "rank": 5,
-          "word": "이동건",
-          "count": 2,
-          "articles": [
-            {
-              "title": "‘이숙캠’ 서장훈은 되고, 이동건은 왜 안돼?",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tV3YzNzQ5SDlXNkNFU0R4Vkl5bUszNDlfSjliaFk0bjduaFNUYnRhZ1RteDVBY0gzUERmY05mQi11QTY3OXB4Y0N1YXpXZkFIQzRKM2VPck1zazZEakNxSFVWaUJYUmMyZEFZT0Fn?oc=5",
-              "source": "스포츠동아"
-            },
-            {
-              "title": "조윤희, '이혼' 이동건 똑닮은 딸 근황..길쭉한 팔다리 '깜짝'",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBiNDF1UHpHdC1ZWTRmcEJCRUdkaFhxbFNwNHQwRkNfVDFkTVpJMEJ0VlBIbU1kVmI3T3NmMFlHX2tCTHkwa3c?oc=5",
+              "title": "\"꿈 같아\" 방탄소년단, 월드컵 하프타임 쇼서 만든 명장면",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDV2VhV2pfV012T3AtS2hpaFJpX3UwSEItRGhJQm5RdjdYcVF4TkMtekVtN2RrVVo5d1pFSTFQX0w2Um9nVlE?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "'이동건 이혼' 조윤희, 9살 된 엄마 붕어빵 딸과 '행복' [스타이슈]",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNMHFtMEYwejNwSGhHcExCUW11d1VEdjA5a2U1NHdZbG1tVzRaaU9JTWNVQ2dtbV91UzY1RGZCUF8xU2dZdjRyVy1sVHBXZ0tmU3VOdUs4MUxmaDFCSEJMTEhDbEpuVkFsakFlNGhoM3JFN3M?oc=5",
-              "source": "starnewskorea.com"
+              "title": "방탄소년단, 톰 크루즈 월드컵서 만났다...“킹” - 스타투데이",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OS3F1NnYyNFVRYi1BdHBwSDZVRkdwTmZFby0tdXpGRUdIN0pNVk1LUVRTUE5XSW53ZDNWTXFrWExmZ3hwSlJXaEdCY2xCRmxSRS16M1dZTGM?oc=5",
+              "source": "매일경제"
+            },
+            {
+              "title": "방탄소년단·엔하이픈·NCT위시·투모로우바이투게더·블랙핑크, '2026 KWDA' 베스트 앨범상",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlM2RXI5RkstRlpvaHRoSnItSUxEUThma2t4QXR2NVlNT3ZsNWVIQkhWNHo1VGxMNE1JMm81dkZNelV5ZGM4S25iajBadDZBNjBZR2dxd091SHV5bmMzSmNRcWJrV3kxSFFSNDg0NzVieF9PY3Bsb1doZFNFRjNTMkpabTA2ODJMYmc?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "이동건이 '이숙캠' 출연 여부를 둘러싼 논란이 불거지며 화제에 올랐다. 서장훈은 출연이 가능한데 이동건은 왜 안 되느냐는 의문이 제기된 것이다. 한편 전 배우자 조윤희가 아홉 살이 된 딸의 근황을 공개하며 이동건을 빼닮은 외모가 눈길을 끌었다. 오늘 처음 트렌드 키워드로 등장했다.",
-          "headline": "이동건, '이숙캠' 출연 논란 화제"
+          "description": "방탄소년단이 2026 FIFA 월드컵 하프타임 쇼에 출연해 전 세계의 이목을 집중시켰다. 현장에서 톰 크루즈와의 만남도 포착돼 화제를 더했다. 한편 엔하이픈·NCT위시·투모로우바이투게더·블랙핑크와 함께 '2026 KWDA' 베스트 앨범상을 수상하며 K팝의 글로벌 위상을 다시 한번 확인했다.",
+          "headline": "방탄소년단, 월드컵 하프타임 쇼 명장면 연출"
+        },
+        {
+          "rank": 5,
+          "word": "구혜선",
+          "count": 2,
+          "articles": [
+            {
+              "title": "기절한 구혜선, 공중화장실서 발견...\"구조 순간 노출 걱정\" 무슨 사연 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzU3IyamdLSTVlUFVkcFZWWHNGd0phc1NxbWRIejNCRlMwS2NOV01ESTA4dDdPNGczNnhQNWxHd3UxYlk2NGNNcVhFa1B6T1N6eVVfWUNrQkZzaHAxUmY5aW14THpuel9BWmhFcGFjeDJkZ1XSAXhBVV95cUxNRW5FLUtVaWlNUTRVcl9NZU84MUhISXBrZEhTNVpCbGdPYUN2MWtueDlZc1VGeG9sMjVxVEVVdWNxY1BrNHFvRThwVVVLV2F6QVQzSElKdjBwX21oMVVOcF9KMldVNHJaRlkzRGNmSDFjdXVqLUdNWFY?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "구혜선, 개발한 ‘헤어롤’로 4억 벌었다…비싼 거 아니냐더니 “3만장 돌파했습니다”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtbDYzNUlmYXRfR2NUU0hKR1ZjOGdjY0xoWjJZeDF1Wm1wM1BuRGhuTC1xZUg4THFwaGNvbFBvUWwta3BWMWYzaUdLal9QWlY3ZmpnT2dR?oc=5",
+              "source": "헤럴드경제"
+            },
+            {
+              "title": "구혜선 “재혼 생각 없어…나를 끝까지 사랑해 줄 사람은 나뿐”",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jYzhUTkdXcHNZbHZTWU5fS1VwTFF4c2xVUzZWbTNqbWZISEhjYUZxTDlCc2RiSWcwdnNWYm1SQkFPNHZXNmFobW12anJvOWc?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "배우 구혜선이 공중화장실에서 기절한 상태로 발견돼 구조됐다는 사실이 알려지며 화제가 됐다. 구혜선은 구조 당시 노출을 걱정했다고 전해져 눈길을 끌었다. 한편 그는 직접 개발한 헤어롤 제품으로 4억 원의 수익을 올리고 3만 장 판매를 돌파했다고 밝히기도 했다. 재혼에 대해서는 '나를 끝까지 사랑해 줄 사람은 나뿐'이라며 생각이 없다고 선을 그었다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "구혜선, 공중화장실서 기절한 채 발견"
         }
       ]
     },
     "스포츠": {
-      "summary": "스페인이 아르헨티나를 꺾고 월드컵 우승, 음바페 2회 연속 득점왕 · 트럼프 시상대 논란",
+      "summary": "FIFA가 시상식 사진에서 트럼프를 편집 삭제 · 홍명보 감독 38억 고액 연봉 논란",
       "keywords": [
         {
           "rank": 1,
           "word": "월드컵",
-          "count": 3,
+          "count": 13,
           "articles": [
             {
-              "title": "14억짜리 VIP 좌석 맞나…월드컵 상품 ’바가지 논란’",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zbTlrYUc1Z2JuMmp2MjNjV05GbXlHbThJNXRhUE14MURuZVRRdGpwdVNucHdzZk5hVTFxNlpyTDBOT253RHVvdzdCVG1aaWZabGdobDJPeUo5cWNjR05kaDFaZFUyQ0E?oc=5",
-              "source": "연합뉴스TV"
+              "title": "월드컵 트로피 한입 냠~ 야말 4살 동생, 전 세계 홀린 ‘우승 요정’",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNzZMZUxTMVJnM2F2SW5YYjlpbDE4TzFPWHFFbnZCbng5TWw5Y01sSzJLZkJNN0QweHUwWG1WUlluZWdxUW5fclE3TlJtZk9fSDdfSFd5Wkp5bmpCdDJKMVVHSG0zYU42VUdsSUIyZktnZHNENVlsUFJEemZyeG81OGJ3?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "2030 월드컵, 6개국 공동 개최… 2034년은 사우디 확정",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vS21wUmV3dG9qZ3NiU3B5S3hoSy1DZlR4OG00UFhYVVRVRmxKVWhMNjF6Wm9rclJER0tjYnJ2Q1hBblI4V1BHSi03NVhrdTNLcGZVSkwwd3BEV29Ddk13WUJRU2w?oc=5",
-              "source": "RadioKorea"
+              "title": "월드컵 '불법 공짜 중계'의 대가…불법 사이트 3000곳 철퇴, 운영진까지 체포",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpbEsxNHFkTFZPanJtbnRSdl96TXFNbnM4d2x6cVdJdnZXVkJSaW92U1VTRjM1VW0zNVF0MGZJNV9lRWFzVGNfN0tnMEZYODNNazJFanBKRktXcWNl?oc=5",
+              "source": "네이트"
             },
             {
-              "title": "‘무적 함대’ 스페인, 아르헨티나 꺾고 2026 북중미 월드컵 우승",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVNYV3BFX3lEcXFnUUpRY3BRYzFSeGkwamtNbHpJVGNhSVdDNzNMZG51VHl2QXRGSF9DR3lCTDVqMk9sajZ5RFZYdGVTaTAzbzNBZVl3X0VlbVhzUTY5dHhWczdQVmpKak5ydlFESjFnYVhLNGE3SlJncVB1NzVNeVNTbm1PYU9KZHp3?oc=5",
-              "source": "조선일보"
+              "title": "월드컵 준우승 메시 \"고통 너무 커…상처 치유에 오래 걸릴 듯\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04OW5mVVV4Y1loVkxoc2JZRE1QWkFpall5VnJFTDJqTUYzR2FNblBNUmNid3RwU0tWZUxVU0YySmFXNTQ3Wm9vM1ZLRnRITzgzblBEMmdESVpldnfSAWBBVV95cUxQNDQzOXRSbmJUaU1lbzZSQWI4UVZ0UzVOdmJEMWJMQkFpdDNQejhBMTYzUlhwTVF5LTduYXlSUEFSVFF2WEdSY0tGQzMzWVBqMG5UMkFHTW9VNVI2aU1rSkY?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "스페인이 아르헨티나를 꺾고 2026 북중미 월드컵 우승을 차지했다. '무적 함대'의 정상 등극과 함께 메시의 마지막 월드컵이 준우승으로 마무리되며 전 세계 축구 팬의 이목이 집중됐다. 한편 2030 월드컵은 6개국 공동 개최, 2034년 대회는 사우디아라비아 개최가 확정된 가운데, 14억 원대 VIP 좌석 등 고가 상품에 대한 '바가지 논란'도 불거졌다. 월드컵은 8일 연속 1위를 기록 중이다.",
-          "headline": "스페인, 아르헨 꺾고 2026 월드컵 우승"
+          "description": "스페인이 2025 FIFA 월드컵에서 우승을 차지하며 대회가 막을 내렸다. 스페인 야말의 4살 동생이 트로피를 물어뜯는 장면이 전 세계적 화제를 모았고, 준우승에 그친 메시는 '고통이 너무 크고 상처 치유에 오래 걸릴 것'이라며 심경을 밝혔다. 한편 대회 기간 불법 무료 중계 사이트 3000여 곳이 적발되고 운영진까지 체포되는 등 저작권 단속도 이뤄졌다. 월드컵은 8일 연속 1위를 기록 중이다.",
+          "headline": "월드컵, 스페인 우승으로 막 내려"
         },
         {
           "rank": 2,
-          "word": "메시",
-          "count": 2,
+          "word": "스페인",
+          "count": 3,
           "articles": [
             {
-              "title": "‘메시 호위무사’ 종료 후 주먹질 추태…아르헨 매너도 졌다",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pVWJYc0J6TFZfdExlTld6dFJSOTdWT0E4aXdEazBJRnFlVy1rSkNScnF6T1JLbVNBLTBHRDN1MEhOVlBKbjVmVTRKcUFmMENuNnZWX1hn?oc=5",
-              "source": "중앙일보"
+              "title": "FIFA·스페인축구협회, ’트럼프 빠진 시상식 사진’ 게재",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44d0QtSGhlMnFkenhwMDYtVUpmdzRUbEJpMUxBTDdaSjJBQmhvbDNxcGFBNGNlYnB4LWpJMnlNNUpHa3RCbDNyMGVVeFNNeDh5NUNPaXdnRVBvWXRtdDNKU1l1TGFUMlk?oc=5",
+              "source": "연합뉴스TV"
             },
             {
-              "title": "이번엔 야말이 메시를 안아주었다…눈물의 ‘라스트 댄스’",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3TzIteUpKcGgxTGxnODFaTFMydlE4elJwQVNpTG94RTlRYkJLV1FxMWNrZFdIdnlLTXBFRjQ2VzA1N0JVVGhUNTRsaDRjcUxhdkxjZEdmeUJPcXJRa05UQTlMVDNNa3dQWGxVNERveUpsX29VNlE?oc=5",
-              "source": "한겨레"
+              "title": "'경찰봉 구타에 고환 적출' 21살 스페인 학생, 월드컵 악몽…13살 소년은 분수대 올랐다 참변",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45U3V3WjdCakxoS215alFzdkg5MjVkTlJGa3otZmt0S2Y2S21CM3dnZ215M3NLTmNDQ1VLeFViQTFrcEFIUEFrXzltVzRyZHlWc3c?oc=5",
+              "source": "노컷뉴스"
             },
             {
-              "title": "메시 “고통 너무 크다”… 하루 만에 월드컵 준우승 심경 고백 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa3hlb2lNMUk0X1BIdFNFelhjSVpJR3Q3UWQ1MVhfcGlrcEdlcFpBVFREWW1GUVFOcm02MTc5WVM4UzAwR1hia1F6a1pTa2Y3MXA1eTIwMXdpdHdaX1hSOVRSenczWUdhX0xYSnJYU2ljSUk4QmZKMGZ4dDktTHdOb2JPN3hkWDJTV21ybng2bWU5WTl3SFNZb0J1cjRNQdIBsgFBVV95cUxOTDFVb0ZLbjZNdktaRjFjWnpNQ2NJN1M3MkJxcXVEZ3ZJaGw3a1REZFVyNGxBS1VRQWxieUV1SF9FU2stQ1FUaVd5R0JRVVI3MlRxTHNpdktRaERRY2xoUjVhSlB3R2tKTmVPWkRpRmpUMkxTTzlheXFQejY0d1ExbnRDcV9SYkFBZGdoZURlZ3JwV3Nva0E0bE5KRC1XSjBwVWxVNkI5WkpkdzRDTHNMcDln?oc=5",
-              "source": "Chosunbiz"
+              "title": "스페인 우승에 200만 환영 인파",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rT2VEU1M1NjUxbTBqOU1qaUc2amktY0tUeVZEclFMQTRVNkRtdnhVeUdTdVl5SmVfVFlsOXExVkVaY1BWeXgtVVowTWNWNU54R2FZelktZV9iOHdERm4zWXBSTTh2QQ?oc=5",
+              "source": "KBS 뉴스"
             }
           ],
-          "description": "리오넬 메시가 2026 북중미 월드컵 결승에서 아르헨티나가 스페인에 패하며 준우승에 그쳤다. 메시는 하루 만에 '고통이 너무 크다'며 심경을 고백했고, 경기 후 야말이 눈물의 메시를 안아주는 장면이 화제가 됐다. 반면 아르헨티나 선수가 종료 후 주먹질을 하는 추태를 보이며 논란도 일었다. 어제 4위에서 오늘 2위로 급상승했다.",
-          "headline": "메시 '라스트 댄스' 준우승으로 마감"
+          "description": "스페인이 월드컵 우승을 차지하자 200만 명의 환영 인파가 거리로 쏟아져 나왔다. 그러나 축제 분위기 속에서 경찰봉 구타로 21살 학생이 고환 적출 수술을 받는 사고가 발생했고, 13살 소년은 분수대에 올랐다가 참변을 당하는 등 안타까운 사건도 잇따랐다. FIFA와 스페인축구협회는 트럼프 대통령이 빠진 시상식 사진을 공식 게재해 눈길을 끌었다.",
+          "headline": "스페인 우승, 200만 환영 인파 거리 나와"
         },
         {
           "rank": 3,
-          "word": "스페인",
-          "count": 2,
-          "articles": [
-            {
-              "title": "‘안 가세요?’…트럼프, 스페인 시상대에서 버티다 “우렁찬 야유”",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHFoMnZkOXF6ZmE2eHVla25kXzlZYmZhdHFvemNEUE8tN2RZLUs2dHdZalZrQ2hhT3VBOUc1RUctdGRNOW8wMnBaX05Nd3lNMEZHVV9IQXJ0SHlZcUVJV0VRd2tzU0JvNFZFcWlyYldMMng5WU9vcGFzZkVBMjlHdEl3?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "아르헨 집어삼킨 ‘무적함대’…스페인이 ‘신’을 잠재운 방법",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KV0NEelBIQ05WRGt2TUNkVjFBX0d1TV9VRkJRWVFKNzNldnlmc2o4UGJPRkFMR29wd2xoMS1QMzlfNVplbEc3WDNIVE52R0hOUmpFaw?oc=5",
-              "source": "JTBC"
-            },
-            {
-              "title": "'스페인의 별들' 개선 행렬...메시 \"고통스럽다\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82dXZTc0J5VS0tc0liVFJHdTJ3WldUYzFmcGtXa3dtOGJWei1adkFneDFNaVloLUxBT0NzdlFQeFd6MklINEFDT0FLcEFBakxhZFM3RlFIMkxOc2w4d2c?oc=5",
-              "source": "YTN"
-            }
-          ],
-          "description": "스페인이 2026 북중미 월드컵 결승에서 아르헨티나를 꺾고 우승을 차지했다. '무적 함대'가 메시의 아르헨티나를 잠재운 방법과 전술적 배경이 집중 조명되는 가운데, 우승팀 스페인 선수들의 귀국 개선 행렬도 이어졌다. 시상식에서는 트럼프 미국 대통령이 스페인 시상대 옆에 버티다 FIFA 공식 사진에서 통편집되는 해프닝도 벌어졌다.",
-          "headline": "스페인, 아르헨 제압하고 월드컵 정상"
-        },
-        {
-          "rank": 4,
           "word": "트럼프",
-          "count": 2,
+          "count": 3,
           "articles": [
             {
-              "title": "스페인 우승 세리모니 옆 버티던 트럼프…FIFA 사진서 통편집",
+              "title": "우승 스페인 옆 버티던 트럼프 ‘굴욕’…FIFA 사진서 통편집",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBadTF3NUNTam5LUW9sX3FRRF91MzdiSG9QblF2NXd1Y2hNRjJIM2JCZ0gxTmNtSnFfNkc0Q3ZXQVAxTzhTemxVM3ItdDJyUk0?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "수명 다 된 10% 글로벌관세…트럼프 '301조 관세' 부과 임박",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhVGZiUDhUOFF4eF9jQjBLQWNHQVktcWkxMDAtNFRmSHZtQUFUYkFzdkdHamd3bzY3X1o4cGdhakUtSGFuQ2lwMnRsRENJV2VXbXBOX2FBZUdaekXSAWBBVV95cUxPYjQ0QjJDS1hNUWZKN1BTWDFqRzVCbjVPVU4yNjNnM044NkU4bVdCOHhaTkRYTFVyckhUdFhzVGYyUmg1cHBpdWZ5YUN5amViR01oRHFpLVQ2SGpqZmJDV0c?oc=5",
-              "source": "연합뉴스"
+              "title": "FIFA ‘트럼프 통편집’ 굴욕에…백악관 올린 ‘깜짝 사진’",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1OXJLSGpVeEM5UjRoakwtbDR3WWtXUktyNmp5NmZ1NUl4WWF3UTVINWZQTkVTdmhlanNGZXUxN3hhR2NEZkthVlYwSzZSc0RabnV1Umdn?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "트럼프 \"네타냐후, 미국 체류 중에는 결코 체포되지 않을 것\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wVy1ZcUhMYlVCSWUtMk00eHcyTXdxS05YQ3FFelZ0THY5TThmODUxeW4tT2w3N21ka3I5ZVlMS3FvV1BFenhWUzJjemp0bVRCNDBld3lRRUhVdkptbDFsTGltOUkybEd0dkRmREtqN2w?oc=5",
-              "source": "연합인포맥스"
+              "title": "대통령 연봉 5000배 챙긴 트럼프의 ‘백악관 주식회사’ [뉴스룸에서]",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMzdZekpxX01HZUY2RUhnREtsLWh6MTdXVlVhdzNTT0pCZTduOF9yYUx5anhWbHl1cEozc05WcWJfWWhmVnhBaE9VbWJSSjNhOE5jblg1bTRDZE12cW51a0pvclQ1UQ?oc=5",
+              "source": "한겨레"
             }
           ],
-          "description": "도널드 트럼프 미국 대통령이 2026 북중미 월드컵 우승 시상식에서 스페인 시상대 옆에 버티다 우렁찬 야유를 받았고, FIFA 공식 사진에서는 통편집된 것으로 알려졌다. 개최국 수장으로 존재감을 내세우려 했지만 오히려 조롱거리가 됐다는 반응이 나온다. 한편 스포츠 외 분야에서도 트럼프발 301조 관세 부과 임박 소식과 네타냐후 체포 불가 발언 등이 잇따라 전해졌다.",
-          "headline": "트럼프, 월드컵 시상식서 FIFA에 통편집"
+          "description": "FIFA가 공식 게재한 월드컵 시상식 사진에서 트럼프 대통령이 통편집된 사실이 알려지며 '굴욕'이라는 반응이 나오고 있다. 이에 백악관은 별도의 사진을 올리며 맞대응했다. 한편 트럼프가 대통령 연봉의 5000배에 달하는 수익을 챙겼다는 '백악관 주식회사' 관련 보도도 함께 화제가 되고 있다.",
+          "headline": "트럼프, FIFA 시상식 사진서 통편집"
         },
         {
-          "rank": 5,
-          "word": "득점왕",
+          "rank": 4,
+          "word": "홍명보",
           "count": 2,
           "articles": [
             {
-              "title": "음바페, 사상 첫 2회 연속 득점왕‥골든부츠·브론즈볼 수상",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRTd3Z3lhZXVlSHEzVkdNb2xjclF3R3Y0NnZQanpmLVpkNmx3dndPOHFnZm93NTlJcVYtYnViSS0wWndhVjdjZ2NvbXhvNS1FSHhmVDg0bDZzZ0I2UmVmbDJGeDJibEpkMDJTVXFGQXR1MFJPdnfSAXZBVV95cUxQYkh5MlhfTVFaa1BsYVFBWnZCVzY4VVhrUnZYdXhoTi1hZTJWSm55bHZuckNZTlVJVUV6eU11RExlaDRYUmZ0TWpzNnlGejFIMXZ5Vlo5dXVscm51eklpcHFlNWFadS1tRzVrQVoxMWJSZENpV2JR?oc=5",
-              "source": "MBC 뉴스"
+              "title": "‘나, 홍명보보다 연봉 적지만 월드컵 우승했다’…스페인 감독 연봉 얼마?",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SeWNTOEx4M3ROUnBGdHgyV3dpdm82clg2N2NyaUVTTjNNc0JfN3lTZGdTUWIxdnZ1cElkTmROMlN1RFMzYzVmQ0FMQ3NBMlhC?oc=5",
+              "source": "문화일보"
             },
             {
-              "title": "\"솔직히 말하자면 득점왕보단\"...음바페, 사상 첫 2회 연속 골든 부츠에도 깊은 아쉬움 \"결승행 염원했어\"",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IbnJob2hZWmVTSXM2cFhYS3Eyc0pTdGJrMGdJOEhaRnZTM2dsRU53UkZ3cFdfMVFsMGdaaGZwRXZFTnBVYXdXYkc2Q19LclBpWkk5dA?oc=5",
+              "title": "'한국축구 위기라면서' 이영표-박주호 혁신위 위원, '홍명보 후임' 찾는 전강위 합류 요청 '거절'",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52ZTNBdUhWXzRoY05HZUo4ZXBpYlVwRXJxR0tqNkRuaXNJalVzcjB5R3FJaDlFdjFqRk1xT1dDMnZpX0FqemtWZnFSck5teVBfVERKbzk5STFXa3NrR3pXcWZscG81MzhUcXdYZFhPcC1faU5hcm5BX2FDWEVaQQ?oc=5",
+              "source": "스포츠조선"
+            },
+            {
+              "title": "홍명보 출석 예고···문체위, 대한축협 청문회 30일 연다",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SdC1IYWVYTTVMTnBLbmV4UTVpZUxJTl9PRTc4d3AwekNqTlh0VGR1LTBsSDFqbXl0MHliUDRjN3dBYjhNdUk3MjJyYlFFalJWYW9pa3ZWem9qVnRlUjl0VjBqWHVKNXlYMk1EYw?oc=5",
+              "source": "한경매거진&북"
+            }
+          ],
+          "description": "국회 문화체육관광위원회가 오는 30일 대한축구협회 청문회를 열고 홍명보 감독의 출석을 예고했다. '마지막 봉사'를 강조했던 홍명보 감독의 연봉이 38억 원에 달한다는 논란이 불거진 가운데, 한국 축구 혁신을 논의해야 할 이영표·박주호 혁신위 위원들이 홍명보 후임을 찾는 전강위 합류 요청을 거절한 사실도 전해졌다. 스페인 우승 감독의 연봉과 비교하는 시각도 나오는 등 한국 축구 지도부 전반에 대한 비판 여론이 거세다.",
+          "headline": "홍명보, 국회 청문회 출석 예고"
+        },
+        {
+          "rank": 5,
+          "word": "연봉",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"마지막 봉사\"라더니 연봉 38억?…홍명보 고액 연봉 논란",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vVkpMYThkRFdMN1dHeUJfSEhZRWtLNWx5TVc5aUF0M2l3M0JvWDJEWHZjV0VndTJVMlQzc3pQZWZhS1cyTXNDVk9Vclh6dFVDd20xdmw4WHdBSjhaSjU0OVIwQ0FHQzVLVWc?oc=5",
+              "source": "주간조선"
+            },
+            {
+              "title": "\"마지막 봉사라더니 38억?\"…외신이 폭로한 홍명보 연봉, 클린스만도 넘었다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Idl9nSlhLUTlzaUt2b1RBRDUtNFY0OVJma0dNUHJYTjM5cGY4YzdpREthazFsR3I3cWVhVHozY2JCXzEzWEp2MW5CbmdjLTg?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "메시, 끝내 '월드컵 득점왕' 못 이뤘다…'골든부트'는 10골 음바페에게",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4cDN0b0tTbndCZEl3VklkUmlROEx3Z0pSRF80bmRqZ29HLTI5cS00NXh2RmYwbHJVQnBTTEJJV2ZKMlJCSlNOQU1SS3FLTFVUS3UzcWM4aXRFblFo?oc=5",
-              "source": "네이트"
+              "title": "홍명보 38억, 클린스만 100억... 4년 동안 축협이 날린 돈이 무려 140억",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqcjdGTENUa0Y1d252bW0xanlYajAyRTE1WXpsMVkyMDNGWjlabmRVRHhxcDB2dFJZYzVOeWU3NHBoWEtzVjZyTzJvUTBKS1NVTUpHQQ?oc=5",
+              "source": "JTBC"
             }
           ],
-          "description": "킬리안 음바페가 10골을 기록하며 2026 북중미 월드컵 득점왕(골든부츠)을 차지, 사상 최초로 2회 연속 수상의 주인공이 됐다. 브론즈볼도 함께 수상했으나 음바페 본인은 '득점왕보다 결승 진출을 원했다'며 깊은 아쉬움을 드러냈다. 반면 메시는 끝내 월드컵 득점왕 타이틀을 손에 넣지 못하며 음바페에게 골든부츠를 내줬다.",
-          "headline": "음바페, 사상 첫 2회 연속 골든부츠 수상"
+          "description": "홍명보 감독의 연봉이 38억 원으로, 고액 연봉 논란을 불러일으켰던 클린스만 전 감독을 뛰어넘는다는 사실이 외신을 통해 폭로되며 파장이 커지고 있다. '마지막 봉사'라고 밝혔던 본인의 발언과 실제 연봉 간의 괴리가 비판의 핵심이다. 홍명보·클린스만 두 감독에게 지급된 비용을 합산하면 4년간 축협이 날린 돈이 140억 원에 달한다는 분석도 제기됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "홍명보 연봉 38억, 클린스만도 넘었다"
         }
       ]
     }
