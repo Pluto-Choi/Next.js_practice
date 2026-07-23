@@ -7,7 +7,7 @@ export default function RightSidebar({ className = "" }: { className?: string })
     <aside aria-label="부가 정보" className={className}>
       <div className="flex flex-col gap-6 lg:max-h-[calc(100vh-3rem)] lg:overflow-y-auto scrollbar-none pb-4">
         <div className="flex justify-center">
-          <AdFitBanner adUnit="DAN-yItNPmN2B2cR2RlZ" width={300} height={250} />
+          <AdFitBanner adUnit="DAN-yItNPmN2B2cR2RlZ" width={160} height={600} />
         </div>
       </div>
     </aside>

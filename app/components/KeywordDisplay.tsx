@@ -416,7 +416,7 @@ export default function KeywordDisplay({
           ⚠️ 사이드바(DAN-yItNPmN2B2cR2RlZ)와 반드시 다른 광고 단위를 써야 한다.
           같은 단위를 한 페이지에 중복 삽입하면 AdFit이 광고를 렌더하지 않는다. */}
       <div className="lg:hidden">
-        <AdFitBanner adUnit="DAN-lsimxU6w50hliNfK" width={300} height={250} />
+        <AdFitBanner adUnit="DAN-lsimxU6w50hliNfK" width={320} height={50} />
       </div>
 
       <ShareButton topKeyword={topKeyword} />
