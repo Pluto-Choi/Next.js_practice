@@ -62,7 +62,7 @@ export default async function Home() {
       />
       <SiteHeader widthClass="max-w-lg lg:max-w-7xl" />
 
-      <div className="mx-auto max-w-lg lg:max-w-7xl px-4 py-3 lg:py-6 lg:grid lg:grid-cols-[25px_150px_24px_minmax(0,1fr)_24px_210px_35px] lg:gap-0 lg:items-start">
+      <div className="mx-auto max-w-lg lg:max-w-7xl px-4 py-3 lg:py-6 lg:grid lg:grid-cols-[30px_170px_24px_minmax(0,1fr)_24px_170px_30px] lg:gap-0 lg:items-start">
         <LeftSidebar className="hidden lg:block lg:col-start-2 lg:sticky lg:top-6" />
 
         <main id="main-content" tabIndex={-1} className="min-w-0 lg:col-start-4">
