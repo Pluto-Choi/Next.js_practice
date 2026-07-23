@@ -1,6 +1,5 @@
 import Link from "next/link";
 import ShareButton from "./ShareButton";
-import AdFitBanner from "./AdFitBanner";
 import type { RankChange, RankChanges } from "../data";
 import { categoryEmoji, categoryLabel, categorySlug, HERO_CATEGORY } from "../categories";
 import { rankBadgeStyle, cleanTitle } from "../lib/format";
@@ -393,14 +392,6 @@ export default function KeywordDisplay({
 
   return (
     <>
-      {/* 모바일: 오늘의 브리핑과 급상승 보드 사이에 띠 배너를 노출한다.
-          데스크탑은 우측 사이드바(RightSidebar)에 광고가 있어 여기선 lg:hidden.
-          ⚠️ 사이드바(DAN-yItNPmN2B2cR2RlZ)와 반드시 다른 광고 단위를 써야 한다.
-          같은 단위를 한 페이지에 중복 삽입하면 AdFit이 광고를 렌더하지 않는다. */}
-      <div className="lg:hidden">
-        <AdFitBanner adUnit="DAN-lsimxU6w50hliNfK" width={320} height={50} />
-      </div>
-
       {heroEntry && heroEntry[1].keywords.length > 0 && (
         <div className="mb-8">
           <RankBoard category={heroEntry[0]} categoryData={heroEntry[1]} lead />

@@ -7,6 +7,7 @@ import UpdatedAt from "./components/UpdatedAt";
 import KeywordSearch from "./components/KeywordSearch";
 import LeftSidebar from "./components/LeftSidebar";
 import RightSidebar from "./components/RightSidebar";
+import AdFitBanner from "./components/AdFitBanner";
 import { jsonLdHtml } from "./jsonld";
 import { loadCurrentData } from "./data";
 import { HERO_CATEGORY } from "./categories";
@@ -60,6 +61,15 @@ export default async function Home() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(data) }}
       />
+
+      {/* 모바일 전용 상단 띠 배너: 페이지 최상단(제목 위)에 두되 sticky가 아니라서
+          아래로 스크롤하면 자연스럽게 위로 사라진다(헤더만 상단에 고정됨).
+          데스크탑은 우측 사이드바 160x600을 쓰므로 lg:hidden.
+          ⚠️ 사이드바(DAN-yItNPmN2B2cR2RlZ)와 다른 단위를 써야 중복 렌더 문제가 없다. */}
+      <div className="lg:hidden">
+        <AdFitBanner adUnit="DAN-lsimxU6w50hliNfK" width={320} height={50} />
+      </div>
+
       <SiteHeader widthClass="max-w-lg lg:max-w-7xl" />
 
       <div className="mx-auto max-w-lg lg:max-w-7xl px-4 py-3 lg:py-6 lg:grid lg:grid-cols-[30px_170px_24px_minmax(0,1fr)_24px_170px_30px] lg:gap-0 lg:items-start">
