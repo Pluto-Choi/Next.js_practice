@@ -134,6 +134,11 @@ export default async function KeywordPage({ params }: Props) {
           <section className="mb-12">
             <h2 className="text-base font-bold tracking-tight mb-4 flex items-center gap-2">
               <span aria-hidden="true">📰</span>관련 뉴스
+              {/* 홈 카드('관련 기사 N건')·랭킹 보드('관련 N건')와 동일한 정보 위계.
+                  이 페이지만 개수를 안 보여 줘 몇 건이 있는지 미리 알 수 없던 걸 보강. */}
+              <span className="text-xs font-medium text-zinc-500 dark:text-zinc-500 tabular-nums">
+                {articles.length}건
+              </span>
             </h2>
             <div className="flex flex-col">
               {articles.map((article) => (
