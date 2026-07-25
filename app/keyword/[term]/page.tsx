@@ -20,17 +20,31 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { term } = await params;
   const detail = await getKeywordDetail(term);
   if (!detail) return { title: "왓뉴스" };
-  const { word, headline, daysCount, peakRank } = detail;
-  const title = `${headline || word} | 왓뉴스`;
-  const description =
-    detail.description ||
-    `'${word}' 키워드는 최근 화제 키워드에 ${daysCount}회 올랐고 최고 ${peakRank}위를 기록했어요. 관련 뉴스와 순위 추이를 한눈에.`;
+  const { word, headline, description, articles, latestDate } = detail;
+
+  // 검색 결과 CTR: 추적 키워드 대다수는 headline이 없어 title이 '단어 | 왓뉴스'라
+  // 검색어(구체적 구문)와 매칭이 약하고 클릭 유인이 없다. 이미 저장된 관련 기사
+  // 제목(메타데이터)을 맥락으로 붙여 '무슨 뉴스인지'가 스니펫에 드러나게 한다.
+  const topTitle = articles[0] ? cleanTitle(articles[0].title) : "";
+  const clip = (s: string, n: number) => (s.length > n ? s.slice(0, n).trimEnd() + "…" : s);
+  const title = headline
+    ? `${headline} | 왓뉴스`
+    : topTitle
+      ? `${word}: ${clip(topTitle, 45)} | 왓뉴스`
+      : `${word} 관련 뉴스 | 왓뉴스`;
+
+  // 폴백 설명은 '우리 순위 메타'(검색자 관심 밖)가 아니라 '최신 뉴스 + 신선도'로.
+  const fallbackDescription = topTitle
+    ? `${word} 관련 최신 뉴스 ${articles.length}건 — ${topTitle}. ${latestDate} 업데이트 · Google News 기반.`
+    : `${word} 관련 뉴스와 순위 추이. ${latestDate} 업데이트.`;
+  const metaDescription = description || fallbackDescription;
+
   return {
     title,
-    description,
+    description: metaDescription,
     alternates: { canonical: `/keyword/${encodeURIComponent(word)}` },
-    openGraph: { title, description },
-    twitter: { title, description },
+    openGraph: { title, description: metaDescription },
+    twitter: { title, description: metaDescription },
   };
 }
 
