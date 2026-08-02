@@ -172,6 +172,8 @@ stopwords_economy = stopwords_common | {
     '영업',
     # 변동: "증시 변동"·"변동형 금리"·"변동장" 등 서로 다른 경제 맥락에 흩어지는 방향성·상태 명사 — 상승/전환과 같은 이유
     '변동',
+    # 마감: "코스피 X로 마감"·"뉴욕증시 상승 마감" 등 장 종료 시황 기사마다 반복되는 행위명사 — 상승/폭락과 같은 이유
+    '마감',
 }
 
 stopwords_entertainment = stopwords_common | {
