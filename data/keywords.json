@@ -1,365 +1,387 @@
 {
   "date": "2026-08-02",
-  "updated_at": "2026-08-02 06:58",
+  "updated_at": "2026-08-02 19:16",
   "briefing": {
-    "text": "선관위가 대선·총선 투표자 수를 사후 수정한 사실이 드러나 여야가 '선관위 특검법안'에 합의하며 선거 데이터 신뢰성 논란이 정치권 전반으로 번졌다.\n\n민주당 당대표 충청 경선에서 김민석 후보가 0.44%p 차이로 정청래 후보를 따돌리고 1위를 차지하는 초박빙 승부가 펼쳐졌다. 이인영 의원은 \"민주당이 싱크홀처럼 무너진 다음엔 소용없다\"며 당에 강도 높은 경고를 날렸다.\n\n증시에서는 코스피가 하루 1000포인트 이상 폭등해 사상 최대 17.9% 상승을 기록했고, 서학개미들은 미국 반도체 3배 레버리지 ETF에 1.5조 원을 쏟아부으며 극단적 변동성 장세에 정면으로 베팅했다. 최태원 SK그룹 회장이 SK하이닉스 주식을 49억 원어치 매수하자 주가가 폭등하며 시장의 이목이 집중됐다.\n\n부산이 40.5도로 역대 최고 기온을 경신한 가운데 폭염으로 프로야구 경기까지 중단됐고, 연예계에서는 김고은이 청룡시리즈어워즈 대상을, 나홍진 감독의 '호프'가 관객의 엇갈린 반응 속에 흥행을 이어가는 한편 손흥민은 미국 올스타전에서 유머로 팀 분위기를 먼저 녹인 리더십으로 현지 언론의 조명을 받았다.",
-    "period": "아침",
-    "generated_at": "2026-08-02 06:58"
+    "text": "경남 양산 기온이 42.5도까지 치솟으며 국내 폭염이 역대급 수준에 이르렀고, 정부는 한성숙 국무총리 주도로 각 부처에 긴급 대응을 지시했다.\n\n국제 정세에서는 트럼프 대통령이 이란 공격을 전격 취소하고 호르무즈 해협 개방과 핵 위협 종식을 조건으로 한 협상 윤곽을 공개해, 국제 유가와 중동 정세에 미칠 파장이 주목된다.\n\n경제 분야에서는 삼성전자·SK하이닉스가 4755조 원 규모의 국내 투자 계획을 발표한 가운데, 코스피 급반등 속에서도 개인투자자들은 수익을 내지 못했다는 분석이 나왔고, 당국은 증시 긴급조치 권한 확보와 레버리지 ETF 규제 등 선제 안전장치 마련에 속도를 내고 있다.\n\n스포츠에서는 손흥민이 MLS 4경기 연속 득점을 기록했지만 LAFC가 밴쿠버와 1-1 무승부에 그쳤고, 유해란은 AIG 여자오픈 3라운드에서 공동 2위에 올라 메이저 3연승 도전을 이어가고 있다.\n\n연예계에서는 드라마 '김부장'이 시청률 23%를 기록하며 흥행을 이어간 반면, '나는 솔로' 출연자 영자·영철이 결혼 6개월 만에 파경을 맞았다는 소식이 전해졌다.",
+    "period": "저녁",
+    "generated_at": "2026-08-02 19:16"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "부산 40.5도 역대 최고 폭염 · 여야 선관위 특검법 합의 · 미국·이스라엘 이란 에너지시설 공습 계획",
+      "summary": "경남 양산 42.5도 극한 폭염에 총리 긴급 대응 지시 · 트럼프 이란 공습 취소 후 호르무즈 개방 협상 · 여당 전대서 김민석·정청래 윤리위 제소 공방",
       "keywords": [
         {
           "rank": 1,
-          "word": "민주당",
-          "count": 1,
+          "word": "폭염",
+          "count": 3,
           "articles": [
             {
-              "title": "이인영 \"민주당 이러다가 싱크홀... 무너진 다음엔 소용없다\"",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtRzFUTmZ5YmVkTmFjNVlMOTVOVEZHZFQ3b3h2dGp0akhPWXpmV1U5aWE0WGFsTGx5Mzd4cXZkQmU4bXY4RWc?oc=5",
-              "source": "v.daum.net"
+              "title": "낮기온 40도↑ '노멀'이 된 경남 양산…초유의 '42도' 찍을까",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uN25qWXp6SG42emVSaVZnZEpxSlBpZ3c2ZEV1a2FpR1UwZG12Z3JRYk13M2gtU0hXd05iRHpieERSN1ZhQ3lKNmtHVVRIN05HcU5ZQnNIaHh0X25hZHNyRNIBeEFVX3lxTFBxWE1wS1podng5bE95ajZmbnBBekJLMlpMdE83VklGa2habXEyUDJneEtQRk02QjZsbHI5ekYyTkVKd0pyYzNzYkpzOHNSUGdLSldNQjZTYWVyQS1hOW1JRndWZGpzOGx2NUZVUnRTTk9UTmF5OUY0UA?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "김민석, 민주당 첫 충청 경선 1위…정청래에 0.45%p ‘신승’",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vNU51Zlh2Q0FpRXN5a3hsXzl0Tm1GZzhHeTEwYU9lcHdzdG4wd3Q2SVdNc291MDh4d3RRTlFLd2JseUZ5TzhrdTFOTW1PdUVfdm1VbGo3WUtxdWc?oc=5",
-              "source": "경기일보"
+              "title": "‘양산 42.5도’ 극한 폭염…경남 온열질환자, 인구 3배 서울도 넘어서",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94QkI3cUNhSW1FcnhhM2pONEUzWS1OVFBXUmx0dTRGb3pnZTN2Y0NPa1pqTFlJV3JBMnBJNWVJZDlRQWJBQ01Ublg1TmRYOW41SGM5dXZ0cmZhcHFjS1k1OGVmYl95ZnJwT3hEaTJnR2FvRkljY1HSAWZBVV95cUxNSmxoTmg2Q3RxZWUtWmVhbjNNOWgwSlZhWFRGWnpmWEFrSVBuN1Z2UjI5NkduM1c1Q2M3NzdyOVhlOFRqMlNIN3NrYk11ckxuMVZoVHJZVDlXaV9QdHAwbDdsdGF6S3c?oc=5",
+              "source": "동아일보"
             },
             {
-              "title": "민주당 당대표 첫 경선지 충청권서 김민석 1위···정청래와 불과 0.44%P차 ‘초박빙’",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fSUFPN2IzaldDcmpkckRsVXJSV211WXgtQ28xelZYOHZJdzlMMFctZ1k5UUFSZ1VZLUtWaXJUOFE1TFZWVkJJTWpscnNPZGhOODBrYXNaT1FuUdIBX0FVX3lxTFByZ2pTcEdXdlVSR0Nfb1ZOWDBMcnc3U3B3VVllOVhLQ1Z6TU1vS2JjWFI2bjhwXzI2bWRreUlydE9YRFlCaGF0ZVFZU2w4bllXWXZ1QmE4YUx5NnN2ZE5V?oc=5",
-              "source": "경향신문"
+              "title": "양산 덮은 ‘두 겹 이불’ 폭염, 수도권 온다…‘가장 더운 해’ 되나",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLTmlHVzlWS2plRDkyTmpMMmFpUWVnbUFBd0lTc0ZvMy1XT040Um9rUVpIN0poZ3hMWndqMVRla0tfaTFPcXRBd3dQRUVMQlFZQ2Y5dHRWUDlTdVlTa0loUVZ6YUpVTlJSSnNxXw?oc=5",
+              "source": "한겨레"
             }
           ],
-          "description": "민주당 당대표 선출을 위한 첫 경선지 충청권에서 김민석 후보가 1위를 차지했다. 정청래 후보와의 격차는 0.44~0.45%p에 불과한 초박빙 승부였다. 한편 이인영 의원은 \"민주당이 이러다가 싱크홀처럼 무너진 다음엔 소용없다\"며 당의 현 상황을 강하게 경고해 눈길을 끌었다. 오늘 처음 순위에 오른 키워드다.",
-          "headline": "민주당 충청 경선, 김민석 1위"
+          "description": "경남 양산에서 기온이 40도를 넘어 42.5도까지 치솟으며 극한 폭염이 현실화됐다. 양산의 온열질환자 수는 인구가 3배에 달하는 서울을 넘어섰고, 이른바 '두 겹 이불' 폭염이 수도권으로 확산될 조짐도 나타나고 있다. 올해가 '가장 더운 해'가 될 수 있다는 우려가 제기되는 가운데, 40도 이상 기온이 '일상'처럼 반복되는 이례적인 상황이 이어지고 있다.",
+          "headline": "양산 42도 육박, 역대 최악 폭염"
         },
         {
           "rank": 2,
-          "word": "선관위",
-          "count": 1,
+          "word": "긴급",
+          "count": 3,
           "articles": [
             {
-              "title": "여야, '선관위 특검법안' 합의…선거 전산시스템도 수사",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wdFVUeWRZdEh2Mk1UM3N2Wm5JU3lyR05FMW4wcUVjb1pkSlJZczlvMVVMMTEzNlBFcFpiRjk0dlFnaGlrYmh2dV9iYmQ3cHZiVXJiLU1OY0lQWExQLS1FR3QwVXVMeklGRWfSAW5BVV95cUxQNEVJM2VGM2h0R3FXdzhfLV9RektPVm9mMmUzMFZMX0k2WGljcEdHQVJGNUxJYnVRTmpWajZKQkpGSkszU0d5MzdBM2pRSGl6VFJxUkhyQVJON0VlVzFDZzkwS1M5blY5Mk5PWmpIdw?oc=5",
-              "source": "주간조선"
+              "title": "한성숙 총리, 각 부처·지방정부에 \"폭염·가뭄 총력 대응\" 긴급 지시",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YYVVHamctMXVpZTZnV3Vkbm1KLWlMdG1yTkg5Tk9jLUFpT3ZBcUNHZ0xiWDVILVdGWTV3UzBXS1F2b3BzNUlLZmMtS0hFRGFPbXg1Q3pva0YzcW1ROWJCc3hQU1dCM0dZUDdIOFdQWmwtNjVtTkJKbtIBeEFVX3lxTE5wUUdxYlVZNEwyZWJpWHRMbnpvQl9jV25fdkk2cG9jVmFZNzFwUmxVZGxieWlCcVYtUW9tdW0wRUt5eEZkSFBpV1R5MFBCanRIOU5VdUtKTXVoS2l4VHZmNmNQdjRDRDBjNm1FRUxqNWdKbWxDelB3MA?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "‘65표를 0표로?’…선관위, 작년 대선 때도 투표자수 81건 수정",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RSU5YaGpCS3UxZW8tWE1xSHRiNl9TYkVvcGpMRmg2S3Q5c1laTnRZNHRjQ1pkLU9fUm4tM0pfS3pNODlTaFBkVXlnQ0M5TkRP?oc=5",
-              "source": "munhwa.com"
+              "title": "한성숙, ‘극한 폭염’ 대응 긴급 지시…“취약계층 보호·현장점검 강화”",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jWkFSYTMxVThKemRoeWhsalIyQTBJd1llalAzQVhmQm1FX0dpRjB4U0NYWkRYQnRkRXhuMjJXcjZYdUtZS1ZKb3VrYlNvRm5HYWd3S0xiVUdQVUZHMl9wZlIzMGRiMFZIb2ZFRG5CRzVHQmIz?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "선관위, 2025 대선·2024 총선서도 투표자 수 고쳤다",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5CMGhkSDhKTkx0cW1aR1diSjU4Zm5wNS1GbFg0SWk5RHZCZ21jUnZ1cmltdzI3UndSZF9lV3Y5ZVVpd29pNXc?oc=5",
-              "source": "v.daum.net"
+              "title": "한성숙 총리, 부처별 '폭염 대응' 긴급지시…취약계층 보호에 만전",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVLXVvMlkxNm5uM2Ztd3B6UC0wZy01MzEydndFMHRWRWRXb3c4VXc1VXh0UnJ2bk0wSGJxZHpUSkoxalVIaGpfai1hM0Q1WDQ3WG1aeG4xZ1ozQ3BsMnRnaVlQMDF6Q0dlMnI0?oc=5",
+              "source": "프레시안"
             }
           ],
-          "description": "중앙선거관리위원회가 2025년 대선과 2024년 총선에서도 투표자 수를 사후 수정한 사실이 드러나 논란이 커지고 있다. 작년 대선 당시에도 81건의 투표자 수가 수정된 것으로 알려졌으며, 일부 사례에서는 65표가 0표로 바뀐 정황도 제기됐다. 이에 여야는 선거 전산시스템에 대한 수사를 포함한 '선관위 특검법안'에 합의하며 진상 규명에 나섰다. 선거 데이터 신뢰성을 둘러싼 논란이 정치권 전반으로 확산되는 양상이다.",
-          "headline": "선관위, 대선·총선 투표자수 수정 논란"
+          "description": "한성숙 국무총리가 각 부처와 지방정부에 폭염·가뭄 총력 대응을 긴급 지시했다. 취약계층 보호와 현장점검 강화를 핵심으로, 극한 폭염 상황에 정부가 발 빠르게 대응에 나선 것이다. 오늘 처음 등장한 키워드다.",
+          "headline": "한성숙 총리, 폭염 긴급 지시"
         },
         {
           "rank": 3,
-          "word": "폭염",
-          "count": 2,
+          "word": "호르무즈",
+          "count": 3,
           "articles": [
             {
-              "title": "40.5도 역대 최고 부산…폭염에 멈춘 프로야구",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVFHQ1dYaFhXd2d1bXNqQ0RaR1pXNmh2blV3WTdJOHJlQUZaQzhYd0JXOUt1am5JOXdpTDFtcXhjVEJPU3VyZ1BQQzhrblVlSE82RUlHYnZNOVZDM2Z4eDUzY0I5NVllOWUzSjRuOTNNbFZlQmVhS0g5YVVkdUpqYU1FVkhvbWNJYTJfRmV3?oc=5",
-              "source": "국제신문"
-            },
-            {
-              "title": "부산·울산·경남 폭염 이어져…낮 최고 41도",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDc4LU94dVpFZ29pc1JNZFJScTh6ek55R2htM3E0VDNfdG9sUkJuWGhOX2o2TnBCbnZJU1EyWnRGcTBlb2dDT0NzWXIySjVPTlVrcTlSTzQ1aXBEa25uVlJxVGJfTS1GUXZCLWtxZXpfaHNyWlBZSkJlM3B1dV9nVG1LZ2E0dXZBX0ZJYTJn?oc=5",
-              "source": "국제신문"
-            },
-            {
-              "title": "비 안 오고 폭염 계속…부산 강서구 농업용수 '비상'",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjdmpSUGU2RURhbE10M214NFg4V0N6N1MyNWJoWmJuOU9SeEpsOWhEVVdxa1FMaTVOZUEtMHJ4YUMwUUw2US1iT25EaHEzb2paMkx1RUhHQW80OFHSAWBBVV95cUxOb3JseUlVUDQ5Yzd6cnlsR2ZHb1B3NnVHUHI3Z2t4TW1MLTF3d0dJcDdYVVhXSllpVElwRkt5QWNSUUo1b0dIMG56M3dfWjgyTzBReXdzZHh2dEdqakExRE0?oc=5",
-              "source": "yna.co.kr"
-            }
-          ],
-          "description": "부산이 40.5도를 기록하며 역대 최고 기온을 경신했고, 부산·울산·경남 일대에는 낮 최고 41도의 극한 더위가 이어지고 있다. 폭염의 여파로 프로야구 경기마저 중단되는 사태가 벌어졌으며, 부산 강서구에서는 비가 오지 않는 가운데 농업용수 공급에도 비상이 걸렸다. 당분간 비 소식도 없어 피해가 더 커질 우려가 나온다.",
-          "headline": "부산 40.5도 역대 최고…폭염에 야구도 중단"
-        },
-        {
-          "rank": 4,
-          "word": "이란",
-          "count": 1,
-          "articles": [
-            {
-              "title": "“미국, 이란 에너지시설 주말에 공습계획”…전쟁 격화 가능성",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lN2RPdjBHU2hYd0dTYk82SWhId0lfTTlMNF9BZ1paRGRJMnJqVWF6RXR6MzJiM1F1SjM0YWpQTnNOYWhtRUE?oc=5",
+              "title": "트럼프, 이란 공격 취소…\"호르무즈 개방·핵 종식 조건 협상\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjUWRpdGNVY3VXZUVGaHpDakdvOU9qX1pMRHBVekFrX0pjZV9fYXhmSV94RjVpSUNBbUdSYVZjZGM4eW5zakJrQjZfUzNuX1k?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "\"美·이, 주말 이란 에너지시설 공습계획\"…전쟁 격화 가능성",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXVmlRQmF1cHRsaTF3UkcwZkpyOGkwcmt0cnByNUZOR205ZEx5aTZjNDR4ZXpYZWlQNF83NU5MOTY3M3dQYXBSLVlBQkVlZ2tKRXRUYzRaeDRvVTjSAWBBVV95cUxORERDUkZTSnZnNFdXTURMZ0p0Sko4Q1N3cmxTZFVQb1FZRHl1eGN2RUVMckpmWXVMaWtWUS13a0VzMWhrVTNLOVV6REdGeHlzOHoyOHZwdWJlZktVR3lCa0Y?oc=5",
-              "source": "yna.co.kr"
+              "title": "트럼프, 이란 공습 전격 취소…“호르무즈 전면 개방 합의 윤곽”",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wRks2bVgteDFvanE5SDFfSm12Z0JsM0kteHFRNmZ6ODBvWTNlejZSZmgwZXJSUmgzMk9fa1FWUFFpY0JJamhaM1BMUzNGdVdUQWo3T09ISy13RTRnQjFDRF9WR2FKRTBISTVybXN1MA?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "트럼프, 이란 공격 계획 승인, 주말 공격 시작될 듯",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1cW9xNnBFT3F3aThyS2xYcVRjUW1BNVZTWDdzQ29sR3lKYmt0MVpMTEZYckNrN0toNU01SjdFOFVHdGcyWmpMdlpWUU42aFlqX2pZQ3B5NHZWYXdGWWpUN9IBeEFVX3lxTE5ncFZhTkMza2k4UGZhQmRkd19KSGVxaVpiVWdDbmhoTzNtUlNNUXBJUkw0b1k5NkIwZ0Z6b2FaYURMb3Y1end1RHdmREIwMlpvVkhXSVZJcEZCS2lTU0w5Q25FNDRiTTBoVW9vb3RIYUF5dkpLY2NfQg?oc=5",
-              "source": "뉴시스"
+              "title": "트럼프, 또 '타코'...\"이란 공격 취소, 호르무즈 개방·핵 위협 종식 협상\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBieXdmQU1UeHQzbFFIVGhNek9KZ09YNUV0QVBKdTk0NjViVlRZZjB1T1d6V3g2eXo3aU9ZZUFmUGtxNUgzWVowLVU0ejRIU21GbFJ0TGNCOFhWRENSUXRUOXppVzRNME1o0gFuQVVfeXFMTXdVNG1zS2hNeVpueHM5REVoYkRES3hFSlBPX2pSWm1pR1VvbXZVa0hkd3o1ZXk1TW5kWXI4ZndIdWZTSFUxQUJQejdMQ0ZiWF9jdEEtWHJtXzVWaG0zRFprVXd3bWZnRlhXN2Z5OEE?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "트럼프 대통령이 이란 에너지시설에 대한 공습 계획을 승인했으며, 이르면 이번 주말 공격이 시작될 것이라는 보도가 잇따르고 있다. 미국과 이스라엘이 공동으로 이란 에너지시설을 타격할 가능성이 제기되면서 중동 전쟁이 새로운 국면으로 격화될 수 있다는 우려가 커지고 있다. 국제 유가와 글로벌 금융시장에 미칠 파장에도 이목이 쏠리고 있다.",
-          "headline": "트럼프, 이란 에너지시설 주말 공습 승인"
+          "description": "트럼프 대통령이 이란에 대한 공격을 전격 취소하고, 호르무즈 해협 전면 개방과 핵 위협 종식을 조건으로 한 협상 윤곽이 잡혔다고 밝혔다. 호르무즈 해협은 전 세계 원유 물동량의 상당 부분이 통과하는 전략적 요충지로, 이번 협상 진전이 국제 유가와 중동 정세에 미칠 영향이 주목된다. 오늘 처음 등장한 키워드다.",
+          "headline": "트럼프, 이란 공격 취소·호르무즈 개방 협상"
+        },
+        {
+          "rank": 4,
+          "word": "노무현",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘노무현 사위’ 곽상언 “노무현 대통령, 검수완박 추진한 적 없다”",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xUG8xcHBXcmVzZ2IzV2JnY2JoaGhQVHpkcWYxTVJTLW9hZUxQWjRSalVFdFNrYzB4MnlpVmg0YW81YUlDeDZUSDEyU1BzYXVPTXF3X3pYRV9lWkxqa21LTEpPclVMbGdvc0lyNHA2aWhMTldE?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "\"노무현 죽여버리겠다\" 김민석 발언 의혹에 김의겸이 해명",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kX0ZpMzNIN0huTUwzT0RQeTZNWnFSdk1qRFlQSjFUbHlLLWp2SzdzMWtYXzR3clUzckxUOUp1NlBUY29EMFd6TlhtNUtoX0lxMk15VEJGQ3dzUzJkMkw3eGJJZFhPbnIwZXc?oc=5",
+              "source": "주간조선"
+            },
+            {
+              "title": "이승만에게는 무릎 꿇고 노무현은 조롱하는 한국 힙합",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJTE4xb0liTElyd0tDM3VMSWNvUFRVM0dpdnlnRzZpS1lUR0FDeVg0SW4xXzM2eHI4bFN5ZHBBZElzSk13M1p5TXFjMnVmQUNy?oc=5",
+              "source": "민중의소리"
+            }
+          ],
+          "description": "노무현 전 대통령을 둘러싼 정치권 논란이 잇따르고 있다. 노 전 대통령의 사위 곽상언 의원은 '노무현 대통령은 검수완박을 추진한 적 없다'고 밝혔고, 김민석 의원의 '노무현 죽여버리겠다' 발언 의혹에 대해 김의겸 전 의원이 해명에 나서며 파장이 커졌다. 한국 힙합에서 노 전 대통령을 조롱하는 내용이 논란이 됐다는 보도도 이어지고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "노무현 관련 발언 논란 잇따라"
+        },
+        {
+          "rank": 5,
+          "word": "제소",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘윤리위 제소’ 언급 오간 與 전대…“계파행위자 심판” “신천지 제소”",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONjBLRUZNQktoUjhEQ0Rsa0ZOOWlNWkM5RzVscm1zOWxURFAySF84VmpjZTNIaXNXTno3UHA2VGRiVmM4dmVVUWRiT3l5NkVxbVFhdzNQYVpRSERwc2RvMGlHWm9rdW0zdEFfQnBJWU01MUkwcmlLZ0JwaDF3VVhDTVpyN1JhQQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "김민석·정청래 서로 “당 윤리위 제소”…계파행위·신천지 의혹 겨냥",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qMUxZbS1DRG5KRVlqNmU0MEdkdS1YV3hvcVVSQkIxUDJxV1lYdWpMbmxMYWxZbjhmN3ByVWhXRU1pR0djRGRKOTc0bi1QN0ctWThPeHpIbnJBUmlRcnhpTjV1ZzdnZVN5SWhBVlFFc2lTNi1f?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "민주당 순회 경선 이틀째…정청래·김민석 “윤리위 제소” 공개 충돌",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wUXI3ZGF3TlVaOGNXb0pHQnFwZ2lnbnVLMW5KalI3RnlHSVdrdFZ4RXpVN2h3enJQV0F0Vy1PcHNTUkdkbnFJWnN2ZTBfVHV4cDZHRXNBbEVVckU?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "더불어민주당 전당대회 순회 경선에서 정청래·김민석 두 후보가 상대방을 당 윤리위원회에 제소하겠다며 정면충돌했다. 정청래 측은 계파 행위를, 김민석 측은 신천지 관련 의혹을 각각 제소 근거로 내세워 갈등이 공개적으로 격화됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "정청래·김민석, 윤리위 제소 공개 충돌"
         }
       ]
     },
     "경제": {
-      "summary": "코스피가 역대 최대 폭으로 폭등해 하루 1000P 이상 급등 마감하며 개미 투자자들이 반도체 레버리지 ETF에 베팅했고, 최태원 회장의 SK하이닉스 매수도 주목받았다.",
+      "summary": "폭등락 반복하는 증시에 개미 피해 우려 속, 삼성·SK하이닉스 국내 반도체 대규모 투자 발표.",
       "keywords": [
         {
           "rank": 1,
-          "word": "반도체",
-          "count": 3,
+          "word": "증시",
+          "count": 6,
           "articles": [
             {
-              "title": "“폭락장에 1.5조 베팅” 서학개미, 美반도체 3배 ETF ‘승부수’ [투자360]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTcmpYNFN3dk5Nc1hQalV1TFZ3RFJONmFxY3VJMHpvME1fZVJZT3dEVC1ocDhaMXVoa2dPMzNzVjJSbTZONUlneVl1Z2d3M3lCV3h1Tkd3?oc=5",
-              "source": "헤럴드경제"
+              "title": "정부, 증시 긴급조치권한 확보 착수…금융위기·코로나 복기",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WVTBvcm56U3loQjROVWVSMkRLOU5fUTZqRkVJVDZzeHhBNFFiMktPbzlqRkVTQ0VaR2FOeEhQQkd3ai12Q1J1SVNLN2czR2NFTWEtclMxQXVxdGvSAWBBVV95cUxOdlBfYk9tT2pnQXdpZTJhS196bUZySlVlSS1FSE02TDZ2aVVjd0tmYVl5elJia25NWmt0bmx4MndMR09EM0Y0bUJ1b3hKd3ZEVm5IZkk1SXNSSVJQVmhxUmE?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "반도체 제조장비 시장도 호황…글로벌 기업들 실적 눈높이 상향",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KQ2lWbkl5bF84cGU4RXl5eGp1UlktMXFWeVJydkJROXZwTG10WERLQW1xQ01DN2pZd1FyZ0sta3JFdFlfMWNOSk5STmxKc3hISkVtRmx3?oc=5",
-              "source": "지디넷코리아"
-            },
-            {
-              "title": "반도체 호황이 부른 금리 인상… 시험대 오른 AI 투자 붐 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWRQZFpfS2F3dTBiT0hUN1JTV1JCZkV0Z0hwdW9Xd0FRZDlYOGZkQXlxeEpRVWpYVFZ5eXhxWlRTeUtkWW5ZSTJwX0hTemxHT0JkTVJrVkQ3YXdjQ0xfNm9aSGs4TF9yaUxfTk54dmFzRXVCR1pfTVNRbHUtYnhyYXBjcHM3Z9IBmgFBVV95cUxOWl9xWUNPM2NnUDdCdFZMWmJwQkFGc3RmNDdnLUhKZFM1aEJwLXJRVTFLMWhSSTFXb0l4X0J3VlZMdFZKVk9DTTJwMTF6UDZfYjVDOGlvUEFDTlhZd3UwcF94WVZaZFhSNE1iUEROUTZOdENnQ1RrVDNhMEdjYzJDVEtRaVdyNG43ME5tZ3FIbmlheDJRazBZTERR?oc=5",
+              "title": "코스피 6500선까지 반등했지만… 널뛰는 증시에 웃지 못하는 개미들 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUk1TMC02NFJkRDB6WGFGaHpOTWZZZUZHWUo1aFFHLVpYX3o4bXFyM3ZTU00xb1F5aWp0QWN5TjZEcFNKNjF0b3VzdjRPZE5Yem9PREdweGlvQkVzN3p2THQ2dXJuS1F1Vzc1MTRaWXE3aDBoaUhiSHpxdVJ4UllkaFFoOUdDZlZC0gGcAUFVX3lxTE5zTjVvME5SbFhUSEhVYklrdzRxZFZrck52b0xnTU9KaUVGTGhvSnF5STF4ak5KSWx5T2tob1VpRWN6RzV1Z2pab3dQeHVZWnJqX0ZuMnJCS0ZMNDV3bzhxTVdJZHE3eE1XOVpvWF9FbzdzNFZ6cWpsLXlvM1V6WTZCa09GS29MTkhIeEJodi1uUHFoQWdvZ3NPUWZfUg?oc=5",
               "source": "Chosunbiz"
+            },
+            {
+              "title": "\"다 내려놓고 갑니다\" 절망한 가장…이틀 후 급반전 증시에 안타까움만",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FcjB4LXdWTWZMdWt1SEdlVUFSejQ4ekNPRlY4MVpGMVhZZy15amZvRHhxb0tVbGlPeV91WjQyeVBCdmxZdm9kZDVYTXExVEpFT0hGSmMwZE9YY0hzNVA1bWRn?oc=5",
+              "source": "뉴스1"
             }
           ],
-          "description": "글로벌 증시 폭락장 속에서 서학개미들이 미국 반도체 3배 레버리지 ETF에 1.5조 원을 쏟아부으며 승부수를 띄웠다. 동시에 반도체 제조장비 시장도 호황세를 이어가며 글로벌 기업들의 실적 눈높이가 상향 조정되고 있다. 한편 반도체 호황이 금리 인상 압력을 자극하면서 AI 투자 붐이 시험대에 올랐다는 분석도 나온다. 어제 4위에서 오늘 1위로 급등하며 단숨에 최상위 화제 키워드로 올라섰다.",
-          "headline": "폭락장에 서학개미, 반도체 3배 ETF 1.5조 베팅"
+          "description": "정부가 금융위기·코로나 사태를 복기하며 증시 긴급조치권한 확보에 나섰다. 코스피가 6500선까지 반등하는 등 극단적인 변동성이 이어지는 가운데, 급락장에 절망한 투자자가 주식을 처분한 뒤 이틀 만에 급반등이 나타나 안타까움을 사는 사연도 전해졌다. 널뛰는 장세 속에 개인투자자들의 피해가 잇따르자 당국이 선제적 안전장치 마련에 속도를 내는 모양새다.",
+          "headline": "정부, 증시 긴급조치권한 확보 착수"
         },
         {
           "rank": 2,
-          "word": "코스피",
-          "count": 3,
+          "word": "개미",
+          "count": 5,
           "articles": [
             {
-              "title": "‘현기증 롤러코스피’ 사상 최대 17.9% 폭등",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15T3doVm1XS09kMkliczFCazBaVXVXN2hEN285eVhiUWIzWGRTcWZHMm5CZExLY2hvd3lqd0pKMUdWR3loVVpIa1AyeTVyMUU?oc=5",
-              "source": "v.daum.net"
+              "title": "\"우리한테만 왜?\"…17.9% 폭등장에도 못 웃는 개미들",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WcDVRTW5MSXlrbXhYOFZzZTcydVdtdkpnZFVXYjhTM3EzX1J4TVZqb0x4c0cwUHhhakN3Tnk1aEV0dzR5UWtLMDhuc1VadzFGcGxhaQ?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "코스피 20% 폭락장에…'이곳'에 투자한 개미들은 웃었다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3LXhIV0FXTS0xUWFfS0FMMVNjUHJCTFNMYjE5R0dZNUE3cjk2V1IwWlBFUTZpZWhBblV1aXRjbUQ2TzdFWTNMVm5uVmRkWXNZYTlVTXNwZFlyUQ?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "홍콩 CSOP, 코스피200 커버드콜 상장 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxdFNiMEZrT0JwdWpLVnZjbnNMTC1aeDBkalczWllCY0NGbzNzVGUyZ2REQWxHWEoxVm1fMm9GQU5rSVFiYXhsQXNyX1c2dVdMcXkxTHRmTG8zT0h2dExUNldUM0FaRFRD0gFuQVVfeXFMT0JtOHFyakpIU2RmblE5NjdkenNDYzVoekpNUEd1b2NBSHc4dG1ReXEyNWkxUHF0MER4UUdQNEpHa1NRT3Brd2NIQTU3NTUzSG9Sb3B0Y0JsQmZlVEZ4TUp2LS1PZ2kzVTl1RGc0Q1E?oc=5",
+              "title": "개미 광풍 잡겠다며 16년 전 'ELW 카드' 꺼냈다…시장 붕괴 트라우마 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsQWYtTG52cEtTQ1Z6Wk12WHFfQlI1SkhwMVJOZzNnTzJicjdvRkNwOTluR2s1R2trRGtOdVhLQmhRYmdUazg2U1A5Mld5RXQ0djZPN0JNZjYzUjI4dFA5amk1LU9KeFZw0gFuQVVfeXFMTVo4SnhfRzVSNzhQSWllY1Q5X3dHWGtmV3ZsVmRXbUdaRzNRNTBnV0JOMHM4T2IxMjJmMkdfYUkyeFJONmRqempseE80Z0VfOVdLbHpza28xN3VZT3U4QUJESDVDcG82aGg5VF9aTVE?oc=5",
               "source": "머니투데이"
+            },
+            {
+              "title": "멀미나는 증시‥2배 ETF 규제 '개미 보호' 효과 거둘 듯, 변동성은?",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TWW5qTkFrdjFBQ3hpUmNLbXdsYzFtRDIySThUWkluRVRlb2hKekR2R2h3MWtkTnAyQkxYQWNoVW1jUW5DRTNURzB4bDNFejZRSXVXZUVIbGhINWZ6cUVQeTVFTGRhTFJQV2kxM19WaGZCZWR0QmQ3Tg?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "코스피가 하루 1000포인트 이상 폭등하며 사상 최대 17.9% 상승이라는 전례 없는 기록을 세웠다. 지수는 6595.45로 마감하며 역대급 단일일 상승폭을 기록했다. 앞서 20% 폭락장에서도 일부 투자자들은 수익을 낸 것으로 알려져 극단적 변동성 장세 속 투자 전략에 관심이 쏠리고 있다. 홍콩 자산운용사 CSOP의 코스피200 커버드콜 상품 국내 상장 소식도 함께 전해졌다.",
-          "headline": "코스피 하루 1000P 폭등, 사상 최대 17.9%↑"
+          "description": "지수가 17.9% 폭등하는 장세에서도 개인투자자(개미)들은 수익을 내지 못했다는 분석이 나왔다. 당국은 급격한 변동성 속에 개미 보호를 명분으로 2배 레버리지 ETF 규제와 16년 전 ELW 사태 당시 카드를 다시 꺼내 들었다. 다만 규제가 실질적인 투자자 보호 효과를 거둘지, 아니면 시장 붕괴 트라우마를 재현할지 논란이 이어지고 있다.",
+          "headline": "17.9% 폭등장에도 개미만 못 웃어"
         },
         {
           "rank": 3,
-          "word": "최태원",
-          "count": 3,
+          "word": "반도체",
+          "count": 5,
           "articles": [
             {
-              "title": "\"우상향한다\" 최태원, 49억 원 매수하자 SK하닉 주가 '폭등'",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yUUNjMGJYVDNaUDdjRDc5UWs0M19mM3A3UExRak5Rdi12WG1KenZzQlVjdFRMWDRHYUZjMmZ5ZW9panc2aHZyemg1MHB3ZTJ0emc?oc=5",
-              "source": "노컷뉴스"
+              "title": "삼전닉스 4755조원 국내 투자, ‘글로벌 반도체 초격차’ 승부수",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tczNucHhuVi1uOVVINFBfQzhQM1kwcVk5RGVYSE5BRGRIczNkYjYwcVIzYTlvb25ET19NbkZUSmtTcjNmdkNmNllfMDVTakgxZWZGd0s0U3k2LUdyb3NGaG9URm9uanBENU5iZS03QWhwZw?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "최태원·노소영 21년 전 파탄 났다는데…이혼 확정 늦어진 이유",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlMi10Wjl1eGxWdGh3N2F2TjU4NXV0QVlrX2gySm1UM2Z2bUVQcWRKaTNXTm90UGZmOXlPWEVnbGNBYlI5UDFVSHNodGJsdzAyNXRhZWdB?oc=5",
+              "title": "“팔기엔 늦었다”“이때는 사라” 전문가 10인 삼전닉스 전망 [반도체 긴급진단]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0OWR1emlaVzFqYTJ1M2dvWEFyeV9TSTVnaFdGWnRPZlBtbXBvLU9pM1pkMkk4Tkg2bjZSb3VVVzN6eXhQSnZEeXNHa0xfV0hXZUZJTWNn?oc=5",
               "source": "중앙일보"
             },
             {
-              "title": "최태원ㆍ노소영, 세기의 이혼소송… 네 번째 반전은 날짜였다",
-              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JeUVBLV9iZVdMQjVPV29IOWduNmpjblRTTE5kUG1zclIyVDZfcWI5Nmpsell2OVF1OHd2eU1EYnQwcG1IekFRVm1xbUU3REN6dkZOWWJfVGtldHpQd05UR29CdWJYR3BjeVpXLUJwQTBkcEt0dmNIQVFn?oc=5",
-              "source": "chosun.com"
+              "title": "반도체發 폭락장에 관심 한몸에 받는 모건스탠리, 그리고 숀 킴",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb3piZ1BzQV9EZFhJel9JNzJrcEpXTXdsVXdlR0tvdnlhZ3UwY1k0SnlESmt6bVVQRk1BbV8xNWx6dzlZVXlnQXFpNTQ1X1ZFNWwwWVM1TGU3QnpvbllkQzg1MVg4ZC1yOUR6bFUtSExRSHJWeTJwTUpENGxjMFE2c3ZhQQ?oc=5",
+              "source": "인베스트조선"
             }
           ],
-          "description": "최태원 SK그룹 회장이 SK하이닉스 주식을 49억 원어치 매수하자 주가가 폭등하며 시장의 이목이 집중됐다. 한편 최태원 회장과 노소영 아트센터 나비 관장의 이혼 소송도 재조명받고 있다. 21년 전 혼인 파탄이 인정됐음에도 이혼 확정이 늦어진 이유와 '세기의 이혼소송'으로 불리는 이 사건의 네 번째 반전에 관심이 쏠리며, 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "최태원, 49억 매수에 SK하이닉스 주가 폭등"
+          "description": "삼성전자와 SK하이닉스가 4755조 원 규모의 국내 투자 계획을 내놓으며 글로벌 반도체 초격차 확보에 승부수를 띄웠다. 반도체발 폭락장이 이어지는 가운데 전문가 10인은 두 기업의 주가 전망을 놓고 엇갈린 진단을 내놓았다. 한편 이번 급락을 사전에 경고했던 모건스탠리 애널리스트 숀 킴이 집중 조명을 받고 있다.",
+          "headline": "삼전닉스, 4755조 국내 투자 승부수"
         },
         {
           "rank": 4,
-          "word": "마감",
-          "count": 3,
+          "word": "코스피",
+          "count": 4,
           "articles": [
             {
-              "title": "코스피 6595.45로 마감…‘하루 1000P 이상 폭등’ 첫 기록",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QT1ZVdjRCTUlSUVctWlFRUFZES2lJWGt5cHduWEhpY0RRUEs1dlRYU1doLTBQVERIR1l2NGJDTTBJazB1OXNUcFE5TDdoaUctb2phUlc3N0QtWDFySkExLTJ2d1dRNU9kbC0yeG1lOXlVWldlNkHSAWZBVV95cUxNdTZVUGUwSnVOei0tVXZ3N05KRm0xTEc2R1gtQmdaVmtnMzhGR1h0X3otRi1FOU5KU0JXWjZZc0hjMWNEVnVOQm05RUNNTEYwX21hNmJ0TXVVN0ttUVVGRjBGRHJMSGc?oc=5",
+              "title": "코스피 급락에 ‘마통’ 1.8조 급증…‘빚투’로 “분할매수 노려”",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzMzlZcUZJUEtRMDdVM2xnWkdaa2FScTlqV0tzemxSZ3lWYl9RS0s2TEF0NGIyMWg4ejBuVGxmZkJOak82V05SUnlmelV1bnNiV1IyM0xKRlhuRTJJMEEtZTdFX1MtZzQ?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "5대銀 가계대출 2달째 4조원대 증가세…코스피 흔들리자 ‘역머니무브’",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WZFFoaWdRbjF0VG4yd2w4d2RCd3NjV29QV3poTU9WQkg3Um5UdGt2NlZQTC00djFBaXYzZE5ZZDJVbklHZlduWmZWTUdfSEtlTV80TVdmS1pBTDcxdGR3NDFnYncydXZVQjFWd0RGT3BnRDM2LVHSAWZBVV95cUxPYzdfRFNyZ1FGeEZKdTU1dnliZWdLNC1LQzZmUlFUeWtmZ1Rhb3hmcjRtWWw0WDJ4aURpU1pTWi1SYVdRZklmTFZfWmUyelFCbms4bXp5NmtqelFkVHRsS3BlUFpjeUE?oc=5",
               "source": "동아일보"
             },
             {
-              "title": "뉴욕증시, 기술주 강세에 상승 마감…나스닥 1%↑",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zcGkwWExXeG9Fc3FOMkNRSUlIdmR1eHNWVkpEUW83LUdKT3Qwa1pueHktOWVmVWZwa0RMWVhaTWRJQ1h0eHBfdExhcjhEVnc?oc=5",
+              "title": "지금 코스피 매력적?...마이너스통장 6일 만에 1.8조 늘어",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5neDBzWVNhOUg1dmdlZ1B5dHJMNmJTbmkzY1hoZVpKckZEb2cwN1FJTURDRDJwS0t2MU04d2RuVGNqSmFENjFPTnZUT0lwRjA?oc=5",
               "source": "v.daum.net"
-            },
-            {
-              "title": "뉴욕증시, 상승 마감…아마존 호실적에 AI 우려 완화 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPanFlNEdVRnhmUEYtR3ppRkFSU19uUWllSWVBZ0JCQW5NWWpPbTRjOThfSDdKVlNiYlY3b3ZNZ19sNmUydEIxZUF3Zm9wNzJ3NTVESm8ydFVqSHF4d1FORTZOaEZwMzJYeGlCWVlHeTNIbjhNV0JCVUVQdGgyUXUtc29QZThEbGVPeFVrU24ySTQtS3ZpWWd6Qmg0S1RTZ9IBsgFBVV95cUxQTHN1ZTNmM2xyZzlHQkt0T3c4cHVqSXl3ZDNJZjZlY0VfcWdmOEthYmlaZnJOY3c5N0dOVnpZSXI5RmV3eXhsS2c2Wm85QXpQcG52QUNwV0s2LUkza2h4eEJOeXAxRjQ0UWtMWFVWSlJtQkp2N05DUjlGcTZ2Y0pSakxzQk9QcWN2UW5ZcWxzTFEzWkRTTlJLVGdSay1ibU9MbTF0Z2Q0LUt1T2ZjUEgxdm13?oc=5",
-              "source": "Chosunbiz"
             }
           ],
-          "description": "코스피가 6595.45로 장을 마치며 하루 1000포인트 이상 폭등이라는 첫 기록을 달성했다. 뉴욕증시도 기술주 강세에 힘입어 상승 마감했으며, 나스닥은 1% 올랐다. 아마존의 호실적 발표가 AI 투자에 대한 우려를 완화시키며 증시 상승을 이끈 것으로 분석된다.",
-          "headline": "코스피·뉴욕증시 동반 상승 마감"
+          "description": "코스피가 급락하자 6일 만에 마이너스통장(마통) 잔액이 1.8조 원 늘어나며 빚을 내 분할매수에 나서는 개인투자자가 급증했다. 5대 은행 가계대출도 두 달 연속 4조 원대 증가세를 이어가는 가운데, 코스피 불안이 커지자 예금이 주식시장으로 역류하는 '역머니무브' 현상도 포착됐다. 저점 매수 기대와 추가 하락 우려가 맞부딪히며 개인투자자들의 선택이 주목된다.",
+          "headline": "코스피 급락에 마이너스통장 1.8조 급증"
         },
         {
           "rank": 5,
-          "word": "레버리지",
-          "count": 3,
+          "word": "하이닉스",
+          "count": 4,
           "articles": [
             {
-              "title": "단일 레버리지 보완 첫날...거래대금 4분의 1 토막",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fQmd1VmNndzVKdV9XS2ljZEh1NERYTHU4YVZURFNaM0FWbE9taG1LaWNqUDhiUXdFNmY5dXN0am9lVWExMWlLVnZDNFRpY21lbTNkSmtLbC1WS3hkUlE?oc=5",
-              "source": "YTN"
+              "title": "“하이닉스 298만원 찍던 날”…급락장에 퍼지는 씁쓸 전래동화",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GQ0lkXzdDd0trMGZURmVWQVc3VVdVLUVreFZPMWIzWHdEZ0ozZkJSQnpCNWRUdVJEQzVHczdkSmRJYjVueE43Z0ZJc2pXRDRFRVYxbmRB?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "국힘 “‘레버리지 ETF 참사’ 국정조사 추진… 김용범 경질해야”",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjBZcGZYSllWYk02RFc2ekJaZjNXQV81WmRGekVpbkFqaWNJdkdSZmtQbUVmeENscGZrR2FPTUh4LUtXYWxPWUd2U1lvV1NKMno1WmdvTjdMSFMxYkpEcDNGRTBjZmR2dlIwUTdka3JWOXFSaDlIei1Oazkxa1pXdVdJUGQxdw?oc=5",
-              "source": "chosun.com"
+              "title": "최태원, SK하이닉스 주식 48억 규모 장내매수…\"책임경영 차원\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55OTlxZnU3M0poX2JhXzVqQUZXbUpPcmlvMmJ2Tkl4ZENDWmNmS3JBZFJhb0lrZERuWms0TDBTTjloX0FUYUFvN1RNVWt4OE5GNDRQRjJUTURDUmvSAWBBVV95cUxOT1lDanJFSDRQRXFrVlViUkE0YTg5Qlc5X0RSTDRTWjdqdU5vTUtjUnlfZmZXQkhLend6UmtyZGdiOEJSSnVyQ1ZpTkdKdW9NYjd0Nk5YT2Q0d1VJZEhvUEo?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "'레버리지 ETF', 민주당도 선 긋기?...국힘은 국정조사 압박",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YNzluYXp6TW5KS0NsS05ucHQ3WnN4eFBVM1FHS1FWYk1TM2hqODgzUnliWUozUzB0NHlkd0I3ZHVFT0d4Q01xMEw3WVVIQmJEeG1aLUhiejJFQjhjZXo3aGltc3JBVmlZTXp6c0dUZmxIamN0VlE?oc=5",
-              "source": "YTN"
+              "title": "\"규정상 최대치\" 최태원 SK하이닉스株 첫 매수 '50억원 아래'로 묶인 까닭",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xWEdGdlNUX0xoM3FFUlZuRWJEN2R3VUtmd1h6Y041WlA0Mmx0N1FyRHRmZlp6RWVTdnhTT20wdUpmd0V3blVMR3hYTFZaeFpJbGQ2N0laazd2TTcwNXU2d9IBeEFVX3lxTE84aXVsTEVnQzBXanNkRHFHYnNSR1lvUnNYVDhQSmFmNVl5RHZuNWxkUHFscUVObmFVS3RyYVI0R3ZIZ3ZGUG5EVEZxbFVxSlN6N1NUbFhuUVc3d2JsSkxrbVg3MWY2M2loN2VmbTBvYUdrZVNaNkcydg?oc=5",
+              "source": "뉴시스"
             }
           ],
-          "description": "단일 레버리지 ETF 보완 조치가 시행된 첫날, 관련 거래대금이 이전 대비 4분의 1 수준으로 급감했다. 야당인 민주당도 레버리지 ETF에 선 긋기에 나선 가운데, 국민의힘은 '레버리지 ETF 참사'를 이유로 국정조사 추진과 김용범 경질을 요구하며 정치권 공방도 가열되고 있다. 극단적 시장 변동성 속에 고위험 상품 규제를 둘러싼 논란이 본격화하는 양상이다.",
-          "headline": "레버리지 ETF 규제 첫날, 거래대금 4분의 1 토막"
+          "description": "최태원 SK그룹 회장이 책임경영 차원에서 SK하이닉스 주식 48억 원어치를 장내에서 직접 매수했다. 다만 규정상 한 번에 살 수 있는 최대치가 50억 원 미만으로 묶여 있어 매입 규모가 제한됐다는 설명이 뒤따랐다. 급락장 속에 과거 하이닉스 주가가 298만 원을 찍던 시절을 회상하는 씁쓸한 반응이 온라인에 확산되는 등 투자자들의 심리적 충격도 크다.",
+          "headline": "최태원, SK하이닉스 주식 48억 장내매수"
         }
       ]
     },
     "연예": {
-      "summary": "제5회 청룡시리즈어워즈에서 김고은이 대상을 수상 · 황정민 논란 속 나홍진 영화 '호프' 흥행세 · 박진영, 한국판 코첼라 준비 중",
+      "summary": "나홍진 '호프' 400만 돌파·소지섭 '김부장' 개봉·'나솔' 28기 영자X영철 파경·차은우 130억 세금 조세심판 청구.",
       "keywords": [
         {
           "rank": 1,
-          "word": "박진영",
-          "count": 2,
-          "articles": [
-            {
-              "title": "박진영, JYP 구내식당에 연 20억원…\"유기농 김치만 2억2000만원\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBURWNFS3JmTVBUUF9jdmpPbkttc2w2cUNHcEltOWZhQTVrVXNnLTN6TW5zcFBHb0ZvVmlQMFhoOEd5NFk5REhmLW9Gand4WjJOaHdlX1JhM2pTMUxGY2x2ddIBeEFVX3lxTFA2d2tvTXk4dFJTWDg5UW9XY013bHBsSDVfaE9oRnowaXJLZ0VmWjJIMmN2UUVDN1pYSGFmZG01T2ZrblEyV0c2ZFBDVERfdHEyS1ZWQ2ZPN0JPSVlGTHFrZGhHbDctMUFTaHNMa3RfMUlKOTNKR3ZwMw?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "박진영, 청와대서 K컬처 프로젝트 논의 \"한국판 코첼라 준비 중\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KSFd6LXBFcE1sSjlIM29ocTczb1Y1UEJ4ZXRKbGtkbWRCNHAzSm1YUHlsV19BcE9qbDVvUW5DZVR5R1Z3Q1lEYzNFb2NCTlM3UDRKVEhHRkxkZlY0RmN0UWxMMUJWSjBlVHhqOFJSTU5aNjDSAXhBVV95cUxPUHQ5bkZJYmFTeWxndElQZkJ3NHMydjRTU2wwZzhHcmZlNVA4NFhBbU9ybWZDSERMSzBBQXRlMDhXNkRXYzlqYkJuSF9DVE9UbUJtV3pTTXp2ak0tOFB6WXZuMGdUUnhjSDdIRWNzTmlxVGJpc1NQWUU?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "박진영 (J.Y. Park) - 날 떠나지마 + 그녀는 예뻤다 + When We Disco | KBS 260731 방송",
-              "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOMmNlUW1NTDNZTHlfOEsyVXJBZTFyMXpYZ3hZbzVlTnZzMUJIdEZ1S0tSNjc2c0VUTlJXZ3BIRUlWN2ctWE9mRUR5SXJDbjZYenlFUzZ0S05NckpEd3dzcnI3NXpsbFA4ckxVdUxpMHYzVEk0NlhEWU9XalB6TDZxUWRnMEMyZGpIMUVFMWdvRVRKRTRLWmR5OWo4NjQ3cGxyQW9xb1FJc0lmUmNBSTNjLWczMTVIZDRUZkNSWm5GS0hiMU5VdVJtSDRBSE01d3hkNndScDBjSUktZEFCMEUzc0FfX2hZbFByaVhYTTlBNzI5REJ1YzBJWlJOekZZOThqTHUwTXhKM2F5V1prM2RvTXptTG9UdC1mVVNlTXlodWZZamhTb29CeUJlN05sZXZYelFZSVloN3AzM0RLbXoxZA?oc=5",
-              "source": "대한민국 대표 공영미디어 KBS"
-            }
-          ],
-          "description": "박진영이 청와대에서 K컬처 프로젝트를 논의하며 한국판 코첼라 페스티벌 준비 중임을 밝혀 화제다. 함께 공개된 소식으로는 JYP 구내식당에 연간 20억 원을 투자하고, 유기농 김치에만 2억 2000만 원을 쓴다는 사실도 눈길을 끌었다. KBS 방송에서는 '날 떠나지마', '그녀는 예뻤다', 'When We Disco' 등 대표곡 무대를 선보이기도 했다.",
-          "headline": "박진영, 한국판 코첼라 준비 청와대서 논의"
-        },
-        {
-          "rank": 2,
-          "word": "청룡어워즈",
-          "count": 2,
-          "articles": [
-            {
-              "title": "배우 김고은, 제5회 청룡시리즈어워즈 ‘대상’ 영예",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NUmRsUEhQM0tVMzlwVmZIdC1jajk1ZFpNalFGa2hSZFVhNFJ4MXRjc01aSUZFMDlsVVNoNERFODZTWmpxRUloWldRVUZMblU?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "박보경, 여우조연상 수상…남편 진선규 ‘눈물’ [청룡시리즈어워즈] - 스타투데이",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xUHJpTlVSU2N2UTJUc3VEVVBOaEJPY0tJa005cTJNSmh2Q3d3VXk0Y2hJdGx0d3FmZnNidEF6Zm12Qm1vc1dFSUJZY1RwQkhGakh6RUVwZVIzZFlkN2ljUmgwRmc1dw?oc=5",
-              "source": "매일경제"
-            },
-            {
-              "title": "박보경, 여우조연상 쾌거…남편 진선규도 눈물 폭발 [청룡시리즈어워즈]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CWktQRDJuVVc3UFpnTUhNZVRJVjJDdFB6bmJhcVVpdGNHVlIwdUxocjZ4Mm5pRWRKNjVOcDFSeG1qS0ZMbjlweDNIc3N3X3dYRktMdVV3SExYVklJb0pWMQ?oc=5",
-              "source": "뉴스1"
-            }
-          ],
-          "description": "배우 김고은이 제5회 청룡시리즈어워즈에서 대상을 수상하며 최고의 영예를 안았다. 여우조연상은 박보경이 차지했고, 시상식 현장에서 남편 진선규가 눈물을 흘려 훈훈한 장면을 연출했다. 오늘 처음 트렌드에 등장한 키워드로, 시상식 결과 발표와 함께 뜨거운 반응을 얻고 있다.",
-          "headline": "김고은, 청룡시리즈어워즈 대상 수상"
-        },
-        {
-          "rank": 3,
           "word": "호프",
           "count": 2,
           "articles": [
             {
-              "title": "정답 없는 영화 《호프》, 왜 관객들은 그토록 분노했나",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rYUpqN01sOXZ2VTNNZlMxcUw3cEdsZzhXRzMxYUZJV0VaZG9IOFgyTUNUWWEwd3EwZGFZVm9sX29jdnF3ZmNCLVVoZEpuNEE?oc=5",
-              "source": "v.daum.net"
+              "title": "나홍진 '호프' 400만 돌파…올해 개봉작 세 번째",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIQXNxcVdvMnJBSE5XWHA5SXVWaTNiQlFTT2JjX1plNXhQY2FmNWJhMWZla1lQXzA2bl80Znc2Zkp2Z3Y3dm50YUZVbS1DUjZnbm5oUW56ZmZlUHPSAWBBVV95cUxPV1ZweGxuTnpQYm9pRWF5Z3JzOWxhOXFXWjVEYjRkTWs0dlhOdHBkdXlmeTZVRldyNHgyR1NZek5NMXdDZktDWEFTemN3eEJyX01DcHp4eW9XenJJVC1OWnQ?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "폭염 속 극장서 피서 ‘극캉스’…‘호프’·‘스파이더맨’ 흥행도 한몫",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pcE1BZ21MZ0pWWjlQRjgwbUVtTDgyMmNvOThibXVaVUptQ2xUX1V0VjNIc2lqWUk0RFFpWWRDSHo5cW5vWlN2RlA0T2RzTzN2eVlSRE1qd3l1bEk?oc=5",
-              "source": "에너지경제신문"
+              "title": "음문석 \"'호프' 통해 집요함 배워, 더 치열하게 연기할 것\" [인터뷰]",
+              "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSEZJSGh3ZDBIZU9KejVOaHc5UUM3VEU0akl5Q0c1Qk1yR1VKSjhnY2hhQnQ2b0ZTclV0ampqWmFNcDF5SERfNXlGR3VWdTFHZkFDdGl4V21pdmN1SDhpYTNpZEtlQmxodExYTXNFT1V6VGFmVVBXOTUzd2pCQWstbUJ3eGI4aXFnN3VFc1A0VkY2c2JUUms3Z052NDYtSDMxQ0xSd3RuOUZEN1lWTkVXMm9MOFhiTVFpbTAxRm5wV0g0a3J2U0x4ODNrNHcxOEEzMnFnM0Vib1htcXVQRkcwamdfNzBvVDNveGJ0WGRhYVRkR25fUm00cVUwZFprUnBabEQ1UkhtakNHeFluMFE?oc=5",
+              "source": "데일리안"
             },
             {
-              "title": "'스파이더맨 4' 200만명 돌파…'호프' 넘어 올해 가장 빠른 속도",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMYzFBcGNES3JjU1I0Tk43ZzdEd2FCczAzMDM2NjVPMnAzeDM5UzJ5SW9TVDF4S3J6MExnakY2MDdvdTlZX1FQWnFUVUlpVWhmTXJ5aS1wSUZJeVXSAWBBVV95cUxPLW5GSmUzRy1aSTJnNzhfY0gxcG5oaEo3dFhEMTB2dF9mOXRlTFp5bjlGQjBXWXhiTWI4ak5lVGFkUDJwUDZZOG53N3kxSlJhMFhSQ1A4Tk5WY21xcmZaNlQ?oc=5",
-              "source": "yna.co.kr"
+              "title": "‘호프’ 음문석 “‘유퀴즈’ 출연, 가족 반응 폭발…젠슨 음이라고” [DA인터뷰③]",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50LVJnelh6QVRPdGtQLVMyYzl1YVRxcWdmRHdUS04xT2RKWDl0dVpUVlVFSUgyUEFzazNQX05YM1kwSkI5VDQtckpILVNjQllDUTJKUUNiYkkwTnRqWjZyZjJGaFBxTWlELTdiQzdR?oc=5",
+              "source": "sports.donga.com"
             }
-          ],
-          "description": "나홍진 감독의 영화 '호프'가 관객들의 엇갈린 반응 속에 극장가 화제작으로 자리 잡고 있다. '정답 없는 영화'라는 평가와 함께 일부 관객의 강한 분노가 온라인에서 논쟁을 불러일으켰다. 폭염으로 극장 피서를 택하는 이른바 '극캉스' 트렌드와 맞물려 흥행에 힘을 보태고 있으나, 스파이더맨 4가 200만 명을 돌파하며 올해 가장 빠른 흥행 속도를 기록, '호프'를 넘어섰다.",
-          "headline": "영화 '호프', 관객 분노 속 극장가 흥행 지속"
+          ]
         },
         {
-          "rank": 4,
-          "word": "황정민",
-          "count": 2,
-          "articles": [
-            {
-              "title": "황정민 측 \"온라인서 언급되고 있는 인물은 A씨 아닌 순수한 일반팬…단호 대처\"",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rT0c3VzB5SUh0bUs0VjR4VXlER0gxN1B3ZDduQkRZcUtmOWpPZ2UybHRfTmxLcE14M01TZnFwTWQ0WW5JUHc?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "황정민 논란에 스파이더맨 열풍까지… 나홍진 ‘호프’ 예매율 3위로 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWxhRGwzQWJLZUdxcXNWd2djQTZSYm8wRGQ4Rnc0YXF1S1RSMVhnbVVvWlVUcHkzLVNKMzVpRjZNTW9tN192dlZmMjl6bldBeHpQSHhCNktDZFZpcUVDZjlReVo5LU9IbTNneW5mQncwRC1ma2lrYVktQzZrY1dYbnVHeXpTNlpjZnfSAZ4BQVVfeXFMTmI2TEk1Zm9KbFBuNU5yZjd2V3JhS0NjZUlEQU5ESld3YVItM1hCOG51a1hRRVRBcTY5cmlJQm9tY0lLY0hJQkgybnFXLTZlM0xQdl90aHBMcnUwQ0tBT1NYbzV5dEI0OWZlVlcwVWtwT1Z2emY4a2lTR1NjQy1PNFhnS09sbjZrOGV6eU9TbkRNcVZ4QUZFdllLV0VnOUE?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "황정민 폭로자 \"수년간 성적·노동 착취\"…소속사·제작사 법적 대응",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56SWpVZjVVWG96QlAzNzAtXzZuZ2lscVR1cFlEQXI1Rk5GZXFpWHV3VVJOdlNadTZ5TF90UzAzcVJTc3d2WVp0RUVQbTJ5Y20zTFdrRXAtNnpDNDlqRVQ0bGotTW1tTms?oc=5",
-              "source": "연합뉴스TV"
-            }
-          ],
-          "description": "황정민을 겨냥한 폭로자가 수년간 성적·노동 착취를 당했다고 주장하면서 논란이 확산되고 있다. 황정민 측은 온라인에서 언급되는 인물이 A씨가 아닌 순수한 일반 팬이라고 해명하며 단호히 법적 대처하겠다는 입장을 밝혔고, 소속사와 제작사도 법적 대응에 나섰다. 한편 이번 논란의 영향으로 황정민이 출연한 나홍진 감독의 '호프' 예매율이 3위로 떨어진 것으로 전해졌다.",
-          "headline": "황정민 폭로 사태, 소속사 법적 대응 나서"
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "word": "김부장",
           "count": 2,
           "articles": [
             {
+              "title": "‘김부장’ 소지섭의 ‘통하는’ 액션 [인터뷰]",
+              "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxONTBldDVObl9SN1MtenF6Y0xLakxzZFcyckYxX29iSjdWS0VIUXIyQjltUnNKc3Rva3FEZW9sVFd5czN6ZXhNejhhelRod3JaMFhxMkJwT2N5MEw4N08tUlNlTWh4eXRTT3dLN2dUdjRYcFo5ckpYSzdNVGZHdElBWmRLTTRRMWc5X3loNTRFYWpYdWpmM3ptX0RvRkpia0ZHMHZNQThHWnpjQWtZbExjYnhBbDdneXpNbmVfQklhMXZpQ1lFQWtPV2dHRFM3WTVBbzVrS0lXWWhXMUl3c2tmN3hrelBIdXNueEFxbThqVm1MX3pOVTBxWEd3VWNyQ1ZscFpPWHpTNWtjNVJ6Y25pNjVTM1VKYlZrMWY2V0tZVEQ1YWc?oc=5",
+              "source": "데일리안"
+            },
+            {
               "title": "‘김부장 딸’ 서수민 “지금도 타코야키 알바…손님들 몰라봐”",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93em5rQmd6MllRcTJpS1JiVi0zYzk4UTN4YmZYdl9WZGhIWlpCc2VYVjYwV1Bza2hlUG9JSEJtdC0wT3kwSHgyZlR5YTkxNHZKTmstY0lTODhKN0ZlcGFVcXJZeXpwYkFsaVNyR1JoRFl6dGQ3c2c?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93em5rQmd6MllRcTJpS1JiVi0zYzk4UTN4YmZYdl9WZGhIWlpCc2VYVjYwV1Bza2hlUG9JSEJtdC0wT3kwSHgyZlR5YTkxNHZKTmstY0lTODhKN0ZlcGFVcXJZeXpwYkFsaVNyR1JoRFl6dGQ3c2fSAWZBVV95cUxNblVLZnI2YW9xS29WRkt3VEhCV2VZVzJiWGRpMWZOTmE2MmRhN3BwT3R6WU1xX0h1RkVHQlU4VFVqVDU2VTNCMlVZaV9wdzJqVjhHSVhsRmdCY0lFTGhvaW9LRnNxblE?oc=5",
               "source": "동아일보"
             },
             {
-              "title": "'김부장 더 유니버스' 소지섭, 서수민 한마디에 눈물 쏟은 이유",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pVlRJa1REZ25JczdVT1BZcmtVLWQ2ZDRwdm5IcW9oeGlpSE5tbVJDLWhsR0x4WU5JQWw0ZnUwdGxHbWluUnRlSHRfc3Q2RnA5YUJJZEZXYmpJWjVkNDl5YzdmaUcwNGl3VkJLOE5R?oc=5",
-              "source": "gukjenews.com"
-            },
-            {
-              "title": "소지섭 딸 서수민 \"민지=김부장의 삶의 이유\" (김부장 더 유니버스)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50OE1paW1jaTV4a1FndWRudEE2c3E2YU11Wi15aXZNY2hoRXVScUZnV2ZrN0JpSWVEVDh2cHhOcWFyYzZnaGd6dGRNU1kwX2M?oc=5",
-              "source": "v.daum.net"
+              "title": "시청률 23% '김부장' 출연·팔로우 67만명에도 '알바' 하는 배우 [인터뷰+]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KZWtoLVRWZ1BsdEVGT0ZHZUJIUU5SbmxVZUV3QVFFSjVQamdGYmJ3MzBtbzFuR2d5RTExS0pNMm9rMlcwSXV6bEVuNGRhcU1Yaml6cDktYW9uUQ?oc=5",
+              "source": "hankyung.com"
             }
           ],
-          "description": "소지섭이 출연한 '김부장 더 유니버스'에서 극 중 딸 역할의 서수민이 건넨 한마디에 눈물을 쏟는 장면이 화제를 모으고 있다. 서수민은 방송 외 인터뷰에서 지금도 타코야키 아르바이트를 하고 있으며 손님들이 알아보지 못한다고 밝혀 친근감을 더했다. 극 중 서수민이 연기하는 민지가 '김부장의 삶의 이유'라는 설정도 시청자들의 공감을 얻으며 드라마에 대한 관심이 높아지고 있다.",
-          "headline": "소지섭 주연 '김부장 더 유니버스' 화제"
+          "description": "드라마 '김부장'이 시청률 23%를 기록하며 흥행 열기를 이어가고 있다. 주연 소지섭은 인터뷰를 통해 극 중 액션 연기에 대한 소감을 전했으며, 극 중 딸 역을 맡은 신인 배우 서수민은 팔로워 67만 명에도 불구하고 타코야키 아르바이트를 계속하고 있다고 밝혀 화제가 됐다.",
+          "headline": "'김부장' 시청률 23% 기록"
+        },
+        {
+          "rank": 3,
+          "word": "영자",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘나솔’ 28기 영자X영철, 결혼식 6개월만 파경…“혼인신고 안 해”",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hSFlqcl9SQjFqaFR4V0lKZkxlOGtXQUp0N1ZwVFFUVFRpQ0x1ZGJoeUdZalk4d3VkTjE5aEZsT25xR2hrQXdwdHdYUE1RakZ6TzVSbHpIRHI?oc=5",
+              "source": "매일경제"
+            },
+            {
+              "title": "김규원, 규카츠 비화 공개…이영자도 인정한 ‘영자키즈’",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0MFAxNVNVdVYwb1BLci1mc05xcnlpS2RLbzJQY25WR3RoNm9CRjI2Zk9raVFWYXhjeHNTS3ZhZkU2VnlOSkNGY1FFaG93aXRxT1FSWThIcmYzLTFDLXh1UE5ZclcxQW5xYUd5RVRR?oc=5",
+              "source": "sports.donga.com"
+            },
+            {
+              "title": "김규원, 이영자도 인정한 '영자 키즈'…'전참시'서 공개한 신개념 먹방",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fT0JxZXU3TllESWZVMTN2QUtRSi1ibTFKamowNFFPN0NYVDNZRjZ1RzNkcVlLZVJ6T0pPWHNxYjVWc3c1alBrd2YweW1ISEJqZkxWV2I3bHg2RGV4TThSQQ?oc=5",
+              "source": "iMBC 연예"
+            }
+          ],
+          "description": "'나는 솔로' 28기 출연자 영자와 영철이 결혼식을 올린 지 6개월 만에 파경을 맞았다고 전해졌다. 두 사람은 혼인신고는 하지 않은 것으로 알려졌다. 한편 방송인 이영자가 인정한 '영자 키즈'로 불리는 개그맨 김규원이 '전참시'에서 규카츠 비화와 신개념 먹방을 공개하며 '영자'라는 키워드에 함께 주목이 쏠렸다. 오늘 처음 등장한 키워드다.",
+          "headline": "'나솔' 영자·영철, 결혼 6개월 만에 파경"
+        },
+        {
+          "rank": 4,
+          "word": "옥순",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'32기' 광수♥옥순, 본격 럽스타 시작부터 \"프러포즈 받았다\"",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXNpUUJ6TFQ3dDBka2h2S0p6X1R1bEVnRmlQZW1jZm96a2dCMFNuME5qaDNsX2hoYWRiVER1R3AzT2lQYU1BTG55dkxFSlVfYlJ5UGljQWJjdTdfYVpVcXRUYWVWTWJqSDg5eEFxQUJid1ZHQXlSMVM2YXlmVG5BNWloU2w4YjY4NDU3dDJCWQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "“못 알아봤다”…7기 옥순, 파격 탈색 금발 변신 (나솔사계)",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IVXlLdG5aUWZDVDZmel9GQ1JXeUtaU0pGSEIteDR5ZElPa0RfZll3ZkR0bmlKb3BLZzNTd2I3QUdjZERtbzFTV2NnUHhsY0tZNGx3QXBCNjZDamVWbVZaRnI5d3lnYWFFSHY0d05R?oc=5",
+              "source": "sports.donga.com"
+            },
+            {
+              "title": "'나솔' 24기 옥순, 하이닉스 300층 입주민 \"잠 안 온다\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fTkgzVnhSSlJvbF9BOUNhal9WNUszeUxyM1dIY3RUVWpJclhmT3FUc2k5SnQ1Y1psdVlCdGdjcUljelVySEFFN1VyRkl5RVNlQkczWHpsVTgtQQ?oc=5",
+              "source": "hankyung.com"
+            }
+          ],
+          "description": "'나는 솔로' 32기 출연자 옥순이 광수로부터 프러포즈를 받으며 본격적인 럽스타 행보를 시작했다. 한편 7기 옥순은 파격적인 탈색 금발로 변신해 눈길을 끌었고, 24기 옥순은 하이닉스 300층 입주민이라는 사실이 알려지며 화제가 됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "'나솔' 32기 옥순, 프러포즈 받아"
+        },
+        {
+          "rank": 5,
+          "word": "차은우",
+          "count": 1,
+          "articles": [
+            {
+              "title": "130억 세금 낸 차은우, 조세심판 청구…\"법률적 판단 받겠다\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JdmU5QXBnYzd0dGhYZE1NRlg5UUJNZzQzMy1qTnY0elkyU1dFeFZFb216a1U0MkpyRnExekMwNXBEbkQ5MnZlVF9rTG5kUWJudnhNeF9vZ1gxSFnSAWBBVV95cUxORVY1QTNPMGtUdnRlbXZzNGVBd0NZbGVab0taUlpVbzNzaFBVS3dsaTNKcWRTa3ZyWTk4czVleFRXeDA2VjRaNmFoUXRFN2NXODhYclpxMm1zaGVSeDBRYUU?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "차은우 사는 20년 된 빌라, 80억 됐다…박민영·정승제도 택한 청담집[초고가 주택 그들이 사는 세상]",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UbkFidG9HVnB3T3JSbkRBRkJWY09DSFdtbHlhQkZ1dXphNzlBRUkwWjVzcEpfX1lKN2FVYldDbGRydmdTdUtqU2QxaXo3M0RmUjA1TUU1SQ?oc=5",
+              "source": "헤럴드경제"
+            },
+            {
+              "title": "“130억 너무 과한 거 아냐?”차은우, 세금 낸 뒤 조세심판청구 신청",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YQktkYVBLSFNYdWxGOVZSZnpDM0VtQ1prQnlJa0hoYThiTVpLOEM1Qzd4QlM5eUU5NUVVVGhnd19haDJLdHo0NmpQRXd5Rlo1?oc=5",
+              "source": "문화일보"
+            }
+          ],
+          "description": "배우 차은우가 130억 원의 세금을 납부한 뒤 조세심판 청구를 신청해 법률적 판단을 받겠다고 밝히면서 화제를 모으고 있다. 차은우가 거주 중인 청담동 20년 된 빌라는 현재 80억 원에 달하는 것으로 알려졌으며, 박민영·정승제 등도 같은 건물을 택한 것으로 전해진다. 오늘 처음 등장한 키워드다.",
+          "headline": "차은우, 130억 세금에 조세심판 청구"
         }
       ]
     },
     "스포츠": {
-      "summary": "LG 카라스코 7이닝 퍼펙트 데뷔 · 이정후 연속 안타 행진 마감 · 손흥민 MLS 올스타 캡틴 선정",
+      "summary": "손흥민 4경기 연속골에도 LAFC 선두 탈환 실패 · 유해란 AIG 여자오픈 선두권 우승 경쟁 · 김서현 볼넷 난조 패전",
       "keywords": [
         {
           "rank": 1,
@@ -372,8 +394,8 @@
               "source": "머니투데이"
             },
             {
-              "title": "김서현 달라진 것 없는 일본 연수? 고효준도 25년 야구 했다…'1이닝 3볼넷 3K면 된다'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ySExYT2ZNbTlENXNaU2phekc1Rk4takt4NDY2OWxDd0FfVXcwV2Z6SXNNZW5vZDFUcEJTQ3RINEpNaTF6aHlXcy1yZEJZOGc?oc=5",
+              "title": "'아, 아쉽다' 김서현 볼넷-볼넷-볼넷-희생타-안타-볼넷, 日 특훈 효과 아직 안 나오네…ERA 27.00 패전 쓴맛 보다",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EN1J2UHZOZTJQU2Y0djRIYWZzbnlRN0VCNGh6NnMwRzJHbHRvS254Z0pVdVdCanlvZUlDUzFyZjUwb1d2SFE?oc=5",
               "source": "v.daum.net"
             },
             {
@@ -382,104 +404,104 @@
               "source": "네이트"
             }
           ],
-          "description": "일본 단기 연수를 마치고 돌아온 한화 김서현이 퓨처스 SSG전에서 1이닝 4볼넷을 내주며 패전투수가 됐다. 한화는 2-5로 역전패를 당했고, 연수 효과가 아직 나타나지 않고 있다는 평가가 나온다. '1이닝 3볼넷 3탈삼진이면 된다'는 기준을 제시한 시각도 있어, 제구 안정화까지 시간이 더 필요하다는 분석이 이어지고 있다. 오늘 처음 화제에 오른 키워드다.",
-          "headline": "김서현, 1이닝 4볼넷 부진 재연"
+          "description": "한화 유망주 김서현이 퓨처스 SSG전에서 볼넷을 쏟아내며 ERA 27.00을 기록, 패전투수가 됐다. 한화는 2-5로 역전패했다. 김서현은 일본 단기 유학을 마치고 복귀했지만, 이번 등판에서도 볼넷-볼넷-볼넷으로 이어지는 제구 난조를 반복하며 특훈 효과를 아직 보여주지 못했다. 오늘 처음 화제에 오른 키워드다.",
+          "headline": "김서현, 볼넷 남발에 ERA 27.00 패전"
         },
         {
           "rank": 2,
-          "word": "기아",
-          "count": 2,
+          "word": "선두",
+          "count": 3,
           "articles": [
             {
-              "title": "현대차·기아, 상반기 유럽 전기차 판매 10만대 첫 돌파",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BSllod255eE5sSmFqaTFlQ01wQzRnaWRsR3FSRDJsejVIblEwWmc2Q3FqMHUwcXdpWHBjZDBpR05hck80YmFRYlB1eTM0U1VCb1BMajlod1FjVVHSAWBBVV95cUxNZmlZcmJiSFoxRXYyd0ljLUV6cmlJNHhpUnZ5eEhNYUZrV1ZGVWU0dXJnbFN5ZWRvWWdld3ItYk0ySGM0N3B3aWxYTkt1N3ctZG1ZbWc4alQ2ZUhoQzJFUEQ?oc=5",
-              "source": "yna.co.kr"
+              "title": "이럴 수가! '손흥민 4연속 득점포에도' LA FC 선두 탈환 실패, '뮐러 PK 동점골' 1위 밴쿠버와 1-1 무승부",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbTRHSmZySXlOYWE0bnBaRmEyRjZ5aE1fRm9fSzN2UnNDczRYekZkeWxpNUxmY1Y2ZXlndEY1TnlpLUlhWk5vcmJJaVZELUhMclkxRVItbUpmSkpuVVZlTV9pcEhIcnhwdUplZzRqSUE5c2pfQmRBOXpvTGw4S3hWYm5hblpSTnA3cmhn?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "中 전기차 100만대 어디로…현대차·기아 가격경쟁 거세지나 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uUDh1VURYSy1kTDlmb1VrVU9tdlFwb01NelJkaV9LcHFrNTVkVmpEQWdtMGdjYlRpaVl6TldKbjI1OHJwVkdlUWZuZXMtTVdseERjWHdleC1wSEZDVW9rck1KRFJWem94eEFnQdIBckFVX3lxTFBEOTIzdzlKYU1YdFpTZE5mWndZZDNPbFhHZFV5UDhMUThrMktkSS16Ylc3RXk0VGJVVVJEMUFIRXVqZmhTaUpsY0hCeEhBeFVZcmZOMXBndnJvUjVCRVBlYWp3Q1FxOFliN0VlX2hRalh6Zw?oc=5",
-              "source": "머니투데이"
+              "title": "손흥민, 그야말로 공교로운 타이밍, 월드컵 침묵→4경기 연속 득점 폭발...LAFC, MLS 선두 밴쿠버와 1-1 무승부",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vbnU0S3F4ZXQxMkF4Z2E0amRkS3lLdW1YUU5BRnpzOE1zcWQ5U3M0c0FGT09WM1UybHFzYjk3cFlGZXJHRkJzcU5DYXNLY3M?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "기록적 폭염에 ‘삼성-롯데, 기아-NC’ 프로야구 경기 취소",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1neHdVVjNqX3Z4V0NNVGFWQ3hycHp2ajRDQXhwS2h1VldzMGlMS2JRSTN1eWpZeFlFMHJjai1vUERNX3hEUDBaVklDaDZWY1RVZW1NVDFZY2trSFhTa1lQa1QxWGg2ZkZHaGhKU0VSaGlqSWxDV2fSAWZBVV95cUxNZy1ESTIxY2NSNTlGQlNoZjRZbmtkdE83OFZ2V1ppcXNWWHB1TEt4ZWpwcFBHRWVEeklPdjN1Q2hXVDBGMURlZldqS1BNZ1VEUVJCcmVYeUhJVzYyZUszcWxWRXFuRnc?oc=5",
-              "source": "동아일보"
+              "title": "선두 밴쿠버 골문도 뚫었다, 손흥민 4경기 연속 골",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3VXFLY01jSVRhUFZNald2cVZaNlNnSVBKMzQ1SHkzWXd4ZmFPbzhDS2tseXNla19uNUlIbExBUWdhSzlxZ3VWd3VqRkdHbW45bE85Nl9SbmVUY1pkZnJnUTd4MVRVTV9nNi1wV1l3?oc=5",
+              "source": "아시아투데이"
             }
           ],
-          "description": "현대차·기아가 올 상반기 유럽 전기차 판매에서 처음으로 10만 대를 돌파했다. 한편으론 중국 전기차 100만 대 물량의 행선지를 둘러싼 가격 경쟁 심화 우려도 동시에 제기되고 있다. 야구 쪽에서는 기록적인 폭염으로 기아-NC 프로야구 경기가 취소되며 '기아'가 다른 맥락에서도 주목받았다. 오늘 처음 화제에 오른 키워드다.",
-          "headline": "기아, 유럽 전기차 판매 10만대 첫 돌파"
+          "description": "손흥민이 MLS 4경기 연속 득점을 기록하며 선두 밴쿠버의 골문을 뚫었지만, LAFC는 1-1 무승부에 그치며 선두 탈환에 실패했다. 독일 레전드 뮐러가 PK 동점골로 응수하며 승부를 원점으로 돌렸다. 월드컵 기간 침묵했던 손흥민이 복귀 후 연속 득점 폭발을 이어가고 있음에도 팀 순위에는 영향을 주지 못했다. 오늘 처음 화제에 오른 키워드다.",
+          "headline": "손흥민 4연속 골에도 LAFC, 선두 탈환 실패"
         },
         {
           "rank": 3,
-          "word": "손흥민",
-          "count": 2,
+          "word": "여자",
+          "count": 3,
           "articles": [
             {
-              "title": "대반전! “손흥민 정말 마음에 안 든다” 한국 팬들 반발에도 꾸준했던 ‘토트넘 선배’→박지성 PL 최고의 ‘컬트...",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Y1lNM3poYURLbGN2OWhmc0dyUGlwUmM3c2tzY3NhVThpb011SzVGMEZHWV90N01JTUNTNzJkZzBTLWlDTXlaMnB6RVB6ZFlja28tekUxZUVYNVE1U1HSAWNBVV95cUxNdnJxNGtESlZRdkpqTXFtYmlWUy1oWUhfdkdvTDNpZnZ4VTJRSks3WTItdGtQMXlfZmhuOTluVFJRbUg2RXoxMVJRWExIclVyaG0zaVM0Y2NqOWlFYUJZMk9VZ28?oc=5",
-              "source": "스포츠경향"
+              "title": "유해란, AIG여자오픈 3R 공동 2위…선두 노예림과 우승 경쟁 [LPGA 메이저]",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XZjlNZ04zQVF4YWg1TXZzdHUtb0Jjb1dXbnJ2SlhMMjROUExMSkFseUhWUmVEVFZQU3RsbkFwa0RLaHpLdjlvRG1RSkhBU0RHQzJ0aW9VcExOc012YWZaUmxIbDVWT2s3UHVCZVVDYjhQZEo4b2lEd9IBfEFVX3lxTE9fZFF6MHFsb1FBbGdiZmJPcmphelU3R2N3NDNzTVVmUHlMdWEtczRGdm53ekNvVDVFajNlRWw4QU9SR1o4MER0NUJOOGxMVHFiNWpZaWI0eW9rdS1kcUdaTTl1cm5tR3ZZT1h1RXZNaDMtZF82RHNxYkdYY0Y?oc=5",
+              "source": "골프한국"
             },
             {
-              "title": "왜 손흥민이 '미국 올스타' 캡틴? '美 독점' 보도로 알려진 SON의 리더십 \"어색한 선수단, 먼저 농담으로 분위기 풀었다\"",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ienRwWVVXZ21ENVpXeUNYRTRPREFhMFdabEJ2eTFLS20wLXRscWFmdHZiZE5DWDdmVDU0WldoMnhKc1dCZ2lPYUlWMW1GZjEweU9oaEhSVGZGbGw3YmltalluUUZWS2kt?oc=5",
-              "source": "네이트"
+              "title": "메이저 3연승 도전 유해란, AIG 여자오픈 2라운드 선두로",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hUVp5T0JYbU5BV3hvOUVyMXBVOHRWXy1TcGN0eVpYQ2lGNlNnMWF3Y0RKeTNUcUFhX2c1MEkyUXp5NUJUaU8tQWRsamZxV0NMdkdyMGRBNnFNMnNiX19saHQ5ZnVHQXNsLW8tRThTVGFYUlFmVy0wYmRxTkZMUQ?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "손흥민 소신발언 “토트넘, 내가 필요하지 않을까” PL 복귀 말하며 함박웃음…농담이지만 설레는 한 마디",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kX3hNZjRLN3dMVlhLaGk1UFNVV08zN1dvWmRja3hiTlZ5LVNLdDBteEp0ZDl5TEFCR3g4Vy1SeHhPbG5CNEh5bGs3aGdJWXlzeGhHai1xd3NiNDE5YTZUWnNjYUR3aURNN1ZIbXV6Z9IBc0FVX3lxTE5sVTNTcUNDZmdzZ3VwVnFOaGpMQXljWXo3Q0NFLUVLQzFGdF9QN2NtdHZ1R2pYTjhQSkVrQVV2bl83YzdWbGNydFdUYWZZeTB6MU1xUmdyZVFXYmRhNDZESi0xXzJmYXRVS2ZFSzYwLWZWeDA?oc=5",
-              "source": "SPOTV NEWS"
+              "title": "유해란 AIG 여자오픈에서도 선두로, 메이저 3연승 하나",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14eXU2Uk5Ock56V3d6cWRJMi1NRzlWM1Y5ZmlsaEdmT1IzNWNHUlZCSlpTQ1NEYV9DSDg1RnRFWWJYVHhFeXlwalJaQW9mNWhQQzBaYUln?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "손흥민이 미국 올스타전 캡틴으로 선임된 배경이 알려지며 화제다. 어색한 선수단 분위기를 먼저 농담으로 풀어냈다는 리더십이 현지 보도를 통해 전해졌다. 손흥민은 또 '토트넘이 나를 필요로 하지 않을까'라는 소신 발언으로 프리미어리그 복귀 의지도 내비쳤다. 박지성이 국내 팬들의 반발에도 꾸준히 손흥민을 지지해온 사실도 재조명되고 있다.",
-          "headline": "손흥민, 미국 올스타 캡틴 선임 배경 화제"
+          "description": "유해란이 LPGA 메이저 대회인 AIG 여자오픈 3라운드에서 공동 2위에 올라 우승 경쟁을 이어가고 있다. 선두는 노예림으로, 한국 선수 간 우승 다툼이 펼쳐지고 있다. 유해란은 이 대회에서 2라운드까지 선두를 달렸으며, 메이저 대회 3연승이라는 역대급 기록에 도전 중이다.",
+          "headline": "유해란, AIG 여자오픈 3R 공동 2위…메이저 3연승 도전"
         },
         {
           "rank": 4,
           "word": "이닝",
-          "count": 2,
+          "count": 3,
           "articles": [
             {
-              "title": "LG, 카라스코 7이닝 퍼펙트 데뷔전에도 무승부(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nWmxuSEVEbENDa1FlV2NIdGhIalh2UFpJWFhxbWI5aGhoWVFtclZodTFmUTJMZkZsVlpsaXNBNUpxdlo4RnZEZkFqQVh4dFdaZFJ0QnBMM1FINVnSAWBBVV95cUxPT1lZMTQ0WXd5RklBNjdPREZVZS1sOFhLcGotSVdxUUVKaXAyeTR0VVVXeXB0MzFmT2xVUm9FUzNNVHBoRDF1ejV0YjZFUVVDb2o3UVJqUXZxcE9iTVBSVS0?oc=5",
-              "source": "yna.co.kr"
+              "title": "72년 만의 첫 공 던진 김라경… 4이닝 4탈삼진, 첫 승은 놓쳤다",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMDh5Q2J0bDR6MUZsSDBYTS05bEFFeW01aXhZWk5VNVJLLTN4Ym1ySHFqYk1IRXBUVmpjX0tqTjdTSVN0N24xZE5wazl0b215al9Kc05nZjY5UzhCVEpqcGRQM1FNWW9QaGVEa041eGJwMUlTNG44MENTOER2WGNiZ0J4SUEwZGVuU3RF?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "빅리그 112승 투수 LG 카라스코, 7이닝 퍼펙트 압도적 데뷔전",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oQnlRVTcwYURTZUJ5dFZWVkVnQlFjay03UVpFTHJQMEczT1htaGdTNm54TEhheVpEU18xeEVFbXZyWTFtSnAwb2ZWYzBxTDA?oc=5",
-              "source": "v.daum.net"
+              "title": "김라경, 72년 만에 열린 미국 여자프로야구 개막전 4이닝 4실점",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TVW5lNUpxMXRWTFpabkRmeDE2U2xjVUhLTXp4ZmRaRHRvVXB3elFWSTJlTFFLN0RpOEo5OGNOU0wtX3RybGdSbWZONXpaanppLXhBQjlwbW5qN2xPUkc0UtIBYEFVX3lxTE5TVW5lNUpxMXRWTFpabkRmeDE2U2xjVUhLTXp4ZmRaRHRvVXB3elFWSTJlTFFLN0RpOEo5OGNOU0wtX3RybGdSbWZONXpaanppLXhBQjlwbW5qN2xPUkc0Ug?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "'7이닝 74구 퍼펙트' LG 카라스코, 왜 교체 아쉬움 없다 했나 \"2주 쉬었다. 투구 수 제한하고 시작해 만족한다\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqT0pzYnc4WDZPeVJlaTFINndfUHI0RlVKQ29EQm5wQ2hfRWJ2SEdlT1JXWXoybGhzbHpFNFZpeUtsSUJMTW5GMkExYVl2QVUtbVVQZE5mLVZpUTBEWHUtb1BLSVJpX3VsYTBCTVBaZ9IBb0FVX3lxTFBqT0pzYnc4WDZPeVJlaTFINndfUHI0RlVKQ29EQm5wQ2hfRWJ2SEdlT1JXWXoybGhzbHpFNFZpeUtsSUJMTW5GMkExYVl2QVUtbVVQZE5mLVZpUTBEWHUtb1BLSVJpX3VsYTBCTVBaZw?oc=5",
-              "source": "머니투데이"
+              "title": "72년 만에 열린 마운드… 김라경 ‘4이닝 4탈삼진’ 강렬한 신고식",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iWlhzbFNQaUJwRDNuWTBpU01qdDBmbUZ4czRQaXhuaDctdmJXQ3VJZHcyWER4YXdLbS1kZUJHSi1rVzR5Qm14UkpTM25nVW9LX2hSSHVvLXFlTmNUZjZLOEhyV0dZVWZyUmMxYUU1b9IBc0FVX3lxTE9hS2swZ2Z6dENYaXFCNVVGMTRVV2JFc3ptUmF4NzY2SWtsNkEtMmxnQkFRN19Oc1hDNkgwcE1oclVuVEpBbTFFUmd2YlVIbml3cUxXczN6U0tJZEgtUklGQ2hrT2l1Qm5sbDk1N011LV9QUU0?oc=5",
+              "source": "여성신문"
             }
           ],
-          "description": "LG 트윈스 새 외국인 투수 카라스코가 데뷔전에서 7이닝 퍼펙트 투구를 펼치며 강렬한 인상을 남겼다. 빅리그 112승 경력의 베테랑답게 74구만에 7이닝을 무실점으로 막았지만, 팀은 결국 무승부에 그쳤다. 2주간의 공백을 감안해 투구 수를 제한한 것이어서 아쉬움보다 만족감이 크다는 평가다. 오늘 처음 화제에 오른 키워드다.",
-          "headline": "카라스코, 7이닝 퍼펙트 데뷔전 압도"
+          "description": "김라경이 72년 만에 부활한 미국 여자프로야구리그(AAGPBL) 개막전 마운드에 올라 4이닝 4탈삼진을 기록하며 강렬한 신고식을 치렀다. 4이닝 4실점으로 첫 승은 따내지 못했지만, 역사적인 개막전의 주인공이 됐다. 72년 만에 다시 열린 무대에서 한국 선수가 선발 등판했다는 점에서 국내에서도 큰 관심을 받고 있다. 오늘 처음 화제에 오른 키워드다.",
+          "headline": "김라경, 72년 만의 미국 여자프로야구서 4이닝 등판"
         },
         {
           "rank": 5,
-          "word": "안타",
+          "word": "손흥민",
           "count": 2,
           "articles": [
             {
-              "title": "이정후, 샌디에이고 원정경기서 3타수 무안타…4경기 연속 안타 행진 마감",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kOTBpcnBnOEI0NWxzR2p6N2EtV3o0SDdRZnZleEw3RU1jc1Q1M0pOc29pUlhTcjRuRzh6OEU5aGl2WnpSUDNzYkhOcWdndkZSY0NnU2NwUG5IZ2xyeE0wRVJrT2ZtdGQ3QS1kS1dUVllFdUJJRGdhODJJNNIBf0FVX3lxTE05cUpDNm5yZXNRM1d6VzhiTG5mQ3VJQTZBUURvc3dPTWszanBLNVJxVUlOV2Q1LUlqSnVibnV3czQzSFAwVEpYMVFYaWxQSVhGcm51Zkh2eXpKUE1LQ1VSdkRFR2xuMC1pU0k5eHM2VkNtS2NpTFNMaTZQcmpXbTQ?oc=5",
-              "source": "데일리스포츠한국"
+              "title": "손흥민 MLS 4경기 연속골 폭발… 뮐러에 실점해 무승부",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTmdLMlJ3SjNkUENmcXFfMjFlaWxCOTBSbmR6T2hRLUFXaFp5LUJoeTZhLTEyaDlzTWdET2hnRVlvWllqNlpZRjVkN2ZnTWtFYllSck9yNW1uUTFkUDFLSVlCWTVGZUZhNmdjLTUtNWx5Q3NNdEtFeHVFSTFhOFM5M2ZJc2dlZzJyUEE0?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "연속 안타 4경기째 늘렸다 이정후, SD전 1안타 추가 멀티 출루…송성문은 결장",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGdW1Fc3RKRmVqbDh4aEtPLVN1UDU1bFQ1T0xkS3BYako2NFU4RUp3dFdMUEZWLXYxWWFpOWNiTXlRcTVLcmgwMDcyM0tGQ3c?oc=5",
-              "source": "v.daum.net"
+              "title": "‘환상 터닝슛’ 손흥민, 4경기 연속골 폭발...독일 레전드 뮐러와 장군멍군",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NWmlNbUFlWEN5T1lVUlJiQ05vZk1fTFlRRm4xYUFCbnlpUHI4WmVzUzFnVkZDYUZSblJuY3lDT3BxVFB2REY1QkNNVDdORF82bl9rSS1R?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "이정후, 2루타로 MLB 통산 300안타 달성…송성문 맞대결은 무산",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lTmtLM0pXaGZWM1ZSUF9HT3JPX214dUd4eV9ZeFJSUDJrbkwzS3ZjWWtpQmxKQ1VRaEsyTE5pVVFvckpTRFcwWmhuMFhCRFE?oc=5",
-              "source": "v.daum.net"
+              "title": "손흥민, 밴쿠버전 선제골…환상적인 슈팅으로 4경기 연속 득점",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SYlJWSWZFdUc3RG1HN2Y0eUJVeENETjBDWEtSOHdBbkFWSUczV0VqdW1DZW55TU8wNmhicVZoUXYtRDdPWnV1Z1B3bUY1NmlyY3MtWUJ6WjUwSXVMdTVqcw?oc=5",
+              "source": "뉴스1"
             }
           ],
-          "description": "이정후가 샌디에이고전에서 2루타를 포함한 안타를 추가하며 MLB 통산 300안타를 달성했다. 다만 직전 경기까지 이어오던 4경기 연속 안타 행진은 오늘 3타수 무안타로 마감됐다는 엇갈린 보도도 나왔다. 함께 주목받던 송성문은 맞대결이 무산되며 결장한 것으로 전해진다.",
-          "headline": "이정후, MLB 통산 300안타 달성"
+          "description": "손흥민이 MLS 밴쿠버전에서 환상적인 터닝슛으로 선제골을 터뜨리며 4경기 연속 득점 행진을 이어갔다. 그러나 독일 레전드 토마스 뮐러가 PK로 동점골을 넣으며 LAFC는 1-1 무승부에 그쳤다. 월드컵 기간 침묵을 깬 손흥민이 폭발적인 득점 흐름을 유지하고 있어 MLS에서도 존재감을 키우고 있다.",
+          "headline": "손흥민 MLS 4경기 연속골…뮐러와 장군멍군"
         }
       ]
     }
