@@ -1,10 +1,10 @@
 {
   "date": "2026-08-06",
-  "updated_at": "2026-08-06 07:12",
+  "updated_at": "2026-08-06 19:59",
   "briefing": null,
   "categories": {
     "오늘의 이슈": {
-      "summary": "폭염 · 서울 · 호르무즈 · 이란 · 육사",
+      "summary": "폭염 · 반도체 · 개발 · 피해자 · 수사",
       "keywords": [
         {
           "rank": 1,
@@ -12,452 +12,452 @@
           "count": 3,
           "articles": [
             {
-              "title": "타이베이·방콕보다 지독한 ‘서울 폭염’",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHpaVlNVTU9yQ3p0SnlybWQwbGdEZUlhdm5vc3hPWVNtcS1FTEFIV0NRdkdqZmxBWjBxZHlHaEdnZ01sc0kwSGtRMkpqc1JYcmlVZU43N3ZkZ0RzRU9IUEtENzRxZzhJOUkzaXRWanp1eGE4WE5Pb2c4Y1V5eTYyd1NQX2JGSVRPQmtDUE4zSkstNUlGVTk4?oc=5",
-              "source": "조선일보"
+              "title": "폭염·가뭄에 유럽 곳곳 활활…네덜란드서 산불 확산",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NNWNVbE1TR1pNR1hSYXdOVkxDUW5RNElqRjBRZm1nTmZNcDFkMjZmdDF5VTdZUER0UVRqV1ByUzJGNUxuVE9wai00eUhvNlg1T0xRb2tzTnFZeWN6MXprVzZFZXkxV3c?oc=5",
+              "source": "연합뉴스TV"
             },
             {
-              "title": "아홉, 타이베이도 접수⋯亞 6개 도시 달궜다",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NMGdyb2NOSHVpS19URl9yUmtzTWZ4c3JjM3dNOVFKTnlFMlNTZjFuSXpuanBKZUZjWmcySWxPckY1a00yb0NDbEM5OXdsd0xwcmtOYw?oc=5",
-              "source": "JTBC"
+              "title": "미국 서부는 47도 열돔 폭염…유럽은 가뭄에 원전도 스톱",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93SEl5WF94U09CV1lnc2k3N3BFbGMzWElfekVLaE1HT3FGZms3OXFmTmx5MHJvaWZ4NWNoOEZJdXAxSk90dVBWazhuUWM1V3pfVHZJ?oc=5",
+              "source": "네이트"
             },
             {
-              "title": "폭염도 잊게 한 열정…타이베이 청소년 공연단, 경주서 감동 무대",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFByUkw3RFVqeFh2QnpfVmJaa2c2NGRXQnJXMGZrU1gtVWpPS2dUa1NtZTFFTnNHNklweGJHZ3hqT3owRDVmX3c?oc=5",
-              "source": "드림저널"
+              "title": "유럽 폭염·가뭄에 전력 제한…냉각수 부족에 원전도 차질",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHN2tnS0ZfeWVjTnJlSEE2djlxRnI1SHZUY1ROX1FaNlcxeFMxS2RZSVVVY29IQk1hdkFEbW5QamFrSGR6ZnkxOXJnWTF5QXNzZGlHX3BjUzdGZVVQZVp6c9IBYEFVX3lxTFBHN2tnS0ZfeWVjTnJlSEE2djlxRnI1SHZUY1ROX1FaNlcxeFMxS2RZSVVVY29IQk1hdkFEbW5QamFrSGR6ZnkxOXJnWTF5QXNzZGlHX3BjUzdGZVVQZVp6cw?oc=5",
+              "source": "연합뉴스"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "서울",
-          "count": 2,
+          "word": "반도체",
+          "count": 3,
           "articles": [
             {
-              "title": "서울시 '시민참여예산 사업 선정' 온라인 투표 27일까지",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5WDRlMkpGYW5GZUtyU2l1Y0l2T3hpTjFGcXI0Yi1SVWxxZVBGZ1N3Y2dIVGpvVHd5YlpQMFJySVhaUGFQTWNpZE12YWZTcEIwZUZSdTNQdWZTZVHSAWBBVV95cUxPNndydGNyam1YTk5fckFSUTVWbDFaWlB4QTJLMllYSTBnZ3ZmSFlfa3FYZU1naHdyQ01xbFRVZkJtZWZqSWhFQTRFbS1Pdy1mUTlrVEZ3b1ViZzJhX2ZLYkQ?oc=5",
-              "source": "연합뉴스"
+              "title": "\"반도체 이후 대비\"…자동차·바이오 등 주력 산업에 AI 입힌다 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10bnZkeFNvTVBvNk00Z0Z4R3ViU1VaSmlfc2FRdGdIT2JwaHpqdTZXRnVDMS1xVElkcDhvRE4xQzFLazFfVDhhX3k2d0tGS3FCdVRrVmJKc0ZhMDA2RUhHRjhYUUlOZVZGeWxJ0gFwQVVfeXFMTk94WmQwX1dTa0RtOVNTU0g3endCanVQSkoyUUZyOXpwSmNhYWF3ZnJYbng2YVB1Rm1iLTNQb1JfQWUweVQ5U0h6RjEya0RRN3FoRGFnQ3pOSnZSdXJvSFlZdEt4SXdCTkFGWHhCcGhlWg?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "서울시, 내달 20일 ‘제14회 서울 걷자 페스티벌’ 개최",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45ei11dFFVbkI4ZzllRFpSeV8tVHVONERibktZSkFtR2NYalY4V21jclpOZjgzb3N4bEdrOGhxalNBaFktX3o0eFhvTjV3R1Bf?oc=5",
-              "source": "문화일보"
+              "title": "국산 AI반도체, 현장 투입된다…600억 들여 22개 실증 착수(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RTGY3emJOXzlKcGpnMVpuZ1o1UjVWTTcyOGJVeWg1bU1YUE51cU9FRkhfSnItaWtVRUR2djdVWUZ5T0FwU3Y4TVdTRVI0bTBpNGJJMnV1R0VYUURrM2c?oc=5",
+              "source": "뉴스1"
             },
             {
-              "title": "서울 전역 사상 첫 폭염중대경보…체감온도 40도 육박",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5heGROdDlyOUQ3cFNyYTd6dGxsYm8tWVVWZE9LdmZKRWYtMDByR0VWcHo1dHJ1YVQ2RHppdklkMGFIUHFUMUE2RTlXZlkySTE1NHY3QTlGWTNiZ9IBX0FVX3lxTE5fT2txX1BJZ2ktejRmT25IS2E1NU4zUU9VVlJ3MC1PVGxhMDlaYWxac210am9iQnFXRWRnd25FT3cyaDJlR0ZlOWNzNEc3eWtvNzB4SDNGaWlYNl9ZdVVN?oc=5",
-              "source": "경향신문"
+              "title": "반도체 넘어 전 산업 AI 전환…정부, 경제구조 혁신 시동",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RRUY2eUkxb2hMNl9GZjZ6MmRhMDI5Z2hnVzNzM0prYlJpWXp1NGF0eVVSeDk2QkE3bGI1dDlvNnJQVV8zTWYtOGVrWkVFSmc?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "호르무즈",
-          "count": 2,
+          "word": "개발",
+          "count": 3,
           "articles": [
             {
-              "title": "이란 \"오만과 호르무즈 항로 좌표 합의... 공동 성명 임박\"",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTBGa0xBaTNLbEN4RU9HbGllaXdJNjFNMG5Jc2RkTzFmVjlZZndjV0IzSVZseFoyWWRoMmprWFBSSUxoRXpsdFNVcDZOdVEtZGVFem5wQjZnQkNsNm84b2ZsS2lmelEybUNOb0NYbjdPV1NUR0tvb05QbXBpZDFJYzZaVktZdUNIQzZxWE1UNEs3OW1XZC1hQ2tySkZTZw?oc=5",
-              "source": "조선일보"
+              "title": "뇌전증 치료제 개발 위한 '최적' 동물모델 찾았다",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rZVJKZEpGV3BWNFc2R3ZtVlQ3T2hKZldiUGJtT0d6bi01Q3V5ZmpxSDhBQ2pPUW15empYTG9MQ3U5akZiNWpkcV92RS13UjdocmNMRldxaUg1eUNJVnplRNIBYEFVX3lxTE9rZVJKZEpGV3BWNFc2R3ZtVlQ3T2hKZldiUGJtT0d6bi01Q3V5ZmpxSDhBQ2pPUW15empYTG9MQ3U5akZiNWpkcV92RS13UjdocmNMRldxaUg1eUNJVnplRA?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "트럼프 “호르무즈 곧 열린다”…美·이란 합의, 진짜 임박했나 [이슈+]",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84RVJvV0Y0aFVFQXFRM2U1ZjJXQ2lPQjlkMUE4NnF1ZVBQSDV0RTBnVkhHRHVORmJsZ1hiZEduT2tSSzhva2JVNXhhenh2NGh4LTlySl90dm52bkRpeUlORnNuZw?oc=5",
-              "source": "에너지경제신문"
+              "title": "세브란스병원, 난치성 뇌전증 치료제 성공 가능성 확대...시아랩 체계 개발",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sS3hUSXFsUloza1FWRDZfZlhQZy1oNUtFbjhEcWlGa3kxSGlFZmk1SXlCUlZoM1pTV2RJdmJLS0d6cVh1VlZwS2VxLWdyQU50U3RoTEx4Tk5iV28yUmVtdldnTzdXV1E?oc=5",
+              "source": "팍스경제TV"
             },
             {
-              "title": "호르무즈 해협 새 항로 윤곽…'이란 영해 통과'가 새 기준 되나",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmVEJSMno3YU5tYkdQcl9OWmZ1dU93azlHa0hCVGpROWJuNEV3YzcyU0kwdUlNa0pIdjF0Mzh4VlFqRElxb3gwczNiRmNZbm9OY1JhQ0VJb0dVNlJjSGxKZlZqTGh2QjVTV3Bv?oc=5",
-              "source": "해사신문"
+              "title": "강남세브란스병원, 대장암 예후 예측 모델 개발",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43TTdVUUpBYXRtU09uMGpIaDNIZkN4MkQ0dDc1akQ3NUlvY3hwZE9TSmc0d2VhTWRDQlE3S25EX2tSaW5wS1hoaVFFaXMwZXhwWUE?oc=5",
+              "source": "MEDI:GATE NEWS"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "이란",
+          "word": "피해자",
           "count": 2,
           "articles": [
             {
-              "title": "이란 \"오만과 호르무즈 항로 좌표 합의…공동성명 조율중\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHQy1FSnI1Nkpod3pqMTNoMF82djZyNlhNa0I3S2FCN25laFJfa1dLRDJrLU1LNFBiOWs1U29WazFZZkZmOVhnWWk4MzlOU2RvWjJNUmJ0ODlaWXPSAWBBVV95cUxNcTc4YWV0UHhhaTNHc3prd0tDUjNVVEEtRDUxclpVdVROVUkxY2JDN2NoOUhIZVZzSmJFRnpCZXpoRVZybFhraE44aFlXcVJES0ZRUExFc3ZDc0ZtbHZLd2E?oc=5",
-              "source": "연합뉴스"
+              "title": "“꼭 천국에 가세요”…진종오 사과 받아준 ‘돌려차기’ 피해자",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GV2dFS19oaVY5T201NFNFR0lYT2pldWxKdTFEdkdPYm44RFdPTnB0M1ZqdE1pSkxYYVpKMnRtZ1BpWm9ZVWkzY0lSeW5rSFBfd3YxSkt4Rkp2VFMxem1tQjN5UTNOQ0FCVS1HONIBbEFVX3lxTE1GV2dFS19oaVY5T201NFNFR0lYT2pldWxKdTFEdkdPYm44RFdPTnB0M1ZqdE1pSkxYYVpKMnRtZ1BpWm9ZVWkzY0lSeW5rSFBfd3YxSkt4Rkp2VFMxem1tQjN5UTNOQ0FCVS1HOA?oc=5",
+              "source": "국민일보"
             },
             {
-              "title": "이란, 호르무즈 '통행료' 카드 꺼냈다…\"해협 유지비 요구할 듯\"",
-              "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV25wUk4zVXFaZjBMZzFMckhkaDR6QkZKcjRHdDM4Wk5wdUFMb2IwT1ZpTW5GMGJJd2FUaFZuR2NTWXBHb20tRXIzSDlvLUI0MGlZaGVnLXlkR0FiOHdMSlh2em9rdHJyTDJIb2prbGVSU2VDLWwwSXpBaFZ2eWNtVmkzdFFRQ2JqZzZlazBuZHpoVkFkdnUwTFExakdReVBPOWpLT3ZFdzAwOURpSm1lV1lIaWExdktPOG1lZ25LTEVxRWNDaTFQSmp2UVZuMEF1NFVXa3pUa2pmaXItM3JRSFJETzVTSEJQV0g4cWVoYVhBVTN0VFhPbHBwdEhzeE0xOXdDMmttSUlTa2h5NmQ2QXNhZ0VsWE9LT2F6aEwxWUF5LVE?oc=5",
-              "source": "데일리안"
+              "title": "서범수·진종오, 부산 돌려차기 피해자에 실언 논란...사과에도 후폭풍",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40c0FzY3BlLTQ1MjBhQTdzLUEtS1RLMkR4M0FaYmhjYnkydTVHNGxmTi13dHZMNTRwN0o1VlNvZ0tvSTJuNXptNFI3UDZKYlkwRTE3TnRRcGFuQdIBWEFVX3lxTE5LMjFaZXhJbmhkTThWdFlqcDNMUjlxYmthWFF5ajQ3VDNINlJiaXB6VlNoUVJDRXh5OEF5eUdTUG1ZcDdpS2VUaUtSZ0FETGRfX0x1Vnp6d2g?oc=5",
+              "source": "ajunews.com"
             },
             {
-              "title": "이란 “호르무즈 새 항로 합의 발표…전면 개방 의미 아냐”",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HWWZsOE9wbFh0OTFsZ2FkVWJRWm9JakhKdlNweGdLVkEyMXljeHBCbWpUWU1HOFhwajFQTl9uajBGbUdKektjdWc2TzM5T1VXczYzWDBuLXh3RWc?oc=5",
-              "source": "KBS 뉴스"
+              "title": "‘돌려차기’ 피해자, 진종오 사과 받아…“피해자들 지켜주세요”",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NOWFGUmNFTGtPQW9WVmFlYUNUWnVlU0V1aEJyT2UtekdxMXlIS3ZCVTVmdVdBM0lSdEVXWl9pVEVfdmVneGpZN0FVYzd5ejQ?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "육사",
+          "word": "수사",
           "count": 2,
           "articles": [
             {
-              "title": "이 대통령 “육사 출신이 또 쿠데타 할 수도…사관학교 통합 빨리하라”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qU3FLQmtKWkV5ek5tdTVNdUZoTWoxT3dWOTktUFFfdU1XOWdPc00yYkwwZVRsSU55bzJiWUpmczFrdWZyMWw3d0VXZGdCd2s?oc=5",
-              "source": "v.daum.net"
+              "title": "현직 경찰관 '음주 뺑소니' 수사정보 피의자 지인에 유출 의혹(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xNkw3SWw5VTd1S1cyNk5xNmVIXy1acXJZMTl2OUNrY2NUN3NiZGFzdHAzR2d5TkFEVzJlLWlqQzg3Wl9wb0YyZmNkUmIyVzhnV2FnWk9LcXoweU3SAWBBVV95cUxQek83SFpzbFZiTDkxSjkzX2lIUDFsSExVdzFxcUJOSXlsZWpkMjFmaWRpRkJMckg0dmFKT2prVERsZTVrXzZvdnpYdG4zQURxekhWcTBKejNiYTZlTmk5bDA?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "육사 출신 소령 진급률, 2년새 74%→62% 급격히 떨어져",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLYUFsdHhBMFFYWHYtRDgzeDlVX3RDNDBQNUxuVjlfdU12b0RjMTRkUVBaMkJuUFJDdDYwRFRscmJoLVdKYk5RQTlEeHFUY2FXQktFSEgxVFY5UzltZ3N5WmhjV2gtVHNFNFJBSG8tRXpXclluc08w0gFmQVVfeXFMTjRpeGlxMVJRZTRsMTVBdVg0QWNwVjBLV053THJFTzF5Ym0waC1rZ2dfNi0xNWNjSjNJM2s4Y3d0TXVwM2kyYzdCWEZoUnU5LTN6OXVudlY4RmkwcEF6MXNHR3FuTzl3?oc=5",
-              "source": "동아일보"
+              "title": "현직 경찰 음주사고 후 도주…경찰, 수사 부서까지 압수수색",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FOU1xbVIxTmlUSGNvd1hzY0tyX19JOGRJbUh3SGVYN2pKVFV6dnRkWEwxR0V0S0xtY2lhZlVKYnY2Sjk3RkdsUnpScXpZVm5KT3ZRcUNqaUZRWE0?oc=5",
+              "source": "KBS 뉴스"
             },
             {
-              "title": "이 대통령 “쿠데타 3번 육사, 책임 안 져…또 할 수도” 통합사관학교 속도전",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zckZRN0tMQUUzalowRTE0MGp0U2hYeVN5RXo2S0NFWG9oYjhNZ01tWnRhM05ZeWxGaExINy05UUIxV0k1bzFGcW91RGdiSmNMSTdMYjdoOFlxME9ad0lZRlVuVnZTMFJkb1ZF?oc=5",
-              "source": "한겨레"
+              "title": "현직 경찰 음주사고 후 도주한 사건, ‘수사 정보’ 유출 정황 발견···인접 경찰서가 ‘강제수사’ 나서",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aa3dWUHdpSFowRzZmNjRwYmpaSHNVWWF3RGRvVlJYSTFnWUsyQjBlbUtfbGhYZHByQmh0b0dKNm52YzhEOUFCSUJVdGpBNlFjZjd6eUlVNlVHZ9IBX0FVX3lxTE41VkljbU95N0RRQkVObklBSGpUeVdHb2hqWmxJSF9tR2xDMGw0RUItb2kwM29zNllKV3plckFIOEFtNkFtVC1TQUpMd3J3RXpBSjR0V0hMWWlveXFWa2Qw?oc=5",
+              "source": "경향신문"
             }
           ]
         }
       ]
     },
     "경제": {
-      "summary": "레버리지 · 증시 · 실적 · 머스크 · 확정",
+      "summary": "반도체 · 삼성전자 · 하이닉스 · 코스피 · 레버리지",
       "keywords": [
         {
           "rank": 1,
-          "word": "레버리지",
+          "word": "반도체",
           "count": 5,
           "articles": [
             {
-              "title": "“문턱 높였더니 미국 ETF만 불났다”…레버리지 규제가 부른 풍선효과?",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WWi1SelpjQVBGazE4QjVSd2lrdXU5OWJFZi0tNFkyY3l1MC12LTgtRXJiaDE0VkZWc29lY09IdXp6LUxUd2ktOU05OEJqalhHbHc?oc=5",
-              "source": "매일경제 마켓"
+              "title": "\"반도체 이후 대비\"…자동차·바이오 등 주력 산업에 AI 입힌다 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10bnZkeFNvTVBvNk00Z0Z4R3ViU1VaSmlfc2FRdGdIT2JwaHpqdTZXRnVDMS1xVElkcDhvRE4xQzFLazFfVDhhX3k2d0tGS3FCdVRrVmJKc0ZhMDA2RUhHRjhYUUlOZVZGeWxJ0gFwQVVfeXFMTk94WmQwX1dTa0RtOVNTU0g3endCanVQSkoyUUZyOXpwSmNhYWF3ZnJYbng2YVB1Rm1iLTNQb1JfQWUweVQ5U0h6RjEya0RRN3FoRGFnQ3pOSnZSdXJvSFlZdEt4SXdCTkFGWHhCcGhlWg?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "조국 \"청년들 레버리지 덫에 빠뜨려…김용범·이억원 책임져야\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1cjBaRjd6QUszZUJnWmgzc3JyUlMzMWViUWlYU1Vxb3poWkszRWdaMWx1dkZPZnM2cF9oYU15YU42cVRyWmJaamlwVlVkSFoycTFDT25SWW1McDg?oc=5",
-              "source": "경기일보"
+              "title": "국산 AI반도체, 현장 투입된다…600억 들여 22개 실증 착수(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RTGY3emJOXzlKcGpnMVpuZ1o1UjVWTTcyOGJVeWg1bU1YUE51cU9FRkhfSnItaWtVRUR2djdVWUZ5T0FwU3Y4TVdTRVI0bTBpNGJJMnV1R0VYUURrM2c?oc=5",
+              "source": "뉴스1"
             },
             {
-              "title": "단일 레버리지 도입 이유 묻자…‘언론 보도’ 내민 황당 금융위",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15aXBjSjFXdEttWl9pSG91Nm1YZnlpRUs1Rjh5cU5OZF9EaDVjS3ZaS3B2T0Z0anZkZU9TRVc4U1hfTGlXMzZ4OXFUZV92T0o3YmdheV93?oc=5",
-              "source": "중앙일보"
+              "title": "반도체 넘어 전 산업 AI 전환…정부, 경제구조 혁신 시동",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RRUY2eUkxb2hMNl9GZjZ6MmRhMDI5Z2hnVzNzM0prYlJpWXp1NGF0eVVSeDk2QkE3bGI1dDlvNnJQVV8zTWYtOGVrWkVFSmc?oc=5",
+              "source": "v.daum.net"
             }
           ]
         },
         {
           "rank": 2,
-          "word": "증시",
+          "word": "삼성전자",
           "count": 3,
           "articles": [
             {
-              "title": "전고점 돌파한 S&P·반등 시작한 코스피…글로벌 증시, 서머랠리 시동거나",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhdG8yUm9Ebm5VMmFhVjJueTZvQS03N18wVk16Q19OZnpCQWFDLWlWcHhnSkhaTk9QWjhTZG9ZTXMwRVctOVVKelNVMzdWZlYwUHRpbkNZV0JRUQ?oc=5",
-              "source": "한국경제"
+              "title": "\"삼성전자·SK하이닉스, 재무건전성 유지 속 주주환원 확대 검토\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VTUF1WVZGMEJzX2RwVE91eXl4OGhjcU8tb1dqeHJheVZ2UG9qLU0xM01iU2owMWZRbDdKNW1RZWJzRXcxZ1ZUM1ZDOGZVMTlLRlRYcjBEV2hsczl1al9HM2lpTm5wSDhJNHBOLVJBSzMtVGZv0gF0QVVfeXFMUF9BNUJmWG1kWVhybGxzSGNmenFjUEJfUnlDLThFZFdweGZKWEotNHV3cThsR3NwNndPVWw1SG94ZnFoM0Z3dzlFX3ROc0ZoTktjaVYtX21CWkk5RVFIZFoxclBTSk5fejJHNmFENmNxb2NyZUM?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "“韓 증시 변동성 커 ‘투자 부적격’” 블룸버그 칼럼에…금융위 정면 반박 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlQ5YjZEMTBxVjF3Vjg0YmhnM09DdXQ5WHdWczB3WTRJOFJ3VVdIM01TXzlMd3Nmc3ZQTWZyTlhlWFpndlZaQ1FHWU1ZSVBfOU5FYW9uUzNMTmxqOWdzeElZaHdBdmhBR19nX1VvaHZCcVZ1R25ucXh5Yzd1SDY2bEpwdXI4SkdK0gGcAUFVX3lxTE1DX09HM0xjQmNGdGJaVVczWVZlOUs4RDEyRklvdmdJazBJUTIxRDVUWmtfWDZLbjJFZVVzMVFGOTZYZVZ6VExWRVlGVXo0UmlObGZPY1p0Nm5lcE4tZG9MSzhJR1JXajEtOWJHaVFzVnRFVkpUa3VkelgxZlljNWNBdm5sYUZaMWdzTi1uQUR3a1pfSU0yOFcxbzk0Uw?oc=5",
-              "source": "Chosunbiz"
+              "title": "삼성전자, FMS 2026서 차세대 3D 메모리 비전 제시",
+              "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZDExMEwzdU5VbEthMHlVTnEyVXkycnJScUU0eGl4bE5BWnk4ZUE3a09mVFl5SG12Q1RPcnBkZl9ZNUdwVzctdEhJV1d4a0xPNW5xWVhMQW1NZ3E5alRmZEE1amZnRE1EWjV4VkxtNUdFdF90ZEpCMU5jSEMycWt6WTdhbGotWHg0ZFlmdkQ4NVpWNk9nZEljRUZ2Ul94Q29IS2VOanNTdDFnbWVZNmVyajRDOVN1ZUlNOVp5MXgwX1djQXhTYzJSTTZfam9TNnIwaHpLSFhmOEpXTllRUHdFclppLWNTQTVURFNYVWo2aVpmaWVGMEZJaU54VHBFWWp4U3psa1QwNWdteGc?oc=5",
+              "source": "samsung.com"
             },
             {
-              "title": "“李가 뜨거운 증시 원했다가…” 블룸버그·FT가 본 코스피 참사",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPSlFiUnpNZUJmWkpwVDBpRVBWamdBUVA2NDEtb2JoX3BZY1gyVktQTXpxZzNlYVgwU0FpdEtzQmV1TzZ4eXd6UGNhcEp5V2tvQmtuWUI1ZGlkNEtVQkRTOFRaX2pJbmtqMFNLN9IBbEFVX3lxTFBPSlFiUnpNZUJmWkpwVDBpRVBWamdBUVA2NDEtb2JoX3BZY1gyVktQTXpxZzNlYVgwU0FpdEtzQmV1TzZ4eXd6UGNhcEp5V2tvQmtuWUI1ZGlkNEtVQkRTOFRaX2pJbmtqMFNLNw?oc=5",
-              "source": "국민일보"
+              "title": "삼성전자, 갤럭시 Z폴드8 시리즈·갤럭시 워치 9·울트라2 국내 공식 출시 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wN1JLdDlTbHNJX0dEX2dzYlhBVXBKM3ZPQ3lzbW1WUi1PUzVHVXU2bEd0Y05EX2ZvNHZKcXRVVXR5VnhKLUxsN2t5Wm52RUQwTjh1UVJlVTVQY0d1Zk5oZmJPTFhPcXPSAWxBVV95cUxNY3dkQ0o3MHMxVmN4NTZ1cDJ2YnB2NlZkdkV6OTBGQWxDVGtCMzBwQjNmQkxZWENxYmtiQjcwdkI3NUpuY0s1clRleXJzSnM1VUFGaVJNbGQyZ203ZnpXNzNzZFZTSXVIYTZ3ZjY?oc=5",
+              "source": "머니투데이"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "실적",
+          "word": "하이닉스",
           "count": 3,
           "articles": [
             {
-              "title": "AMD ‘깜짝 실적’에도 시간외 9% 급락…머스크 “엔비디아 칩만 쓰겠다” 발언도 영향",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmxBMi0zYmVDbDg0MF8yTk04RDZvSVozcFZCbjZydFVfMlo4N0tJYUgzdVpvTnUtS3didjhHZ1g1T3FnNmNuT2hORDluTkFXQnJUV3hGcHRnM1RZakllUUIzdFdaS0FFTGFwODJwNnFXbm5HbktyV2pGSGpTTFJTX0hwTklDZk9TNC1z?oc=5",
-              "source": "조선일보"
+              "title": "먼저 맺은 LTA, 손해로 돌아올까… SK하이닉스, HBM 선점의 기회비용 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLTBDWTd5SmZFYjVfcG1OUFRwSThUYUZSbWV3dk81UXprVVhFQ1E0YmxBNXlIbE1MYXNEVW5MeFRKWGpoY3QxRDlZMmRRRWhwTkRRYk90VzBRN3NyVjNvSjY5N3JzOU9MTUkzblhGWmMtYW84bjZsMHdJYlktX3YtU2ln0gGWAUFVX3lxTE1kVUVPbUZCUk1sdktsUDg5cFVSaU1pRlRuMDJpNXBQb0p2dVFEUWRkbllLX3dLN1hENE5WUjdyVWYtNkhIVXVvZ3BuTHBzRjBmcndrY3BXT3lzazdRenc5ekpvY2pGYkVZb0wyUkdKay1JVkhWUkkzV1ZiQmlXQ1ZGQ2doSXVsOEpnekMxcHp1bHpzOXpZUQ?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "별세계 실적 팔란티어 주가 10% 폭발⋯미 상업 매출 149% 급증",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15R2FSWGcxRm5FQjY5RUZoSERuaGdjQzdqVnFpODdTUjYtSUdjXzhlU3Rhb25tS1VVZkpEeEp4WGQtbVlxWEtOQ0xWS29GSWlTMGwxSNIBTEFVX3lxTFBDbU5JNWxETjEzSXdTU3B0Q20wTVY5VTRGWU50bUc5bjdOZkZnVVBZcFZZak5QWW5Rd2pYcU5GRzBOM21TWGJUdk1aQnc?oc=5",
-              "source": "mbn.co.kr"
+              "title": "하이닉스 10%대 폭락, 삼전 6.3%↓…외인·기관 모두 팔았다(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PNGN1eHp3TEVMLWRMRnFQczJmZmdYTUdUOEJKNHdhVzktTXpYWURmLVlCdEwtM3pMNENmNWRtYVJQdFlkQm1RR1l6eFFLYjA?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "팔란티어, ‘경이로운’ 2분기 실적에 주가 29% 폭등",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmF2NkNKSmlxWVdhZHRrNmg3TjJfWU9PVWFaaEh5RWc3Ty1fMHFMTjFsTmVyVGJmVzFYd1VTVFFOSnlIRVdWbXNHRnBWcWZoSzhFSktLXzFZTGxIbkg0UUdscDhFcF9tTjVmYnlqY21VblhsajB0NUtaYjJ0amtvZVJnWV85TE56?oc=5",
-              "source": "글로벌이코노믹"
+              "title": "월가 증권사들 \"SK하이닉스 저평가\"…ADR 주가 급등세",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pbjdrcUFCU3M0V3lpN3BKd2NPMFY2UzlPYUFhc0tLWEc0dzdKZ1dBbXR6RXZ4dTZ3VU5LYVlBSjdiTnNuaGVQdkM5SHZKNURmWUoyQTNMR25OaTTSAWBBVV95cUxNMDg5YnNWcUI3dklMRUxJb1JpemNZVXN6QkJJMWVhUEVpeFBvcTRGVzZsU29yQUhhMGt4UVRnTUd1Umw0ckV2RUJfVWpwaWcxcW1PV1A3Yl9iOXEtdGJ4cDY?oc=5",
+              "source": "연합뉴스"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "머스크",
+          "word": "코스피",
           "count": 3,
           "articles": [
             {
-              "title": "머스크 \"1만개 부품 공급망 부족\"…한국은 걱정 없다고?[피지컬 AI 핵심 밸류체인]",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUcnJCdzZmLUMyMkFSeGk5andWa3lQUTk3WXBBam5BYUpNUzllYW50Z21SMGNjOFQyb2ZzSFVrUktoZDBzWUFxZHJDbDkxX1g1Qy1sZTBBUTE0cU1tTFVKTkhiblIyUVl2UlFsNw?oc=5",
-              "source": "한경매거진&북"
-            },
-            {
-              "title": "스페이스X 첫 실적 매출 92% 증가 발표...머스크 \"2030년 매출 1조 달러 전망\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vN2JFd0FhQkF0cFB1bmJJRmotcVRsWHozWWkwRHd5Y28yWVBlcWoxckI0TENGdjdXVzZ3czlDWXR1SDFLVDNVbU1uQTZ2UVdnaW9xeF9Zc0FsVldlV3c?oc=5",
-              "source": "YTN"
-            },
-            {
-              "title": "빅테크 '이구동성' AI 슈퍼사이클 지속…머스크도 \"메모리 부족\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mZWNLNTJfOFgwd0VXOHVKR2RhRG1OY1pGZlk4c0VkMUlvV2ZTS2xYcmFDY05rWFpzV3BPd0xXeEJONkhXRTltVUM2UXJVWVk?oc=5",
+              "title": "골드만삭스 \"코스피 급락은 조정일 뿐…목표치 12,000 유지\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJLXh1LWNaaUkzc2ZyRkpyYS03dEFHWXhiZUVMQzlvWkZDWG50Nm9PanRKd1o5VTNuOG5kX0lfTzZrc2NkM3Q5bmRTdG8wRWM?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "자고나면 주가 떨어지는데... 골드만삭스 \"1만2000 간다\" 왜?",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYnVEWTI4aWJoNkFUMTc3bDBXTjNRa0Q1NUJ1TFRGRnRrMjBnLXJsSF9qcjRibEs0UE5nb0VqSW51RC1IcWZqU1pzN2w5bUthMmQwZTExNDV4cDZSQWU5Z0JhWGVtaXlMd2RJZ19mZWJ4aG13NkVyYUJvZlZIMi1zSA?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "\"코스피 곧 반등, 1만2000 간다\"…골드만삭스가 집어준 업종은? - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOXlIeDZLMUhCemlxRHl3QzBQZUhsRnc3RFlzM0pET1dfWmFXSkw1QWZwV1M4aVQyMkJ5cDM0WHkyNzVnb0RsSS0yY2hJLWlGSUQzVmY4aVdzWXVyZXN4cEhoUUI2TWVI0gFuQVVfeXFMTldqZDNIQVFleDJjNUVNZmhQcjNVcWR1WWF6aUVOSWZibjBJQjQ1WUFrOVIzaEJicmVaV1ZKR3ctTEh6WUJKT3hIZ3k4a0xVVUZieGkxMWFrRGJLaEQybHdGNmlBdDd1WEpHUlN1dUE?oc=5",
+              "source": "머니투데이"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "확정",
+          "word": "레버리지",
           "count": 3,
           "articles": [
             {
-              "title": "내년 최저임금 1만700원 확정···월급 기준 223만6300원",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OMTNDT01iMEIxZVJVX2xqcGRIT210bFhqN0JoVDY5ekFERGVobHdwSFFkTGsxOEVVdERLVWF6Ni1RM3ZBZFUzNEZjdi1MZ0JqNlJqR3ppTEVsd9IBX0FVX3lxTE9tSDhLclkxTlNpb3ZmUjNlVlBlY1lxeUhXdk1fOHlja01kOGV6MVNkMGp1OXpLOFR3OTE2dkJDeG9tcjZEMUtZMHVQV2RBU0hDOUd3V3pLSEl0S042anFr?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "내년 최저임금 1만700원 확정…\"못 살겠다\" 소상공인 소송",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5TjdKSDB6YXdnRGRseHBvMzAzM2VCMjFOZEtFOUxMcmp3cmpKVzA3cTl2ZDBna0ZtWnVCRHZWUE5xV0YzdkhfSV9oVXJzWTg?oc=5",
+              "title": "레버리지 규제 4거래일 만에…단일종목 ETF 거래대금 '13분의 1' 급감",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1LXRyX3Y4RlR2UFBkMXh3WUo1V0hKMl9ScncweTljTUlUM3p4QWNUUEhQU0JUS1U2YmU0STVUOUNpSGpVS3NBSUJkYm1IWGM?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "내년도 최저임금 1만700원 확정…노사 이의제기 '기각'",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GZm13RGNwR0VidjV4X20xeXhWZEkxdExzZGNiSkNSZDZUZlFxMG5MMEZDa1NkT0t1bnJHdElfWkpLMVJabllkSko5V3RuMmVValRNeUFTT1BrQmd2VV9UONIBeEFVX3lxTFBudnJZWVFYLVcycnJIcGdzOUJiTHJndHlCdGR0aHo5N0FKbG5VQjRkX1Bsb3FTR2F6ckR3NkZyWF9WT0ZZQXlvRzNENnp1SWtobHRoZVBIZFJheTZpZUplSHI0MFhIVjZGT00tQnFuMUs5dlZYcUJnSA?oc=5",
-              "source": "뉴시스"
+              "title": "조국 \"단일종목 레버리지 ETF, 관치금융 실패‥김용범 등 책임 물어야\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBM2VPQW5TV1l4N041bFM1ZjZDa3g3eFAycTNzTXZLYmhONXA4TDg2Nm41c0Jtb0xoby1mQ1QwbVpiNTNsbU81WjhaUG9lSG1TY3BlSWlBZy1HN2dzQkJqVFJUd0hXNTYzcnZReDEySDAzcXhxb2N3YtIBeEFVX3lxTE5PWmVIaGx5NzhKQ3I1VUFEaUl5eU1CUDVJdlpqUERFS3l5NDhfSzRCWWNoZGpZbmVwTnlWazBQU09mRVd4NFRoa2ZQU2tuZEwzUXc3aW1vbWl3TmxEaHE2YUp6MVJ5dENqdmpDS0Y2b0VyaWw1UjNRaQ?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "레버리지 사태 확산…조국도 “김용범 사퇴”",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FZDNKM0g0MmFZY1c1UVVKM3M0Y0xlMVdpem9rQVd5V1QtT2IyRk50YkZwaTBlYUtJOVdiSnhUbjdDNF82dFZGSU1DVUlxa1ZNalHSAVNBVV95cUxPLWRQQnJtUEVtd3BGTWlsd2pCX3FjMmIwSDRYNlE1S3p5TVdwXy1SN3JxWWUzaFhnT0FMNFluMk5fbWpOTWJsS3ZXODZDeVRPWEl2UQ?oc=5",
+              "source": "서울경제"
             }
           ]
         }
       ]
     },
     "연예": {
-      "summary": "엄정화 · 김혜수 · 호프 · 리센느 · 조수미",
+      "summary": "호프 · 하지원 · 이효리 · 정해인 · 스파이더맨",
       "keywords": [
         {
           "rank": 1,
-          "word": "엄정화",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'57세' 엄정화, 신체나이는 '30대'…비법은 모닝 커피 미루기 [셀럽웰빙] - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85S21iTkVFMjU4Nk1VcWhoN0QwM3JEY0dNZ0FQZHAwY1UtZ2lXUmlRSEhJWmpxLXVSTmpUcmhRQlFJSDlRNUEwR2ZLSDNOcFN2QmZybnpFc18wcklHX0cwNlNldEUzTkpmZkHSAW9BVV95cUxNOEtVZ0tEVllHVTFOQWI4U2JLekp5T3NzVDdiTUp0cks4dEd6OHVPTmZ3cGlPNG9BVllBY2tLWm5JdUhsMUxBYmlsNVo2aDZwVGVMb0pUSXlSZkxtRlN6ZXFvNmFVcDFYX2dXTUl0T0k?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "수백억 벌어 떠난 여행, 엄정화·김종국·장윤정이 마주한 진짜 성공",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wR0R5aWIyNTFYUGVLVFA2RTVySXNqdkFlb3hUeW00QVZwd3NaU1l3RkVUVlU1SExiMDIzUjU5R09QQUJzSzc5RUtvandBakVmeFY2R3VfTk7SAVRBVV95cUxQVm1LTHkycjg1ZFIxTjQwQms5TEV0aENwMWk4SUZncGZ2QmFDTk1FdDBEQ09odGJvS0tEa2V5ZmtCZHJTRGdDNGxJSXdaWG0yaGdxOHE?oc=5",
-              "source": "세계일보"
-            },
-            {
-              "title": "엄정화 \"'오케이 마담2', 눈물 날 만큼 소중한 작품…절박하게 해냈다\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SWklfZEthM0dJbHhnNTZKdUJGX3FaVElMZVgzS256eGlEZ0tYdlZnT25Ha3VSWFJHc3pOajc2b0hVU2YwbWdkeEN1OEN6TldpMVh5LUhGckFfcDdMT2c?oc=5",
-              "source": "YTN"
-            }
-          ]
-        },
-        {
-          "rank": 2,
-          "word": "김혜수",
-          "count": 2,
-          "articles": [
-            {
-              "title": "‘지금 불륜’ 김혜수, 11세 연하 김지훈과 손 꼭잡고 다정한 ‘부부 케미’",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JMEhkbDJZWE51YkJWUF93RWR3SjE0RC00MklGODVqVXRnSzlBaDlKWEdDZGtNQVNtdmUxMFcxck1OYWZCZUF1MU96dWQ0NVRBOEFReVY4bHhQVF9RaUZib0NEdTBtTFo3RGdxNm9YMlFqTUxxc1prcklFUXUyQdIBZkFVX3lxTE11ZVBtUlNGckRFTDFWYWJtbmYwSHdQUmdHb1hhLWJudFNLc1R1eDJCb1luOG5lWDd2MTR0QTJNN1ZjaV9kMTNCN0JhY0g1VVhRT3RQeWRGbV9FdmxaYnlnb0szZmRtQQ?oc=5",
-              "source": "동아일보"
-            },
-            {
-              "title": "‘56세’ 김혜수, MZ보다 더 MZ네… 초미니 스커트룩에 ‘깜짝’ [IS하이컷]",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nRmVrclZ1QWNSLVNNcm1zcUV3M3NhaTNEWERjZU9PZkxFTmNEbEpINGlGTU1vUkFDeWpLOEFrcEdXM3NyMUZjak9Ra1E0c0pERHlBQmtoUWtTM2M?oc=5",
-              "source": "일간스포츠"
-            },
-            {
-              "title": "“불륜이 문제가 아니라고?” 돌아온 김혜수…일본 홀린 정일우",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83Xy03dUR3dWFiWFRvbXJFczJQY2lpUm1tbGJwV3NwNGxscS1FeEVIcjZTcDRiVmJtM0N1VV94akdMUHNtSTNBYno5SDZaRzg?oc=5",
-              "source": "v.daum.net"
-            }
-          ]
-        },
-        {
-          "rank": 3,
           "word": "호프",
-          "count": 2,
+          "count": 3,
           "articles": [
+            {
+              "title": "‘사랑의 하츄핑2’, 개봉 첫날 ‘호프’ 제치고 전체 박스오피스 3위…전작 오프닝 넘었다",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zeVNxMmRBc0ZTclIyRGtyNUxOallrVF9PZkx6a2xEVWpzZm9mU2xKbWJnenBhVzl6MDJkQjNFQWxMeDBiUjFJSmlTX1owR0xwbUZPQ0dzOXU1X2VZRmZybkdOS19PYzVfcXRXVVlR?oc=5",
+              "source": "sports.donga.com"
+            },
             {
               "title": "'호프' 음문석, '유퀴즈' 출격…목수 양배 비하인드 밝힌다",
               "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Zci1vd0pYM0xzbU1HRFU0cTlhdFIxbEpQTVc1eG4yTDh0NlZsTDVrdm8tWEJwanZpUGJxTDFDai1yOEhDejRjWEhTN1pWZlk?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "나홍진 '호프', 해외 개봉 본격화…북미·유럽 등 상영 확정",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OdmpyWmFUN2N6Sl9VQzVrcVRFb0pDSnB3X2R3bm1CUV9sTWZMNklzUzlXTGE2dHh0SlBaRmNDX0RnODJuczViMldUbDlyeS02RV96c1ZianZNN1pG?oc=5",
-              "source": "뉴스핌"
+              "title": "호포리라는 포툠킨 퍼사드, 박해천 디자인 연구자의",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuR3BJbjVtanl2ZHZ3am1rOXIxRkZmZExQR091VlRzN3dmdWxzNWphS0JiYS1zRWFfbXFpd01ibXFaMk5xZnBGcndnQ2dGVDVBT2hpNWtn?oc=5",
+              "source": "씨네21"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "word": "하지원",
+          "count": 2,
+          "articles": [
+            {
+              "title": "하지원 '시선 사로잡는 미모'",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yX1EzcG1ubmU4NDNKRU9sYkxoYkZTZTRjSk4xMEVMUWZwOVd4d29ONUZ1Y182UWN1MWY4QV80dWtrdzUweExwMEc0b3p6Y0JYRjl0b1B3SDPSAVRBVV95cUxObUpCSktRZVg4SHBDQWtlSi1MYm5vdXNqVjBsNUtpckhHNWJYem9kLTNXMkU2R1huX0hTdFN6MFM2dUI2cldaU21HbndQY1dTeVBEWmc?oc=5",
+              "source": "세계일보"
             },
             {
-              "title": "“선배님, 제 점수는요”…황정민 모교 후배들의 ‘호프’ 팩폭 [29면]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YMnNQWU1oa3FFc1RLWW1kR2V0UHNFb0VHZTZXaXBvenpTMC1zTWY3SzJRNlRQWENEVklCZWI4SEUtMGl2SE1sU0R3Y1Q4TDg?oc=5",
-              "source": "v.daum.net"
+              "title": "'26학번' 하지원, 치어리더 하지원과 만남…\"'홈런' 공연하고 싶다\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BZnN6OEl4RlpBclRtTlNIS2ZJVFB0RWZXbENoWFFtcVloQXBvX2VfV2dDd3JqdGFQUVhwaHJlS0kxekxKeHlBYm5FaW9OWE5QREVmanhjR1dsOGgydlRMMw?oc=5",
+              "source": "뉴스1"
+            },
+            {
+              "title": "류승룡·하지원 영화 ‘비광’, 5년 만에 극장 개봉",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tTE82WWg4Yjg2Skl5S1VCT1VaNXpuaUc4Q0phOURJbUYzUFJGcDdxRjYxSXFsZW9EQmg2YV9kU2Z3UUFDc1IzQ1V5UXZhMEphU0t4TUx1WGRoVVc3SFBtZnRNdTZLUQ?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "word": "이효리",
+          "count": 2,
+          "articles": [
+            {
+              "title": "이효리, 정치 토론에 난감 반응…보수 vs 진보 사연에 \"빠지면 안 될까요?\"",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hUUVCSTdTbGZUSXQxaTdCdUVBQmRjTUZ3elUxRDJUdGJJOTZoUExIX0FpQXdSNEt1VnlnMG9KQ001TUhQUEtjZmhCTEZkb1NJWWdpaA?oc=5",
+              "source": "xportsnews.com"
+            },
+            {
+              "title": "'학폭' 누명 벗은 심은우, 요가원 가오픈…이효리 요가원서도 포착",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwNmsyZ1J0cnRnMWhFMHV3OC1SOGhPVGluTTRVYXhpU2FhbWxmY2dzWG50ZjNoQmRyUGphTVBvTHhCRjh4THAzX0J5OE1GcW9yQnZabzdvMEkzdw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "이효리, 빈티지 안경 쓰니까 다른 사람 같네…색다른 모습",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83X1hzVFJOT2FNU0NIMFpGLVIxZzNqMVpQQl9hOUo1RmhEUE81QktucnM5elVndEhqMEtEODZTLWdIUi1Vb3NpeVAzdmk4dnZsYUJCRlJ0WE5hY0JfWU1LaNIBeEFVX3lxTE5ycEFtOGhwS3hvanRFekFfSVViVEU4NUM0RmtnaUF6UmxTaU5VcmtkMG1CU1lHc1NaMkZwNTRuYkFieS1vMDc3MmlsWFhZUXpNXzlINE1sZUU4dXBNSUF3eGF5b3N5RzVsdy0tUG5CX3Z3c2JxNHBPaQ?oc=5",
+              "source": "뉴시스"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "리센느",
+          "word": "정해인",
           "count": 2,
           "articles": [
             {
-              "title": "1위 리센느 원이, 2위 코르티스 건호, 3위 아일릿 원희",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfRmJPNzZQRWNuMzd4RVVpb0Jpb0JPVFVpbWR1bGR0NUF5NnY1U0RKQzVRVWpJeTFkZm5NaDJBc2hOLUhubXRJTXFZdHJ3U3piVXBIbzJnSWFhbC0yVmxjNnhvZ3ZNMnJLTTMxZXA1VXcxOUdI?oc=5",
-              "source": "starnewskorea.com"
-            },
-            {
-              "title": "리센느 원이 난데없는 일진설…담임 교사가 해명하니 폭로 글 사라졌다",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLVjlaQjl5Ql94dXFnbnp2RV9QM0hFdHBmYVJPaHU4bHpwNm9jaGNHRUh1MFl5R1Z5bEF0SkVDZGM5WTJIbmc?oc=5",
+              "title": "\"'이런 엿같은 사랑' 제목? 장난인 줄\" 정해인·하영·허성태 반응[현장EN:]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BeVY1Y0RIVndRN3pBb09XRHAwU0w3RTliSzNnZklITGZiWHI5cTJ4Wm9TSS1JTUlYbGp5NmJocmV3VGlrZG51OG9ZOG9pTEU?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "리센느 미나미, 15살 때 만난 전소연 품에서 눈물…\"저를 기억해달라\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ERmdkN1UweS01MzNNTlY3QTc1azdzSFVZUTlPS2dCVjBiOVJXVENTLWV2NEdGRTN3b3QxLTNzbFowM1pUWllnSjA2MGR4TjA?oc=5",
-              "source": "v.daum.net"
+              "title": "정해인 “홍진경 누나가 야관문주 담가줬다”…송은이 질투 폭발",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSYWhQYThPcV9xRVF2REhIZC1aZGQ4dEZ5UVlsaEVMUkZhc01lZHlQZ295cS1GT05lelJhem1KZVVkT09mWWRuZjhsZldwVmJLaHkzT0JVOEoyMWxJVDZlVnUxSFZNblJzVUFEaVdR?oc=5",
+              "source": "sports.donga.com"
+            },
+            {
+              "title": "디스패치 '현장포토'|[현장포토] \"멋짐을 입었어\"…정해인, 반듯한 잘생김",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UNWJlOW95LU5ObTBSUHpwemhsb015bm9HMlp3V3VjQkl3TVlCOTM4TUtwY2dERmFyT1JjbTI4V0lvWURJbWxINFhNNk40T00zYXhLNDNIcS0?oc=5",
+              "source": "news.zum.com"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "조수미",
-          "count": 1,
+          "word": "스파이더맨",
+          "count": 2,
           "articles": [
             {
-              "title": "李대통령 \"조수미, 마리아 칼라스 특별상 축하…국민 모두에게 자부심\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54eXltOXhsYjZYUDRTX2l5S29OeGZXdGIydTVjdHFnNS1NcTJSeUhOX2RWTmt5cHhkQmVERUd3VjZGdlZGT1NzRkpZTHZvLVNTaEZWVDU2X3JGczA?oc=5",
-              "source": "뉴스1"
+              "title": "톰 홀랜드♥젠데이아 부부 '스파이더맨4'·'오디세이'로 극장 장악",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZFdGY1hQYjg2SHUxZXllNE9qV0YwNHM4ZTB2d3o1X0pMcjBQSW92YzZBdEE5SlJmanVnOXlyZTBNc1Fta2xKbkpLb1p2Q0E?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "데뷔 40주년 조수미, 마리아 칼라스 특별상 수상",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tWHFjN2hydjFtM082Q25GMEI2N0VKLVRxSkR6Y2RXbFhXMkN0bElmQ09LN1hJUmtXcFNKNmdsd3luZ1dJdUF5cHBWV2QxcTJlYW9VZjBn?oc=5",
-              "source": "중앙일보"
+              "title": "톰 홀랜드, ‘스파이더맨’ 흥행에 돈방석 앉나…최대 356억 출연료 전망 [IS해외연예]",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LTGV4UkM5WmJPbTNCWjQxbHhYUEFSNnUxaThXQVoxcTJ1YWV3Y0dvVHlZSEZMWXhPQUF5d21HOFR3c0hpYUhabjdoaDVLUnhDelJNU1Z5N2tYSVZkZHcyRm13?oc=5",
+              "source": "일간스포츠"
             },
             {
-              "title": "조수미 님의 수상을 진심으로 축하합니다",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vQUJvc1A2ZUxBaFJpbUlRcHBaQU8tSWZIUzZGME1mUzcyRDBJSTJic2pFUHBKd0xTRTJhaG5kWG1wSVlzZGFWWGtTRmt6UlV6M1owZkRjZElTU0RKOVE?oc=5",
-              "source": "대한민국 청와대"
+              "title": "톰 홀랜드, ‘스파이더맨’ 6편까지 계약 완료",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MblBWNS04OTEwbEhlU214cXZqY3V3bHJHVjBzckJvQzJFSHl3MUVuSWdyYjBZc1B2bndjMGdTVEZ6TEw3S0Z1SFBOdkhIOG9uTW81TlNUQnoxV2NvcnBRbTRLVC1QSkFReHpN?oc=5",
+              "source": "맥스무비"
             }
           ]
         }
       ]
     },
     "스포츠": {
-      "summary": "상대 · 폭염 · 이강인 · 출격 · 홍명보",
+      "summary": "이강인 · 폭염 · 손흥민 · 홍명보 · 마드리드",
       "keywords": [
         {
           "rank": 1,
-          "word": "상대",
-          "count": 4,
+          "word": "이강인",
+          "count": 3,
           "articles": [
             {
-              "title": "‘임시 감독 체제’ 축구대표팀… 9월 A매치 상대는 에콰도르·우루과이",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XQVdJSzNvSzBTOUt5eGhZdzB5YVBBdDZUcml1TEJaaGFaSlZVQ3pXMHByMFprNy1lZDNVRmo3V25IbENhTm5WelR2RkxnUmNYZ0FDVw?oc=5",
-              "source": "v.daum.net"
+              "title": "'AT마드리드 7번' 이강인, 한국서 데뷔전 임박…맨시티전 27인 명단 포함",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oeUczdzZVcmotV2lHVk52aTBvSm9YbnpBeXc4c28xZ0dvRlFkQnlNRGFNZmR0dHcwemZMSVRWOFdET0RuR1ZlUXYwS2o4TWlXekFRSnZKOEwxNEJGQXlUYw?oc=5",
+              "source": "네이트"
             },
             {
-              "title": "‘임시 감독 체제’ 축구대표팀, 9월 A매치 상대 에콰도르·우루과이 확정",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvZUxGOXpDSnhxdW1KMDVWRWRFOVlDdEpydVNZV3RMR3h1WlpONjNuMFNLSmJLX3Q0XzAtcENkdHM3blVKZGhFX0lqbmpQWEh3RHI1Sk1pUUxZQ19raGhSUGN0d2dwUQ?oc=5",
-              "source": "KBS 뉴스"
+              "title": "이강인, 손흥민급 연봉! 대박 터트렸다!…\"ATM서 세전 1000만 유로 꽉 채운다\"→5년간 820억 잭팟 (스페인 언론)",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpbFNnVlAwd3VRdmxJZTJTcENNZFlkbUt0RFZMQWdmWm1YVUdFUk5lNDRKV1dLZ011dnRVVEYtZ0VibWlYMWt4NmQtN3FHZlFCTFdnZg?oc=5",
+              "source": "xportsnews.com"
             },
             {
-              "title": "축구대표팀, 9월 에콰도르·우루과이와 대결… 4연전 상대 확정",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Wem15MzQ3NWRPWEhVaVhmdE50ekI4c2tpVG4xY1JUX05lZGZDMkEzVkljWVhOV28yUXg4M0hRMjlRWEJ0NzR3NC1pZUllRFNj?oc=5",
-              "source": "문화일보"
+              "title": "임영웅, 이강인 등과 폭염 속 축구 회동 'Aupa Atleti'",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GSlZYN01QVmtkdl92NWh1MkpjcDdQZFRRdEU3ZTFXVElraXZfOFNIcjdrZ25WSmhHM2dmMVptQi1HTlZsLU5NSmlBWTRqcmhXT1c4?oc=5",
+              "source": "네이트"
             }
           ]
         },
         {
           "rank": 2,
           "word": "폭염",
-          "count": 2,
+          "count": 3,
           "articles": [
             {
-              "title": "3년 만에 한국 온 맨시티, 폭염 속 팀 K리그에 3대1 완승",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcnY5STh1N2EyUkcza081RWozbXZPUDkzdXVKbVRSVE41R3hkdmpnY2prRHUzLTVqaUdMMWx2aXpCU3RQMFpYdHV1RHV2V04xcjF2S3dhdkliR1hVVUhlN2UwY2tWY3hKWTNQdVBLWWlJT1QxSTlUTmRETWtiaHByclQ2VQ?oc=5",
-              "source": "조선일보"
+              "title": "입추 코앞인데 '40℃ 폭염' 계속...태풍 영향 '촉각'",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfcHBUQ2lBYkRnQW5OQTlFOEtFdFdJNGl1SnJDRFVDVGtsN0JNbV8zOFR2X0VyWGlWRTRIWUlpWEhIdkxhN05PM01mdVcxYzdUQ3hKLUp1Q2NwRnVKWEE?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "폭염 날린 한여름 축구 잔치…맨시티, 팀 K리그에 3-1 대승",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JSU1FcU1vZ1k1dDIzbWVmcVFqamJwcDY5dC1WNzlPVmh1MV9HMTJVbEx5Y1MxS01mWTRSQmZqd0l4TFNwY1NaZHVtd3RCWDJZY09jaWxXRS1yX2RGb1lnWNIBYEFVX3lxTE5JSU1FcU1vZ1k1dDIzbWVmcVFqamJwcDY5dC1WNzlPVmh1MV9HMTJVbEx5Y1MxS01mWTRSQmZqd0l4TFNwY1NaZHVtd3RCWDJZY09jaWxXRS1yX2RGb1lnWA?oc=5",
-              "source": "연합뉴스"
+              "title": "폭염에도 에어컨 없이 28도…이 아파트 ‘블라인드’ 창밖에 달렸네",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DcG8wdTMySXhDZEd2MDlCNnZRUG13ZURxOXN1Q19GNFNyY2ZybnhTejVweTFVQUxPa0pDN3lBd2VNRlVuOUwzaVpuX01kUG5jMElaMFVZZjh3RmZyc1k2bzl5b1RkUjI1UHZUMQ?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "폭염·주전 공백에 아쉬운 흥행…맨시티 떴지만 상암벌은 한산",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jdndTZTdsUHRlSGVRYWd2VzFvcHBuczRTTERLUEh3TS1NM2hsdTQtWXk0NXdQT2lodXFlZ3h2bUVFVWVuaXFZbVVTOUwweVU?oc=5",
-              "source": "v.daum.net"
+              "title": "에어컨 켰을 뿐인데 ‘정전’…폭염 속 ‘노후 변압기’ 비상",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CMWoySzFMbWY4ZVUxc2V3OWI2V2hldXBqOTBTX0hVWm1qekFPRVdybndFQUdHeFdSTlNZS0drOVdiZTVQNXQ3VzdTVFN4TTM1MmNPSA?oc=5",
+              "source": "JTBC"
             }
           ]
         },
         {
           "rank": 3,
-          "word": "이강인",
-          "count": 2,
+          "word": "손흥민",
+          "count": 3,
           "articles": [
             {
-              "title": "‘취재 결과’ 나왔다 “이강인, 한 대 쥐어박고 싶다” 한국 대표팀 ‘새 감독’ 자리, LEE 아들처럼 아낀 은...",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SVTI0VDk5cklubHY0cWRKN2h6UVNwVXgxNjFHYmJjWUJKOUhxNDhSNVFKN2RvR1pQZUFXbVc4WVg3TzVDXy1YTjV3enVfamhmQ2JEckV5cGIzYXEzOVHSAWNBVV95cUxNMmRTak5lRGgxci1feFkwRjlmV19ieC1UXzdXNy1qbjltZ2hmZWlOU1JwSmo4WG0yeGc2UmtRUnM5eE5wYUZKcEhxanNkYUxzcnBZS2ozRmpDYlctdmdHdlo1cE0?oc=5",
-              "source": "스포츠경향"
+              "title": "손흥민, 5경기 연속골 실패…LAFC는 승부차기 끝 과달라하라 격파",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xRTc0LV95Z2I1eUJjX01PMHZqZ0JmVEUtODkzZVhtUkdQSEE1ZExwNkVabXQwLXJMTlhZNmgxM0VQeXgycVNNWVBBellxRVU4c3pVa0ZfLWlZVUlSbzRwN9IBeEFVX3lxTE1GZHk4VVpVa3JRd2hNN2RLVTMyTFEzekNBcWhJd2FlSHptVWlFejNVTVRWUlpoWmJreFVHaTJRdFNJWkVnbkF6RFNJNmMtYnQ3N1JFT3ZhMzBZaE5GYUZDamEwdE9nR1I3Vng2TElYaFBQeDhPN1hPSQ?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "'이강인 보러가자!' 한 여름 최고의 축구 축제 쿠팡플레이 시리즈",
-              "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVkRlUlJNOGtmTVFZVmZ3TnhxR2ZPMGlWS00wUDRibS1WT0lrMWU0cDl3ZFBrMVg3cjJPSENvejNKbFhRQXl2VW1DamVnYVJjbFlXM2tkMUpTV294V1daLXFHS1FGNjBsaEEzOXFSTHl5S29VQ21PUE1Fc2NydzZqMFY1RUsyVFZKY2pPN1pQamdnNHNjVzRKRmFGMkloLU03MmVCMUVrTnVtZ1VxMTN2NzJoSGJZNXFfZURTZUpDQ1lkRGdMYl9fMXJpbTJzaVhTcHI2NnRIenpmaHhXcG1oY2FlMWUyemJHUmVnSXg5Ty1rVXJodmtWNHpKNXRSd1RTMlYxMjFrUnN1dXZl?oc=5",
-              "source": "데일리안"
+              "title": "'손흥민 넘은 사나이' 충격의 몰락…日, 한때 아시아 최고 이적료, 유럽 2부 친정팀에서 재기 도전",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53R0k5SmdBUFlqVzRNTjk1VTktNmdqMTJyUWlGRzQ5eGRyZUlmSjN0elpEOC11NkM3bzhJelVlc1pHOVhwUzJXcDVHOFdhT00?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "아틀레티코 유니폼 입은 이강인, 9일 서울서 맨시티전 출격 전망",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zOVRQQUFsWWJ4X3NXRXpXMXptQXRBdW84bjFqUmFJS2V0YTkwbUFYUHFoZDRwRzhNRWpTRWRIMkRXUGtZUzNOWUhSOVAxQU9jNmZtdzhRLUZEeWZVSE9sLWtiQld2MUZxcGxwVEk0RmRtVml10gFmQVVfeXFMUGN0amYycEFzSWZlcmpVOUcta0pLaDltdl91LXI3RWZNNGlKRVpQZURWZkoyckNmS3NGUGJheElYdkhyQU4wbkRCTlJVdm5yZ1M1X1BhZjdHV3l3eUxQMVdxM2xFM1JR?oc=5",
-              "source": "동아일보"
+              "title": "손흥민은 한우, 김민재는 치킨... '가이드' 된 스타들",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01b3NPMWpmcGFZdlN1d1Bxc0hmSFFfSWhhbDk2WXZ5Ri1KLUMxUFdUaFdlaG5QVkltR0o4VjF6WjlfLVFXM0JBTWs4QXhiQVZsNjF0bUlhTW5YTWJJYnVSeFQ5N0Zfc0lJNG81Tw?oc=5",
+              "source": "스포츠Q"
             }
           ]
         },
         {
           "rank": 4,
-          "word": "출격",
+          "word": "홍명보",
           "count": 2,
           "articles": [
             {
-              "title": "아틀레티코 유니폼 입은 이강인, 9일 서울서 맨시티전 출격 전망",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjdGpmMnBBc0lmZXJqVTlHLWtKS2g5bXZfdS1yN0VmTTRpSkVaUGVEVmZKMnJDZktzRlBiYXhJWHZIckFOMG5EQk5SVXZucmdTNV9QYWY3R1d5d3lMUDFXcTNsRTNSUdIBZkFVX3lxTFBjdGpmMnBBc0lmZXJqVTlHLWtKS2g5bXZfdS1yN0VmTTRpSkVaUGVEVmZKMnJDZktzRlBiYXhJWHZIckFOMG5EQk5SVXZucmdTNV9QYWY3R1d5d3lMUDFXcTNsRTNSUQ?oc=5",
-              "source": "동아일보"
+              "title": "'깜짝 폭로' 이임생 \"정몽규 회장이 홍명보 선임 지시, 나가월드 디렉터 합의 시점은...\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnU1RLOEZrdHUySUFSN25hbGxIUVlyWE1DRHRERVNpVHRwUnEtNGRrVHUxWEpyb3VIWFhFT0J2RmZ1N2hUcmdiUHVDUXNITVk?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "이강인·김민재, 서울·제주서 소속팀 유니폼 입고 출격 준비",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DeTZPNkhaYV80MzFGdkg3Q3d3Z3ptUjBsUVF0TGVyTEVVU19JNE1kancySklZajAtNzNrS2hHa0JfaEVSaDlPWEZWRU9TWDRKVW8zQ01wTFRnNU5OdUlucg?oc=5",
-              "source": "아시아경제"
+              "title": "경찰, ‘홍명보 감독 선임 의혹’ 대한축구협회 압수수색",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6TkRSRW14UmY0UmtRTGtId2xwRWstQ3hYT05EdHVvRGVub0ZDWVBuckpPZWdUZmFwclQ0eFdEb3UtTkRHeWNBQ05YRDl1dw?oc=5",
+              "source": "dt.co.kr"
             },
             {
-              "title": "김민재·이강인, 한국서 나란히 프리시즌 출격…주전 경쟁 스타트",
-              "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOdzQxdm9DSmJsbVJSSy1xNklxMUFkQzlGNGJpMzA4NXFuc3VUcDl2TGtvUjFuS00zam9HV1BNNExUQlFZVm1oOUtMcml6SkdBQW9oQ3ZXYm5ZbWFCaHFFQUJsVE9wNDBMcy1naFRzdFZra3lMWlpFVFV0T2ZYMFpoUmNTeW9WZDNXVVpBWlY3ZUZPWUJWc2Y3T0dNNkJWNnVoN19KYmNfTHMzQkt1SjFoUU9CaGN5b0VpbTRhOU9GamtLN0JGNGw5S1h0ZVE2Z0drMjVuelNfN3NKMjYxRjNfQjlHQmxYRWZ4QTdUZ1NNSmJrRDNPdDRINkpQT29JSTU1MXZqLTlsR21fRGJldU9tLXBjVlZNeGU3QWZOeVpTcl80UQ?oc=5",
-              "source": "데일리안"
+              "title": "“홍명보는 선수들에게 감독 취급도 못 받았구만…” 축구팬들이 충격받은 이유…남아공전 하이드레이션 브레이크 충격 공개",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0OVpqZHpIR0ZBNTZvNUcxaW8yZDEzUmwxdmRJcHd2QkR3djZacFdHWThfemJCNEtnVkFzSlhzWDdUSXN3aHdhQk1ETU5QSXBIcDF6dw?oc=5",
+              "source": "osen.co.kr"
             }
           ]
         },
         {
           "rank": 5,
-          "word": "홍명보",
+          "word": "마드리드",
           "count": 2,
           "articles": [
             {
-              "title": "'빵집 계약' 홍명보, 피의자 신분 첫 조사→감독 선임 의혹 수사 속도 내나",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFByUnE5ck40ckZmUUs2dkpqQ29HU09UN3Vsb2s2amloVGtrZmtpYTFlVEZEWFRRdzg5X3ZReXV4S1JaREloa2c?oc=5",
-              "source": "v.daum.net"
+              "title": "한국서 비공식 데뷔…이강인, AT마드리드서 어떻게 활용될까",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhSXp6czhRR0UtYmFLZndZUWJtM0ZaMkJTZ3dRUFNMQU45VkZUMGU5aXNrNEdkaWozYWNoRkxFQTNuMjB4ZnhvbWFnUkNaN2JjZ0hlZ1RkZEdHcERTeXc2N9IBeEFVX3lxTFBETlZqQ1Q2TTh5ZVBQTGlGSWdPRnFYVldrYVB1RjFvc1pGSTdsUXpBdFUwdlJmM3pWQmxtRFhfS2lObzY5TWdhSWxtVmtWV05oWmZwd3pIMllseEhQUjJiSVlrMHNOSTVCQU00TGhzUmRhTzE2Q0tTcA?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "이천수 ‘태도 논란’ 홍명보·문진희에 “손 다 잘라야” 작심 비판",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2QUtBaEc1SnRSTU1WMUxXZHA3OWZ5Ym0tWndRQlBUcjdkNy0zWTk2dlk2QWI2NmpDQ3pCWUxMeXBHakx1UXN6TjBSTkRnYTJpLXg2XzNR?oc=5",
-              "source": "헤럴드경제"
+              "title": "입국하는 아틀레티코 마드리드 선수들 '이강인의 나라로'",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zbGhLZmFXeTJ3ZlgyUzRqclR0Y25VX3FLbUozaUVZRWlvcTQ5ZW84Vy05UVdlZGp1OWc0R01QemhrR1RVRC1IZnV3YWdFY2ZzMnVINW9DTXNvU3Zw?oc=5",
+              "source": "네이트"
             },
             {
-              "title": "이천수 “손을 다 잘라야 돼, 명보 형도 그렇고…” 청문회 ‘주머니 손’ 직격",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93T24zSGJkTmU1Smx4R1U2dW5rWWZlT2ZRb1dwTGpBTDhkMnM2N1hQZ19KZnU2NW4yTTBJX3JrZlY2RWhRbzF3aUg4QmFFMVp5WXNQbnA0cFR4c1Fvai1TQmpIU2x5V0lJdGZxYXJvaXlqQQ?oc=5",
-              "source": "한겨레"
+              "title": "\"위대한 팀에 합류하게 돼 행복\" 이강인, 마침내 AT 마드리드 'No.7' 유니폼 입었다…\"정말 기대되고 얼른 시작하고 파\"",
+              "link": "https://news.google.com/rss/articles/CBMipwpBVV95cUxNZnZUSU9OdXhxUG1jUVNNdWdpUGJ2VjJ3ZnFmQWprWElsZTZTN1BhY2NOT1JQbU0zRVJ6SURpcWlGRExpRk1DZ2t4M1dFM3dBSlZxajM2ekZhNEx5R1lLcmJCMG5PWmtZSnNIel9NcE9rMl9KZHlVUEUtd0tlbFdSNDFEUjc4NGQ2Vno0ekdpbXB5TzR5S3dEX2tDY2RER1ljOE9tSHNIYWl4Wm9XMC1saG1Ddmx1YkNUaWN4ZUtrT1R6dEN1alItOG9sazMyMHdLcjQ2eVg1S0RDRHp4OFd3ZmlyNkxON1g3NlR6a1l0MExBZWVfRTl0ekVFbzlWN3dwTjRlZ1YzelU3a2l4eVBCYzREVXJLelF4Z1NtclhweWNaLUwtZmRaZE1uWm45SkwxNHB0TmNRMlFsalI5OHR5c3hoNGJlMDBWWl9taVFJRkR2OVJoaTF2enBZQjRoWmdyVy1taXJtNmp2NXVUd1BsSHdvSlltUlNtalhyUE9NdGt4R1FvVkRLZzJzMk5VNDdxOThrdDU2aGV2QWltbWtWd3RrdDNNRWVqaV9ZalM2N0wwNnZrZGhyT0JobHR3cndxNEFRdU9UbXFzUzRSd3BabU1VRGJiamNxVVpsUUtOZVRzZFp2X0Q2bXhGMXE5a3JDUHVneVZTWGFYbnEzWV9GVTkzUURjWWFtWjY4YWtOdHJRVkJrb3gzMzZ3Y1lmVmdQRVJnTWIwWVlUZkFsYmZPeWlGTGRFQXZLRUczMDZOWmVGeXc1YUQ1ajJvSzBJXzdTY3pDaDNLWmdvN2pkZ0RyOGhia3BWblZWWG9mZV9mR1otZDFYWlRhcWZjYnR0djMtcm1QTXcxYm90MkNWOXFWelpnUVBDX0VGenBNVFdES1VfRVRxWndlNE0xbDJENDdYQXNtRXUwMGZTRllPX3N1OFkyZ2Vwc2ZGNGU1bHgwMTJGSXoyZ1BkcV9qd3ZRam52cW1YMWtoWjBtVWIwcmUxbGZPOGR3Z3RQT3JXeWVjRDlVYldtSmpUWjRFTng1cXowb0NrbEEyY2lId3BnOXdzZmllNlplNU5XQUV3bHlEd3Q0ZWFNak5GSWNBLUdMVkJ6MFhNNEh4UmkzV1hybTRUY2dvVDl3LUVyM2g4MWluRTVxQmZCMWd5S1R3cjRGTUhVcnhkbXU1V1ZLX3RSTldGdjZiQnRudTR1YnhxUURBQXBzVmtadE1XWmdTSkFRZ0pPVWkzbHJBU2xIY3V4WWUzV3NIYnpQZUlSUmN1cVFqbTAxRGR4M1lkNzh4MlZ3LXpQUkw3QlJjd1ZES3pncUlpa1pUTmkyLU1rcXFTRnJ3UTNxYWRlM0llQlRXQkRYLTc4eUNkcXE0ZFhndmRuUERqSURmRXMwQzFfUG9xRGFmMGphdy03bnBCOVFMeGxrclRLamJOX2YwYW1wcDRuQjhzTVA5bjA3MEF1Z0pJQkszN2xTOFM2a002dldvVFplYm9tSmRFT3FtWmhoRXhocWZQUExxcy1HaW04WFBMV2tGTHNfV25kZFZUMWFBelZZNlNaeDZzNXBPbU5aMXk3S1ZNTjNNZHJta3lyU3VvNGFwZzVDMHNXTFZkbURMZ0JRRExHT09HdVVrWncxZmVrY1hXQ0pEQ1h3ZXc1VThyMnJhOTlhdGlFNGJKZFRoLVFwMzJCZ0Nha3lURE1KVlNkNW5jRDRSOFJJeS1LMXpISW55YkNyN2JBUGpPUlcxeXVDWTVEVUtUQWdZYw?oc=5",
+              "source": "Goal.com"
             }
           ]
         }
