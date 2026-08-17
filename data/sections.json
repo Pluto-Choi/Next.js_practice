@@ -126,5 +126,37 @@
     ],
     "headline": "김민석-정청래 초박빙, 선호투표로 갈린 승부",
     "generated_at": "2026-08-18 06:31 KST"
+  },
+  "은하": {
+    "sections": [
+      {
+        "heading": "허블 망원경, 우리은하 초기 대충돌 확인",
+        "body": "NASA 허블 우주망원경 연구팀이 우리은하가 형성 초기 약 120억 년 전에 대규모 은하 병합을 겪었다는 결정적 증거를 확인했다. 연구진은 구상성단의 나이를 정밀 분석하는 방식으로 이전까지 알려지지 않았던 충돌 흔적을 추적했으며, 이번 발견으로 우리은하의 역사가 기존보다 약 18억 년 더 이른 시기까지 거슬러 올라갈 수 있게 됐다."
+      },
+      {
+        "heading": "'크라켄 은하' 잔해, 구상성단 속에 남아",
+        "body": "이번 병합의 상대인 '크라켄 은하'는 당시 태양 질량의 약 5억 배에 달하는 별을 품은 왜소은하였던 것으로 추정된다. 연구진은 서로 다른 연령대의 구상성단 사이에서 특이한 중간 집단을 발견하고, 이를 우리은하에 흡수된 위성 은하의 잔해로 해석했다. 이 충돌이 우리은하 초기 구조와 항성 분포에 결정적인 영향을 미쳤다는 분석이다."
+      },
+      {
+        "heading": "초기 우주 구조 형성 이론에 새 단서",
+        "body": "이번 연구는 은하가 초기 우주에서 병합을 통해 어떻게 성장했는지를 이해하는 데 중요한 시사점을 제공한다. 우리은하의 형성 역사가 새롭게 재구성됨에 따라, 초기 우주 은하 진화 모델을 정교화하는 데도 크게 기여할 것으로 전망된다."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ancient clash with 'Kraken' galaxy 12 billion years ago helped form Milky Way",
+        "url": "https://www.abc.net.au/news/science/2026-08-18/ancient-kraken-galactic-collision-helped-form-the-milky-way/107039962"
+      },
+      {
+        "title": "Hubble Solves Merger Mystery From Milky Way's Early Years",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/"
+      },
+      {
+        "title": "Milky Way Merger Achieved: Globular Clusters Reveal 1.5 Billion Year Event",
+        "url": "https://quantumzeitgeist.com/milky-way-merger-achieved-globular/"
+      }
+    ],
+    "headline": "우리은하, 123억년 전 대규모 병합 확인",
+    "generated_at": "2026-08-18 07:07 KST"
   }
 }
