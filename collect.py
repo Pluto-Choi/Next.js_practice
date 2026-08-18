@@ -200,6 +200,8 @@ stopwords_economy = stopwords_common | {
     '변동',
     # 마감: "코스피 X로 마감"·"뉴욕증시 상승 마감" 등 장 종료 시황 기사마다 반복되는 행위명사 — 상승/폭락과 같은 이유
     '마감',
+    # 의견: "구민 의견 수렴"·"전문가 의견 팽팽" 등 정책·행정 기사의 과정 명사 — 세제개편안·부동산 등 실제 주제어가 따로 있음
+    '의견',
 }
 
 stopwords_entertainment = stopwords_common | {
