@@ -1,485 +1,509 @@
 {
   "date": "2026-08-30",
-  "updated_at": "2026-08-30 08:02",
+  "updated_at": "2026-08-30 22:56",
   "briefing": {
-    "text": "트럼프 대통령이 베네수엘라와 석유거래 협정을 맺어 세계 최대 규모 매장량의 과반 통제권을 확보했다고 선언한 가운데, 이란 긴장 국면 속 트럼프 일가의 방산·에너지주 대규모 거래 사실이 드러나 이해충돌 논란까지 겹쳤다.\n\n이란은 미국·이스라엘의 제재·압박에 맞서 외교와 국방 두 축으로 강력 대응하겠다고 공식 천명했고, 미국은 우방인 이집트 대형은행에도 제재망을 확대하며 이란 고립 전선을 빠르게 좁혀가고 있다.\n\n국내 경제 전선에서는 워시 연준 이사가 9월 금리 인상 가능성을 시사한 가운데, 주택담보대출 금리가 8%에 근접하고 신혼부부 버팀목 대출 한도마저 반토막 나면서 서민 차주들의 이중고가 부각됐다. 강남에서는 마세라티 만취 운전 차량이 배달노동자를 치는 사고가 발생해 충격을 줬다.\n\n스포츠에서는 이강인이 세비야전에서 시즌 1호 도움과 평점 8점을 기록하며 맹활약했고, 피겨스케이팅 최하빈은 주니어 그랑프리 2차 대회에서 개인 최고점으로 역전 우승을 차지했다. 김하성은 끝내기 안타로 반전을 연출했지만 곧 다시 벤치로 밀려나며 MLB 생존 여부에 이목이 쏠리고 있다.",
-    "period": "아침",
-    "generated_at": "2026-08-30 08:02"
+    "text": "한국에서 중국인 유학생을 살해한 중국인 강사 사건이 중국 현지에서까지 강한 공분을 사며 '송환 후 사형' 요구가 빗발치는 가운데, 경찰은 해당 강사를 동행해 전국 시신 수색을 이어가고 있다.\n\n제주에서는 실종 사건을 허위로 종결 처리한 경찰관 논란이 확산되며 침입 의혹 화장실에서 DNA가 검출됐고, 내주 검찰 송치를 앞두고 수사가 급물살을 타고 있다.\n\n경제 분야에서는 기준금리 3% 시대를 맞아 고정·변동금리 선택을 두고 대출자 부담이 가중되는 한편, 내년부터 20년 장기전세 만기가 속속 도래하며 분양전환 갈등이 예고되고 있다. 삼성전자는 3분기 30조 원 규모 현금배당을 발표했지만 주가는 25만 원 선에 머물며 시장의 냉담한 반응을 받았다.\n\n연예·스포츠에서는 박위의 학폭 의혹과 KTX 낙상 셀카 논란이 3일 연속 화제를 이어갔고, 걸그룹 리센느가 BTS·임영웅을 제치고 브랜드평판 1위에 오르는 이변을 연출했다. 이강인은 패스 성공률 94%·평점 8.0으로 시즌 1골 1도움을 완성한 반면, 높이뛰기 우상혁은 아시안게임 한 달을 앞두고 독일 대회 최하위로 부진을 거듭하며 컨디션 회복이 최대 관심사로 떠올랐다.",
+    "period": "저녁",
+    "generated_at": "2026-08-30 22:56"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "트럼프, 베네수엘라 석유협정·이란 갈등 속 방산주 거래 논란 · 알츠하이머 치료 핵심 기전 발견 · 중국인 강사 유학생 살해 사건 수사 중",
+      "summary": "중국인 강사의 유학생 살해 사건 수사 중·이강인 시즌 첫 도움 활약·제주 경찰 허위 종결 비위 확산·전남광주 국립의대 순천대 선정",
       "keywords": [
         {
           "rank": 1,
-          "word": "트럼프",
-          "count": 2,
-          "articles": [
-            {
-              "title": "트럼프 “베네수엘라와 석유거래 협정…세계 역사상 최대규모로 매장량 과반 통제권 확보”",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NckZ6WkEyR2lVZmtJandCeVYzazVhYTlVeXJhNE1NaWVhRkNGMFlxV0dncWJXV2VkRVNhTTJqczhOYlIwQnU4ZnNpdFotR091?oc=5",
-              "source": "문화일보"
-            },
-            {
-              "title": "트럼프, 이란전 와중 방산-에너지주 사고팔았다…6월에만 1000회 넘어",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyYmxSM2pmcHFkajVqQTVjV0xORDhQZWk0U2tTbXJ0YkkyVWl6b0x4ZlEwM3Zhb0tBLWpoM0tyQ1RnMVctc1ZZWklYeUM3QWlzWmxheEtjckw0VFJCSXVEQVhUUkloS0dFdEhiQ0RHOE1LMXPSAWZBVV95cUxNOC1hbURiOWdBUzRUbFB1Sno1Q1otM2Qya2JsaTBodl9EYVJyUHlSNjdfeEM2TFNINUFsZXVfSy1Pd0RkOUhpcUZ0Q1BleU55dmR2UDM4TFpsQ3k4YWgzVFMwNmVaM2c?oc=5",
-              "source": "동아일보"
-            },
-            {
-              "title": "워시, 중간선거 앞둔 트럼프와 충돌하나…\"물가 안 잡히면 할 일 있다\"",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTlpcVFwSDJKX2thMFF6ZWdoR3pWTHRqUTAtZGNTRF85d3NYZnBnOU5sbURUYkRmOUp4Y19USnNGMWVPY1FlQ19vLTJvYUFWcFBKTlhNYy16aDdFalBoRlRNdzZwWFZaMDVxeGQ2NWdSZUNMc2lON3JJSFZ3RGdBSk1OUWlONUhf?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "트럼프 대통령이 베네수엘라와 석유거래 협정을 맺어 세계 역사상 최대 규모의 매장량 과반 통제권을 확보했다고 밝혔다. 이란 긴장 국면 속에서도 트럼프 일가가 방산·에너지 주식을 6월에만 1000회 이상 거래한 사실이 드러나 이해충돌 논란도 불거졌다. 한편 연준 이사 워시는 물가가 잡히지 않을 경우 독자 행동을 예고하며 중간선거를 앞둔 트럼프와의 충돌 가능성을 시사했다. 어제 4위에서 오늘 1위로 급상승했다.",
-          "headline": "트럼프, 베네수엘라 석유 협정 체결 선언"
-        },
-        {
-          "rank": 2,
-          "word": "이란",
-          "count": 2,
-          "articles": [
-            {
-              "title": "이란 \"외교·국방 앞세워 美·이스라엘 제재·압박에 강력 대응\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45NzN4eU9iaTNLUERkQVd4eUxHWC1kbEtVS1hiUGFFQWlTNDVpS0xWb1V0Yk8wVmpfcjR2Vkg2VVp1Nmp3RFVfamxBdXRUYnJZN0h5VXNFZS1fR2fSAWBBVV95cUxQSEZhMGRnTWNHYURQOGFmMmRXbFl6VUdYdzhyd1BRSmtSbHNsRXdYSHRyenQ2ZEphMnc1WGtndDM4VXp5ZXVSUEVPdTJzSTd4aFlLdWtLc1lmZlgyS3ZJSFM?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "이란 \"외교·국방 두 축으로 美·이스라엘 제재에 맞설 것\"",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNTcydDRNdi02Sm1IZzFWVElOSzdJbGVZaTU2YTZpVnlMdm9VYWtVZ01xVE8xbUFERS03Yl9Va3JsQl9hT3ktWk9aMWFoU0JKYUMxMWU2aFdFNDZIVzhuMlAtN0QyS0pOaXRGX3pFUnNyZjRJYUh6c1JEMEJ1SUNsTElqY09zSENRT0g4ME9QMVRHR1ByeTVLSGE0SmtHZw?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "우방도 예외없다…美, 이집트 대형은행 '이란 왕따작전' 시범타",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43UnV3TWk0dll4LXE3ZGtGdDRYMFZkRUlkZTZUSHRFMHlxZGhycGkzQkVVdTdGN2F3NmppeWlHOUI0UWhwamc?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "이란이 미국과 이스라엘의 제재·압박에 맞서 외교와 국방 두 축을 앞세워 강력 대응하겠다고 공식 천명했다. 미국은 이란 압박 전선을 확대해 우방인 이집트 대형은행에도 '이란 고립 작전'을 적용하는 등 제재망을 빠르게 좁혀가고 있다. 핵 협상과 군사 긴장이 동시에 고조되는 가운데 이란 사태의 파장이 중동 전역으로 번질지 주목된다.",
-          "headline": "이란, 미·이스라엘 제재에 외교·국방으로 맞대응 선언"
-        },
-        {
-          "rank": 3,
-          "word": "알츠하이머",
-          "count": 2,
-          "articles": [
-            {
-              "title": "기억력 되살아났다…알츠하이머 악순환 끊을 ‘핵심 스위치’ 발견",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OVVVoOEhqU1diOUdfdFBJdzc2cHBja1dtX2s1WEJ5OTR0MDA3S3dWeHQ2N2pLSi1uUUtMaHpXclRTU0lSWE1BVko2aTVwNUxjSjk1Z1JTM0RucEk5aGZIRk5B?oc=5",
-              "source": "미주중앙일보"
-            },
-            {
-              "title": "사우나가 치매 막는다?…치매 DNA 이겨낸 76세 남자 비밀",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJSElGRzhmRDM3NVN6dmc0UTE3c1FVX2cweXBlSEI5Nk1EWlV4T1BBVVJqWXRJVmRkakRzLUVtVWRta0ZUTTZSaXZMTDlEa1U?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "운동하면 근육이 뇌를 지킨다…치매 위험 낮추는 ‘근육-뇌 연결고리’",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZbDZnemlvU0lzUllhM3ZORXFHeS0xdTIzdUE1VXplMGZyemdLMmhsTkM3SzRBN2hVa2doM2NTVWMyckNrRzR2Rm1DUnh6a01FNTdoaw?oc=5",
-              "source": "DongA Science"
-            }
-          ],
-          "description": "알츠하이머의 악순환을 차단할 '핵심 스위치'가 새로 발견돼 기억력 회복 가능성에 관심이 쏠리고 있다. 같은 맥락에서 사우나 이용이 치매 관련 유전자 위험을 억제할 수 있다는 사례와, 근육 운동이 뇌를 보호하는 '근육-뇌 연결고리' 연구 결과도 잇따라 보도됐다. 치매 예방과 치료 양쪽에서 새로운 단서들이 동시에 나오면서 오늘 처음 트렌드 키워드로 등장했다.",
-          "headline": "알츠하이머 악순환 끊을 핵심 스위치 발견"
-        },
-        {
-          "rank": 4,
-          "word": "네팔",
-          "count": 1,
-          "articles": [
-            {
-              "title": "네팔 신속대응팀 \"두차례 헬기 수색, 실종자 관련 성과 없어\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ob3FfRFRwY004cmN0UmFmUWZFbU8xWFJWODlMaklXaHhVejQtRzl6bktGNk5Mb3JDOXJzcWdNWnF4M2xIcHhpZUN1eHlaS3NxbEIwcklNUFZzcnPSAWBBVV95cUxQQnN3azhMQnRQR0tJdnNzekVIcUJyc1pFNF9XVzlSd2FNZGlEeERvS1JpWGJZdTYzR2VCSXh2MlI4aUVnX2RTVm9SaEhtdEJLX0w5SElVampvLVFOY01KYnU?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "英석학 “탄소배출 0.02% 네팔 희생... 기후변화 수십년 경고했는데”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxTm5tb2UyeGRYazZHcmhVckFaMGdrTWs4YjNtS0tGcHhQd2c4ZXZvaUcyTkxZbkZ1aUpDSU56aEI3MUVoeFVMTTJCUEJfcnc?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "네팔 대홍수 사망 실종 3,600여 명…신속대응팀 추가 파견",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BZUhPdjlFbjk2ZHdfdERyMnVJTWtBcUhaSHlEaWUxUDV5ZVZ3LWhjLURCNWZONUhYMUhNdExtYWJrYlFuSTZzVGpTZ21OWnIwNmFuRG9fODNpRlE?oc=5",
-              "source": "KBS 뉴스"
-            }
-          ],
-          "description": "네팔 대홍수로 사망·실종자가 3,600여 명에 달하는 가운데, 신속대응팀이 두 차례 헬기 수색을 벌였으나 실종자와 관련된 성과를 거두지 못했다고 밝혔다. 국제 사회에서는 탄소 배출량이 전 세계의 0.02%에 불과한 네팔이 기후변화의 최대 피해국 중 하나가 됐다는 비판의 목소리도 나오고 있다. 피해 수습과 수색이 장기화될 조짐을 보이면서 오늘 처음 트렌드 키워드로 올라왔다.",
-          "headline": "네팔 대홍수 사망·실종 3,600명, 수색 난항"
-        },
-        {
-          "rank": 5,
           "word": "중국",
-          "count": 1,
+          "count": 3,
           "articles": [
-            {
-              "title": "\"중국으로 송환해 사형하라\"…유학생 살해범에 중국 현지 '부글'",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91WlF2MmZIcUJFamhrSVZGbER0U0xVUmhKRFpnNEV2djdtWnJ4TldPeEY1UWFuWGJkTnM4YzB3cFNjelpHa2c?oc=5",
-              "source": "v.daum.net"
-            },
             {
               "title": "경찰, '中유학생 살해' 중국인 강사 데리고 전국 돌며 시신 수색",
               "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hM3lzNml0ZDRlS1hnV0pXYVVOMTZCZWdUS1VaanhCNmVmWTAxcWNkS0w1OTRpdWhRaVFaTG9qMDJZdjNDYmszSEVzbjByUnQ3UmlUWDlaRjF5M1XSAWBBVV95cUxONVZXOTJtemRrUEJkUW04YWhELXdSOUc1dUhnWk5HZWpoazNEMmdsaGt1c3VJU1kzVXNQMUg4RWFobklTYUJQOW5BWWdzeUIzcDVORlNfcjNWT3E4NXdETlc?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "“한국서 돌아오는 순간 사형”…中서 퍼진 유학생 살해범 신상",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BZlN5dUJmbUlRa2RvaGFzSUxCRmhFbWNSQU9RZklILU04RUtqQjVrTUVCd1JVMmlNbjF4Q2xuTF9rQUZERHJwV1Z5LXlXUWZQaTdXZnZ3?oc=5",
-              "source": "중앙일보"
+              "title": "\"중국으로 송환해 사형하라\"…유학생 살해범에 중국 현지 '부글'",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91WlF2MmZIcUJFamhrSVZGbER0U0xVUmhKRFpnNEV2djdtWnJ4TldPeEY1UWFuWGJkTnM4YzB3cFNjelpHa2c?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "\"한국서 돌아오는 순간 사형\"…유학생 살해범, 중국서 '신상 정보' 퍼졌다",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4aDk1WEJmeGtzbzFFZGNoU3dVeFo0Wk90VEFpNWk4Z2M1c2hMSG1BazdLMXg0RUhLNVlWclMxR3lTNVlZREM2em9CRWg0eEpkdlJhVllqUktqeHhwNi0ydUVR0gFnQVVfeXFMUEVBQmdsVVVFUEVxWC1vanlUV2pGNmpJSVhvY0NZbVktdV9iUHdDcktiTjduTGp3VVNOeWZoVTQwQ21PSnozajB3WklBazNTa3EybkRzdVoxaXBBVkVnYnY1dGR5QVZfRQ?oc=5",
+              "source": "뉴스1"
             }
           ],
-          "description": "한국에서 중국인 강사가 중국 유학생을 살해한 혐의로 경찰에 붙잡혀, 경찰이 피의자를 데리고 전국을 돌며 시신을 수색하고 있다. 중국 현지에서는 피의자 신상이 빠르게 확산되며 한국 송환 즉시 사형에 처해야 한다는 여론이 들끓고 있다. 한국 내 외국인 유학생 안전 문제와 함께 한중 사법 협력에 대한 관심도 높아지면서 오늘 처음 트렌드 키워드로 등장했다.",
-          "headline": "중국인 강사, 유학생 살해 후 시신 은닉…중국서 사형 촉구"
+          "description": "한국에서 중국인 유학생을 살해한 중국인 강사가 중국 현지에서 강한 공분을 사고 있다. 경찰은 해당 강사를 데리고 전국을 돌며 시신을 수색 중이며, 중국 온라인에서는 범인의 신상 정보가 퍼지고 '송환 후 사형'을 요구하는 목소리가 빗발치고 있다. 오늘 처음 주목받은 키워드다.",
+          "headline": "中유학생 살해범, 중국서 신상 공개·사형 요구"
+        },
+        {
+          "rank": 2,
+          "word": "경기",
+          "count": 3,
+          "articles": [
+            {
+              "title": "이강인 ‘패스 성공률 94%’ 시즌 첫 도움…평점 8.0",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95UndsRGwwaUc5aHFPWDRZRTZKcGVEWUw5SUQxS0NRY2p5ZU1JRWJyZ2QxbnBBLXZXZnZqaHdVZy1BSk83RFdIUmotdjRWOFIwU21Ld1hqQ1ZxRXdFcGp5MEthQk8?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "이강인, 시즌 첫 도움… 3경기 무패 견인",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUS05ZGdpMmh0SUVfdHdBWW9WQXhuOTFFOHAtNlJaVXhwT0puWk1WNEJGbE5Rc0d4ajdNWHdZYWo0RV9pajdENzVkRDlDeVRqZkRreWMtNUEzR1BPT3B1d2Q0SHgtZ3dnTmZ1bGRNTVFUX3V4N0FPUzJVWVZnX3FhTVp5S20yT0dC?oc=5",
+              "source": "서울신문"
+            },
+            {
+              "title": "‘시즌 첫 도움’ 이강인, 3경기 만에 1골 1도움…현지 매체 \"‘마법의 사각형’ 빛났다\"",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nNlM0bVd5ZEoybUkyZ0xlSkJ3c1BuTE85NjgwcnVRSVFDTUNZa0pQVU1WWmN2ai0wWHhSVTZUQVdtaUFtWTVBeTlZa3lqN1ZUc1poUQ?oc=5",
+              "source": "JTBC"
+            }
+          ],
+          "description": "이강인이 이번 시즌 첫 도움을 기록하며 3경기 만에 1골 1도움을 완성했다. 패스 성공률 94%에 현지 매체 평점 8.0을 받으며 '마법의 사각형'의 핵심으로 호평받았고, 소속팀의 3경기 무패 행진을 견인했다. 오늘 처음 등장한 키워드다.",
+          "headline": "이강인, 시즌 첫 도움으로 1골 1도움 달성"
+        },
+        {
+          "rank": 3,
+          "word": "종결",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘허위 종결’ 제주 경찰, 침입 의혹 女 화장실서 DNA 검출",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelZUVEk2dWYtQXFOOWxrRy1rTEN4NzY1SXpIWjFmdXk0anRMeUktRTlaY0ZtdUNJcDM2Z0RWZnBBeXZndEZ1S08zOVc0VXNfQ0pFWHluUkZrdkhXMFZwRTJ4aHJDRjZTNEFSZU1CMWxWUnFwX05MU3ViRXRHbmNmbmFNSmxPNjM0cXk1NU11RHQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "'실종자 위치 조회 후 종결'…제주 '허위 종결' 경찰은 왜?",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sajhwSWxpTnAxLWxoTTFzeXJkQzlHNG14QUV3aUVBaWttX1otX1RPbXJLYUt2Z0pJb1RMT3hkOTFhdTA1Q3NhZGZWWVBFSmRJTzFhbXFrNnRWQQ?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "'실종 허위종결' 제주 경찰관 내주 송치…검찰, 집중 수사 계획",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nWGg5aXdtcVAwODdZR0REbnU3YjFPVlRZMmJJcG5BRkx1Rk94VkRTdktBTHhOd0xzbFNYWlF4M0tCZ0xTYlNBWks5Zm9UeFY1ckI1emZBN1liM0hhSUZQX3k5cnRLcGxXLU1iQ1ZFOFg?oc=5",
+              "source": "신아일보"
+            }
+          ],
+          "description": "실종 사건을 허위로 종결 처리한 제주 경찰관 논란이 확산되는 가운데, 침입 의혹이 제기된 여성 화장실에서 DNA가 검출돼 수사가 급물살을 탔다. 해당 경찰관은 실종자 위치를 조회한 후 사건을 종결한 정황이 드러났으며, 내주 검찰에 송치될 예정이다. 검찰은 집중 수사 방침을 밝혔다. 오늘 처음 주목받은 키워드다.",
+          "headline": "제주 경찰 '허위 종결', 화장실서 DNA 검출"
+        },
+        {
+          "rank": 4,
+          "word": "단독",
+          "count": 2,
+          "articles": [
+            {
+              "title": "제주 전체 실종사건 28%를, ‘허위종결’ 부 경장이 단독 종결",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80Z3V6MTdKNUwwNDlXU09sSTlObjhKYWFPZUd0SUJoU3dZWjIzUVVaTHJkMjB3aFM5dnM2UEY2blRPUWZCalJtd2szSjdSN2VOM0stX0l2QWxpSktvRVRv?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "제주 암장만 2건인데…5년간 실종 허위종결 징계 ‘1건’",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BYzJYRmFIaVhjX1RVWndRU3YzUVhZMXZkX2NGTmowSjB0NGpGVmpCMjJyYWFuS1E3bkJXNnJ0VGpmNWk3cXp3UnRHeDNkRGc?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "제주서 50대 여성 흉기에 찔려 숨져…용의자 추적",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zR193Ti1yb3FhMjMwaDZFenJERHJMMWllck1PT0h4RHRiaUNNZTMzd1Bsc1JNMVNaVXBCRjhvVkx4aWdlUkh2ZW5PWDdWYTV0cEtOQXBEMWdRX3c?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "제주 실종 허위 종결 사건의 파장이 커지고 있다. 제주 전체 실종 사건의 28%를 해당 부경장 혼자 단독 종결한 것으로 드러났으며, 5년간 유사 사례가 있었음에도 징계는 단 1건에 그쳤다. 암매장 의심 사건도 2건 확인된 가운데, 제주에서 50대 여성이 흉기에 찔려 숨지는 별도 사건도 발생해 용의자를 추적 중이다. 오늘 처음 등장한 키워드다.",
+          "headline": "제주 실종 허위 종결, 경관 한 명이 28% 처리"
+        },
+        {
+          "rank": 5,
+          "word": "광주",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'36년 전남광주 숙원' 의대 후보대학, 우여곡절 끝 순천대로",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0amhHa3YwaW84QW1iMUYwVWQtQXhWS2MwNWgxNnlxWnVqdlNvX2c2aWJ0UVlKNTNzRC1RaFlFWFBiY041U0ROWW11NktNWGs?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "전남광주시, 국립의대 신설 후보로 순천대 선정",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQU9FenAzTGJjZEhZWlpTa3J0dFdHS0oydlhzbUpYbC11eENmdVhZa0hYWkNqUEpiOGM1QWE1NWZPWHRnalBYM0t4STVnQk90TUdEM3k4S2ZmcjhDalNKSVVTLTBueGdzVF9KeVlfd2NXZDRUSC1zZG9pS1Z2TEZaeXBKYmJpbTJlY3RpcUxfSEc?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "민주당전남광주특별시당 \"순천대 국립의대 후보 선정 환영\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qeXVGeEFGbXpzVktwYndzbldJb2xNQUtFZ2xReFpodjZraHhhczVhYk5PQ2Foa3NmeVh2Z09YT011aGZheVJvNDFZZlk5YUZwb0hkSzhKRTRqVzUyQjJRRQ?oc=5",
+              "source": "아시아경제"
+            }
+          ],
+          "description": "36년간 전남·광주 지역의 숙원이었던 국립의대 신설 후보 대학으로 순천대가 최종 선정됐다. 전남광주시가 우여곡절 끝에 순천대를 후보로 확정한 가운데, 민주당 전남광주특별시당도 환영 입장을 밝혔다. 오늘 처음 주목받은 키워드다.",
+          "headline": "전남광주 국립의대 후보, 순천대로 낙점"
         }
       ]
     },
     "경제": {
-      "summary": "연준 9월 금리 인상론 부상 · 트럼프, 베네수엘라 석유협정·방산주 매매 논란 · 노령연금 자동 지급 등 복지 신청 간소화",
+      "summary": "대출금리 고정·변동 셈법 복잡, 기업 연체율 우려 · 삼성전자 주가 부진 · 연준 추가 긴축 시사",
       "keywords": [
         {
           "rank": 1,
-          "word": "금리",
+          "word": "대출",
           "count": 5,
           "articles": [
             {
-              "title": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zejIxa2sxNzYxd0hzYWdoUGVnTk5jUkstVzk1bVRuSkRfXzY4MHB1aEphR2txVDVkRG8xRDRwYjBhZmxUZVVXQUNQTkdYd1B6VlR1eVFmdFAtNjJpQ3c?oc=5",
-              "source": "YTN"
-            },
-            {
-              "title": "금리 오르고 전셋값 뛰는데…신혼부부 버팀목 대출 '반토막'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tdXJLU2FqZFNYNUlPUWFIaUthZ3c3eWlOSDMtcE91RVNham43a2dGLTFzbENXRmx2eXlZTGlzelB6RXJnSmZJelJlR0RCMTg?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "'주담대 빗장' 아직인데, 이자는 8% 눈앞…실수요자 이중고[기준금리 3% 시대①]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjV21mdWo5U2pJNExCY3hHSjF4TUg4VHlNc1Zhakd6T29wQkZRblVTVHYzY3NSaWdqeHpjNzdlbkdyOGdzYm5sUjVZSUNtOWtpYzhtcjhvMHd3ZWRNVUZDeNIBeEFVX3lxTFBQWU1FMy1odmEwQzZmTEZmMGV3VXVGNDZPaUJ1SmNwdU9TTXRKX1pmbFBLRlg5blIwbTdVRTZqTHNiT1J4ZWRhTElnNjl6cXFSa3pNenpPSkJ4UGxMS2JkTm42SEVIM3RkVTIxMmFsM3JDUUtsMjFzTA?oc=5",
+              "title": "치솟는 대출금리 \"고정이냐, 변동이냐\"…복잡해진 셈법[기준금리 3% 시대②]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXZnJtdlJIOHUtb3ItSDR6MU1YZlE3eUlyREphQ05NcC1DWWVaUFp6eU52ZTJOUUNiLWQ0dTdIaFRpUlU2dXVjMzVUcUlwd24zWE5HTlBkWnNwcDlXS3ZIctIBeEFVX3lxTFAwTXhQNzlLNkcwLXlDZlhhdHVBRVFnMmN0bFRGMjFsMTREcE9VVTJXalRGZUtHOEMzcFBpUkNnejZncmxpeGpEQWUwTWZnM3dtd0ZPSXRzYi02UjR1NDQyTE5kZ0h4Z0YzeXR3dmN0c3hCbS1lR1pFcg?oc=5",
               "source": "뉴시스"
+            },
+            {
+              "title": "기업대출 연체율 증가 '심상찮다'",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CYTAwNGh6TG5QWEUwbDdpRHdaOXhXdHNjdFducDFfUzFuQTdrN1ZMZTFqeHl5Y0VFejctdXkyYzJOYmVKOGEwS1NTeFBQZHRmbDA0?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "③대출 문 넓어지고 금리 오르고…은행권 이자이익 더 불어날듯",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53Q05XRzNpYUFoVEdzV1pGREd4Z0F6WE9DdFVqUG9YT1hzYzlwQ0ZGY25QeDJOS3dpN01YSEFUYnE4V0dQZWo4elJ3WHk0Qmc?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "워시 연준 의장이 금리 인상 가능성을 시사하면서 9월 인상론에 힘이 실리고 있다. 이미 주택담보대출 금리가 8%에 근접한 상황에서 기준금리 추가 인상 가능성까지 커지자, 실수요자들의 이자 부담은 한층 가중되는 분위기다. 여기에 신혼부부 대상 버팀목 대출 한도가 반토막 났다는 소식까지 겹치며 서민 차주들의 이중고가 부각되고 있다.",
-          "headline": "워시, 9월 금리 인상 가능성 시사"
+          "description": "기준금리 3% 시대를 맞아 고정금리와 변동금리 선택을 두고 대출자들의 고민이 깊어지고 있다. 기업대출 연체율도 심상찮은 증가세를 보이며 건전성 우려가 커지는 가운데, 은행권은 대출 문을 넓히면서도 금리를 올려 이자이익이 더욱 불어날 것이란 전망이 나온다. 가계 주담대와 전세대출도 여전히 '대출 지옥'이라는 지적이 이어지며 차주들의 부담이 가중되고 있다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "기준금리 3% 시대, 대출 셈법 복잡해져"
         },
         {
           "rank": 2,
-          "word": "트럼프",
+          "word": "전세",
           "count": 4,
           "articles": [
             {
-              "title": "트럼프 “베네수엘라와 석유거래 협정…세계 역사상 최대규모로 매장량 과반 통제권 확보”",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NckZ6WkEyR2lVZmtJandCeVYzazVhYTlVeXJhNE1NaWVhRkNGMFlxV0dncWJXV2VkRVNhTTJqczhOYlIwQnU4ZnNpdFotR091?oc=5",
-              "source": "문화일보"
+              "title": "내년부터 20년 장기전세 만기 도래… 분양전환 요구에 서울시 ‘난색’ - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPallUV2x4MFBzSktjZkFmWmtZel9GQWw4R2o2TkZxaGpNTEpyVkhndkFsR3R4RzdOMEh0bzZ0MVgwbnZ6ODhSQ194TkdXMlR2aUlaSEhFQUpJalBNZW5aTXM5TzlTN01XUS1vSjRxeHZlWEFCem85cUpJMS1JSTBybGlITHg1M1F2STFpa21CSU1USEEtaEJ5TNIBrAFBVV95cUxNUkhvUE5sLXg3X2xCVVlud0ZhRWxRY2NyT1VKNGxjZ0ROa2otZExUeFhDazluQS1peXphVFRKaU1NRWEtZXRQTDhPcDhNTDFjTUwtWGtOLVJYYnhVc3Y5M0hldkVrUnZhTHZ1MWtTRHFVenBoUkdJSXI4ZFdGQU5hdTBsMzB6TklYeUNWQ0FZb3VsVlI1OGxzc1Q4SWRySWc2Ymh2UGRhcVVTNFI0?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "트럼프, 이란전 와중 방산-에너지주 사고팔았다…6월에만 1000회 넘어",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyYmxSM2pmcHFkajVqQTVjV0xORDhQZWk0U2tTbXJ0YkkyVWl6b0x4ZlEwM3Zhb0tBLWpoM0tyQ1RnMVctc1ZZWklYeUM3QWlzWmxheEtjckw0VFJCSXVEQVhUUkloS0dFdEhiQ0RHOE1LMXPSAWZBVV95cUxNOC1hbURiOWdBUzRUbFB1Sno1Q1otM2Qya2JsaTBodl9EYVJyUHlSNjdfeEM2TFNINUFsZXVfSy1Pd0RkOUhpcUZ0Q1BleU55dmR2UDM4TFpsQ3k4YWgzVFMwNmVaM2c?oc=5",
-              "source": "동아일보"
+              "title": "우리집은 16억인데 앞집은 8.5억?…전세 미스터리 알고 보니 [시장톡]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Bc0FGOGFiR0xYODVCSFYwb2V4QTRYSEZpcU56N1pBcXNQYXVKU3VPYjI3bGhuSm83Z250OEFxaWVOeWJkSm5fdEJhODB1eFlPN25xWXluUVd0Zw?oc=5",
+              "source": "한국경제"
             },
             {
-              "title": "워시, 중간선거 앞둔 트럼프와 충돌하나…\"물가 안 잡히면 할 일 있다\"",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTlpcVFwSDJKX2thMFF6ZWdoR3pWTHRqUTAtZGNTRF85d3NYZnBnOU5sbURUYkRmOUp4Y19USnNGMWVPY1FlQ19vLTJvYUFWcFBKTlhNYy16aDdFalBoRlRNdzZwWFZaMDVxeGQ2NWdSZUNMc2lON3JJSFZ3RGdBSk1OUWlONUhf?oc=5",
-              "source": "조선일보"
+              "title": "누구를 위해 늘렸나…개인 주담대·전세 ‘대출 지옥’ 여전",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVnVnUjFGZFk5M3FXQm1jQmsxVzFlYTE3ZmNycnlfNXRWR1JNS1ZWVHNyel9FeXB0MjQ2MXNJYjJWYkExMjhkdEh1Rk02VHBEeTE2UmUtWVRPZ9IBX0FVX3lxTE5UTDZUVjdxRkVlVTV5X2ppZlRkcFUxaXdCVGJrMFd2b3Q3T0xWXzlPRkx6MlRzWmQ0MEl1VnpBaTI3a3p4Sl9xcjZQMTQ5bURJU3lIWV9NVHBSNktnemFv?oc=5",
+              "source": "경향신문"
             }
           ],
-          "description": "트럼프 대통령이 베네수엘라와 석유거래 협정을 맺어 세계 역사상 최대 규모 매장량의 과반 통제권을 확보했다고 직접 밝혔다. 한편 이란전 진행 중에 방산·에너지주를 사고팔아 6월에만 1000회 넘는 거래를 한 것으로 드러나 논란이 일고 있다. 워시 연준 의장이 물가를 잡기 위해 금리 인상도 불사하겠다는 뜻을 내비치면서, 중간선거를 앞둔 트럼프와 충돌 가능성도 거론되고 있다.",
-          "headline": "트럼프, 베네수엘라 석유 과반 통제권 확보"
+          "description": "내년부터 20년 장기전세 만기가 속속 돌아오면서 입주자들의 분양전환 요구가 거세지고 있지만, 서울시는 난색을 표하며 갈등이 예고되고 있다. 같은 단지 내에서도 전세가가 16억 대 8억5000만 원으로 두 배 가까이 벌어지는 이례적 현상도 화제를 모았다. 주담대와 전세대출 문턱을 낮췄지만 고금리가 맞물리며 '대출 지옥'이 여전하다는 비판도 이어지고 있다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "장기전세 만기 도래, 분양전환 갈등 예고"
         },
         {
           "rank": 3,
-          "word": "강남",
+          "word": "삼성전자",
           "count": 3,
           "articles": [
             {
-              "title": "“강남 아파트 안 부러워요”...중랑·성북 아파트값 ‘들썩’",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xbjlhaUwtTGZQREo4T19vc3BnbkVxLXhHaWlGcFZYVEtDNEMwVHY2N0N2X2JOZmpkLTFMN0laNGJhZ2txTXRWX1JJc2JpU0VfelBFRg?oc=5",
+              "title": "“어제 삼전 374원 실망하셨어요?”...석달뒤엔 ‘이만큼’받는다",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zUlU4OF9GYTNvVzlwYTJQN1BzQTZIQ2llYWZuS3ZZLXh4MUVXTkotNUNsWWNZOXlkWkRUdW5KcUhhdnJ5alU5TUZRazNJZ0Z0eWc?oc=5",
               "source": "매일경제"
             },
             {
-              "title": "‘역대급’ 폭염에도 강남 마을버스 에어컨 끄고 달린 이유?",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoOElRa0pDWGVRYlpDcnplR0JGcDNiU09kTF9XRDQxSFFCY1RURnBhWUVOdUZIakNfLTNNaTZDYWdlRXBfanNwaTRNa2pXM2w5VWh6LTh6T1BJSTQ?oc=5",
-              "source": "KBS 뉴스"
+              "title": "“37만원 간다더니 왜 25만원?”…삼성전자 ‘최대 110조’에도 주저앉은 이유 [숫자 뒤의 진실]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6bUszdERVV0JkWXZaQVV4d3dtc2dGSGxuRTF5bEtvZUgtS0dFZlpBUkZrUWNTeWhTQWFOOXBxUlFGWlFQVjJQd0Y0T3p5OWM?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "강남 한복판 마세라티 광란의 '만취운전'‥배달노동자 참변",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xVHZfVE9YV0ZWVEN4WnAwQ2MzdDN5bWpGMU9xd3hHLUhrb1VFV0lRTEFYQjV1Q0ZDU3loUFBxZ0tQV2gweWxnYXhaRDYwdEdaUmZLRUlMRjZOaThERjlHTFpRbjZZaW51V3RrMDAzeUZPN1hZUXg4edIBeEFVX3lxTFBETGRROXJUQlhMdF9aZXRxbExYQUxudWFRY3ZWUWJfLUI0NzVldVlGU0VCX3lBRjV6SDN0ZUVUZlB0SFhkajNFMmlJdEZ4ZmJ1a3ZORHdLSlJoajdPVjk2MzVKa09iWWdmN2JiY05kZkphOVJKNVc2WA?oc=5",
-              "source": "MBC 뉴스"
+              "title": "삼성전자에 실망한 시장? 3분기 30조원 현금배당 뜯어보니",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzRzdad2FIYllsSDExS3RMYnJmREpLOUN6RllrR1J1YUt3QVhxYno0TkdFTjJtS2E4Q242dmVZeEk2OVpJd1NtYjJCRQ?oc=5",
+              "source": "아이뉴스24"
             }
           ],
-          "description": "강남 한복판에서 마세라티 만취 운전 차량이 광란의 질주를 벌여 배달노동자가 참변을 당하는 사고가 발생했다. 한편 부동산 시장에서는 강남 아파트 상승세에 자극받은 중랑·성북 등 외곽 지역 아파트값도 들썩이는 모습이다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "강남 만취운전 사고, 배달노동자 참변"
+          "description": "삼성전자가 3분기 30조 원 규모의 현금배당을 발표했지만 시장의 반응은 싸늘했다. '37만 원 목표가'를 내걸었던 일부 전망과 달리 주가는 25만 원 선에 머물며, 최대 110조 원 규모의 주주환원 계획도 주가 부양에 힘을 쓰지 못했다. 배당금 374원에 실망한 투자자들을 향해 석 달 뒤 추가 수령액을 분석한 기사도 이목을 끌었다.",
+          "headline": "삼성전자, 배당 발표에도 주가 주저앉아"
         },
         {
           "rank": 4,
-          "word": "로봇",
+          "word": "물가",
           "count": 3,
           "articles": [
             {
-              "title": "'시급 4만원' 로봇에 집안일 맡겼더니…\"결과 만족\"·\"너무 느려\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81eUtlekZ0YjVqS1BZYlpQRTdNNDVHZm9kMndYS0pzenE0NzBpY1VFellKRFNuSTc4bUE2cWtRNUVpVEM0TmtoNmo0QzNSY28?oc=5",
+              "title": "美 연준 의장 잭슨홀미팅 기조연설…\"물가 상승률 우려\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53c3dwYkFhSU92X2kxakJsb0lPcVhSdUY5eWEwdWF2eE9pNVBoWWxIanF2Z0huYzFlN2V1UmJRdVRJeklCQVVocFhYaEFfaVNqNk9GOGJtbzcxc0loTG43Uk1ZVWMyX1ZT0gFuQVVfeXFMTmlHd2RZUXB3Y2NfUzI0TnplaHVCOFlock0ycGhnVnRtSDY5OEJPdXlERGN4UFhTWDZYWmRmQ3p5djhQLVRYNmFBcHBTMjZWaEU2eFUtR05oSFlTUXhremtEZjJiRXlBNk1EN0dQZXc?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "워시 연준의장 \"美 물가지표 더욱 우려\"…추가 긴축 시사(종합2보)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00cWpTYXBJQUdJekFHdWxYRTdLRVdIQzFLX1ZMdy16S1prVlExWnE2eWstNEl1aEtZdWM3Q0NWSWhWQjdHcUZXY2gxVEVuNGRXbVhWRVRFVEJhelHSAWBBVV95cUxQOW9mYXhaX2FsUEFBRFFjMFYza0Z1NlQ2UG5YSHZmQjc5d3RaaDRLUkdMUEpvcE1aNWRSYThqYzFzTVExWF9DV05rTGtvNnZkZm9IWGtWeGsxVWNwRk5EX0g?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "워시, 중간선거 앞둔 트럼프와 충돌하나…“물가 안 잡히면 할 일 있다”",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oZTVBU21QUlBmRjBubFJKVFBTMnRiQW1sWXdka3BuVi1md0hWWjdma3BCYnhqMm9QZHBxQ3h2TjRFVGY4dTJ1Vk1DbGhyZG8?oc=5",
               "source": "v.daum.net"
-            },
-            {
-              "title": "대규모 보조금으로 몸집 키운 중국 로봇, 데이터 한계 직면",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmZSajBFMGV1WmVGeWZmTTRlTThhdmtDVjRzZTc5SXBHQlc4ak5XV3J5c3FYNzlGN0lOUjd5bGhlM1VZaklLSnVSVWFOMnVRVkJVSmNRTHBZNFIwWXIyYWc1Y0hDbEc5NmRSTDVXSDhBM05KeUo1RExkOVJMUGN1SzBnRWNOek1B?oc=5",
-              "source": "글로벌이코노믹"
-            },
-            {
-              "title": "볼트 이긴 휴머노이드…중국 로봇굴기 질주",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtYXRYS2hIcUtIeUo3OUZNS1BUMk15Wm9UY09RUHd3NjRRc0JjNXAxdTBJclBkMUNQQjJLYmUxV3F6cWNfZUpLcDNQODZKeDNibjJVQXF0cFVMTnM?oc=5",
-              "source": "KBS 뉴스"
             }
           ],
-          "description": "시급 4만원에 달하는 가사 로봇에 집안일을 맡겨본 사용자들 사이에서 '결과는 만족스럽지만 너무 느리다'는 엇갈린 평가가 나오고 있다. 중국에서는 대규모 보조금을 앞세워 키운 휴머노이드 로봇이 육상 영웅 볼트를 제치는 기록을 세우며 '로봇굴기'를 과시했지만, 데이터 한계라는 새로운 벽에 직면했다는 분석도 제기됐다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "가사 로봇 시급 4만원…현실 성능 논란"
+          "description": "잭슨홀 미팅 기조연설에 나선 워시 미국 연방준비제도 의장이 물가 상승률에 대한 우려를 강하게 표명하며 추가 긴축 가능성을 시사했다. 워시 의장은 \"물가가 잡히지 않으면 할 일이 있다\"고 발언해 중간선거를 앞둔 트럼프 행정부와 충돌 가능성도 제기됐다. 고물가·고금리 장기화 우려가 다시 수면 위로 떠오르며 글로벌 금융시장의 긴장감이 높아지고 있다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "연준 의장 \"물가 안 잡히면 추가 긴축\""
         },
         {
           "rank": 5,
-          "word": "신청",
+          "word": "우주",
           "count": 3,
           "articles": [
             {
-              "title": "노령연금 신청 안 해도 자동 지급…세금 공제도 알아서 해준다",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54eWNFNm1RWlB4YWVjNVFQX2hwYmgzMkIzcUw0RVJXei1TcmR3dWcxeWl0MVB4djdFY1d4eHRldlI5OWNhQlN4Q3ZMbXdVakYxTHk0ZG1wZDFmRjQ?oc=5",
-              "source": "KBS 뉴스"
+              "title": "남태평양 섬, 거대한 돋보기로 깜짝 변신…왜? [우주서 본 지구]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LRTRBSUhKYVNJdEVMQm5QSEVMbXFseWFSeTNZaDY4MmtNaXlPMHBiT0hMV1lTdEYxZTU5YlRITTQtOXNlaDJIazRNR2lfcXRid1pyN1lB?oc=5",
+              "source": "지디넷코리아"
             },
             {
-              "title": "2026년 상반기분 근로장려금 신청하세요! - 영상 | 멀티미디어",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wMmRCZ2p4Vng0TmlsdWdpSXRONGRfdjhvcHpoaXI4ZUVFZEd6NkNjWVliTVQ2bjZPU0xZbFdSUURMRE1MNlFubC14VmlyeW1BZHoyR0FjS0lPb1FIQUZTY3ZyOFYxcE9UZmVmdg?oc=5",
-              "source": "대한민국 정책브리핑"
+              "title": "‘허블보다 100배 큰 눈’ 로먼우주망원경 장도에 올랐다",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3QmE3ZzRPVW9UQ2lnUjhBdUo3ckZldGVHVFJtZi1PZ2NtOTJkNTJNcXo5OGdadjRJcnlvXzNESXR0Q3ZUSS1lakMzQzRiY3ZjMWQ5MDYzMlFKVXZkc1lJYVo2cUdrM3BHMFlfR1FOTDJEZw?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "국민연금 받으려 추납 신청한 외국인, 80%가 중국동포",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TN2ZCcjc2WnJ5M0VMbGZXbFZaTC1WcEpvQXNZUXVDYklxTlZKdDlIRm1rZTFOMGdVR016eVVTVGx1Z01pbDFyejRNQ0doTjA?oc=5",
-              "source": "v.daum.net"
+              "title": "우주사관학교 창설한 트럼프 “우주서 2등은 지구서 1등 못해...내 임기전 달 표면 다시 갈것”",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zX0U0R280cVJnTWp4WldyT1NKalhmZ3Z1Ykg5U3ZoY3VwejJCY1A4bEJOeHl2MzcyaFJpaG9JT01xTXgwaFZBYU0yTWNMY3h4?oc=5",
+              "source": "문화일보"
             }
           ],
-          "description": "노령연금을 별도로 신청하지 않아도 자동으로 지급되고 세금 공제까지 자동 처리되는 방식으로 제도가 바뀐다. 아울러 2026년 상반기분 근로장려금 신청이 시작됐으며, 국민연금 수령을 위해 추납을 신청한 외국인의 80%가 중국동포인 것으로 나타나 눈길을 끌고 있다. 복지·연금 관련 신청 정보가 한꺼번에 화제로 떠오른 하루다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "노령연금, 신청 없이 자동 지급으로 전환"
+          "description": "허블 망원경보다 100배 넓은 시야를 갖춘 로먼우주망원경이 마침내 발사 장도에 올랐다. 트럼프 대통령은 우주사관학교 창설을 선언하며 \"임기 내 달 표면에 다시 가겠다\"고 밝혀 우주 패권 경쟁에 속도를 높이겠다는 의지를 드러냈다. 남태평양 섬이 위성사진에서 거대한 돋보기처럼 포착된 현상도 화제를 모으며 우주 관련 소식이 한꺼번에 주목받고 있다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "로먼우주망원경 발사, 달 재탐사 선언도"
         }
       ]
     },
     "연예": {
-      "summary": "'푸른거탑' 배우 이용주 심장마비로 별세 · 박위 학폭 루머 논란",
+      "summary": "걸그룹 리센느가 8월 스타브랜드 평판 1위를 차지했으며, 박위 모친까지 악플 피해를 받고 있어 논란이 지속되고 있다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "하석진",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'사랑이 온다' 하석진, 윤유선·이주연 모녀 갈등 사이 안절부절",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tbFVzekFyejlGWldYMl9hWno1aWlGX3Rab0ZpWGw4RGJyRmY1WUhyb0RyUXZfQ2ZRalNzTG91em4xNzFybThiUkd2LWVpUFk?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "＂좋은 놈..＂술에 취해 하석진을 찾아온 권해효 [사랑이 온다] | KBS 260829 방송",
-              "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNWt0X0VIcU9neHdlUVJCMHZVRHRWd0dQM29LbHNqN09TZFRHTDl0RVpiS21CZzc4cjBLdTlxbERTRFJjWEJ3NHhuOVdkU0x6eGxjQVIzeUkwbjRob3YwaHh1TngycnFOUzRCQTJ2N2ZtTDZ5dlc5ZWJ6d0x4ckRKaTRYVHhwcGZFZl9zellwdV9sdVVubXh1cUNKZGtPVUFIdldjODZCQnUtMU9RUHAwUlJZb3kwVmVxYjg5ckxObTNqTmNhdkVIT3dPaVZScHVyaTlDQnNvYkd1MDhHVTR3enBwWDZHSjZFYnhYWVVBbWx6NWt3VkRhQTBVT3hvVWhqZjNWNE56bzdMWWN3S3ZJekYxN2dZdXM1NXE5STFrVURZQ3pKbVpNdlVWX2dxdC02M2xmZ21IZlJ1bExHaWg4NFBR?oc=5",
-              "source": "대한민국 대표 공영미디어 KBS"
-            },
-            {
-              "title": "‘사랑이 온다’ 하석진, 윤유선·이주연 모녀 갈등 사이 안절부절",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xeGNQd3ZvZ1VSN2N5S1lGTXNfbnkyQVFDNXc1XzdGYWlKZEZrbWdtTEVPMzVjMWNSY29yLUZaZjg5N0VXblJTTXc1V3QtTFN4bXQ5ag?oc=5",
-              "source": "JTBC"
-            }
-          ],
-          "description": "배우 하석진이 KBS 드라마 '사랑이 온다'에서 윤유선·이주연 모녀 갈등 사이에 끼어 난처한 상황을 연출하며 화제를 모으고 있다. 술에 취한 권해효가 하석진을 찾아오는 장면도 시청자들의 눈길을 끌었다. 오늘 처음 트렌드에 등장한 키워드로, 방송 직후 반응이 모인 것으로 보인다.",
-          "headline": "하석진, '사랑이 온다' 모녀 갈등 사이서 안절부절"
-        },
-        {
-          "rank": 2,
           "word": "박위",
           "count": 2,
           "articles": [
             {
-              "title": "박위, 이번엔 학폭설까지…“소년원 다녀와” vs “인성 갖춘 친구”",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xVWYtVGFiZkMzZjdfcVFFLU5FOGxoVjdfMXhNMFRlZ3BDaE9SemdKcnVKZmVsXzZfVmZQNC1ZclpsenM0MDVIYWVPdGE3SGNzTHpSWVpfMjctNkw4TmfSAWNBVV95cUxNRWRuT3dyTGNVY3BWZFZpUC02UHhJdjlkTVRUbl9HSHRGX0lsVUE2YVFaSGlpY1k4bFF3MlF2LW5EVC1wbTREakhqaUpIamoxZW1ZMUFSdmk1Y29HWGVTX21ZSkE?oc=5",
-              "source": "스포츠경향"
-            },
-            {
-              "title": "박위, 과거 파묘 이어 '학폭' 루머까지…결국 동창들 등판",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoTXZOb1Nqb1AyRHROS1RSN1BETzlFVXNneFVCTm85bkl6UWdJUW9wZDRSQWxTUVJ3MmhEQzBxWEJHcmFhaHZ6V2lkbWk4ZUxqVWVRbHhtUGwtdw?oc=5",
-              "source": "한국경제"
+              "title": "박위 모친까지 악플 불똥…송지은에 옷 물려준 미담에 \"헌옷을 왜\" [엑's 이슈]",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxbkNSTlluYVo3dElyNlRvZ1Naay1LWjIxSDV2cjlRWU9NRE5yUHMtdGdic2taN29IQzUyUGNycTdxZ0hiQkI4QUlPU3ZmWmVUM000?oc=5",
+              "source": "네이트"
             },
             {
               "title": "박위 KTX 낙상사고 직후 '위 vs 사탄' 밝은 모습 셀카…\"섬뜩하다\"",
               "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fdFktSzZnU2tXcC1odEFTRHpqU04yWWNrMC1ZRjNkOUpOQ0xBVjBmallxdllkQ1QxX09QNEdyUWZSOGJQVXQ4UDUwQkJ2N1p0NHl2TEZZRUhjVlFRb3IxX2R30gFnQVVfeXFMTV8xelctNGFhVG5Gd3d3cVY5dkxMSUdSVDAtYy1nUjh5c0duWDBpQjEtZFdpMzlXUnJ3cHFZMlY3UlF6dGVIZEQ0YUVtQjJOdnRRYnA4dERiRDJ5QlV5VV81Zk51WS1Xbw?oc=5",
               "source": "뉴스1"
+            },
+            {
+              "title": "용산고 동창들 '박위 학폭' 논쟁…\"4주 상해, 소년원 갔다\" vs \"선한 친구\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjSGVsWU4xc0pfYjg4a2E3X0dOT3JLZV9PUm1ZMlVHWjZ2WFFncTBST0RiNDJhSVM2ajV1bGo5eEdJOUdTQUhMQ1I4ZFJUaXc?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "유튜버 박위가 과거 파묘 논란에 이어 이번엔 학교폭력 의혹까지 불거지며 연이은 구설에 휘말렸다. '소년원을 다녀왔다'는 주장과 '인성 갖춘 친구'라는 반론이 충돌하면서 동창들이 직접 등판해 진실 공방이 벌어지는 양상이다. KTX 낙상사고 직후 찍힌 셀카가 '섬뜩하다'는 반응을 낳는 등 여러 논란이 동시에 터지며 관심이 집중되고 있다.",
-          "headline": "박위, 학폭 루머까지…동창들 진실 공방"
+          "description": "박위를 둘러싼 논란이 연일 확산되고 있다. 용산고 동창들 사이에서는 '4주 상해·소년원'을 주장하는 측과 '선한 친구'라는 측이 충돌하며 학폭 논쟁이 불거졌고, KTX 낙상사고 직후 찍은 셀카도 '섬뜩하다'는 반응을 낳았다. 송지은에게 옷을 물려줬다는 미담에도 악플이 달리며 모친에게까지 불똥이 튀는 상황이다. 박위는 3일 연속 연예 분야 1위를 기록 중이다.",
+          "headline": "박위, 학폭 의혹·사고·악플로 연일 논란"
+        },
+        {
+          "rank": 2,
+          "word": "한소희",
+          "count": 2,
+          "articles": [
+            {
+              "title": "한소희가 밝힌 연애관…\"연인이 내 삶 절반 넘으면 망가져\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XRkswSW43d253cTFzSGluOGNvMG5ZYS1fVE8tTnA1U3RXa3NnY2VBTlNfT3VkRmM2ZlR0dWg2Y3FxV24xcnVmemk0Z3hidnZ4czc4NnktbWZRclgwNG55YkVFTG1XUUFQcTlOb0F3Rm5GcWfSAXhBVV95cUxPZURXSVNDSFJuNHlKamN1MGFjaUswNVZXOUttQldKNmtzcHBXTXkyUldhTEljdDJHZ2dvSlViSnJhakFVUmxDN2xVX2ZZZno1M2JRWmIzb2pydWp2RlpDMW1kNW5GQld4MDlGck1qSzlFWU9WYjg1Ui0?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "한소희 \"연애가 인생 절반 차지하면 망가져\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wWGlsR0d3enluSmZiNXdVLS0tZGRZU3dpU0dNVUp6My0yTmt5OWEwWElVT2tjdUM5aTV2cTlETGNqVGdJOEQxLTJjQXpoRllvcFlqZ0FjU1hsLU1yUWJHMNIBeEFVX3lxTE9LdkNxSk44WE5XaDJ4RE9QWDB1cE16dnQ3bkE2QUhFSzlRWHJ5U2FyMTUwZjIwSTVPUG85alVER2Q1MTlkeENZcW1hcVVveUVwVUhFSVJCdHA1eVZXSHZBbkk2dzVHbFdXLV9pUGktNWNsYkxuVWNydQ?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "‘류준열과 결별’ 한소희 “연애 상대가 내 삶의 절반 차지하면 망가진다”",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFcXNVcjhPX2xzY29CODQ1c0dreGhXZkpBZkNrQWlUS241SHNuaEpsTzUxZlNkZGd4ZTVzS1JWd3pTR3l0NmRRcUlDbzNBeUlULXdYblU4LVZuSEtpVzRRN0dmTW54TGsycHFDRDVVZ19mOEs3aTFteVNoOTZqZ9IBZkFVX3lxTE5SZGVsRnpMbFkzNGtUa3JPOTI4VXhhVEs4Z2JCeWdwMzFSZm9KcU5CZEp1RmowT3hrcjlqNHpZVjR3c3RoT2J3eG5XRjQ4VUt4N3VxaXM5TE5ZVEkza24yVG1JMnRHUQ?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "한소희가 연애관을 직접 밝혀 화제다. 그는 '연인이 내 삶의 절반을 넘으면 망가진다'며 독립적인 연애 철학을 공개했다. 류준열과의 결별 이후 공개 발언이라 더욱 주목받고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "한소희, 연애관 직접 밝혀"
         },
         {
           "rank": 3,
-          "word": "나혼산",
+          "word": "리센느",
           "count": 2,
           "articles": [
             {
-              "title": "'나혼산' 기안84, 전현무·김대호 위협하는 변화…\"결혼 확률 높아져\"",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UOHNzaDd4Zy01SzMzOXRVczR4VzZPaDk2RHB2VmowU0FYcHFQOWFsNHJNXzI4TGs2MWVELWphVzRjVmlsRkE?oc=5",
+              "title": "리센느, 방탄소년단·임영웅 뛰어 넘었다…8월 스타브랜드 평판 '1위'",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03R1NtYUZNRU14UGdTdGUtQTIwRm1JWjlSajV1Z2tETEM5aHZuSGZPYUwxSDVXQnJ0dXhQanFZcmdldXJmdVo1OTBIVk1qYnc?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "또 조작 의혹? 박나래 이어 전현무까지 휘청일 뻔…'나혼산' 가슴 쓸어내렸다 [엑's 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90SVFoaFpRWld4TUM2TjJqRVRwc29ES2xvdDNCTS1HX2xVT0FvZEt2Y2Z3OHIyRHpDOWxFSTlrUlNBVGRIYU5nWWVsTkowdm5pdUFBaA?oc=5",
-              "source": "xportsnews.com"
+              "title": "“BTS·임영웅 다 제쳤다” 걸그룹 리센느, 8월 ★브랜드평판 ‘대이변 1위’",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRdVlhSmdPa0lBWjZTaVp1RTJMNGVGTk40T2M4QjdoS2J4Z01MOVB5aXItbEVtcGV0dnRHZjJVbl9FU0VmQ05IMnFKc2pSVEFLT2M1NGQwOUpNN3h3dEHSAWNBVV95cUxPUUNhbm42VUVZY3FyUjBaQUl1d3VSa2NNeURwTjdHbk91YjlVc3FzaHdlZG1xcVdaandRcUVBX2tnbldiME9Rd3JSbUNydUFwMEJzRm9JUlVMWEdHcUw4eFNDQW8?oc=5",
+              "source": "스포츠경향"
             },
             {
-              "title": "'나혼산', 들킬 연출 왜 숨겼나…비행기표는 일주일 전 [MD이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wWmVhd2p0azNyRWpJYm5QSFZydUFOZlktYlpJWHg3OTQ3TUhDWVQtam5aR3RSWld0MnBHMjQtZ0NNWVhaMGJGTEdLLTlkZ3c?oc=5",
-              "source": "v.daum.net"
+              "title": "임영웅 소통지수만 341만…리센느·BTS와 나란히 ‘스타 TOP3’",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5S3l4Y0ZaWlU0TGlmTTNUMDVYNzRtdDMtdWFyMTE4VmZqUHU2QzNIUlpBZXNfYnhfcW5scVhrRkZxWTAwTVJpM3d4eDhZTTdVQ1N0OEZUb3A?oc=5",
+              "source": "스포츠서울"
             }
           ],
-          "description": "'나 혼자 산다'가 연출 조작 의혹으로 다시 도마에 올랐다. 박나래에 이어 전현무 관련 장면까지 연출 논란이 제기됐고, 비행기표를 일주일 전에 구매했음에도 이를 숨겼다는 지적이 나왔다. 한편 기안84가 결혼 확률이 높아졌다는 평가를 받으며 전현무·김대호의 '비혼 아성'을 위협한다는 분석도 나와 다양한 화제를 낳고 있다. 오늘 처음 트렌드에 등장했다.",
-          "headline": "'나혼산' 연출 조작 의혹 재점화"
+          "description": "걸그룹 리센느가 8월 스타브랜드 평판에서 방탄소년단과 임영웅을 모두 제치고 1위에 오르는 이변을 연출했다. 임영웅은 소통지수 341만을 기록하며 리센느·BTS와 함께 TOP3에 이름을 올렸다. 상대적으로 덜 알려진 리센느가 양대 정상급 스타를 앞선 결과라 업계의 주목을 받고 있다.",
+          "headline": "리센느, BTS·임영웅 제치고 브랜드평판 1위"
         },
         {
           "rank": 4,
-          "word": "하지원",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'48세' 하지원 \"저 26학번이라니까요\" [엑's 인터뷰]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hdU1FUU5XMlhTUG15UUJSOTNNakI2cFhBWUlOU3Z4aEtnRVBPc0JtNkJsY2hHcXFSYUhNbkR3NjZVb3NIMTdpb1plVE1DYUk?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "'비광' 하지원,’48세 맞아?…현장 뒤흔든 명품 복근’ [이대선의 모멘트]",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBOWnFtOV9oZ1RPZW9xWF80NmFHS1ctYUVLejNsODViUWtRNFl0S3N2S2tsWDJOSHRieFo1eElwLXhUMUh5Ync?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "하지원 “생애 첫 극단적 다이어트”… 2주 굶은 후, 변화는?",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YR0tacldMMFdEYzlJMndxdGxlT1puWktfUERwbjM2MVNnU0prWUU5RVVuTks3N2pnbEVJcFFhMGZIVEE1akhSRzlHY0hKb2xlRFZzRUIyTUZUWnIwcHNEbzdfSVhsQTRDU0RzejlOS1NMS1ZEU05JUDhReDZjc0E?oc=5",
-              "source": "헬스조선"
-            }
-          ],
-          "description": "배우 하지원이 48세의 나이에 26학번으로 학교에 입학했다고 밝혀 화제다. 현재 출연 중인 영화 '비광' 촬영을 위해 생애 처음으로 극단적인 다이어트를 감행해 2주간 식사를 극도로 제한했다고 고백하기도 했다. 현장을 뒤흔들었다는 평가를 받는 복근 등 탄탄한 몸매도 주목받으며, 오늘 처음 트렌드에 등장했다.",
-          "headline": "하지원, 48세에 '26학번'·극단적 다이어트 도전"
-        },
-        {
-          "rank": 5,
-          "word": "푸른거탑",
+          "word": "하석진",
           "count": 1,
           "articles": [
             {
-              "title": "‘푸른거탑’ 배우 이용주 심장마비로 사망…향년 44세",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HdEFVWW5fanBPY2g3MEd3RGc0ajhoMmdTdWhjLTk2anpvdVdZTmJ6dTd4Q0JxNlVXRU9Eam9ueE1HMWRyNzVjZnhxYXlseVJSSEtXX2M3SFFDTTF4SUhGWDlrdktqeEVROXpQQVE5QTd0WEx5dWfSAWZBVV95cUxPNE5JbDZKcXllcFFmRXVvUHhkbEpMb1FpVXdzazIyTGlTTTdLa1JtUElBU3NLMjhjYzAzcEE2ZmYwSnE0ZFY1Yzh0cXFjSlNINnNuUm1CMlhwM0Z3NkNJOXZiMG14NXc?oc=5",
-              "source": "동아일보"
+              "title": "하석진·안희연, 꼬인 관계 회복 위해 고군분투(‘사랑이 온다’) - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUJsQU50ZE1fVDdub0R1VHhSQ2xXY003Qnp4WDFlamk4aEtWeF9BdE1tUG5GZ19tS1Zmd3FUZTZTcUYwbnR4WEVmRFY1V01OTFF5UGJoRDVTbDdYNnAxQ2ZfdG8zVG00eWpickFEd0RtRVdYZDB4MGUxZ0FhQk1Vc0pXYmYyMFg0dzdmX0J4MFhJdGPSAacBQVVfeXFMT2NBVGx6dDVSUGMwMjlQdUx5WXhBcFo0eHN6SzhqeXpMWXhHV1RZQ0xWejI3dFJKLWYtV2hsS3RFcFkxOVpYUFdBajgzLVVhbXFRTTMycWliUjVOejZyZ0RFOW9VNDlGbHVVWmZaZmlaVXRlZzZJZUJxMS1lU0pxVmtsUm1Xd0dXY3ROZXQyYWh6QUpXUkpFZlYyUUw4WllteDkxbEIySzQ?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "‘푸른거탑’ 어리버리 신병…배우 이용주, 44세에 심장마비 사망",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zX1hLOWJ3NVNBMl9sTzBKdzI5MGxHZTM0Wk1RQzBPMFdZQXc3SWFYcXhXQ09jN1daMFoybFp3WmJVRWNZb1BLY3lCT0l4aUlHMWp3bFpB?oc=5",
-              "source": "중앙일보"
+              "title": "'의사♥' 박은영 셰프, '하석진 닮은' 남편과 신혼 3개월 근황 \"웃는날 많아져\" [핫피플]",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBybUtpQWZ5dXFzZzM3cDU2TVlPTHlmRFdSWW9OMjBVbFBLV3NVTU13V0F0ekloOGl5dWVzZS1ZbXN2Y180RGFYbkI5U011QmQ2dEljUWQtQk10dmRvbVdTMjNB?oc=5",
+              "source": "미주중앙일보"
             },
             {
-              "title": "‘푸른거탑’ 배우 이용주 심장마비로 사망…향년 44세",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03Yy1aVFlaaU9SZ0tRbzZjRUphMUhXZnJ5Q0d6OHRUR1ZVZHVQcVBKQnpvR29wbmxhSThJU05tS2duZWJILVVwZTMyR0tMdHJv?oc=5",
-              "source": "문화일보"
+              "title": "하석진, 셰프복 입고 밤공기 만끽…‘은애하는 도적님아’로 사극 행보",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pZmxpMVM4TnY2MVJkbjFMX3Z1eXVlaVBoMUNaUC0tQ2JrODZmWkZFYUtTSXotcDN5U1hKQkMzZU5PVnFDSFpRNzhlN2YwcDZUeGFnVGsxTU44a0lqQVFvdGFoUHFGQXNrZUdsWEIxLWkwdw?oc=5",
+              "source": "톱스타뉴스"
             }
           ],
-          "description": "드라마 '푸른거탑'에 출연했던 배우 이용주가 심장마비로 별세했다. 향년 44세로, 극 중 어리버리한 신병 캐릭터로 시청자들에게 친숙한 얼굴이었다. 젊은 나이에 갑작스럽게 세상을 떠난 소식이 전해지며 팬들의 애도가 이어지고 있다.",
-          "headline": "'푸른거탑' 배우 이용주, 44세 심장마비로 사망"
+          "description": "배우 하석진이 드라마 '사랑이 온다'에서 안희연과 꼬인 관계를 풀어가는 연기로 주목받는 가운데, 사극 '은애하는 도적님아'로도 출연을 예고하며 폭넓은 행보를 이어가고 있다. 셰프복 차림의 근황 사진도 공개돼 팬들의 관심을 모았다.",
+          "headline": "하석진, 드라마·사극으로 활발한 활동"
+        },
+        {
+          "rank": 5,
+          "word": "안희연",
+          "count": 1,
+          "articles": [
+            {
+              "title": "윤유선, 친딸 안희연 이복동생 박수오 만났다‥뜻밖 인연(사랑이 온다)",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQRnp5VU9ScEFyX09FWW9zYlhoWks3amY1UDRuOV8yeTFoS0VuY2l1TmpaWTBWVFE4cmtIWS1CYV9YTVVaTFo3RGNQWUNXS05CYmdMVnc3MXdfV2FneUszQnZfMHZ0M25acWZ2U0tyLWE4UUI5bmZmbFJ5WQ?oc=5",
+              "source": "뉴스엔"
+            },
+            {
+              "title": "윤유선, 매정하게 친딸 버릴 땐 언제고… 구박당하는 안희연 목격 후 뒤늦은 복수 결심 ('사랑이 온다')",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XRTdUT2VEUkdQYUV4VVVuUkFPeDJhZjhjU2FDZDNDdGtVbFlHZWcxVTd1Y09UVjdReDhNN1Jnd0UyYzlRMld6S1c3Y2piSEk?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "안희연 “이 집 장녀 사퇴한다” (사랑이 온다)",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lRzZNT0RnSGE0WFVBV3EwY1ZnVVprQmw2NjdEUW5fU283RHY4dDRMY1dTY2NERzdnbkJCRVdmWHJuaFdCTklyU0pzVV9PMVNkM0FLbElDdmRrYUROZUHSAWNBVV95cUxOMTFHRkh2bG5YSjNxZW1TWFlBVjM3TTZ4UE5zdVZseWhCSmdDSXZqVnJhNWlKMEItdDRVRDV0Rk5laG1PRWdTNGc4aWQ1QWZVd3ZXcEtBLUFNOFlUSDJ5Z0FhaTQ?oc=5",
+              "source": "스포츠경향"
+            }
+          ],
+          "description": "'사랑이 온다'에서 안희연이 '이 집 장녀 사퇴한다'고 선언하며 눈길을 끌었다. 극 중 친모 윤유선이 뒤늦게 딸을 향한 복수를 결심하는 장면도 함께 화제를 모았다. 안희연이 구박받는 장면을 목격한 윤유선이 이복동생 박수오와 뜻밖의 인연을 맺는 전개도 시청자의 관심을 끌고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "안희연, '사랑이 온다' 장녀 사퇴 선언"
         }
       ]
     },
     "스포츠": {
-      "summary": "이강인 세비야전 맹활약·김하성 MLB 생존 위기·최하빈 피겨 주니어 GP 우승·프로야구 우천취소 위기",
+      "summary": "두산 최민석 다승 단독 선두 등극 · 우상혁 아시안게임 한 달 앞두고 부진 · 이정후 더블헤더 활약",
       "keywords": [
         {
           "rank": 1,
-          "word": "이강인",
-          "count": 1,
+          "word": "선두",
+          "count": 4,
           "articles": [
             {
-              "title": "'시즌 1호 도움' 이강인, 세비야전 평점 8 맹활약(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iV0gwV3J5a3RWYklVSEJxM05KaC1oaU5YT1ZuSjNNWDF0eWxyYUFENHV5RmpsRm5nLUdiS0ZoNTVOSFpCeEp2R2FPYmhXMHFXeGJReVV4LUVsT0haWFZLc9IBeEFVX3lxTE1EUHhDMjVReVJiNVpOTXZBU3k3MWpaUFpya3g3YUQxaU10NkVUaEhZRXJYV1RUYTA0Q0NRN0JPSmZnOTFQWENpYVZyZ1Atc1dfSVAwaXEtNzJvV3U0Z05WRXRYSF9kc3NsVUVTbWNMeXlsbVBtdzJjMg?oc=5",
-              "source": "뉴시스"
+              "title": "두산 최민석, 키움 잡고 13승… 다승 단독 선두",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSTlHZXBodERZR0lua3pjMk5PaG9zVWhfLWh0SkhIMVZKZjVkcjR4M3ZTNFFJczh4NnRSUVpBcGRSRkpLTTZkWUM5THNoVnM5OXNqSDBPcnY0emR5QW1hZDhxOXkwNU9WQ1VsTXJ0ZWZyTTRSM3FzMF9fRk10TlRJRl94QQ?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "'ATM서 펄펄' 이강인, 男 스타랭킹 24주 연속 1위 질주... 허웅·손흥민도 못 따라잡네 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sbmgteE0xdmszcGg1RVE5VGZpeGVKNERDZXJHT2NiRlZGMkVHSk93dEJQNkdDZ2ttS18tZGdocUhZVEp0N1lsNkF1U0oyVVl2VUw5dXBNMmVobVp5RFZmSHNRbkR5Ry1KYnfSAW9BVV95cUxOT0RyS09IUFFYRWhCQnlweFB2dmlxV0pEZWkxVmFCQTk2bVhkSnEwYUt2TDRWZzNUNnkyazF1aFUycFU3dWRsTk5NTFdGM0tQbjJ1Zmt3QUtIb2pMNXNvdHpUQlRVZWpFekpZLTVqRjA?oc=5",
-              "source": "머니투데이"
+              "title": "‘13승’ 최민석 다승 단독 선두…두산, 키움 꺾고 3위와 2경기 차",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YVDZLRkFjdW9hTm1PaW1IZUdsRTA0OHlSd3BZaWlxa3NtbUFIWUlwX2xob05BN0F0cTJhZVV0ZFVTeHhSVVIwSXg4SkI4eENPUm9YdXNB?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "이럴 수가! '이강인 패스 안 받고 맨체스터 유나이티드로?'...영입 제안 받았다! \"EPL 복귀 준비\" AT도 매각 가능하다, 단 '대체자' 확보 먼저",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sMGRLaXZodlRjd2c5YXA5YXN0Q0Y1aC15bGl0RUhtc2pabHAxMlFfem5OM0FCU0tfMzF2dkl4WnJtMjNoR0EzWDNDWFNQRzRaZzVTQkFqUF9SVkgxczJoWg?oc=5",
-              "source": "마이데일리"
+              "title": "두산 최민석, 키움전 6이닝 1실점…다승 단독 선두",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lMGJ2OEFGa2pHUmlIWDR4d01Ga2Z0TWZGa2QwVllWWVptRERlZnp3dFpwZTliUzUwNlhaZERWRlR0bC11Nk4zT1hfWFRFcHFDel93WWNyeURIb1lUUllPVHVNQWpTNG8?oc=5",
+              "source": "한겨레"
             }
           ],
-          "description": "이강인이 세비야전에서 시즌 첫 도움을 기록하며 평점 8점의 맹활약을 펼쳤다. 경기 내 존재감을 과시하며 다시 한번 팀의 핵심 플레이어임을 입증했다. 한편 맨체스터 유나이티드의 영입 제안설도 불거지며, 소속팀 아틀레티코 마드리드가 대체자 확보를 조건으로 매각 가능성을 열어뒀다는 보도도 나왔다. 남자 스타랭킹에서는 24주 연속 1위를 질주하며 허웅·손흥민도 따라잡지 못하는 독주를 이어가고 있다.",
-          "headline": "이강인, 세비야전 시즌 1호 도움·평점 8 맹활약"
+          "description": "두산 최민석이 키움전에서 6이닝 1실점 호투로 시즌 13승을 챙기며 다승 단독 선두에 올랐다. 이번 승리로 LG 임찬규를 제치고 다승 1위 자리를 차지했으며, 두산도 키움을 꺾고 3위와 2경기 차까지 좁히며 순위 경쟁에 불을 댕겼다.",
+          "headline": "최민석 13승, 다승 단독 선두"
         },
         {
           "rank": 2,
-          "word": "김하성",
-          "count": 2,
+          "word": "광주",
+          "count": 3,
           "articles": [
             {
-              "title": "한때 아시아 최고 내야수였는데…김하성의 충격 추락, MLB 생존도 위태롭다[스한 위클리]",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BWExlZnY0MlpmYTdNY0Z6d29PUEhDcTBpTGt3bDE5c056UzhFUXc1c1NvYjlpeHFwUmMzVGh3RlRjc2RIWFZmNDBxcm9MX3ZoanZQZXA2WFhrc28y?oc=5",
-              "source": "네이트"
+              "title": "'36년 전남광주 숙원' 의대 후보대학, 우여곡절 끝 순천대로",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0amhHa3YwaW84QW1iMUYwVWQtQXhWS2MwNWgxNnlxWnVqdlNvX2c2aWJ0UVlKNTNzRC1RaFlFWFBiY041U0ROWW11NktNWGs?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "‘끝내기 안타→2G 연속 선발 출전→침묵’ 김하성 ‘다시 벤치 신세’",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GNmR2TUdjOXRfR0pEZXZ5cUE5VkNnQ2UzQXItNDRpNVhJam4yUnJxckRUbE9idG8yenA2dVB4WFRrZTB0bXdUTlpBaGtaVTBwaWpSNGhIUTlldDZ6QmE3VmJwWjMtSm05dXoxVGlwdl8xZw?oc=5",
-              "source": "sports.donga.com"
+              "title": "전남광주시, 국립의대 신설 후보로 순천대 선정",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQU9FenAzTGJjZEhZWlpTa3J0dFdHS0oydlhzbUpYbC11eENmdVhZa0hYWkNqUEpiOGM1QWE1NWZPWHRnalBYM0t4STVnQk90TUdEM3k4S2ZmcjhDalNKSVVTLTBueGdzVF9KeVlfd2NXZDRUSC1zZG9pS1Z2TEZaeXBKYmJpbTJlY3RpcUxfSEc?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "'대반전' .068 추락→끝내기타 대폭발, 김하성 극적 부활하나…美 여론 뒤집었다 \"KIM 감동 줬다, 정말 멋진 순간\" 태세전환",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zNjlXcnV2VVdrZDZVNENIY3JtVG9Pdlh4dmxTcDNTQkFIcGFldWpKdmlXeHdueGhmSGpEaWMzaFV6M2liZVUxbjNRYVY1YWxMQmwweVRiM2hQSFAyQmVKQldvaWpGdw?oc=5",
-              "source": "마이데일리"
+              "title": "민주당전남광주특별시당 \"순천대 국립의대 후보 선정 환영\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qeXVGeEFGbXpzVktwYndzbldJb2xNQUtFZ2xReFpodjZraHhhczVhYk5PQ2Foa3NmeVh2Z09YT011aGZheVJvNDFZZlk5YUZwb0hkSzhKRTRqVzUyQjJRRQ?oc=5",
+              "source": "아시아경제"
             }
           ],
-          "description": "김하성이 끝내기 안타와 2경기 연속 선발 출전으로 극적인 부활 신호를 보냈지만, 이내 다시 벤치로 밀려나며 MLB 생존 여부에 관심이 쏠리고 있다. 타율 .068까지 추락하는 극심한 타격 부진을 겪다 끝내기 안타로 미국 현지 여론을 뒤집는 반전을 연출했으나, 주전 자리를 되찾기엔 아직 갈 길이 멀다는 평가다. 한때 아시아 최고 내야수로 꼽혔던 만큼 부진의 낙폭이 더 크게 느껴지며, 그의 향후 행보에 팬들의 이목이 집중되고 있다. 어제 5위에서 오늘 2위로 급상승했다.",
-          "headline": "김하성, 끝내기 안타 후 다시 벤치로"
+          "description": "36년간 전남·광주 지역의 숙원이던 국립의대 신설 후보 대학으로 순천대가 우여곡절 끝에 선정됐다. 민주당 전남광주특별시당도 이번 결정을 공식 환영하며 지역 의료 인프라 확충에 대한 기대감을 나타냈다. 오늘 처음 등장한 키워드다.",
+          "headline": "국립의대 후보, 순천대로 결정"
         },
         {
           "rank": 3,
-          "word": "최하빈",
-          "count": 1,
+          "word": "게임",
+          "count": 3,
           "articles": [
             {
-              "title": "피겨 최하빈, 2차 주니어 GP 우승…쿼드러플 러츠 두 차례 성공",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaX0x1R01ibU1QTjRnOGVLd1VOeFRvd3FmQnd6WjFlTm5ScHFyOW9hNXJZOERIdFNKYWgyYmc4Z3BHSmJVX2lLY3hmX3JtR1ZDQjZCYUdEN1FWd1J4V1pLZNIBYEFVX3lxTFBaX0x1R01ibU1QTjRnOGVLd1VOeFRvd3FmQnd6WjFlTm5ScHFyOW9hNXJZOERIdFNKYWgyYmc4Z3BHSmJVX2lLY3hmX3JtR1ZDQjZCYUdEN1FWd1J4V1pLZA?oc=5",
-              "source": "연합뉴스"
+              "title": "아시안게임 한 달 앞인데…날지 못하는 우상혁",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hZlhTVnAtSDExeGJPQjByMUpCUUxDZWtqaDZMcFJKbnAzanc2WVdCWlhnb1U1T3VUX2FRbWYwa2hlSmVWcnRaU3RTUm5KWlY4MExzSnl5dzh1T3gzaVJF0gFfQVVfeXFMTWFmWFNWcC1IMTF4Yk9CMHIxSkJRTENla2poNkxwUkpucDNqdzZZV0JaWGdvVTVPdVRfYVFtZjBraGVKZVZydFpTdFNSbkpaVjgwTHNKeXl3OHVPeDNpUkU?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "피겨 최하빈, 2차 주니어 GP 역전 우승…프리·총점서 개인 최고점",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yYUlLTWVBTG5OZ1NMRnFkaEtxODMyMWxnZThRalhKcFU4WDdON3l6bGl0c01iVUJSTW51R0VJY2VJbHRKa1owcVBJOVYyc3BycWpqOVVqWHU4QU5O?oc=5",
-              "source": "뉴스핌"
+              "title": "높이뛰기 우상혁, 아시안게임 앞두고 잇단 부진…독일 대회서 최하위",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53ZGU5NG1DdnJEM0daaDNOVkthbkM3QzE4dGw5c3F3ZGpwVWVPSHp1a3Z2bHpIaXl6YlRZWndHc1NkbkIxMk1vSkliTTZhRXFEUDR2TEgtOTA0MFNTZGdRNmFuSmpVRW8?oc=5",
+              "source": "연합뉴스TV"
             },
             {
-              "title": "피겨 최하빈, 주니어 GP 2차 대회 우승…쿼드러플 러츠 두 차례 성공",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NR2E0X1NYQ1VFaWlOS2ZkRUFqWXRVXzRkRzQzdUk3UldITk5zMVZyZ2J0RGFwaWZLT3dsZU9jYnRRUGNCbW81UDlWQlFuUHJYajhRWjBNb2FRdTFIT0pBdFZXRWltcmNzaVE?oc=5",
-              "source": "news.sbs.co.kr"
+              "title": "4회 연속 AG 도전 우상혁, 메달 전선 먹구름",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WNUJGaWFyQzBpaW01dG5aTHZKOU9zbncxcFZXVnpSU0lZSjJLMEg0QTkzS0JiekNZZFcwbV9UOGtzRXlWOWllQ1pIVXN0c2hBV2p6UDFBUWp6NGg4UFd3NXRWSE0ydTRMaVYxWNIBbEFVX3lxTE9WNUJGaWFyQzBpaW01dG5aTHZKOU9zbncxcFZXVnpSU0lZSjJLMEg0QTkzS0JiekNZZFcwbV9UOGtzRXlWOWllQ1pIVXN0c2hBV2p6UDFBUWp6NGg4UFd3NXRWSE0ydTRMaVYxWA?oc=5",
+              "source": "국민일보"
             }
           ],
-          "description": "피겨스케이팅 최하빈이 2차 주니어 그랑프리(GP) 대회에서 역전 우승을 차지했다. 프리스케이팅과 총점 모두 개인 최고점을 경신했으며, 고난도 기술인 쿼드러플 러츠를 두 차례 성공시키며 압도적인 기량을 선보였다. 오늘 처음 트렌드에 등장한 키워드로, 우승 소식과 함께 주목도가 급상승했다.",
-          "headline": "피겨 최하빈, 주니어 GP 2차 역전 우승"
+          "description": "아시안게임 개막을 한 달 앞두고 높이뛰기 우상혁이 독일 대회에서 최하위에 그치는 등 잇단 부진으로 메달 전선에 먹구름이 드리웠다. 4회 연속 아시안게임 도전을 앞둔 우상혁의 컨디션 회복 여부가 최대 관심사로 떠오르고 있다.",
+          "headline": "우상혁, 아시안게임 앞두고 연속 부진"
         },
         {
           "rank": 4,
-          "word": "우천",
+          "word": "데이",
           "count": 2,
           "articles": [
             {
-              "title": "프로야구 우천취소 되나",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdXQ0Wl9DVWNDcGNjMGlOTnF2eDZpNkYyS2JuYmtnZk5BOFRRUGZ4VzFlTUZ4UTkzVmw0Y2ZPU1BYMVJpUG5fa01oMzdUb2hiczZ6SDEwUjd0TzJ0V3IzWUZraFA?oc=5",
-              "source": "bntnews.co.kr"
+              "title": "‘버블헤드 데이’ 이정후…1차전 멀티히트에 2차전 쐐기타",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NX2dMZC1xd2twNWFJVEZuZXNueXhJTWt6Q1h6Rnpvb2FGWVBXXzhqWnljUjlmckZTb3ljU0VuWjJsMlhkTlZ6NFhiTk9LeXdESEx5Yg?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "프로야구 우천취소 위기",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rNGJDTW1LN1l3ZGNOM0MzdEVuTUc0TmpuRTlYRV9kS3RWRi1aZDNIZHRHUHpfSlRwNkZYZ2lFMlFsVHNIR3AtUEtJYzd0Ymx2V3BDdQ?oc=5",
-              "source": "이투데이"
+              "title": "보블헤드 데이 맞은 이정후, 더블헤더 2경기 모두 안타 생산",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tQ2d5c0JnWVZYY2JUVk5Cc0NpVF84bEFMZVVsa3hWVFIySTNDTUQ4WEVMcm1KN3NVbkFyUUJrUzQwQkJfRXdSVVFscmM3VFMyM0taWE8taWtPQk0?oc=5",
+              "source": "KBS 뉴스"
             },
             {
-              "title": "프로야구 광주 롯데-KIA전, 쏟아진 비로 우천 취소",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DWFBIQWdFSmVpT1FhMmRYTjFOdUdQVGNGVHZiNGNxSDVjWVNVMEdzSWw5M0dzQlNDNENiUkNOZlZZQkt2SGQ2QTBmcVdHNzVpRHNSclpfZ21IZ1RTU1FRWtIBeEFVX3lxTE16V0ZwQmd5NlpVVWdLX0R5Z1psZXo0UE9paVVuYUdDSVN3aXFxR3I3QU9talctbUx5aWYyUjl4T203X3RINENDMHR1cGRFSWk2V0hvZUxISkdZRndaQnkwNU9zaXJVY1dQdVkyU01YWHllcDhzaFUxQQ?oc=5",
-              "source": "뉴시스"
+              "title": "'버블헤드 데이' 이정후…1차전 멀티히트에 2차전 쐐기타",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16a1N4Xzd5czFMend1NVQ2LUh0ZU9SWks3MFFXYmJlNUtLVWZhSW8zbE1ka2Rxc2RLVUgwejhqRGlaZGFPT2otajU1Wm1lN1JtYmljLTJHN3ROQ3RXbTFDXzRRS3MzNUtQYWh2OWIxQU83R3ZKTVE?oc=5",
+              "source": "네이트"
             }
           ],
-          "description": "광주에서 예정된 롯데-KIA 프로야구 경기가 쏟아지는 비로 우천 취소됐다. 이 외에도 복수의 경기가 우천 취소 위기에 놓이며 오늘 프로야구 일정 전반에 차질이 생겼다. 오늘 처음 트렌드에 등장한 키워드로, 기습적인 강우로 인한 경기 취소 소식이 팬들의 관심을 끌었다.",
-          "headline": "프로야구 광주 롯데-KIA전, 폭우로 우천 취소"
+          "description": "이정후의 버블헤드 데이로 꾸며진 특별한 날, 이정후는 더블헤더 1차전에서 멀티히트를 기록하고 2차전에서도 쐐기타를 터뜨리며 두 경기 모두 안타를 생산했다. 기념일과 맞아떨어진 맹활약으로 팬들의 뜨거운 호응을 받았다. 오늘 처음 등장한 키워드다.",
+          "headline": "버블헤드 데이, 이정후 더블헤더 2경기 연속 안타"
+        },
+        {
+          "rank": 5,
+          "word": "이닝",
+          "count": 2,
+          "articles": [
+            {
+              "title": "두산 최민석, 6이닝 5K 1실점 호투…LG 임찬규 제치고 다승 단독 선두 등극 눈앞",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tZ0pYWEtxRGVNcDRfclVCM0JjVVFMWnlobV9nRURwblNZZDhUSUlXZGRTVG1hVlgtSlYzejhCMEVVbmxzMVVlc1FsY3FUaHNtOVlQRmtqMTFVV1Vrc2fSAWNBVV95cUxQR21hVFNIN1ZtMWdGVlJSaGJ1Q3pITzFEQTRodkRDZ1FKRnd6Y0w5NnJSNDhwalV3TW9WM29pQ3BOQmx3a0t2TjdWaWpiRjdpUkFNX0JKVDQzV0FBSHNaWlBCakE?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "최민석 '6이닝 1실점 미션클리어' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RQUJtT2VEbVBZYUs5Znp5eGk4MkUxWWVqcmpNZW9NRjFrQklLVGY1V2tnMThVMENWcEE3SG9EZERLd1RNaVpKZ1ZBOUZCR3JqOTFNeHkwTGg0RmhLMW9Hc3ZuRkRwc19SdUHSAW9BVV95cUxQa1piQmt5LWtFMXB3aHpRUHNBNjlpdVU4TUxSN1NtM2kwYV9OUE82THk2RGVTZ0REUFdLU2NwRldiRGtUY3BrYzJkMVc5dVlaYnJ3UFNUNWxqOW43UGxCWWdCcVN4S3VEU09keE9qZmM?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "최민석 '6이닝 1실점 미션클리어'",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Kdl84WldSd2FpZHZQMEVWaGwyVWczX2ZkTUZqdGh2ZUtjdG5scXIxUGJGMlJWY1Y0dnVXWlRmR3BEemhnRmVRT2Vxd2lHVmhNS0hTUVZlT20xeFBwSXduZGk3aDZlN0hNay1DazBwaEFZc3J4WWc?oc=5",
+              "source": "starnewskorea.com"
+            }
+          ],
+          "description": "두산 최민석이 키움전에서 6이닝 5탈삼진 1실점의 미션을 완수하며 시즌 13승을 따냈다. 이 활약으로 LG 임찬규를 제치고 다승 단독 선두에 오르며 에이스로서의 존재감을 확실히 드러냈다. 오늘 처음 등장한 키워드다.",
+          "headline": "최민석 6이닝 1실점 호투로 13승"
         }
       ]
     }
