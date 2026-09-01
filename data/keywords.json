@@ -1,100 +1,110 @@
 {
   "date": "2026-09-01",
-  "updated_at": "2026-09-01 01:18",
+  "updated_at": "2026-09-01 09:26",
   "briefing": {
-    "text": "총선을 겨냥한 신생 소규모 정당들이 잇따라 창당을 준비하며, 선거철마다 반복되는 이른바 '떴다당' 현상이 이번에도 재현되는 양상이다.\n\n오늘 개회한 정기국회에서는 부동산 정책과 예산을 놓고 여야가 전면 충돌할 것으로 예고됐다. 제주 실종·암매장 사건에서는 경찰이 '목맴 자살 추정'으로 발표했다가 일주일 만에 '사인 불명'으로 번복해, 섣부른 초기 발표가 수사 신뢰도를 떨어뜨렸다는 비판이 나오고 있다.\n\n코스피는 장중 3% 급락했지만 삼성전자·SK하이닉스의 자사주 매입에 힘입어 보합권으로 마감했다. 미국 연준의 금리 인상 우려가 재점화하면서 금값도 3% 급락했고, 9월은 역대 최악의 성과를 기록한 달 중 하나로 꼽혀 시장 경계심이 높아지고 있다.\n\n스포츠에서는 한국 남자농구가 사우디아라비아를 꺾고 3연패를 끊으며 월드컵 예선 최하위에서 탈출했고, 설영우는 분데스리가 데뷔전에서 교체 투입 1분 만에 첫 도움을 기록했다. 신다인은 KLPGA KG 레이디스 오픈에서 2연패를 달성하며 대회 사상 첫 타이틀 방어에 성공했다.",
+    "text": "네팔에서 실종된 한국인 9명을 찾기 위한 수색이 이틀째 계속되는 가운데, 드론까지 동원한 육로 수색이 둔체 일대로 범위를 넓혔으나 아직 실종자 소식은 없다.\n\n조현 외교부 장관이 네팔 외교장관과 직접 통화해 군 협조를 당부했고, 신속대응팀은 이를 바탕으로 수색 범위가 더 확대될 것으로 보고 있다.\n\n국내에서는 주담대 금리가 8%에 육박할 수 있다는 전망이 나오며 경제 불안이 고조됐다. 5년간 대출을 상환해온 차주도 월 부담이 80만 원까지 뛸 수 있다는 경고가 나왔고, 금리인하요구권을 신청해도 은행이 다섯 명 중 네 명을 거절하고 있다는 비판도 제기됐다. 한편 삼성전자와 SK하이닉스의 자사주 매입이 코스피를 6820선에서 지지했다는 분석이 나왔고, 법무부 장관 후보 김승원 의원이 지명 이후에도 법사위 법안소위를 직접 주재해 야당이 이해충돌을 강하게 문제 삼았다.\n\n연예·스포츠 면에서는 굵직한 소식이 잇따랐다. 친일 논란의 배우 하영이 드라마 '중증외상센터'에서 자진 하차했고, 놀란 감독의 '오디세이'는 개봉 27일째 900만을 돌파하며 1000만 카운트다운에 들어갔다. 리오넬 메시가 아르헨티나 대표팀 은퇴를 공식 선언하며 207경기 125골의 마침표를 찍었고, 농구 대표 이현중은 사우디전 승리로 월드컵 본선행을 이끈 뒤 동료들을 향해 직접 쓴소리를 내뱉어 주목받았다.",
     "period": "아침",
-    "generated_at": "2026-09-01 01:18"
+    "generated_at": "2026-09-01 09:26"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "총선 앞 군소정당 창당 러시 · 제주 실종 암매장 사건 경찰이 사인 불명으로 번복 · 트럼프, 한국·나토가 이란 문제 외면했다고 경고",
+      "summary": "네팔 한국인 실종자 육로 수색 이틀째 진행 · 법무장관 후보자 이해충돌 논란 · 트럼프, 한국·나토 이란 문제 비협조 비판",
       "keywords": [
         {
           "rank": 1,
-          "word": "입장",
+          "word": "수색",
           "count": 2,
           "articles": [
             {
-              "title": "조국당, 송영길당, 용혜인당… 총선 노린 ‘떴다당’ 쏟아질 채비",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0FwcnFKTXZjd0ZqTWJSTllwQ2dFRXFwbG9tMzV1V1hmU25LUnpCQktFLVdnQTRxbzdmUFZMX1Q3Wk8xa0R2Tko5RV92N3NMX3pRZW5jMTRZR1R5cHRVcERoNlhmeFpmT0h1eWhsNE5zT3o1d18yNTQ0T1RZUFlRSEpaTTlSUQ?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "다음 총선을 겨냥해 조국당·송영길당·용혜인당 등 신생 소규모 정당들이 잇따라 창당을 준비 중인 것으로 알려졌다. 선거철마다 반짝 등장하는 이른바 '떴다당' 현상이 이번에도 반복되는 양상으로, 정치권 안팎에서 다양한 입장이 충돌하고 있다. 오늘 처음 주목받기 시작한 키워드다.",
-          "headline": "총선 앞 '떴다당' 출범 채비"
-        },
-        {
-          "rank": 2,
-          "word": "부동산",
-          "count": 2,
-          "articles": [
-            {
-              "title": "\"옷 벗고 자고 있는데\" 덜컥 열린 문...동의 없이 온 부동산, 처벌될까 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jUkZVOHpzRHZBUU5YNElFa0oyWlhIeWdVZEprWkRUYmRWSFZrWE8wRllxZEVnanlMNklrazJUUmZyWk1lelRRUXFqc3NhTENjZ29BQkNZNURSSTZwSGR0R19uTDQ0OWd1Njk40gFwQVVfeXFMTkVidUxFZWNadHkxSHo4dUxDV3dibzdTdUVIWEEwN1RqckxUOWdjZkVySkJXTkNtTlJ5cHRheExlUFBldW4ySVN0bXlDZWp2MEJwYlRfWGRNckVPbDFydmo3aDMzMUF2eFR6aWFHWFk1aw?oc=5",
-              "source": "머니투데이"
+              "title": "네팔 신속대응팀 이틀째 육로수색 투입, “네팔 군당국과 협조 중”",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjBGZFkzalVydWFPSFVpQ3BjV00zaFVYUEVwSVdKSl91WmxiSHdtQjJLSThOakVSOWxESWZScjlrYnN0STQzb3ZkUHRWQ01rTmdQaHdfaXdWa282Z0c2NGY5S08yUkJTTElDaWRGNXI2dkV5MEk3aW5RMHBuRnI0LTJEcmZXb1hUbXZRQ1ktS1Rjbld6SXo0Ui1uVWZfbm44UW0yTGJ0QzNIQdIBX0FVX3lxTE55UTNuc1I0QW1TTWh0UUktalpSZC14RGFTdXJXanE1NTFkdV9sLTFvOEVXNGFBNFRBLXV2ZUROMnpsRm1uMWtPQnVhUENvSlg2eXFQdkREbUtNSTl6T1Zz?oc=5",
+              "source": "khan.co.kr"
             },
             {
-              "title": "부동산·세제, 그대로 간다",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DaXdyVjZqVGFjUk9POGN1RTBLbDNZTUs0dEZYc1dZTG8zejNScEEyam8xMjJkaWNXVnhaX0FwbTlHajgzWmhjQXh5cjRaaDBxdDd3TnZ3?oc=5",
-              "source": "중앙일보"
+              "title": "네팔군 협조로 늘어난 육로 수색 범위…드론까지 띄웠지만 한국인 실종자 소식은 아직",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pNmppN1R5Y18tdTI5WkRrbGV5RnBZVEloLU0zLTl6WkFpU2FhYmktX2ZSekx1MFliblNTWnpOX1M0eG50S25fMm9uVDVJQUtJQjRTOQ?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "오늘부터 100일간 정기국회…여야, 부동산·예산 전면전 예고",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04NXRQdXZvdzBJbFpfb1VxZ2JMNllqdDZNZFY1dHpyWmIyLVZGSjlxM1JabVUycUlkazU3aHhKZUdVZXVtYUdVajd2YWE0QlE?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "오늘 개회한 100일 일정의 정기국회에서 여야가 부동산 정책과 예산을 놓고 전면 충돌할 것으로 예고됐다. 정부는 현행 부동산·세제 기조를 유지하겠다는 방침이어서 야권과의 마찰이 불가피해 보인다. 한편 동의 없이 임차인 주거에 무단 출입한 부동산 중개인의 처벌 가능 여부도 관심을 모으고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "정기국회, 부동산·예산 여야 전면전"
-        },
-        {
-          "rank": 3,
-          "word": "추정",
-          "count": 2,
-          "articles": [
-            {
-              "title": "자살 추정이라더니 \"사인 불명\"‥의문 자초한 경찰",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtSERzVEx6a1dqbWFJblprZmJXTTZlRVZaWndtNzJzVjhWOGZtTkw2ZG05UGFTYWJRb3ozQ1o2cUdqOXdPb1ZPQm80NFQtUXdtSUhKUjNRMXdSbE4zTEJUNlVlcnN3Y2xPbWtOOVN2UnNXSW5GS1ZGeNIBeEFVX3lxTFBTSklhQUotRUQyZnowS0hoeHBzMTI1SWdjWE5pYmdyMVE1QkU3N09JU2ZSYXJkNjYxdkdsX3FpMWd0bWdzREZURnp2MUFMZnB4aDRhc04tdHRmbW5hLTVNMFZsT1Q5WEViTWc4Ri14bU5ZUWtUeW1peA?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "경찰, 자살 추정이라더니 \"부패로 사인 불명\"…입장 신중(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VX09nVXo1OFVLaDBHdDhtQ0U1WFF5YlNGUG5VVEZQQlJlbUcxbWU1alZ6MVNReHc4cGRHQXhkeTVrSE4wYWZ3OUxUY1FEbXNXNzZvNU1ONDZGam02eHVBTNIBYEFVX3lxTE5VX09nVXo1OFVLaDBHdDhtQ0U1WFF5YlNGUG5VVEZQQlJlbUcxbWU1alZ6MVNReHc4cGRHQXhkeTVrSE4wYWZ3OUxUY1FEbXNXNzZvNU1ONDZGam02eHVBTA?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "‘목맴사 추정’ 성급했던 경찰 발표…한 주 만에 “부패로 사인 불명”",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MVnpCZmY4NTNwTnhmanZMTE9zR1E4OHZ4OHMyeWlwZ0xWejVkc1UzS2c5T2tXM0V6aFlRdnFQcGVWWlp1LUkzN3lwU2JzcThQWGVIV25uX0RnYVZhajRz?oc=5",
+              "title": "육로 수색팀, 사고 현장 ‘둔체’도 수색…“네팔군 협조로 드론 띄워”",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uMjhmMHJ3aTRpSk9SeVhpc1F4MlliUDBLWV8waC1Md3BscEVQZWpvWUFxQTZtZWx5UkVGeVV3N1VZbDlRdVRUdlRObGdmOWNwMVM2ckVHUjR6OGI2M09pbmhkT1hWOFR0ZElsTUQ2Wk0xdw?oc=5",
               "source": "한겨레"
             }
           ],
-          "description": "제주 실종·암매장 사건에서 경찰이 초기에 '목맴 자살 추정'으로 발표했다가 일주일 만에 '시신 부패로 사인 불명'으로 입장을 번복했다. 성급한 초기 발표가 오히려 의혹을 키웠다는 비판이 나오고 있으며, 타살 가능성도 배제할 수 없는 상황이다. 경찰의 섣부른 추정 발표가 수사 신뢰도를 떨어뜨렸다는 지적이 잇따른다.",
-          "headline": "경찰 '자살 추정' 뒤집혀 '사인 불명'"
+          "description": "네팔 현지에서 한국인 실종자를 찾기 위한 육로 수색이 이틀째 이어지고 있다. 정부 신속대응팀이 네팔 군당국의 협조를 받아 드론까지 띄우며 수색 범위를 넓혔고, 사고 현장인 '둔체' 일대까지 수색을 진행했다. 그러나 오늘까지 실종자 소식은 아직 전해지지 않은 상황이다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "한국인 실종자 수색, 드론까지 동원"
         },
         {
-          "rank": 4,
-          "word": "경찰",
+          "rank": 2,
+          "word": "협조",
           "count": 2,
           "articles": [
             {
-              "title": "‘제주 실종 암장’ 타살 거리 두던 경찰…1주 만 “시신 부패해 몰라” 뒤집었다",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90ckJlYWV2bmM3V1RmUjNwTW1DVUtVMk9sYUxyR3pTQkdFeVhueGZ0S0tWNUxUeTBwUm9Wb3Uzdmp5dlBFN0F6X1R3aFNXUXc?oc=5",
-              "source": "v.daum.net"
+              "title": "\"네팔 군당국과 협조 중, 며칠간 숙영할지 상황 보고 판단\"···정부 신속대응팀, 이틀째 육로수색 투입",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81MUxEOTduSFhGQ05WMzkwRlJtZFl1UXE0TUFYMDZHaVI3OFZuTUdESEVzVU9VNnhoMFA0V3NwZ1lORWxNZkt2T0lzTW5LWkM4dGljVVk2UUZnbGxfMGVsdA?oc=5",
+              "source": "네이트"
             },
             {
-              "title": "경찰개혁 토론회 경찰 직협 \"고위직 감찰부터 제대로\" 작심 발언",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zcWprSDNFUjNYdDBCcmlKa2ZsUmlrajdNbnQ0dmVsdlR1aklnc0Nqa2FuX2xPYzUxTG0wSTVub2JiMkVoQngxeHdMVU52S0FTbzFaV00xUDltRFhZLWdZOdIBeEFVX3lxTE9icG9CamstUjRlUklXNUJqS0gzaGIwOVNhVUVjR2JVcG9Bc0dMZkNaVWJCNXBCTkJCeDRuRGllU182UzlNSWZCNHpFRjRUcksyYWRNMmNhWGNCM0F6ZHRaSzFZWHg3dUYzcVl1aGExUFJfaWpvaTVjcQ?oc=5",
+              "title": "신속대응팀 \"육로 수색에 네팔軍 협력…수색범위 넓어질 듯\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NaDQtekRCWThaTFVsdXBSeXlxNjNfMllDTksyWDQ5VnVnTTRIbXNuWmFhT3QyNTh1RVk5UHBxRGZCVHBrRnZ6Q1R0UHI5N2hNdWR4WUhGY0xmYjNJcFNKY3dwekNBYUpId3pBdWZqcENSMDQweHF5dtIBeEFVX3lxTE9NaDQtekRCWThaTFVsdXBSeXlxNjNfMllDTksyWDQ5VnVnTTRIbXNuWmFhT3QyNTh1RVk5UHBxRGZCVHBrRnZ6Q1R0UHI5N2hNdWR4WUhGY0xmYjNJcFNKY3dwekNBYUpId3pBdWZqcENSMDQweHF5dg?oc=5",
               "source": "뉴시스"
             },
             {
-              "title": "'공룡경찰' 어떻게 견제할까…\"외부인사 영입 등으로 순혈주의 깨야\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13SWFySHdEbkNOUGp6cW9Nb2pUNS05QklDcC1YSmtMRHQxWmRaWUlDQzI1WmxyR3NyS3VVakRPbGs4LW5rcF92dHFTcTI3UGlEN2VkcFBnaW9mT2fSAWBBVV95cUxNN1ZvVzQ3X1lTRWRSNHRNMXR4ZnI3TzlYSUhsX3g2RkxoQzRVb1hwcDZIRFpfWjQ1Z05heXZIVFktX2pOc0tvR2h3a1NhSjhjckF6YVRZa0lWMXlrWU5tdTY?oc=5",
-              "source": "연합뉴스"
+              "title": "조현, 네팔 외교장관과 전화 통화 “실종 한국인 9명 수색 지원…네팔군 협조 당부”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJUFRhNW5EeThta2ctZFRkbXV0ZmY4aml4Y25jV2puRkhXVU5RZGpQdXlrS0ZLck1ZS3hScGZlWVpzVGNHUnFDeDBXQjFOdVdzUVVrMFZkb3FBeG96dFHSAWNBVV95cUxPRHRIYXlNcUFYdUFKaEVHcllseXVtZjdWMW54dnJCdHpGMXdYMGhlT1YwRDVEdUgxNWthTm1VZnR0bjBkcU1VYjVrb1NGLXo0Y3hYMGoxTS1MU2R1OWVNWE1uN1E?oc=5",
+              "source": "채널A"
             }
           ],
-          "description": "제주 암매장 사건에서 경찰이 초기 발표를 뒤집으며 신뢰성 논란이 커진 가운데, 경찰 개혁을 주제로 한 토론회도 열려 고위직 감찰 강화와 순혈주의 타파 요구가 쏟아졌다. 경찰 직협은 '고위직 감찰부터 제대로 해야 한다'며 작심 발언을 내놓았고, 전문가들은 외부 인사 영입 등으로 '공룡경찰'을 견제해야 한다고 지적했다. 오늘 처음 등장한 키워드다.",
-          "headline": "제주 사건 번복에 경찰 개혁론 재점화"
+          "description": "네팔에서 실종된 한국인 9명을 찾기 위해 네팔 군당국의 협조가 본격화되고 있다. 조현 외교부 장관이 네팔 외교장관과 직접 전화 통화를 갖고 실종자 수색 지원과 네팔군 협조를 당부했으며, 신속대응팀은 이 협력을 바탕으로 수색 범위가 더 넓어질 것으로 내다보고 있다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "네팔군 협조로 한국인 수색 범위 확대"
+        },
+        {
+          "rank": 3,
+          "word": "반발",
+          "count": 2,
+          "articles": [
+            {
+              "title": "법사소위 진행한 법무장관 후보… 野 \"이해 충돌\" 반발",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUY5NS1BTmdicjBmcy1SbFV0SlVGNUwydHZ4X3ZwTng4VHM4ZDY0MXIxd0ltNHFVdXFzeWdKalJSUDd3V2ZfLWZNR2lmTHNKSTBBbHpwWC0tLWhEd3JGcXV3NTlIc1d0QWlHc2FoNlExdUJjUE9OUFdIbHUwVzFGcW93YzdGS1c5aFZ3ZVhieEk?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "법무장관 후보자 된 김승원, 법안소위 진행…野 \"이해충돌 우려\" 반발",
+              "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRVRTZm9tV3pxYVBiRGtyby1XdTBjXzRKRzZnbGZUajVoNU5hcTkxQVRhdEtVWS1Gdklyd0I4NEExTWlhanBrQmxYbUp3SEtjVlNSY1Z0bW05XzZUQ1VpZFlhYk4zdG5KMFRvSnZDc3FGZnhRRjdiNnNaRVVLYl96T252S0h4X0hBOXNYUUpRTlFRQmp5ZHRmUnBGNnMzbE8xMmV5OXIzQy1rb3VyTHlBMzZIay1hNTU4alpKeUV4YlZocVg5dzlwZG1Qd2ZCUjNSX2FsX1JkZi1kd3MwVHU5NWs1VjFrcjloS19Td0lEd2UxRjB6OTZzOFFPQVpmWHU0aUliS2pCLW9BYzVpekZHY2JPejJQbDQ?oc=5",
+              "source": "데일리안"
+            },
+            {
+              "title": "법무장관 지명 김승원 법사1소위 주재…野 \"이해충돌\" 반발",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCSHV6YWgzVFdvdXdGTVBYVTVBakhfZjBhTktyOHdZbG40ZG83WDl2WmVTd3FJeUpFZnJLaE9IdktUUGd5cjNBblUwejFKVHRQOWpiLTNmSUhpUdIBX0FVX3lxTE1DeVg4bUJQSGR5M2pDOG8tNjNaZUFMZmozeWhzMEh6RnhXUzh3dm1BR211WGtDRDR4dVZFandxYmhEam1ybFJWTWtSeDNWelFTRUdqVmFqUWlIaTg2QlQw?oc=5",
+              "source": "news1.kr"
+            }
+          ],
+          "description": "법무부 장관 후보로 지명된 김승원 의원이 지명 이후에도 국회 법제사법위원회 법안소위원장으로서 소위를 직접 주재해 야당의 거센 반발을 샀다. 야당은 법무부 장관 후보자 신분으로 관련 법안을 다루는 것은 명백한 이해충돌이라며 문제를 제기했다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "野, 김승원 법사소위 주재에 이해충돌 반발"
+        },
+        {
+          "rank": 4,
+          "word": "유지",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'사관학교 폐교 저지 국민연대 발대식' 발언하는 장동혁 대표",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Oc0ZOdG5CNVhNMEp6Z0VpOFdqa00tMG0yQVVfbGRIblk5anEzN0ozS3F2WHlsM0dLOWNEQXl5ZlRzdXgza3kxR1NPbE9oSDNpckxBR3FDd1Azb3Y4OGN3VXVhU0ZBajR0cXJBbk5n?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "2025 회계연도 결산 처리하는 진성준 국방위원장",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52TDdOMHlMRzgyMTUtRG5adkRpMGYwQzJsUjAtVkxkX2Y1MlBSalF1RlZndTRlR2pwaVBtX2NoY0NDOExUcVFkUnRVcTM5LV9QSGg2bFZCdWRCMkRyOGpqaDRLZ3FxWm5aUlI0eUdR?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "I-5권. 『괴물, 용혜』 김진영",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBjWWxaeEVwQl96Qk9BcVlMRjZxYkFRdENVSVJ2X0FtbTIzUjc3a1RhOVZpdGR1U3JOWFhQVFo3NnNHdlc5dUE?oc=5",
+              "source": "브런치"
+            }
+          ],
+          "description": "오늘 '유지' 키워드와 연결된 기사들은 사관학교 폐교 저지 국민연대 발대식, 2025 회계연도 결산 처리 등 여러 정치·사회 현안을 다루고 있다. 단일한 사건보다 복수의 이슈가 혼재해 있어 특정 트리거를 특정하기 어렵다.",
+          "headline": "사관학교 폐교 저지·결산 처리 등 정치 현안"
         },
         {
           "rank": 5,
@@ -102,204 +112,252 @@
           "count": 2,
           "articles": [
             {
-              "title": "트럼프 \"한국과 나토, 이란 문제 안 도와‥기억해 둘 것\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95eXhVNktXUVhRMS1wT25BREh1WktyaGRKZDlGM1praDR0RDRmN05lSnZVclpEMWt5N1hVa3Y1XzdpcFJnT3lTYndQX19na2pMRFcyRzhHT0w0cmpCVURsUzB3SFdmbnJxWjdkV01vVFhoVVJ00gF0QVVfeXFMT1VxWXBkdS1tY0pSVi16OGJ2NmNQc0MyQmNYYmdQTHlMSUlUWTJZbzZobmN2Q1VYQ3p3NTlYZTdEcHFXdFVPTDkzUnpZdFA5UE5QZ1VVcFN3SVV6V2NlZUlrM1BPVExsZEtaR05BN1RsbExCb3Y?oc=5",
-              "source": "MBC 뉴스"
+              "title": "트럼프 \"한국과 나토, 이란 문제 안 도와…기억해 둘 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYaU05aWt4eUVHc3BsWTBsSHdKalYwTkxnQ2FDNDctRWFReHR1ajJUR3JpTEsxYzlodjk4bFItbGZyZFRXVkhwbFZCUHAxak1DaU5Nd3JGQTkxU2vSAWBBVV95cUxOdlk0ZmFhYlVPMEpfajQ1VnVLWTJrVzdKdURDa2pzV18tWlZ6cHk5enFiR3podm9qR0R0ZVlXdDRLZkhEOUZXeTRJd3pKcWE4QW5lVjZrVHU0RzRaOW1WWGY?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "\"트럼프에게 보내는 메시지\"‥정조준 '쾅' 박살내더니",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15U3V0SnBQOE5wNTFicjJlNGpCVVNoRXhIRlZJZmZrenktbklVQmg1b0RRaXVNcTJKQ2k5TS1aU2pzNFYzRkZNdUZTRkE5bVBqNjh5QUwwNVR2dTdBN2tEejdBY2Jub1QyU19NZEZWN0RjY25X0gF0QVVfeXFMTVdfSENvUm5ueHpKN2YtWGNVaGtodHphaTVtbzVxN0ZFbHRkY2Zuc3Q3c3NCQ3gwNUdwQkw1Nk5IWWlDLTB1b0ZfSzRjTVpnb0dyMDN3ODh4Q0hnS3YwV3RoVWtrN194anprUGxzXzZ0NXpURGI?oc=5",
-              "source": "MBC 뉴스"
+              "title": "트럼프의 ‘3선’ 욕망, 한풀 꺾였나…‘퇴임 후 삶’ 언급 잦아졌다",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FTjdBZFJwVDJ3YW5ReXFRbXo5Y1JuRi0tNDY5OWMtN05PbkFFdGprNnlqeHU2TlZaY0RlRmU1X3YxSWo2M1JkRUp3b2lNRkdQZ2VKblc2WHZWSS1lWkJpbHNPbkVndjFzaTZ5UnFpQQ?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "워시 “물가 우려 수준”… ‘금리 인하’ 트럼프 요구에도 인상 의지",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ueHpyUGVpQjZVX0VQd3NXTmR3NkwweC1aWlpMSVE2RGV4a09saENDNThzdzZiQXNXMWVCbXNRWHBwQ0pRMFlEVHZ0WVJKcHRTLWtqVGJadkZRT2pocWQySldyWGQ2N3F5V1Z3TWNSN29ha0nSAWZBVV95cUxQX2RlV1JPMGNzZy1BZXhNVDVlaXRqRFMzRU5iSk9aM0dQT3JmVDMzQ29lUVJOWERCcTdJQ1dxMktodmhOSlphRy1GbGVLbEZUTTNJMnBZX2YxX3VpVmFiVnRyeUZ3OXc?oc=5",
-              "source": "동아일보"
+              "title": "트럼프 \"韓에 도움 요청, 거절당해\"...청와대 \"협력방안 논의\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1ZVlfc2t0NGFtbmhWdVVDcmRYN0IycVhYaG9WcGQ0UmFUWkc1SGJxQ1NkRjc0LWVIU0xJLXZDRmhSZ3o4MFVqRDlGd09iWXM?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "트럼프 대통령이 한국과 나토가 이란 문제에 협조하지 않는다며 '기억해 둘 것'이라고 경고해 외교적 긴장이 고조되고 있다. 트럼프를 겨냥한 시위 영상도 확산되며 반트럼프 정서가 국제적으로 표출되는 분위기다. 한편 연준의 워시 이사는 물가 우려를 이유로 금리 인하를 요구하는 트럼프 압박에도 인상 의지를 내비쳐, 백악관과 연준의 갈등도 주목받고 있다.",
-          "headline": "트럼프, 한국·나토 이란 비협조 경고"
+          "description": "도널드 트럼프 미국 대통령이 한국과 나토가 이란 문제에 협력하지 않았다고 공개 불만을 드러내며 \"기억해 둘 것\"이라고 경고해 파장이 일고 있다. 트럼프는 한국에 도움을 요청했다가 거절당했다고도 언급했으며, 청와대 측은 협력 방안을 논의하고 있다고 밝혔다. 한편 트럼프의 퇴임 후 삶에 대한 언급이 잦아지면서 3선 욕망이 한풀 꺾인 것 아니냐는 분석도 나오고 있다.",
+          "headline": "트럼프 \"한국, 이란 문제 거절…기억해 둘 것\""
         }
       ]
     },
     "경제": {
-      "summary": "삼전닉스 자사주 매입으로 코스피 급락 방어 · 금리 인상 우려 속 금값 하락 · 주택·대출 시장 불안 지속",
+      "summary": "주담대 금리 인상·대출 부담 가중 우려 속, 삼전닉스 자사주 매입으로 코스피 방어 · 서울 전셋값 역대 최고치 경신",
       "keywords": [
         {
           "rank": 1,
-          "word": "코스피",
-          "count": 5,
+          "word": "금리",
+          "count": 8,
           "articles": [
             {
-              "title": "삼전닉스 '자사주 방어'…코스피 3% 급락 딛고 보합권 [장중시황]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5La2lZMVFMVTh0bmU1Q1FuZWt5RGYtdDU4OGgtQXhUSzctX3QxMzg2VkEzQTNPcEdHUVNRMHdCTy0xWDhVVVJJZEs1S2xuNkU?oc=5",
+              "title": "\"5년간 빚 갚았는데도\" 월 부담 80만원 뛴다?...주담대 '금리 폭탄' 우려 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QOWw5SzhIdTAzLW9zMmNZbDVZZ2VlbVZpMFhYck9jRE9WaWtZY25mSWtVU1Q5b3hZVkxzcWFpSm44R2tyMFcxZE1mSTliOF82MHhXTVdFQnlmcWdxTGR4TTlUQUxjQ3ZjaUlV0gFwQVVfeXFMTmhVZ0ZBSVF3UFd5UkJTV1BOendCVHdVbkhmSWtiSzNLcXhGRF9NNUlZbEhpRURSQU44ZjNqRlhQQUYwbU9VdTQ5Ui01Vnd1MVZRcHZEa0dFYTZXV2RHYnhtLW40aWU0dUxLcU12Ulk1Qg?oc=5",
+              "source": "mt.co.kr"
+            },
+            {
+              "title": "대출금리 더 오른다…10년 이상 장기·고정 주담대 재추진",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wS0dMZTZGdXZhblFGcEl6d3E4NnByZmNTRV9OZVBPd3FJXy1fcXA4VnA0NkIxbGZ5N1Fjd3lPd0VITzY5T3JNcEQ5Z3d1UEVmd29INkxRU0VFNnBWTnItZm1R0gFnQVVfeXFMTTE1LVBOYUdJbWtwei1VVWZ6N0hEaThyZHBBcHBIc0hFSmtyOWczdVZzcVBhTHRFNVRtQUdXXzZneFdZS1JhZjdJZVJRYzBaMlBTbjN4ajVKcm45cW5PRHZoRkhlT1pQZw?oc=5",
+              "source": "news1.kr"
+            },
+            {
+              "title": "고금리에 차주 허리 휘는데...은행, 금리인하요구 다섯 명 중 네 명에 ‘퇴짜’",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yZTltdnZEYXBGdjdaM3pxd2Z1b2I1UDUtckprWnF3emh6NUt6N0UzcWFyQU1RZkIxemVsc1JvMXJhNUwzamRSUzVnMHBKZEU?oc=5",
               "source": "v.daum.net"
-            },
-            {
-              "title": "9월엔 쉬어가나…코스피, 역대 최악의 달 중 하나",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmM4dGlMWE9aeDBjdzFBWlluSWpxa0c2VU13bnZnNGVaZVQ3bk9UaDRpMzFYSk5ETldHUmVsZTN1VVNoMkdyUERQSDZWczRDSlUtZi1jSG1mcVFBbVRVS1pFV09leklhazM5eVdVd1NDTnZBQl9qZ3lGNE5ZNWtUYg?oc=5",
-              "source": "edaily.co.kr"
-            },
-            {
-              "title": "초유의 개인·기관·외국인 동반 순매도…그런데 코스피는 올랐다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Fb25pYzRTcDgxRzFKLS1HUEhIbmJJVVh0ZnhLQXdtN3BUeEp6QXpTaDZuUE1qYVdwQnBsUk9rTW9wbHNqM28wYVJULWMtSG44aThqWnA2czFuUQ?oc=5",
-              "source": "한국경제"
             }
           ],
-          "description": "코스피가 장중 3% 급락하는 큰 충격을 받았지만, 삼성전자·SK하이닉스의 자사주 매입이 받치며 결국 보합권으로 마감했다. 개인·기관·외국인이 동반 순매도에 나서는 초유의 상황에서도 지수가 버텨낸 점이 눈길을 끈다. 한편 9월은 역대 최악의 성과를 기록한 달 중 하나로 꼽혀, 시장의 경계심이 높아지고 있다.",
-          "headline": "코스피 3% 급락 후 보합권 마감"
+          "description": "5년간 빚을 갚아온 차주도 월 상환 부담이 80만원까지 뛸 수 있다는 경고가 나오면서 주담대 금리 폭탄 우려가 확산되고 있다. 대출금리가 추가 상승할 것으로 전망되는 가운데, 10년 이상 장기·고정형 주담대 재추진 소식도 전해졌다. 고금리에 허리가 휘는 차주들이 금리인하요구권을 신청해도 은행이 다섯 명 중 네 명을 거절하고 있어 실질적인 구제책이 부족하다는 비판도 제기된다. 금리 키워드는 어제 5위에서 오늘 1위로 급상승했다.",
+          "headline": "주담대 금리 폭탄, 월 부담 80만원 급증 우려"
         },
         {
           "rank": 2,
-          "word": "삼전닉스",
+          "word": "대출",
           "count": 5,
           "articles": [
             {
-              "title": "코스피 6820.02 마감…삼전닉스 '자사주 매입'이 받쳤다 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pZHItNXJ4Q1JpQmpvbkVwel8wdHBqeERDMVdINzlGNG5WVkU4eHl5MHZqdS1iaUFnS1RHNjlvM3FncVNWSzVzWFpJMkh6SkUtdHNhdTVpWTRQWEwtaVFDYzVjX0ZCaGtm0gFuQVVfeXFMTUZvRkxJYWNPRVVReFdHOGdmV3plRjNjZ3VlM3RpeWQxc1RwbTdhM3pSeS1LbDBYdTE0Nnc4TDFxSmtwYTM2OWU5Q1JERzRKRjBhelpJb0hocDBhWUFaZ0tER01Fd1NFcFFnZy15MGc?oc=5",
-              "source": "머니투데이"
+              "title": "'주담대 금리 8%' 시대 오나…대출문 좁은데, 이자부담 '눈덩이' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GWWx1UlZCb1hybHdOVk9wa1k1Nk16UzZXVFVJOG1TSi1wWE0yUmVXc21OWGJ2TzM0TWRTMnNkYlN4VFRpNG1KUHBLeEZPLXozaFpnVl9zZV9hYW1RTEs0enZKUlFrLUo5YlpZ0gFwQVVfeXFMUEVnZlpSMXROR0NsN3BWZFVzX2x5dDRoS01vV21BdF9hNEFxYkVzWFV5M25HbEFWZTVBRXljOGNKVVg2SUxIYmF1VkROcTN4RHViTUU1Qkw5OG1YMXJnX0EtS3RqeDcyWktZaU8tekhFZg?oc=5",
+              "source": "mt.co.kr"
             },
             {
-              "title": "삼전닉스 핵심 사장보다 더 ‘주식 부자’인 깜짝 2인은?",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTJVamNMSUFublpYcXF4SU9vZ3dxTUY5TUxxMDhvMzdxLVJDenFZWTBYRWpGNXA3dEpuUW1XbWVjUUlTVkYzNGJ6LUVCSUxITVVNdlF6TzJDQjBDVUhWZG1RUmFqUFFuSFJzMHZzenBCUUd3M25Fd29UVlNLTFQ0Z3dsMkJhR21NT20zZkJlWQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "“고점 물린 개미들 구하러 온다”…‘삼전닉스’ 주가 반등 신호탄, 뭐길래",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FdC1nOS0xaUJPcHpRWkYwbWNoalBDek9ONUxVcmo5cVhfM2laaXdFTEJOVk4wZjFkZTJPcV9td1phMkxSYWEwZGR4YVhESEU?oc=5",
+              "title": "대구·경북 대출 증가폭 반토막…돈은 ‘집’으로 흘렀다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53OHVoZjN4d1lMYzlfdlk5VElqWTJRdktWTFNreTFYZmVlT1g5d1NHTklkXzNDZ3dMTlBfLTNVTDBxaFJqdXVSbVFBTHNQX28?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "속수무책 당했다…1000억 대출사기에 혼쭐 난 은행권",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yQ2NJLUd1VDZ0ekVtQi1mVmR0bEZPb2FnclhBUmpHSVdZZ056RlhDTWVHRDZ4Wi1zNmliaHcxNlRDdURmMGUzdmRFQndZV1RGQlVPSm5DX09lQQ?oc=5",
+              "source": "한국경제"
             }
           ],
-          "description": "삼성전자와 SK하이닉스를 합쳐 부르는 신조어 '삼전닉스'가 오늘 처음 화제 키워드로 등장했다. 두 회사의 자사주 매입이 장중 3% 급락하던 코스피를 보합권까지 끌어올린 원동력으로 평가받으며 주목받고 있다. 주가 반등 신호탄이 될 수 있다는 기대와 함께, 핵심 사장보다 주식 보유액이 많은 임직원이 누구인지에도 관심이 쏠리고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "삼전닉스 자사주 매입, 코스피 급락 방어"
+          "description": "주담대 금리가 8%에 육박할 수 있다는 전망이 나오며 대출 문턱은 높아지는 반면 이자 부담은 눈덩이처럼 불어나는 상황이 이슈가 되고 있다. 대구·경북에서는 대출 증가폭이 반토막 나고 자금이 부동산으로 집중되는 흐름도 포착됐다. 한편 1000억원 규모의 대출 사기 피해를 입은 은행권 사례도 보도되며 대출 리스크 관리에 대한 경각심도 커지고 있다.",
+          "headline": "주담대 금리 8% 시대 오나…이자 부담 눈덩이"
         },
         {
           "rank": 3,
-          "word": "금리",
+          "word": "삼전닉스",
           "count": 4,
           "articles": [
             {
-              "title": "치솟던 금값, 젝슨홀에서 꺾였다…미 재무부와 연준의 금리전쟁",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zcE5kbVV6eUlrclQ1NjI2aS1JYW1FMjZQamE4NWhKeWJlM3YxbFBsYXlrcERrZk10MWN3NTE5dENTdDcycjh0aUlXTjl4QWFmc1R0RFN3?oc=5",
-              "source": "zdnet.co.kr"
+              "title": "삼전닉스 말고 또 있다…큰손이 찍은 韓 '잠자는 호랑이'",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02ME16Rkdid3J4cjFLNDZ3THQ3Tkk5Z0ZISldkZ1ExTjJtb3JId3ZGU25xekZtNEZwMVRUVEkzRlN5c2c3SWxSZElPdWlXNFhwcHNIOE1vTVZFQQ?oc=5",
+              "source": "한국경제"
             },
             {
-              "title": "\"금값 또 꺾이나\"…9월 美 금리인상 확률 63%, 국내 시장 영향은",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NRkFCcG1BZVppMkJjbUFETzlEdFFDcFVrZzY3bVpRd3RnY3R0b25WbUprWE5qcktWU3JPTEY3bmpSQ3d0dldPY1BGVTVFWWM?oc=5",
+              "title": "코스피 6820.02 마감…삼전닉스 '자사주 매입'이 받쳤다 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pZHItNXJ4Q1JpQmpvbkVwel8wdHBqeERDMVdINzlGNG5WVkU4eHl5MHZqdS1iaUFnS1RHNjlvM3FncVNWSzVzWFpJMkh6SkUtdHNhdTVpWTRQWEwtaVFDYzVjX0ZCaGtm0gFuQVVfeXFMTUZvRkxJYWNPRVVReFdHOGdmV3plRjNjZ3VlM3RpeWQxc1RwbTdhM3pSeS1LbDBYdTE0Nnc4TDFxSmtwYTM2OWU5Q1JERzRKRjBhelpJb0hocDBhWUFaZ0tER01Fd1NFcFFnZy15MGc?oc=5",
+              "source": "mt.co.kr"
+            },
+            {
+              "title": "우리는 ‘레버리지의 민족’이었나···삼전닉스 레버리지 규제하자 다른 레버리지로 향한 개미들",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nWk1TV255M1FFUDRXTHc5dkZUSzhwYXRKWDVuYkdhLThIR0hiNjdqUmFHM0xmOWp2S21JMDJDYTRmN053RTBpZFN0RUhmVTQ?oc=5",
               "source": "v.daum.net"
-            },
-            {
-              "title": "연준 금리 인상 우려로 금 3% 급락…아시아 금광주 하락",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13YlE2MUlMd3ItZEdhU25UVWVBNUlMT3pjTGFxNFNVVFdNMndQM1pIZTFWSnFiZDRJZVB4NWdMa1UzaURFRThNempucHV2cTRTd29iVnpHMEJaRlVjV2xIeFdVeWJLSV9kZ3hTSk55UUE?oc=5",
-              "source": "Investing.com 한국어"
             }
           ],
-          "description": "잭슨홀 회의를 계기로 미국 연준의 금리 인상 우려가 다시 커지면서 금값이 3% 급락했다. 9월 금리 인상 확률이 63%까지 치솟으며 아시아 금광주도 동반 하락했고, 국내 시장에 미칠 영향에도 관심이 집중되고 있다. 어제 5위에서 오늘 3위로 올라섰다.",
-          "headline": "美 금리 인상 우려에 금값 3% 급락"
+          "description": "'삼전닉스'는 삼성전자와 SK하이닉스를 묶어 부르는 신조어로, 오늘 처음 화제 키워드로 등장했다. 삼성전자와 SK하이닉스의 자사주 매입이 코스피를 6820선에서 받쳐냈다는 분석이 나오며 주목을 받고 있다. 한편 삼전닉스 레버리지 상품에 규제가 가해지자 개인 투자자들이 다른 레버리지 상품으로 이동하는 현상도 포착됐고, 기관 큰손들이 삼전닉스 외에 또 다른 국내 저평가 종목을 주목한다는 보도도 이어졌다.",
+          "headline": "삼전닉스 자사주 매입, 코스피 지지"
         },
         {
           "rank": 4,
-          "word": "주택",
+          "word": "외국인",
           "count": 4,
           "articles": [
             {
-              "title": "이 대통령 ‘주택가격 폭락’ 언급에 오세훈 시장 “여전히 현실 몰라”",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00TmpkYnBWemk3S0ZoS1N1LTZ3SlFVMWM0eGlSMHNtU01rMldvRDFITGFGa2l4c1djRUlyenJPQmpIbFgzRk1KYUdmNW9PRndlV3fSAVNBVV95cUxNQk9xOTNIUU1qS29ldEN2aEZpcXVUWG54bEQxR19jb3ZITHQ0N1lPNW15VDBjRFhQcnFycE9VOVREeFM0anZOY2Y1R2VjSDItTjNXRQ?oc=5",
-              "source": "sedaily.com"
-            },
-            {
-              "title": "PF 자금 숨통 트인다… 주택금융공사, 보증비율 100% 확대",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiazNoVm5pLUFqTlBMNUlWbWdmLTNmVEh4WkVSTnBKZzFnZlpuQU15UVNoWGlST0J3dGN6bzA0bEo0QXh6NjFXdENmM2FaNXUxTElqd2R0SUt0bGJsU2tTMQ?oc=5",
+              "title": "'추납 논란'에 발칵…그래도 \"보험료 낸 외국인 더 비싼 병원비 물릴 수 없다\" 선 그은 국민연금",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ea084N01TZ3Y1WGQyNVBsT3dnbUxLVUhkTGczS3ltS1FBSGxFQ2lIdTVWX0pKb1lDVHFZbS1rWG42Y2k4MHA4ajVUbTl2bWR2R29VTkZ4dHctb3BTQmxoNQ?oc=5",
               "source": "아시아경제"
             },
             {
-              "title": "가계대출은 조이고 PF는 풀고…은행권, 주택공급 확대 속 '건전성 시험대'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoY3JWQTBkQWhZVmZ5X3dmaDBxY2RJMVlQOVhrR2Rkbmp1cU9ndGY0c3V1cV9VbEhnYU1fdmRFcDd5OGwyOEdCSnBwLUlYTDQ?oc=5",
+              "title": "양구군, 공공형 외국인 계절근로자 21명 입국…농번기 인력 수요 대응",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HTWExVWhPWEdMcUk4c1haU21wUldJMUhIejhTMkxpRVdiTndkdmJLbE5CMDVfSkRpSmp0VFVSRHpfOWNBOUpsdXliYlNNVXZV?oc=5",
+              "source": "문화일보"
+            },
+            {
+              "title": "“대구 3위 건설사도 무너졌다”…현장 인력 3명 중 1명은 외국인 [잇슈 머니]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xYWticS02OU1FSlE0NnZQalM1cHU4Yk9SbHFEMl8wMUtuQURPTEVxWmxVdVZfRHNiU3hiUy0tbjlGUnBxbjJ2Q19PLXN6NTQ?oc=5",
               "source": "v.daum.net"
             }
           ],
-          "description": "이 대통령이 '주택가격 폭락'을 언급하자 오세훈 서울시장이 \"여전히 현실을 모른다\"고 정면 반박하며 파장이 일고 있다. 한편 정부는 주택 공급 확대를 위해 주택금융공사의 PF 보증 비율을 100%로 확대해 숨통을 틔우는 동시에, 은행권은 가계대출은 조이고 PF는 푸는 이중 과제 속에서 건전성 관리 시험대에 올랐다.",
-          "headline": "이 대통령 '주택가격 폭락' 언급 파장"
+          "description": "오늘 외국인 관련 뉴스는 건강보험, 노동, 건설 현장 등 여러 분야에 걸쳐 쏟아졌다. 추납 논란으로 외국인 건강보험 적용 형평성 문제가 불거진 가운데, 국민연금은 보험료를 납부한 외국인에게 더 높은 병원비를 부과할 수 없다고 선을 그었다. 농번기 인력 수급을 위해 공공형 외국인 계절근로자가 지방에 투입됐고, 건설 현장에서는 인력 3명 중 1명이 외국인일 만큼 노동 시장 의존도가 높아진 실태도 조명됐다.",
+          "headline": "외국인 건강보험·노동 이슈 동시 부상"
         },
         {
           "rank": 5,
-          "word": "대출",
+          "word": "전세",
           "count": 4,
           "articles": [
             {
-              "title": "뛰는 대출금리 배경에…3% 기준금리보다 더 높은 은행 가산금리",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWSmZSdC12TmJoaVBLVWhpT3JzQUhScTFYemtxRldDNHp6TXNlNEY4N2NEbFdrWmxxcWRXSmQ5ZExMZzF4Q0dXc0o4b3FaX1h4dHNySERTTDdFNThWOS1uc9IBeEFVX3lxTE94aTAtUmN6MG5iSzFrSnJGb2x4UndQUHBZUkw3eFpNTWlOYjNnOTBuR09ZbkFHQlFnclJKcm5mckNPU05yZFVydUxVSUdUNnh1NXg4elNHNzZudUkza05BRDc4RmttTHBhcHhTQ1pZOTNJYjBfNGZONQ?oc=5",
-              "source": "뉴시스"
+              "title": "‘오세훈표 장기전세’ 1381가구 모집한다…SH, 퇴거 원칙 재확인",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Nc1ZLeWdQWkdyNXJmVk5IWWpsTXVmVi11N2s1Q0V3c2RNOC1ZbGMxTUVHRVhNX19IbjdjQVBST211bEVjTFFNYUJhUmRxVW5kemR0TE53R0E4MGtYeEo3N1dMRQ?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "대출 ‘오픈런’ 계속…5대銀, 가계대출 3000억 남았다",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14cU96czEzOXY5SHRCM2dqbXJtZ1V3ZnpRUXZKcUJvMzc1R08wTkQwdU1OY0NOMU5hcHlXRVdLY3FWVVFBLVM4T2FzZ3FqUWFnMVE?oc=5",
-              "source": "sedaily.com"
+              "title": "② 서울 전세 매물 13%↓…전셋값 역대 최고 7.1억",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sa1haNHROSEdvRmo5a1ZSUk5ucUpLRkRQY2JRaGRmYnBrQVBzTmc3VE82S3AzYVNiRUk4eDQyeVAtUzJnZm44ZnRVVnp1MFptaWN2UVFoS2FveWPSAWBBVV95cUxQMGszRG1iVTNWWDNGb3Y1cUFCYkpPRXNKVUlRSXkzbkQxT3YxSzJNMFFjcUxROTBHOUZYSmRFNFZWR0dGUmlDNFBjcmNaelUxMEJHSWxvWHFIanNUSXJ5dnU?oc=5",
+              "source": "news1.kr"
             },
             {
-              "title": "신용점수 900점보다 600점이 더 싸다?…은행권 대출금리 '역전'",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RZnQ5eHBMaDNaWk9VMTZWYUdrQmZnOFlZYnloUENXVmxCOEk1V1RXVEVmM29pV0FRY2VBZXBha3FuTzZVZmc?oc=5",
-              "source": "v.daum.net"
+              "title": "깡통전세 여진에 강제경매 54% 급증…8개월 만에 작년 연간치 육박[집슐랭]",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sVWQxUi0wbmxIWklMbm1ObHk2aU12MWZmYm5BWnBneHFRR0Rtc2xyUFJKVDYzR2FIcHlEODVzM3lsb0NPMzF3d2QwWmlYV29EbXfSAVNBVV95cUxPZUlvdWJTeFdIRWxiNTROVUlSWkx1OVFsZGk1eGh5d1h2WXdoTzhaNm43T0Vva3RRa0FCbVBKaEtKdGVWdUI1bUxQRHFqOHZtMjlPdw?oc=5",
+              "source": "서울경제"
             }
           ],
-          "description": "신용점수 900점보다 600점 보유자의 대출금리가 더 낮은 '역전 현상'이 은행권에서 나타나 논란이 되고 있다. 뛰는 대출금리의 배경에는 기준금리(3%)보다 높은 은행 가산금리가 자리하고 있다는 분석이 나온다. 5대 은행의 가계대출 여력이 3000억 원 수준으로 줄어든 가운데, 대출 수요는 '오픈런' 양상이 이어지고 있다.",
-          "headline": "대출금리 역전 현상에 '오픈런' 계속"
+          "description": "서울 전세 매물이 13% 줄어든 가운데 전셋값이 역대 최고인 평균 7.1억원을 기록하며 세입자 부담이 커지고 있다. 깡통전세 여진이 이어지면서 강제경매는 54% 급증해 8개월 만에 지난해 연간 수치에 육박했다. 서울시는 오세훈표 장기전세 1381가구를 새로 모집한다고 밝혔으나, SH공사는 퇴거 원칙을 재확인하며 공급 확대에도 한계가 있음을 시사했다.",
+          "headline": "서울 전셋값 역대 최고 7.1억…강제경매 54% 급증"
         }
       ]
     },
     "연예": {
-      "summary": "크리스토퍼 놀란 '오디세이' 올해 외화 최고 흥행 · 박위·송지은 관련 악플 논란 확산",
+      "summary": "친일 논란 하영이 '중증외상센터'를 자진 하차한 가운데, 놀란 감독의 '오디세이'가 900만 돌파로 1위를 질주하고 있다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "박위",
+          "word": "하영",
           "count": 2,
           "articles": [
             {
-              "title": "박위·송지은 소개한 김기리까지 ‘악플 불똥’… SNS 댓글창 닫았다 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdW16Skw1TzJrQzA0SG4tUmg4R3lpRU53bHZNU293RXFmNUlpU2drek5KcXB3TG9LRGVocTJjdUl4NzlpVGNNZDRrYlhSYkgtNTludVVpSUVKcGFlTWRoa3I0SU9ESUtGTFREajNzTldrOFBBRkxNdzcteW1FQnBlUjZ2c01qbjN6V1d5VWs0ZldBQjTSAacBQVVfeXFMTUtxWXRXLWg3ZHlUdnNYTWRXbVV1NjkzR0FieWFKV1VmRDJvRU52ajBTeDYxUWhycllfMjd0T1JSeXF0aE9Mc2JwekZPeUt4MmFkMnFwZWF4VHRGSVJpTXdzUlhXc0wyMTBEdUVLUFByQUc5eWtuLVVrS2REdm00WHhzWnpPaWdLOWJ4MlRWSldYVG4xYUZvU2pmN2JqN0c4cDl5STRjS0E?oc=5",
-              "source": "Chosunbiz"
+              "title": "‘친일 논란’ 하영, 결국 ‘중증외상센터’ 자진 하차",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83QmsxY0JLTnE2QjFZM2FEd3ZOY0FibGF5dURMS01HcmNVTVMyMzZMSjAxbTY1T2N6cVotLVcyNTU4M0dCaEItYVJHRi1qLVdVckxpbQ?oc=5",
+              "source": "매일경제"
             },
             {
-              "title": "용산고 앨범 올린 동창 \"박위, 큰 체격 탓 학기 초 '일진' 오해…순수했다\"",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZZmszWGFDZmhLdjZWNzR5UE43Tzl5VHVEMDMzcl9nbXBVX3hhLTdGSjZNYTdNNGcxSDRhb2ZwWUZRVlpBMFpiZE16cmV3c3BqRDA5Z1BHUGlnNFRFNnBKWWJB0gFnQVVfeXFMT05vUVE0bXQ4d1p4Q3RMMEhSS3FTeHBLYXlpN21XZk4tQlptQnVIQndwT3pLWE04b2RKUXlnUGtVX1BWRlplSzNHeEx3RGowUmlpdUw1VTdkclhlbEpmYi1XemVIaF9QNA?oc=5",
-              "source": "뉴스1"
-            },
-            {
-              "title": "’박위 학폭 의혹’ 동창생들 반박…“일진과 거리가 먼 학생“",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hNGNvbndGWG9yWHJvLVBiMFNReVQyWjJxZ0lKZ2dGSGlMalJXdkwwNmNQWV9aRDR3a3c3eko5czVBc3BveUlJUjBFVEEwNzd5cFA2TlRBOVdVc1Fram8ycmlybGd3S1k?oc=5",
-              "source": "연합뉴스TV"
-            }
-          ],
-          "description": "박위를 둘러싼 학교폭력 의혹에 동창생들이 잇따라 반박에 나서며 논란이 확산되고 있다. 과거 동창들은 '일진과 거리가 먼 학생이었다'며 의혹을 부인했고, 큰 체격 탓에 오해를 받았을 뿐 순수한 학생이었다는 증언도 나왔다. 파장이 커지면서 박위 부부를 소개한 김기리에게까지 악플이 쏟아졌고, 김기리는 결국 SNS 댓글창을 닫았다.",
-          "headline": "박위 학폭 의혹, 동창들 잇따라 반박"
-        },
-        {
-          "rank": 2,
-          "word": "수지",
-          "count": 1,
-          "articles": [
-            {
-              "title": "수지, 말 없이 전한 일상…여전한 첫사랑 비주얼",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rUVZZTkc0Um1rSHhIOS1uWnVYQ1F2REJoOHBUTW5GZzI5LXI3TndiaERVdGpoajZzUV9GS28yWWZwN3djRFU4QkttRFRJLTVYMFJjVml5bTdfRy0tb1lYd9IBeEFVX3lxTE14WjdvNG00X0pjWEJ4Q2x2TU4yTl92TnExUWN6M2RHV1RvbjNtMzEzRXhjcGUyNmFZQmhmZE9TNm1Ybm1GNG0yWTVLVWVYWkVEMUdiY0lrZFN1NzhFTDBZY2NPenUyM2ljclowbkVnUkNmQ1RSLVRMTg?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "수지, 멘트 하나 없이 얼굴로 다 했다…도쿄 감성 브이로그 [마데핫리뷰]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pa2tLRWFaN3FJUnVzSTFSbUdCdG5iUmxLak5KUzk1MmRGbmNEOXRoNHpCb01xck1DcnAyT0E1YWRZUm9ITlNMN3pCUkoxV28?oc=5",
+              "title": "대중 분노, 아직 안 누그러졌다…윤일상 \"하영 비난 과하다\" 입 뗐다가 역풍",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81SVo2d1BzOURBWmY1TXdIeXJqajFSSkJHWlE4cWtXLVJJX2F6cTZKZ202SS1qZEtpTngwSVhreGlRQWJSem1NU1cwLUQ0X2s?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "'수지, 한단어로 압살'...8분 내내 한마디 없이 시간 순삭 ‘국민 첫사랑’",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkhFQ2stV2I0X1RzeUJXUF85cGRKMFBHNk1DVjZLUTZsbUZLMVcwX3AtRjl5Z1FqUW5kb0JwREhFZmFsd1VoOGx5RGZPUUdOQVNnN0xmdWdtVXBKYWRteFhUNk1acVdUc0FGYkJ3eEtqRmdlWGJmSTYzSExBdVM4N0M4X19OWHpmRjJQM09xdUs1dlBO?oc=5",
-              "source": "조선일보"
+              "title": "고종 진료했다던 하영 증조부, 향토사료엔 '고종 독살 의혹' 기록 담겨",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qaDdoc2gxdHBMRUZoS1FBVDNqaDNUT1lkek96WE1vTFppalNsNUFoNjlhUmJpT2JRd01NY2Jic2RLdFZ0Qk5zWXlDUHMweWlOcGxJ?oc=5",
+              "source": "네이트"
             }
           ],
-          "description": "수지가 한마디 말 없이 일상을 담은 도쿄 감성 브이로그를 공개해 화제를 모으고 있다. 8분 내내 멘트 없이 비주얼만으로 영상을 채웠음에도 '국민 첫사랑' 특유의 존재감으로 호평을 받고 있다. 오늘 처음 트렌드에 진입한 키워드다.",
-          "headline": "수지, 무언의 도쿄 브이로그 화제"
+          "description": "친일 논란에 휩싸인 배우 하영이 결국 드라마 '중증외상센터'에서 자진 하차했다. 하영의 증조부가 고종을 진료했다는 주장이 알려졌으나, 향토 사료에는 오히려 고종 독살 의혹 관련 기록이 담겨 있다는 사실이 추가로 드러나며 대중의 분노가 이어지고 있다. 작곡가 윤일상이 하영에 대한 비난이 과하다고 두둔했다가 역풍을 맞는 등 논란이 주변으로도 번지는 양상이다.",
+          "headline": "하영, 친일 논란으로 '중증외상센터' 자진 하차"
+        },
+        {
+          "rank": 2,
+          "word": "놀란",
+          "count": 1,
+          "articles": [
+            {
+              "title": "한국인이 사랑하는 감독 놀란, '오디세이' 1000만 카운트 시작",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42bExWaU1VdDY1NUJ4ci1uUThIQk0tc3k1YmttdGltN2p5MEZvTEpEampCTzNIQW14Z21JUXhvMnlGMzV4aVhRYmxGVjBJMkVZNF90amEyenVNQkxw?oc=5",
+              "source": "뉴스핌"
+            },
+            {
+              "title": "전 세계 ‘스파이더맨4’ 압승, 한국은 ‘오디세이’ 더 봤다…남다른 ‘놀란 사랑’ [영화 뷰]",
+              "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZUV1aG5NOFdsamR5bVVpS1dLLVpfRGVNb1FKQmp0UndpSE1IZTZQb3pzMVRWYl9yUzJhTkx0TGtNRTRxSEhPbUdXSDV3LUJYOUZlUHp2VnJHZS1GNmw1ajRHVHZnTVRKZ3Z4RzNVMzk4TVhtUnFTWWdpX1lnNlpKSnVNTTBGOXJvcmpIM3ladkdNZXY4OXJfN1VFbVU5c1V3RUZVdndrdm9OQ2RJQlZ4Z2RPajhITHJpaGdIUUZrMzZYUDdTWjgteWdRWHhsWGltX2dtRnhWX2NVM1dJdEJvS0FDNkNEeV9sTFpVLVdkS2hGWXlJOEkyTWpPNmRpNHlkXzU3OGxER2IwZ0ky?oc=5",
+              "source": "데일리안"
+            },
+            {
+              "title": "놀란 감독 '오디세이' 900만 돌파...아이맥스 관객도 역대 최다",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GN3BoV24tR0FnZ0k2UlVmTHY5WlZwUkxUWDFWQkFMVjQtTEZYRG0zR05ZQUNfU0dLOVU1S0tmeHAwN20zZF9OX1FkSnppQkExUk1rNU4wVmd5UDNTNDJGSQ?oc=5",
+              "source": "KBC광주방송"
+            }
+          ],
+          "description": "크리스토퍼 놀란 감독의 신작 '오디세이'가 900만 관객을 돌파하며 한국에서 1000만 달성 카운트다운에 들어갔다. 전 세계적으로는 '스파이더맨4'가 흥행을 압도하는 가운데, 한국에서만 '오디세이'가 우위를 점하며 유독 강한 '놀란 사랑'이 재확인됐다. 아이맥스 관객 수도 역대 최다를 기록했다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "놀란 '오디세이', 한국서 1000만 카운트 시작"
         },
         {
           "rank": 3,
+          "word": "오디세이",
+          "count": 1,
+          "articles": [
+            {
+              "title": "진짜 여신 목을 쳤나…화제의 ‘오디세이’ 번역가, 이렇게 답했다 [송원섭의 와칭]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByOHlWVXhJNEMyRndMMWdtTTI2N0lUX0o4SE8xaXEzS0ktMU1IT29ER1BkWXJPWE5kNEYwLWF2QWt2cWxMcXY0MVd0SnMxWWEzNEtxTzRn?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "'오디세이' 개봉 27일째 900만 돌파…굳건한 1위 [Nbox]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83TGtQVF9KYkJnTWR1MkRET2s5Wk1NcWs4cVV2dElQQ3otanQ4eW41QlpUMW1kLTEtLXg0elRXR09oTUtlODJCQUZNclNfVnc?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "오디세이와 봉건주의",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mRlE1X2hUeU9fTmlVZ0d4VUljci14cjMxdU9fMVRNOHRabDZyZjRqeGlSc0E4RFF6RlZUZkd3a0lrTWlLMEFWdWE2YkZ2ci1sV0ZTbTBmUnpDZnNRbGFNZGFBWGlLb0czT05WbWxKUkh2WlQ4YkHSAWZBVV95cUxQZUFlVjg5aGtSU3RZUF8wcG9seFVSSndlNzFER2JSVkJxeUxyMDJrdi0yV1p4REYyOWx5Q0htRUxkZHF2c3VoTzk3OE1jNHFmRURuYkpuZEUwTGtuSDlsdWZhbGlQNFE?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "놀란 감독의 '오디세이'가 개봉 27일째 900만 관객을 돌파하며 박스오피스 1위를 굳건히 지키고 있다. 영화의 인기와 함께 번역을 둘러싼 논쟁도 화제로, 화제의 번역가가 직접 입장을 밝혀 주목받았다. '오디세이와 봉건주의' 등 영화의 주제 해석을 둘러싼 다양한 담론도 함께 형성되고 있다.",
+          "headline": "'오디세이' 개봉 27일째 900만 돌파·1위 수성"
+        },
+        {
+          "rank": 4,
+          "word": "권식",
+          "count": 1,
+          "articles": [
+            {
+              "title": "“기쁜 우리 좋은 날” 110화 예고 심상찮다…권식이 숨긴 진실 결국 터졌다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jcS16eUxtQ1Q0dThkREw2OVdJUVdmWG0yd1ltYUFFZEdtTk1mb2JpQ0FEOVpQSzJEdzhRMW82X2dfOVljMGNXOVNNTjNwbW9pRllqT2ZR?oc=5",
+              "source": "위키트리"
+            },
+            {
+              "title": "내권식 경쟁 심층정비",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4UXMtNzFTTUNhNnE5Z2JjY0M4Y1U5VGlZa3dkRmt0SHAxcTJIMDdnQW1lanBNVmswVXpiVm1mVUlzSi1hVXZ5SThCSXplOVZ0aW04d1NNX3pWd9IBX0FVX3lxTE9SMFJTSmRpQmNBUUZBZGZHWTBELWt4bzl2YVZIYkhHQmFPM296YU5iTmw1cUZXdDNfcGxBZHNLQno5RUtacFJHZnZta214LUFpOUZnVGU5RUZJWWNxVlFV?oc=5",
+              "source": "khan.co.kr"
+            },
+            {
+              "title": "정기선 HD현대 회장, 사우디서 '해양 방산' 신동력 확보",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUQUczRkVXeXJ0b0FmenZjazNlUFk5WENMSUZyaG1OVVVTd3o1TVdCVDU4Zm9KN2RXOG1iVFJTQ19NemQ1RDdsUmQxcE5YM1FZeXRCUGNhTG1QdkVfTjNidTJZbXR1ekhrWnfSAW5BVV95cUxNZlpGMjU1dWprUzdGMXNkQTZjTjJaa0gtQ3dRUllWUmNzZ3k3UXR2MzZyWnlhbUZDTklBQ3ROWEZDZjJUZHJBQzhWMDA1SHFscjFMb3NDQ2Uyck9VRW0zcndFTnF1OFd5NmZGM0Ridw?oc=5",
+              "source": "뉴시안"
+            }
+          ],
+          "description": "드라마 '기쁜 우리 좋은 날' 110화 예고에서 극 중 인물 권식이 숨겨온 진실이 마침내 드러날 조짐이 보여 시청자들의 관심이 집중되고 있다. 전개가 심상찮다는 반응이 이어지며 오늘 처음 트렌드에 등장했다.",
+          "headline": "'기쁜 우리 좋은 날' 권식의 숨긴 진실 폭로"
+        },
+        {
+          "rank": 5,
           "word": "나혼",
           "count": 1,
           "articles": [
@@ -319,181 +377,133 @@
               "source": "zdnet.co.kr"
             }
           ],
-          "description": "'나 혼자 산다'가 위기라는 평가가 나오는 가운데, 경쟁 예능 '비서진'이 넷플릭스 예능 1위에 오르고 클립 700만 뷰를 돌파하며 대항마로 떠올랐다. '나혼산' 측에서는 전현무가 즉석 여행을 떠나 호수뷰 숙소에서 감탄하는 장면을 선보이는 등 콘텐츠를 이어가고 있다. 오늘 처음 트렌드에 진입한 키워드다.",
-          "headline": "'나혼산' 위기론 속 경쟁작 약진"
-        },
-        {
-          "rank": 4,
-          "word": "놀란",
-          "count": 1,
-          "articles": [
-            {
-              "title": "크리스토퍼 놀란 '오디세이', 올해 외화 중 최고 흥행작…스파이더맨 제쳤다",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jVTFXNGxTekxaNHZJQUluaXBsZ2c5SV9PZlFITzJTNUVySy1aekdnMU5PWWdaRGphSFgzdXFjWjZuem4yaGwzS2VSb19EdlU?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "흥행 시험대가 된 한국…할리우드가 한국을 놓치지 않는 이유",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45cWN6WjlycUZ1eFlqdHRpQjM1ajVwdng4enZSTlNqWEFmWFNDaFlYUDRqcUFEbGk1ZWtKLVNTcTkzbk0xSDl5TmdZRXAxblBicy03VWQ5aE9LWnRfMDNDNGZR?oc=5",
-              "source": "스포츠월드"
-            },
-            {
-              "title": "놀란 감독 '오디세이' 900만 돌파...아이맥스 관객도 역대 최다",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GN3BoV24tR0FnZ0k2UlVmTHY5WlZwUkxUWDFWQkFMVjQtTEZYRG0zR05ZQUNfU0dLOVU1S0tmeHAwN20zZF9OX1FkSnppQkExUk1rNU4wVmd5UDNTNDJGSQ?oc=5",
-              "source": "KBC광주방송"
-            }
-          ],
-          "description": "크리스토퍼 놀란 감독의 신작 '오디세이'가 올해 외화 중 최고 흥행작에 오르며 스파이더맨을 제쳤다. 누적 관객 900만 명을 돌파했고, 아이맥스 관객 수에서도 역대 최다 기록을 세웠다. 한국이 할리우드 흥행의 시험대로 주목받는 가운데, '오디세이'가 그 가능성을 다시 한번 입증한 사례로 평가된다. 오늘 처음 트렌드에 진입한 키워드다.",
-          "headline": "놀란 '오디세이', 올해 외화 흥행 1위"
-        },
-        {
-          "rank": 5,
-          "word": "오디세이",
-          "count": 1,
-          "articles": [
-            {
-              "title": "‘아바타2’ 넘었다···‘오디세이’ 아이맥스 관객 역대 최다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zZDZwNTNoSVNBOGxnV29GZGJaVVBfMFhacWV5clphMUNtRnFrWkJzOGNTNDN6ZE5QcEdMNGRpazhCWWM5eXBxdjJrZkl6QjVMaVlhQTRGQ3JwZ9IBX0FVX3lxTE1WSFcwaEZMME5vdThsajZObjkyM2VhUXBVUEx4TEl3SnR3dG01Z2F5ZTZZcm14cHM1VGpPeGxIS2NLMVZSUU1qUzFaWVBiZ2xZa09sc3JwaUtnRV83S1ZZ?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "진짜 여신 목을 쳤나…화제의 ‘오디세이’ 번역가, 이렇게 답했다 [송원섭의 와칭]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByOHlWVXhJNEMyRndMMWdtTTI2N0lUX0o4SE8xaXEzS0ktMU1IT29ER1BkWXJPWE5kNEYwLWF2QWt2cWxMcXY0MVd0SnMxWWEzNEtxTzRn?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "'오디세이', 역대 아이맥스 관객 1위…'아바타 2' 제쳐",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42cERBUVZLVW5vMmRpOU40dVREdVVzamhEZ1VhZ0xCM3J0Snd0Ri15WVRodXVXdXA5eWxuVXhLMXNxODJvbjhqaVhiV3pwUFg5enJ4VVBHNkkyeDF3S0NEUdIBYEFVX3lxTE42cERBUVZLVW5vMmRpOU40dVREdVVzamhEZ1VhZ0xCM3J0Snd0Ri15WVRodXVXdXA5eWxuVXhLMXNxODJvbjhqaVhiV3pwUFg5enJ4VVBHNkkyeDF3S0NEUQ?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "놀란 감독의 '오디세이'가 아이맥스 관객 수에서 '아바타 2'를 넘어 역대 최다 기록을 갱신했다. 압도적인 아이맥스 흥행과 함께 영화 속 번역 표현을 둘러싼 논쟁도 온라인에서 화제가 되며, 번역가가 직접 입장을 밝히기도 했다.",
-          "headline": "'오디세이', 아이맥스 관객 역대 1위"
+          "description": "'나 혼자 산다'가 위기를 맞은 사이, 넷플릭스 예능 '비서진'이 대항마로 떠오르며 넷플릭스 예능 1위를 차지하고 클립 조회수 700만 뷰를 돌파했다. '나혼산' 자체는 전현무가 즉석 여행을 떠나 5시간 운전 끝에 호수뷰 숙소에 도착하는 내용으로 방영을 이어가고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "'나혼산' 위기 속 경쟁 예능 넷플릭스 1위"
         }
       ]
     },
     "스포츠": {
-      "summary": "남자농구 월드컵 예선 3연패 탈출 · 설영우 분데스리가 데뷔전 1분 만에 도움 · 신다인 KLPGA 대회 역대 첫 2연패 달성",
+      "summary": "메시 아르헨티나 대표팀 은퇴·셰플러 투어 챔피언십 우승 상금 역대 1위·지소연 향한 심판 성차별 발언 논란·고우석 미네소타 방출 후 FA",
       "keywords": [
         {
           "rank": 1,
-          "word": "월드컵",
-          "count": 2,
+          "word": "메시",
+          "count": 1,
           "articles": [
             {
-              "title": "남자농구, 사우디 꺾고 3연패 끊었다…월드컵 예선 최하위 탈출",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uYzVaUXZaWHNoYnRmNk42NVdieWN5a3Q1MjlEVDYyLW1hVGdZN0RiM2ZDNWtDMDFGcVNPNWd0WWZ4SU4zaGhQdHB0TWJBQS1OSmJ6YW1DTG9xZXhVbXQzWtIBeEFVX3lxTFBTaDNCRVFMU0xxU0xrQmZmOVQwYWoxU3VpajN0dk93OFhpemIxcEpYYXl5YmpudDZiWS1OOTF5LXYtZ2dxRXRJTFJqdlQxYUVIaldrR0M5RVBqMVJGdW9majlQckxhTE9udUpwMjRXSVZLLVZlY0FhTQ?oc=5",
-              "source": "뉴시스"
+              "title": "메시, 아르헨티나 대표팀 은퇴⋯207경기 출전 125득점 위업",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zNUhGVnI2TnpZNFJPRGEwREM3TGdCWlBBUHg3djVfdW4xeFRJMjhXdDZOa3N6SkdZU3J0ODBKMXNMSlpMSUhVN0hqR3JQYVJnaWE2UA?oc=5",
+              "source": "이투데이"
             },
             {
-              "title": "빈 자리 가득한 대한민국 남자농구 대표팀 월드컵 예선전",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZR1NIS1pnLWFuaTVQUDFYbmtnbUhNNmZZX3ZjTC0ybTlrLUtUYTFOVFRQZm9rNnFrRnVRLVlON3ZuSGozazNqYWJNVkZiZllhdWFVXzBwdHg2OEJm?oc=5",
+              "title": "'축구의 신' 4골 넣고 하루 뒤엔 '구단주'로 번쩍…메시, 세 아들과 스페인 5부 코르네야 유니폼 활짝",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OYTJXaUhueGZDU1NMbTZiUjR0SDQzSEx2NEIxVlllVFAzRnlrcnRlUzNHOUx3NXljRjg2Y2ZWVGIyTHVFV0NWR2VzenRVOHJCQmoyblJfYmtkZEg0?oc=5",
               "source": "네이트"
             },
             {
-              "title": "'이현중+여준석 43점'…한국, 사우디 잡고 월드컵 본선행 희망가",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ncVVLTzQ0aUFpOVpuU0xpYjFpNW9ocmlCMzcweEhDQlJvTmdYVmt3TjNUUUlPb2tHWjg4MGdQTE82QlJXUVU5cE9KeEh6OHRWd1RVZ21WSmNlWnEyeU9EdEZUZ3lsOUhMakRPcTNhTzJhVVVNSTloYg?oc=5",
-              "source": "연합뉴스"
+              "title": "메시, 아르헨 국대 은퇴 \"더 이상 낼 힘이 없다\"",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0JNbUdSY2t5ZVZVV2dZR1ltMi1zaWJwRmdjSlJiVS1tMHNJbUhPQXg1OENESHBTeF83aUJETEF6VlhZczlWVmNaX2VYMHFGSWtRUWNWb2tjT0kwRkxHamh3MnFTM3BZc0JqTFZwZHRPZmd6MHBzSHBycHdoX2RQQmY4R0FlQUQzUWx0bUxrbjZ5cW1BQWI3MlRWWHVFZw?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "한국 남자농구 대표팀이 월드컵 예선에서 사우디아라비아를 꺾으며 3연패를 끊고 최하위에서 벗어났다. 이현중과 여준석이 합산 43점을 올리며 승리를 이끌었고, 이로써 월드컵 본선행에 대한 기대감도 살아났다. 다만 경기장 빈자리가 눈에 띄어 대표팀에 대한 국내 관심도는 여전히 과제로 남는다는 지적도 나왔다. 오늘 처음 화제에 오른 키워드다.",
-          "headline": "한국 남자농구, 사우디 꺾고 월드컵 예선 최하위 탈출"
+          "description": "리오넬 메시가 아르헨티나 국가대표팀 은퇴를 공식 선언했다. 207경기 출전 125득점이라는 전무후무한 기록을 남긴 메시는 '더 이상 낼 힘이 없다'며 작별을 고했다. 은퇴 발표 직전에는 4골을 터뜨리는 마지막 불꽃을 태웠고, 은퇴 하루 뒤엔 세 아들과 함께 스페인 5부 리그 구단 코르네야의 구단주로 새 출발을 알려 화제를 모았다.",
+          "headline": "메시, 아르헨티나 대표팀 공식 은퇴"
         },
         {
           "rank": 2,
-          "word": "도움",
-          "count": 2,
+          "word": "이현중",
+          "count": 1,
           "articles": [
             {
-              "title": "설영우, 독일 데뷔전서 1분 만에 도움…김민수·김예건도 맹활약",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kbGhDeDdRd0ZIYmtXam9LclpkUHlyMzI0Y29BcVRCeEZ2ZGZYU3ExemlSbmc5TkNmcUVCcmhkVGphb1U0UjRWZE0wbXJtZWY0WFlmczVUcjM5WWZIaGlFMWhrUkVYYUU?oc=5",
-              "source": "연합뉴스TV"
+              "title": "슛 하는 이현중",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LZFp6Z2t2SEI2dEdTNGlqMUFXbGFuUGdjRGRGZlkwUDQzb0l4V1RCVGZvSFN0Nm41cThldnoxRWRJLW8zNDY4b3QxdzhwbV96d3ppRGhCWW93c1ZJZE9rS0ttZ0VzZw?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "아우크스부르크 이적 설영우, 분데스 데뷔전서 1분 만에 첫 도움",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNXpQb0ZxdGktRTQxMUZUMFNLWVZiOVpDbl9PWVhEa1RMT3hjdzZKbEFQOTl1TFVPbEZYVFFyMDY2bUJ0a1h5OW5Fb0dVeEU1QWJ6YnUxUVpleE9hamU2U1VMdDhGM0pYNWlhamVMSFRtaERmZDRWNHZ5ZzlELUI4bXdUcEdBZGxuNnpv?oc=5",
-              "source": "조선일보"
+              "title": "이현중 멘탈은 정말 다르다, '에이스'니까 감독도 못한 말 했다 \"이동 거리? 전부 핑계, 30~40점 이겨야 했어\" [MD수원]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yTHpkRmktZUZqeGliVHFiMXNwYnE1N2N3Y3VNd3FVb3lrWWhNRVlzWHhmanl3ZWpXZWhZenA4UkY1Y2FDeEQtaGltZmM0UEJjajBHWWh4eXFlZDB1dWNiNA?oc=5",
+              "source": "마이데일리"
             },
             {
-              "title": "설영우, 아우크스부르크 데뷔전서 교체투입 1분 만에 '1호 도움'",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RV0JfYnBKc0FxRlNoNnJZVnFwNUhuT1FCaUlmZEt3ckJ1c0RMTDNlSk01X3hYYVZNYnliWGx1VDBGNzU5TW5TSkk0S1BWZXBZU1NUSC1jWE9qeFHSAWBBVV95cUxOVnAyOGdUWlhIcjBFRTJ1Um1RMmlRUTZLV05MYXFzZFNYRlJYNHJGTXhFWEJRbHFURlRuY3pBSDhPQkVRV1dWSEJPbFl1d29WclI1b3JQMEZhUnhQTFRFV1U?oc=5",
+              "title": "한국, 사우디 잡고 월드컵 본선행 희망가…이현중+여준석 43점",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJc2tkTlBIekJpOWROVTkzSHI4dEtJaHdzMjdYMW11U1ZTZGZQbXJRU1l4RDY5RjQxWDZrVWt3R0NKWE45TU1uY2VpOUtNV0pmdzlucWZmQ0tVMDlOaldmZ9IBYEFVX3lxTFBJc2tkTlBIekJpOWROVTkzSHI4dEtJaHdzMjdYMW11U1ZTZGZQbXJRU1l4RDY5RjQxWDZrVWt3R0NKWE45TU1uY2VpOUtNV0pmdzlucWZmQ0tVMDlOaldmZw?oc=5",
               "source": "연합뉴스"
             }
           ],
-          "description": "설영우가 아우크스부르크로 이적한 뒤 분데스리가 데뷔전에서 교체 투입 단 1분 만에 첫 도움을 기록하며 강렬한 인상을 남겼다. 같은 날 김민수·김예건도 각자의 무대에서 활약해 해외에서 뛰는 한국 선수들의 소식이 한꺼번에 주목받았다. 오늘 처음 화제에 오른 키워드다.",
-          "headline": "설영우, 분데스리가 데뷔 1분 만에 첫 도움"
+          "description": "농구 국가대표 이현중이 사우디아라비아와의 월드컵 예선 경기에서 여준석과 합계 43점을 합작하며 한국의 승리를 이끌었다. 경기 후 이현중은 '에이스'답게 이동 거리 등 외부 조건을 핑계로 삼지 말고 30~40점 차로 이겨야 했다고 직접 동료들을 향해 쓴소리를 내뱉어 강한 멘탈과 리더십으로 주목받았다.",
+          "headline": "이현중, 한국 월드컵 본선행 견인"
         },
         {
           "rank": 3,
-          "word": "타이틀",
-          "count": 2,
+          "word": "셰플러",
+          "count": 1,
           "articles": [
             {
-              "title": "“브리지스톤 드라이버 교체 덕 봤죠”… 신다인, 대회 최초 타이틀 방어 성공",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sQ25KWGZRUHItenhPeDdIcGozY0VZeVVvZ0llSTVKTzVDMzNVTzF2VXdTZ0ZjaEhDOHV2bjA0R3VoX0dMQ0pMQkpneF9PTmxrem1scWlWR2FrM3NISG8yR1l2UkJhZW56LXVzdA?oc=5",
-              "source": "서울신문"
+              "title": "타이거 우즈 넘은 스코티 셰플러, 투어 챔피언십 우승으로 통산 상금 1793억원 1위",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SRGJtZE5JZ3JscEpJR0xTcmxreUlpTXc4OTZZYnFoaW1YcEdxSGZ3UmRETjdKMnZjRkViYXR0TTE2c2FOWS16dzhOdlVpY3JkcTJuV1AwSnF5MDlzWWlOQURTTHNxbUQ2Z3d6Mm45UXluSHBI0gFmQVVfeXFMTVhYcUFXcmJkRjZJcGE2cFJvclRwZzNkZzRwWnZEREZDbGdWV2pmTDRXQ3FxYTVBQkpiMXhndk5JZl9SNEE4azY0RXlfaXdrelB6MEVoMFN0OE5KbjJfX2lyTGhoV3BR?oc=5",
+              "source": "동아일보"
             },
             {
-              "title": "개성있는 스윙 바꾸려다 고전한 신다인 \"제 스윙 믿고, 자신감 찾으면서 우승까지\" [KLPGA] |",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90T0MwQVdzcHFrdmtmcEZFejlaVG85bHNmbDlfXzdyQnRibm0yRndQS2w2ajRjRV9oY1Y0bDdxMXdwRE5HeUYyQjIyWTU2OE9sRXE3SFpucTF0UHI4cmpYQmdTelVMWGRnWVJUbFRHU1BoRXloWERHazYzUjQ?oc=5",
-              "source": "골프한국"
+              "title": "셰플러 PO우승...통산 최고 상금, 역대 최저 타수 신기록 마무리",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9teXJ4R3RrYzRfYWNHMkRZT3ZZaGE0V1R4TV9SRU1vY21fM1BGa0JwZFlCbFJlMjVremRQR3BLNG5BdnYyQmR5RlVlOEJDU3JOOXp0cXN3?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "'써닝포인트의 여왕' 신다인, KLPGA 투어 KG 레이디스 오픈 최초 2연패",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGTzdMc0xTeVl6SDhRX1EyTHFGNDFWakxOcnRSLU5BTlNVdk1GQVlGOWJOUGFpVUV3cHYtdklQVk9WWjJqRGZBVE8takFJZ3hCanlqakd6QU84Ny1qZ29wTXhaUHRFcTBu?oc=5",
-              "source": "asportstv.kr"
+              "title": "술 입에 안 대는 셰플러… 우즈 넘자 ‘맥주 한잔’",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nSzRzNUxEMU1DMlhWcHVoaEpORUhIT0dkTGRKWUhwQ1BUSFZjaFB5TVlQRGdBQjlTMnloYzZ5ay1PRU1uZnhoNWxhb2hBTU82TlhmWllQTm5wMXJVZGxPcksyYXFNbmRjaS1tWE9QU2NLRTRH0gFmQVVfeXFMTi1FUTZoWXNidVVCdVlHX2g2V2NSRHFMRERNcExTRDkyVms2VEtOX05wZXdSZEJQTzFYSzFtZEpKUldvdVpya0ZsaWdDZXBjWC15WmxQZGVfRUE3d3pWeElzSkVFYmlB?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "신다인이 KLPGA 투어 KG 레이디스 오픈에서 2연패를 달성하며 대회 역사상 최초의 타이틀 방어에 성공했다. 한때 개성 있는 스윙을 교정하려다 고전했지만 자신의 스윙에 대한 믿음을 되찾으면서 우승까지 이어갔다고 본인이 밝혔다. 장비 교체도 이번 우승에 도움이 됐다고 덧붙였다. 오늘 처음 화제에 오른 키워드다.",
-          "headline": "신다인, KLPGA KG 레이디스 오픈 대회 최초 타이틀 방어"
+          "description": "스코티 셰플러가 투어 챔피언십 우승을 차지하며 통산 상금 1793억 원으로 타이거 우즈를 제치고 PGA 투어 역대 최고 상금 기록을 세웠다. 이번 시즌을 역대 최저 타수 신기록으로 마무리하며 골프 역사에 한 획을 그었다. 평소 술을 입에 대지 않던 셰플러는 우즈 기록을 넘은 뒤 맥주 한 잔으로 축배를 드는 장면도 화제가 됐다.",
+          "headline": "셰플러, 통산 상금 1793억 원 역대 1위"
         },
         {
           "rank": 4,
-          "word": "오픈",
-          "count": 2,
+          "word": "지소연",
+          "count": 1,
           "articles": [
             {
-              "title": "'버디 9개' 신다인, KG 레이디스 오픈 '역대 첫 2연패'",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PM0tDUXFyaHV2Yy11dENJUzVkcGItZ2NGeWtYcnNsamJ2em9hTDZ2QVRsT1pjZzBuMm9HQXhiLW9PRE0xVjQyYnE4ZzhqQjJHRkZxLWhKTjh3dzA?oc=5",
-              "source": "경기일보"
+              "title": "‘생리’라고 안 했다더니…지소연에 “걸스데이인가 봐” 심판 논란",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nd2s2YTRERE5sd20zRkZ6dXVSV1VNZG1vTlZva1JHN0hJcGxZdlFMamhZbC1JVmZPZmJVUkRwWXpnMWlNZnhsOFA2enR0MXdZWWFnOS1YRUw0a1BremdjbVl2NlRHS3dMdGfSAW5BVV95cUxOTlBHaS1GdF9fVEtYc3cwSVcwNk9fa3pmQ3N2Rk91ZGVpR0pjNDI4V25ZYlZiMzBDTXdScm1OSEJKNVZrMWhzOUFobTFWb0RrcTFmX0lIcXdqVVNFRjBvalY4Sk4tcEc4aXBIaXVjZw?oc=5",
+              "source": "주간조선"
             },
             {
-              "title": "사진으로 보는 신다인의 KG 레이디스 오픈 우승까지",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VRWx0TzE5NEVsSlZuT2twQm90QTRLa1I4UF9rNWFNT296ZkItNy0ydWU3bklScGJad3IyUjVQTU5Jb1BTbFNmZXNpdldVU0QtMV85VjhhQi1hXzAxbFFWM01RbXZZejhZRWhIQTRVQQ?oc=5",
-              "source": "와이드스포츠"
+              "title": "\"얘 예민해, 생리하나봐\" 심판 발언에…韓 간판 지소연의 분노",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aajQzNmJFZi1HQ0RBajdsaU8yNlZERXkycFhRSFpFOVUzX3FXdEFkb0hFNUtpZDUwRlNEVDhTY2tadHg4TDh6UXFuTzAxakNxWVE?oc=5",
+              "source": "노컷뉴스"
             },
             {
-              "title": "신다인 'KLPGA 제15회 KG레이디스 오픈' 우승...대회 2연패",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42SVA5d0h2ZHFQMm15emJDUkRPQzNCcmh6RDRha1dxcTRsMTdZV3JpNlNEVkREdmR4SkhEd0E5QzhvYkg3ZmlnWFZSaTJLTTlHY0g3bU1oV3VIalpxbi1tUkswdTk0VE9ZRkdn?oc=5",
-              "source": "미디어인천신문"
+              "title": "지소연에 ‘생리’ 단어 안 썼다더니…\"걸스데이인가 봐\"",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yQjBkUzBPMEhVcXFaWFU3SFdDLWROdkRJcXBQLXdxRVVYZVZfY3RWclBtNXZMQXZGZ0pUc1dqUDFGbmtYZnpNXzVhQkdodTF3QzdqUA?oc=5",
+              "source": "JTBC"
             }
           ],
-          "description": "신다인이 버디 9개를 앞세워 KLPGA 제15회 KG 레이디스 오픈을 제패하며 대회 역사상 처음으로 2연패를 달성했다. '써닝포인트의 여왕'이라는 별칭답게 압도적인 경기력으로 우승을 확정지었다. 오늘 처음 화제에 오른 키워드다.",
-          "headline": "신다인, KG 레이디스 오픈 역대 첫 2연패"
+          "description": "여자 축구 국가대표 지소연이 경기 중 심판으로부터 '생리하나봐', '걸스데이인가봐' 등의 성차별적 발언을 들었다고 폭로해 논란이 일고 있다. 해당 심판 측은 '생리'라는 단어를 쓰지 않았다고 해명했으나, '걸스데이인가봐'라는 발언 자체가 확인되면서 오히려 논란이 커졌다. 한국 여자 축구의 간판 선수인 지소연이 공개적으로 분노를 표출하면서 스포츠계 성차별 문화에 대한 비판 여론이 확산되고 있다.",
+          "headline": "지소연, 심판 성차별 발언에 공개 분노"
         },
         {
           "rank": 5,
-          "word": "한화",
-          "count": 2,
+          "word": "고우석",
+          "count": 1,
           "articles": [
             {
-              "title": "공정위, 한화의 KAI 지분 취득 승인…“경쟁 제한성 없어”",
-              "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY2dpcmY1WkRzSVpQLWNqdXJKUDN0ak95QzY1OGRSeDJWUHNrd1hPcEttNnNETHpBYWZ5NU8tZE1VcGMycjg3T1VjVC1ZUnpJek9uOFpvX2N1M1ZTWDgwWV9ZWHJiQ1RjalJ4bXBtd3BXTFNSNVluZVAzSDF4M0YyUFk1UDYxRWwtWUpFaDd3RmpROEd3STB3VUQxbGhVeDZpRVhUd1NwZGpRMzhyT2xBbnBCR2FFR05mMERZSW9oUDJRVDlwY082Z05wSGVUZFB3WEFzYllseFlTMndXRm5CU1dEVV90TDhaZXdhVk9EOUh0ZXlTdU51Wg?oc=5",
-              "source": "데일리안"
+              "title": "고우석, 미네소타 방출 뒤 FA 선언…친정팀 LG 복귀 가시권",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3TVZ5TFdGS1A2WWZWY1doUzRLdGZwcVptLXd6aWZnWkloRHdfcnczYml4bldfVEZ1RkVHNWhqWEljeXd4WVl0V2I2UzFWVEVYc2NQQ0dPM0s2YnVSdlVRV2ExTWNoSURRNVl5ZWhqc0NOQXBnaXQ0LTIyTdIBf0FVX3lxTE50YTZKQnpfUm9YY1luYVVrRDRXWFlnaWdBal9BMHJ0bTJlMVctemc3SFFfbkFjMk4yTWo0clBFc05pUFV0QlNqaE80bk9pSjVKU09qb1NtYVA4UVdEVUpqQTlkZTREMl9taTN3NFFYYUYxOGlDWjBqM2RVZFhUT0E?oc=5",
+              "source": "데일리스포츠한국"
             },
             {
-              "title": "한화, 국내·미국 블록체인 법인 청산",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ocFc1MzExYzZlMHZYRS1KT3NRd3BiR3Z0d09TcDdKZ2NoOU1wQTNLWTEtUktWakxUX1ZBTmhMMmlSajloazdEaU5FWVQ4MmxkWjViVjByLThWQktTVnZwS3pmd3Z4Q3Z0SHl5Snc0blNvZw?oc=5",
-              "source": "디지털애셋"
+              "title": "고우석 방출 대기 소식에 LG 염경엽 감독도 한숨, \"이럴 거면 왜 데려갔나\"",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FVlY2ajNaWXNBdi04OFZaUUJEbUN1SXM5MXY1T09TQzNfa0JyeEZBMWFGVldiWEIyaDBTTlBzWUpyTGdzSGpEZXYyWGc2MGU1NkZhWC00WVp2M1pw?oc=5",
+              "source": "뉴스핌"
             },
             {
-              "title": "희비 엇갈린 아시아쿼터….한화 왕옌청은 '가성비갑'",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EdDExUVl3WlhxSTdIa0t2cXRnd1JHY2lScW9oYVhNV282WXBublkwU1I4dHlWc09rclRZSDdqVk96QWktaXVVeGY4WklMdUJBY1c5RUN1ZTNMOFFOZ2V1b1BNSk5HNWJLakZ3UVF4R3Z1a21Yc1E?oc=5",
-              "source": "네이트"
+              "title": "고우석, 자유계약선수 선택…프로야구 LG 복귀 유력",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HLVE5cnVFZ2ltUGRTZjAtaXJKdW1JNmNWLXBfV19Ub1hvQ0RCajAyOHZzY1dJS214UkNFbXJIQUNhb3E3NXB1NG0xd05oVzFtS1k0ZklFdDZKYmJRNHM3N01idl9jYlk?oc=5",
+              "source": "연합뉴스TV"
             }
           ],
-          "description": "한화 이글스의 아시아쿼터 선수 왕옌청이 가성비 높은 활약으로 긍정적인 평가를 받고 있다. 한편 공정거래위원회가 한화의 한국항공우주산업(KAI) 지분 취득을 경쟁 제한성이 없다고 판단해 승인했으며, 한화는 국내·미국 블록체인 법인 청산 소식도 전했다.",
-          "headline": "한화 왕옌청, 아시아쿼터 '가성비 최고' 평가"
+          "description": "메이저리그 미네소타 트윈스에서 방출된 고우석이 자유계약선수(FA) 자격을 선택하며 친정팀 LG 트윈스 복귀가 유력한 상황이다. LG 염경엽 감독은 방출 소식에 '이럴 거면 왜 데려갔나'며 한숨을 내쉬어 아쉬움을 감추지 못했다. 빅리그 도전이 조기 종료된 만큼 고우석의 KBO 복귀 여부와 조건에 야구 팬들의 관심이 쏠리고 있다.",
+          "headline": "고우석, 미네소타 방출 후 LG 복귀 유력"
         }
       ]
     }
