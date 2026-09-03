@@ -1,509 +1,301 @@
 {
   "date": "2026-09-03",
-  "updated_at": "2026-09-03 08:02",
+  "updated_at": "2026-09-03 21:59",
   "briefing": {
-    "text": "네팔·중국 대홍수로 사망자가 1,225명을 넘어서고 실종자도 3천 명을 돌파한 가운데, 한국 긴급구호대가 현지에 도착해 수습 작업에 합류했다.\n\n국채금리 급등 여파로 코스피가 4% 가까이 급락하며 국내 증시가 직격탄을 맞았다. 현대차는 파업 영향으로 8월 내수 판매가 6년 6개월 만의 최대 폭인 41% 감소했고, HD현대중공업도 부분파업에 돌입해 파업 여파가 조선업계로 번지는 양상이다.\n\n대한축구협회 정몽규 회장이 홍명보 감독 선임 의혹으로 피의자 신분으로 소환돼 12시간 조사를 받았고, 한화 이글스는 실책에 발목 잡혀 8연패와 함께 9위로 추락했다.\n\nBTS는 LA 공연에서 아리랑을 열창하며 팬들과 뜨거운 재회를 이뤘고, 드라마 '욕망의 덫'에서는 장서희와 전혜원의 치밀한 수 싸움이 새 국면에 접어들며 시청자들의 이목을 끌고 있다.",
-    "period": "아침",
-    "generated_at": "2026-09-03 08:02"
+    "text": "이석연 국민통합위원장이 \"정부와 국민통합 철학이 다르다\"며 전격 사의를 표명해, 대통령실 산하 핵심 위원회 수장의 이례적 사퇴가 오늘 정치권 최대 화두로 떠올랐다.\n\n한국 국채금리가 4.4%까지 급등한 가운데, 일본은행의 연속 금리인상 가능성이 부각되며 엔 캐리 트레이드 청산 우려가 재점화됐다. 이 같은 한일 양국의 동시 금리 충격으로 코스피 향방에도 투자자들의 긴장이 고조됐다.\n\n연예계에서는 두 건의 경사 소식이 겹쳤다. 배우 곽시양과 러블리즈 출신 유지애가 약 1년간의 조용한 교제 끝에 11월 결혼을 공식 발표했고, 현빈은 손예진·아들과 함께 도쿄에서 포착되는 동시에 신작 '메이드 인 코리아2' 현장 행사에도 등장해 가정과 복귀 소식을 함께 알렸다.\n\n스포츠 면에서는 이정후의 시즌 타격 성적이 야구 팬들의 관심을 끌었고, 네팔에서는 빙하호 붕괴로 추정되는 대규모 홍수 피해 소식이 국제 뉴스로 주목받았다.",
+    "period": "저녁",
+    "generated_at": "2026-09-03 21:59"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "네팔·중국 홍수 사망자 1,225명 · 부산 예인선 전복 추가 구조 · 경산 중국인 유학생 살해 피의자 신상 공개 · 조국·민주당 공소 취소 놓고 신경전",
+      "summary": "이석연 국민통합위원장이 대통령 뜻에 따라 사의를 표명했으며, 네팔 홍수 원인으로 히말라야 빙하호 붕괴 가능성이 제기됐다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "사망",
-          "count": 3,
-          "articles": [
-            {
-              "title": "네팔 대홍수 사망 1,225명…중국 국경 도로 뚫려 중장비 투입",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iLWs2NmxXRzZCN29sUmxmeC1aaS1MYTVOb201UDV0ekpoUzFwbE5yM3ZjM3B3ZUNLQ01OMmhpeWRvMlp3ZXNRRnI4NlBhMXNmVmFrYVN3Rjk5dlE?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "네팔과 중국 홍수 사망자 1130명…한국 긴급구호대 현지 도착",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZGVTeDFkLXdjckhQeVNmSjZPTC0zTDZ3aEh1X1g2NVZmYkxpVTNWUFJWQ2ZhNDBIYy1HVzBOLWo3ckZ1VVJVY0xWUVJzWWdUZmNXc3lQWHgzVmNRWE9oQTdqSi1iSFU3OTVlem14Vk1hS3N5QlMtSnRHWHZLMC1vNG9HZldvWFZh?oc=5",
-              "source": "글로벌이코노믹"
-            },
-            {
-              "title": "네팔·중국 대홍수 인명피해 증가...\"사망 750명·실종 3천 명 넘어\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2VzV2SXJ6UUxDTGNxb3d6WXZuOGJyOEpldXNNZ0RQVkt5QmlkZVA4WGJhOXptMElPcWtMWFdPV2JIQ0FwcDBTbHd2cEExbnBFTkVmZUExWC16RmRSZlE?oc=5",
-              "source": "YTN"
-            }
-          ],
-          "description": "네팔·중국을 강타한 대홍수로 사망자가 1,225명에 달하며 피해 규모가 커지고 있다. 실종자도 3천 명을 넘어선 것으로 전해지며, 한국 긴급구호대가 현지에 도착해 수습 작업에 합류했다. 중국 측은 국경 도로를 뚫고 중장비를 투입하는 등 구조에 총력을 기울이고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "네팔 대홍수 사망 1,225명"
+          "word": "정치",
+          "count": 2,
+          "articles": [],
+          "description": "오늘 정치 분야에서 다양한 이슈가 화제를 모으고 있다. 관련 기사 제목이 충분히 확인되지 않아 구체적인 사건을 특정하기 어렵다. 오늘 처음 등장한 키워드로, 관련 소식이 이어질지 주목된다.",
+          "headline": "정치 관련 주요 이슈 주목"
         },
         {
           "rank": 2,
-          "word": "홍수",
+          "word": "네팔",
           "count": 2,
-          "articles": [
-            {
-              "title": "홍수 피해 지역 수색하는 중국 구조대원",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kaHJxV0UxbENCV2ZjZDBXN0lKd3A4Rmk1THI0YnA0TUxSczgyd1pic1dycERidHNxb3dsR0Z4XzVONnVXTy05V0RlR3NWTjZSWkZ0djZvWEYtTmlZS1ZHYg?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "네팔-티베트 홍수: 중국에서 검열되고 있는 홍수 영상...피해자 목소리도 사라졌다",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBM0V1Q0JmT2JFeGlXcmwtNEZjdkZMU0JHa3VEcmtDbFhQWTlndlA0ZzhDbDdtcnVGWkhaTnp3YjVubTduMlpldnlBaUtpSFhDWlVwOUt0Z0ZyWHBw0gFiQVVfeXFMT2ttQXJDdmh4VzM3SkNVSHJSaUJTdXZuWDk5RDBXTGJxb09mRU9ESFdRQ1FMN1ZkdzUzSjFKTnFWWm93WTN0V3NYRkZyUjU4eHpBeV94MnlwMi00d1dSTFRobmc?oc=5",
-              "source": "BBC"
-            },
-            {
-              "title": "네팔 대홍수가 던진 경고···“중국 싼샤댐도 ‘1000년 홍수’ 공식 다시 써야”",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxWGJyT0x3X3NUN3laX3B3VlZoYW9RLVp6YXlaQVNuX1FYMnpBS3I0aVJwVVBDN0Y5d2tXNS1YSmZsRC13MzIxa193UFc4TVFtQXfSAVNBVV95cUxONG9tWEswLTJiYXhWR3pHVWFoX3Rka054RlhfalkydWJfOU94S0FNd3pGNjBhYXMzRkpqRHRGbmJ4SlJ1Sk9kTWI4aDNXcU1Ra2I5dw?oc=5",
-              "source": "서울경제"
-            }
-          ],
-          "description": "네팔과 티베트를 중심으로 한 대홍수가 국제적 관심을 끌고 있는 가운데, 이번 사태가 중국 싼샤댐의 '1000년 홍수' 설계 기준을 재검토해야 한다는 경고로 이어지고 있다. 중국 내에서는 홍수 관련 영상과 피해자 목소리가 검열되고 있다는 보도도 나왔다. 오늘 처음 등장한 키워드다.",
-          "headline": "네팔·중국 홍수, 싼샤댐 경고까지"
+          "articles": [],
+          "description": "네팔에서 대규모 홍수가 발생해 오늘 화제에 올랐다. 관련 보도에서는 홍수 원인으로 빙하호 붕괴 가능성이 거론되고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "네팔 홍수 피해 화제"
         },
         {
           "rank": 3,
-          "word": "전복",
+          "word": "국민",
           "count": 2,
           "articles": [
             {
-              "title": "부산 앞바다 예인선 전복사고",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zb1RVTVY1YjN0TGJvN1hqTXJyWFJ1MXpIdW15Qkp3VVctcmJFMm92SS11SUdHeUVxUEI1NWtNTXdLeGRyNi1TWmxGTHR6YkZ0aUdVUE1lbkhESUHSAWBBVV95cUxQXy10RnVqWmFXTUlBcFdpdWtmeFRQVjZJbUlaX2hITUhjVzJkdWFnNmNMQkh3WHloRnJFaFVIOEp1Rzd5RlUwVGg0NW9YY2Z4RkF4VjZncnp2WlR6cTN5MjA?oc=5",
-              "source": "연합뉴스"
+              "title": "이석연 “대통령 뜻 따라 물러난다…국민통합 철학, 저와 많이 달라”",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JSU83aDYxWmsta3V1R242MkdNc3dqQW1adEpEMGRPYXVhbTJRa3hCV0VTMnFVdEQ0SmxYOGpsMDl0bF9FdURvTEZRZHRGaS1lQU5ydmhDU1FpbUhrVEtwRUhhZWJJZlNkRHlR?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "부산 앞바다 예인선 전복 현장서 1명 추가 구조",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FUmE2Xy1tZVh4MTU5RU9RRVh5MGhDODFjcEFNUTVwWVdQQ29Ia3RMVWJyOUF0elJNekZWQ2FxUG5sTDNNN1EzUHJQTUFwUjg?oc=5",
-              "source": "v.daum.net"
+              "title": "이석연 국민통합위원장 사의…“대통령 뜻에 따라 물러난다”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PcnpDay1VYXBfZWg0Z0c0OVR1RWxEemhTd0dZWTRkUW9jSFJOUk9BVVY2Wk84UHVyZEozMEYxYjJmWE1PZFNIakMxUW1fOVNZRklGaUZR?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "부산 앞바다 전복 예인선 완전 침몰…수심 87ｍ",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JWlc1RF96aHBmY0k0MTRoclY2REIzT0IyS1VVRXMzM3RXU3pYdjFidjBwLUgzNnN6bHk2MFdYak1qZW9KMC1uWVQ4Vi1udXR4aWNEMlJhSm1MbXlBckJyUXh0Y20xQUk?oc=5",
+              "title": "이석연 국민통합위원장 사퇴…\"정부와 생각 많이 달라\"",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZTVZqc195UjlZTlFXVWF4cllDRWxWY19MeEEtaXFyck5LMkxPTGJQRGZNZjBtYWxBM1d6a1JUUTFWMzNnZGF6N0cxWVBaOG5VYURLWTAyYlJXNEhhUHRac2dRd1ZuVVU?oc=5",
               "source": "연합뉴스TV"
             }
           ],
-          "description": "부산 앞바다에서 예인선이 전복되는 사고가 발생해 수색과 구조 작업이 진행됐다. 현장에서 1명이 추가 구조됐으나 선박은 결국 수심 87m 아래로 완전히 침몰했다. 오늘 처음 등장한 키워드다.",
-          "headline": "부산 앞바다 예인선 전복·완전 침몰"
+          "description": "이석연 국민통합위원장이 \"대통령의 뜻에 따라 물러난다\"며 사의를 표명했다. 이석연 위원장은 \"국민통합 철학이 정부와 많이 다르다\"고 밝혀 내부 노선 갈등이 사퇴 배경으로 드러났다. 대통령실 산하 국민통합위원회 수장이 스스로 물러나는 이례적인 상황으로, 향후 위원회 운영 방향에도 관심이 쏠린다. 오늘 처음 등장한 키워드다.",
+          "headline": "이석연 국민통합위원장 사퇴"
         },
         {
           "rank": 4,
-          "word": "중국인",
+          "word": "제주",
           "count": 2,
-          "articles": [
-            {
-              "title": "중국인 유학생 살해 피의자 '정창성'...신상정보 공개",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80NXR6LS16b3hLWHc3NmZ5STFTOXlEUHFkaE5CUlVCVGJZSXNqaU5yNGtoTk4tTUloSXRRN29rbDFlSmxYcmZfcVpLSVNLMTcwSkhnbzh0NE5yM1phY3c?oc=5",
-              "source": "YTN"
-            },
-            {
-              "title": "’경산 유학생 살해’ 중국인 강사 신상 공개…31세 정창성",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIUVBZWGx6TDhVZVQ5NDNxcG9GREhOZWFLSzBGMjkybmt5d1ZDTDF3SWN0QmNvRFZBeWFFUG5KWUlFX1RiNWZMWmRZN1NncHZpQTFVZVFneFNncWdJRlRxdXhFamwwd1U?oc=5",
-              "source": "연합뉴스TV"
-            },
-            {
-              "title": "완전범죄 꿈꾼 '中유학생 살해' 강사는 31세 정창성",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wOGdRTk51UnN6bHU1YzZJQU5BcEhpZDAwNmJWQ2tld3JvQ0NEeDBRR1FqNGU0WndnNUNmS0ZZNXdSZ2JTVGRtTXd6VjQzTW9rNlRxM3hR?oc=5",
-              "source": "중앙일보"
-            }
-          ],
-          "description": "경산에서 중국인 유학생을 살해한 혐의를 받는 강사의 신상이 공개됐다. 피의자는 31세 정창성으로, 완전범죄를 노린 것으로 알려지며 충격을 주고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "중국인 유학생 살해 피의자 신상 공개"
+          "articles": [],
+          "description": "오늘 제주 관련 이슈가 화제에 올랐으나, 확인된 기사 제목이 없어 구체적인 사건을 특정하기 어렵다.",
+          "headline": "제주 관련 이슈 주목"
         },
         {
           "rank": 5,
-          "word": "취소",
+          "word": "빙하",
           "count": 2,
           "articles": [
             {
-              "title": "조국 “공소 취소 낭패”에 민주 “배은망덕”…거칠어진 신경전",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaN2JncGdZZTY1UEFIdU4xbm9nQ19XUFJZYlE0bzFOMHV3MXhjWFZzQXRuS2xuN1ozYkxIZzVrT25ab0JvdHhwSUFZQ0xQcVNxNVFfazh6cV9ocGc?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "조국도 경고한 ‘공소 취소’… 득보다 실이 될 수 있는 이유",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkFYc3czSjFmUnoyZ1JGLVNZaTRocWE4SmY3NU1hdEFwaWZiTU1oUFgtdGhYc3RzYlZGV1Z1dk5QN0N0SmdpdFBTemRiSDV6Y2RfNERMajA1cGZfUFF1N2JKZTlpR0ZEYWxmN3hnXzNzSVJ5cmV1RFVTeHpOemVHdmRLQVBTUk0?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "박지원 “조국, 자다가 봉창”…‘공소취소 강행 땐 낭패’ 언급에 불쾌감",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mbUE2ZTZDN2xTZTV4SFdTdlRxNTc5el91M1JTVk5sT3BiTkhfdkRXT0ZoY3JGQ2IydVlYbkhFdFBzNjN2Q2xqRTZCZW95Y1dQWGY0Q0Q4dF84VXM0QkdYMVVZX1FqcDZlRHpoQUpFVy1fMjJm?oc=5",
+              "title": "“네팔 홍수 원인, 빙하호일 수도…빙하 붕괴로 이런 유속 안 나와”",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoRElOenJFMm5nS3F0emljMl96UngyNm1uUFZ0dm96aFFYV3V3VW5XUnZXMU44VFQ4ZXlTWWVNV0dQdzNQOWRwdlRZQi1qeElsVC1DeEV6Q2wxYWg0dWRsTFpvSmNOZjF1dTY3SA?oc=5",
               "source": "한겨레"
+            },
+            {
+              "title": "히말라야 빙하 감소가 세계 경제에 치명타?",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RdFJGZS1rTTc0OG5lSFlGWU1pVEx3ckVNZ3lkY2ZCMnAxeDQtSElHekJLY2E0My1zZThabzh6ZmZFMF9XN1hNb1pHQWRzUFVNbGJSbnN1dkN3UWNYVnJlZDhwalphOTNFZWhQNXFYV1R6eno2Sjd3MtIBeEFVX3lxTFBWVEpOSmQwd01QOUprLWcxc3cxUE9SeFZyck5VOFpJN1A3TF96cVNTT3lrWFZOME1PNWtjTUs0NWRGaG5UOGxETTJ2U0dJNXpRbHlCNUxIT1FENTAxamRJZTVnbEY5M0NDNG1laWFUYkhFLUdKWjQ4Qg?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "중국 기후 당국, \"칭하이·티베트 빙하 면적 60년새 24% 줄어\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UWXlVRmM2RzlIcnVvVnBWeXFINHc3MnhHRTFUSElOTFRfMkVLeGdtNlFjVVBTMVFSUW91RGl6eXozOFdwQ0NhQzcyb2d5ODBRa2VaREYyUkQ5M05na0RpadIBeEFVX3lxTE1ia2ZJRVRLWS1uVTBkWnUxd1h4ZlNGVlhzT0FnMmwtcmJ3eDBxVDhzQzhEYmNGU2tJTkdXQ3NxajRSelNmcnRPbTVZdWFVRUFSdnRwUTUtUjlWWFdTX3JXV1ZqT2lWSzV4NE1JaVo4bHdSSDVnWHdxQQ?oc=5",
+              "source": "뉴시스"
             }
           ],
-          "description": "조국 전 대표가 '공소 취소 시 낭패'가 될 수 있다고 경고한 발언을 두고 민주당이 '배은망덕'이라고 반발하며 갈등이 격화되고 있다. 박지원 의원도 조국의 발언에 불쾌감을 드러내는 등 야권 내 신경전이 거칠어지는 모양새다. 공소취소 카드가 득보다 실이 될 수 있다는 분석도 제기된다. 오늘 처음 등장한 키워드다.",
-          "headline": "공소취소 논란, 민주당·조국 신경전"
+          "description": "네팔 홍수의 원인으로 빙하호 붕괴 가능성이 제기되면서 히말라야 빙하 감소 문제가 주목받고 있다. 중국 기후 당국은 칭하이·티베트 지역 빙하 면적이 60년 새 24% 줄었다고 발표했으며, 히말라야 빙하 감소가 세계 경제에 치명타를 줄 수 있다는 경고도 나왔다. 기후변화로 인한 빙하 소실이 자연재해와 경제 위기를 동시에 부추길 수 있다는 우려가 커지고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "히말라야 빙하 감소, 경제 타격 경고"
         }
       ]
     },
     "경제": {
-      "summary": "국채금리 발작에 코스피 급락 · 현대차 파업 여파로 내수 급감 · 이형일 후보자 추석 물가대책 추가 발표 예고",
+      "summary": "한국 국채금리 4.4% 급등으로 이자 부담·기업투자 위축 우려 · 일본 연속 금리인상 가능성에 엔화 강세",
       "keywords": [
         {
           "rank": 1,
           "word": "금리",
-          "count": 9,
+          "count": 5,
           "articles": [
             {
-              "title": "주요국 ‘국채금리 발작’에 코스피 된서리…3.99% 하락",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FQVA1Nkp0M3g0WXhSelFyUDRWb0ZNa0czRllmYS1iR240NFF0TVMzOVhlV0dqMVpQbjRCcm0tbG9iNHk0US1yMlViVmhwOWhlXy10QjRlQ3FtOGJSNTdWdVJqQ0UxYVYxdVNvM2JVU1hEYUxac0HSAWZBVV95cUxPZGhxUURhbjhiQXJxdk52S3ZFb0tKa3dqTlhqeG1NODhUWE1UTWxLMjFVdFVjNk11Wk5DSEtZTHg2VFU5eUcteDZ5ekI1Z2hDSmllQzlzZ0lCNzcxb3pJdzk0enpfWHc?oc=5",
+              "title": "韓 국채금리도 4.4%로 뜀박질, 이자부담 늘고 기업투자 위축 우려",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ERTdkVDhqOHRDczU4NzNvX3FyeUFEd1hvdVdiX2RJczlFTHpuR045TXM0MVNOZHVfb1ZfZ0hWLWJSV0NNSUFYMHVSY3dPaXlCUkFndy05WU1OaTFxUDZFWlRNTEVTXzRfckxSRE9YLWxLbVBXX0HSAWZBVV95cUxOakhDbERqT3N1cndNT3pMQTZ2bDVxdGc3R3RkRFctdEZyNDJMZDk0NUZiYnQ5MllWRUNDUnkyOFF3eFY5ZlQ2ZkFCUFVzVDdXWG5VNF9IRkpCTlpaRnM3S3JwcjI5WWc?oc=5",
               "source": "동아일보"
             },
             {
-              "title": "뉴욕증시, 국채금리 진정에 나흘 만에 반등…다우 0.56%↑",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEZCX3VpcGlON08zdmV0aVltY012YUV6bnpkbmhjUVc2UHllNUdrSHIwSUkySUFkSWlWNkJFLTNYU3Z5cWM2aU5mOG9WMEhBXzk2NmJnWWlrNWdOR0VkZlJWdnVvSFdCYjhfdFZZVXQxWWoxTjNFNDdMUEVjSE04c3hBSWJJRlFn?oc=5",
-              "source": "조선일보"
+              "title": "日, 연속 금리인상 가능성에 엔화 강세…'엔 캐리 청산' 공포",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wUDc0MkU3dnpQV2NocmhseGxtdEpTS1FMbkN1Wk9vNjNpUkYxM1k5OFRnQmtUZDNhdEJuYUJNVzlTZ1hZbjVHRG5raC1HdXc?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "뉴욕증시, 국채금리 숨고르기에 4일 만에 반등‥다우 0.6%↑",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nbVRsSjVNQl9ZN21RUlNwWFBlYmpIajJxS2VvaTZQcFdLeGFuZnVORjFGRldBZHBjMTlHWEs3YzAtT3BEa09YdUdZRW9USWhobldZZHc0d1J4ZGx1NWh5LWV3dW9rZHgzZU9CTzJLUjRFY2VE0gF0QVVfeXFMUFhwNnlnOW5TLTJMQmtETlpXcGZNeE5LLVhmMV8yZkRhNk5iNm9ZZ0w2VUlidUpiTGp4RHdjRi1qT1JqVlVPOC1tdS1jM0ZRcVZacDJHcFJ3Y1NYSllfd3RGTmx3YUxQOGpMWTQ5Tmg4a0V4OHk?oc=5",
-              "source": "MBC 뉴스"
+              "title": "\"금리 연속인상·빅스텝도 가능\"…매파 돌변 日銀에 엔화값 반등",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MUFgzdjRSM2tQWE41RTdEajdzZ2d5aFFLY2hiS1ZwRTY1SVA2SkRFd1JKbzJqMzR4bndRcFJNYmJMTFFpcDF1WXpYRVpyNFlnYmc?oc=5",
+              "source": "매일경제"
             }
           ],
-          "description": "주요국 국채금리가 급등하는 '발작' 현상이 나타나며 코스피가 3.99% 하락하는 된서리를 맞았다. 글로벌 채권시장 불안이 국내 증시까지 직격한 것으로, 투자자들의 불안감이 고조됐다. 이후 국채금리가 다소 진정되자 뉴욕증시는 나흘 만에 반등해 다우지수가 0.6%가량 올랐다. 금리는 3일 연속 1위를 기록 중이다.",
-          "headline": "국채금리 발작에 코스피 4% 급락"
+          "description": "한국 국채금리가 4.4%까지 치솟으며 이자 부담 증가와 기업투자 위축 우려가 커지고 있다. 동시에 일본은행(日銀)이 연속 금리인상·빅스텝 가능성을 시사하며 매파적 기조로 돌변, 엔화 강세와 함께 '엔 캐리 트레이드 청산' 공포가 재부상하고 있다. 한일 양국의 금리 흐름이 동시에 시장을 흔들면서 투자자들의 긴장감이 높아진 하루다. 금리는 3일 연속 1위를 기록 중이다.",
+          "headline": "韓 국채금리 4.4% 급등·日 연속 인상 공포"
         },
         {
           "rank": 2,
-          "word": "금융",
+          "word": "코스피",
           "count": 4,
-          "articles": [
-            {
-              "title": "3일 중앙부처 지방 이전 계획 발표…금융위·성평등부 등 거론",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aa2dZb0wyUzdROHB1Qm5ZeHUxU0x0VmtLdU1ZQlh3VTB0ZnRmQlZFbEJPd1RPYmxVOHJQc09uUkVvQVZhbl80NVl5S0dXN05ocDFPempnSVM2OExwTzNqeUV6elRKeUZtbnlWWEQtQmNITnM3?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "금융기관 지방이전, 주소만 옮겨선 안 된다",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LRkxzMHd6dVVuR2JxcmVmMl9VbDJwclRrc2VoTjF5NDlfazBWM0UxamhXdkkzZzVkYVZmSXdlbDZlRmhQZm4xWllGZlZUc1k?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "지방이전 행정기관 오늘 발표… 금융위-개보위-성평등부 등 거론",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GYjNTcDB0Nlk5NjROZ2ROdi1qbjJLUWlVRW9SbzhpcnY2V0VWTkJVLXJXWUIybzVwSFZhT1FyOHNBZEtBa2pJdjgtbjd0TkJteV9hcUlEQzRYbEdmYmJlOHRncTl1OS1jdnFhelhCbTYxUkEtVGlN0gFmQVVfeXFMTzc4bHI1M1FQdndzNG93Q0dkRVgweldGWlJFZWZ4QzVVbDNsaFRwLWZoX1F3WkVmMVRDOFBtSjZNZnVONVdUaU1NZ1dkVjdzaUJDcGR3X29BRjNSaGhNLU1VSTNGN2ZB?oc=5",
-              "source": "동아일보"
-            }
-          ],
-          "description": "정부가 3일 중앙부처 지방 이전 계획을 발표하면서 금융위원회가 이전 대상으로 거론돼 주목받고 있다. 성평등부·개인정보보호위원회 등도 함께 언급됐으며, 구체적인 이전 기관 명단은 오늘 공식 발표될 예정이다. 다만 금융기관의 경우 실질적인 기능 이전 없이 주소만 옮기는 방식으론 실효성이 없다는 지적도 나온다.",
-          "headline": "금융위, 지방 이전 대상 기관으로 거론"
+          "articles": [],
+          "description": "오늘 코스피 관련 기사가 다수 화제를 모으며 증시 흐름에 투자자들의 관심이 집중되고 있다. 한국 국채금리 급등과 일본은행의 매파 전환 등 대외 변수가 맞물리며 시장 불확실성이 커진 상황으로, 증시 방향성에 대한 주목도가 높아진 것으로 보인다. 코스피는 어제 5위에서 오늘 2위로 급부상했다.",
+          "headline": "코스피, 오늘의 시장 동향 주목"
         },
         {
           "rank": 3,
-          "word": "파업",
+          "word": "공급",
           "count": 4,
-          "articles": [
-            {
-              "title": "현대차 내수 6년 6개월 만에 최대 감소… 파업 후폭풍에 41% 뚝 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00VXd1enZWRXZUaG16bHZTNUxSQlBHX2U0SWkxNUZJcFZOZUtoMjFZWHU3QzhBZzJaSkk5R1dIMXdTS1pUQTNYaDJsUkZmbjZWYWltbXZQeWY1QU5mYkNDQWNrTURnLV9GdGNKcm9qSWtFclpuYU5lRHlMWkdlVEHSAZMBQVVfeXFMT01INUdkMXZTdF9EakRPd0xHWGNmWnlIOFUyN1d5MTZxMV9qTGdycGhpbDdUcVk3Yi1SMmNETmo4a1p1LVlqd25mZVp4Tm1KZFFMdFkwOGtHN3ppOHRGYUJwUHM5amhXalN6TzZVd01RN1JjcF9mQi1QT01VN002VmdZSnRubmN5bGZUQ1lFZm5WOHVv?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "HD현대重 노사협상 결렬...2일 부분파업 돌입",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kcXYwVFFGYzNaMWdFdzA2Qk1VOWpYdWhuRjlpZEdyMU1vZ1IwOGxDMVk3Tm43Uk9NektLZjNkVmcyYy1ieDRlYWVDd2E4aFd2TEHSAVNBVV95cUxOaUZYYl92XzNlOVlKRzEwTmtKZHpBZUIxRzhFRjFJZkcybklWWWNBZ1dmSFBIb1o1Q19OdW1ieW9OSTRhSm5OTkgxRkxTOG8xZ3F2VQ?oc=5",
-              "source": "서울경제"
-            },
-            {
-              "title": "'잔인한 8월' 파업·휴가 겹치며 5.9% 감소... 기아, 내수 경쟁에서 현대차 제쳐",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1WVFUU3VNeWpEeDFIQlRLcW5BS0N3VHpKX3htUHBvS0ZrOEk0LWZUTkdzVTJyZ1JYVXJzRVF2aEl1U1BURTROdEkwbE1ucndJblhudW1UMmhPaWM5ZzFGaXhBNnRBSENTWUtN?oc=5",
-              "source": "다나와 자동차"
-            }
-          ],
-          "description": "현대차가 파업 후폭풍으로 8월 내수 판매가 6년 6개월 만에 최대 폭인 41% 감소한 것으로 나타났다. 파업과 휴가가 겹친 '잔인한 8월' 여파로 기아에 내수 경쟁에서 뒤처지는 결과도 빚어졌다. HD현대중공업도 노사 협상이 결렬되며 2일 부분파업에 돌입해 조선업계까지 파업 한파가 번지는 양상이다. 오늘 처음 등장한 키워드다.",
-          "headline": "현대차 파업 여파로 내수 41% 급감"
+          "articles": [],
+          "description": "공급 관련 이슈가 오늘 경제 화제 키워드로 처음 등장했다. 구체적인 기사 제목이 확인되지 않아 세부 내용을 단정하기 어려우나, 공급망·에너지·원자재 등 공급 측면의 변화가 시장과 산업 전반에 영향을 미치는 흐름 속에서 주목받고 있는 것으로 보인다.",
+          "headline": "공급 이슈, 오늘 경제 화제 키워드로 첫 등장"
         },
         {
           "rank": 4,
-          "word": "은행",
+          "word": "인재",
           "count": 3,
           "articles": [
             {
-              "title": "정부, 3일 '부처 지방이전' 발표…공공기관·국책은행은 순차 공개",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MVlUTENrcGdSTmc2STRFWm16Z0RxTU9KdHpKdlo0TU1MeWQxOEUwX2I2ZDItSFNkeDBFemNPS29VWVlFM1B0WlN6bFJaTFMwMHJJYzNJM2ZhX1E?oc=5",
-              "source": "뉴스1"
-            },
-            {
-              "title": "남보라 아들, 생후 3개월만 첫 은행 업무..도장 꽉 쥔 '고사리 손' 귀여워",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGQkx6SHhobFVWWkVLUmZ6QXpsTDNWcGZhNFNGN0s5MkZiVzNQMlFTa01LSHFLYzNyTWVVWWF0SDgxR3FtQkVxdnJxV3JiLVk?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "부산은행, 지방은행 최초 소상공인 특화 신용평가모형 도입",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPeDRlS25iUUdWYXFta1ZPcHRxVDJvazNBMFh4eVFPejBBd3NteEpPMUVOMmxzdmtTZXV4d3g3OHdVNmUxUUtXZUZwOTA2SjBnQkE?oc=5",
-              "source": "매일경제 마켓"
-            }
-          ],
-          "description": "정부가 3일 부처 지방 이전 계획을 발표하는 가운데 공공기관과 국책은행의 이전 계획은 순차적으로 공개될 예정이다. 지역 금융 현장에서는 부산은행이 지방은행 최초로 소상공인 특화 신용평가모형을 도입하는 등 지역 밀착 금융 강화 움직임도 이어지고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "국책은행 지방이전, 순차 공개 예정"
-        },
-        {
-          "rank": 5,
-          "word": "물가",
-          "count": 3,
-          "articles": [
-            {
-              "title": "이형일 부총리 후보자 \"물가가 가장 큰 과제‥추석 물가 대책 추가 발표 노력\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sbWpNSlh6NkdOZEw1LU1qWnN5MXBJc2M0bl91WUlRVERDNHJxWm1TMEh4dU1WdWwzTnpzdFVxT01Pb3l2T1BLUlpsR0Q2dm01a0o3STZsZTN3MkhzWVU2S1NpRnVYQ2tJbzJmQjh5Qm13SllN0gF0QVVfeXFMTVlscjVPU0tfZjdQb2tTT1gxczR5VHZTU253NWM2RDVyZjlEc1E2aDBYeVpVOGRuQzBETElERGNJVjJFeE1YVHhNUHIzaTF2enZHemU4NHZCYmhLQmlWQlcyVDdLMFFMRERlbU14WHVXaXpKZ04?oc=5",
+              "title": "강신철 국방장관 후보자, 사관학교 통합 \"훌륭한 인재 양성 방향으로\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81OVAxSjE0TWI1QnpyM3F2VDRNRFd1YXF3cFJFeVFvZzZCakphcERtMjNxUV9GbmhveWZlbzBDeGhjZWJTRV84dnhBb3kxbnhlSlJVV3ZSN0ZEbml6R2pIM1VmeWlqZFpFMGZ6aXEzdEFlT1dFcUVBZdIBeEFVX3lxTE9yQ2dFR3h3bFVHS3RDdWRKdW5LU0FHLUtBbnpfNWhFaEIzZDFObm5ZdjZiM21pOHNYRG5lQjk0SDN4SllnSy1OdHRaTmZwZ1FKNmtrNTNwOVNOWVpNRTdhekN6R1VPWkZ3UUJSYzdYUVFVb3hUNURadQ?oc=5",
               "source": "MBC 뉴스"
             },
             {
-              "title": "이형일 \"추석 물가대책 추가 마련…공급·할인 확대\"",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15SG5MRjRRV29ocXB3bWRlZl9YQlNKQjJFYVRDQko2OEQ2RzhBa2tITnh3WjB1cm44RmFEMWRrc1lRZkMtUU9fRHpCanR6c1hTTHc?oc=5",
-              "source": "매일경제 마켓"
+              "title": "인재 남방 한계선, 정부도 못 넘었다",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Fc2taZ0ktdWZIdzlDNUNLRGJpRW9FTExHbC1SWXdFNnJESU4yN2Vlb3pzdkphQVplQ3RaYWZPckZXVFg3QVFIcmZEUjVIMDNsYmfSAVNBVV95cUxPOXRsOHFZZEM0ckhJWDlCbFV2SktLZHRPUW5VMUtUeV9NV2lBRUtIck9zV1U5Ti01VXVvM0hwcFYxUjZ0ZnNrLVBnV2N2MFkyZHNtZw?oc=5",
+              "source": "서울경제"
             },
             {
-              "title": "이형일 \"장바구니 물가, 경제팀의 성적표...물가 안정에 최선\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1eEUydHVyQkdaZ3VCZTlHN1d4MWRLWnJMUlotQkgzRXlrTGlVZ0ZSajg1Sk9QdTE5WVJaVzNTWWNYTGxvaDBpSi1hS3hWNHJaN3lEUTZnYjFfbzAzdnc?oc=5",
-              "source": "YTN"
+              "title": "웅진씽크빅·조선이공대, AX첨단인재 양성한다…5년간 협력 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YeG16RGthM1JiMkRpa0Z1dFJNczFRR09uWk16OHVLTFNDeWRYQjZQaDM0Mm4wVllYaUtTcHNtRE1yQ3pKRkVFNHJHUV9UbFVtdDB3VGQ3MGJVQ1pxdWRaVlRoWDNBVnctakHSAW9BVV95cUxPSC0tOTk5NFRPaW1QbDFYSE5zN19jcmtKbmhtX19FVUd4TWJmOHhBVkpLTnJlNkRnM1ZFRFEwMFRHeEtSdVdZSjBwSGYwY0JaTENDLVRQLTdqTzItMHJTRnFfZjFuUUdLaF8xbUpITlk?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "이형일 부총리 겸 기획재정부 장관 후보자가 물가 안정을 최우선 과제로 꼽으며 추석을 앞두고 공급 확대와 할인 확대를 담은 물가 대책을 추가로 마련하겠다고 밝혔다. 그는 \"장바구니 물가가 경제팀의 성적표\"라며 물가 안정에 최선을 다하겠다고 강조했다. 고물가 부담이 이어지는 상황에서 새 경제팀의 첫 과제로 물가 관리가 떠오른 모습이다.",
-          "headline": "이형일 부총리 후보자 \"추석 물가 추가 대책 마련\""
+          "description": "강신철 국방장관 후보자가 사관학교 통합을 '훌륭한 인재 양성' 방향으로 검토하겠다고 밝히면서 군 인재 정책 논의에 불을 지폈다. 한편 '인재 남방 한계선'이라는 표현이 등장하며 정부조차 인재의 수도권 쏠림 문제를 해결하지 못하고 있다는 지적도 나왔다. 교육 분야에서는 웅진씽크빅과 조선이공대가 5년간 협력해 AI 전환(AX) 첨단인재를 양성하기로 했다. 국방·지역균형·산업 교육 등 여러 분야에서 인재 문제가 동시에 화두로 떠오른 하루다.",
+          "headline": "인재 양성·확보 논의 여러 분야서 동시 점화"
+        },
+        {
+          "rank": 5,
+          "word": "관리",
+          "count": 3,
+          "articles": [],
+          "description": "관리 관련 이슈가 오늘 경제 화제 키워드로 처음 등장했다. 구체적인 기사 제목이 확인되지 않아 세부 내용을 단정하기 어려우나, 리스크 관리·자산 관리·정책 관리 등 다양한 맥락에서 주목받고 있는 것으로 보인다.",
+          "headline": "관리 이슈, 오늘 경제 화제 키워드로 첫 등장"
         }
       ]
     },
     "연예": {
-      "summary": "BTS가 LA 공연에서 아미와 함께하고, 드라마 '욕망의 덫' 관련 소식과 부산국제영화제 예매 일정이 공개됐다.",
+      "summary": "현빈·손예진 가족이 도쿄에서 포착됐고, 배우 곽시양과 러블리즈 유지애가 11월 결혼을 발표했다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "전혜원",
+          "word": "현빈",
           "count": 2,
           "articles": [
             {
-              "title": "‘욕망의 덫’ 17회 하이라이트, 전혜원·설정환에 주새벽 질투 폭발…9월1일 방송",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iU2lYSEJLOWJXVTNIMktXcUVrTGw0RG5MZDk3dk5ZUkRPRUxHUGZfcXc4MzRxWklfMWRiOGVUZ0F1bHl5WHZQeWlReXAyTDNtYmw2TklR?oc=5",
-              "source": "위키트리"
+              "title": "현빈♥손예진, 아들과 日 도쿄서 포착…유모차 끄는 ‘톱스타 아빠’",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04MGc5TENaTDBzVWRBTXVnRTZBZU12T1RVdWl0S0pLY0dJc20tUHItVDFrM1h3QTI1eUw4b2tSelFZVi1NM1g0V0d4aDRqNGo1enJxOA?oc=5",
+              "source": "xportsnews.com"
             },
             {
-              "title": "배우 조혜정, 초록 언덕에서 여유 만끽…자연 속 여행 근황",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sckpZaTJJc1Y1VVdTWW5qd1ZpUk8xZXBNLTBsRFZSdlBkb2dMdlROVWRFdDgzYzU3UDJUNE9mb2pqZVhleDMtMGdmYVpnTEZVenFUcWZfdTNOYkpZb0JENUQ1SFZReVhNODFIbXhtTC1GQQ?oc=5",
-              "source": "톱스타뉴스"
+              "title": "\"'메이드 인 코리아2' 대통령 암살된 시대\"…돌아온 현빈·정우성[현장EN:]",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1tTVYzSHJrbDdoMGRFd0Z1ZEdsVFFwR3JwcVhXQnRvWFdwUFpIZzdWVXd5b2ZaUTROd2dlOEs3N1Z5WWRvb2c?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "최재원, 핏줄보다 진한 부성애 ‘폭발’…양딸 전혜원 억울함 풀어주려 고군분투 ‘감동’ (욕망의 덫)",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKdzFpTFcxeUhwZ1JVNVVoMklxUGFxc0RBazFwRXZ0eW9wYVVJaTRqemlLaW1QOGFCQ0VfMGp3SHVqU0dIdHp4cmRjR3BUejU5U3NVbV8wNXBCMUtFWHo1OHJkUQ?oc=5",
-              "source": "mhnse.com"
+              "title": "부산국제영화제 개막식 누구 오나? 전도연·정우성·현빈 참석",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQRGlibGtMWWFfTlM0U29HQ25VS0VQN3Fzc1Q4cDB2Q0lzdmdKWVZJbTRCSmZ0cVpDeVVCbVNqanEySHpMdXQ2S0llbVF4UU5rZkVrUTM5ZEptemVvb050VU1jbUF5eHJtdENCS1dlS1hxbDZ5VnJ1aw?oc=5",
+              "source": "OhmyNews"
             }
           ],
-          "description": "드라마 '욕망의 덫'에서 전혜원을 둘러싼 갈등이 고조되고 있다. 양딸 전혜원의 억울함을 풀어주려는 최재원의 부성애가 시청자들의 감동을 자아내는 한편, 주새벽이 전혜원과 설정환의 관계에 질투를 폭발시키며 극의 긴장감을 높였다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "전혜원, 양부 부성애에 억울함 풀리나"
+          "description": "현빈이 손예진·아들과 일본 도쿄에서 포착되며 가족 일상이 공개됐다. 유모차를 끄는 '톱스타 아빠' 모습이 눈길을 끌었고, 동시에 정우성과 함께한 신작 '메이드 인 코리아2' 관련 현장 행사도 열려 복귀 소식이 전해졌다. 부산국제영화제 개막식 참석자로도 이름을 올려 가정과 작품 두 면에서 동시에 주목받고 있다.",
+          "headline": "현빈, 가족·신작으로 동시 화제"
         },
         {
           "rank": 2,
-          "word": "장서희",
-          "count": 2,
-          "articles": [
-            {
-              "title": "장서희 새 음모→또 다른 비극의 시작 (욕망의 덫)",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwMUswbURBd2d5RnBCSWVpWEdWZHlTdGxyWkpPTlR3T1U2OWVzdHVZZFIyV01aemo2enRlZHl6REZ2Rno5OWFFdHZWYzNTWTVucTgya0phMXZOcC1ZQmRjdzA3Tk9IRnhPTHIzc0Rn?oc=5",
-              "source": "sports.donga.com"
-            },
-            {
-              "title": "\"장서희, 이미 간파했다\"…'욕망의 덫' 전혜원 쫓는 치밀한 수 싸움",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5MTF2TlhveU9OVmlaN2wyTTYyNW9oOHp1bmpzM09qcm5TWllnTm16ZEZzZks5b1JsbnUtbUpURmY2dVRZVlJiUFpTM1hDUkE1VzB1bTBLaHBzc3k0dzBobDhucmlrelA2d2w2bw?oc=5",
-              "source": "네이트"
-            },
-            {
-              "title": "‘욕망의 덫’ 장서희, 전혜원 움직임 눈치챘다…또 다른 음모 시작",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IUFdyU2hwTDllREt5YTlFQkVyczRFUUpoUXpiT3VSZnNUaE1rRU9KWkJXQlltX0tDdG5Hd003U1U4Nm5xQ1VteTNZVnE5T3lpaDlCeG1oRFlrYzM3UTdHZmtTbXA4LWlKbkHSAW5BVV95cUxQUk1iQ2IzS1pKbkEtVm5lMm9XcjZ3SnpQUWt0eV9TeFNVS3pTVVd2TEk1ckRzNlhHVHhlVTVYTGlqbzlSS29LM0JlalZEcFFiUDZ3d2c5U24zU29SX1ZDaDR1SXVaLU9VZENRaXUtZw?oc=5",
-              "source": "gpkorea.com"
-            }
-          ],
-          "description": "'욕망의 덫'에서 장서희가 전혜원의 움직임을 간파하고 새로운 음모를 꾸미기 시작했다. 치밀한 수 싸움으로 전혜원을 압박하는 장서희의 행보가 또 다른 비극의 서막이 될지 주목된다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "장서희, 전혜원 눈치채고 새 음모 시동"
+          "word": "곽시양",
+          "count": 1,
+          "articles": [],
+          "description": "배우 곽시양과 러블리즈 출신 유지애가 11월 결혼 소식을 공식 발표했다. 두 사람은 열애설 없이 조용히 약 1년간 교제한 뒤 결혼을 결심한 것으로 알려졌다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "곽시양, 러블리즈 유지애와 11월 결혼"
         },
         {
           "rank": 3,
-          "word": "BTS",
-          "count": 2,
-          "articles": [
-            {
-              "title": "아미 '떼창'과 함께 LA로 돌아온 BTS '아리랑'…\"그리웠어\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQd2lVZ3hkcVo4ck5FeXpmcFBjVjJ6Q1pMejlOYV9RRFN1ZU1HdlgxSExZczBHNW1SQmlVWHBESEFDX1V6ajJ5bENJLXFoSzZ0TWtXak1UYm9OOWPSAWBBVV95cUxOb2dZTXFMS25NbTNvelpLQmkzRjdIUTVzTjl0bVFSVzVIcXczYWpzc2plaVY3aUZtZFBLSE9KSHNnbmUwbU5GbF9tQmpVdGhZZ0dYVmNVOFI3Z1ZkV21iZzA?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "BTS 춤추던 한옥 수놓았다, 1200개 유리구슬",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XS1FjaDlnbjhvaVJROHNVa2RJRWxocF9CUWt0dUtPQ1lLYnNPVXBLSjlnYWFwS0U4cTUtdEtYeGdrWGp2ZU82bkJBT2l6T28?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "'유퀴즈' 노브레인 \"BTS RM 고마워…음악 잘 아네\" [RE:TV]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKYXNROWRJN1hMdHBLYkxnUXZUZllXeHVvUTl0TS1QcXNQVVhlNm5MMi00X3Q1UlZQYTdaaGJ3YllyZzgyRm1qeEg0OVpjeDBUT0tMd2ZITUx5OVlDdURUVtIBZkFVX3lxTE9QT0pad1ZEN2pmcV9kVFNDUnFwSHhtMUhQaEZmWnd5RWVsLWlERVQwdHl0Q1BmUVcxS29Yc3hiSUpxR0JTaHBHR2tKX281RHFQbWJqYnJLT3BrT2ZxekhvdENRNlB6dw?oc=5",
-              "source": "뉴스1"
-            }
-          ],
-          "description": "BTS가 LA 공연에서 '아리랑'을 열창하며 아미의 떼창과 함께 뜨거운 무대를 선보였다. 공연장 밖에서는 BTS가 춤추던 장면을 모티프로 한 한옥 유리구슬 설치작품 1200개가 눈길을 끌었고, '유 퀴즈'에 출연한 노브레인이 RM에게 감사를 전하는 등 다방면에서 화제를 모으고 있다.",
-          "headline": "BTS, LA 공연서 아리랑으로 아미와 재회"
+          "word": "러블리즈",
+          "count": 1,
+          "articles": [],
+          "description": "러블리즈 출신 멤버 유지애가 배우 곽시양과 11월 결혼한다고 공식 발표해 화제를 모으고 있다. 두 사람은 약 1년간의 교제 끝에 미래를 약속한 것으로 전해졌다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "러블리즈 유지애, 곽시양과 결혼 발표"
         },
         {
           "rank": 4,
-          "word": "부산국제영화제",
-          "count": 2,
+          "word": "유지애",
+          "count": 1,
           "articles": [
             {
-              "title": "부산국제영화제 개·폐막식 예매 17일…일반 상영작 21일",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MTDEtZ2M4Y2xiay1tOVpOWHlydkZTNTJXMVE1MzNCdnRrem9UWC1qZTl4cjNpVkN5RGM1WVNGMlljUE5aY0xXeU9Zc2VQMlk?oc=5",
-              "source": "v.daum.net"
+              "title": "배우 곽시양·러블리즈 유지애, 11월 결혼…“미래 약속해”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRUhkdElNMk1IaEd3d1FtUDdabF9TUFEzbjV3RHR1ZjJnaXl6QnhkX2ZuNzdGQy1rR29CVXF5U0t0RGlfdG5NZkdjTjFUQTRXRkp0QlQ4VGF0UdIBX0FVX3lxTE13aDdkel9maGFVd0dQQUFWSVNKWko3cHo0d1ZKLVdGQm1tbjk3RjQycERRcXo5VTZKYUhTYkVueTF0V2xkS0VDWklBNWFGR3RHRDZMS3JkQ0lvaFJHeUc4?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "네스프레소, 내달 열리는 '부산국제영화제' 공식 스폰서로 참여",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tV29lMUQyX1hIV21Od01xaERNT2IyM0Fuem83djZiU0doNlQ3MXBEeGpuRV9jMXRkNkh6eXA3by1wb09SbDFMMFJZek04dnhMY0sxLVhnWUlNeU1pZDdZ0gFkQVVfeXFMUDh0UmhEeWRKWGl6akNUVU95MGQyZmVFc3NxU2xLX2ttVnlrdjBTdUJMUGNuOERyNUhpaFdVYV80MnVpeUpFQUx3SzNyTGtWZVVWUHJuVTlUZkU1REhjdUVPZFRweA?oc=5",
+              "title": "곽시양·유지애, 열애설 없이 교제 1년 만에 결혼 \"미래 약속\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJZWVSdVV6Mm0tNmhvdnFfdnlIaVdHVlUyTFZhb2tEeGtsZ19oZDNPc1R2V1d4S29wb1BEZldzS0hseXBHN2JGcDR4cmthd0lyOFBzeXRGbEpiODczNFp1RUh3aWXSAWpBVV95cUxOVU9ybTd1R3VBeGRxOXRNejVkcXZPVVhpc0FZdWhBc3o2aFFES3lJMDc1ZzhCWkF0N2x1anloZndfUHh6Y3ZvYS1qbzZhWndYa3FwMmRVdzc5Q3A4UzJtb3BQMFQtYmxyVERB?oc=5",
               "source": "뉴스1"
             },
             {
-              "title": "아이들 슈화(SHUHUA), 첫 주연작으로 ‘제31회 부산국제영화제(BIFF)’ 찾는다",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TR3k1RXNtQ3ZXYk5tWlBqTnNmNjZ3NkNDUDV4Ri0xZFg3OXhFZ3p0emk4MlI5X2JOUHJhUVRSM1h2WW40ME1GWEN6Y2ljeHQyRENfUUlYMWpRd0s0b3fSAWNBVV95cUxPNk94dzJTTHh3Q0pTMUY2dTByRDl2TnY3RmlQeGc2dFZjTDZMR3RybWdLUWRUclRFb0VMSG5IYXAxMTNnVlhodEdoMHloWkZWdTh4MDZBMDd5LVY0WTVYTjFYeFk?oc=5",
-              "source": "스포츠경향"
+              "title": "유지애 측 \"곽시양과 11월 결혼…1년여 만남 끝 미래 약속\"[공식]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qOUJmR0M1RUd6RU9zQ2NfaEdUNXhlcGFhdTJxY1pfSzBQWXlXZEhyU09vR0dDSU9kZkItRFZxVWkxM2V2ODlPN1Q1QURLNm8?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "제31회 부산국제영화제 개·폐막식 예매가 17일, 일반 상영작 예매는 21일 시작된다. 네스프레소가 공식 스폰서로 참여하고, 걸그룹 (G)I-DLE의 슈화가 첫 주연작을 들고 영화제를 찾는 등 올해 부산국제영화제를 향한 관심이 높아지고 있다.",
-          "headline": "부산국제영화제, 개·폐막식 예매 17일 시작"
+          "description": "러블리즈 출신 배우 유지애가 배우 곽시양과 11월 결혼을 공식 발표했다. 양측은 '1년여의 만남 끝에 미래를 약속했다'고 밝혔으며, 열애설 없이 교제를 이어온 것으로 알려져 팬들의 놀라움을 샀다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "유지애·곽시양, 11월 결혼 공식 발표"
         },
         {
           "rank": 5,
-          "word": "리센느",
-          "count": 2,
-          "articles": [
-            {
-              "title": "1위 리센느 원이, 2위 리센느 제나, 3위 리센느 리브",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZWlBlS2dkTFgtTllDNjczNjBNTHlDcjQ2ajZ6ak1NX2gwNThjVTlzeGN0bkFQZThwMExCRkRiTE5fM2cxRkE?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "1위 리센느, 2위 코르티스, 3위 키키",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55djFSVVhxSkJkUDZoTENtY3lVYzFVSmVyRGFkN2pSY3QyRnVLcmhXdWNzYkdMQ0pwcS0wTkVNUTA4bVdUcTdTZHVMa2tpZmFjRXpVNzJkYXY3NkhzX2xpMjVQOHZadHRSalI5c29qb09fcU5a?oc=5",
-              "source": "starnewskorea.com"
-            },
-            {
-              "title": "\"리센느가 알려주는 카카오톡 AI\"…카카오, 이용자 대상 캠페인 시작",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15eDN4X2VOR04xYlQzQ00yTzJjRUpvTEFDdFpna0VPc0w4MF9OZkVSckpKVTZ3OXI0c2x2VjNqSE0zU0NudldtMU9UbW1yTEk?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "걸그룹 리센느가 카카오톡 AI 서비스를 알리는 이용자 대상 캠페인에 등장하며 화제를 모으고 있다. 각종 차트에서도 리센느 원이, 제나, 리브 등 멤버들이 상위권을 장악하며 그룹의 존재감을 과시하고 있다.",
-          "headline": "리센느, 카카오 AI 캠페인 모델 발탁"
+          "word": "KTX",
+          "count": 1,
+          "articles": [],
+          "description": "KTX가 오늘 연예 분야 화제 키워드로 처음 등장했다. 구체적인 관련 기사 내용은 확인되지 않는다.",
+          "headline": "KTX, 연예 분야 화제 키워드 등장"
         }
       ]
     },
     "스포츠": {
-      "summary": "한화 8연패·9위 추락, 황희찬 샬케 임대, 정몽규 경찰 소환, 삼성 7연승으로 우승 확률 77.8%",
+      "summary": "홍현석이 조규성이 있는 덴마크 미트윌란으로 1년 임대 이적했다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "한화",
-          "count": 2,
-          "articles": [
-            {
-              "title": "\"안 되는 팀은 이래저래 일이 생겨\" 실책쇼에 한화 '8연패→9위 추락'…류현진은 10G 연속 무승 [수원 현장]",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hakNRemNOSTR3ZnJZU1ZvSC1PTWVkTlpZUFJDYy1SR3o2Rm5oMS1memVQM0E5N19zM09raFAxZlFXOEtPRjNsUXMzY2U1VmpJWFROMUNfRERVV25G?oc=5",
-              "source": "sports.news.nate.com"
-            },
-            {
-              "title": "거제 이재민에 객실 내주고 끼니 챙겼다…한화M&S, 일상회복 지원",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NT0dLZ3ZNUXRvVmFfblBwUkpKMWpCN0F3WUFZemtFUzVscWlEbWtnZU5oX29hUEdZb01rNXA3VDNlcHo1bDZURGVNYndZQWE2YnNPeFFmenFVNlloRGFiWg?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "삼성重·한화오션 부산 설계인력 확충…동남권 조선산업 지속성장 드라이브",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM2R1UHdtRzRfUWxJaUR5d1Z4SElzUmNic04yWGhyVnVUejBjX19JVDdiSFBseHYwdmtqYmh4STVhR1dyNTRibjl4VnptejBFQXdRWS1nQkVqXzRZblc5eXRmZF9tMVZOSWIybzdxUmpmck5uc2JZU3hUT0tUaHBSalh0YzlDMVk1bDNF?oc=5",
-              "source": "국제신문"
-            }
-          ],
-          "description": "한화 이글스가 실책쇼를 벌이며 8연패를 당하고 9위로 추락했다. 에이스 류현진도 10경기 연속 승리를 챙기지 못하며 팀의 부진이 깊어지고 있다. '안 되는 팀은 이래저래 일이 생긴다'는 현장 탄식이 나올 만큼 수원 원정에서도 흐름을 끊지 못했다.",
-          "headline": "한화 이글스, 실책쇼로 8연패·9위 추락"
+          "word": "타율",
+          "count": 4,
+          "articles": [],
+          "description": "오늘 스포츠 분야에서 타율이 새롭게 화제 키워드로 등장했다. 구체적인 기사 제목이 확인되지 않아 세부 내용은 파악이 어렵지만, 야구 시즌 중 선수들의 타격 성적에 대한 관심이 높아지며 주목받고 있는 것으로 보인다. 오늘 처음 등장한 키워드다.",
+          "headline": "타율 관련 화제 집중"
         },
         {
           "rank": 2,
-          "word": "우즈",
-          "count": 2,
-          "articles": [
-            {
-              "title": "전복사고 낸 우즈, 플리바겐으로 5년 면허정지·200만원 벌금",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lM2o5dlc4cTFMdTFhT3BwTDkzc2J4aC1YQ1JxZ2JvQ0hWOGhtNVlsMG8wb0tsNlJjc2RKYXJwZzN4VVFNZXFpWjBfUUJWcHVuQ1hrWmgwLUxvTGvSAWBBVV95cUxORVBUcFVyeEdvbDI5Um9Db1l1S0ZaYzJ5LVZoZWVKc3g3aE9rdTJ6WG1IdEhCSHg3TF9QNGpwZkx0eHJ6SEN4dmM2YVhoVzd0SjlWbV9rV04xc1pYWUc5aHc?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "\"타이거 우즈 상금, 기준 바꿔보니 5500억원\"… 골프 인플레이션이 물가 상승률 크게 앞질러",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX3VLV2xpamY4cktSZ3p5NGo3cDhaZ0tObjdTaDhWQXdXYzVoOHpqLVIzcnRjejM1UzVzYjlkZzI3aGdKYlpVWmg1bFdFOElVYUFUTDFiekF4Y1VyUWhXdWZkb3J4YTFuMzBodUtuQzdfMURZTnJBRWkzZl9KczctR3lHMjc2SmVwMkVvQlk5ZVo0WW55R240STJVZlBYUQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "셰플러, 잭 니클라우스는 추월했지만 타이거 우즈는 ‘넘사벽’…역대 승률에선 우즈의 절반 조금 넘는 수준",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03TnlmV251cmtCZkd4VzcyS1BiQXZPMlBONVhvSFMxWDZ1TWlHWTg0bHNlZ0dDQ2tHekwyYUUwTHJfTDk4U0ZTVDF4eEFqQlEybTlFakk1TjNraE5MNkHSAWNBVV95cUxONlNNdXZ3NkZfNEVJZDVKcVU4VDNkN3dGYnZ3VEdPSXNXQVNORzdSYmJ2REdidEkyUEduQjU4QzAyVE8zb21NM2RRSlRMS3h1U3Fwb0NtN2dZbXV6aTVYbkNyb00?oc=5",
-              "source": "스포츠경향"
-            }
-          ],
-          "description": "골프 황제 타이거 우즈가 전복사고와 관련해 플리바겐(유죄협상)으로 5년 면허정지와 약 200만 원의 벌금 처분을 받았다. 한편 셰플러가 잭 니클라우스의 통산 기록을 추월했으나 우즈의 승률에는 절반 수준에 그친다는 분석도 나왔고, 우즈의 누적 상금을 현재 물가 기준으로 환산하면 약 5500억 원에 달한다는 보도도 이어졌다. 오늘 처음 등장한 키워드다.",
-          "headline": "우즈, 전복사고 플리바겐으로 면허정지·벌금형"
+          "word": "투어",
+          "count": 4,
+          "articles": [],
+          "description": "오늘 스포츠 분야에서 투어가 새롭게 화제 키워드로 등장했다. 구체적인 기사 제목이 확인되지 않아 세부 내용은 파악이 어렵지만, 골프·테니스 등 투어 대회 관련 소식이 관심을 모은 것으로 보인다. 오늘 처음 등장한 키워드다.",
+          "headline": "투어 관련 화제 부상"
         },
         {
           "rank": 3,
-          "word": "정몽규",
-          "count": 1,
-          "articles": [
-            {
-              "title": "경찰, 정몽규 피의자 소환 조사…홍명보 선임 배경 규명하나",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KWFV1MEZEY1k2NmNMdnB0YnN3UXdPN1JwLVNNYWpoU3A0VU1YNnNwRFN3WGRHYjdITVpadVNWY213SXhxNHVaa1M0aDVEN3ZjaGc4NFB3MUNHVEE?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "’홍명보 선임’ 정몽규 12시간 조사…“개입 없어“",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53eVQwcEdJamt4Z0ZXTFpjYVpld1Bsekl5SG91NDd4WV91QW5VRHd5MW9KdmdfbmN0Zjc1RGhjX3U4cEU2N3BiZHZnUUNKaWNaTGV4Vm9tOUcxdlVFRVJuSEZPNm9JTEU?oc=5",
-              "source": "연합뉴스TV"
-            },
-            {
-              "title": "오늘의 주요뉴스…'감독 선임 개입 논란' 정몽규, 피의자 신분 소환",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GN21fcjRvdE9fcGpTWXhFa3c2c0JqeHlxUUVnXzVySnJuVm1MckRCdzdza3hGX2hjbkxlU1lOaHZIWHJDNlBWcVd1T2kwWWdTZzl6X2NpT0xic0Q0Q0tuSDJzSlBjMkZnb3fSAWZBVV95cUxQc3BxUms2VVdyVkJBSm5kWkxmWERuVURhUGNmZDFoUXFINmRRY0ZyNmt2d3Baank4M3YtUHgzQXIyR2JiTFhCYU8taVJNNk16QzZsN0pnZGZMVlZpR3BXaXFidmY4a3c?oc=5",
-              "source": "news.sbs.co.kr"
-            }
-          ],
-          "description": "대한축구협회 정몽규 회장이 홍명보 감독 선임 과정에 개입한 의혹으로 경찰에 피의자 신분으로 소환돼 12시간가량 조사를 받았다. 정몽규 회장은 조사에서 '개입이 없었다'는 입장을 밝혔으나, 경찰은 선임 배경을 계속 규명할 방침이다. 오늘 처음 등장한 키워드다.",
-          "headline": "정몽규, 홍명보 선임 의혹으로 12시간 소환 조사"
+          "word": "이정후",
+          "count": 3,
+          "articles": [],
+          "description": "오늘 스포츠 분야에서 이정후가 화제에 올랐다. 구체적인 기사 제목이 확인되지 않아 세부 내용은 파악이 어렵지만, 샌프란시스코 자이언츠 소속으로 활약 중인 이정후의 경기 성적이나 활동 관련 소식이 팬들의 관심을 끌고 있는 것으로 보인다.",
+          "headline": "이정후 관련 화제 지속"
         },
         {
           "rank": 4,
-          "word": "황희찬",
-          "count": 1,
+          "word": "임대",
+          "count": 3,
           "articles": [
             {
-              "title": "황희찬, 울버햄튼 떠나 샬케로 임대…5년 만에 독일 복귀",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93S21IdDVuM2pMQ0tSX2RsSGJYNzRvT0ZCT01mV21rd1Rrbm1kcUFOYnlEaUhxLUZ3Z1cxX1prb3JxUm54akZyUVZ2MndBaXBXMXhNM0tkajJiekdGWXc2U9IBeEFVX3lxTFBJQTYwbFdWb3YwQnpNb2tvMEYwWDFrU2VBaENwLXAya3N2blN0bGR3dnZIZnE4TC10akpOcnBlT2hSNDZSSkNMV3dWUUlpemZ5SDdVYWxiaEM4cHo0UHdtR3ZuM2lPYTdqN2RWNE44eEM0Z2xiNXkySw?oc=5",
-              "source": "뉴시스"
+              "title": "홍현석, 조규성과 한솥밥…덴마크 미트윌란 1년 임대",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3bzlCMHlMSE5ZcWxISzRDR3ZfRDh3SGhoUDhPZmM4dG9xdU1FT2pYZkFPc0xtS3hPRjdtQzhQQVl2YWQ3SHRZR1NNS2ljMjNhN1FDaGZB?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "'황소' 황희찬, 울버햄프턴 떠나 샬케로 임대…5년 만에 독일행",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jNXJCb2FRY2F0MXlCXzdJSjhqUjFURlFKdEQ3U2pVZGxSQVZFWW5vNkk5QkZhSnY3T3FkblhfZEhoYzlyUS1tR3VxREd6Vm8tUjJGclYwZ0ZFQUk?oc=5",
-              "source": "일간스포츠"
+              "title": "홍현석, 조규성과 한솥밥‥덴마크 미트윌란으로 임대 이적",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zQ0wzZzEtV0ZmQm5oNkc1SFJIbmlpNk80NmY3S2FhakFoOEQwc0NYUHlncWxrVHQwMVg5dnpOU0Q0dy1PTGc5bURsUXpwMUZEN1huZ3dDeF95S2stVEE0OHlXYmF4Z0IwQ2RqQ1VHeUFSZnpuSmfSAXZBVV95cUxPRExKVmZVRk9YbndZSzlWZ1Y0R1k2djFoQUJnbjlDUFFiQ1lNYnFYUE9PZk5XNzFycC1rUkI4ajZPWURsUXEtV2prVU1WRUFwRWQzeTZYbTQyQUU1dTV1eHpubHlsVl9NZDdUeVhNQVlRUHozWVV3?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "황희찬마저 떠났다…박지성 이후 21년 만에 EPL 한국인 전멸",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVS1SSjR5RWNLSlh4aHFvZmhvT2RnaVRGYzhPRFBIQTNCbGFjcGNmdkxIdWJkSTlVWXA3NXBGdHkyZ2hPRER2T3RBeUtvT25pWkgyc3dSTWx0MDIzRERDWGN1NE04N25NZEFROUpsd01abDFBX0VWTg?oc=5",
-              "source": "네이트"
+              "title": "홍현석, 조규성과 한솥밥…덴마크 미트윌란으로 임대 이적",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxZTdvUElvMXNGdXNDWlVKNllTODhaWFkxSmE2TEdYT0F6cG1yQzFIRjRCWDBxWFVtVDJiVUFVc25RQWprdDhneVBTVTIyT0ZMQl8wUdIBWkFVX3lxTE9Pa3hvNGd3MURoQ2JDZDlRcVZzVGxjVEVpc2JDVDRBRnB5UzdPYlFpRGFKSDdxdVVqNWVSRV8xaTNrS0gxWi1xQ0FDdHhzajJXZkR6TVI1eG5wQQ?oc=5",
+              "source": "뉴스1"
             }
           ],
-          "description": "황희찬이 잉글랜드 프리미어리그 울버햄튼을 떠나 독일 샬케로 임대 이적하며 5년 만에 독일 무대로 돌아간다. 이로써 박지성 이후 21년간 이어온 EPL 한국인 선수의 명맥이 끊기게 됐다. 오늘 처음 등장한 키워드다.",
-          "headline": "황희찬, EPL 떠나 샬케로 임대·5년 만에 독일 복귀"
+          "description": "홍현석이 덴마크 미트윌란으로 1년 임대 이적을 결정했다. 미트윌란은 국가대표 공격수 조규성이 소속된 팀으로, 두 선수가 같은 팀에서 호흡을 맞추게 됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "홍현석, 미트윌란으로 임대 이적"
         },
         {
           "rank": 5,
-          "word": "삼성 라이온즈",
-          "count": 1,
-          "articles": [
-            {
-              "title": "‘70승 선착’ 삼성, 7연승 내달리며 꽉 틀어쥔 우승 확률 77.8%",
-              "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPa3FpTTNNYjN3S2tweGUtcVFDQkcwT0E0QXFGZ1NtN09nMXVqandBWG1xZ2c0Z0N3TkRGQjhCcHR2enk4bE9lYlBuZ3RPVTRlTkRLdXBTRG5vSmtZalVZdldRWW1iNEI3V1k0RV9DSkMxR0ZmNGJZNnMzNGhrSFhFczJyMVRYN2JkRXVCeVpQWXRYMmprQVNBZjJ3UFQ4RE9Bbm5iNXp1cTU4dUhuY1p1Y09pYVpmMXJILUJpbGhLU1pMaEhDMEJ0YVVKRzZrb0ZzcTREQ1dEc1g1SVJHZ1FqRGYtSmZxZkJEbHhRZHVmME9hQTBFNFpJVjJreDVNMU9zR1hr?oc=5",
-              "source": "데일리안"
-            },
-            {
-              "title": "문경시, 삼성라이온즈파크서 농특산물·가을축제 홍보",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TSW9hZUtnb1VrR0RZdlpJVnBKeXpWTXpFMUxYU0dQbE0xVXhwVjhVVWlJNHNNSlN2UlRXY2trUGVJU1I3MnlNMVNpRzJ0azBndlNtekpVeFNBSUE?oc=5",
-              "source": "에너지경제신문"
-            },
-            {
-              "title": "`타율 0.403` 삼성 구자욱, 8월 구단 MVP로 선정",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PMmU3NUpTM1FodkhuNmlHT2NMZVE4TjZJWTFkei1xYzNmaFNaNlhmeHk0YWNGN3h3Ym5RZFhBQVUyQzd4LU5ybXE2cjFNal9xTmFsV0ZSaHlxQU5sZ1FjQg?oc=5",
-              "source": "mydaily.co.kr"
-            }
-          ],
-          "description": "삼성 라이온즈가 7연승을 내달리며 KBO 리그 최초로 70승에 도달하고, 우승 확률 77.8%로 선두를 굳건히 지키고 있다. 8월 구단 MVP로는 타율 0.403을 기록한 구자욱이 선정되며 팀의 독주를 이끌고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "삼성, 7연승으로 KBO 70승 선착·우승 확률 77.8%"
+          "word": "챔피언",
+          "count": 3,
+          "articles": [],
+          "description": "오늘 스포츠 분야에서 챔피언이 새롭게 화제 키워드로 등장했다. 구체적인 기사 제목이 확인되지 않아 세부 내용은 파악이 어렵지만, 국내외 스포츠 리그나 대회의 우승 관련 소식이 관심을 모은 것으로 보인다. 오늘 처음 등장한 키워드다.",
+          "headline": "챔피언 관련 화제 부상"
         }
       ]
     }
