@@ -1,389 +1,389 @@
 {
   "date": "2026-09-10",
-  "updated_at": "2026-09-10 08:00",
+  "updated_at": "2026-09-10 22:03",
   "briefing": {
-    "text": "이란 핵시설 건설 급증과 남부 폭발음 보도가 겹치며 중동 긴장이 고조되는 가운데, 트럼프 대통령은 중간선거 이후 이란전 종전과 유가 급락을 언급해 국제 사회의 시선이 쏠렸다.\n\n국내에서는 이재명 대통령이 연임 개헌 논란에 처음으로 직접 선을 그었고, 청와대도 연임 불가 입장에 변화가 없다고 확인했다. 호르무즈 파병 검토 발표와 맞물려 대통령의 국정 운영 방향을 둘러싼 정치권 논의가 이어졌다.\n\n파주 냉동창고 살인 사건에서는 피의자가 피해자를 감금한 직후 AI에 '창고에 사람이 있으면 어떻게 되나'라고 검색한 정황이 드러나 충격을 주었다. 경제 분야에서는 국제유가가 100달러를 돌파해 증시를 압박한 반면 코스피는 7천선에 안착했고, 최태원 SK 회장이 이혼 재산분할 7천억 원 수용 의사를 밝히는 한편 스마일게이트 권혁빈 창업자의 분할액이 2조 5천억 원으로 책정되며 주목받았다.\n\n스포츠에서는 KIA 김도영이 40호 홈런 직후 타구에 맞아 코뼈 골절로 전선을 이탈한 반면, 이강인은 아틀레티코 마드리드 데뷔골에 이어 라리가 이달의 골까지 받으며 대조적인 소식을 전했다.",
-    "period": "아침",
-    "generated_at": "2026-09-10 08:00"
+    "text": "한동훈 전 대표가 총리실 직원에게 사찰을 당했다고 주장하며 김승원 법무부 장관 후보자 녹취록까지 공개해 정치권이 요동쳤다.\n\n국채금리 급등으로 '주담대 8% 시대' 우려가 커지는 가운데, 유조선 충돌 사태로 통제구역이 확대되며 원·달러 환율이 1,345.6원까지 올랐다. 메모리 반도체는 AI 수요에 힘입어 2030년까지 호황이 이어질 것이라는 전망이 나왔다.\n\n우크라이나 드론이 국경에서 약 3,000㎞를 날아가 러시아의 가스 핵심 시설을 타격했고, 아이치·나고야 아시안게임이 개막해 한국 남자농구가 사우디아라비아를 82-66으로 꺾으며 선수단 첫 승전보를 알렸다.\n\n연예계에서는 아이유가 1년 만에 신곡을 발표하고, 이효리 출연 예능의 연출 의혹 논란이 불거졌으며, 제니를 둘러싼 아디다스 불매 운동도 소셜미디어를 중심으로 빠르게 확산되고 있다.",
+    "period": "저녁",
+    "generated_at": "2026-09-10 22:03"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "이란 핵시설 건설 급증 및 폭발음 포착 · 이 대통령 연임 불가 입장 재확인 · 파주 냉동창고 살인 피의자 구속",
+      "summary": "한동훈, 총리실 직원 사찰 주장·허위사실 유포 고소 · 승리, 특수폭행 혐의 고소",
       "keywords": [
         {
           "rank": 1,
-          "word": "이란",
-          "count": 3,
-          "articles": [
-            {
-              "title": "美CSIS \"이란 '곡괭이산' 핵시설, 올해 들어 건설활동 급증\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXdjBIUTdHdW1mWWMxbFcyS1k2QjRIc0hHRHl5bjU4T2JPUTRTbU9YbjVjNFJrbUtqYTZZQkpDbnhxb3V1S3lMZUtSYnVTR3c?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "이란 남부 해안 지대 여러 곳에서 10일 또 폭발음 들려--파르스통신",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZmZYWlliN0tqRUcydVppbUhsWEtWUmxHamREaldfbDRiQXRna1FpRVpMV29iUEdYQjRKdmRUS1dzOTlLTlZFZlhqejE0VEFpd19TLWI2YzU0eThuNXU4eNIBeEFVX3lxTFA4aGpraUtsWUlIQjlHWXBkSVU1blU2Y2JJUXJFdW9ldnVPZHdwVTE4Q3MyZnBweXEzTmdMaWx1TC1RNFFpczA5Sno1dmhwNHdGOFFGYVZPM2hOOEtRMk5KRTFUZjNHODNTY3l0a0dGbGRYcVp6Nmdybg?oc=5",
-              "source": "newsis.com"
-            },
-            {
-              "title": "트럼프 \"중간선거 직후 이란전 끝나고 휘발윳값도 급락할 것\"(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBd3MtLVA5eE4ySmx6THpuY2dkUFAwcnF2N0d4R0FDY1VveUJEWi1aVkMtWGtXaXdVaGxrVE1MbzBGTjJFWUV1N0t5SlZNamZMUHBIaWszVDkwYjjSAWBBVV95cUxPMWtsUXFCQlVVTEpTOWlIR19rcVpiY01IWFAzZU1Rd3RBY05zamlUeVJVWkRJTlg0TTMtNWtOTm5uV05oMTZMbHlhamhiOFhCWWJTWHlpUEhZa1FKc3hUbWo?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "미국 싱크탱크 CSIS가 이란 '곡괭이산' 핵시설에서 올해 들어 건설 활동이 급증했다고 밝혔다. 같은 날 이란 남부 해안 여러 곳에서 폭발음이 잇따라 들렸다는 보도도 나오며 긴장감이 높아지고 있다. 트럼프 대통령은 중간선거 직후 이란전이 끝나고 휘발유 값도 급락할 것이라고 언급해 외교·군사적 국면에 관심이 쏠린다.",
-          "headline": "이란 핵시설 건설 급증·남부 폭발음"
-        },
-        {
-          "rank": 2,
-          "word": "연임",
+          "word": "한동훈",
           "count": 2,
           "articles": [
             {
-              "title": "이 대통령 “제 임기 헌법상 명확히 제한”…연임 개헌 논란 중 첫 언급",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jVi1SNURqeC1HYjZ2SWZPdF8tQ2RfS1ZDSXFhUVZQQjAxZ193b3lLekV5WjdOZHRrNFdlc1RuNkNMYWI3RkNhdmtLUDV4QUpLR0tHS194UDktS1Aza09XNWVEYk5hdDl3b2Y4QkhLZGdZTU5F?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "청와대 \"호르무즈 파병 신중 검토 중…이 대통령, 연임 불가 입장 변화 없어\"",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PZEpfblBHbkxBUk9rVTlCREUzRk5OanpFekZXWEhRMmFpVExYNHd3MnBtUW9rc2F5OXZMVldYbm14cU03TVZKQnRfcjZzWUZ2WGlodg?oc=5",
-              "source": "JTBC"
-            },
-            {
-              "title": "’연임개헌’ 선그은 이 대통령…“임기 헌법상 명확히 제한“",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RTk11OU9LNk5SNVg2cnVaTFlJWmZZZTdzRFF6ODhmbDdZSGFWdFNuNUx5ejhCeUYyR29TaXRzZzg3U1hSSFZ0aU9ydS05SDVrSEN5LTZjZnp0LU1Pak5keExjQ3lUdVE?oc=5",
-              "source": "연합뉴스TV"
-            }
-          ],
-          "description": "이재명 대통령이 연임 개헌 논란이 커지는 가운데 '제 임기는 헌법상 명확히 제한돼 있다'며 처음으로 직접 언급했다. 청와대도 대통령의 연임 불가 입장에 변화가 없다고 확인했다. 호르무즈 파병 검토 발표와 맞물려 대통령의 국정 운영 방향에 대한 정치권 논의가 이어지고 있다.",
-          "headline": "이 대통령, 연임 개헌 선 긋다"
-        },
-        {
-          "rank": 3,
-          "word": "직후",
-          "count": 2,
-          "articles": [
-            {
-              "title": "냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\"",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YRzVXcjhlMmx3SnV6aElKV0hnVnB5NkVNNWZ2ZlhPaF9hWUl6VmZRNkw2RzFnZ21DOFRFaGNzaUlLWEZXSWFsTnh3MGVmMWNwRGM1WEdJQnJSRHhGOHdGdkMtNWs2SzZfUG1PWkNtb3BqRjBHd0xR0gF3QVVfeXFMUE5WcWgtUnVDckxIMk5qWTQ5Nm5yUWt4UXhaSGpWbXVNLWZ6RmJ2Z0NhLWN0NEwwdER3R2lJaU1aQW00UkhaWVdPWnBmZGtQWjM2MkJTQ2VobDBDM093eElta3d1RWFJS25FTHV4QUlnc2pMOF9HME0?oc=5",
+              "title": "한동훈 \"김민석, 허위사실 유포 고소‥'유출게이트' 꿈깨라\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GLWxvV09TcXZVWm9JdE42aTR4ZGJWUlQwTmp4U3hvMWw2djlUbmlQejNYNHZhZjlOdy00ekRZeHo4YnNDeVFseXNCM2FkclRMZ2ZQc2RWVm5ZMmlTY3hsLXNUQVFBZlVXOUtKUXc5LTN4UExnQ3FZUtIBeEFVX3lxTFB5ZGNXRVA1dF94ajVGNUl2VjVzVjFyaHpLVlN4RHRva3RpTTZWbFRySXduZ25IQUliX25ZdTI1RkdyaERILVlQWDJXd2dVd19Va1JyUVJOZHNDN0E1Y2FOYzlqbDZQcnJ1NnI4aGJSXzRRTGJQVlFLbQ?oc=5",
               "source": "MBC 뉴스"
             },
             {
-              "title": "냉동살인 피의자, 피해자 감금직후 카페 들락날락(영상)",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wZURWY1kzak1zVFlfS2UwVDg3OWpVeXdTa1JkUHczWUhJS3p6TmdnVDBMbVFUX0IxNTFfeG5QZXN2UF9tMU1qMWV1VC1KUmtwcGx6SDNKM01ZWjBmMVNBVdIBeEFVX3lxTFA3ZW52TGxTRkxkbkJNZEQzS3JTTjlWZWFHcjBza0dLREdkb0p0ZXczeG56c3k1b05JSXdFWndyVmpGVkJRQk9lbG5jRXozMW54YlBUQzNDelBhdnFleDk3NE1QSWNuQkNWaUVMQURxYjItWFd0TzNFSg?oc=5",
-              "source": "newsis.com"
+              "title": "한동훈 “총리실 직원이 사찰”…한성숙 “과한 말씀, 부적절시 엄정처리”",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91RmZMdENEaWhRaVgtZU5La2hlcF90T2NZM1h6LUdFSnFwRTk0XzQ2Q0RLM1FxNjN6VGY0eERnXzVGc2hlWDRLemZjWnpRRXNJaXJJeDZJOHVtQ2k1aVZqNUwxa2Jvc3h5REVudURLc1cxMFVj?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "실종 선원 2명, 사고 직후 선상서 추락했다",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0aW1uQUNYT1Qtc1FjYWkzSnByREU1TkNuZkloV1NTbTZoN202T2poRDl4WDBaTjBWX1JPYlRkdkxtRDdsN3U0LUJwbEFieXd1MU5NQ09IeGRLelM3N1g3QTV3QnlQbmNjSXA2VXRkVTljV01j?oc=5",
-              "source": "부산일보"
+              "title": "김승원 법무후보, 녹취록 공개한 한동훈에 \"악의적 왜곡·조작\"(종합2보)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEb0JoSU9jM2JmY2J4elE5WklndkR2WGxYUXJ1bU9YZU9DYktmY3V4VlFHVVM1T1Rub2JGZm5YOGRJcFBNYWFLODJ0WGtZMDg?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "파주 냉동창고 살인 사건 피의자가 피해자를 창고에 감금한 직후 AI에 '창고에 사람이 있으면 어떻게 되나'라고 검색한 정황이 드러나 충격을 주고 있다. 피의자는 감금 직후 인근 카페를 들락날락한 영상도 포착됐으며, 현재 30대 남성이 구속된 상태다. 오늘 처음 등장한 키워드다.",
-          "headline": "냉동살인 피의자, 감금 직후 AI 검색"
+          "description": "한동훈 전 대표가 총리실 직원에게 사찰을 당했다고 주장하며 논란이 일고 있다. 한 전 대표는 김민석 의원을 허위사실 유포 혐의로 고소하겠다고 밝혔고, 김승원 법무부 장관 후보자의 녹취록을 공개해 파장을 키웠다. 한성숙 국무조정실장은 사찰 주장에 대해 '과한 말씀'이라며 선을 그었고, 김승원 후보자 측은 '악의적 왜곡·조작'이라고 반박했다.",
+          "headline": "한동훈, 총리실 사찰 의혹 제기"
+        },
+        {
+          "rank": 2,
+          "word": "가스",
+          "count": 2,
+          "articles": [
+            {
+              "title": "우크라 드론, 국경서 3천㎞ 날아가 러시아 가스 시설 타격",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfZHJHTWl1RkpOckh2aG4wX09WaW4tb1pRRTdhT2pSWDF2QlRueHdsWDUtN0N1STRtbmRtUDNSR1ZmcWIzWDQ3dEpFc2hqTTViRmV4M1RKRW1QUTkwZ0xJYXVkT1B6THliUVBjR3VaZDNDdkxq0gF0QVVfeXFMTWxqVEVCYWhuYldJazFWTFpYSDJiaElXZGZvSjNUd2FyTEFlU1VhZ0VsZWZ6Rkx0SUZrUmdiZ3dtZ1ROT1RVd2Y4RGQ3bjNPSm84bGt4VVVSeGdpbE5lbEF2dHBwTmtudXo3cGdHa0R2NXBIQUI?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "3천km 날아가 쾅!…우크라 드론, 러 '가스 수도' 타격",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTk5OM0tzWktPcEhCeFRMbERzQzNKLTBSYzhTbW5UdVBIeldES3pJWFZFUzBmQlR3ekRkQm45NHBBNmx6cWF4S3FXVEF2bFlpVzJhNWpkN0tWU03SAWBBVV95cUxORFI1UGEyYU1lMzc4bkQ0UWJrQ2lkX2pFU2tfX1NubnV0OGJfQy1OM01QMURFczVKcnpnLVhvRHQ3OEs0ckNnSmh6NjVIbVRJN1h0YVVDaExFdXhDVmpOcmg?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "우크라, 러시아 ’가스 수도’ 타격…국경서 3,000㎞ 거리",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MeVU0YWhocjZNN3dsNWVqQ0Z5LUFvMzlYRVpWbXJSM2NLV21EVUdqREpweVNwbU8zOTR4eHNYU1JDSk5iR0Y2ZUV3Y1dRQ0dxYkJXTWo4OG8wOHVJRENPMVBXbmpxbzA?oc=5",
+              "source": "연합뉴스TV"
+            }
+          ],
+          "description": "우크라이나 드론이 국경에서 약 3,000㎞를 날아가 러시아의 '가스 수도'로 불리는 가스 핵심 시설을 타격했다. 러시아 에너지 인프라를 정밀 타격한 이번 공격은 장거리 드론 운용 능력을 과시한 것으로 주목받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "우크라 드론, 러 가스 수도 3000㎞ 타격"
+        },
+        {
+          "rank": 3,
+          "word": "유가",
+          "count": 2,
+          "articles": [
+            {
+              "title": "엔화 강세에도 유가 상승 등에 환율 상승…1,345.6원",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43WTg4cVJubTRwZE1Xcy1wOXlOMVdRYllQQW5hcXN1MEgtWkpocG9kbHktRU50bDdYQjJ1TTIwWTE2eG9VeW5obmxwQ3VCOVhPZWZJZmVhWVJabnfSAWBBVV95cUxOMHFTRnNvZFFzRURXQU9jV1N3dDFpSDYyMXpobGdkZE56TXFhcE9CRUxKaW5vMWkwZVdtWXlzalI0TXJ5cGd4a3ZFbk8ta09BN3prX3R1QTNKdlZld0F2UGs?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "유조선 난타전에 통제구역 확대 \"들어오면 제재\"‥유가 어쩌나",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UUkU5Rk5HSFZVUEl1NENFZ1JSMGpGWUNqUGNrdlEtazdqUENZSDVCUWJOUDhSRHQ0TjVFOHA2VjdHdEtLOWlsNFhSUDJHcl9tYXB2SFdIVFRSSVljb0Nia29pbUd2YkdYdmRod1AzN1NYREVUNmF3ONIBeEFVX3lxTE9ERDRoR0lkZlRlWGFvWXZvUUoxV2xFTXFZQzdlZ3JYRkhpRFhQRjBoVzlieTRrYU9iZmRDLWRDOTBhNTQtTnJJTDhxUmluRU9XbVFVMF9jekthWnV5NU03LTRrV1RjcW1FRERCODlXWUFHSnRjTHN5Wg?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "전세계 ‘유가 패닉’ 빠졌는데…“트럼프는 주식으로 59억 벌어”",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83amUwNFA2b2RDaF9pY25EREdQYzFRekxSOFJLcy1Ya3pYM1JFX09VU3hOQWlHQ05lbGpqNkdVLWE0bEQ4dVExTjBaQ2NYQWc?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "유조선 간 충돌 사태로 통제구역이 확대되며 전 세계 유가 불안감이 커지고 있다. 유가 상승은 원·달러 환율에도 영향을 미쳐 환율이 1,345.6원까지 올랐다. 한편 트럼프 전 대통령이 이 혼란 속에서 주식으로 약 59억 원을 벌었다는 보도가 맞물리며 논란을 더하고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "유조선 충돌·통제구역 확대에 유가 불안"
         },
         {
           "rank": 4,
-          "word": "실종자",
+          "word": "고소",
           "count": 2,
           "articles": [
             {
-              "title": "부산 예인선 전복 실종자 1명 시신 포항 해변서 발견",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3YWdWZW5rWlVoQ2I0akNiUFA5MnRCZ2x4RTdjbGU1cVg1R2xIc0poamV4MWFhYk1fNXRldGFFUWhIR2J6LWdkQ1JsWldPZzA?oc=5",
-              "source": "v.daum.net"
+              "title": "그룹 빅뱅 출신 승리, 특수폭행 혐의로 고소당해…강남서 접수",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qeDVaZzIwU2xkSWp3S0l5YVpNVHBfUFZCSlBlN0ZhdnpXTWctZkt1Wk0weUtYRms0d2ZfaE13Z3lwZVFNc1dnbklOLTJydVBHV1ZpVDgxNkE0dEHSAWBBVV95cUxNV0tuRDJQektjbUdzWGlnOXJLbFluUVpSQlIxalhnVnQ4NmJNd3Z6ZHRzb2hnMHFXY1ZaN1B6Y29ZUTB6NGVvMFRiRnpaRDhvMm12ZU5tdi0tYjZBa3hkbUU?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "파주 냉동창고에서 실종된 여성 시신 발견...30대 남성 구속",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05enNWSjFjbk5ZYVBrWGNUS0FFRFg0VmlvVXlSNEdiejZjWmxpWDIzVkkxVzFramdqQjAwZ2oxZ2RYZjJkNVIzNVA3UWltYmUzdDdoUll2aVVRci1QWWc?oc=5",
-              "source": "YTN"
+              "title": "\"식당에서 갑자기...\" 빅뱅 출신 승리, 고소 당해 경찰 조사 중",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PZWVWRlhOd1RpMmhTbUQxTjZiSDhuWjdHbDg3YTFLQ2VqVmN2bU9YMlk1N3ZRUWI2QjRicXF6d1NWdEotdV9Od05JTHp1XzdkRlRETnN3?oc=5",
+              "source": "위키트리"
             },
             {
-              "title": "제주해역 사망·실종 45% 가을 집중… 전국보다 16%p 높아",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TYkZMLUZzT2dxaEJBSmladFZqenJlNXFJdk1venFheVB6MS04NkJSVy1vdkVCV25jcDBkRmhRcmwxQ3B2dl8wZHVkeEJIaEE?oc=5",
-              "source": "v.daum.net"
+              "title": "빅뱅 승리, 식사하던 30대 남성 특수폭행 혐의로 고소당해",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3TlcyVmpwNkNpdGJfMFVkR1NEdzkxS0Qwb2J2cXRNZW1QeTdvODlWOUkzd0Q3ZUkzNmx5bTNvbGlpZnV1bS1vV3RaNU42M2dmbWduSg?oc=5",
+              "source": "JTBC"
             }
           ],
-          "description": "파주 냉동창고에서 실종된 여성의 시신이 발견되고 30대 남성이 구속되면서 사건 전말에 관심이 집중되고 있다. 부산 예인선 전복 사고 실종자 1명의 시신도 포항 해변에서 발견돼 안타까움을 더했다. 별개의 실종 사건이 동시에 해결 국면에 접어들며 오늘 실종자 관련 뉴스가 집중적으로 쏟아졌다.",
-          "headline": "냉동창고·예인선 실종자 잇따라 발견"
+          "description": "그룹 빅뱅 출신 승리가 강남의 한 식당에서 30대 남성을 특수폭행한 혐의로 경찰에 고소됐다. 피해자 측은 식사 중 갑자기 폭행을 당했다고 주장하며 강남경찰서에 고소장을 접수했고, 경찰이 현재 조사 중인 것으로 알려졌다. 오늘 처음 등장한 키워드다.",
+          "headline": "빅뱅 승리, 특수폭행 혐의로 고소당해"
         },
         {
           "rank": 5,
-          "word": "국민",
+          "word": "코치",
           "count": 2,
           "articles": [
             {
-              "title": "이 대통령 \"멀리 떨어져 있어도 국민 목소리 정부에 제대로 닿도록\"",
-              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeTcyOHliVHlxS3g3UnhUNzVJUHl0a1hYZ3hKUUJmTmpiZlRUUjIxYXB5RkxQcnlGaWdfSHY2b1d4aWVuNW9ad2laZDFyTzE5SmpsVzJKRUQyT3JKMHY5WlYzNlZWZzBWb1NuekdpVkxzMWZTM1A2Um56dWthdXZZY3ZEdUh3dEx4OGc?oc=5",
-              "source": "정책브리핑"
+              "title": "'모레노호' 축구대표팀 코치진에 조용형·이재홍 코치 합류",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIcU41cjYxUVVQaFFPZG9rYW1mdW11Wmxod0YyMzhSYzEyV3hMaUgxWktrN3htNHJpMi1hVWp6UklWcEZZdi12aEl4clBKci1DaXFhYklMcWp4dGJQaFBLcNIBYEFVX3lxTFBIcU41cjYxUVVQaFFPZG9rYW1mdW11Wmxod0YyMzhSYzEyV3hMaUgxWktrN3htNHJpMi1hVWp6UklWcEZZdi12aEl4clBKci1DaXFhYklMcWp4dGJQaFBLcA?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "원칙 지킨 일본, 국민연금 56조원 내다팔자 외국인이 87조원 폭풍 매수",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92Q2pMNllTQjZrOU5vdVJwb3B4MEVBMVJ4blpQc2tHTHhPMWNyNjg5ZWU5UmVacS1KQ3ZMN1RwRWdMNUpxcFE?oc=5",
+              "title": "'모레노 사단의 가교 역할' 한국인 코치 조용형, 이재홍 합류",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zTWg3b183RnA4ckxDZW1ZejNmV0xwWWlha0VwQ2ttMENjbDg4UHBpNktMTGhjdkJoc0JDZWdpTnUyc0ZQNk9GMXJpMWhfQWM?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "이만희 국회의원, 국민연금법 개정안 대표발의",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCZUFNNXhmVGhSUUVhSUs3QzEyMkFNakFEWkZOLTI2UTJFRUlwN0hIZXFHX1dISk1teWhsN3Vmc0c0aTdkR1BtX25YUXo2a1QwVEt0eFFrX0hVRHZ2MmpxUkhmeG1RMjl0SmhBd2kySlAxa3fSAXdBVV95cUxPaEZHTTgwMmdqaldtSFpid2RpSnZZZEhkb3prZmJud2hOTmpoLUh2bU93Rmp3SjhpUjVwemdaOUJEOFZ3cXRCalZLbi01QTVaa1VZQ1A1el9mX3c1R0wwdVZtMGFWSUpIcEhQeUcxTnNMYVB0MldCZw?oc=5",
-              "source": "스트레이트뉴스"
+              "title": "‘모레노호’ 축구대표팀, 韓 코치 조용형·이재홍 코치 전격 합류…출항 준비 끝",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUV2JwcE9jaW9WeGRVSWhpLXVET1ZIcGVLajFoclp2QmFiWlRZWElXdmFJMnJQOU56bDg0eGZ0X2w5VHVsamhZM2FRdTV2WE5JQ0t1M0QwTEdBN0MzeFJJU1AyYUJkMGNN?oc=5",
+              "source": "일간스포츠"
             }
           ],
-          "description": "이만희 국회의원이 국민연금법 개정안을 대표 발의하며 연금 제도 개편 논의가 다시 수면 위로 올랐다. 한편 일본이 원칙에 따라 국민연금으로 56조 원어치 주식을 내다팔자 외국인이 87조 원을 폭풍 매수했다는 소식도 주목받고 있다. 이 대통령은 국민 목소리가 정부에 제대로 닿도록 하겠다고 밝혀 민생 소통 의지를 강조했다.",
-          "headline": "국민연금 개정안 발의·외국인 폭풍 매수"
+          "description": "새 축구 국가대표팀 감독 모레노 체제에 한국인 코치 조용형·이재홍이 전격 합류하며 코치진 구성이 마무리됐다. 두 코치는 모레노 감독과 한국 선수단 사이의 가교 역할을 맡을 것으로 기대된다. 오늘 처음 등장한 키워드다.",
+          "headline": "모레노호, 한국인 코치 조용형·이재홍 합류"
         }
       ]
     },
     "경제": {
-      "summary": "삼성전자 노조위원장 계약 논란 · 유가 100달러 돌파로 증시 압박 · 최태원 재산분할 수용 · 오픈AI, 수학 난제 해결 및 인간 증명 테스트 통과",
+      "summary": "국채금리 급등으로 주담대 8% 우려 속 변동금리 쏠림 심화 · 메모리반도체 호황 2030년까지 지속 전망 · 포스코, 노조 요구·자회사 지분 매각 등 현안 직면",
       "keywords": [
         {
           "rank": 1,
-          "word": "삼성전자",
-          "count": 4,
+          "word": "금리",
+          "count": 5,
           "articles": [
             {
-              "title": "삼전 노조위원장, 장인 회사와 '집회 물품' 계약 인정…\"부당이익 없다\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oZFU2UG9OZl9iR2k0R3Q5YmVva0ZKcFdHR2liVEtKNmcySm5BWWUxREhPdmppdDUyaEhJdnZmLS03bWgwZ0prTDM3Y2Faek5qb3Q1SEFOc1VtcjRtSUlOTWxsLV9SZWRfLWlhedIBckFVX3lxTE9MN3IzaDNIc3p6SDFnWmowWVVQYnpReUhMSFo0NlY5bWpPMERsYk1Hc0I5ODRyeGRRWm5BTmxvVm9fNmw0MGEzTEtZTXVhOHZVd0NtQW44ZnJVR3l2ZnhqYXB1OFprWnlINnhYb2tNR29NQQ?oc=5",
-              "source": "머니투데이"
+              "title": "변동금리로 몰리는 사람들…10년 고정 주담대 \"안사요\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mUXRjR2xqWXZGVDFJUUhUZGxvb0dVX1Z0TVgtdjRuWUJyRTFuMllsbUpIMTk1VFNaQ1QweWNGb3ZkQVRrRlBCZnQwdmdWZW5kU2dSSm9iTmNHTnVnQlE?oc=5",
+              "source": "아시아타임즈"
             },
             {
-              "title": "삼성전자 노조 위원장, 장인 회사와 조끼 계약 논란… “부당이익 없었다” - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXFCZnhwbFJUY3JiNHRyMGh4bndlRjdsaDVGYndqWmM4cWJzQ3FyLXpiNHlJMzZFekRLUHVJZm1FRlFRWHprcHZsbmRSV29qczhka2RLTlRLOG1kSk1wMnJqX3RpcEdLQlRsWmZrWTdldDhwUXd6SmVOZy1VTFZUZGZR0gGWAUFVX3lxTFB2aEhTekRTdThuZHFfSnc4Z3B3dU5GTUxMVlJNODJvZm1vemRqSjhBdFBLdkh5dHVfR1gxMWljNFRRaXdCczBnQUwzd1VqQUNaUEg4SGRkQ0NOTmY4NHJVQmVNSFFwbmctbE1fWFliV3k5WHBtSTRtZ2lKbWI3VHMwM1Y4RFNCdXRDeWwwT0J2U0lxYjJYUQ?oc=5",
-              "source": "Chosunbiz"
+              "title": "“주담대 8% 시대 오나”…국채금리 발작에 부동산·주식·금 ‘휘청’ [긴축의 시대]",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oUHVoc3JmeFhsYWc3VFJoeXA2VGNvTkVjS3dBWHBqU1FEUzVjNGEta2FjMFkxWnZoVVFrVk5yNVI3b3FyN1MxZXVmemtwbU1xUVAxR3ZRcVFYUUppNEFVWm9CVFN4Zms3N1diQQ?oc=5",
+              "source": "한경매거진&북"
             },
             {
-              "title": "삼성전자 '성과급 투쟁' 조끼‥\"노조위원장 장인 업체서 샀다\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XdnhNNkd2MERWNWFkeEtLcUtSWndtNEhJczV3TlFUQTV6Qmprc0dRdThZYmNBWmVwQkVpTDV6WHJLa2x6emE0UFUxM1BFN1Fnekh0SmZTNlJ6U29TTDV6VEZycjl5ZW9PYmVKaWc5NlctaU5rSHpOQdIBeEFVX3lxTE9SZG40LWY4TnM5ejNLNDR1anNFWkFuRmtUaGpXM3FCQzQ0c3U3bkExZ2hmSHBGcEo2Z2JYMlNsTjB5OFdyRDZLQVZzai0tY3N3NXNvVkVibncxb3N4TkN6b3Z2d1RDQ1I5cW4yWmx5UEFScl8zNVFGTg?oc=5",
-              "source": "MBC 뉴스"
+              "title": "금리 높여도 '주택 영끌' 가속…0.5%p 오르면 한해 이자 81만원 늘어",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11RC1UTjZiSHQzZHFzeTA5TnV1ajBwYVJraXBTek9pOFQxU1lzYnBtTWhLaWxFSFMtV3JCWTdidXVNYko5NkJ2WlQzRF8tZzA?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "삼성전자 노조위원장이 성과급 투쟁용 조끼를 장인 소유 업체에서 구매한 사실이 알려져 논란이 일고 있다. 위원장 측은 부당이익은 없었다고 해명했지만, 조합원 물품 구매 과정의 이해충돌 의혹은 쉽게 가라앉지 않는 분위기다. 노조의 신뢰성과 내부 운영 투명성에 대한 비판이 제기되고 있다.",
-          "headline": "삼성전자 노조위원장, 장인 업체 계약 논란"
+          "description": "국채금리 급등으로 '주담대 8% 시대'가 올 수 있다는 우려가 커지며 부동산·주식·금 시장이 동반 흔들리고 있다. 높은 고정금리를 피해 변동금리로 몰리는 수요자가 늘고 있고, 금리가 0.5%p 오를 때마다 연간 이자 부담이 81만원 증가한다는 분석도 나왔다. 고금리 속에서도 주택 영끌 매수는 오히려 가속화되는 아이러니한 흐름도 이어지고 있다. 금리 키워드는 최근 2주간 꾸준히 상위권을 유지하고 있다.",
+          "headline": "주담대 8% 시대 오나, 국채금리 발작"
         },
         {
           "rank": 2,
-          "word": "돌파",
+          "word": "회복",
           "count": 3,
           "articles": [
             {
-              "title": "유가 다시 100달러 돌파…국채금리까지 증시 압박[뉴욕마감] - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UMDNLcDVPOTlua3VrZllvQUpLOGViUFJZZnM0TjkwR1V6a2IwclZ2amdDUnI3anZ3V0J1ZEdtZHRWWjJrSUJUMXRUSkpHNUJKd29ndUsySHRlVmFNWXFaeVRvSlJ6WFB20gFuQVVfeXFMTnV4djRwVWJZOGdwVFlhZTNPOWQ3RGJqejRERUNpX21wMHo3dy16UXcwNzUzTXBNUG54UTg0WHhFOXlZQVJjV1pXZVJ2bEp2ZmQ5SWFoUFNJcmhueW1TcE55aHUwRFlaTFdHY2c5RWc?oc=5",
+              "title": "이상우 \"살림 못하는 아내가 200㎞ 운전\"...아이 돌보며 관계 회복 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xVWZiNC1Vb0IxeGtHOHh1Mjh2N1VVbVlMR0FlTVBGMGFReUNUSDlzYTh6Y0FJR0Q4ZzhDcmM1SHltSExPLXc5SWdKckdaaU0yYlRjNWNzRGhOSjNMMzhNMXlGaE1vYVY1anVlenhrRGpybEXSAXhBVV95cUxPelVLWVRNb1RzeC1MMk1Pem5iZ0htTlNGakJnc3l3d096aXQ2enRmTkoyd3BmQVRHR3pOU1JJV1ZGYURPYXhOc2V1UU5JMTRXZmF3LTNLcFp4TG9CV0hsNkJ0YUlUTG5jX1gyZ1hGandNOTNBeENRcW0?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "속보 코스피, 7천선에 안착...SK하이닉스 180만 원 돌파",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuOWMzeEZ0SnVXdml3NTRDUFltMm9OekFJR3haUXFlTGdxOUFJOFJVNVNjVjlHX3JwMWl6Zl9qSWlvRHlWRzV0MlRpcmRZNHlBRV9La1JWN21JWnlyMXc?oc=5",
+              "title": "내일 기온 예년 수준 회복...큰 일교차",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95azZCRDVhYVNnX0tDQ3B5QlR0NXFpUVdacm02ZFBId2YwUmxYUmc3T1BReWJBV3NCYWRRa3BnUWR3MlV6ekI4b0I5b1ZZazJraHlHbkw4U2VfcHFpY0E?oc=5",
               "source": "YTN"
             },
             {
-              "title": "기초연금 받는 노인 700만명 돌파…전체 수급률은 4년 연속 하락",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83LXU1NnpGeUlTWC14cUlMZzZQQ2lDZ19SWGxvaXpUV1RtYjlQRUNtaE8tbWxDYjhMaXBxdGs5OWI2a1ByVV9sNlBzQTd5SkpYZlhPMERnaW92MDA?oc=5",
-              "source": "kyeonggi.com"
+              "title": "양산시의회, 민생회복지원금 지급 주민조례 부결 논란",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiMnlvaUJvdHRReTlvRGlabXlkaWhZNUIyVUoweVh4d2JWX1c3c1k3U3RSQzQwUkFwRU1Qdk9CNXlJNllFUndCdGVtcDNZa1RkV21lNllTdWMwZWxZLUFYYmVUajAzaXBNYXc?oc=5",
+              "source": "idomin.com"
             }
           ],
-          "description": "뉴욕 시장에서 국제유가가 다시 100달러를 돌파하며 국채금리 상승과 맞물려 증시를 압박했다. 국내에서는 코스피가 7천선에 안착하고 SK하이닉스가 180만 원을 돌파하는 등 대조적인 흐름도 나타났다. 한편 기초연금 수급 노인이 700만 명을 넘어서는 등 경제 각 분야에서 주요 수치들이 임계점을 넘기며 '돌파'가 오늘의 화제어로 떠올랐다. 오늘 처음 등장한 키워드다.",
-          "headline": "유가 100달러 돌파·코스피 7천선 안착"
+          "description": "양산시의회가 민생회복지원금 지급을 위한 주민조례안을 부결시켜 논란이 일고 있다. 한편 내일은 기온이 예년 수준으로 회복되지만 큰 일교차가 예보돼 건강 관리에 주의가 필요하다. 오늘 처음 등장한 키워드다.",
+          "headline": "양산시의회, 민생회복지원금 부결 논란"
         },
         {
           "rank": 3,
-          "word": "최태원",
+          "word": "반도체",
           "count": 3,
           "articles": [
             {
-              "title": "최태원, 노소영 재산분할 7천억 원 수용‥\"나머지 2천4백억 원은 법리적 문제 있어\"",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01WXZscnFHdWNLQkdfQTBVRXVVR0FIVzNFalUzSTFOdk1DcEdHU2NkT3JQV0htWGFKcFUwbkNVWW5mLUxWMDVybzZOZkZ0ZmZHQ19nZ2F4RnIxcUc2VGFvQzNMZkJodFloM2dCZEo5Q2s4WG9qVFVv0gF3QVVfeXFMTVRxV2hiWi1jZjFCcmtpN19IQUZNS1JVTXhVMGZ2YUlSbjE5OVVUZ25jSE92bWtEOGZkZTVtZ2VVTVo1MXMyVHE3RE1sNlNRaWl6eFp2TTVrRVBNRTdOVi12enJTZTVaMGh0anFPRDlIY1dBdDhKR0k?oc=5",
-              "source": "MBC 뉴스"
+              "title": "메모리반도체 호황 2030년까지 지속 전망, 삼성전자 SK하이닉스 가격 인상 '절제'가 관건",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NSDROakVyQmhjNnFDZzJDZF9jVkpIMU1uZFZlc3cta1V6MTFfTXBQSS1aeWxxM2YzbFc3dEJ5c2V5SVRYN09jZ3JBSTJmQVhZV3dtUzRXWkowX0N4NUNpRnJpSDFNazhxZHU4dVg0QlJHREU?oc=5",
+              "source": "비즈니스포스트"
             },
             {
-              "title": "최태원 넘어선 ‘세기의 이혼’…권혁빈 2.5조 재산분할, 왜? [지금뉴스]",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rYjlCVnZkSTF4dnpVZElEOE9FWkpnLW1Qamh6Wkk2N1JhV2xRVFNONUtkOVN5bTR0OFFnNTZtSFpvNk9UOHAxUlhDUjBUeU1QSlVlc2hBdi14UzA?oc=5",
-              "source": "KBS 뉴스"
+              "title": "“자꾸 의심하는데, 삼전닉스 앞으로 더 좋습니다”…‘반도체의 왕’ 메모리 가격 더 뛴다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UnB2M0NnR3pfcG8zSlJjSnRTTDRXNnFaVFdvZ0hzLUd1TndJWXFiUnpnR0d1T3hUbGVlaWw1WnNOR3ZmcXJkTnRfZEFMNmVVWXVzVkV3?oc=5",
+              "source": "매일경제"
             },
             {
-              "title": "최태원 넘었다…‘이혼’ 스마일게이트 권혁빈 2.5조 재산분할",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaVnk4OTVmaE1pWGwxSmR6SWF5YUNmUEhhTXBNaE1jTVVRRGE4cjZrekZjUHVONGdvSVhuOExDbnRnNWhQejlfb1JJUGVQVzhncnJ4cUpVcEljc2pHXzM5R0piZVVuaGVvTjA5M19iaXh6UQ?oc=5",
-              "source": "한겨레"
+              "title": "AI가 뒤집은 반도체 판…메모리, 매출 절반 넘는 ‘왕좌’",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15bGNHN3BQNTJieVByOXp6THVNT3ZaM0QzSG9QaWwtVkk4YWlGdTJaRXZESVFzdTFvdTIwcXVLRk1relBoNzZ5OVpzQ2J6VTA?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "SK그룹 최태원 회장이 노소영 관장과의 이혼 소송에서 재산분할 7천억 원은 수용하겠다는 입장을 밝혔다. 다만 나머지 2천4백억 원에 대해서는 법리적 문제가 있다며 수용을 거부했다. 한편 스마일게이트 권혁빈 창업자의 이혼 재산분할액이 2조 5천억 원으로 책정되며 최태원 사례를 넘어선 '세기의 이혼'으로 주목받고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "최태원, 재산분할 7천억 수용 의사 밝혀"
+          "description": "메모리 반도체 호황이 2030년까지 지속될 것이라는 전망이 나왔다. AI 수요 확대로 메모리가 반도체 전체 매출의 절반을 넘어 '왕좌'를 차지했고, 삼성전자·SK하이닉스의 추가 가격 인상 가능성도 제기된다. 다만 전문가들은 지나친 가격 인상을 자제하는 '절제'가 호황 지속의 관건이라고 지적한다.",
+          "headline": "메모리 반도체, 2030년까지 호황 전망"
         },
         {
           "rank": 4,
-          "word": "업체",
+          "word": "포스코",
           "count": 3,
           "articles": [
             {
-              "title": "SK키파운드리, 차량용 반도체업체 엘모스와 130나노 협력 확대",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92eUJSR3Jnd1h3Y0ZzdmZncGo1YUFyTGVoSHpXbFpMVGRnMlF5T0xBWEU5THhDZWtwcFBIM2NTbW5tYmpSUU5tczhrbjF5VEpUTUE?oc=5",
-              "source": "매일경제 마켓"
+              "title": "포스코, 노조 요구 모두 떠안으면…올해 영업익 넘어설 판",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZR2xNS3d5Szl1a0RUNlR6UTNid2NNYjg4Ums5b3hrOUp6N3pycnVvd3l5aG5MWUhtRkZBejJaNnBBV2NUTEtRbmpxblFnSUU?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "일본 JDI 모바라 공장 매각에 마이크론·반도체기판 업체 등 관심",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jUUpydzA3VjhOVVc4Y3BDdlpHaFFQRkFCZzBWN2NLWGhNVERqWlNHVElPUGg3TWtmX3hVaWZCZVU4NklQSzFJenZ4LU9kS1VpVkI1dVJR?oc=5",
-              "source": "지디넷코리아"
+              "title": "포스코홀딩스, 자회사 두 곳 지분 2조5000억 매각…50% '턱걸이'",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95VGR4aGF5QW9FblRDZXlYMEtZTmZqSDZoZjZjazNIeFlMNFVZTjc3U2NCMHRZU01qaW1KZ0xCLUlqamZHMUE?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "\"45년 했는데 아들까지\"…인천시, '특정업체 봐주기' 논란",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10NkRSTDE5bjdvdVdIdzUwUHg2bVk3b2k2cDNqUzRzTEFVaGFzOGRkbDY4THdOSzFkUDlZNjQtSmMxaDZ4MU1mZXIxVUlEOEllanlLUmNiQ1dqOENUWEtXbtIBYEFVX3lxTE10NkRSTDE5bjdvdVdIdzUwUHg2bVk3b2k2cDNqUzRzTEFVaGFzOGRkbDY4THdOSzFkUDlZNjQtSmMxaDZ4MU1mZXIxVUlEOEllanlLUmNiQ1dqOENUWEtXbg?oc=5",
+              "title": "포스코기술대학, 포스코철강AI융합대학으로 개편…AI 교과 45%",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UaWtOVTJpTU4wZUtCUTMzOWVYbjBEa2p1MzVpdUdFeFB0LTVSeFA3QmNBVzFqYUNFd212ZVFET0tWbTR5UmM3ZVBGV2VST1dwOHBwOEZRYXI1eTg?oc=5",
               "source": "연합뉴스"
             }
           ],
-          "description": "SK키파운드리가 차량용 반도체 업체 엘모스와 130나노 공정 협력을 확대하고, 일본 JDI 공장 매각에 마이크론 등 복수 업체가 관심을 보이는 등 반도체 분야 업체 간 협력·인수 소식이 잇따랐다. 동시에 인천시에서는 45년간 특정 업체에 사업을 몰아줬다는 '봐주기' 논란이 불거져 공공 계약 투명성 문제도 도마에 올랐다. 오늘 처음 등장한 키워드다.",
-          "headline": "반도체·지역 계약 업체 논란 잇달아"
+          "description": "포스코홀딩스가 자회사 두 곳의 지분을 2조5000억원에 매각하며 지분율이 50%에 턱걸이했다. 노조 요구를 전부 수용할 경우 올해 영업이익을 초과하는 비용이 발생할 수 있다는 분석도 나와 노사 협상에도 관심이 쏠린다. 포스코기술대학은 포스코철강AI융합대학으로 개편해 교과의 45%를 AI 과목으로 채우는 등 체질 변화도 추진 중이다. 오늘 처음 등장한 키워드다.",
+          "headline": "포스코홀딩스, 자회사 지분 2.5조 매각"
         },
         {
           "rank": 5,
-          "word": "오픈",
+          "word": "대학",
           "count": 3,
           "articles": [
             {
-              "title": "90년간 풀지 못한 ‘수학 난제’…오픈AI “88시간 만에 풀었다”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DVDAtdEdXOGhNMXA3WXljVS1yc29GQ3BETFJSWTFKVlRBaV9VOEx3NkpsNnlHSlJ2N0JpYVNaTUFtek5IUWJMV0gtVWlQSGZlVW5kbVp3?oc=5",
-              "source": "중앙일보"
+              "title": "한 학년 3명뿐인 부실 사립대가… 올해 수시 300명 또 모집",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFZqX0RqQjFEVG42NEVPWGg3eDRSaWp5RWJrMHV3RjZGRmx5QmhXc19aNk1HS005WFBFR3VGeXRpc0YxcXZjU1A3czlkWDRLR0x5RVAxUG9sUWp6NlVQVExDZ0Q2OWJEMjVSNHVELVhLTTc2NmVfcXZNUlNWYW1GT0h6aE1iMVU?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "오픈AI '아스트라', 48단계 '인간 증명' 테스트 모두 통과",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpZUlsMy1lMmoxNWZZVTQ2R1R4Um04SDZLQzBLZVRmTjdVV2dkU3dyTGdUb1ZFal9iOE16ZHFnYUZuVzdPd19EMHRsdWJOZw?oc=5",
-              "source": "전자신문"
+              "title": "마산대 '마약류 예방 서포터즈' 19명 임명 등",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhMFhJUUh3RHl1MjlhTmtnN0pKMXpCN3VRYmp5QjFwbDhjbV9kNFpibndvTmxETmlGNHlpSHZoYlNKV2c0VzlDOUJPc2s2T2I5MHV1TXAtQ1V5d2xfaFRyT9IBeEFVX3lxTE9pTWRqVmttTUtURkZNR2JLaVJfVmdQM0NNTG51cV85cTc4a2lubFljZS1HS0RVaDROalplY0RhcGNvNXlUX0ZuMVhrNy1qS0tPTTZ0cVgyMmdyaklmcTNKdjNiNEJ5bF9aa3E2RndSeWFqaTRRMlVUTw?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "오픈AI, 한국 사업 확대…사이버보안 파트너 5곳 뽑는다(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84QXl2VDdJUnBucVpWNXlDblFmZXV5X3QyVWlkbFIzSU80Vk0zOVBDT01saDlZQ29mY2VYNFE3ZF9WcERfZVYwOG9pa0I4MkRkNndPakV0YXZpT1nSAWBBVV95cUxNSk5IZnpOTVNGZ0FhMm9CTmF4bGgxOUNDY3FqRGo5LWFvV0RsQzBtRUNVSWdkYTFVSTlMbDAzR3JHNnl1VS0tcTJUS3piZTdQV2ZTX3haQkgtV2RsSHZ2blc?oc=5",
-              "source": "연합뉴스"
+              "title": "충남대 · 공주대 '통합안' 최종 확정!",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkOVJhd200MzE3YWh5emNPVFg0Q2dqODZWa3UyMS05c25zWGVGaFdtYTVyOVNDSGV0eGF1WmZxbzNXUjZTT2UtMzU1akd2SkE5VmYtRkZoc3F4QmUxSG5HNXd3?oc=5",
+              "source": "충청비즈"
             }
           ],
-          "description": "오픈AI가 90년간 미해결 상태였던 수학 난제를 88시간 만에 풀었다고 밝혀 주목을 받고 있다. 오픈AI의 에이전트 '아스트라'는 48단계로 구성된 '인간 증명' 테스트도 모두 통과하며 AI 능력의 급격한 진전을 보여줬다. 오픈AI는 국내 사업도 확대해 사이버보안 파트너 5곳을 선정하는 등 한국 시장 공략에도 속도를 내고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "오픈AI, 90년 수학 난제 88시간 만에 풀어"
+          "description": "한 학년 재학생이 3명에 불과한 부실 사립대가 올해 수시에서 300명을 또다시 모집한다는 사실이 알려져 논란이 되고 있다. 충남대와 공주대는 통합안을 최종 확정하며 지역 거점 국립대 간 통합 논의가 본격화됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "한 학년 3명뿐인 부실 사립대, 수시 300명 모집"
         }
       ]
     },
     "연예": {
-      "summary": "아이유·이종석 결별 후 근황 관심, 장기하 첫 솔로 정규앨범 '산산조각' 발매 · 이상우, 장애 아들 양육과 부부관계 회복 고백",
+      "summary": "제니 아디다스 불매 논란, 아이유 이종석과 결별 후 단발 변신, 이효리 예능 연출 의혹, 빅뱅 승리 특수폭행 혐의 고소.",
       "keywords": [
         {
           "rank": 1,
+          "word": "제니",
+          "count": 2,
+          "articles": [
+            {
+              "title": "제니에 “손절하라”···‘아디다스 불매’ 확산 이유는",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01ZnhjM01WR3REdVM3SFNJSWRjMEF5aFpRX3NrWDkwQTJoaEduc1hSQktxS3ZjTXFhTnNUTERyRTAtNldWSW9Qbk9TdjZEeE5DWVlSNk9JdlFPdmRUZ2c?oc=5",
+              "source": "주간경향"
+            },
+            {
+              "title": "제니, 약 30년 전 베르사체 드레스를 하객룩으로…빈티지도 ‘제니답게’",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tRnNwc2xCN3dzNDhpMkpZMmpzdFBsbVVZaHQxVDA4dU1zckNuSmRUbTJxOVNDcTAtQVJ0Z2I1LTVSZ0hXVzkzUnF4bzV3ckxOZlBDQUhhN1JxWVZvbmxRWXpFZTJLRXByQVhpaG5oeDI1NTBUbUHSAWZBVV95cUxORFdxTFRoUGh3ZHRsZTFJcmJUTS1lbVM4dGJ3M3daQ01TbmgzVmVYV2FJX0ZPUklvNEc4bko0NS02YWprWXRBXzVMak1ybV9RUkVfZGk1MmEtMF8zR0o1RUFJbURrenc?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "제니, 남자 지인에게 밀착해 콘서트 관람…다정한 모습",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04cm9TS2ROMnluMXN4MXVobUE4QWQ4RGs0X2xkVnF1MXFMUDJ6aS1LU2FZNm5xY3V4bkFxREw4aGRRb01Nc2RhQXQtUWo0WjNVZW1KbHlHbGRsTEdGbzE1QdIBeEFVX3lxTE53M3laUXBtbUlRR2hYR255MnJuOGxCNFAwQ3RZdnNXRm85cUI5d3pfWUZJWWRwNVY0Sk5sNHJMbEwtS3dkYjFOcTRnR3gzWGgyN1l6Zl9CdzNtYzJMaUo0MlVYV2NfdGh4cUtybHBpc2VTaGdwSkI4aA?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "제니를 둘러싼 아디다스 불매 운동 논란이 확산되며 '손절' 요구까지 나오고 있다. 구체적인 경위는 기사 본문에서 다뤄지고 있으며, 소셜미디어를 중심으로 논란이 빠르게 번지는 양상이다. 한편 제니는 약 30년 전 빈티지 베르사체 드레스를 하객룩으로 소화해 패션 면에서도 주목받았고, 남자 지인과 함께 콘서트를 관람한 다정한 모습도 포착됐다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "제니, 아디다스 불매 논란 확산"
+        },
+        {
+          "rank": 2,
           "word": "아이유",
           "count": 2,
           "articles": [
             {
-              "title": "‘아이유와 결별' 이종석 맞아?…배 나오고 턱선 사라진 근황",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tYVh0LTIzTkFFS2FYdmVSWmdWTER2SFBGdzFTTVpmek9wMXBsak5NejVua2F2eUVXWlk5Q0FLT1B2NkdFSkpUVzdBaVdWM2c?oc=5",
-              "source": "v.daum.net"
+              "title": "아이유, 이종석과 결별 후 긴머리 싹뚝 잘랐다…단발 비주얼 “이별로부터”",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nd2hiMDR5NzZBU0hZc1BOTDhsRVVTdUtKVVl1cENKRkRGc2xhc2Q5V0JGckFWVm9iQ1ZzbEdmSDl5djBLWkNNUU1ISG5CaVBEQVQwQg?oc=5",
+              "source": "OSEN"
             },
             {
               "title": "‘대군부인’ 아이유, 변우석과 여전한 우정..“같이 좀 레벨업 하자” 간식차 선물",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3hQTUN0T2wtUVlkZEcwOXcwQWNnNDR4eTA1c2xndzE3QzRvd2x3VGhMSUV6amVCUUVLd0xFaEVxYld2cDZTUzY4WWo5Y1lnc2hyZWNZc2l4MEVrYmhocGpIYlc3NDdIbWl0MEQyTEFLWmFOSFc5TTdyNjBDbzFTUGZxUDlzWDhkcGlxd1VPUQ?oc=5",
-              "source": "조선일보"
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEUmZHNHByQm5GekdNZUJIUEh3ajV1X0l4Z2FydVZJOWRjZGlIVk4xTkRsTkMzSThiSUFXcllvU1Ztc0JEaGc?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "역사 왜곡 논란 불구 '대군부인' 우정ing..변우석, 아이유 간식차 인증 [스타이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CZTc5ZHZxQU1XY0VBS3NOVnMzWjF6N1FUYXV5emFPb1g5OFFTUVFoVXlQZExHSWlFMjdoU3Ryc3dMTnVfaEs4SlJ4dENxTEU?oc=5",
-              "source": "v.daum.net"
+              "title": "아이유, 오늘 1년 만에 신곡…MV서 심달기와 경찰 변신·김영옥 깜짝 등장",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FR3dJTWtpQm1OeGN1a3A0c0tUNVpQUzVycHJ5eS01c2NFUFdFZVBQZzZoOHRKVjIzWklWaWg3a29kc3lyRGkxOTJRaXlERWh4ZU1KYUExZTB4TlY1LXRQR0NreE56akhLcndtTElR?oc=5",
+              "source": "스포츠동아"
             }
           ],
-          "description": "아이유가 드라마 '대군부인' 촬영 현장의 변우석에게 간식차를 선물하며 두 사람의 우정이 화제다. 역사 왜곡 논란이 불거진 작품임에도 변우석이 직접 인증 사진을 올리며 훈훈한 분위기를 전했다. 한편 이별설이 제기된 이종석의 근황 사진도 함께 주목받고 있다.",
-          "headline": "아이유, 변우석에 간식차 선물"
-        },
-        {
-          "rank": 2,
-          "word": "전남",
-          "count": 1,
-          "articles": [
-            {
-              "title": "전남광주시 조직개편안, 시의회 공방…심사 보류(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45N0VXVDRwTk0xdnJ5M1pnMFJ3Z3d1bmVSZ2FlcGJXUnNvY19Cdk5yRFRNOVJYSXhYdkVvOXdfbmxzcG02cl9EcEtsdFJBb0ZnbHJhb05IOEQwem_SAWBBVV95cUxOYWVZdzlIVW16cTZyakNWcVFhcVdxbm5hNzJuNFBIemVRNU5kb19ZdHU0ZzhJQjdJemFOZnI4X0dvRGR0eDRKb2o5WEVhSDVBald1SnQzcUZONjgwU05IbjY?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "\"국가직 부시장 왜 동부권 가나\"…전남광주 첫 조직개편안 진통",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMEtZMmxhMmNBb0s2eXNicnBvTDM5LW96NFVkNlU1QlRyQkNuVmtsQ3ptb08yQS1IQllKemp5djQwZlYzbGhoZkgzeGNVQU8yRkZoME92Q1N3T0JQVjZV0gFkQVVfeXFMTnRpdlYwX3Q4UGhxT3llVDVBMXlHYVVMM256WnJWMGx3VVdmRm1pZWVGZkJ2U0dkMmROVWlnZGRQV1k1aTRjZHN6aVpMQ0VqaW5GR0RsVmxPU2x3NlhRVm91MHNvVQ?oc=5",
-              "source": "뉴스1"
-            },
-            {
-              "title": "전남광주통합시 첫 정례회…민형배 \"예산 운용\" vs 송형곤 \"제도 정비\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aMy1yN0JDNFlsSl91U251eEQweXRpRUxaM2U3VkhFeFNaY1FJVlNTVjlicE1KV0hyY1VlQVd2dldES3BsQzV2WEtfeDk5R1U?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "전남광주 통합시 출범 후 첫 정례회에서 조직개편안을 둘러싼 시의회 공방이 벌어져 심사가 보류됐다. 국가직 부시장 배치 문제를 놓고 동부권 배정에 반발이 나왔고, 예산 운용과 제도 정비를 두고도 의원 간 의견이 엇갈렸다. 오늘 처음 등장한 키워드다.",
-          "headline": "전남광주 첫 조직개편안, 시의회서 진통"
+          "description": "아이유가 오늘 1년 만에 신곡을 발표했다. 뮤직비디오에는 심달기와 함께 경찰로 변신한 모습이 담겼고, 김영옥이 깜짝 등장해 눈길을 끈다. 이종석과의 결별 후 긴머리를 단발로 자른 새로운 비주얼도 화제가 됐으며, 드라마 '대군부인' 촬영 중에는 변우석으로부터 간식차를 선물받는 등 훈훈한 우정도 전해졌다.",
+          "headline": "아이유, 1년 만에 신곡 발표"
         },
         {
           "rank": 3,
-          "word": "이상우",
-          "count": 1,
+          "word": "이효리",
+          "count": 2,
           "articles": [
             {
-              "title": "'같이삽시다' 이상우 \"둘째 아들 가수 데뷔…17세부터 곡 써\" [RE:TV]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJQjU1bFZsenhTRE9WQkU3OFJXeklsT3JSTGpqZ19GVjAza091X3ZaV2l2eUhiSDduR2pobWlrdmozTE14SF9QRTktS0M4UTM4bUFsQmNYUGhZWnBYUWZhRtIBZkFVX3lxTE9TbHlBQklfQWM4aUFLcUE1ZFNuSVN3cDY3Ukwwck5SUGlGcmRhbXZMYXlzeDJ5N1lRTkFpUHVsaDNTTFV0TGJkelQ1cHRNM2NyeFFlUTdrakJ0bTc3end0eHJHOVVoQQ?oc=5",
-              "source": "뉴스1"
+              "title": "이효리 진짜 화났다 “웃음이 나와?”…서장훈도 분노 (연애전쟁)",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoTktuVURzcm1BR2hIRDExMGxtWkstUzBBRFktNFluNjhBcFBZRXdvNGZKVC1tTFRNWWNaN1FsSDNXd1NIZjNIM2dENjRsU1FPbnJBcERuMHRvazEtTHpHU2hCRzQ1bV9XQmtKZ1JB?oc=5",
+              "source": "스포츠동아"
             },
             {
-              "title": "이상우 \"아내, 발달장애 아들 위해 하루 200㎞ 운전…부부관계 회복\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96VUtZVE1vVHN4LUwyTU96bmJnSG1OU0ZqQmdzeXd3T3ppdDZ6dGZOSjJ3cGZBVEdHek5TUklXVkZhRE9heE5zZXVRTkkxNFdmYXctM0twWnhMb0JXSGw2QnRhSVRMbmNfWDJnWEZqd005M0F4Q1FxbdIBeEFVX3lxTE96VUtZVE1vVHN4LUwyTU96bmJnSG1OU0ZqQmdzeXd3T3ppdDZ6dGZOSjJ3cGZBVEdHek5TUklXVkZhRE9heE5zZXVRTkkxNFdmYXctM0twWnhMb0JXSGw2QnRhSVRMbmNfWDJnWEZqd005M0F4Q1FxbQ?oc=5",
-              "source": "머니투데이"
+              "title": "전현무 조롱거리 만들고, 이효리 진정성 짓밟고…예능 연출 의혹 '몸살' [Oh!쎈 이슈]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YUXJGUUdYQ0Z0bU9iT3ZZN19TV291OGs3VUdWOThKRnlOZGs0aDAycDdTRzZKZDYtcHpYQWxfOG03YUpnX1BKcGRaQ3VrWWM?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "'같이삽시다' 이상우 \"둘째 아들 가수 데뷔…17세부터 곡 써\" [RE:TV]",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TbHlBQklfQWM4aUFLcUE1ZFNuSVN3cDY3Ukwwck5SUGlGcmRhbXZMYXlzeDJ5N1lRTkFpUHVsaDNTTFV0TGJkelQ1cHRNM2NyeFFlUTdrakJ0bTc3end0eHJHOVVoQdIBZkFVX3lxTE9TbHlBQklfQWM4aUFLcUE1ZFNuSVN3cDY3Ukwwck5SUGlGcmRhbXZMYXlzeDJ5N1lRTkFpUHVsaDNTTFV0TGJkelQ1cHRNM2NyeFFlUTdrakJ0bTc3end0eHJHOVVoQQ?oc=5",
+              "title": "이정은, 극단 빚 갚기 위해 '이효리 연기 스승'까지…\"되게 재능 있다고 생각해\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01SFh2d2FZWXhwSWtnZHN0QnZyM0pqa0NlRDgzTGJUWHBmMER3a29WYmNBbGxvQWQ2ZFBvRTdvSG1XcU5PWGwzOXNMejFRTGVfUlFOY2RPMTNsVFpNZGVEV9IBZkFVX3lxTE9nYzRSR2VyWThHNGcyLTVtTVo0dXJQTTBMem5TWVgtSktrQ0FBcWFidGlGdTBoeml1YUVYcXVvQlpKcDFUQmFzNHcwdkJkWGxsMzAtTUpGbVpNSjhMNVRqd3pOT29ZZw?oc=5",
               "source": "뉴스1"
             }
           ],
-          "description": "배우 이상우가 KBS '같이삽시다'에 출연해 둘째 아들이 17세부터 직접 곡을 써 가수로 데뷔했다고 밝혔다. 또한 발달장애를 가진 아들을 위해 아내가 하루 200㎞를 운전하는 등 헌신해온 사연을 털어놓으며 부부관계가 회복됐다고 전해 눈길을 끌었다. 오늘 처음 등장한 키워드다.",
-          "headline": "이상우, 둘째 아들 가수 데뷔 공개"
+          "description": "이효리가 출연 중인 예능 프로그램의 연출 의혹이 불거지며 논란이 일고 있다. 방송에서 이효리는 진짜 화가 난 듯 격앙된 반응을 보였고, 서장훈도 분노를 표출했다. 전현무를 조롱거리로 만들고 이효리의 진정성을 짓밟는 연출이 아니냐는 비판이 제기됐다. 한편 배우 이정은이 이효리의 연기 스승이었다는 사실도 함께 알려지며 관심을 모으고 있다.",
+          "headline": "이효리, 예능 연출 의혹에 분노"
         },
         {
           "rank": 4,
-          "word": "장기하",
+          "word": "빅뱅",
           "count": 1,
           "articles": [
             {
-              "title": "장기하, 오늘 첫 솔로 정규앨범 '산산조각'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wMHhwSmNZamdNdFdaSDFGd182MVRCRjE4SVlFc3lnb3BpUHdqdldVakdJckJvRWpsampUWVFrUWpJZnNxakZEa0xDeWRIb00?oc=5",
-              "source": "v.daum.net"
+              "title": "빅뱅 출신 승리, 특수폭행 혐의로 고소 당해",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTYxOHpCMkF2TE5jLUF4S0hCMFdTcGc1RWQwRENtbmdXNFo5WENfTy1DX0FWZGxmV3p5ai0wNlZZWUJURW1mT2c0U0dtd2lkV0FYYjVNSWZjYzMwVG44Rm9SQkZUbXE0a0NQdnZ5bDgwNmlYeWJuNWdUcHNiVkFpQ1Bib0VnVGozVnpKZFU4T18?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "'18세 연상 장기하♥' 윤가이, '다큐멘터리 3일' 내레이션 참여…\"내내 감동\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wWUhEVjdUWWhzNHotSkluQ0k5RjByR0tkdW12bEYtcXZSWjB4endXY0NTQ3B0T0FoQ3N2cGRwMVFvVTJtQWpHWC1hSTQyOUU?oc=5",
-              "source": "v.daum.net"
+              "title": "\"빅뱅 투어 본격화했지만\" 와이지 목표주가 소폭 하향",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RNDh4bVFjSmp2WDAzWU5GR3pTUTlDQVRVaUFNRVpHM1Z4TXludmV3aUtPa3V3TGM3QnZ3QUpkSHlUM3VjeDFiaHhLUXNncnBHNlJoNURBNGI5SFpZTnpKQg?oc=5",
+              "source": "아시아경제"
             },
             {
-              "title": "18세 연하 윤가이 언급 無...'라스' 장기하 \"논란 즐기는 편\" [스타이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEb0FlV3ZCbS05NGFOWUkwZFdJaWdYQ21lTkVCdUtKWWxZN1VxTEtYSlZKbHhXOU13c25Cb3NZMm4tMkk1MHdnSnN5LW9OT0U?oc=5",
-              "source": "v.daum.net"
+              "title": "암표 신고 공연 3위 빅뱅, 2위 싸이…1위는 BTS ‘아리랑’ 102건",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTmlqMW51SW5VSXFXWFhEMm9vdlFISHBJZk9aUVVLc0E4TTVGNkZ1dS1XeWhSUTBUMkI1UHFwMlNsb1dEOWdQQlh1NENGanRiVzgwLUdpa3NzYkpqbVHSAWNBVV95cUxORW1KRkNPd0VuMTE1elUzM29TZDBEWUZxLW5lUjFyc25yeFA2Vy1jZ2E5cF9qcjV5TTlROEJNS1E3NlN2eFhpNlZJOGE3ZnlncGx0UU8yTU5rSnVXQXUtNWRIWEU?oc=5",
+              "source": "채널A"
             }
           ],
-          "description": "장기하가 오늘 첫 솔로 정규앨범 '산산조각'을 발매하며 화제를 모으고 있다. 라디오스타 출연에서 연하 연인 윤가이에 대한 언급 없이 각종 논란을 즐기는 편이라고 여유롭게 말해 시선을 끌었고, 윤가이는 별도로 '다큐멘터리 3일' 내레이션에 참여하며 활동 반경을 넓히고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "장기하, 첫 솔로 정규앨범 '산산조각' 발매"
+          "description": "빅뱅 출신 승리가 특수폭행 혐의로 고소당하며 빅뱅이 다시 화제에 올랐다. 빅뱅은 현재 투어를 본격화하고 있지만, 이번 사건의 영향으로 YG엔터테인먼트의 목표주가가 소폭 하향 조정됐다. 아울러 암표 신고 공연 집계에서 빅뱅이 3위에 이름을 올리는 등 공연 관련 이슈도 겹쳐 주목받고 있다.",
+          "headline": "빅뱅 투어 중 승리 특수폭행 고소"
         },
         {
           "rank": 5,
-          "word": "산산조각",
+          "word": "승리",
           "count": 1,
           "articles": [
             {
-              "title": "'조기졸업 계획' 산산조각…교육대학원 '이례적 특별편입' 무슨 일?[뉴스럽다]",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tNFJVM1lvMjZMZzlxeUhGOUs2ZHQxSm5ycGVfNmltTm5ydE5HYlJ4TUtRZkhfX043by1SaGgzUzFPdC0yOFJvVG1nUWp4Ym9rR0E?oc=5",
-              "source": "노컷뉴스"
+              "title": "트럼프 \"공화당이 선거 승리하면 국민 1명당 5천 달러\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43V2djWG1aTkstT0x3cjFTN2Q2ZDlYZzhpZ3EyakVsU2J0TnEzYnp2NXd5NnZ6MEM3Yi1fdVBYS216cGEwRWhwNHZOeUZJaGNuWUJZWHc5ZVNZeGJTaEtOQjE4SG5BSkdJckdzd1NTNHQ4dEFQ0gF0QVVfeXFMTng2M2liVUswMmN3MXlLWUFBY05uMi1BaGQyNm1uOGZrbllhMFZud3IzbWJSci1sczVGV3RkUXY4dmRBVXd2MVhMel9fdFAyTTZibXhxVGFkS3lpRXVjbHhtS2Y1VVhtLVZQRXg2Y1pYOXJub1c?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "장기하, 오늘 첫 솔로 정규앨범 '산산조각'",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FSXJkcTBtVmV2dmtiUVJkQ3JZSDJyRndINzlnTF9iRXN5enRfa09SaldRU1FQQUdacFZURkV2MlhlYzd3V19XckpvUXFjd1pBS2k5RHl0SGs0ak3SAWBBVV95cUxQY1FST0dPMDRWSDVVMDVzUkZEOGdvV1lDNUxfNU96ekNSVGV5MmdFMHcxV2NVRDk0bWVLQlZ2d0ZSQ2FNbDF1UzgxekJIUGFrUjI4T09jV3lpMlJOOTZxQXI?oc=5",
-              "source": "연합뉴스"
+              "title": "빅뱅 승리, 식사하던 30대 남성 특수폭행 혐의로 고소당해",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3TlcyVmpwNkNpdGJfMFVkR1NEdzkxS0Qwb2J2cXRNZW1QeTdvODlWOUkzd0Q3ZUkzNmx5bTNvbGlpZnV1bS1vV3RaNU42M2dmbWduSg?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "장기하, 솔로 정규 앨범 ‘산산조각’ 발매",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyUnJoOXJtZzRzcEdlY2tubG9TSUhrdXEzUm1YdFRwS08xd3NPejlfMk1GZ2lfLTBjX1lRQTNmelB3T0tKcWhkaDdpWTRPWktQeVVkb3g3aE80MkVpZnJjVWp6SG9HQnBEcllQNdIBcEFVX3lxTFBTUm4zaFpxcjNQb2ozV3I3SFR2Tkh3NW5TYWJOUEF2bWlXSTBfZDB6SXc0ZVR5d2IzVDh3YmRIU3BSdW9EOFhidVdibzA0ODZrdnZ5QUdsaTJGN3hjeFc3a2ppcUxSV2dMR0ZlTHVldlE?oc=5",
-              "source": "내외뉴스통신"
+              "title": "그룹 빅뱅 전 멤버 승리, 특수폭행 혐의로 고소당해",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nYldEVzE5VUxBV3piYmtpbWFLbkNUb2RQSTFPdTQzTXZ3cVl4RU1DbzNITUJTUXVVeHpBbUNnTlNIY1U4TmNjbUFackhnMkRzNktVcGZIdGJtMmRwWjh1YVZZMi1BT3dvRTNZbnR0R3Jzdw?oc=5",
+              "source": "한겨레"
             }
           ],
-          "description": "장기하가 오늘 첫 솔로 정규앨범 '산산조각'을 발매하면서 앨범 타이틀이 키워드로 급부상했다. 한편 같은 단어로 교육대학원의 이례적 특별편입 사례에서 '조기졸업 계획이 산산조각 났다'는 표현이 겹치며 동시에 주목받았다. 오늘 처음 등장한 키워드다.",
-          "headline": "장기하 첫 솔로 정규앨범 '산산조각' 발매"
+          "description": "빅뱅 전 멤버 승리가 식사 중이던 30대 남성을 특수폭행한 혐의로 고소당했다. 과거 성 접대 사건으로 실형을 선고받은 바 있는 승리가 또다시 형사 사건에 휘말리면서 파장이 커지고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "빅뱅 승리, 특수폭행 혐의 고소"
         }
       ]
     },
     "스포츠": {
-      "summary": "김도영 코뼈 골절 부상·이강인 AT 마드리드 데뷔골·한국 여자농구 월드컵 8강 탈락.",
+      "summary": "김도영 비골 골절로 KIA·대표팀 비상 · 남자농구, 사우디 꺾고 아시안게임 첫 승 · 이정후 멀티히트 맹활약",
       "keywords": [
         {
           "rank": 1,
@@ -391,119 +391,119 @@
           "count": 3,
           "articles": [
             {
-              "title": "타구에 얼굴 맞은 KIA 김도영, 코뼈 골절 진단…대형 악재(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1WDdfMVlxbHFXb3RPaEJVT3Y0aGJLdkNGVlBPWlFfVDRTWmZhS3ZmM2JVakNCWHJ3cnNQLWhuZ21zTkFTQTRHZjhKdW5DaUE?oc=5",
+              "title": "'비골 골절' 김도영, 과연 얼마나 심각할까… KIA-韓 야구 대표팀 운명 달렸다",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuSUh4YmN1SGxYVDd4YlVBRllDV0s1Y0xiaFBGc2d4Z0tscmZsTDNxeFpWbVpFRldTYzNEQTJyS3EtSTh2TVE?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "\"이래서 KBO 대표하는 타자구나\" 김도영 40번째 홈런 무엇이 특별했나, 국민 유격수도 경악 [MD대구]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbkNHMnJCT2lOMDhzVlpVX0UyRUg5ZzIwdHZ2Xy1QaUhWVGJGVlVScE1EV1lZbzExR0I2bG9LSWFCbnhmM21saTNHM2tXVEFSeU5jY1NR?oc=5",
-              "source": "Nate News"
+              "title": "“선동열 감독님급으로 던졌어요” 이래서 김도영이 기습번트 시도했구나…송명기 이렇게 던지면 얘기가 달라진다[MD광주]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zZkZKVmZUZWpneGIyV1VJNEcyQzk5MzZ6cEdxYUk0TzdXY3lyWmF5Z3diRHRtaGg5YnJWZ3NxRVRBOXZfaXlZanp2RlowSTBGTk92Z2Q1YmI2RW5xc09nZw?oc=5",
+              "source": "마이데일리"
             },
             {
-              "title": "kt, 삼성과 맞대결 승리하고 0.5경기 차 추격...김도영 코뼈 골절 '비상'",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBObDlUTEdPSnFfQ2hoMWdoeFlLWEJsYU5zbTZOYWxXbXNmdjRJZHJQaktWNXVRSndMcElnMVpWT3ZCRjhNX0RvbkFaOTJENHhyUV9FTWlnLUw1WkQtSGc?oc=5",
-              "source": "YTN"
+              "title": "코뼈 부상 김도영, AG 포기 안 한다",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR1VXSEZtazZiS203QmVaN3J0Yzh5aUV6bURqZnZfZVZzaEV0UlM3TFdrSHAxUDlNLTU0Uk41bTh4TWhZc2w4YnRZTzJfcV9LUlJvZUYyMGVSLVNmNS1NSVoxbWxBcFB3YjdpXzg4ZFRtS29lMzlVS251eXhhdXJhV0JvTQ?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "KIA 김도영이 타구에 얼굴을 맞아 코뼈 골절 진단을 받으며 팀에 비상이 걸렸다. 시즌 40호 홈런을 터뜨리며 KBO를 대표하는 타자임을 다시 입증한 직후 터진 부상이라 충격이 더 크다. 김도영의 이탈은 순위 싸움이 치열한 KIA에 대형 악재로 작용할 전망이다.",
-          "headline": "김도영, 타구 맞아 코뼈 골절"
+          "description": "KIA 김도영이 비골(코뼈) 골절 부상에도 아시안게임 출전을 포기하지 않겠다는 의사를 밝혀 주목받고 있다. 부상의 심각도에 따라 KIA 타이거즈와 한국 야구 대표팀 모두에 영향을 줄 수 있어 야구계의 이목이 집중된다. 한편 최근 경기에서는 송명기의 강한 구위에 대응하기 위해 기습번트를 시도한 장면도 화제가 됐다.",
+          "headline": "김도영, 비골 골절에도 AG 출전 의지"
         },
         {
           "rank": 2,
-          "word": "나고야",
-          "count": 3,
+          "word": "아시안게임",
+          "count": 2,
           "articles": [
             {
-              "title": "일본 또 물난리…나고야 기록적 폭우에 ‘도시 마비’ [현장영상]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RYVZZeXQ0U2JMUUlMWnF1blJ2UFZNdW0xaGt4aGlfWTFCYmtQbVFlVjg2eW5OQ2VOb3pVaFpsRTJ4VnRRZk02bUxfOExHNkE?oc=5",
-              "source": "v.daum.net"
+              "title": "선수촌 없이 컨테이너까지 동원... 우려 쏟아진 아시안게임",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PdVVmQ1N3WU1hNUFqejBOekZzM21zeHVGNFlPM29tY2s4UUhFNzN5SFExUUotXzhvNEFSMXJpODFZWFVkb0wwbFJEYzhQZmp2dlJZeVN4M0lXUFZFRXc2SzlvbG5fOU9nWEVkRGJUOU9ERmVvT3cw?oc=5",
+              "source": "OhmyNews"
             },
             {
-              "title": "일본 중부 폭우로 곳곳 피해…\"최소 41명 부상\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13bldFdi00cVdYdG1kMFFTVFV5WXdtanQ1bmktN054RWlnN2ZPeGs0Z1d1aE01aGppTXdDVnNGNEtuVWdYdmVIZkIwS0hyOFE?oc=5",
-              "source": "v.daum.net"
+              "title": "양평군청 유도 3명,극가대표 아시안게임 출전",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tRUJUVEdZSlJjTlJJV0xtS3otZW5GU0VGTTE4NTY5M28zVFJBek5xQW9lRFoyVjdNeWhXcTl6Y1A1TVQ4LVNtTUY2MHJ3cjRvQnEtZzNoR2lEZm5JNXBhckdESTI?oc=5",
+              "source": "양평백운신문"
             },
             {
-              "title": "하늘로 '촤악' 지하로 '콸콸'‥태풍 뒤끝 '나고야 마비'",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CYTZYaDdIQ3pZWUc5N2oxekQtSzBzMm5jNmo1VW45ZjRzWGYtelZwcHluNTNoZUFnd09OTGFjeGE5dFloNW5BVFBQdV9HSXVVNEQ1N291UlM1cXdQSW84d1ozbEZ0eF9JanVGcjU4aUtpYjhD0gF0QVVfeXFMUG53WjJlSGRRNWQ1R0JYX3JDTUg1cXdjOVcwWHl5dEliZXB6UVN6X2pOSkdmR1ZDNHlJTU40b1pzWUxrNV9qcW1BSWlIZXJUTnRIUXRUeEYyck5CNGhMYl9NdmljZkFLdnhrY0FyelA5UGJlNXc?oc=5",
+              "title": "남자농구 대표팀, 사우디 완파하고 한국 선수단에 첫 승전보",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hYXBtOEpjM3Z1YmRLdE9aZGFqSlNKWlFMdVR0MzEyNzNHRTVvRzlNNkRNODhveGJoVFg0TGxYczBkNHg5NjVyRWFhNTVNOVNxclpIV0E1SXA4dzdiakszVmowUVIyMG12ZGY5SzlDWTdySDI3RHfSAXZBVV95cUxNZko3OHpYQnBjWnVOUGhGS2huYXQ4aHVmNUxhWmxTTnpEaF9hVFpJNDVhOGZRNEFLM2NuRkdLNDBBX3RqVHZ4VUQ3SmtVNUFfZ1JZcGZtaFdwZ2pZTWtzaEdIb01aVmdiSVkwZWZieTl5aFpXRjFB?oc=5",
               "source": "MBC 뉴스"
             }
           ],
-          "description": "일본 나고야에 기록적인 폭우가 쏟아지며 도시 기능이 마비됐다. 태풍 여파로 이어진 집중호우로 지하와 도로 곳곳이 침수됐고, 중부 지역 전체에서 최소 41명이 부상을 입는 등 피해가 속출했다. 오늘 처음 등장한 키워드다.",
-          "headline": "나고야, 기록적 폭우에 도시 마비"
+          "description": "아이치·나고야 아시안게임이 개막한 가운데 한국 남자농구 대표팀이 사우디아라비아를 82-66으로 완파하며 한국 선수단에 첫 승전보를 알렸다. 반면 선수촌 없이 컨테이너까지 동원하는 등 대회 준비 미비에 대한 우려도 쏟아지고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "아시안게임 개막, 한국 농구 첫 승전보"
         },
         {
           "rank": 3,
-          "word": "이강인",
+          "word": "선수단",
           "count": 2,
           "articles": [
             {
-              "title": "'이강인 선발 출전해도 리버풀 꺾을 수 없다'...아틀레티코 소속 UCL 데뷔 임박! 승리 확률 단 '23%'→공격 조합 유지 전망",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xalYtZ1ZkV3QzVmx5N25qZ1ZMaEF2c0pZSmdrNTZIcVhOTm1VVUVHb1p2Q2cydUt3SXVfREU1TE5WNUpGREZMeHpEby1Pbzg?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "'韓 축구 에이스' 이강인 미쳤다! AT 마드리드 데뷔전 데뷔골, 라리가 8월 이달의 골 수상…\"걸작 같은 득점\"",
-              "link": "https://news.google.com/rss/articles/CBMipgpBVV95cUxORXp3YnNJVEFpWEIxQ1JXMjQ1NHVPSXI0T21KZklGZXdSelpqOXNNTHp2aHhOMGkyVEhNSTd6OW9xRDY3Sm0wYjF3aHhnVnFET1o0d3BaNlZRVGs3SnJkUVc2bF9xLXBLQXJKQlUzLXl2OFNlbUZIQklkQVBYeHhZRnZoT2J6SE9TWWk2YTFzS25QejJuOU9wa1FOOVQ3VTRTMzFaanF3WVg5cXdkQzlhdXhOVUVXWFNIS1hldWZVbU9kRFVqMTlfNDFEdi1nOG01MXlpcW9ldWtqVUdXOEd3TXNjWHg4a040cUg5MWxoUGUtZF9HR3JHRGwya2lWNlN6QVFINmgyTnJpeGRWUXg2Q0Z4cW5MOEc1eThwMzNib3JUR3l2OGUtVzZUQjQzdGRTTXR1eVYxcUpnd3pMSXR3R3NWc2xSNGN3bDktZzZ2YXhMYUVsOVF5SEtKaHJ1b21IdVlIdnZBZzEzNHpQb0hGY0Q1UkNkbTFMQllTd0g3cmFva2F4TUlDNzNXdjhfVDRvRHkzVlJ0TnVRTVBnVXBreDdxRzRfam1aTXNWME9FVFd3c3kySWJReWgyM19vTVA0NEozcHg2b3Fqdkd6eU84ZkFRcTBPTnQ2VTBZLXhJQXBNb3NEQUZ0NDZfMURfY24tWVQ1NGI2Y3VQY2lsNThFd3JZM284T2RyOWlGdE55VUxXMFRZSGdWZU5KOTlsNG5idEt5QUFQU0FqbkEtekJPcTI2a0dzN2tCSUVJTHdfV19MN3dxelR5X0dLWmNIZk9FT2xPME5DY0plUUZWbU4wc2h3V1FWVTZJWlVMLUtxa2Y0YzdDWjF5cDBDeDBBUWVOWDR3MlMxdFZ4S1FucWxwbUdmTk4tLXpXNUZqeUhkSXQ3RjJKc2lMSWRaaVhwMGJNUWdKa0VtSUlWT1NtSkx4b1k5ZXkzS2JLMkhjbjh6WG9teEJEdmhtdHJ0WlZ5MXFlU21ibTV0ekFwNHAydXZSOVlsQ1AwM3pSODJKakFpMVBrOUZDWEdMNy0zVVZRLWwwMmlCMW04bTJMaUo0LWoybmlldUxkUkxQdWo0b0lEZkpiT2JMNWJSdGJRd1lGMUw3QU9LLTI2RFFSYWZ4bU9DQXh3Mk5tWXZZemRZUlFyWXUyNUNTUl81NndqNTEzVkVyZjJUU3pIZTAxTFV4aVNlMzJVampnRXJrb1UtcjItTWU2ajlPcklfSk12VmxIQkhTV3ZXUVBaOFVQSUFoZ3FHWnpXY0x0c3NlYXF6VjlZU2dFRFUtUHZZbEJGeWlFZVhRZFk4OW5LRkVMazE2T293SDczajJhRjJIXzJ1QkVOYU5QUTRWaWlxRU85XzFiTFhqaFZlT2p0VzZHM3R0QTV2bHZoZFRROFcxcy02a19Hc2Z6Uk52N3ZpWWZ5R1hHSXNaXzhDblh4akRhOGhST2pmVDNmb1RiSmk1RnZSN1BSWC0xV0M2UEp4bjR5Rl9qQjdiU3RSYWZhMDdmNFNWT0ppM3VlQ3RZRkVRcGNSZ1JPUENqVHZ1LUpMdVItOE1FQXlYaXcwbTd4UUtacE5kLWlYNnRxbDExUXhVeEFpTVMxR1FNXzlVMmM1SFFmMjhfY0lmU1FuLTBuMG56aUJybzRYaFVreFE0VTJ6cVBqZFk0enF3Q0s3Q2JkMkd2X29LWk9ReUdKNGhiaC1vajNkZjk3TlZlalQ3OHJpRWY5SFkydm9RSlUybjRWc1NmdGwxbmJRa0RXbXpB?oc=5",
-              "source": "Goal.com"
-            },
-            {
-              "title": "이강인 사고 제대로 쳤다! 아틀레티코 '환상 데뷔골', 라리가 8월 '이달의 골' 선정...\"최고의 방식으로 데뷔전 장식\"",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fVktabUVGbG9qcC1Bc1Uxb2JwNlR6dVM1dkVZaTBwemlPZnBqZEhPWDk2V0pNNXVvUjhabDliWGtOYnBKZzhHd19idGN2SHU5VUlHcjB3eUVsc0g3Q1JESHFGVXQ0QQ?oc=5",
-              "source": "mydaily.co.kr"
-            }
-          ],
-          "description": "이강인이 아틀레티코 마드리드 데뷔전에서 골을 터뜨린 데 이어 라리가 8월 이달의 골로 선정되며 화제를 모으고 있다. '걸작 같은 득점'이라는 평가를 받은 이 골로 이강인은 새 팀에서 최고의 방식으로 출발을 알렸다. 여기에 UEFA 챔피언스리그 데뷔도 임박한 것으로 전망되며 관심이 집중되고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "이강인, 아틀레티코 데뷔골·이달의 골 수상"
-        },
-        {
-          "rank": 4,
-          "word": "이정후",
-          "count": 2,
-          "articles": [
-            {
-              "title": "샌프란시스코 이정후, 대타 출전해 무안타…타율 0.279",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TX0pyY05Ib1BYM2NCXzAweDFvZEMxV3FEWHVTNGxKOFlLemkwUDZzN0x4bkdiSm8yZ1hvWXd3X2M1YmlyamllVEYzcEFfTmt5WEtfMmU4ajdpQ2vSAWBBVV95cUxNeG83LWpPd3RQYjdraDNQVmJfNm5YdWRpeUdzeGxhUDExckFjVUZtbXZoTUg5WFV3TC1qMHhwZHo0WElZWFBnenowZE0wN2lKMjI1Tm8wMEFyVTdkR0hQWTI?oc=5",
+              "title": "남자농구 대표팀, 사우디 완파하고 한국 선수단에 첫 승전보",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvZjRuOEVEdFdSZWxIdEVOMlJVcGhlOUVLb3d1QldZaHFZNzNxLUF2dExnbHJjODl2YjdPLTNTT0U3VTVvSzk3VnZ2aXRDVzVaUnNYWVo2Q2ZWNzk1SjBGLdIBYEFVX3lxTFBvZjRuOEVEdFdSZWxIdEVOMlJVcGhlOUVLb3d1QldZaHFZNzNxLUF2dExnbHJjODl2YjdPLTNTT0U3VTVvSzk3VnZ2aXRDVzVaUnNYWVo2Q2ZWNzk1SjBGLQ?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "\"연예인 며느리?\"…이종범, 아들 이정후 신붓감 조건에 현장 초토화 [남겨서]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jN0k4YnotR2d4anlZTk9EbnFyc0tiQ01jdE1jTkVQTXFjZk5MVUxVUWlaOEFQMXFjQVdKLVEtRDRsUVRsUmY0S001NlJhbVQ4MXhqYWY0V2xFeXBNazEweQ?oc=5",
-              "source": "mydaily.co.kr"
+              "title": "아시안게임 농구: 남자 대표팀 경기 일정 및 선수 명단 [아이치-나고야 2026]",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR2x5dHRWRGtFbGc4OTI3a0dUaVhhSVZZMFRaRzNNZnVLdmNHZHp6aWFaVGVyS2dONXRSck5na05YLTI2Q1AzM05HSHRzV0FSZ0g4ekNpWTVSTUJyQlBjd1ZMeVN2Rm5LeWVkNF9aVHNPUGFCZmpjTVRNR0FSOFRrYUdUVVJzRGdvc2k2ZDN3cHhrX19aSzNZ?oc=5",
+              "source": "olympics.com"
             },
             {
-              "title": "이종범, 며느리 조건 밝혔다…\"女연예인? 이정후 뒷바라지해 주길\" ('남겨서')",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83MzVpV0ZNYXJQVVdVb1lTMkNQQ0JmOEV3VWJaR3BXbFZzVXlyc21EclBoQWp6VlRJWkZOSlJuYVBxOW1zblNMb0M1NFZWcnc?oc=5",
-              "source": "v.daum.net"
+              "title": "韓 남자 농구 대표팀, 조별리그 1차전서 사우디 82-66 완파",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80NE5oM2tEZlo0OTBscHJ3NEFlUExPREZZUHdtQXNBOFV6d2cyeVVJR0RnX1N5OEFEUElPOHJ3NEZud0dtMVAzeDlWZUU3VUtlOUY3ZmJ1UHo2UUM5T01pbkRxQVp5V3hGLUgtTnZTT2xPNEla0gFmQVVfeXFMTzZGQV81S3ZINkQ2NkNyS3QxUDEtejVxc05tSThPbWJZMXdSSk8wOFdKOE5JWnQxcWl3OE1yeVJsbzZsQlA5d3liT3BxNUdNdWhGNXFlX0dhci1HNXNobUxMUnhoVnNR?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "샌프란시스코 이정후가 대타로 출전했지만 무안타에 그치며 타율 0.279를 기록했다. 한편 아버지 이종범이 방송에서 며느리 조건으로 '이정후를 잘 뒷바라지해 줄 사람'을 꼽아 현장을 웃음바다로 만들기도 했다.",
-          "headline": "이정후, 대타 출전 무안타…타율 0.279"
+          "description": "아시안게임에 출전한 한국 남자농구 대표팀이 조별리그 1차전에서 사우디아라비아를 82-66으로 꺾고 한국 선수단 전체의 첫 승전보를 전했다. 이번 대회 농구 대표팀의 경기 일정과 선수 명단에 대한 관심도 함께 높아지고 있다.",
+          "headline": "한국 농구, 사우디 완파로 첫 승"
         },
         {
-          "rank": 5,
-          "word": "월드컵",
+          "rank": 4,
+          "word": "모레노호",
           "count": 2,
           "articles": [
             {
-              "title": "한국 여자 농구, 독일에 38점 차 대배…월드컵 8강 진출 실패",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJZjg3bFVZdEFIV2JReTBpMjRVNUU2S0ltdHFZZ1FqeDlNa291LTRQWHRUQ2tmbmxkaU1lam13eUxVWFhWaXR5VHJySVRISGlHd0xFTnYwOE9aMDMxYnlteNIBeEFVX3lxTE1fcFZraWtmZ0JPSFFWWXItcXZ1NU5neXAteVB3WVZpZUFDTmpkSktTSmZJM0lKX0lxOTRiTzBGckhnX0hlMnlZV2d6V1AzS2lmM2xRSmxuakZ3eXQ5RkhKV2FYZ282Mk84cUhVWmJpR3Q1eWpkOXlQZA?oc=5",
-              "source": "newsis.com"
+              "title": "'임시 감독' 모레노호에 조용형·이재홍 합류…선수단 가교 역할 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxX1hLaTBGRkZQVWUzLXRIX1Z6Qkpvb3NHVlM3UFg1YllmQUdJNUlXOWRjUkg1TlcwYWR3bFJxR0IwUE0xbUNiQWVVU1BXci03Nld3NS1obFhxcUw3VzZQZGRtaGJTT19OVEHSAW9BVV95cUxORC1oTXR5dWk5TnFmLXBJNzlQN0ROaWkyQ0RlVXA4alNYTWRnZ2tETW1WWTNOTmVwWVRXbFlvcGh2eGxYY2pZREFHOXp5RmFRSG1xYVRwS1JPOUJhRDQwb1JsR0J1ckNaY2JCWFlIVGM?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "`월드컵 8강 불발` 女농구…세계의 높은 벽 실감",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83bjl2WTR1NXBDZ0lZTzVfal92bW9DZldKbzNUZXlIa3dKZUFBaThOVnN2X0llNHkxel9vVGVqZlhvQ2xjT3NRRzB5U2tidlRhZkRmUWJSek1BMXRHelU3QmhR?oc=5",
-              "source": "매일신문"
+              "title": "'모레노호' 축구대표팀 코치진에 조용형·이재홍 코치 합류",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52RVFnUU5pcWRkOXhnMGlvT0Y4cUo3aUhvaHN3enVEcHdWWkVfeTFiU2V1TGZMcElveXVSWDV1VmNNc2NvSVZmSVV2ZWxiRlFIbzBJRlI0Q1RnRHfSAWBBVV95cUxQSHFONXI2MVFVUGhRT2Rva2FtZnVtdVpsaHdGMjM4UmMxMld4TGlIMVpLazd4bTRyaTItYVVqelJJVnBGWXYtdmhJeHJQSnItQ2lxYWJJTHFqeHRiUGhQS3A?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "'월드컵 8강 실패' 보다 더 큰 'AG 엔트리 숙제' 어쩌나?···박지수 몸상태 아직, 박지현은 팀 복귀해야",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zdGxVQUVBejc5ZTB4WXVISEtuZ1ZJSXBIanJlUlFtcGNqbDNCd0RpYmJWcHR0Y1NGN2VuSzBBdmcwUVR6SlBQaWI1NFJtZ0Y1V0JmWGJn?oc=5",
-              "source": "Nate News"
+              "title": "결국 '한국인 코치' 합류하는 모레노호, 너무 급했던 포옛 '이동국 카드'",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sS29paFAzb0JRdGUxamYzdVY5ZEY0ems0MFRsT0ZzWTU1YnNNZ0VBMGREZ1lpTU5zcTJ5YlRSZno1WEd5UFE3OFRjNDFMWTN2UjQ0SWQyZWVXbFQ2QXRyZFBCZWE5QXhDSVhrZUFUTkJVN0FsRXc?oc=5",
+              "source": "starnewskorea.com"
             }
           ],
-          "description": "한국 여자 농구 대표팀이 독일에 38점 차로 대패하며 월드컵 8강 진출에 실패했다. 세계의 높은 벽을 실감한 가운데, 박지수의 몸 상태와 박지현의 팀 복귀 문제 등 아시안게임 엔트리 구성이라는 더 큰 숙제도 남겨졌다.",
-          "headline": "여자농구 월드컵 8강 진출 실패"
+          "description": "임시 감독 체제로 출범한 모레노호 축구 대표팀 코치진에 조용형·이재홍 코치가 합류하며 한국인 코치 보강이 이뤄졌다. 두 코치는 선수단과의 가교 역할을 맡을 것으로 전해진다. 앞서 포옛 전 감독의 이동국 카드 추진이 급작스럽게 무산된 데 이어 빠르게 코치진 구성에 나선 것으로 보인다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "모레노호, 조용형·이재홍 코치 합류"
+        },
+        {
+          "rank": 5,
+          "word": "포함",
+          "count": 2,
+          "articles": [
+            {
+              "title": "이정후, '동점 2타점 2루타' 포함 멀티히트‥타율 0.281",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kS0M1QmxpSWNQbjZNUDdKVjBsc1Fkd3VuWVNoM3hSTFFtV1hGbHVKQkF5WW83dXgyalhzenhaMEdIUVZ3Q0hHTUQ2TWF3ZlZZcDB3VHJzOERlWHlLSlBseWNGZDBYQm84ZXA3WlNyNzJ0eDVNR2fSAXZBVV95cUxPZEtDNUJsaUljUG42TVA3SlYwbHNRZHd1bllTaDN4UkxRbVdYRmx1SkJBeVlvN3V4MmpYc3p4WjBHSFFWd0NIR01ENk1hd2ZWWXAwd1RyczhEZVh5S0pQbHljRmQwWEJvOGVwN1pTcjcydHg1TUdn?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "이정후, 동점 2타점 2루타 포함 멀티히트로 타율 0.281…역전승 앞장",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUG9sejd0eHZWdFJjbENhVk40a1Nab3lFYjVkQ0VYSW1sNGdNY29mZjhwaHRNdWtfVHR4YVJFRXVmRFpuaDM1Qm1DbDVCcUhxeTJzY3YyQXlIRm9Eb2haejNVSmlsdVFPa0Zmb0FEYUl3M2Z0REN2WVlhbnlUSVFka2tvX2Y2SFFGbkllbm1OMA?oc=5",
+              "source": "news.sbs.co.kr"
+            },
+            {
+              "title": "‘휴식 뒤 재출격’ 이정후, 클리블랜드전 2루타 포함 멀티히트",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Md1FPZU9RUlhvOEFjRjYyV1VyVUlXWkxlbmZqc3JlaEUxLXVxYmx3SnNpY0pIek8yVC1NUUxwSVgxOE8wYkhjNVFSNHRuMWJMT3Q4S0dPNmY5enZ2U3hWSk9zTk8zMjhsSzRVbTA1d1htcmhm0gFmQVVfeXFMTUhEQ0RoM1RDUm82THhWdEF3YkNfMDhnTmJNWmtsUUVMVnA0Z2cwSFpxQmZqLU52aG80ekpjb1ZCSThNMi1fUXJsMTA0bE1rdkVSOVMtTXNNc0JBbFI2eXhIM0lJUFNB?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "샌프란시스코 자이언츠 이정후가 클리블랜드전에서 동점 2타점 2루타를 포함한 멀티히트를 기록하며 팀의 역전승을 이끌었다. 이날 활약으로 타율은 0.281까지 끌어올렸다. 휴식 후 재출격한 경기에서 바로 존재감을 발휘하며 컨디션 회복을 증명했다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "이정후, 2루타 포함 멀티히트·타율 0.281"
         }
       ]
     }
