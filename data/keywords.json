@@ -1,240 +1,168 @@
 {
   "date": "2026-09-19",
-  "updated_at": "2026-09-19 08:04",
+  "updated_at": "2026-09-19 21:38",
   "briefing": {
-    "text": "나고야 아시안게임 개막 직전, 한국 선수단이 일본 공항에서 태극기를 제지당하는 황당한 사태로 시작부터 논란이 불거졌다.\n\n일본은행이 31년 만에 최고 수준인 1.25%로 금리를 올리면서 글로벌 금리 긴장감이 고조됐고, 국내에서도 영끌족의 대출 갱신 시점이 맞물리며 담보 물건이 경매 시장에 쏟아질 수 있다는 경고가 나왔다. 반면 젠슨 황 발언이 AI 기대감을 자극하며 코스피는 반등했고, 외국인 투자자들은 지난달 코스피에서 올해 처음으로 순매수를 기록했다.\n\n이재명 대통령은 지지율 하락 원인으로 '국민 존중 부족'을 직접 꼽으며 연임 의사가 없음을 분명히 했다.\n\n연예계에서는 손예진이 현빈 사진을 스티커로 가려온 이유를 직접 밝히고 신작 드라마·예능 출연 소식까지 겹치며 집중 조명을 받았고, 송지은은 악플이 쏟아지자 결국 댓글창을 닫았다.",
-    "period": "아침",
-    "generated_at": "2026-09-19 08:04"
+    "text": "일본은행이 31년 만에 최고 금리를 기록하며 글로벌 금융시장을 흔든 가운데, 국내외에서 굵직한 소식이 한꺼번에 쏟아졌다.\n\n일본은행이 기준금리를 1.25%로 인상하며 3개월 연속 긴축을 이어갔다. 엔비디아 젠슨 황의 발언이 투자심리를 끌어올리며 코스피는 2%대 반등해 6800선을 회복했다.\n\n정치권에서는 이 대통령이 지지율 하락 원인으로 '국민 존중 부족'을 직접 인정하며 연임 의사가 없다고 밝혔다. 김승원 의원은 성추행 등 추가 의혹을 담은 청와대 탄원서 보도에 '사실과 다르거나 과장됐다'고 반박했고, 청와대도 확인이 어렵다는 입장을 내놓으며 진위 논란이 이어지고 있다.\n\n연예계에서는 아이유가 데뷔 기념일을 맞아 2억 원을 기부했으며, 박진영이 신천지 출신 멤버 논란에 직접 입을 열어 사이비 종교 연루 의혹을 반박했다.\n\n나고야 아시안게임이 개막한 스포츠 현장에서는 여자 핸드볼 대표팀이 홍콩을 48대16으로 대파했고, 테크볼 이준석 선수가 결승에 진출하며 한국에 해당 종목 첫 메달을 확보했다.",
+    "period": "저녁",
+    "generated_at": "2026-09-19 21:38"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "금리 인상 공포에 영끌족 위기 고조 · 추석 연휴 날씨 대체로 맑으나 제주는 흐림 · 김성수 대법관 임명 재가",
+      "summary": "이 대통령이 트럼프 파병 요청을 거절했다는 NYT 보도에 청와대가 \"거절 아니다\"라고 반박 · 김승원 성추행 의혹 탄원 보도 논란",
       "keywords": [
         {
           "rank": 1,
-          "word": "금리",
-          "count": 4,
-          "articles": [
-            {
-              "title": "“2022년과 닮았다?”…이번 금리 인상이 진짜 무서운 이유 [잇슈 머니]",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ubkhhR0E5c1ZQTXZQM2ZhaktNanRoNmVGMmRpZUpjNzZ1eVZ2dzdrc2d4OXBsZkxCWGZvcmJPY1hOc3RxbnpWQ250X0o3bF9EZmF3LTNzR19QWUtpZ3VFYm9XNDB6Zw?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "“경매 물건 쏟아진다”…금리 갱신 앞둔 영끌족 ‘비상’ [잇슈 머니]",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kX1lkdWRVVEZNQU9yVmNwUkUxWE5DdjMtRjR4Q2NMY3I0ZzFGdnAya0VpeFBaY3FaeXJIVC1yYXdSRFhQWk9RaUs1UXp4eDk0dVQ4azJsSHpoblE?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "“경매 물건 쏟아진다”…금리 갱신 앞둔 영끌족 ‘비상’ [잇슈 머니]",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IRDJjR0dQRVZzaXhxazhOTk1zcExrQnNCbjZLZWxoV1pjZWY1c3lXclh2M29MR3lwT1F5d2RMX2dFcFBzNkpIUkJ2NU1PVXNBUDd1Rg?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "금리 갱신 시점이 다가오면서 영끌족(무리하게 대출을 끌어쓴 차주)의 위기감이 커지고 있다. 경매 물건이 쏟아질 수 있다는 경고가 나오는 가운데, 이번 금리 인상 국면이 2022년 급등기와 닮았다는 분석도 제기됐다. 고금리 장기화로 이자 부담을 버티지 못한 차주들의 담보 물건이 경매 시장에 유입될 수 있다는 우려가 핵심이다.",
-          "headline": "금리 갱신 앞둔 영끌족 비상"
-        },
-        {
-          "rank": 2,
           "word": "게임",
           "count": 3,
           "articles": [
-            {
-              "title": "해밀턴 ‘모던 워페어 4’ 카키 필드 워치, 임무를 위해 설계되다",
-              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUk1HQi0yS3FhUmw4ZlA3cmE1c201ZVFDTjZWSW1oOWdoSEE4UEFROHl2bGEyRlZPSDRIR1JfUjlJZndGTGI0eUJLVkxaODBDSXlnQnVZVVkyTFZwZHdDY2JOTENVWTBHaVpSOExtdHJaelp0clFlazdlODk5ZzRJVEVYZ3V6dFljUnkwQ2UxTmVwalptSDFCLUc4ek5QRFJWX0RiQXpsaC1TaTg5Qmt6RlBISVpmVnBPM3pPWG00MEtOOW05T1E?oc=5",
-              "source": "Hypebeast.KR"
-            },
             {
               "title": "콜 오브 듀티: 모던 워페어 4: 지금까지의 이야기",
               "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWNfMTlPRFBUYVZZRmUwMzBCVUFGS3VyNHlPaTl3NzhGcXQwMEl4alpMelVvT180d0JpY0VycThOTFRYcDNTMlNKVGh6eURWNDZBTmRnUklSaXB2dFk3STlMS2t6NkN6dkdSbHp0Z3hONjJ2WXlRb1hrRm04VTJRclZRU1RGMDN0Z3Y5eDJn?oc=5",
               "source": "Call of Duty® | Best-Selling Video Game Franchise"
             },
             {
-              "title": "한국 배경, '콜 오브 듀티: 모던 워페어 4' 캠페인",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TVDc2RU1lSEk5NnBEaG8xNGhjTHBpOW5ZTjJ2eTBRZTU2MnNhUEExS2VCZHNRM2JCVFNwQ004bmU3eUVsMDVtaXE4akNRemMtT0FCMmw4RERCSHhNaDVHajNPVkZnbmItSlE?oc=5",
-              "source": "게임뷰"
+              "title": "해밀턴 ‘모던 워페어 4’ 카키 필드 워치, 임무를 위해 설계되다",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUk1HQi0yS3FhUmw4ZlA3cmE1c201ZVFDTjZWSW1oOWdoSEE4UEFROHl2bGEyRlZPSDRIR1JfUjlJZndGTGI0eUJLVkxaODBDSXlnQnVZVVkyTFZwZHdDY2JOTENVWTBHaVpSOExtdHJaelp0clFlazdlODk5ZzRJVEVYZ3V6dFljUnkwQ2UxTmVwalptSDFCLUc4ek5QRFJWX0RiQXpsaC1TaTg5Qmt6RlBISVpmVnBPM3pPWG00MEtOOW05T1E?oc=5",
+              "source": "Hypebeast.KR"
+            },
+            {
+              "title": "'모던워페어4' 제작진 \"K컬처 인기가 게임 배경 설정 계기\"",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MdE5wLWNBUF9VY0NybkhEcHZSX3NXai03V3htUDBSYUVnVWFhalFrYmJ3TWpQLTlSWWNBa3pUVHlvcngwbjVEQ2JmMA?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "인기 FPS 시리즈 '콜 오브 듀티: 모던 워페어 4'가 한국을 배경으로 한 캠페인을 공개해 화제다. 해밀턴이 해당 게임과 협업한 카키 필드 워치를 출시하는 등 브랜드 연계 마케팅도 이어지고 있으며, 시리즈의 전체 서사를 정리한 콘텐츠도 함께 공개됐다. 오늘 처음 등장한 키워드다.",
-          "headline": "콜 오브 듀티 신작, 한국 배경 공개"
+          "description": "'콜 오브 듀티: 모던 워페어 4' 제작진이 K컬처의 인기가 게임 배경 설정의 계기가 됐다고 밝혀 화제다. 해밀턴이 이 게임과 협업한 '카키 필드 워치'를 공개하는 등 관련 콘텐츠도 잇따르며 출시를 앞둔 기대감이 높아지고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "모던워페어4, K컬처가 배경 설정 계기"
         },
         {
-          "rank": 3,
-          "word": "국민",
+          "rank": 2,
+          "word": "보도",
           "count": 2,
           "articles": [
             {
-              "title": "국민 다섯 명 중 한 명이 당원인 나라…정당은 비대해지고 시민사회는 비어갔다",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLN0FBZ1ZjYnlfWS1qdVkxNTFwRGp2MlR6MF9xZC1adHRTNlRkODU2YUFhVzB4U0RHd1lvY0VCZTJTel9LRWotM055TnZhNE5oODhzT3NQOUhUMlZ3MGc?oc=5",
-              "source": "주간경향"
+              "title": "김승원, ‘성추행 등 청와대 탄원’ 보도에 “사실과 다르거나 과장”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZN3F5cGN0aDY4dU9qYzBVTGlYcGtubXR4dFllbFJwRnRrVHFSeHVuTUZBTWtxeFloYUxMc2sxQ1FNV21LV0p0SkYyUWs1aUp6VTRoOUVhR1Y0d9IBX0FVX3lxTFAxS3cwR0w1a200elpkb3ZCYk9sMEQ1UDFlYWdNSTg5NG83THV0azhLajZKMXFhY1lGWHlLX2d4TjNiX2tvblpITFhId1E5aC1OOERsU1ZzRXFSaF9vcDFV?oc=5",
+              "source": "경향신문"
             },
+            {
+              "title": "김승원 ‘성추행 등 추가 의혹 탄원서’ 보도에…靑 “확인 어렵다”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aQ1RidmFaOWx5QzQ4Ni1sTWRSdERxQnVwSFYyTXpRTWlWLXBKb0NSVGF5Y093ejVmQmlSNDI5T2o5OURKWThCOFFQSE8xR0xQVTRJRGRR?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "김승원 ‘성추행 등 추가 의혹 탄원서’ 보도에…청와대 \"확인 어려워\"",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCMG1mN1VDY2tBazNkekxUVWh1S1N5NVVzY1FyTlI0OGtZbEhfTWloQVpuVVlTU0J6ZGhXVVdRSi1leW5ad1VLc1p0dHVGSHN0eDhwcA?oc=5",
+              "source": "JTBC"
+            }
+          ],
+          "description": "김승원 의원이 자신의 성추행 등 추가 의혹이 담긴 청와대 탄원서 관련 보도에 대해 '사실과 다르거나 과장됐다'고 반박했다. 청와대도 해당 탄원서 내용에 대해 '확인이 어렵다'는 입장을 내놓으며 진위 논란이 이어지고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "김승원, 성추행 의혹 보도에 '사실과 달라'"
+        },
+        {
+          "rank": 3,
+          "word": "부족",
+          "count": 2,
+          "articles": [
             {
               "title": "이 대통령 “지지율 하락, 국민 존중 부족했다”…“연임 생각 전혀 없어”",
               "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QTE5QYlRMMjlRbFJBcERQRmhNOW1iZUoyMWJNNS1pYnQ3M3owVVY5enpPd01oMHEwVVhhMk9Ta2ZjTnJCOFE?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "“국민연금? 한 푼도 못 받아요”…은퇴 건설 노동자들",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iWUpkbEZCdVlEcHNaU253anU0ZzZwaEt4TVhVY1hqRThjaVZHUEJIcFRXbklKUGtWV25Ea3RNWEprbHdmM3N3eUF5RC11aEU?oc=5",
-              "source": "v.daum.net"
+              "title": "DDI 부족...삼성, 갤Z폴드8 이달 부품 생산계획 10% 다음달로 이연",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qYm9DQTlHdC11bUNpcHJtNld1VnhSZXdTWjREd2tqRGw4OUU4UGdTekplalVrVWVlVFV5TUhFcDRaMjI5ODZycXJhR0FnbGJWNlA5ZEhn?oc=5",
+              "source": "지디넷코리아"
+            },
+            {
+              "title": "\"오픈AI, 매출 10배 늘어도 2030년까지 386兆 부족\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Gc1ktaU1oTk8zLVl2eFhkYTZpaXR4MGxPMWhaMXhEWVlKQldSdGw3MjJ1LW1tMjhGUnNxdE45My1nVExMMVVhOFRUWGc3Z1JOYmpBTHFNWjlRQkFqTlVHZA?oc=5",
+              "source": "asiae.co.kr"
             }
           ],
-          "description": "이 대통령이 지지율 하락 원인으로 '국민 존중 부족'을 꼽으며 연임 의사가 전혀 없다고 밝혔다. 한편 국민 다섯 명 중 한 명이 당원인 한국의 정당 구조가 시민사회 공동화를 낳고 있다는 분석 기사도 주목받고 있다. 은퇴 건설 노동자들이 국민연금을 한 푼도 받지 못하는 사각지대 문제도 함께 부각됐다.",
-          "headline": "이 대통령 \"지지율 하락, 국민 존중 부족\""
+          "description": "이 대통령이 지지율 하락 원인으로 '국민 존중이 부족했다'고 직접 인정하며 '연임 생각은 전혀 없다'고 밝혔다. 한편 삼성은 DDI(디스플레이 구동칩) 부족으로 갤럭시Z폴드8의 이달 부품 생산 계획 일부를 다음 달로 미룬 것으로 전해졌고, 오픈AI는 2030년까지 386조 원이 부족할 것이라는 전망도 나왔다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "이 대통령 '지지율 하락, 국민 존중 부족 탓'"
         },
         {
           "rank": 4,
-          "word": "연휴",
+          "word": "거절",
           "count": 2,
           "articles": [
             {
-              "title": "제주 강풍 주의…주말·연휴 초반 ‘맑고 일교차 커’",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpb09Ca3FhOEp6SnB6ZGJ0NlBCMGJ4dmlxbzRob3N1UWJHbTJLd3VDbDNSRTRyaU9aR1hTSm04VjhDeVNNeUE?oc=5",
+              "title": "“이 대통령, 파병 거절” NYT 보도에···청와대 “거절 아니며, 기여 방안 계속 검토”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hTkZKM0JhVzNNaGNMWVBWOHBzYzZlWnlEQVZkWW9JbVJxYTJiU0tmVHhyVkJWM3VMTmM0bUhpRVRsU3lPaFFJQTRmVDM4YXd4SDR3UUNXVk5aQdIBX0FVX3lxTE9KM2tQNFFsRjdYVFJhcXdNMEptYW1McDhoOVlJTGw5SW9WUUFZcnFPcGFSN25JNDRMZTJvOXVEaDZPYTFJWFJtTVNfNmc5U0pzSE91NUg1UGpIN3JzWnVr?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "NYT \"李, 트럼프 파병 요청 거부\"…靑 \"거절한 것 아니다\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LbWJtSFlWV0NQeDNNQzZQQ3lqdnF4a3pKTldMQ294T0RyaE9YMmQ1RzJrLUJqRncwSnU3d2VEd1J6TDFZRm0tbHo2NGJjc0U4NW1DZEE5UGtrZw?oc=5",
+              "source": "hankyung.com"
+            },
+            {
+              "title": "NYT \"李, 파병 단호히 거부\"…靑, 하루 만에 진화 진땀",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KLWM5OXpYUkZiSG9PVFZPWlJOMVZJeV9yMEprNzVKWm9qU2FWdEx3YUdtaXhNemQ4a1JteURNUGR3MFBpbm8wOGlBb3R1MHI2dHc0Ng?oc=5",
               "source": "v.daum.net"
-            },
-            {
-              "title": "추석 연휴 나흘, 대체로 구름많고 제주는 흐려…기온은 평년보다 높아 [주간날씨]",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QdEpvaXJ5VW1leG1VNmdyYjd3UDFKdFBFVzNOUmc5QjVQTnN2Zi1HaXVLMEhjc0FTazVycnpVbEM2TzhxbVFxOVZMN3dyVmtKbFZOVG1GOEtMeWRlOURmV2haYU9VZw?oc=5",
-              "source": "한국대학신문"
-            },
-            {
-              "title": "제주 강풍 주의…주말·연휴 초반 ‘맑고 일교차 커’",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ULUlEM3VBbGNpQUV0M0dXbUJIZElEakVqLXp4eURNUXg5R1ZZeUUxSER4enJkYjhBbVRhSDNWVXprS2lqajNVQ1lFYXhod1pVZ0VWbVBqYmp0amM?oc=5",
-              "source": "KBS 뉴스"
             }
           ],
-          "description": "추석 연휴 나흘간 날씨는 대체로 맑고 구름이 많은 가운데 기온은 평년보다 높을 전망이다. 다만 제주는 강풍 주의보와 함께 흐린 날씨가 예보됐고, 연휴 초반 일교차가 크게 벌어질 것으로 보여 건강 관리에 주의가 필요하다. 오늘 처음 등장한 키워드다.",
-          "headline": "추석 연휴 날씨, 맑지만 일교차 커"
+          "description": "뉴욕타임스(NYT)가 이 대통령이 트럼프 대통령의 파병 요청을 단호히 거부했다고 보도하면서 논란이 일었다. 청와대는 즉각 '거절한 것이 아니며 실질적 기여 방안을 계속 검토 중'이라고 반박했지만, 하루 만에 진화에 나서며 진땀을 흘렸다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "NYT '李, 트럼프 파병 요청 거부'…靑 '거절 아냐'"
         },
         {
           "rank": 5,
-          "word": "법관",
+          "word": "기여",
           "count": 2,
           "articles": [
             {
-              "title": "김성수 대법관 임명 재가…'2석 공백' 11일만에 1석으로",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nMzlZWWZNZng1OGFSSjhBWXBvYWk1ZGZYTTB5TGtKTHNZUm15dTNoNEdIVktRS1hPbnM3UW40QXFCZG0yMFFWempQTUVraGRSc3NTLWxrVVdqMTVpSFctN9IBeEFVX3lxTE1YOXdLMWNZV25zZVNGUkRHaFljT1czeHZGOHhuTjRZRnBYZm51TVY0b0EtS0NsS0tRT0VINGlWM0NaYmEwZmQzdk9mLUZjWktoTkx5OUFyXzdVX2NmUldNMXBOZW5RVlJ0Sy02dXZEUHhGU0k1NlUzdg?oc=5",
-              "source": "뉴시스"
+              "title": "靑, NYT '트럼프 요청 거부' 해석 반박…\"실질적 기여 방안 계속 검토\" |",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTZGpPelFsY3BOUC1LLUZDbzdtZ2VrVmVxZE9FVHF3bF9tT1BCTlJXTWczME1PbGdjcUVuUDNCLWVwZGxZOHBXOENoTkd1Z0NvcTM2X2VhRkxtS2xQVlBOYlhpcXVSTmcxcEVUZEZPV3BaWTZE?oc=5",
+              "source": "연합인포맥스"
             },
             {
-              "title": "김성수, '김승원 의혹' 영장판사 논란에 \"사실이라면 엄중 징계\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ldGF1d0xZcGxNS0hneFZ3TlFuYnhTc21NWnNFdDI3UWNOT0JHQU91MVV2Wk1GQW5nMVJpSDJ4bmZoMncyX1JIUktNWnA4bkpleUpGMnBqZk9YUknSAWBBVV95cUxORU0xVzFWVkZwckFVZWtPd1pMT28xc0x3dXA5LWYtdWhNZzRpODNmZ0xySVp2aTRPT3J5VnVjMFkyZXBWOVViSkR6SHBiMUdXNE9PNml3bURnYVo1QU5EcWc?oc=5",
-              "source": "연합뉴스"
+              "title": "NYT “韓, 트럼프 요청 거부”…靑 “거절 아냐, 실질적 기여 방안 검토”",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GdkREUjJZTldSVjZxLUxaX0FqMW1xTDdJZ2dPX0xCYS0zOWJ0RXNQNXVTbGlIMlJHUzZUMmNUcjBVTEFWRWVhaS11TjVXbHljRU83YkQyaHFQdHF5TDNF?oc=5",
+              "source": "조세일보"
             },
             {
-              "title": "제넨셀 영장 기각 판사…김성수 대법관 후보자 \"사실이면 엄중 징계\"",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVJsVVFhcmhZbFpsUDRFNldiaFNnTTF6cUF4eUMxVnl0T0V6ck9WbTJMUG9nNml4eW8xQ0N3Wk1tSnpHS3k3cU1JRk03OC1FRFpEcWN4U0RmRGpBcmxjLVlSSWw2NmtXeXBILTRhM2FPWkhpdVhheEtpODA2aXRibEpSMWpFY2c?oc=5",
-              "source": "조선일보"
+              "title": "靑 \"李대통령, 트럼프 중동 협조 요청 거절한 것 아냐\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KVFFwQm1ZUVRSWUdDbFR0SDBFVUs4UldjOVVSaHloTktXdUZQMmd5ZW9xaTNwVi1xelM4UUUxME9zSmlOcXJtZTBvbklqTHc?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "김성수 대법관이 대통령 재가를 받아 임명되며 대법관 2석 공백이 11일 만에 1석으로 줄었다. 김성수 신임 대법관은 인사청문회 과정에서 '김승원 의혹' 관련 영장 판사 논란에 대해 사실로 확인되면 엄중 징계해야 한다는 입장을 밝힌 바 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "김성수 대법관 임명, 공백 1석으로 줄어"
+          "description": "청와대가 NYT의 '한국, 트럼프 요청 거부' 보도에 정면으로 반박하며 '이 대통령은 거절한 것이 아니라 실질적 기여 방안을 계속 검토하고 있다'고 공식 입장을 밝혔다. 트럼프 대통령의 중동 협조 요청을 둘러싼 한미 간 의사소통 내용과 해석 차이가 외교적 민감 사안으로 부각되고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "靑, NYT 보도 반박…'실질적 기여 방안 검토 중'"
         }
       ]
     },
     "경제": {
-      "summary": "일본은행이 31년 만에 최고 수준인 1.25%로 금리를 인상했으며, 젠슨 황 발언에 힘입어 코스피가 반등했다.",
+      "summary": "일본은행이 금리를 31년 만에 최고치로 인상했고, 삼성 초기업노조는 반도체 노조로 전환됐으며, 추석 연휴 고속도로 주유소 유가는 ℓ당 100원 인하됐다.",
       "keywords": [
         {
           "rank": 1,
           "word": "금리",
-          "count": 7,
+          "count": 8,
           "articles": [
             {
-              "title": "일본은행, 3개월만에 다시 금리인상…1.25%로 31년만에 최고(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DN0J1NTVzZ1V2cGdjY0xLc0JkU3N5ck9uMHIzSm9YNXNZbmlmYm9WQmIxVHRQUmRDckpwRkhLUk1McllpS1dkRXRZRE5pd2FfZW9LbTBfN2lTMkHSAWBBVV95cUxPRFNIcXFsZndnb1I2QUdEZTl6NTN2Y2tzR1NfRG0wZG9YZmNwR0RqWlgwa1A2a1JNMVZwUXlwRkNXTUJBVi1iM3dvZFpYbWxxOFlnVkFVcVlNUDNJeUVWRmo?oc=5",
+              "title": "일본은행, 3개월만에 또 금리인상…1.25%로 31년만에 최고(종합2보)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iLWE3Nk5tU3dIX3loektOZWp5TndrRVlaTVJCV1dFZUxRQ1lRQklWUnBYWWFaQWNOd2h3R1hIT3pzQk00WEFaWHFXUWxRMzAwREpjUy0xWmVXWUnSAWBBVV95cUxPQWlWbnhmZ0JIVE92bEpadjg2Tmp0SlJrdWZJeTRnRHVBbmZBVm5uQlJpdHNOSUZLMUIwM1lfcEU3djdOWHZSQWVWTEs1bW1iTVVmOC12TTF1SUZnZG1SalE?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "금리 인상·클래리티법 무산에도… 비트코인 1억원선 유지 [주간코인시황]",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSG1CVEtpek9ZU0Fsa21WNW1zWkprMHcxZ2ZwYU9EalNkbTFsX045Y1lEUnBRQS0zYTJSRmxidDNvZHFUdlNYOWlIczNoS2ptLXhaM1FlbVdDWHVXWUJNemZhWXh2bFduRzlyMDRPdk3SAXRBVV95cUxOd0RGcVVSYXV5YUhIWFh4ZFFjdHNWNjQzOVRSZ3hlbFpJcU8tOHhxNXpIVzljbi1qUUxLaUE5UHpueE9ib19Xak1EdXp4SjZUMjhMaDBmczlpVmRQMld4SFV0SWdmU05BZTVtUXlGVTFfMTduRA?oc=5",
-              "source": "IT조선"
-            },
-            {
-              "title": "베어 플랫…엔저·유럽發 매도 속 '5%대 정책금리' 전망 등장",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RNENyd2hLbFVGdzRiVkpUaVFnaEdabFB1dEpsaEtuaEpkV3hVSldGdG1Kd1FtU3dBMTVlRlJtdDJBM2trRTRxTHI2dEwzbHBfRDlFckdqTF8yYldCLU4zRnJtVV93NnByaHloNUw1aks?oc=5",
-              "source": "연합인포맥스"
-            }
-          ],
-          "description": "일본은행이 3개월 만에 다시 금리를 인상하며 1.25%를 기록, 31년 만에 최고 수준에 도달했다. 이 여파로 엔저 및 유럽발 매도세가 겹치며 미국 국채 시장에서 '5%대 정책금리' 전망까지 등장하는 등 글로벌 금리 긴장감이 고조되고 있다. 국내 가상자산 시장에서는 금리 인상과 클래리티법 무산이라는 악재에도 비트코인이 1억 원 선을 지켜내며 시장의 관심을 받았다. 금리 키워드는 5일 연속 1위를 기록 중이다.",
-          "headline": "일본은행, 31년 만에 금리 최고 1.25%"
-        },
-        {
-          "rank": 2,
-          "word": "속도",
-          "count": 4,
-          "articles": [
-            {
-              "title": "AI 정말 위험해졌나…안전·패권 놓고 빅테크 충돌",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MUWt5aVphUVd3SGNhLVNFRmt1WGZSOVNicy1KaDZEbTVMbjE5VDN3VGFvX2pqU1FYVmVmNEp0WUNCa0FPTzZLS2hsTVMxSTBsaUlISW53?oc=5",
-              "source": "지디넷코리아"
-            },
-            {
-              "title": "평택 ‘인터컨티넨탈호텔’ 건립 속도…우선협상대상자 선정",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WYmFveXhUOGYxMjZPVWZmNHAybllzYWRZdjFxTl9adzg4VXZWU1pfZ0w0S1F2OHBwdFBlWXA3dVlsbjgwNzZrLU84clR0NDlmVXZ2RjcwOTFjMDQ?oc=5",
-              "source": "경기일보"
-            },
-            {
-              "title": "어린이 보호구역 ‘시간제 속도’ 운영, 야간 ‘50㎞’ 탄력 적용",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LT3V6SnloTTFKaTBudUVrN3R3UVdHeWc1aTZWU0ktRF9RdG5kN3J4aGt5VUlwMjdUQ1ZqM0dOWi1HOW5yem03aW5BczFtb05OVTdoN3Rudk5jdnRDTlZTZW9oY1pqcHBBUGN5akYzdw?oc=5",
-              "source": "서울신문"
-            }
-          ],
-          "description": "어린이 보호구역에 시간대별로 제한 속도를 달리 적용하는 '시간제 속도' 방식이 도입되며, 야간에는 제한 속도를 50㎞로 탄력 운영하는 방안이 추진된다. 한편 AI 안전성과 기술 패권을 둘러싼 빅테크 간 충돌이 심화되고 있다는 보도도 이어졌으며, 평택 인터컨티넨탈호텔 건립도 우선협상대상자 선정으로 속도를 내고 있다. 오늘 '속도' 키워드는 교통·AI·개발 등 다양한 분야에 걸쳐 주목받고 있다.",
-          "headline": "어린이보호구역 야간 속도 50㎞ 탄력 적용"
-        },
-        {
-          "rank": 3,
-          "word": "코스피",
-          "count": 3,
-          "articles": [
-            {
-              "title": "추석 앞두고 젠슨황 입이 코스피 살렸다…AI 모멘텀 계속 쭉? - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vOEdXM3V2YzBkajh4SE9YcHYzM1JkSEVwMEFnVDdXSVNhMnpNMGxOLXBjUTdaSC1NcEFCelcxa0ZxaEVBVWthbG1Ga29QUFlkeXBGU3lkVTEteVlqc2dRSExoQ29acGMx0gFuQVVfeXFMTTRRMUktQU5reVRON2lQMC1HZXZCeDRPanhuT3dMZnVRVW1EUUFEandxYlp1LWVoaXduQi1mTmpkM08wLUdKT2xLV3ZCWEt3V0NicFp1RmdjTGFxdlFOT3NqM2tzcUJYLW9pcXk2UWc?oc=5",
+              "title": "\"땡큐 젠슨황\"…美 금리인상 충격 이겨낸 코스피, 2%대 상승 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPUWd4SUhxVWg5OEdjNXlKQUJDYXlWMHBNekdYRm5iZlRydV9FbWw3X2VSN0hxNTUyaTBGXzJHUU02YWhOei12cldBYVAyZmhlR0dPdHdZT0Fjd29pT0lHTnl3SHlURVBH0gFuQVVfeXFMTXF1Z29DeWRsdGE3bC01RDR2UmRaeEdTSHRiR211YzB2NUh0ZWFoRFRhQ1ZFQ09ScHFlbF9jN0NueWduZllkN1ZXa0ZBRkdTankwUkpmZERTMGZWdUh3bDV0SGF5Z21tSVM5Vm85TUE?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "외국인, 지난달 국내주식 올들어 첫 순매수…코스피 1.9조 사고 코스닥 1.5조 팔았다",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80Y3UxU080cHVzY0I0SDh3YU1XNlFsQTVTQ0ZORTJIelFjaHdPQXZTNkZxVl91NU5lU3lfcjdlR05qcDNFSExoTVIyYjFfSDhZalE?oc=5",
-              "source": "매일경제 마켓"
-            },
-            {
-              "title": "외국인, 지난달 코스피 1조9000억원 순매수...올해 처음 국내 주식 ‘사자’",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORjI0cUh2eUN2NTBnMTlpSFNkZUgwSE52QXRYVFRicmtabldMdGRmRi13N3g4RVlncHFMQWRPNlg2VVVLTXJTV3ZYbWFjcGNVal9NVE00VXVDVmpDdi12RmRwclFWOU1sMVc2QUszSHVoUUtCanVNMEIzYmRTZngzM3RQd25nWEU5eHZZ?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "추석 연휴를 앞두고 젠슨 황의 발언이 AI 모멘텀 기대감을 높이며 코스피 반등을 이끌었다. 외국인 투자자들은 지난달 코스피에서 올해 들어 처음으로 순매수를 기록하며 약 1조 9000억 원어치 주식을 사들였다. 반면 코스닥에서는 같은 기간 1조 5000억 원을 순매도해 대형주 위주로 투자심리가 회복되는 양상이다.",
-          "headline": "젠슨 황 발언에 코스피 반등"
-        },
-        {
-          "rank": 4,
-          "word": "노조",
-          "count": 3,
-          "articles": [
-            {
-              "title": "\"직접 대화하자\" 삼성전자 동행노조, 이재용 자택 앞 무기한 농성",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80SEJrYmdqTjNmbTBxdF9HWHdYUFBVMWF5NjJnTzVvTmdYM3cwU0RqX2ZrRUw0Rnl3WXBxTDJvTlVpT1k4emc?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "포스코노조, 2차 부분파업 확대…회사 \"생산엔 차질 없어\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0telpLbE5HLXNLeDJ3ODlfMkNRajV5NFBRLWV2ZlpEMmxGRVpXNDdxVEpuOHJ6LTBSYWZiUEp3ZlM0VHV4S3poZmVSWG5fLVBEVDZDcEhBM2xGNGfSAWBBVV95cUxPVVJ1QzBsZTU0dHpxSGpDeFVha1ZOM2phSmRPVDBaMmVudWRmQVhjZmJodG9NRWdOZGhQTU5UUEdxb3BiVGZqTTVGTUlfVEsyNENfSzV0V0RwRUxKSEdHN0o?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "포스코 노조, 2차 부분파업 확대…사측 \"공장, 정상 가동 중\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FSUFqWGxjQk1LWjdRelZ3TFRUdTR5U2VOTnFpaWRzck44REg2dndFUnBUSlBBNmp1WEpzbExaTGwxYmlrZG8wTHBhaEhKNUE?oc=5",
+              "title": "美 금리·유가 진정에 코스피 2%대 반등…6800선 회복",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UUzQxTjktU0cwcXdqLU1JeC1NdE01RGVyZDVIVF9fRS1kQUZ0ZjVWdWxVaUN1UGhBdmlBZURvQjRfWDIyMU9Jb3lwdmotY0k?oc=5",
               "source": "v.daum.net"
             }
           ],
-          "description": "삼성전자 동행노조가 이재용 회장 자택 앞에서 직접 대화를 요구하며 무기한 농성에 돌입했다. 포스코 노조도 2차 부분파업을 확대하며 압박 수위를 높이고 있으나, 포스코 사측은 공장이 정상 가동 중이며 생산에 차질이 없다는 입장을 밝혔다. 대기업 노사 갈등이 동시다발적으로 격화되면서 노조 이슈가 경제 분야 주요 화제로 부상했다.",
-          "headline": "삼성·포스코 노조, 동시 강경 대응"
+          "description": "일본은행이 기준금리를 1.25%로 올리며 31년 만에 최고 수준을 기록했다. 3개월 만의 연속 인상으로 글로벌 긴축 기조가 이어지는 가운데, 미국 금리·유가 부담도 일부 완화되며 코스피는 2%대 반등해 6800선을 회복했다. 엔비디아 젠슨 황 발언이 투자심리를 끌어올렸다는 분석도 나왔다. 금리는 5일 연속 1위를 기록 중이다.",
+          "headline": "일본은행, 31년 만에 최고 금리 인상"
         },
         {
-          "rank": 5,
+          "rank": 2,
           "word": "추석",
-          "count": 3,
+          "count": 4,
           "articles": [
             {
               "title": "\"추석 연휴 끝났는데 또 쉰다고?\"…28일 월요일, 빨간날 될 수 있을까",
@@ -242,268 +170,340 @@
               "source": "asiae.co.kr"
             },
             {
+              "title": "9월 28일 추석 임시공휴일 지정, 정부 입장은?",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94TlU5RnRvWlN2d3U2eGlYM25FYW5oMVNmbG04YnJRM0ZXMWFXaHNtTDE1UUVvU3ZlalBRZlp4WTlCLXR1Q292UjZaeUxrQWxTZUxVQm1ZUnlacXM4UmF2LVB5LWtBTG4wU1E?oc=5",
+              "source": "금강일보"
+            },
+            {
               "title": "추석 임시공휴일 대신 '이것' 폭발적 관심",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45ajU4SkV2MlJISk1lS0JnbHRPWlJhbUppUUg2dEd6VlJudTczREYyWWRyaHNzc01Ib1pwSEEzazFNS25pMVlGUVBRMXJmYkR6Q3EwLWFYVGRWWDhLMW15YlFnRFBsVkFaelNiRDRB?oc=5",
               "source": "gukjenews.com"
-            },
-            {
-              "title": "올해 나흘뿐인 추석 연휴…내후년엔 휴가 쓰면 10일, 2082년엔?",
-              "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQQ25pRFlUcHU2OHE3ZzZQLW1NekpxWHlWRXlUQ1ZKbk52U3lWbVE0ZXBLOEtaMG1QbXlrS0lmV2oyZ1QzaXNEZHByTV9DMEdaSjVzM24tUkQ1Wk1OTzNXcVh0ZGVHLWdSUXFKRjJQVENsSnI4aERZVjhPMDEzSVFpbUdqdXQycW9xeVdSblNTWkVMMnMyVTFqZzMzcmVnU0RlSWxKaEszMkdXSDdJRFZMdjFMVUlsOTBPSlN0UzBDTS1MdHc1STVBY1dhRHIyVzc2LUFxLVdkWmFNelhQZVk4N3AxWk1yTHVMVWhFcEsyV3lSdnBQZkx4WE8xYXJaTG5OcGhDblg2bXE3OFZKMG1iY1V2UWxJMkgxWThIZGJvMDc1cHM?oc=5",
-              "source": "데일리안"
             }
           ],
-          "description": "올해 추석 연휴가 나흘에 그치면서 28일 월요일의 임시공휴일 지정 여부에 관심이 쏠리고 있다. 임시공휴일 대신 다른 대안에 대한 폭발적인 관심도 보고됐으며, 연휴 길이에 대한 아쉬움이 온라인에서 화제가 되고 있다. 내후년에는 휴가를 활용하면 최대 10일 연휴가 가능하다는 분석도 나와, 앞으로의 추석 황금연휴 가능성에 대한 기대감도 함께 퍼지고 있다.",
-          "headline": "추석 연휴 짧다…28일 임시공휴일 지정 가능성 주목"
+          "description": "추석 연휴 직후인 9월 28일 월요일의 임시공휴일 지정 여부에 관심이 쏠리고 있다. 정부 입장이 아직 확정되지 않은 가운데, 임시공휴일 대신 다른 대안에 대한 폭발적 관심도 이어지고 있다.",
+          "headline": "9월 28일 임시공휴일 지정 여부 주목"
+        },
+        {
+          "rank": 3,
+          "word": "반도체",
+          "count": 3,
+          "articles": [
+            {
+              "title": "삼성 초기업노조, ‘반도체 노조’ 전환… DX 간부 2명도 축출 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjdkbWlVXzVsTDJ0WGFGdjg4Mm91RGxtYkljdE5NUHpMZjF5TjQtM0VOTjNySzN5ZTluM09adDgxNTFLYUlpSzF4RmVzdE9DWHhRWEhTT2ZfZkhRRHAxeHByVGg2V3NlV3hqSTNsNnpyXzU3YnpqRmdWVkswejA2azZsVDRxYko2SkHSAZ4BQVVfeXFMTWtRcmdxZ3JIWHhRUHZZb19xMVZpdnA0UDc3UzVBVnliNFJ0UDFWcGx6U1JSVUloUXMtRzJVRTlyRlVCU0FOd3RBT2UtZ3JCSU5SeEpja3RwZkJQVzFHazhiV01KUkxmdnIxYUxIbFdUUUlrbHBDc0c4dHlkc19hUUQxaTk3LWZFeGRjN1c1THdEN1hLZndLaEZyVUdGU2c?oc=5",
+              "source": "biz.chosun.com"
+            },
+            {
+              "title": "삼성전자 초기업노조, '반도체 노조'로 전환…DX 조합원 제외 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hME95ZU5YZENKVmx3YmtWSWRpNkRNQkZteGpFb2Fhd2hBZGRBdVIwdmFleXlxNERsTW9ZMTRLbWRfVUZ0YWM2elRqa0ExeVU3VHNxWjdZNkJnRkFjbWdzVk1DaEhMem83NG1hR9IBckFVX3lxTE55SjdPN0ZQNDIyR2g2LVdQWEJFOUtjLXJaZ1JidXNkY2gzSUpWNnBzdXl0NGtCM1dDWkpneWdiQ0FQNENjS2FyR1JjNkNFSWY5eE44VzhEejdoSWpNTUVlTFlBU3dYU244VjF5TmdsaVhtdw?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "삼성 초기업노조, 반도체 근로자만의 노조로 재편",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OZ2p6LXJtWU9rSVhuZzdDWG0ydm5aOGpUZ3ItWGt2Y3hNSVIyUkc2cUVGOHJKX2NsX3pveW1ydVdoT0FRNHBsVzhyUFVBWi05cTh0R094c2FaVnJkTFRVMThqRzg0NVZRWGFtTTFiNnY1QVg20gF0QVVfeXFMTVV5bHFsaDVTYi1LQTVnOFY1bENVUVRhRU5VbFZfdi03dGhiZGhTVDR5UmI5NFpULWxYdk1BWXJYVVhicHVibXo1Rk1VS21HXzZJV0RaSldPOGJsUUswVldKNm9IRkNOQ0g3QjJsRm9xLW5WaDg?oc=5",
+              "source": "imnews.imbc.com"
+            }
+          ],
+          "description": "삼성전자 초기업노조가 반도체 부문 근로자만의 노조로 전환을 선언했다. DX(디바이스경험) 부문 간부 2명이 축출되고 DX 조합원이 제외되는 등 조직 재편이 본격화됐다. 삼성전자 노사 관계의 새로운 변수로 떠오를지 주목된다.",
+          "headline": "삼성 초기업노조, 반도체 노조로 재편"
+        },
+        {
+          "rank": 4,
+          "word": "주유소",
+          "count": 3,
+          "articles": [
+            {
+              "title": "추석 고속도로 주유소 기름값 ℓ당 100원 인하…전기차 충전요금도 할인",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VNjNrWnRNc3ZHU05RcmNxdUc4Y2dWTThfUHM0SzVVVmt2RjNpSG9CN1dna1o3a2pyTU5nYkVzUmtWZml3Nm5xS1BucWIzODBNeTI4bFRfTVdLSGlDTElzYk05RE8?oc=5",
+              "source": "intn.co.kr"
+            },
+            {
+              "title": "주유소 기름값 18주 연속 하락...\"명절 100원 인하\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lSUN5eUR6SEI2Y09halRpQmxhVkw0ZEl0OEdsUXpwTGQyUUtVUzJkTlBrcy1tQ2dPMWRNNjVPdEVTUzJaMmc3cnpaMGthY1lxODRRMEdxeEhXVmdhbVE?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "추석 고속道 기름값 100원 인하…일반 주유소 “문 닫으란 거냐”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMcThUc3FlVDdPbkYteEotVlg3VzFmMzIyRDQ2UDBDd2MzWW53WVJ4a1lyd2liZ2RCOXFwQmZoOWNwaGZ5enZlQktlTThWNl9EeW42eGlB?oc=5",
+              "source": "중앙일보"
+            }
+          ],
+          "description": "추석 연휴 고속도로 주유소 기름값이 ℓ당 100원 인하되고 전기차 충전요금도 할인된다. 전국 일반 주유소 기름값도 18주 연속 하락세를 이어가는 상황에서 고속도로 추가 인하에 일반 주유소 업계는 불만을 표출했다. 주유소는 오늘 처음 등장한 키워드다.",
+          "headline": "추석 고속도로 기름값 ℓ당 100원 인하"
+        },
+        {
+          "rank": 5,
+          "word": "전세",
+          "count": 3,
+          "articles": [
+            {
+              "title": "李, ‘전세 사라져야 할 제도인가’ 묻자…“내가 언제 그랬냐”",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBNWM3dU90RmVka0dpVm1Xb3F4TnNtTXdOYmdaNWJibEs0U1oxTm1WWmhBbkc1Um5aNnBZbTRRajB3TnFnS1JWUnN5bG5PZDRqc091aklOeVBldHN6eE53bHUtVnFPa0dtdWVkU1lHd1BCd25GZEsw0gFmQVVfeXFMUFM4VDNtWmhZdU8xaS03ejRwVTBEMk1pWTd4MEdEU3FtTHNNeFZfRVFPZmEtYUplMGVrejI3SW9QYjFMQ3ZER1VKOThxenBvUG80X1dYYTZabXZSdXpjX0V3bTFJUExR?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "명의신탁해 전세보증금 반환 회피하던 50대, 벌금 700만원",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sb21IeUlsRTBiUG5EeDh4a3RndWt5R0tJcmIzcXV0NFpoRHp0US04clpoVXZJNXFJTS1pWklDZEl0QUlrZ0p1X3BoZXNxU3NuV25mdjZIVnZaM1BXMFFwcdIBeEFVX3lxTE1hX0FrdF9PTXZTYkc1NmV3OFhRamJHQVNTNkxLSmphNkVlVHV4SjgyNWNiUVY0Wmp4S2FJRlVSeWdMa0sxajRFbE5PSF9zMEV2dUlaRmdHUHZnN1VkTkNHSFpEQU1vTGVqUVRuUnVSNkJEVVJ3QU9DVA?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "오세훈 “전세 매물 실종은 실거주 집착 대참사…李 책임져야”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZREtza3o2S1h6LVU1YmNpZUZQdjhMYXJxRnBPLUhrR3NaVk9meEpTbmdxSk04dnhqZmZYcm4wUnVFaWttTWVJcWh3TW5FdnFFZnhjem9B?oc=5",
+              "source": "중앙일보"
+            }
+          ],
+          "description": "이재명 대표가 '전세 사라져야 할 제도인가'라는 질문에 '내가 언제 그랬냐'며 발언을 부인해 논란이 일고 있다. 오세훈 서울시장은 전세 매물 실종을 '실거주 집착이 빚은 대참사'로 규정하며 이 대표에게 책임을 요구했다. 한편 명의신탁을 통해 전세보증금 반환을 회피한 50대가 벌금 700만 원을 선고받는 사건도 보도되며, 전세 제도를 둘러싼 정치적·법적 논쟁이 동시에 주목받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "이재명 '전세 폐지' 발언 논란"
         }
       ]
     },
     "연예": {
-      "summary": "손예진·현빈 부부의 일상이 공개되고, 고지용·허양임 이혼 갈등·박위 부부 악플 논란이 화제가 됐다.",
+      "summary": "아이유 단발 변신·리센느 11월 컴백·박진영 신천지 논란·청하 응급실 후 회복.",
       "keywords": [
         {
           "rank": 1,
-          "word": "손예진",
-          "count": 3,
+          "word": "아이유",
+          "count": 2,
           "articles": [
             {
-              "title": "손예진, 현빈과의 가족 여행 언급 “아이 위주로 스케줄”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WbC01QlltSG15eGwyTlZiMlNodTdJTHY4TDBQbFB6bmZ1Y2xFNFl5TE1ZZDNicFNLVHI0RElzYVdoTDZyd3VJVjZVUlhTenM?oc=5",
+              "title": "아이유, 기꺼이 멈춰 선 '이 별'…철인의 왕관 대신 '다정한 연대'",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BRC1XMlV2MGh0LVBDWVpwYVpkWjNFU2pBNFJpNXR6M09WZVJtd1lnbl92R19kRkZ2NmtIX2RaZ2NhVkJTM0h5eFRmTk4xR3ZtdVZDRGhCbkNhLTVCNXVyMNIBeEFVX3lxTE5ld0dxS0FjZ0ZoUHdtdjNBdHo2RlNvNDFZekJVdGE0RlRKUUMzbFhOSzNoS24zYWUta3BSNURGY01rTE4wNzEwYzdGcXZoeEUwSmRjQW16LWNCZzRNV21qVE1ob2tqcnBZM2pfdVBhaVJ3dDNkeXA4Tg?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "'이종석과 이별→건강악화' 아이유, 10년만 일자단발 싹둑 \"단발일 때 잘 돼\" [Oh!쎈 이슈]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UOFhUdURMUVBsUFB1bS1jTEV1UVNkOC1CSDVfZDNzcWNpRUxNeEZ5RWJoLWNOS0JyUHMzWGduUHVEYWI4RkJFTVFsSG5xSzQ?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "\"손예진? 예쁘네\" 1000만뷰 찍은 이서진, 실물 영접에 \"제일 예쁘다\" 혼잣말 '포착'('비서진')",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tZUpYbjFuNkFwc0ljZ1hMVHExNlhvMHhtSzRUekpjcWpDNllrQ0hURENkQ0dkemt6NnVKN0M2bEdDVXV0aHFOSk5fYTFlNGQ0cFV0bUIzNFNfOUZwQkxXU0U5SXUydUpRdFVLLWZZNWQ?oc=5",
-              "source": "SPOTV NEWS"
-            },
-            {
-              "title": "신예 신윤하, 손예진X지창욱 내기의 ‘발화점’ 인물 주목 (‘스캔들’)",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMTJQQUp6SVVVWk9DZXZuVmhhUTlHb0ZDUjJuTXA1QUJDNkN6MnNUTVMtY3h4NjVFd1JyZld6Q2hOb0ZiUElfQmtfYWpMODhnTzFYY00xT1BZMWFDMGNEak9HUGRaSTZ2MjhQX2JCeFdmb3lYY2FQSlB3ZFBaZEdtaUlKYXZNTTk5Q1pKa1p3aw?oc=5",
-              "source": "조선일보"
+              "title": "아이유, 데뷔 기념일 맞아 '아이유애나' 이름으로 2억원 기부",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wNk1JQmg3QXFjak1mUjc5S3FOdnF2eVZBS3ZRR1lFYnZCODVTVjBsbmZ0ZXRORXMwZThFMEtUQUMxR2JmX2JSd0JMM19MSVkyb1dsR0ZsVTg5Mm_SAWBBVV95cUxQTmFJSVlLUWZCc1FWSndLTXZUVW5Jbmx4cDdwZGZwLVFaOGpQQXhpSnJNY1ZvamttS1haNEZ1STFVSnVUWENHTFVSSmswaWZKZTJDXzBIT1Vsc1lsemtUckM?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "손예진이 현빈과의 가족 여행을 언급하며 '아이 위주로 스케줄을 짠다'고 밝혀 화제다. 여기에 새 드라마 '스캔들'과 예능 '비서진' 출연 소식이 겹치며 관심이 집중되고 있다. '비서진'에서는 이서진이 손예진의 실물을 보고 '제일 예쁘다'고 혼잣말하는 장면이 포착돼 웃음을 자아냈고, '스캔들'에서는 신인 신윤하가 손예진과 지창욱의 내기를 촉발하는 인물로 주목받고 있다.",
-          "headline": "손예진, 가족 여행·신작 화제"
+          "description": "아이유가 데뷔 기념일을 맞아 '아이유애나' 이름으로 2억 원을 기부하며 팬들과 따뜻한 연대를 나눴다. 한편 이종석과의 이별 이후 건강 악화설이 불거진 가운데, 10년 만에 일자단발로 헤어스타일을 바꾼 사실도 함께 화제를 모으고 있다. 새 앨범 활동과 관련해서는 '기꺼이 멈춰 선 별'이라는 평가처럼 자신만의 속도로 행보를 이어가는 모습이 주목받고 있다.",
+          "headline": "아이유, 데뷔 기념일 맞아 2억 기부"
         },
         {
           "rank": 2,
-          "word": "현빈",
+          "word": "리센느",
           "count": 2,
           "articles": [
             {
-              "title": "손예진, 현빈 얼굴 매번 스티커 처리한 이유 공개…“그냥 올리지 말래”",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nYWQ4dkVnaVM0VFFmYjZmU1VqU005VDM1bG1JWXhNWU9Oc0ZvVURTcElibWVHMEFqRmU4dG9TR2poTGt5UURTYVhkaEd6OXRMaHBaZEpIa2RJeHZVTmVXUWxpMDBtZnRPYUgzZGU3UmFoRWtQelHSAWZBVV95cUxNMWhYVnh2NkJXQ3dUM2MwNnNDRkViQVN4ZV9JbzE5WEhVWjJvMWxINGlXS0VjTWZkaUdMa0xpY3lRVGZjeFptWDJfNGxMOUQxWjR6ZnB6NVd4eUdhWFNKZmhCQnFtbkE?oc=5",
-              "source": "동아일보"
+              "title": "리센느, 11월 3일 컴백 확정…대세 굳히기 [공식]",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fTW1QVUJVWkVONW1HYS1YcGRPaU84X19oSTZ3bnp6SDFxTHdad1dlNFJyMVVtNEZPdkw2enB2MGo1eDVSdm40c1oxTUtwNDk2YTMzcA?oc=5",
+              "source": "osen.co.kr"
             },
             {
-              "title": "‘현빈♥’ 손예진, 실물 어떻길래?..이서진, 뚫어져라 “진짜 예쁘다” (‘비서진’) - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNHNZMlVHWllTV29tMHFfOElfVFg2azhPZ1F3V28wcFdQSXBMUGhIaU55T2xmcVR1TG04WTJ1cHlyZ2lSNS04VzJ1ZEl6WUw5WlVJY0hNZlhuMllxdVktQzdYcEhzZUFfVGhyX1ZxRWQxSWhiZVFlVEg4RjhsY3A5OXdpeXVSYXltaTdQSUc1MUZaWXfSAacBQVVfeXFMT1BWSUVtWHE1eE1hZ2pvX2NxQjhKVFdOY1ZjU1MzS3h5M21IUnBXNG9jMUlmNUY3NXJPeEZBLVJrM1ZEcnFyUFJnbWkwVHlTSENlNUtBTkpoVHdHZ0FQOEpqb0RhdFV0ZDZiT25QSlNScFM5MnNUaGl5VGxQTmZYblVuZjhzREpWMENzTFlmN3pIa2xza3R6VlI2OWY4TzFvck02aVR6MEk?oc=5",
-              "source": "Chosunbiz"
+              "title": "리센느, 11월 3일 컴백 …‘러브 어택’ 역주행 신화 잇는다",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vT3RNY29NbUFDd1BtdHJ3elZZN3lVeUhvWGZCMmZROWxLZEhsVTFBOEdLN1JVRUx4MkNjLTk5YlBwTndFQmF0a3JkRXUybmZIX0xGRmxWR0V0MHNSZHVfWk1ZbXhIc25qUTRZa2xB?oc=5",
+              "source": "스포츠동아"
             },
             {
-              "title": "\"현빈 화나겠다\"...손예진 가져온 '250만원' 꿀 뭐길래 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qMmlsdE1jb3VSNkJ0NkhvcDRCM0FzMFhNdk54NHplSzBIOHhUdnVhT2FtTWp2NE9XaVNtS0FxZ3ZfLXljX05vai1FVXc5ellDM3NYeGpPU1JNTTZkdkFFdEI2X084Zmc4WklEbGRzTXpTYjTSAXhBVV95cUxQY2laMXJoMXNpM1NQZVZkT0xuUmd0Wmp0TlZRZ3BJaU5fZjNpZGVqbVJ4WHpOZ1p3bmpZQzR6WU9YQVNXSFBybTg0THRGR085RGNIMDh4UDd2QzBqSU52dFMxWjhIalRSMlVPdEh4dHF0Vkk5MmxzZzI?oc=5",
-              "source": "머니투데이"
+              "title": "리센느, 역주행 기세 잇는다…\"11월 3일 새 앨범 발매\"",
+              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JZWZ0aFR1VkhhX0Qxc1hQZ2F6SmoxQUcyVk1CNGVSSFJHNU9ZSVVTUUNtM09ydEJHQXdEdWpwdndPbkpDWjJxdFN3?oc=5",
+              "source": "디스패치"
             }
           ],
-          "description": "손예진이 SNS에 올리는 사진에서 현빈의 얼굴을 스티커로 가려온 이유를 직접 공개해 눈길을 끌었다. 현빈이 '그냥 올리지 말라'고 했다는 것이 이유였다. 예능 '비서진'에서는 이서진이 손예진의 실물을 보고 '진짜 예쁘다'며 감탄하는 모습이 포착됐고, 손예진이 방송에 가져온 250만 원짜리 꿀도 '현빈이 화나겠다'는 반응과 함께 화제를 모았다.",
-          "headline": "손예진, 현빈 얼굴 가린 이유 공개"
+          "description": "'러브 어택' 역주행으로 주목받은 그룹 리센느가 11월 3일 새 앨범 발매를 공식 확정했다. 역주행 열기를 그대로 이어받아 컴백으로 대세 입지를 굳힐 수 있을지 관심이 쏠린다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "리센느, 11월 3일 컴백 확정"
         },
         {
           "rank": 3,
-          "word": "박위",
-          "count": 2,
-          "articles": [
-            {
-              "title": "‘박위 아내’ 송지은 눈물 영상에 쏟아진 악플…결국 댓글창 닫았다",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xMHJIdGRrZm92cDVuWFJGN2I1VTFwa3ZtTlk1bFMxbG1iMnNJTk5IWkVwM2xjWE80S2xjVXdDbnp3S1Y0Q2ZFRU54NDhiMEtpeGlQSDNDMXRZY1o0LTVBeHNhcGRhamlMZjRlMA?oc=5",
-              "source": "서울Pn"
-            },
-            {
-              "title": "한 달째 고통받는 박위, 또 소환…원샷한솔 두고 티파니 영과 태도 비교 [엑's 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iWDIzYWRObFkwVnhKV1RkNGpPWEFmdWpFcUpxZmllaFZLUW9NUkxnaDdPNkI4SjJ5anQ3Slp3bDFjRF9sLUc5VHNLZ3BRcEE?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "'변요한♥' 티파니, 진짜 인성…박위는 조롱한 원샷한솔 만나자 팔꿈치 내밀어[SC이슈]",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcU10N3FtQklNZFdQMmUtS01uVnhGLUUwalY4T3VyVEVGcFlCOXdsRXJWUEZqR2ZJYmlNOE9ZendOYUhSNDRSTDZIb3RGZ2N4QmhUWEctZXBYZ1FuYjZRSWJxMVFmckh5NFFlOGJhN1hNUlhlT3ZfM3FaVVRnOW1iT3E1WjIzUklCYkFvbnlSOWU4M01i?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "박위의 아내 송지은이 눈물을 보인 영상에 악플이 쏟아지자 결국 댓글창을 닫았다. 박위는 한 달째 원샷한솔 논란에 반복 소환되고 있으며, 티파니 영이 박위를 조롱한 원샷한솔과 만나는 자리에서 팔꿈치를 내밀며 거리를 둔 태도가 박위를 대하던 원샷한솔의 태도와 대비돼 주목받고 있다.",
-          "headline": "박위 아내 송지은, 악플에 댓글창 닫아"
-        },
-        {
-          "rank": 4,
-          "word": "호프",
-          "count": 2,
-          "articles": [
-            {
-              "title": "나홍진 '호프' 속편 제작될까 \"북한으로 넘어가도 놀라지 마세요\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzdGZkcVNZU1lzb1pteHA0MXJITVVZTHFBZDgyTE5nSHJYOEVUdmZKR0hkd1dvaUdMMzFZdzdEN295LTh2eW93SFF4enVTWVU?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "단 1년 사이 칸, 베니스에 아카데미까지 가는 이 배우",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43X0lwLV9scVQyUkpOT2ZuTHVyNmhNcnBSZ3M5S3FMa1l5dlgwWEZ4Z1VIV0JsUEc4R0RGc2N3NF9hOXZXZXRhT0xVbVNjdDA?oc=5",
-              "source": "엘르 코리아 │ ELLE KOREA"
-            },
-            {
-              "title": "북미 흥행 청신호 켠 ‘호프’… 희망은 꺼지지 않았다",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RTk9Cek5vcFJ3OWdtLTlHMmgtNWpQMHFKWi1tRVVIUmxDLVluaU5FTmwxelJ2X2R1aWtEU2NybFo3YlY5TDkyRWs2T1lnTTQ?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "나홍진 감독의 신작 '호프'가 북미 흥행 청신호를 켜며 화제다. 나홍진 감독은 속편 가능성에 대해 '북한으로 넘어가도 놀라지 마세요'라고 언급해 후속작에 대한 기대감을 높였다. 주연 배우는 단 1년 사이 칸·베니스·아카데미를 모두 밟는 행보로도 주목받고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "나홍진 '호프', 속편 가능성 시사"
-        },
-        {
-          "rank": 5,
-          "word": "고지용",
+          "word": "박진영",
           "count": 1,
           "articles": [
             {
-              "title": "\"잠자는 것도 안 맞아\"...고지용·허양임, 이혼 전 발언 재조명 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wcGo0RDRnMHdDVlBVUWtLX3Z2Z3lLVURDeUU4QXBLSTkzT0JzdnZUZXNLa2hJaERXMHFKV0dIUXh3czF1Q2lvMDVaNTJQQTN5aHZ0R3hxaF9fQzVTSWFnVTEybkx3d3VXbEN3SWZxVzlUdFnSAXhBVV95cUxQQXJGcEVVTkNieVhBQ1ZQSjE4bTZjcy1HN1N6MjNRNnFNWld3dkpDVktSeWExZW1MY2RGQ0piVHFMQ0NCS3pjTHVrN3pvZTlKNmdrdTFLOFVFYWc2WUR1cW1jUXJwNGJpU3Voc3VGYlhXeDlyZDJ5SUc?oc=5",
+              "title": "\"신천지 출신도 있지만\"…박진영, '사이비 종교' 논란 반박 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zalI0TzBIcnNwd2FKaW5LalVPcGlpaGR5WHUtZlFKVHZTOUR6WmhqLS1aQ3EzLWdnSXR6U1FYYWlkWURiMzdPcWlJTm9LTjR2OVp5ejZ3UTF1cG5od0I0RXAwY3NwWkFMa2dnYXRRSGM3dknSAXhBVV95cUxQc18yTGRFMnZKTzVudllfeXEwb3h2SkFucXZ3eDRQcnBKV2dUcUdQSjVTTWRpbTZjS3RNc1BDQi1lWktCcG1uV2UwcHgwNTdHNkZXZzBiSkZMOEZwMUp0S2daSEZ2TzUyOWhyQWhaVGt5TnlSakxzVW0?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "양육비 안 줬으니 아들 못 보나요? 고지용vs허양임 갈등이 던진 '질문' [스타이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCSjJMM3ZzQlE2SGd3OW9kNlhzdGlpdHZKWUtNOXhjVlNMZ01EOWpZSTJZaHFNcHc5RDI2ZDdFbFpGdDNrX0Z2RElmMEJNQm8?oc=5",
+              "title": "박진영, 노을 데뷔에 100억 쏟았다…5억짜리 공연차량까지(힛트쏭)",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSQXIzSjMzeWhWZ0JkSWdhV1duTGtReWJJdjJCTUFieEU5amRUZ25jSUI2ZW9xeG5LNWhyZm5UZ1NTcjZyUTN3REhoQTZFQWpwZ3JUNWF2MFNmNEVCcE1wQTBrTHpIUG55WUlkVThn?oc=5",
+              "source": "스포츠동아"
+            },
+            {
+              "title": "정답 없는 세상에서 결국 답에 가까운 것을 찾으려는 마음, 박진영",
+              "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPd0s3UllBWnpVVDU0c1BVTjNWZUpWU1VmMjdjUGFsNG9XaE9EbDkwSERBZ0hRYnhNVEE1V2c2TWc4clY4eUtiYnN4NzMxSzhRMmxqV1BNWEhQSE9DU1dONGh6Mi04YjZfMnNfTEZ5YTV1SktHZ1pNaFQwcW1IdS1maHh0WXowWHZWdlRyeDJrWnlRRDhPaGlhRGxva3VnQ3RLRGl1ZlduQWtYbEFSSFl1MTY5QkFMUTFFWWlaZWwtX2JLeGJpUl91U1dTeUY1V0w5VWJpRVBvLUlGMmRDRERjVUV5YU9qRkV6emVLY0hTajZDNDEyV2Rmb0wyOEhOVWdyNTRCODZTOUlBSEEzcWFnNS12M3FBODZFRVE?oc=5",
+              "source": "W Korea"
+            }
+          ],
+          "description": "박진영이 신천지 출신 멤버 논란에 직접 입을 열어 사이비 종교 연루 의혹을 반박했다. 한편 그룹 노을 데뷔에 100억 원을 투자하고 5억 원짜리 공연 차량까지 동원했다는 사실도 공개되며 눈길을 끌었다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "박진영, 사이비 종교 논란 직접 반박"
+        },
+        {
+          "rank": 4,
+          "word": "청하",
+          "count": 1,
+          "articles": [
+            {
+              "title": "청하, 응급실 이송 하루 만에 건강 회복…\"19일 공연 정상 참석\"",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NdjNfN253YUZ1X1dJc1ZFUmRoaWg0SWVQWEVZUTdjVGttX1FNaHNmNFpTRVNwTjU0N1NWekNVVmJJLTF4aFN4UmJIQzdGTFFDUXZZNA?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "고지용, 전처와 '양육비·면접교섭권' 갈등 속..소재원과도 법적 대립 [스타이슈]",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YMGpfT1l6NWgxWW5fS18tblIwcWNzN0JiZTQ4c0Q2VmFSY21NWVJmRmI5ek1hWjFONVdoLVlvSGZiM2RNS2dDYlMxLUFHZ0hhNnNJVVRZeV83SU5xRDN6R1NmQXNLa1g5V1JPa3MyLU1wRVk?oc=5",
-              "source": "starnewskorea.com"
+              "title": "'오디세이' 1100만 돌파부터 청하 응급실行까지",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LeV84dEFQQTk2Yi1Ya0JJSkE2ZVJ2U1VMbjhRMWcxZGN0U3c0MUZlSUxlcjZHWGlSbktocTVGTGQ0NEF0Q2kyWHdiVFlVS0MyUFcyM2JiRk9rNU5M?oc=5",
+              "source": "뉴스핌"
+            },
+            {
+              "title": "청하, 행복했던 상반기·결별과 구설수의 하반기…극과 극 10주년 [Oh!쎈 이슈]",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yTmN5ZzgwVURKZkJSZGhmV3FmcGdGYVdJRUdRbEQ2WlVBbDF3LU5hY280NkVFQjRPWnNQbGIxQ1RNRURVRW1sa19wT1NDV2pNOTB6ZA?oc=5",
+              "source": "osen.co.kr"
             }
           ],
-          "description": "고지용이 전처 허양임과 양육비 및 면접교섭권 문제를 놓고 갈등을 빚고 있어 화제다. 허양임 측은 양육비를 주지 않으면 아들을 볼 수 없는지에 대한 논란을 제기하고 있으며, 이혼 전 두 사람이 '잠자는 것도 안 맞는다'고 밝혔던 발언이 재조명되고 있다. 고지용은 전처와의 갈등과 별개로 소재원과도 법적 대립을 이어가고 있는 것으로 전해진다.",
-          "headline": "고지용, 전처와 양육비·면접교섭권 갈등"
+          "description": "청하가 응급실에 이송되는 건강 이상 소식이 전해졌으나, 하루 만에 회복해 19일 공연에 정상 참석한다고 밝혔다. 데뷔 10주년을 맞은 올해 '오디세이' 1100만 돌파 등 상반기 성과와 결별·구설수가 겹친 하반기가 극명하게 엇갈리며 화제가 되고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "청하, 응급실 이송 후 하루 만에 회복"
+        },
+        {
+          "rank": 5,
+          "word": "김민석",
+          "count": 1,
+          "articles": [
+            {
+              "title": "김민석 \"제 부족함 뼈아파 울컥...민생 속에서 낮게 경청\"",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdXBCdkdFT3FTOTVXQ05PcWlhSzlUeFYzWVpDWEJBUHlJQVR3OC01aU1TU01uTVJEOGxTVE54aGJicUp4emVpUFQ3VjAyNUhoVDQ2RmViNlM5LVRWT1VGelBCRTdnUGNCeVFId2h3U0VoLVN5V1JxUnFqN1pGSUFpZ1Q3MDJ0QQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "김민석 “추미애 21억 컨설팅 들여다볼 것”…秋 “김동연도 계약한 업체”",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BcnVPU1lNeVdtcGJ1QWN0c0xEM2p0QldqSkVid3MzVERrYTloSGZUZTctT01YYjRuV05KM1JEN1pIeWRCMi1waVFSRllLR05IcnBXdHlxRFZoVmtQWXgtbzhaMkdkOXVKYkp1MW5WckVpYlVVTVVV0gFmQVVfeXFMUFJaYldkTkdHUGJXTGE1eFV1a2lWWkNlTHJsbi1uUFBUUkxianU2V2VjLTg0Qm1MSWVyUU1NLTdVOTlmQmJOVC1ndi1pZjFzN2xzZU9LQXFVVlNqTVpkWkl0YTNtV0lB?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "김민석 \"추미애 21억 컨설팅비 적정성 검토\"‥경기도·박시영 \"전임자들도 썼던 상식적 집행\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00UDBRR3NfMWcxbnFBUEVyV2UtMUlpeGhmaFQ2aXcxWGtNUW1kaHkxd09JQXh4VnMtN3RzNlFJZHJ5cEE5ckU2UlBOamhFVDRldV8xUWVSRGJkQ0trTGE3cDlwc2x3SGxOY0lpRzFmNFRFeFR4MnZUTtIBeEFVX3lxTE02VTBOTFF2dnV1SGZsRm5xVlotdTBnTkNRdllVd2V6R0xkS0QycGNMVDhjREhqa25qOTRDenNQMUkwN2M0bHJfTEQxUmppdlZGNDYwWU9jdzN6ODZjSjBwN1pkX29yYUV0SS1waUxEV0cwTHlOYjRkaQ?oc=5",
+              "source": "imnews.imbc.com"
+            }
+          ],
+          "description": "김민석이 추미애 경기도지사의 21억 원 규모 컨설팅비 집행의 적정성을 검토하겠다고 밝혀 논란이 일고 있다. 추미애 측은 전임자들도 사용한 업체이며 상식적인 집행이라고 반박했고, 경기도와 박시영 측도 같은 입장을 내놓았다. 김민석은 한편으로 민생 현장에서 낮은 자세로 경청하겠다는 뜻도 밝혔다. 오늘 처음 등장한 키워드다.",
+          "headline": "김민석, 추미애 21억 컨설팅비 적정성 검토 선언"
         }
       ]
     },
     "스포츠": {
-      "summary": "나고야 하계 아시안게임 개막, 한국 선수단 공항서 태극기 제지 논란 · 이강인 MOM 선정.",
+      "summary": "나고야 아시안게임 개막, 한국 여자핸드볼 홍콩 대파·테크볼 이준석 은메달 확보",
       "keywords": [
         {
           "rank": 1,
           "word": "나고야",
-          "count": 3,
+          "count": 4,
           "articles": [
             {
-              "title": "3년 만에 돌아온 하계 아시안게임…19일 일본 나고야서 개막",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wX1JFX2Z2d0kxTjRSR1lEdkk0QUpkWlFNQWFjLTVHZ1FjaWJJQlFwbjFaZ3dXcXNKZld0WnRORkM3M2x6T1E2N3RQQUNjYnRtbHZMNGFwZUVFOXfSAWBBVV95cUxQN21IUEhnVVFHLWNjaEk5RVlFc2tlQmE5NlpmWnFMSGJNMzZXaUZRX2lxeXV4VUZYcWhVVVFTN0ZWZzZRZlZscTZ1STRuNFJhWk94VGJQNV9hYUxuTGdKa0Y?oc=5",
-              "source": "연합뉴스"
+              "title": "태극전사들 나고야 입성‥일본 '대형 태극기' 막아",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DS3NPZlNjMHYwTzlRMUlMWjRMVG8yUkVLdjZIVHBMVGRjT3lsOTBpNnFaWWJQNW1PVHhiNEZHd2NmYndyWmdQSzdxRkhZMFI1Y0R1VTlJczBLaXNQTk5LQ3M2NTZiNVpiNF9hVUZyaWhTdVJob1RLa0VR?oc=5",
+              "source": "imnews.imbc.com"
             },
             {
-              "title": "나고야 AG 오늘 개막…‘텃세’ 논란 속에 현지 분위기도 ‘어수선’",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pbEZCVllVblpCbzduLUV1WmhsWXFLSjN2U0Y3by1RYlNERnZHb1U3cEdXZTlnMVZmOEtXSGo2bUl6UWNMUjRsYXFIUU5IUjlmYWV0SE5laWFjT0U?oc=5",
-              "source": "KBS 뉴스"
+              "title": "나고야 AG 드디어 개막…한국, ‘톱3 유지’ 목표",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ickhIYTFEQ3NoUHBrQUFycmd4MzhuR2YxN09Fcm5UUWJ6VV9FcXJRN0RtZlZIdzhlVGQ4S0lGeGwzVlBLc1N2ZVRpeXp6RW8?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "태극전사, 16일간 금빛 도전 시작…아이치·나고야 AG '관전포인트'",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53WjI5Sm5vWXZXQ0NzemZFUWJqaXBxN3U1bUZ4c2Y1VHRVTllMNEdNb3pkS09oRDhuRjJaY1p2QklrQThqQ1hHemY1OTEtcTJFMktyOFRWYVd1enZEN2NHbU5NYlNCb3VFYVZkSw?oc=5",
-              "source": "대한민국 정책브리핑"
+              "title": "'2026 아이치·나고야 아시안게임 개회'",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuUW42VWMwcTNUbGdkeEI0T0FkNnp4SDNRZjh4V2xpcm5IZWN2NGszZlk5ZjhIcGVvVGNyUjFKVGlESFNab3RrLVpiSUMxSmk1Q3dwV1ZtdUZfeXJwNFoydXV6bXk2QQ?oc=5",
+              "source": "뉴시스"
             }
           ],
-          "description": "3년 만에 열리는 하계 아시안게임이 19일 일본 나고야(아이치·나고야 AG)에서 막을 올렸다. 한국 선수단은 16일간의 금빛 도전을 시작했지만, 개막 전부터 '텃세' 논란과 함께 현지 분위기가 어수선하다는 보도가 이어졌다. 야구·구기 종목 등 단체 선전이 기대되는 가운데, 종목별 관전 포인트에도 관심이 쏠린다.",
-          "headline": "나고야 AG, 오늘 개막"
+          "description": "2026 아이치·나고야 아시안게임이 드디어 개막했다. 태극전사들이 나고야에 입성한 가운데, 일본 측이 대형 태극기 반입을 막는 해프닝도 있었다. 한국은 이번 대회에서 종합 톱3 유지를 목표로 내걸었다.",
+          "headline": "나고야 아시안게임 드디어 개막"
         },
         {
           "rank": 2,
-          "word": "투수",
-          "count": 3,
+          "word": "핸드볼",
+          "count": 2,
           "articles": [
             {
-              "title": "프로야구 SSG, 대체 외국인 일본인 좌완 하라모토 긴지로 영입",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBOcVBHUUp0V1JoTjlkYmFJelREZEpWNzVWT2o2LWtZT2F5VlJkT1poZXNmUE1yakhCUW54ZmlvOXAxRUVmSEE?oc=5",
-              "source": "v.daum.net"
+              "title": "한국 여자핸드볼, 첫 경기서 약체 홍콩 대파",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85MFpBX3ZYRTE0LUhqUWVjYjF5WGxNZEdzTVdLd0pobnQ0cy1zU3lDQmxlOHdPbW02NVR4a1pLVXh6NERZN2Z2ZDhOaWZxR18xN2w1NTJhRHU1RVNKRk1KU9IBYEFVX3lxTE85MFpBX3ZYRTE0LUhqUWVjYjF5WGxNZEdzTVdLd0pobnQ0cy1zU3lDQmxlOHdPbW02NVR4a1pLVXh6NERZN2Z2ZDhOaWZxR18xN2w1NTJhRHU1RVNKRk1KUw?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "SSG랜더스, 부상 대체 외국인 선수로 히라모토 긴지로 영입",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0F2c3pfUHU5V1E0cUxtandicWhLWUU3UDFtOC1pQ09RRjFNT2ZQVWxhQ05GZDNLVGFra3NnVjNtY1JCN0NGelpzRm9qODBZbVZhUnpNMEdSMHdDNDM4ZXZubGF1OFJfV1NIckMwdHk2dnV6QVRnQ1J4TGMwYzJLQnktZUQ?oc=5",
-              "source": "신세계그룹 뉴스룸"
-            },
-            {
-              "title": "'믿어도 되나' 덜덜 떨던 독립리거, 153km으로 4회까지 버텼다[인천 현장]",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN05DakV3NnFIUGJyd01wbExiUk16TGEtcEdSbVN1Vm9ORVhTbEFhUGlaTDdkeW9aWm5VbktCZ1VUaENUcm1lakw1TzdoTzdudm51NHZpdkxWcGFkQWwzVWZYMmRNdDh0TENIaXdCUTNfd29VWDZNT2tCT012djNRMEZpYw?oc=5",
+              "title": "여자 핸드볼, 홍콩에 48대16 대승…첫 경기서 32점 차 완승",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdzlnVGRxYmE1RTFqMmNVYUhoMFBFcXpRWk5qY184NkZSV01Yek9lbFNSdDA1Q0wzUThwak43ekMxSTJwemNZZ1BDcWFOWlZja1djYTJQSElWZm9FU3hpZzZGbFFsLUVpbHAwY1dsTzJsS3pNWXB5dTlROE8yRmUwWDZuaUloTzhJOFMw?oc=5",
               "source": "조선일보"
+            },
+            {
+              "title": "AG 韓 여자 핸드볼, 홍콩 꺾고 산뜻한 출발",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjdm1ZQkY0akFKakU2MXBYTEFMQlRFR1R2cWlVdGZjMWhQU202enNEVGwtS0JhVUJrWUhzMDA1SlNJMTYyX213Z3JmVVNveGVmaXpNVGw4Z0Rrd1g3YXY2UVZZRDFJMFB3VTk0WWln?oc=5",
+              "source": "아시아투데이"
             }
           ],
-          "description": "SSG랜더스가 부상 대체 외국인 선수로 일본인 좌완 투수 히라모토 긴지로를 영입했다. 독립리그 출신으로 검증이 덜 됐다는 우려가 있었지만, 첫 등판에서 153km의 구속을 기록하며 4회까지 버티는 모습을 보여줬다. 시즌 중 급하게 합류한 대체 선수가 마운드에서 어떤 역할을 해낼지 주목된다.",
-          "headline": "SSG, 일본인 좌완 히라모토 긴지로 영입"
+          "description": "한국 여자 핸드볼 대표팀이 나고야 아시안게임 첫 경기에서 홍콩을 48대16으로 대파하며 산뜻하게 출발했다. 32점 차 완승으로 대회 첫날부터 강한 인상을 남겼다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "여자핸드볼, 홍콩에 48-16 완승"
         },
         {
           "rank": 3,
-          "word": "선수단",
+          "word": "확보",
           "count": 2,
           "articles": [
             {
-              "title": "깃대 빼도 “태극기 안 돼”…日 공항서 아시안게임 한국 선수단 제지",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CM29nSTdnN2pQNThCa2JiVEVkTWY1RTM2YW5ONWp4UTVlQmpJQ0phYWc2Q1BUUVFuYjJLTDVyazhRSEhCX0FDbS05TXBhVE9GbUdRZm1saWdwejY3YTN3MlNncWhnSkxFZmfSAW5BVV95cUxORHdtY214OUQ4NW9PS3Vnd0ZscjdQV01HdGIxRWFPa3dTdjdEN1dnT2VMamZySU5qMDEyVF9ra2dmWjd0RW42NXZTWHFia0Vlc2g1Njh0ZWMxSFdET0ZtN2JNYUFwanoyNVZ4ZHd5UQ?oc=5",
-              "source": "주간조선"
+              "title": "이준석, 테크볼 결승행…한국 첫 메달 확보",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3UkdyR041UktjTVQ0T2R1bWdHckQ0U1pwQzI5VWdSMXk3WmljSmQwWkZOeEZrR05oVElGakk2VjhwVlJGbEpmZHE0N3A1cWkxTUxvMHBrUmt0WlFES3JmbTAwZWZYX0E?oc=5",
+              "source": "연합뉴스TV"
             },
             {
-              "title": "구기 종목 단체 선전…한국 선수단 분위기도 '쾌청'",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EYzRGV3lkSUt6ZjVSeEdLU0VKZTJlT1Q4bkdpMFF4R1c1dVI5SmFySFFmZ1ZGZGdWUHBfakdaaHNFVHkxTHVxekRHa3FpUmpyMmhjbXBFOWNJdEHSAWBBVV95cUxQQWdlNWVSeTZzM1JXWjNCLVdxX1ctU0t3R05NcEY0T0Y0NWU5dGhkUUNheU9qQjVzSmlMaW16c3V6a3BseGUtd0Y2ZHE0ZUsyZTR3UzczRXFVM0NMdnNJY2U?oc=5",
-              "source": "연합뉴스"
+              "title": "테크볼 이준석, 상대 선수 부상으로 결승 진출‥은메달 확보",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13My11RWt1VXltQzE1M3VIcWs4V2tCcURQWEdVdWZoWUFYdVdXLVNzMkw2VTlNdkp4emV0Ykk0WWwzMnpCeUxuN1M4OEt5TllFX0hJM1ZDYUVYLWpGQWNoLVZDclk3Rkd3M01BSzhXb2lveC1GamfSAXZBVV95cUxQdWNiV1l2NXpMTm45UFlNTjM3bTVndy1wTzFFMUpfWUVkX2lPNGNPb3ZvWVpCdEExXzd5RTJuQXppeUxJcGlKNjBoZ2pIejg1NmM4eUlOWnhvLWpMblFIX2E0SVZCU2tBUERaNzctZ0J6cTFDdXFn?oc=5",
+              "source": "imnews.imbc.com"
             },
             {
-              "title": "2026 아이치·나고야 아시안게임 한국 선수단 주요 일정 (9월19일)",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mYkVLZjl1UGRldXZoZFFXakU3cmVmcmhzSHJOLVlGaEV0OXdMTEhvM0MyNldUN2xxa2lBdE8yelQ0YlVnNFZUc2ZwYVhDX0tKM2hhYWRrdHAyUldl?oc=5",
-              "source": "뉴스핌"
-            }
-          ],
-          "description": "아시안게임 참가를 위해 일본에 도착한 한국 선수단이 공항에서 태극기 소지를 제지당하는 일이 발생해 논란이 일고 있다. 깃대를 빼도 '태극기는 안 된다'는 현지 측 요구로 불쾌한 입국 경험을 했다는 보도다. 한편 구기 종목 단체들의 초반 선전으로 선수단 내부 분위기는 '쾌청'하다고 전해진다.",
-          "headline": "한국 선수단, 일본 공항서 태극기 제지"
-        },
-        {
-          "rank": 4,
-          "word": "입성",
-          "count": 2,
-          "articles": [
-            {
-              "title": "‘AG 5연패 도전’ 류지현호, 나고야 입성···“선수들 밝은 모습 긍정적”",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoOEMtMEVId0hZVXNMenA5N2xkNVAycy12NzVfaGRvSnVtRWRZa0hHZDZIcmxvMDRMUE5CMTliYjRLempzT25fcXJ1ZmZoMXI5c2VrMzZEWTc1anllRkMwTFlHa01RV0NuSk9GR2dOdTA2cm830gFfQVVfeXFMT2c1eVJ2WXJWbTBCUnVnOENDUVoySkw5NEdfZWtVYXNIcS14SDlsaEJKRDdTSkdfYkpzcG5zMXJndGctWHBjLUQ5aE5Nd0xBVG5WOUdEZlJkT0MxSzR2VGs?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "팬 응원 안고 나고야 입성…류지현호, 야구 5연패 시동",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yNmc2bWJUU21MMnhQRm5rcjlObXVnUzEtOEJkN1pPVEhpOGhsUGU3ck1MSFVha1RGdjcxMTVfdTlpNi0zV2M2ci13aw?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "류지현호, 결전지 나고야 입성…야구 5연속 금메달 도전",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WSmIza2owMGFiaE9XSVE2Sm5iQzQySWhNQVdlUUhfdzlfREtvSGdDdGduMktFOW5UUl9LRWVOM3Y3eE9PYVpfYzhPUXVqelRuQ0J2cFA5Ujh5bms?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "야구 국가대표팀 류지현 감독이 이끄는 대표팀이 결전지 나고야에 입성하며 아시안게임 야구 5연속 금메달 도전을 공식 시작했다. 류지현 감독은 '선수들 밝은 모습이 긍정적'이라며 자신감을 내비쳤다. 한국 야구가 AG 무대에서 5연패라는 전무후무한 기록을 달성할 수 있을지 관심이 집중된다.",
-          "headline": "류지현호, 나고야 입성…야구 5연패 도전"
-        },
-        {
-          "rank": 5,
-          "word": "이강인",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'시즌 두 번째 MOM 선정' 이강인 \"레알 마드리드전도 승리 하겠다\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44dmNHTk84ZDJldGM0SEJBU2NIc3o5di00MUhMZlBoY3NLQ01td3lQemcwMlloX21UemJpZUVUNEMxSGhPVFhXcEhwZUs4aFk?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "스페인 대표팀, 이강인 아틀레티코 마드리드 동료 3명 발탁…'월드컵 이후 활약 이어간다'",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pQXg3RUt0cEVpY29OdENkbjdqTHg0VHQ0VUpORWVxWUZGREhJM2pLbTgxOEtkVHlMWTVQWi1kOER1dU9KN2g4bGJoYno2TS10NFZya1dLdXdydW1lczFjbA?oc=5",
-              "source": "마이데일리"
-            },
-            {
-              "title": "\"공 끈다\" 비판 받은 이강인, 1경기 만에 \"최고의 영입\" 현지 평가 뒤집었다",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYlh5X204S0U3NTI5anFkVHg4NF95UzZIcERQOC1GaXlGLTM3TUE3TXlrd0x5M0xfcFgtNWJPQ2RtVm1SX1p2VnhkdnlQQVRzamE4TDlMdXpCaWc3VTgwcVJlblprV2xsMlEyTjJFaVdPY0M3S1hvTUMxcXNLd2hqS3o4Z3B2S3hBV2ZN?oc=5",
+              "title": "테크볼 이준석 결승행… 한국 종목 첫 메달 확보",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTE1tRVVncm5oNHlDRXNGNnhRZm9SY0R0dElsalBBMlR4VEFhSU05dGxQWV9mbGtMaTNIbWdIYnFqb1Bma3FZOVNCaHNQaV82emlKdTk4ZHplX1RoN0xGQnQzS2RxdHg4bzZlMUZvSUNIbUdRbFJiOFZvaW0wMEgzMEQyZ3VJWHA2cWhr?oc=5",
               "source": "조선일보"
             }
           ],
-          "description": "PSG 소속 이강인이 시즌 두 번째 맨 오브 더 매치(MOM)에 선정되며 현지 평가를 단숨에 뒤집었다. '공을 끈다'는 비판을 받은 직후 단 1경기 만에 '최고의 영입'이라는 극찬을 이끌어낸 것이다. 스페인 대표팀은 이강인의 아틀레티코 마드리드 동료 3명을 새로 발탁하는 등 주변 변화도 눈에 띄며, 이강인은 다음 레알 마드리드전 승리에도 자신감을 드러냈다.",
-          "headline": "이강인, 시즌 두 번째 MOM 선정"
+          "description": "테크볼 이준석 선수가 나고야 아시안게임 결승에 진출하며 한국에 해당 종목 첫 메달(은메달 이상)을 확보했다. 상대 선수의 부상으로 결승 진출이 확정됐다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "이준석, 테크볼 결승행·은메달 확보"
+        },
+        {
+          "rank": 4,
+          "word": "정조준",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"이제 당신 차례\"…여당 지도부, 한동훈 정조준",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KRGNFcXNkUEdJb3RVS1FMT3ZpT2NqQndIOW5KcjJpOE5KcUpuUldWRUpxOG5OZzlGeGFDdTdkTHlfQnBRbHRMSGFFRXVUQUk?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "최고령 48세부터 최연소 14세까지…메달 정조준",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XRmVvQU9CVEZDV1hPU09fM2FnWG1DQjMxRjNNa3dtSHpyLThuNm5DeEhQN2RqN1RMYUxMRnZvX3RWeUEySE12clROR1F3Rm5LTzR4ZFVtV2JQTTjSAWBBVV95cUxNSHRxNjFUNzhHMVRWenVReE9sVlJyWkVFRk1xZDJBMjY0ZXhfanp5bElvWWh5UWFnOTFidGpUZTVRcWZvTHZtM016UmJzeFdJMTBGcHJNd3NTMzVqNzBJXzY?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "트럼프 일가 '칼바람' 예고…선거 이후 정조준한 민주당 [지금이뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ydzA3a0REWkR3UXhBQ0xhRUFtano1aFc2M1pYVUp1NWZQUzdHWENFMWRieS1EYjRVbmdGdjdRWlZzaTMtS3YzWTdubW11MVlFSEx6WU02S3B1bE9pYlE?oc=5",
+              "source": "YTN"
+            }
+          ],
+          "description": "나고야 아시안게임에 출전하는 한국 선수단이 메달을 정조준하고 있다. 최고령 48세부터 최연소 14세까지 다양한 세대의 선수들이 이번 대회에 나선다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "AG 출전 선수단, 메달 정조준"
+        },
+        {
+          "rank": 5,
+          "word": "열기",
+          "count": 2,
+          "articles": [
+            {
+              "title": "김천 고재현·박세진 '전역축포'…모레노 관전 부천전 2-0 완승",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8za0RZS2p5ZlU1dDQ5cXhoZjNLdkowWVZ1TnZqRHF5NVZKc1gwUS14UnAyVlpNT2VDVE00T1ZnUFdMMl8tQTJuQWlSbkR5TjJBTWNGcTVlTHRGNWNVWE1mddIBYEFVX3lxTE8za0RZS2p5ZlU1dDQ5cXhoZjNLdkowWVZ1TnZqRHF5NVZKc1gwUS14UnAyVlpNT2VDVE00T1ZnUFdMMl8tQTJuQWlSbkR5TjJBTWNGcTVlTHRGNWNVWE1mdQ?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "‘임시 사령탑 모레노가 궁금해’···첫 공식 행사 오픈트레이닝 접수 0.04초컷 마감 ‘팬 열기 후끈’",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWWDNEbWxXdGZQcDNkZVdGNDdTMDBiajBnZkRiWFozZGtUMVNDNlNsRVZXR3d6aUhCNzhrUFk4YUVRdVpvMFZjaFVxOWVVSjNWcHMxZ2tjQnhtSDJoUkhr0gFfQVVfeXFMUFZYM0RtbFd0ZlBwM2RlV0Y0N1MwMGJqMGdmRGJYWjNka1QxU0M2U2xFVldHd3ppSEI3OGtQWThhRVF1Wm8wVmNoVXE5ZVVKM1ZwczFna2NCeG1IMmhSSGs?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "모레노 만나고 싶은 팬들의 열기…오픈트레이닝 0.04초 만에 마감",
+              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtcTRJWXV3NTNxQzREQmh6YlN5d0V6ZHBlaGI5cE96VFhSWmtETTlsVGoxTGRWYkFSYzRKZmZhLWlCeEV6bXlqQndHTQ?oc=5",
+              "source": "v.daum.net"
+            }
+          ],
+          "description": "전북 현대 임시 사령탑 모레노 감독의 첫 공식 오픈트레이닝 신청이 0.04초 만에 마감되며 뜨거운 팬 열기를 실감케 했다. 같은 날 모레노가 관전한 부천전에서는 고재현·박세진이 전역 후 복귀골을 터뜨리며 2대0 완승을 거뒀다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "모레노 오픈트레이닝, 0.04초 만에 마감"
         }
       ]
     }
