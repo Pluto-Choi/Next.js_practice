@@ -1,360 +1,360 @@
 {
   "date": "2026-09-24",
-  "updated_at": "2026-09-24 08:29",
+  "updated_at": "2026-09-24 22:41",
   "briefing": {
-    "text": "추석 연휴를 앞두고 삼성전자 냉장고 업데이트 오류 사태가 터지면서, 명절 음식 보관을 걱정하는 소비자들의 불만이 쏟아졌다.\n\n구미시는 응급실 3곳을 24시간 운영하고 공공시설·캠핑장·파크골프장을 개방하는 등 연휴 대비책을 내놓았다. 추석 기차 승차권 예매 서버는 폭주로 접속이 마비됐고, 선물세트 재판매와 연휴 배송 수요도 함께 급증했다.\n\n아이치·나고야 아시안게임에서는 펜싱 오상욱이 남자 사브르 개인전 2연패를 달성하고 사격 추가은이 금메달을 추가하며 한국이 종합 3위를 유지했다. 배드민턴 안세영은 야마구치를 꺾었지만 팀은 단체전 우승에 실패해 아쉬움을 남겼다.\n\n연예계에서는 '나는 솔로' 광수가 현숙과의 결별 의혹과 시험관 시술 강요 폭로로 논란의 중심에 섰고, 이수만이 소녀시대 관련 로열티를 직접 요구했다는 이승철의 발언이 데뷔 20년 만의 분쟁으로 번지며 화제를 모았다.",
-    "period": "아침",
-    "generated_at": "2026-09-24 08:29"
+    "text": "트럼프 대통령이 11년 만에 방미한 시진핑 주석을 레드카펫으로 맞이하며 AI를 핵심 의제로 정상회담을 가졌고, 미국 법원은 같은 날 CNN 등 3개 언론사의 백악관 출입을 즉시 복원하라고 트럼프에게 명령했다.\n\n경제 쪽에서는 메타 호실적이 촉매가 되어 삼성전자가 3%대 급등했고, 미국 30년 만기 주택담보대출 금리가 7%를 넘어 2024년 5월 이후 최고치를 기록하며 금리 불안이 다시 커졌다.\n\n스포츠에서는 아이치-나고야 아시안게임에서 여서정이 여자 도마 금메달을 따내며 8년 만에 아시안게임 정상에 복귀했고, 사격 장국희·이종준 조도 스키트 혼성 단체전에서 은메달을 보태 한국이 하루에 여러 메달을 추가했다.\n\n연예계에서는 BTS 진이 팬앤스타 솔로랭킹 47주 연속 1위를 이어가는 가운데, 한소희·최민식 주연 신작 '인턴'이 추석 연휴 추천 콘텐츠로 주목받고 있다.",
+    "period": "저녁",
+    "generated_at": "2026-09-24 22:41"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "추석 연휴 응급실·공공시설 운영 유지 · 미-이란 유엔 회담서 트럼프 \"합의냐 전멸이냐\" 압박",
+      "summary": "트럼프, 시진핑 방미 환대·CNN 출입금지 법원 제동 · 서울 아파트값 85주 연속 상승 동률",
       "keywords": [
         {
           "rank": 1,
-          "word": "추석",
-          "count": 5,
+          "word": "게임",
+          "count": 3,
           "articles": [
             {
-              "title": "구미, 추석 연휴 응급실 3곳 24시간 운영…소아진료도 유지",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4cUxNdk51bHhLcnRWSHI0bXhTZzhyUXFNWWdmNWwxZlBiOEk0Wng5R3lxa0tiTjZKOUNKd05XSFUyN3ExeE9nREVfZndtZ1I3enBiSl9mNHREbmc3ZlJEaDlLZzV5Y085cTVueXNfYw?oc=5",
-              "source": "서울신문"
+              "title": "소니 마블 토콘, 스팀 동접 추락...e스포츠 선수 \"게임 접겠다\"",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yWlNYUG1mWFU0clp6WnBCeDR2eEF2V0p1UEVMeW9FMDJHcFJuVFdEZ0VCNnZneFl2c0ZZd2c1MXlnRmZScmJLNGpnYVJFalVJcE45VnhHTjRPdUhWWDcwN0IycENPRk0?oc=5",
+              "source": "게임와이"
             },
             {
-              "title": "구미 응급실 3곳 추석연휴 24시간 운영…소아 응급진료도 유지",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nTVFsV2hMZl9GWm9HZ3hFeTNuNFJiTmo3MmJYQlRfZjgyaGM1Sk8xU1lyaTJNSnBOb3MxcHVrUFg0akp4V1dkMkN2V0hZUmc?oc=5",
-              "source": "v.daum.net"
+              "title": "삼성전자·SK하이닉스, 고성능 GDDR7로 소니 차세대 콘솔 'PS6' D램 공급 정조준",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4RWxla3pXUkZDYVFBWkhaNGJmZlNVQ281NUR3NzJzQUlkbUh6LVFLNlg3NGVBVXAzSVV1RFUycWZSZXVyWTVoejhNY2hsSWFiRkw4bTJYYmJwd3AwZVd4dU9rSQ?oc=5",
+              "source": "더구루"
             },
             {
-              "title": "\"영화 상영부터 야시장까지\"…추석 연휴 구미 즐길거리 '풍성'",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42QWxubFB0dDFURWRmQ3BZbzdjYzNlT2hmOXFLNm1HazY0UnFSM2VpS0ZyTnhlWThacmFsaEtISWNhMDZMLUJwUGNMaWlJdVdXZnByQzBBS3dtbmZWUjQ00gFkQVVfeXFMTmlLZ21RSmdLeG14NVExTjJycm1vNXNuRHpvSl9hMlgyb3BUN2xKU04tbWotT0Q5QW94dXRoUlprUTluekRPakthRHcyT3h4QVF3SzV3a2pyc1M3TzVwaUxyazc3bA?oc=5",
-              "source": "뉴스1"
+              "title": "PS5 디지털 vs 디스크…지금은 어떤 모델 사야 할까",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41cGZoSzZHUThLR3Jad3VrajZtNnB0R0VaTVdmZjFyVi1jRzRlLU5zSFRUbUNZTkFSQmNRMnB4UW83WXpnb05NcWlaRlBNVl9XX2xKR0dn?oc=5",
+              "source": "지디넷코리아"
             }
           ],
-          "description": "추석 연휴를 앞두고 구미시가 응급실 3곳을 24시간 운영하고 소아 응급진료도 유지한다고 밝혔다. 의료 공백 우려를 줄이는 한편, 야시장·영화 상영·파크골프장 등 문화·레저 프로그램도 풍성하게 마련해 시민들의 연휴 준비가 한창이다. 어제 3위에서 오늘 1위로 급상승하며 추석이 최대 화제 키워드로 올라섰다.",
-          "headline": "추석 연휴, 구미 응급실·즐길거리 총정비"
+          "description": "소니 마블 토콘이 스팀 동시접속자 수 급락으로 위기를 맞았다. e스포츠 선수가 '게임을 접겠다'고 선언할 만큼 이용자 이탈이 심각한 수준이다. 한편 PS6 출시를 겨냥한 경쟁도 달아올라, 삼성전자와 SK하이닉스가 고성능 GDDR7 D램으로 소니 차세대 콘솔 공급을 정조준하고 있다. 현재 PS5 구매를 고민하는 소비자들 사이에서는 디지털 vs 디스크 모델 선택 논쟁도 이어지고 있다.",
+          "headline": "마블 토콘 동접 추락, e스포츠 선수도 이탈"
         },
         {
           "rank": 2,
-          "word": "연휴",
-          "count": 4,
-          "articles": [
-            {
-              "title": "추석 연휴 구미서 뭐 하지?…공공시설·캠핑장·파크골프장 문 연다",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90UFA3aDI3dTBOb0JwZExIcmtBMHNXUDhUcFA2QWVvT0lLZTRkY0JvNm5BWXBTRkZUTHdQUjdFNmEwaWVVRm9jUmNlcWhMUUk?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "구미시, 추석 연휴 다양한 문화·레저 프로그램 운영",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEcl9ycnd2ZkVwVlU3RG84TGhpYkk0Um8xa1B5ek5Ga0dYRF8xMl9Cd1pwSWJPb3lYTFpJUDJXWVdwYXQ4c2pGVkRHMVFjOV9xXzhHbTlocENDNUYycFktZlpHc1VnOVNaclhj?oc=5",
-              "source": "프레시안"
-            },
-            {
-              "title": "“주차는 공짜, 놀거리는 풍성”…구미시 추석 연휴 즐길거리 총집합",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85Z0t2bmExd1pVWWV0ZERUanhIT2IzSi16TXVkcjU0aWFvZlNlamNrS0otU1VGeDhNQ244LUs4QU41a1VWNWZsSkhla01oT0JJS1J4UF9nV2ZWRlUxNnhhcXNpNA?oc=5",
-              "source": "쿠키뉴스"
-            }
-          ],
-          "description": "구미시가 추석 연휴 기간 공공시설·캠핑장·파크골프장을 운영하고 주차를 무료로 제공하는 등 다양한 문화·레저 프로그램을 내놓았다. 연휴 동안 갈 곳을 고민하는 시민들을 겨냥해 즐길거리를 총집합한 이번 계획이 주목받고 있다. 오늘 처음 순위에 등장한 신규 화제 키워드다.",
-          "headline": "구미시, 추석 연휴 공공시설 전면 개방"
-        },
-        {
-          "rank": 3,
-          "word": "이란",
+          "word": "트럼프",
           "count": 2,
           "articles": [
             {
-              "title": "미-이란, 유엔본부서 3시간 회담…트럼프 “합의냐 전멸이냐”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HS0lkemFLNWRJVzgyNWhsZTlWaFdVal9URlh4dTRXRnhvbDZ0bmxFMXJlQ1pGWlRnd0h3Y2N0bHpYUDRpSUhSLXhZbHhiSlk?oc=5",
-              "source": "v.daum.net"
+              "title": "시진핑 11년 만에 방미‥트럼프 '레드카펫' 깔며 최고 예우",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEellCV016OVA4Q3FJRk1CN1Y3NF9QOGR3Y1RQdUh0RVItSGQtT0FjX2diSEtLRGJ4d0NFVXRQeE9jTWxDNmo5LW9vdVBiRTFSMUUtOG5tVzljS216di1Yam5nbXBNQktjYzMtenl4T1ZRandDcnhocdIBeEFVX3lxTE92WDYyLXRfOFMtV1B3TlctVmoycDMwUVpmUk0yMGJlUmlNM01mSkVkTHUwcW1zWGlTb0dBanRSUmFRQ0N6UDJrMkNPMktXREJaWVBzT19CNXYwbXNnblRsWEUtSzJwSVNsOWNxRTdFYjBKT3BJc3hSLQ?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "트럼프 “궤멸” 압박에 유엔 연설 도중 자리 뜬 이란 대표단",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92NlRnWWFuZ21WSXZlcm1EZ1R4TUJaS2lXMVFMTG5jSXctU0ZwRlZnMjN0T2hBRHJTTE4yaE9FZmVabm1NRUktazBGWExoNWw2NGJXT2hhMTZnX3pKMGhBZ3E3SjVKZ0x6b0daUUhrcDRuWUXSAWZBVV95cUxPLUxuYXFKREhMQ0NpZXNETW5xVmRGWG9QVllrU1NNV3BKekE5ZXN5UFZWcmlWdVBDa1hMNDRWQVBqSGQyZ3FnZFdkcGs1ODJ4MEtNZkJJdWtCNnBpNG5IaVJnTjRhSWc?oc=5",
-              "source": "동아일보"
+              "title": "AI 투자 나선 트럼프와 펠로시, ‘종목 취향’은 완전히 달랐다",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkVVdzVnbGdkSVR2YzBuSG00aVpLOERqeWhWMVU4LVpuYWRpaGJlVzNNZTlTMGR2X1dpWEt4aDN6Mjc3dXJINl82a0RGZGcySWE3WVFIeGtUX0dnbVpKODM0b2hGX1RBXzJMSk94TG44bEVrMDNoZHg2V2huRWhLdWc3V0QzZw?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "美, 이란의 호르무즈 개방 제안 거절…\"통제권 없다\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11YllzZDlZeXZFTVQ1Xy1Kb1dNaGE1Z19hZU5wbXVKNGoxZmNqLXFhaXBNcldwbWU2d3hudkVMREdWVEE3cEtaNnlxdzlMVlFOd24yZG9DaGNhN3dMdE5iY9IBeEFVX3lxTE40SUNSTzVmR3gzMnNiSUl1NFEzVk1zZ1R0aXlpMU5qMzFWc1JRdUlMeUhzeGlGbVhWajdod3ExQUcxN0lJU09BZXJ2RjhmUGtHdlFPcmd1RUp1Wk9leXpHZnNFYkJfRjhJbU1FV0tZeVNQdTZsUEh6Yg?oc=5",
+              "title": "트럼프 \"주요 의제는 AI…현상태 유지 원해\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hWHJrSzNVdzlfYmNLZ0lPaHU0QkFuZWFoUF9jSG9haHh6SENsclNibHhEQWI5OWRZTWRnUHVHUFJIdlJvS0dsc1ZUMTgwYXp0bEwtLWYzdFBKZFotWVNkUdIBeEFVX3lxTE9BMGNzaWd3ZVBpUTJsVU1qaWg5d09XNEdUU2xBNjhlS00wRlpEdDl0SFpKeDMyVy1YdGswakVtS3NJRS1kR3RkWW1va0tiLXhlb2NqUENSUDVYeHoyTnhDVFBETzM3ZUx2QnlyVW5waGpTUTVibTJlTA?oc=5",
               "source": "뉴시스"
             }
           ],
-          "description": "미국과 이란이 유엔본부에서 3시간에 걸친 회담을 가진 가운데, 트럼프 대통령이 '합의냐 전멸이냐'라는 강경 발언으로 압박 수위를 높였다. 이란 대표단은 트럼프의 '궤멸' 발언이 나오자 유엔 연설 도중 자리를 박차고 나가 긴장이 고조됐다. 이란이 호르무즈 해협 개방을 협상 카드로 제안했으나 미국이 거절하면서 핵 협상의 향방이 불투명한 상황이다.",
-          "headline": "미·이란, 유엔서 3시간 회담…트럼프 '전멸' 압박"
+          "description": "도널드 트럼프 대통령이 11년 만에 방미한 시진핑 중국 국가주석을 레드카펫으로 맞이하며 최고 예우를 갖췄다. 정상회담의 주요 의제는 AI로, 트럼프는 '현상태 유지를 원한다'는 입장을 밝혔다. AI 투자 행보에서도 주목을 받은 트럼프는 펠로시 전 하원의장과 종목 취향이 완전히 다른 것으로 나타나 화제가 됐다.",
+          "headline": "트럼프, 시진핑에 최고 예우·AI 의제 전면"
+        },
+        {
+          "rank": 3,
+          "word": "출입",
+          "count": 2,
+          "articles": [
+            {
+              "title": "트럼프 “가짜뉴스”라며 ‘CNN 등 백악관 출입금지’에···미 법원 “출입 허용하라” 명령",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95blA3M1kxc2Y1bE9YRFo4blFCbThfRThUTTBZQkxncVA5NHg4U29qU0lna0FUeFlQb1FjaXFiakQ0Si1QNFpyQmQtQUdRTWkyOHNsZmd4T0RaQdIBX0FVX3lxTE5TMWpMOVQtYzlSM0JxWlUxaFp3c2diVk1zM2hWLTEyYUVQMl83dGVFcjJZSDhkQXd0T1NWSXR0dEVCQWNTR1d1WDVZWFczSEZjTGZpTEc1Qmc1TFlCaTdj?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "미국 법원, 트럼프에 CNN 등 3곳 백악관 출입 복원 명령",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00eUF2Z21SZFFtUlY4WUJkZmwyN1lSRXhUbjlFUU9vTHNXaWM5aURrV2Z1WjljZzRGQ3JOdWdlZ0k1OVM3UWdXQXRrbmR1anBjOWZTRVRVaWFyaUdyZXQ4R0w0WGc0UjhRMUo3MlVCT0ZLMzhW0gF0QVVfeXFMTUFVVFBRVDV4MnA1OW5MRFlWckVST0RoUDhEc1BHY3YwSWhfOWhYOHV1VW9XcUpRUTNYanBpekVaekxIci1vVXc0Y3J0REwxOG5QcDRobjJpdFlUUGJRWWJRX2R0aFU1NmlfNFI5Sk5Nc25hVmU?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "‘가짜뉴스’ 핑계로 CNN 쫓아낸 트럼프…법원 “출입 허용하라”",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHlVbjlqcUEwR1J3ck9Kd0JFZER5c2pjWjJHLVVaZjU5emZIUGlRVC02emFkakppWXE4QmZmcjhncDlHa01kQmFSZFk2c1pKZkd0a1JuMzlOUnJWcmxYMTlpTkNOa3lWbmVvMzFpTkZwclRuZWFWbzh3QXJINU5BVVV3?oc=5",
+              "source": "한겨레"
+            }
+          ],
+          "description": "미국 법원이 트럼프 대통령에게 CNN 등 3개 언론사의 백악관 출입을 즉시 복원하라고 명령했다. 트럼프가 '가짜뉴스'를 이유로 해당 매체들의 출입을 금지한 데 대해 법원이 제동을 건 것이다. 언론 자유와 행정부 권한의 충돌로 미국 내 주목을 받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "법원, 트럼프에 CNN 백악관 출입 복원 명령"
         },
         {
           "rank": 4,
-          "word": "해외",
+          "word": "서울",
           "count": 2,
           "articles": [
             {
-              "title": "보령은 취소했는데…서산시의회, 5박 6일 해외연수 추진",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CY2RaekRMdUt4aldmN2s1UVB5NURzTlhwc19JLTVfM2tPSnpNWkRLenZKVGpxOGdTR21iVWw2Vl9MenMtRFptV0c4RklPNzg?oc=5",
+              "title": "서울 아파트값 상승세, 결국 文 정부 최장기록 따라잡았다...85주 연속 올라",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01TnJPRjB4dThTbjVYSC0zTVZZbmdKMmZpRjBOLWJubmV5NHNMMEdXTkFVTWM4Yi00WEFTa1BhZzVuVXZHaVpXWm1vTFdSUGs?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "해외직구 하루 50만건...중국 포장재 폐기물 한국이 모두 떠안는다 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DZUtkUXF6UEVjbDI1TnRCb1pFVXZ3SDNyeFplMGYyVWJacGl4WHdGYXpCNWRVZEpsUlppZWUycHpuRE9SWGdzRkxXNXVNR1N0eUhLZmw4eHFGYVpDR0Y4ZFFWTE1OUjlpTnYwZtIBckFVX3lxTE9TVDRSOXpRdFE5SjdHNjJVejZmNnkyVnh2VzlWM0xZYVppSjBfWDl1YmFncGpnVUxfanMzSkxjdjhlZnlnZGJaMDhRbkVqMXNjM19hZWk4NUk2MzhCZnpmblEwQjBNWVZOdjdQWWZLMDAwZw?oc=5",
-              "source": "머니투데이"
+              "title": "서울 아파트 매매가격 85주째 상승…최장 상승기간 동률",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TNWFTWTZJaW9iVkV5d3B0dmo1dVdqZmFvRGtxQTgxaUd4cVFtenlBektsM0xPeTJaM0tsd2VCR1p1ampQcmV6bzdmLUdOT2VQdjF4WEJocGNpQjjSAWBBVV95cUxOcmt5QmFfT3JKWXdKaXloUl9KSHEwaFlZRmYyQ2hoYmZxZXJ5MENtQ0laQWZzM3dxZWYyWFFWbkhMWkZZSVZrVG1zVC1NSkdNZi1VV1B3YVNDX2FJLVpHTTY?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "해외 못 가서 가긴 가지만…어딜 가나 바가지·불친절, 국내여행 '부글' - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TdmFjdGVpT05xRUFubG54cU8zSnQ4TmM5YXFobVIwa1pxNlR6YjZYakNPdWVicTNiN2I1a3Z3X2VnSFZON0tmVjdxcGhGako5RndHcE12NVlhbVNEalVBQVpoSndyaGVsY3RN0gFwQVVfeXFMTlQzdkNaSEtHcTZvS19WLWFaaGY3ZXNCXzA2VkVscFUzZmFmUExpUkl4aU51MkVEM2dhcDROYVJaZ05vb00zMVpDbGU2c1FxNXc0VEdUbTFKc2ZzZ0w4WUtoVE44NWctRFk5NmppOHVWbA?oc=5",
-              "source": "머니투데이"
+              "title": "계곡 정비보다 쉽다더니…못 잡는 서울 아파트, 85주 연속 상승",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05bklLeWxvdk04MVFpNjE2U3ZnQ25YMFNLTHRocU1LOTEyN28tTkd5MUhlNGR2cGhGYS11RkhjY1lvdHZDRkk3SXg0M3NEdmFKdWtiekZXMWhzTXltNlI3WGZIQXhmenBmLWZUXzQ1YmJGX2tqMnfSAWZBVV95cUxPcVpXdi04ZE1nZDJrbzROSmJ5NVNyZFRDaURfUUJJbERNSEtReFJDRmxrZTBzTVpEd2RiX28wNFhHOWZldEstcDRKOUNZRUJHOGpkdGktcWYzY1hqanJ3N0RxUHdCNHc?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "해외직구가 하루 50만 건에 달하면서 중국 포장재 폐기물을 한국이 고스란히 떠안는 문제가 도마에 올랐다. 한편 해외여행을 대신해 국내여행을 택한 이들 사이에서는 바가지요금과 불친절에 대한 불만이 커지고 있어 국내 관광 서비스 개선 목소리도 높아지고 있다. 지방의회의 5박 6일 해외연수 추진 논란까지 더해지며 '해외' 키워드가 다양한 맥락에서 화제를 모으고 있다.",
-          "headline": "해외직구 하루 50만 건…국내여행 불만도 폭발"
+          "description": "서울 아파트 매매가격이 85주 연속 오르며 문재인 정부 시절 세운 역대 최장 상승 기간 기록과 동률을 이뤘다. 정부의 잇따른 대책에도 상승세가 꺾이지 않으면서 시장 안정화가 사실상 실패했다는 비판이 나온다. 계곡 불법 시설 정비보다 쉬울 것이라던 아파트값 잡기가 오히려 더 어렵다는 자조 섞인 목소리도 이어지고 있다.",
+          "headline": "서울 아파트값 85주 연속 상승, 역대 최장 동률"
         },
         {
           "rank": 5,
-          "word": "공항",
+          "word": "부산",
           "count": 2,
           "articles": [
             {
-              "title": "추석은 해외에서!...인천공항 연휴 114만 명 몰린다",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03VzI3MEVHWjlFdHdWVk1vV0t1ZFEzZ2N2cHlLZG8zTGYwaExXUDdReThvTDNtQm9SX2pRQWgtend1b1lNcjltWnN1bWpFTk5MdTRTS2R1dWliLUZkZmc?oc=5",
+              "title": "부산 북항 '부캉이' 인기에 기업·지자체도 '상어 마케팅'",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DdV9wNVhORXA2T0J5UXhsdHZia2ZWTWdjX0d6czZ2bExRUXZDanNKQkp1dGUwN2NNbmJNOTJXWUpyN1I4SThQblB4U3F5RFE0MVotOEc0SkJmWFnSAWBBVV95cUxQVUZhOGJCT3g4S1o3Y29BUmhHZVY0SmdfVU1PNk1teXBzMTA3blE5MjBRTk9LS2ZQZWdLWWd6eDFqUmo3MEY2MUthVlJnZTY2OEFHV3cydHZyRVNzQ1UwN0g?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "\"부캉이 보러 왔어요\" 추석 연휴 첫날 부산 북항친수공원 구름 인파",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1uQ2dFN1hGZEtNR3pobld0LWFDdTYyenpIWko4UU1EUjRhVVplVUxLdUlrZTJfd2FlTHg3WkowbjBVRGItclE?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "\"부캉이가 나타났다!\"...추석 연휴 '핫플' 부산 북항",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsTmxxYWFzQ1dGS0ZGd0N2VldpNnpXSm4zSjZYbkRiZnBkRVl2dk5TRzVMQ29VVUNYcm1Ydmltb2NWN0VLZkZza1RKU0lCcmVBVzFRTFlxelVLMV9BVHc?oc=5",
               "source": "YTN"
-            },
-            {
-              "title": "인천 미래 걸린 공항·철도·바이오 '골든타임' 초읽기",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93M2hvUUxOR0xCMWxzc1ZuREcxRDRsQWFzVF84cmt1c054QlRQMkZCUy15RHg4MUpmNnpCaEtIc2ZJRy15eXhvMkNlTmVLWnZKRHFxV19qOGxYdWo3RDlFaVlnU01qZWllYkVWU2RkOEs?oc=5",
-              "source": "incheonilbo.com"
-            },
-            {
-              "title": "트럼프, 공항까지 나가 시진핑 영접…11년만 국빈 방미 막 올라",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3FoWmhwUEZpdk8xX3RWLWlxZU0tMloxOXlLck5FWS1aRURHZmI3b2JQNl9MRVBIRmV6ckZVSkJLYlZtUUMzdXhFTVQ4YUhzUWozVkw2UmRTUkplcVZ4RTNuY0x1QU9mS3JZYVpoc281aHZuSklMa280ODhCLVl3eVlCd2VieGx1Z0otenZVNXVKZXV0cGplOHhnSV9SZw?oc=5",
-              "source": "조선일보"
             }
           ],
-          "description": "추석 연휴 해외여행 수요가 급증하면서 인천공항에 114만 명이 몰릴 것으로 전망된다. 국내에서는 인천의 미래를 좌우할 공항·철도·바이오 인프라 구축의 골든타임이 임박했다는 분석도 나왔다. 한편 트럼프 대통령이 직접 공항까지 나가 시진핑 주석을 영접하며 11년 만의 국빈 방미가 시작된 외교 장면도 이목을 끌었다.",
-          "headline": "인천공항, 추석 연휴 114만 명 몰린다"
+          "description": "추석 연휴 첫날 부산 북항친수공원에 '부캉이'를 보러 온 인파가 몰리며 올 추석 최대 핫플레이스로 떠올랐다. 부캉이는 부산 북항에 출몰해 화제가 된 상어로, 높은 인기에 기업과 지자체까지 '상어 마케팅'에 나서는 등 지역 관광 아이콘으로 자리잡는 모습이다. 오늘 처음 등장한 키워드다.",
+          "headline": "부산 북항 '부캉이', 추석 핫플로 급부상"
         }
       ]
     },
     "경제": {
-      "summary": "추석 선물 거래·배송 활발 · 연준 추가 금리 인상 경고 · 삼성전자 냉장고 SW 먹통 · 미-이란 유엔 회담 긴장",
+      "summary": "메타 호재에 삼성전자·SK하이닉스 급등 · 일본 금리인상 효과 단기 소멸로 엔화 급락 · 李대통령 부동산 투기 근절 의지 천명",
       "keywords": [
         {
           "rank": 1,
-          "word": "추석",
+          "word": "삼성전자",
           "count": 6,
           "articles": [
             {
-              "title": "“감사하지만 필요 없어요”…추석 선물세트, 당근으로 간다",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85Mk9QUkpQUmhDOUpOeGp6dmpmdmROajlNTUdLckh0UmU1bGFZdDYtSWdaWEtaS1dzSVhjLVdRNk5MY0I0eXc?oc=5",
+              "title": "\"메타가 불 지폈다\"…삼성전자·SK하이닉스 다시 '들썩'",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNUZxNkFTZ2k2Z0d1QkJCdFVkSGx1dW9UcVR0bG9DbDN1OS0tTHhrcG5kN0dwVXNmdm8tS3NCV3pBcG5wVHZMTjRuaE1ZVzNKWVVOZFdPUlVMUQ?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "삼성전자, 연휴 앞두고 3%대 급등마감…SK하이닉스도 1.2%↑(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6TENHZGtlQlFUOXNjZk8taERwSUZrVkhURFlqOEpvQm1oYkx2MGlTd0ozUnJoT2h6ZG82eUJ2NGpfUUVPeU83ZHItRTdPanM?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "“추석 선물 아직 못 보냈는데”…연휴에도 살아있는 배송 업체 어디?",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JQ0pueFlUMVFyem1hUFEtZ0RZbGNCRzBEQVlvSHhVOXJ2Zlpkc1BraUZkV215WlE2YjA4VVBtZTZQbVdZM0JQT2VEM1dEb0o4WFNZUmEzNGY0VGc?oc=5",
-              "source": "경기일보"
-            },
-            {
-              "title": "추석 승차권에 또 진땀…설비 늘려도 ’접속 지옥’",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nRWQ2RjVkU1ZlQmJXR1JQWGliUEV3VEV5b05HSlY5VmtOWnNQZnNzU1lRbjQ3anRiT3VjZUxMUW1rcUNUOHg4QjBQVkt5NlNWazFIRHlZUmk2dTlqVDBWN19PeEVKQjA?oc=5",
-              "source": "연합뉴스TV"
+              "title": "“삼성전자 딜 하나만 따면 일년 농사 끝난다”... ADR 발행설·분할설 들끓는 까닭 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVZjaTg3bmZIY1JBN0RJNDRDeFVGN09iaWdyUGFWVWZHWGJjTHFfTEl5ZlUxelc1NFlyMTVrb09NTWpEWkRJZ2pNZEVCS1dCeXdNaTJSbzVpX2lZTzdqY1ZTcVV0RERoLUJRZkliRndpVVRGbzJwMVJuUmFxOWdLaEkwbVJ6eFnSAZsBQVVfeXFMUHl3VkdNcHhlWk9UYmRQOE9fYnNGOU1HQ1g2V1VYSWk5bWhOemN0SUN3bGR4dExGdHNXbnEzRHBpR2VudjFtSl9iZEZLbER6OE56QTBDcDlhZV9tT2RQUHJFTks2d2dEclJlTmktSl9DTGtlVk9UT3ItN1hDUG1uTTNzal9Fbm56cnVoMkV4d29zUVc4RUZENEJwUFk?oc=5",
+              "source": "Chosunbiz"
             }
           ],
-          "description": "추석 연휴를 앞두고 관련 소비·이동 이슈가 한꺼번에 터졌다. 받은 선물세트를 당근마켓에 되파는 '선물 재판매' 문화가 확산되는가 하면, 연휴 중에도 배송 가능한 업체를 찾는 수요도 높다. 추석 기차 승차권 예매에서는 서버 접속이 폭주해 '접속 지옥'이 재현됐다는 보도도 나왔다. 선물·배송·교통 전반에 걸쳐 추석 준비 풍경이 다양하게 펼쳐지고 있다.",
-          "headline": "추석 선물·배송·승차권 모두 화제"
+          "description": "메타의 호실적이 불씨가 되어 삼성전자가 3%대 급등 마감하며 SK하이닉스도 동반 상승했다. AI 반도체 수요 기대감이 국내 반도체 대형주 전반에 다시 불을 지핀 모양새다. 한편 삼성전자를 둘러싼 ADR 발행설·분할설 등 굵직한 기업 이벤트 가능성도 시장의 관심을 끌고 있다.",
+          "headline": "삼성전자, 메타 호재에 3%대 급등"
         },
         {
           "rank": 2,
-          "word": "금리",
-          "count": 4,
+          "word": "추석",
+          "count": 8,
           "articles": [
             {
-              "title": "'금리 인상' 끝이 아니다?…연준 내부서 쏟아지는 경고 [지금이뉴스]",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oWmdGaWdpeE9JeFcyOTBHX1Y3N01Mc3dkWDRwZ2N1MzZ1andhUjJPWlFzYTBNSDNOSW5wd0VrSnd4ME5XaTBLLTZoZFV4aVNleVR2SjlaSEY5TE5EQmc?oc=5",
-              "source": "YTN"
+              "title": "추석 앞두고 李 대통령 부정평가 51%, 설보다 24%p 올라",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQODM4OWpPQ040N1dxc01MdGlkUmJiOHZmT0NpUGdjM0M1ZUx1Unk4YUxQOThnNXVBdHFLdVdnbGxZelBmNHNqeFYxcTg5MWNjQ2ZBcGRwLWNKSFdGRmh1dXB3eng1cDNhcldpTmc5YnJ3RVh1dUExOTVIUGZDWXJJYUtGNHhLS3RaMTdGekpHb0U?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "연준, 금리 올리고 유동성 안전판도 손본다…'물가·시장안정' 투트랙",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlblRXanZLWUNma1lZNlMyZWNFMjJDRTNQcDlPZTAwVnFjWlZBbW9QVGlYWklCV1RUTzFVclpCQUVNSExha3ltMEtkZDQ1UQ?oc=5",
-              "source": "전자신문"
+              "title": "정치적 위기마다 ‘추석 반전’ 만든 이 대통령···이번에도 국정 운영 전환점 될까",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45YTVMdU9hcVVFdDNScHNqWEFuX2xCYUswRkdsU2lSa3A1SktKV1lwRVBJc19uT04xOXk4Q2FYV1dER3RhUEpPbjhTbWhEY19QUU55cHFJdmFnd9IBX0FVX3lxTE02Znl3azJFQW12TUhRY1lvbnJSNEh3ekVmelJnOHo4bGFwSVNSTUlvR1lzMnFPdU11eEpEUFp6NExIOUxYNjYtTHVwZkJvVlpiNUZRQkZTMVFhazZFOEFz?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "월가 전문가 \"美·이란 합의 땐 유가·금리 하락…연준, 매파 근거 잃을 것\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHbzF3WDZ5MzFMV0phM2hwLURBTXQ4VVQ3SzU5a002NnVCZjRRV0hiRVM2dWNIYWs1VzcyRjNSdFVIanlncUx5RUdnaUFzQ2EwNUNsZmxRdHpmMkRBcFRGcDNXajdQbmU5UTlZSFVnNWU?oc=5",
-              "source": "연합인포맥스"
+              "title": "野나경원, 추석 앞두고 MB 예방…\"다음 세대 위한 유산은 보수가\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tcWsxek1JV0hHNXlrWDFjeU5pbkJjRTFoUGg4bGxQTGFucVBMajY0NzhDMjJuLUNISXg5Z0FjMTBsemVyS1B0bXJGOUsxT0s4b0s2dXNIUEM2UEE3LUZIV3dOeVNDVjlCcTFIMNIBckFVX3lxTE1XWTN6UU44SXdFdTdBWHNXZ3Vhb3l4aFNMT2N1NVF5dEtHTlFJd0dBVHozZzhneHhUUjY5bHUtSkF0alNQNzNFY2o1bU44RE1NaHZVbUxHUE9qclNFRVVQd2RLUWZRSFhjdklpSVR2bG1ZZw?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "미국 연방준비제도(연준) 내부에서 금리 인상이 아직 끝나지 않았다는 경고가 잇따르고 있다. 연준은 금리를 올리는 동시에 유동성 안전판도 손보는 '물가·시장 안정' 투트랙 전략을 병행하는 모양새다. 한편 월가에서는 미·이란 핵 합의가 성사될 경우 유가와 금리가 동반 하락해 연준의 매파적 근거가 약해질 수 있다는 분석도 나온다. 금리는 최근 2주간 꾸준히 상위권을 유지하고 있다.",
-          "headline": "연준 내부서 '금리 인상 연장' 경고"
+          "description": "추석 연휴를 앞두고 정치권의 민심 잡기 행보가 이어지고 있다. 이 대통령의 부정평가가 51%로 설 연휴 대비 24%p 오른 가운데, 이번 추석이 국정 운영의 전환점이 될지 주목된다. 야권에서는 나경원 의원이 이명박 전 대통령을 예방하는 등 연휴를 활용한 정치 행보가 분주하다.",
+          "headline": "추석 연휴, 정치권 민심 행보 집중"
         },
         {
           "rank": 3,
-          "word": "삼성전자",
-          "count": 4,
+          "word": "금리",
+          "count": 7,
           "articles": [
             {
-              "title": "추석 앞두고 삼성전자 냉장고 잇단 '먹통'…\"긴급 복구 중\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZGVUa3JudU1RVGRtc09nSWkwQzgyanB5TFR5TjVZZFI0MnJDSUFFTXYzMG1NeWEyZHdQRHdKZTBHeHE1dTNtOFVPNExuckEyTG5jS1ExQzFENmvSAWBBVV95cUxQYUs1WGRoT1dDWjFTdmdyeEYyQ19HWUtZcDBtNHU1Zjl2MVc2TDRUdGdYWDVPOG94UjI5QXpPcldLSUpGa25wZVA5SE42U002YS1oNHpJMjByRS1Tc0d5cWk?oc=5",
-              "source": "연합뉴스"
+              "title": "日 엔화 다시 급락…금리인상 사흘 만에 약발 끝났나",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51LTlDX2stQU55TWtPeDBfSXA3NUFLcEtNRC1qV2VjdGRWSE9CWEg2YW9QOFFMVlkxNmREd1VoUVE1RUZNaFYyM3JRa3RkeFluTW5oRFFVdGJGUQ?oc=5",
+              "source": "한국경제"
             },
             {
-              "title": "“업데이트 했더니 냉장고가 벽돌로\"…추석 앞두고 삼성전자 SW 업데이트 먹통",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zb3dnclR3WmtySlJaV1kxcjZ2ckd3NUVhUjdrOG5iUXYybm5nRGpUc0R4R3kwWGV6cHNJZUZxN3h3U2ZVcU5sY2FHc3lWV1k?oc=5",
+              "title": "'은행서 문자 올까 겁난다'…마통금리에 직장인들 '화들짝'",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zUDc2R3hvS1hzc0FnREdwYjNwbjdQS1QzZmVuUEw1ZUU1M1Fzdm5WQXpXQ3hXQ2hwcGVGWW5EU0ZVUnFXc1lqbDkwYWRMLVk?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "추석 코앞에 냉장고 '먹통'...삼성전자 업데이트 오류",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00TXAwNEhHSGFzdkZwajI4N3J5dGo5N1o2bG9uRkYxdkQ3VmxPV0dLMXFXN3prUGhoRnFRSllKUlEzeER1bkdIV0RlUFUwU3FaVkEtZm41NnVBVWFUVmc?oc=5",
-              "source": "YTN"
+              "title": "美 30년 주택대출금리 7% 돌파…2024년 5월 이후 최고",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84V25YMEZVbXRBSUs5eTBSeVJocG5jWnVwd0FNbnNZcmNldW55endpT1pRY3JmNFRodmR1ZVhHS0swRWF0b1lpZ1cxYWpHNkZaOXc?oc=5",
+              "source": "매일경제 마켓"
             }
           ],
-          "description": "추석 연휴를 코앞에 두고 삼성전자 냉장고가 소프트웨어 업데이트 오류로 잇따라 작동 불능 상태에 빠졌다. 업데이트 후 냉장고가 '벽돌'이 됐다는 소비자 불만이 속출하자 삼성전자는 긴급 복구 작업에 나섰다. 명절 음식 보관이 절실한 시기에 터진 사고인 만큼 소비자들의 불안과 불만이 크다.",
-          "headline": "삼성전자 냉장고, 업데이트 오류로 추석 앞 먹통"
+          "description": "미국 30년 만기 주택대출 금리가 7%를 넘어 2024년 5월 이후 최고치를 기록했다. 일본은 금리 인상 사흘 만에 엔화가 다시 급락하며 통화정책 효과에 의문이 제기되고 있고, 국내에서는 마이너스통장 금리 부담에 직장인들의 불안도 커지고 있다. 주요국의 금리 동향이 시장 전반에 영향을 미치면서 최근 2주간 꾸준히 상위권을 유지하고 있다.",
+          "headline": "美 30년 주택대출 금리 7% 돌파"
         },
         {
           "rank": 4,
-          "word": "증시",
+          "word": "메타",
           "count": 3,
           "articles": [
             {
-              "title": "\"추석 이후 이 주식 담아라\"...운용사 12곳이 픽했다 [증시긴급진단]",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA3bURlY1NyWm42TjBUaldPcDF5RlRHSHFBa19RcVdTQ3NxX0REeDBYTUZXQVo2Q1U1QW5raGxJc0EyUmdoWVE?oc=5",
-              "source": "v.daum.net"
+              "title": "“아침에 분명 다 빨간색이었잖아”…메타에 웃고 유가에 발목잡힌 코스피",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fZ0Z6T3A3WkR3X05rUTNGei1paUx4SEtrOC1SV1dDa0dhTnR4dzFQdDZiNFZMTHhoYXJnRnR3MHdqSEJYTmsxeVpPMFJZQnVYQmc?oc=5",
+              "source": "매일경제"
             },
             {
-              "title": "관세 휴전·기술 규제·중동까지…연휴 증시 변수 '미중 정상회담' - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtNUZXcm02SzNzOG9jMXZnU1ptbFZtcl8xeU9MeW5SblJIOU1uSWpybWUtNHh5VWtDT20wWDlZdkxzY1IzYkJOY0Vqd0w1bHlvbk1YNkdRWmdTNXgwZ3B0QlpzanBta29x0gFuQVVfeXFMTkFZcFF4a2VHeU9xNmdTX0gxbkFEbUhkZGFWaHVZN0lGWEQwcHVuWnBwRkNPX0RVOHpCdGk0MGRvRXZPcS1nakMzM2stb3ZmNHdEbU5XZE9uOEl3RFlZa2RkNTZ4X3pyU3JIMlZBMVE?oc=5",
-              "source": "머니투데이"
+              "title": "메타, ‘다마고치’ 형태 AI 기기 공개...AI 글라스 ‘리사 에디션’도 내놔",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUVMR0JSc2p1ZDdINGtUTmktQlRIaUpiZ2M2NVlud1hsaWlOV3R1Y3AtczVEbmVnem5PcnRHaHEzS0FTU3E3b29PSnpUd2xMamRqanpYOXNJSmRzQTVIbVFmZkdCSDNUNkdMaWp5OEJEbjBybGcybV90MW1udTFRdDZiQQ?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "뉴욕증시, 유가·국채금리 상승에 하락 출발",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LZ2pLTG9xZ19iVmtfbnp3STBqcHRuaEFiUWxCWjZ3WjJYaDR0OWZONExwNGp1VklueEFTSU9BN2JnM0ZwaGlDdjc4LXdTOFZicjdmRTBlUzNtUmhvbzhhUWhiTTVlRWZDSzI4MWpZV3o?oc=5",
-              "source": "연합인포맥스"
+              "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lSUVhMkUtT1ZwR2Nuc2FuQXRYUGdlcFNveEZIQTh2V1VhT3IxVS1DenVhNXF4NzZCbllCV1IzYTNkbmFXY0t1RGZoSzRzOGxvUThsZ0dfcEpfNUZhXzJJa29fbS11TEoyYnc?oc=5",
+              "source": "AI타임스"
             }
           ],
-          "description": "추석 연휴 기간 증시에는 미중 정상회담, 관세 휴전 여부, 기술 규제, 중동 정세 등 복합 변수가 겹쳐 있다. 뉴욕 증시는 유가와 국채금리 상승 압박에 하락 출발하며 불안한 흐름을 보였다. 반면 국내 자산운용사 12곳은 추석 이후 유망 종목을 공개하며 연휴 후 반등 가능성을 점치는 전망도 내놓았다.",
-          "headline": "추석 연휴 증시, 미중 정상회담이 핵심 변수"
+          "description": "메타가 다마고치 형태의 AI 기기와 AI 글라스 '리사 에디션'을 공개하며 시장의 이목을 집중시켰다. 메타의 호실적은 국내 반도체주 상승을 이끌었지만, 메타의 AI 에이전트 서비스 '뮤즈'가 금융·구독주를 흔드는 '에이전트 공포'로도 작용했다. 오늘 처음 등장한 키워드로, 메타발 이슈가 국내외 증시에 동시에 영향을 미쳤다.",
+          "headline": "메타, AI 기기 공개…증시도 흔들"
         },
         {
           "rank": 5,
-          "word": "이란",
-          "count": 3,
+          "word": "부동산",
+          "count": 2,
           "articles": [
             {
-              "title": "미-이란, 유엔본부서 3시간 회담…트럼프 “합의냐 전멸이냐”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HS0lkemFLNWRJVzgyNWhsZTlWaFdVal9URlh4dTRXRnhvbDZ0bmxFMXJlQ1pGWlRnd0h3Y2N0bHpYUDRpSUhSLXhZbHhiSlk?oc=5",
-              "source": "v.daum.net"
+              "title": "이번에도 ‘수도권’만 챙긴 부동산 정책(종합)",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlZtRDZJRFB2NE1Sbm0zdGNVN2RWT3NNR1lUblB4TlRDVEx2eE5ibzBKRmFCcTVBa2ZMUUFoSXFlb0U2OXE5bjlyWFZzVGVhWThWanZLaVA2WS1lTDlqTUE5aGZQWEMxQkZNak1iblhvUHVKeXNJLTR4eWZqX2lBeUR1YzFBRTBBNlB0VTln?oc=5",
+              "source": "kookje.co.kr"
             },
             {
-              "title": "트럼프 “궤멸” 압박에 유엔 연설 도중 자리 뜬 이란 대표단",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92NlRnWWFuZ21WSXZlcm1EZ1R4TUJaS2lXMVFMTG5jSXctU0ZwRlZnMjN0T2hBRHJTTE4yaE9FZmVabm1NRUktazBGWExoNWw2NGJXT2hhMTZnX3pKMGhBZ3E3SjVKZ0x6b0daUUhrcDRuWUXSAWZBVV95cUxPLUxuYXFKREhMQ0NpZXNETW5xVmRGWG9QVllrU1NNV3BKekE5ZXN5UFZWcmlWdVBDa1hMNDRWQVBqSGQyZ3FnZFdkcGs1ODJ4MEtNZkJJdWtCNnBpNG5IaVJnTjRhSWc?oc=5",
-              "source": "동아일보"
+              "title": "李대통령 “강남 불패, 부동산 투기 공화국은 과거 얘기 될 것”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fSktXZUlyYVF4TURxVk1ZU1E0RDNBZmp4R3RfZXpucHVpREZkZnFZV09tTl9YZUxBcC02dG1PdG5yOWNoNXhxR0psdVBUVXFrSlhVOXR3?oc=5",
+              "source": "헤럴드경제"
             },
             {
-              "title": "美, 이란의 호르무즈 개방 제안 거절…\"통제권 없다\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11YllzZDlZeXZFTVQ1Xy1Kb1dNaGE1Z19hZU5wbXVKNGoxZmNqLXFhaXBNcldwbWU2d3hudkVMREdWVEE3cEtaNnlxdzlMVlFOd24yZG9DaGNhN3dMdE5iY9IBeEFVX3lxTE40SUNSTzVmR3gzMnNiSUl1NFEzVk1zZ1R0aXlpMU5qMzFWc1JRdUlMeUhzeGlGbVhWajdod3ExQUcxN0lJU09BZXJ2RjhmUGtHdlFPcmd1RUp1Wk9leXpHZnNFYkJfRjhJbU1FV0tZeVNQdTZsUEh6Yg?oc=5",
-              "source": "뉴시스"
+              "title": "서울 아파트 매매가격 85주째 상승…최장 상승기간 동률",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83d0FJR2plT2lpRGZtUnkzOEpiRndKUkVmSndMOEF2SkhycmtCWXczMUxCdDI0WnhFT1RvdWFJRFlBb2FHWVZpa3ZNN19EV19Bd2c?oc=5",
+              "source": "매일경제 마켓"
             }
           ],
-          "description": "미국과 이란이 유엔본부에서 약 3시간에 걸친 회담을 가졌다. 트럼프 대통령이 '합의냐 전멸이냐'는 강경 발언을 쏟아내자 이란 대표단이 유엔 연설 도중 자리를 박차고 나가는 장면도 연출됐다. 이란이 호르무즈 해협 개방을 협상 카드로 제시했으나 미국은 이를 거절했다. 오늘 처음 화제 키워드로 등장한 이란 이슈는 핵 협상 향방과 국제 유가에 즉각적인 영향을 미칠 수 있어 시장의 주목을 받고 있다.",
-          "headline": "미·이란, 유엔서 3시간 회담…합의 불씨 남겨"
+          "description": "서울 아파트 매매가격이 85주 연속 상승하며 역대 최장 상승 기간과 동률을 이뤘다. 이 대통령은 '강남 불패·부동산 투기 공화국은 과거 얘기가 될 것'이라며 강도 높은 발언을 내놓았지만, 새 부동산 정책이 수도권에 편중됐다는 비판도 나왔다. 오늘 처음 등장한 키워드로, 정부 대책과 시장 현실 간 온도 차가 쟁점으로 떠올랐다.",
+          "headline": "서울 아파트값 85주째 상승, 최장 기록 동률"
         }
       ]
     },
     "연예": {
-      "summary": "손예진 주연 '스캔들' 혹평 · 소녀시대 이수만 로열티 분쟁 · 황정음 가슴 수술 부작용 고백",
+      "summary": "황정음이 가슴 수술 부작용을 고백했으며, BTS 진이 팬앤스타 솔로랭킹 47주 연속 1위를 기록했다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "손예진",
+          "word": "하지원",
           "count": 2,
           "articles": [
             {
-              "title": "“원작 팬들 경악”…‘스캔들’은 손예진도 건져낼 수 없었다 [송원섭의 와칭]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzQVNKT2loekNFQXJPTmdhZFYtNE0xMzFOQ1RPQmMyMjVhb2NWbEtGVWdhVzdTaXdQVUlibHI4T00wa0RNX3dxdW92akQ3aWZNTU5wd0dn?oc=5",
-              "source": "중앙일보"
+              "title": "하지원, 곧 반백살 미모가…늘 설레게 하는 ‘첫♥ 비주얼’",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BTWFzMVFKLUNWNG5pV015R09KczJfYTg0aWFyV2xobGxKZU85eDFDVEVranBxUDJvbmRnRTRzTTZzU0dqemZKcF9Id3hKQ0ZPTGdHeDBLUC1WLVl1cy1lZHVyd2FVX1N5Tjd3Zl93?oc=5",
+              "source": "sports.donga.com"
             },
             {
-              "title": "손예진, 지창욱 발언에 ♥현빈 소환 이유 \"여보 여긴 웬일이야\"",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rTzRiUWhQNE1zdlNJLWxEczBLRlREWXlob1NhSEhObmVJN0QtQ2twWndtVTZlRzltTzF3VTczZFJJdVFJT21pSFlHaGU0bWZaUER4c1BCYS1PSW1waDMwWl9KT0dmY1hRTnpDRm5XWnR4WWc?oc=5",
-              "source": "starnewskorea.com"
+              "title": "하지원, 스트리트 힙 무드까지 완벽 접수... 나이 잊은 '워너비 아이콘' [IS하이컷]",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10bmF5NTF0ZDgtdTdwZFdSV081cXVDeW1CbGFRY0xNN0FNQ3h5elJtdXRXSnZKWnVISDFDUjc2THhDdjV3aDd2R3lrMnByOG5sVXNCaDBIcGh0ams?oc=5",
+              "source": "일간스포츠"
             },
             {
-              "title": "청초하면서 섹시하기까지…신소현, ‘스캔들’서 또 손예진 아역으로 주목",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2dMQ3E5aFBGQXlvUkxIclRZQmpzb244WG1vcEpfM00xNnV1N3RNTGhwWE41NzVBTnVzVGxWc3JxZ0ljclhZUFFwcGxVVkUwTFZkaDhtUjRTcHQyOHVtSWxYOU42TnRSSXF4SHZzUXBsM0R1U1NOaUNOd09zd3B5ekoyWDFKRHR2TDZtbVY2dw?oc=5",
-              "source": "조선일보"
+              "title": "\"영탁 팬\" 하지원 모친 깜짝 공개..골프장서 영상통화에 '소녀팬' 변신 ('26학번 지원이') - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdUNUZVp0cFFtMnFYdGM3U0tteHZDV3E0NnVLVTd4Q3FUMzJpRm5paHFoRWg0OG5ZUWRNNWphbmhRQnRFa0c3V1pZdzVBWU5fYi1XbF9abVVlWVVpZWh0dmYyYXZDYkNKSDBnYVFqaDQ2LUVWOWJHYy1mV0doMDhXWG8zUmI2VUl0Y0dkVzJCTC10SEnSAacBQVVfeXFMTjFfN0t1YW1LVWc2NnlvVmF5cDVMdXBGbGdLMFpCeXZWNlZ6SkFudGt0TWEzOHNzMWR1NjRtY1NrX3lvX0VWekl0b09mZ0kycElKbHZ4WXVDOEVtNEdMWGNyTHFsQzA4dFpaenJEY3RTUC1uOFU5dWZySl9IV0xEbXZCamxOT2JnVVdaTThvQ0cyRWtRaVpxM3Y0eElzbDNHM0dFU2VYWGM?oc=5",
+              "source": "Chosunbiz"
             }
           ],
-          "description": "손예진이 출연 중인 드라마 '스캔들'이 원작 팬들의 혹평을 받으며 화제가 되고 있다. 리뷰 칼럼에서 '손예진도 건져낼 수 없었다'는 날 선 평가가 나왔고, 완성도에 대한 논란이 이어지는 상황이다. 한편 극 중 지창욱의 발언이 화제가 되며 남편 현빈이 뜻밖에 소환되는 웃지 못할 장면도 주목받았다. 손예진의 아역을 맡은 신소현도 '또 손예진 아역'이라는 수식어와 함께 눈길을 끌고 있다.",
-          "headline": "손예진 주연 '스캔들', 혹평 속 화제"
+          "description": "하지원이 예능 프로그램에서 어머니가 열성 영탁 팬임을 깜짝 공개해 화제다. 골프장에서 영탁과 영상통화하며 '소녀팬'으로 변신한 모친의 모습이 웃음을 자아냈다. 한편 매거진 화보와 SNS를 통해 공개된 하지원의 근황도 주목받으며, 나이를 초월한 스타일과 미모로 '워너비 아이콘'이라는 수식어가 다시 회자되고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "하지원, 모친의 영탁 팬심 깜짝 공개"
         },
         {
           "rank": 2,
-          "word": "광수",
+          "word": "BTS",
           "count": 2,
           "articles": [
             {
-              "title": "'나는 솔로' 모솔 33기 사이 괴소문 퍼진다…광수 '당황'",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CNUV6Q0RobEdESGlYX2N0Y0Y2ZllFY1lUcHZsdzZsLU41X3AzZk12Z3MxTHpCWERFTDVFYU02dC15WlZzWlZZelRXYUx5UmVlci01NjM3MG1VcUtKYlNBVdIBZkFVX3lxTFB1Uzgyc2RCM2RFWFRDeUo0ZnlmbU9mM0NtQ0VWU29BRldUUFp2anFkT0xhd3RreXVYNUNVUnhMNnJLVVFNNFo2TEhkYzJSRHg3eC1TQUxtQnpKNl96Sm9UMzZUamVUUQ?oc=5",
-              "source": "뉴스1"
+              "title": "\"BTS 정국,추석 명절엔 좀 쉬어야 할 텐데\"연휴 직전 출국에 글로벌 팬들 짠한 마음[K-EYES]",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43YkxRaWRIYk1DTU51WXdLenkwRmRvUE1YbXc2b0gwbTZHdUpSbG9KcGo5bUZpOVdpeUprbmtJanpwaWVWR1ZuM0NVZXNreW1IYU5pbjlyYU92ZjlCX09IcUdaSEctTGgxckJ0dXg4MjNHWnZ2?oc=5",
+              "source": "starnewskorea.com"
             },
             {
-              "title": "22기 현숙 \"아이 낳다 죽을 뻔\"…16기 광수, 시험관 강요에 \"안 낳으면 이별\" [연애전쟁]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EU2JWdVdpRlZPZ0dJM1FnamdFY00xUVJfUDVtVHhSLTc3dzMyTmppRUd2ZDh6eFYyZG1CRHZFXzFiaGRhbzBoZy15R2pzMG0tOGJwTmNzMzBVOHJLNnJLTA?oc=5",
-              "source": "마이데일리"
+              "title": "방탄소년단 진, '팬앤스타' 솔로랭킹 47주 연속 1위…'2026 TMA' 마이스타상 수상",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lSERobE5PdmwyOGVqVjlSOHNpVU0tQU9KeTMzYnFIWWNMZU54RnZFdjhhRTVQSTZpRU9OekNfVDJwS2djUlE?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "22기 현숙♥16기 광수, 방송서 키스까지 해놓고…언팔→“도망쳐” 댓글 ‘좋아요’",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16c2xib0d3X2sxMU0tc1B6WENQZkZFekZfTGF5cHZ4cFFIVDM4YUtPMF94b3MyYkF1VnpSNGpkZk9aQ1VTXzhzdzNJUXdfQkxSS0hJaHBJR0xHaWJQR3fSAWNBVV95cUxOMEVWT3VXeW5mY0d0aWZpM2x2bkpQWjZ4YlRZZWlzUWEwRExDcmhYTXdZN3BxV0JEaHhxRWkwVG5RRWw2eU16MjJfZFNSYk5xeENhSm05RUd6NnZhWDAyWnE3aE0?oc=5",
-              "source": "스포츠경향"
+              "title": "BTS 월드투어 '아리랑', 3분기 누적 전 세계 매출 1위",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aSnI2d1dmLVFzc29rMlBKSE1iOE90Q3M2dlY5WVVZbGpmYlpHeVZCUE9Yd3oydEt2em5iZUZLbkVvdzhENUdENkNvemp6UVVId1VmNTdMX2VVUkXSAWBBVV95cUxQOFgxaWJoR21VYTNvTGxJLVhBUmNpN2dfZjhEdG03bW5qbE1yTzJrQjh4S3l6YTRVWTY3N3otMjU1dTZYNWlOOUk4QkVMVldfaU1iRUdHcDIxLWJjWXNqR2Q?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "'나는 솔로' 출신 16기 광수가 22기 현숙과의 관계를 둘러싼 잡음으로 화제다. 방송에서 키스까지 나눈 두 사람이 인스타그램 맞팔을 끊고 현숙이 '도망쳐' 댓글에 좋아요를 누른 정황이 포착되며 결별 의혹이 불거졌다. 또한 광수가 시험관 시술을 강요하며 '안 낳으면 이별'이라고 했다는 현숙의 폭로도 나와 논란이 증폭되는 상황이다. 이와 함께 33기 출연 중인 '나는 솔로'에서도 광수 관련 괴소문이 퍼지고 있다는 소식도 전해졌다. 어제 4위에서 오늘 2위로 급상승했다.",
-          "headline": "'나는 솔로' 광수, 현숙과 갈등설 논란"
+          "description": "방탄소년단 진이 팬앤스타 솔로랭킹 47주 연속 1위를 기록하며 '2026 TMA' 마이스타상을 수상했다. BTS 월드투어 '아리랑'은 3분기 누적 전 세계 매출 1위를 달성하며 글로벌 흥행을 이어가고 있다. 한편 정국이 추석 연휴 직전 출국하면서 글로벌 팬들의 안타까운 반응도 쏟아졌다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "BTS 진, 팬앤스타 솔로랭킹 47주 연속 1위"
         },
         {
           "rank": 3,
-          "word": "소녀시대",
+          "word": "한소희",
           "count": 2,
           "articles": [
             {
-              "title": "소녀시대에 20년 만 로열티 청구?..이승철 “이수만이 직접 전화 왔다”",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51cXdmSks1blFaR19Ud2NlZjh1MkZJTW1GejZyU1R5ZE9ocVh0OFBqbVFaU0hqTXVHcEVTY2k0Slp4cGtzRXR1Szh5dFAxQlBRNVowUw?oc=5",
-              "source": "OSEN"
+              "title": "‘인턴’ 한소희 “무서웠던 최민식, 지금은 귀여운 소년 같아”",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWF90ZXU3UDB2LUlaUnh1VXZETjJYMVltX3hsZnBJWFQ3UG1SY3FpaUF6ckZpMk1Ibm1acnhiLUNCX3ZiUDdvbm9pLWsxbVBmdkpFRm51djl2dGF2bjY1ajRmMEo5QUZhVGxfajVqbU1qMlVKYzBYNlhoV2xQMkQxV3VCQXNkUdIBbEFVX3lxTFBNNk1ZSEppcW4yYTJiLVVqcGhvbncwZzRvMTNPOUdSeENVeG1oSXdWOTBkNlhrX1kybmJDUW1hUWQ4ZUNiZk4xWDhtMnFkQ3VJam9Rem14S25faHFjU0JYQkZacF9KN1FFbnpGdw?oc=5",
+              "source": "국민일보"
             },
             {
-              "title": "소녀시대 윤아, ‘가을 여자 임윤아’ (인천공항 출국)",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oOFZad0g1OTA2dUc3ZTdwcXVHUXVJUkRmNHQzMHQ4czN3WWMtUEpUcHZmVmdKM0lrZlhTMER3QS10aUdkVDBQZzlaaTRucEV5cGFERDBabG5fbVFZd1VOYXNBbFJaX2JZX3BBXzJRMDRHUQ?oc=5",
-              "source": "톱스타뉴스"
+              "title": "볼 게 없다고요? 이렇게 많은데! - 배우 류승룡, 최민식, 한소희, 기시이 유키노, 이정은, 공효진, 하지원& 기자들의 추천 콘텐츠",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lWlZFdm1SSXI2TlYwaGF2MjlmVTctU3ZVaHRETlFZSng5R2JZWVB4X0tsbFVDajJYZTJJTGxPeVNDbElLLVplTjViZzJCRkpwSEVBZGtn?oc=5",
+              "source": "씨네21"
             },
             {
-              "title": "“언니가 왜 거기서 나와?”…소녀시대 유리, ‘전국노래자랑’ 1열 포착",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oZlFZQW8xMS13M281TXJuVDhWRTVOaWNTb1JpZURJX3hnTm9lM1NHNnlZbm1IeXNEZGJmLTJxai1MQnJrRlY4aThCN09HQjRpUjlBaGRJanBkNHJQOGFXWGVrZzBLa2xkSWh2QTl2QmhpNVZuMDVhZzZQVGJhUdIBZkFVX3lxTE1BSmdZWFBoY19qNGF1bGZQeGg5aUdRaGdjR1lsSVNRSWY1OXZqNG9ITDlKSTNycHJPUklzc01CQ19KaElVbGFMRFRxd1RIVTlaSE9hQ2tMWEp5Wktpbm9kOFoxTzNNdw?oc=5",
-              "source": "동아일보"
+              "title": "“성공 뒤 불안…최민식 선배 대사가 날 울렸죠”",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0pKV0dIX21FTzBtNllJblAwWjJENFNGMW1EcktsWVRhZEdwUG9faHBhSmVPdS1RSzlSeThaRjhYaTN3RkF6aTFoUTV1NEF1UjlKSk5xTzhVbF82a2U0VFpHZE5sUDgtUVhrc0NRQk1FODlTaVhFV0o1ZDRPdjNVTnNuX3prZEVLX3ZJYmJ3?oc=5",
+              "source": "kookje.co.kr"
             }
           ],
-          "description": "소녀시대를 둘러싼 로열티 청구 논란이 불거지며 오늘 처음 트렌드에 등장했다. 이승철이 '이수만이 직접 전화해 소녀시대 관련 로열티를 요구했다'고 밝히면서 데뷔 20년 만의 뜻밖의 분쟁 소식이 화제를 모으고 있다. 한편 멤버 윤아는 인천공항에서 출국하는 모습이 포착되었고, 유리는 '전국노래자랑' 현장 객석 1열에 등장해 팬들의 눈길을 끌었다.",
-          "headline": "소녀시대, 데뷔 20년 만에 로열티 분쟁 논란"
+          "description": "한소희가 최민식과 함께한 신작 '인턴' 관련 인터뷰에서 \"처음엔 무서웠던 최민식이 지금은 귀여운 소년 같다\"며 현장 분위기를 솔직하게 털어놨다. 성공 이후 찾아온 불안감을 최민식의 대사가 위로해줬다는 고백도 눈길을 끈다. 추석 연휴를 앞두고 기자들이 꼽은 추천 콘텐츠 목록에도 이름을 올리며 작품에 대한 기대감이 높아지고 있다.",
+          "headline": "한소희, 신작 '인턴'으로 최민식과 호흡"
         },
         {
           "rank": 4,
-          "word": "이승철",
-          "count": 1,
+          "word": "공효진",
+          "count": 2,
           "articles": [
             {
-              "title": "이승철 “추억 속 레전드? 초중고생도 알아보는 ‘현역 가수’할 것”",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaU0yR1BUNWpHdktNaU9EVFFPU3dLNjZKR3hDMkpyYk81TUtka01jcndkaE5wbDlmaU9XbFJHbXBFR3BiN3JqVmJZSDNlNEl5YUZsRFpoVFpjaUgzWGVacUstSlN1T0g3bEYtWGhTajFfUW8wZlozSnE5Mm9MT1A4RHBfUXhndFd1bUFqb1dHQWY4cXVD?oc=5",
-              "source": "조선일보"
+              "title": "공효진, 식탁 가득 빵 차려두고 만개한 미소...\"나는 행복합니다\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96U1V5cHBMVU00dkVwaWpvY2F0c0VBWjR5QWhZdjVubTZwNDNYRER5UjVPVnpORXgyZVRieE5JVE50aFlLcTE4ZmpJa2VQdmM?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "이승철 쇼·매직 콘서트…추석 연휴 볼만한 TV 프로그램은",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94M2U1UW9aczIzYTIwV3VLLVVxcjVGZ1VFWUEyaS1QazZpTVVjWEd1allqc3BfZlhpaVZEa2JLeXNqOFExdGRwNm9PZm1HMHFiMmFjMU5zai1PR1pFTDZpc9IBZkFVX3lxTE8xWU5IcnRRN2RYdkx4dTRhbnVrc2dmZERKMFBuTU9CZHlyMm0yOVdzY1czaXN5MTVzTHppUmV4eVJ3MW0xakRKaFF3QVl2Z1JYY0hnVlZmSkR5VG13U1BIOFV2RXhIZw?oc=5",
-              "source": "뉴스1"
+              "title": "배우 류승룡, 최민식, 한소희, 기시이 유키노, 이정은, 공효진, 하지원& 기자들의 추천 콘텐츠",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XOUp1UGptMDItamx6TnRHQk1SZmZpWkZHSFF0bnJkVF9XYmtSS1Q0T2hmUElIQjROb1B6cHplcktxRktlZXFKTm52LWZHbDc0S3ZYTV9B?oc=5",
+              "source": "씨네21"
             },
             {
-              "title": "40년 라이브 외길 이승철…“레전드보다 현역이 좋죠”",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53WklqNVJEZ0NrcUZjNHR0ZGZSV3JlM2VyREszMFY5WGJMYUFTUzI2Y3daanF6VTJONEd0VVJ3M3NUMTg0ZU5iOWNydVkxTlRVbGNPTE5PY2pfLWs?oc=5",
-              "source": "KBS 뉴스"
+              "title": "‘케빈오♥’ 공효진, 美 뉴욕 며느리 맞네..추석에 전 대신 피자 “나는 행복합니다” [Oh!쎈 이슈] - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0dkWXJUM0l5bHo1RHRXcHZ4Z3ZLdDRxOWpISmY4bHNJeE1ySmZ5M2FtODFxU3BvUkJMM29WaEtwRTNTY1daRENRZEpLYmw3LTk3VU9SS0I2R2Q5c1JaU3pSVGxaUFBoZ084TlhTQXNzLXo0MjBKaGZiczdBVk5JMmduNFdEUjBOZ2prbjExX2lWczdCUDd0WXp4VExZMlBsUmFnM3puTdIBpwFBVV95cUxNV0dkWXJUM0l5bHo1RHRXcHZ4Z3ZLdDRxOWpISmY4bHNJeE1ySmZ5M2FtODFxU3BvUkJMM29WaEtwRTNTY1daRENRZEpLYmw3LTk3VU9SS0I2R2Q5c1JaU3pSVGxaUFBoZ084TlhTQXNzLXo0MjBKaGZiczdBVk5JMmduNFdEUjBOZ2prbjExX2lWczdCUDd0WXp4VExZMlBsUmFnM3puTQ?oc=5",
+              "source": "Chosunbiz"
             }
           ],
-          "description": "가수 이승철이 데뷔 40년을 맞아 '추억 속 레전드'가 아닌 '현역 가수'로 계속 활동하겠다는 의지를 밝혀 주목받고 있다. 그는 초·중·고생도 자신을 알아본다며 현역 가수로서의 자부심을 드러냈고, 40년 라이브 외길을 걸어온 행보가 재조명되고 있다. 추석 연휴에 이승철 쇼·매직 콘서트가 방송될 예정이어서 관련 관심도 함께 높아지고 있다.",
-          "headline": "이승철 \"레전드 아닌 현역 가수로 남겠다\""
+          "description": "공효진이 남편 케빈오와 함께 뉴욕에서 추석을 보내며 전 대신 피자를 먹는 근황을 공개해 화제다. 식탁 가득 음식을 차려놓고 환하게 웃는 사진과 함께 '나는 행복합니다'라는 메시지를 전해 팬들의 훈훈한 반응을 이끌었다. 추석 연휴 기자들의 추천 콘텐츠 목록에도 이름을 올리며 꾸준한 관심을 받고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "공효진, 뉴욕서 추석에 피자 '나는 행복합니다'"
         },
         {
           "rank": 5,
@@ -364,146 +364,146 @@
             {
               "title": "황정음 노브라 고백, 몰래 가슴 수술→부작용 시달려",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JUVlvenphVm8yOFRfQnBRVWpjZGVoMVlXdmZ3bG5oQVpWX0JrUzlseDdYY21IcFRQOUxVVWJRYk5VeUoxQXJKTG95WnNkQ3c3U0w3T3dpNFJBdEFkQ3M2NnB0TjBzT243M0F1b213?oc=5",
-              "source": "스포츠동아"
+              "source": "sports.donga.com"
             },
             {
-              "title": "다이어트한 스타들|후덕해진 황정음 \"여행하고 6kg 쪄…51.7kg 목표\" 다이어트 시작",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xVjJIdjJyZEtYS1JqTXRaWEtqeG4tbzBGalVKVFhtVEQtbEp0Z0ROb0R6QldoRUpWV0JrNE9Say0xcjVOZFpLR1l0U2F2ZmpBeS0yV3lVWkU?oc=5",
-              "source": "ZUM 뉴스"
+              "title": "`몰래 가슴 수술 고백` 황정음, 확 어려진 근황",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FakY5QzJMX0FaX0hTc1Q0NzE4VWRvMExsTkpDS0h6SmdmTTdxRks1VDFCcmI0V2FkcE8yWEE4YU5Ra2JQS1ZPZ1JacXh2elhtcDRVWm9NZjIxYnZWMTUxYg?oc=5",
+              "source": "mydaily.co.kr"
             },
             {
-              "title": "노브라 이어..황정음 \"가슴 수술 몰래 했다\" 충격 고백 2연타[스타이슈]",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FM212TERjRm9DVUl5TGxpXzZkWVhZX2hacWhNbnlyY18tcUpnd2F4RHc1QXZlZ0swYjhZcmVud2N5SkthMjV1emtyYzAwcEFNWDMtLUF2TldQcVgzY3JnVTJmUmRWUUhEd25zeHF4cDkxdm8?oc=5",
+              "title": "황정음, '노브라 논란' 신경쓰였나..상체 가리고 '메롱 셀카'",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKb1ZCS1NjU1VtTEsycTVYWGQtREZiYmJzdExZX1lqbFZUUW9DNkRGcFhQMzlfVzFZS0hWTGpIckRfejJNVW1sMFY5clQ2Wl9EWnpoUnp2UHdBUjJPWFN6bk55N3dlRHNLUEJuZkpJVTd5dUk?oc=5",
               "source": "starnewskorea.com"
             }
           ],
-          "description": "배우 황정음이 과거 몰래 가슴 수술을 받았다가 부작용에 시달렸다고 직접 고백해 충격을 주고 있다. 노브라 생활을 밝힌 데 이어 수술 사실까지 연달아 털어놓으며 '2연타 고백'으로 화제가 되는 상황이다. 한편 여행 후 6kg이 쪘다며 51.7kg을 목표로 다이어트를 시작했다고도 전해 건강 관리에 대한 솔직한 이야기도 함께 주목받고 있다. 오늘 처음 트렌드에 진입했다.",
-          "headline": "황정음, 몰래 가슴 수술·부작용 고백"
+          "description": "황정음이 과거 몰래 가슴 수술을 받았고 이후 부작용에 시달렸다고 직접 고백해 큰 화제를 모으고 있다. 노브라 논란이 불거진 상황에서 나온 솔직한 고백이라 더욱 주목받았으며, 이후 상체를 가리고 찍은 셀카를 올리며 논란을 유머로 넘기는 모습도 눈길을 끌었다. 고백 이후 확연히 달라진 근황 사진도 함께 조명받고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "황정음, 몰래 가슴 수술·부작용 직접 고백"
         }
       ]
     },
     "스포츠": {
-      "summary": "아시안게임에서 펜싱 오상욱 금메달·사격 추가은 금메달·안세영 단체전 첫 승 등 한국 선수단의 메달 획득이 이어졌다.",
+      "summary": "나고야 아시안게임에서 여서정 체조 도마 금메달, 사격 장국희·이종준 스키트 혼성 단체전 은메달 획득.",
       "keywords": [
         {
           "rank": 1,
-          "word": "아시안게임",
+          "word": "금메달",
           "count": 5,
           "articles": [
             {
-              "title": "91세 노인이 7kg 배낭 메고 훈련···아시안게임서 드러난 ‘초고령 일본’의 풍경",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDVmk0ZTJXQzl4dkJfanRpaHNQSGJXTm1GVXJEUlVpUlJQTlQzREhfX21TZ1ZMVFdjdWxiYVRyS3VzOE1pTlZraDlfbDZIWi0zMWQ3MDE3ZlJPUdIBX0FVX3lxTE1ORWpVNjVzdHVSb1ptbkY1ZzVnVG5aVlNXMFFQMUNYVk1KRXI3U1JKeDVOZnRPaUJaOE9lcDI0dnJhajMtdVR4enhLNGY4emoyOVN2NVdCTUt5eUQ1TEk0?oc=5",
-              "source": "경향신문"
+              "title": "여서정, 8년 만에 아시안게임 체조 도마 금메달",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42NUVmVVJNdWNWRUVNbFlBdURQaklJSTA4MFRZazNVQ3Zub3pLWW56YjF3UmFkSmVMRnRGTlFkVzVEN05iUnZMMUhGMC02TW56ZHBya0sxMFVmS2_SAWBBVV95cUxQaGdfMzlMVXFJQ1Q5dkU5Z2tVUVQxMVNHOTExVWhXa3NJWXlnWDZjTTVob3BDLWlNRWdiZmplaVFKVXM3N0NUQUVtajBwSXNmWS16UUJEd19qVEE2NndPUTk?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "추석 연휴에 금빛 낭보 울리나…강원 선수들, 아시안게임 메달 사냥",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtWjcyd0NvRGpHZllxT010T3pwODZVTUNKamx3ZTlsTHpta0tVcTNObnZGdEU5U0VqUjF4Zk4wMENyVFRhc3kxT2JYWEZjWjA?oc=5",
-              "source": "v.daum.net"
+              "title": "남자 카약 이어 여서정 ‘금금’",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YMEJ5QlRzVzRhYVkzNjBkSHBpVDFhdHZ3cXliZld2R3NmRFJxN2VaOXlXUS1mU2ZDMkNQS2FUcGtrVHhvMFBCMEtOSVlPcm80Y19ES3hKdzBwR0hHU3fSAWNBVV95cUxQQ05FS0I2ZnNDS1ZRUklTYWVXTHBiTTJrZmNITnBabVFuS3lmd3dtSmVDMWh6SHppNW9GZU93U1k3bTVhM1ZkR05xdkIzWFJoM0NTUnVUcEt4dV82SUNWQXN2UGc?oc=5",
+              "source": "채널A"
             },
             {
-              "title": "'비치발리볼 첫 승' 신지은 \"노출병 걸렸냐고\" 악플 토로 '재조명' - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12bEk3b2hBREtHUTl6SlZ2X2kzS01rNHdld0xzOHFPMWFwT3YwRWV3bUpaUEtwM2F6VzM2dmp3eElTU2pwYW0yOXhRVkpUTUhITWpIUDNuUXZ6MGV6b2FjQks0cFFtMGN40gFuQVVfeXFMTm1KbXduOXNTSGVCN2RCaWlhTFh1SHd1UFRBa3RkX2lPem9nQVJkREEtNG53ZjlvWDloR1NiN1pDdVJfa01xOUlBTkxvTzQwUVRpd09PUGV1c2JPWGsxajVpVGJrUExuNnF2U1NxM2c?oc=5",
-              "source": "머니투데이"
+              "title": "체조 여서정, 도마 금메달…8년 만에 AG 우승",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42UDV2WHZFY0RIVW15QzM3Ym4xTlI0NEtWSERaaG4yeXk1Y0VwQWhzT0pJRklBYy0tNUllLWluX2t4RHM5QXFXYWZxYlBEMHRDclFzV2NhTnV2ZTVCWWZ2WUowUDhtSTg?oc=5",
+              "source": "연합뉴스TV"
             }
           ],
-          "description": "추석 연휴를 맞아 아이치·나고야 아시안게임에서 한국 선수단의 메달 소식이 잇따르며 관심이 집중되고 있다. 사격·펜싱에서 금메달을 추가하며 종합 3위를 유지 중이고, 강원 출신 선수들의 메달 도전도 이어지고 있다. 한편 비치발리볼 신지은 선수가 악플 피해를 토로한 사연이 재조명되고, 91세 노인이 7kg 배낭을 메고 훈련하는 초고령 일본 선수단의 이색 풍경도 화제다. 어제 5위에서 오늘 1위로 급등했다.",
-          "headline": "아시안게임, 추석 연휴 메달 사냥 시동"
+          "description": "체조 여서정이 아이치-나고야 아시안게임 여자 도마에서 금메달을 획득하며 8년 만에 아시안게임 우승을 차지했다. 아버지 여홍철과 같은 종목에서 정상에 오른 것으로도 주목받고 있다. 같은 날 남자 카약 종목에서도 금메달이 나오며 한국은 하루에 두 개의 금메달을 추가했다.",
+          "headline": "여서정, 8년 만에 도마 금메달"
         },
         {
           "rank": 2,
-          "word": "아이치",
-          "count": 4,
+          "word": "은메달",
+          "count": 5,
           "articles": [
             {
-              "title": "사격·펜싱 금메달 추가…종합 3위 유지",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43YlM5eWdVcF9LaWtKS2FrUGl5cV80Qi16MXBMUmdwbENDRUFUY0NLdURjUGx0NlIzaWhNRnRXdzNEeUV5TThGRHJxRXplSVpQQldUQ1NvbETSAVhBVV95cUxON2JTOXlnVXBfS2lrSktha1BpeXFfNEItejFwTFJncGxDQ0VBVGNDS3VEY1BsdDZSM2loTUZ0V3czRHlFeU04RkRycUV6ZUlaUEJXVENTb2xE?oc=5",
-              "source": "아주경제"
+              "title": "사격 장국희·이종준, 스키트 혼성 단체전서 은메달",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZdndFbFZDZW1Sc25yWVpKekJwdngzT3UzZlQ4SWtIRmJaSFI3STVnMzdDZWlTbVhuSHoyeU44cHIwTmJOR29FVFVla2YzdlV6STFLTnRwcmZtTmNYVFd0VG1SaXhHLWlhbUdTSTI0c1VxRks3bVHSAXZBVV95cUxQM2JwdmpYdVJnV1VzQXBzNWR6V2dUSG9veU41eE1FMlN1NnFtNzROTS1DLW1YOGJnQ3JmU1haSV9ELWFwWkVtYm1XeU5EYnFoNk5NMGlYMEtRR2tfWmFwWXFsckJheV9oZnpOLWpNOEExcUphb2Jn?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "\"일본이 안세영의 대한민국 꺾었다, 그런데...\" 日 마냥 웃지 못한 이유 [아이치 나고야 AG]",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UM2NacEdWMlYyQ1J6blZiRUw0ODhpOFpaYUh3WDJRVzM0TEdtMXZKQ1RfQ3RIMGRQbXJndUN4QnZvMTNFLWZqSDVWbjEwamNHeEpYdnMyQ3l2cFBfMUprZWFZQ2xNV2J2X2V5NjlmZFdUb3dmSVE?oc=5",
-              "source": "starnewskorea.com"
+              "title": "사격 이종준-장국희, 아시안게임 스키트 혼성 단체전 은메달 획득",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lZS00MUxfQklCS0pzbklxNnV4X3BXZlEwRGV2cW0zZXFVQXJWakNaZENwdm9JMGhYNVJoMEdSakFPaVJZcjlaXzFSMjhwX3ds?oc=5",
+              "source": "문화일보"
             },
             {
-              "title": "'펜싱 챔피언' 오상욱, 2연속 금빛 찌르기…사격 추가은도 금메달[나고야AG]",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15ZGx2UFNmdVpSZW91LWIyZ0hIZlJ3aFNpOXRqT2c4VEVkUzRDckJqZ2k3R0FoY25rX05OSV96OHA1ZlFUU01fdUtldGFxVTY3WWEtQ3ExSWNYejk4NmRIWllBdHptQllvb1NMeER2QWg0NmdDbkxwbdIBeEFVX3lxTE15ZGx2UFNmdVpSZW91LWIyZ0hIZlJ3aFNpOXRqT2c4VEVkUzRDckJqZ2k3R0FoY25rX05OSV96OHA1ZlFUU01fdUtldGFxVTY3WWEtQ3ExSWNYejk4NmRIWllBdHptQllvb1NMeER2QWg0NmdDbkxwbQ?oc=5",
-              "source": "뉴시스"
+              "title": "동료도 감독도 부모님도 함께 응원한 사격 장국희의 은메달",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XQnlZc1hRcHdmMTVydHFnNTZpY1p3cUsyRU50Qmt0QnRVRkM0MG1yWF90MzZpWjcwM3hZTEFlZVhBSVhDbTdWODFoUS1SUkNGZk5vbEdn?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "아이치·나고야 아시안게임에서 펜싱 오상욱이 남자 사브르 개인전 2연패를 달성하고, 사격 추가은이 금메달을 추가하며 한국이 종합 3위를 유지했다. 배드민턴에서는 안세영이 일본의 야마구치를 2-1로 꺾었지만, 일본은 단체전에서 대한민국을 누르고도 마냥 기뻐하지 못한 사정이 있는 것으로 전해졌다. 사격·펜싱의 금빛 소식이 연휴 기간 팬들의 응원 열기를 끌어올리고 있다.",
-          "headline": "오상욱·추가은, 아이치AG서 금빛 낭보"
+          "description": "사격 장국희·이종준 조가 아시안게임 스키트 혼성 단체전에서 은메달을 획득했다. 두 선수의 호흡이 돋보인 경기로, 동료와 감독, 부모님까지 현장에서 응원하며 화제를 모았다. 오늘 처음 등장한 키워드다.",
+          "headline": "사격 장국희·이종준, 스키트 혼성 단체 은메달"
         },
         {
           "rank": 3,
+          "word": "나고야",
+          "count": 4,
+          "articles": [
+            {
+              "title": "체조 여서정, 8년 만의 '금빛 착지'…여자 도마 금메달[나고야AG]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wUGFXMGl1V0NPR0UzclgyaVhwaS1zS3VkLVpQbERvS21TVWNDNVR6N3NvTE9hTVJFU2VlMl9hclhXX2RocjhBdUlkZWhWVFFtV1dvblAwM0ZySVY3emtNY9IBeEFVX3lxTE1saUJ6cEJVNllfTVQzc3FpSWRwUkM2RFFJNVlIRXkyRWl0LWpVNGVucm1SWExqYlM2bHRxSEprdERYU29YZnJvSi1WRTY2V05zV21FNURPZmpoOW9sSEFqSThNTW5sSGdYOHlYb2JWbmMtZnhiYU9wYQ?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "오랜 라이벌 여서정·안창옥, 나란히 시상대에",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmSkJtWjd0WU1HYTZQa051VDFud3JDT2pROVh2UVp1SEotei1tSUFaVnJISDFlQXlHZFAtTnFRUU84RkY4TFdNN2JQSzRLQzQ?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "아시안게임 기계체조: 여서정 포함 한국 대표팀 경기 결과·메달 모아보기 [아이치-나고야 2026]",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV2JEWUlmYTJ2QUdLdi1KZFlxTU9JV1l1dnI5YTJXSDJyZmJhUXMxRzE3TUJPZjBEd1EzYnVCSnUzNkFDRlByZ1VfLUNQVzJuS0gyY2lpYVVxREpMZ1Z6M2VzWFgxU1NMRFNrZHctVGp5LVVSLWVwTElMVmZkem5sYzMwYnBWZ1k3Mzh2YUFEZWFvdTlJaFFuS0lfNA?oc=5",
+              "source": "olympics.com"
+            }
+          ],
+          "description": "아이치-나고야 아시안게임에서 여서정이 여자 도마 금메달을 차지하며 한국 체조의 하이라이트를 장식했다. 오랜 라이벌 안창옥과 나란히 시상대에 오르는 장면도 눈길을 끌었다. 한국 체조 대표팀의 전체 경기 결과와 메달 소식이 함께 주목받고 있다.",
+          "headline": "나고야 AG, 여서정 금메달로 한국 체조 빛났다"
+        },
+        {
+          "rank": 4,
           "word": "단체전",
           "count": 3,
           "articles": [
             {
-              "title": "여자 사격 10m 공기권총 단체전 은메달‥추가은 본선 1위",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYM1Z0X0lYVXZib2J0SV9aNjhvV09pLTk5ZXdESGUyeXg3TU5rVk5QUVdJUFBTV3Y4VmVURE9JVW1qSGFVU1k5WlB2NkRqREJQWVlQSWhDa2dGQ01HUHk3MXZWMUhsQzhMd05sWEYwaTE4U3pHSFHSAXZBVV95cUxNdU9KOGRhVXVBS1FhcXJDTndWNjJabU5JQjNfVGFtVDJZbm12VnA3UmEyN2JnSXFTaWdKQ0tkeGxXeFRxOTBDU3pHY1F2dkRhMmNjR0I5Q1JsQ19hN1NNVko5cVJ6MWI4WEZhTW5TUWtwZUZEVXdn?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "안세영, 일본 야마구치 2-1 제압…단체전 2연패 향한 첫 승 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jRUotYzlJX251RXhscUhobmR3ZldncWhVWjRtcXgzWmp5UE10d1NLOURCYVMtS2lXRjZ4V2JyMHBJVnBWaVA1VWJDYUJSY2tnaVhoOWc3S0hEQUJVaV9JSHJKNTVqVHlhbnfSAW9BVV95cUxNV0pBMzJOMmZHQWIyTnhGcGFzSkF3ODJGVlpqOW11SVRSREJza0dqaXFNVzRTbVdTbEwtSUo5eHh2M3VDTE5ZV2RDTUd2VTZIVV95RU51TzUyREJub0xfXzkzM1BfNE0zNllYQmNWVjA?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "표정 굳은 안세영, 가장 먼저 떠났다... 간절했기에 더 아쉬웠던 단체전 우승 실패 [이치노미야 현장]",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFN3Y4RE5la25jSWNnQjZjdVl5YmJlZkxzOXpBeVNvcGNJaXRKWGpEdTVTNlNlMW1YbjZGeW5LelFlNkRpalE?oc=5",
-              "source": "v.daum.net"
-            }
-          ],
-          "description": "배드민턴 안세영이 아시안게임 단체전에서 일본 야마구치를 2-1로 제압하며 2연패를 향한 첫 승을 거뒀지만, 팀은 단체전 우승에는 실패해 아쉬움을 남겼다. 사격에서는 여자 10m 공기권총 단체전에서 추가은이 본선 1위를 기록하며 은메달을 획득했다. 오늘 처음 트렌드에 등장한 키워드로, 각 종목 단체전 결과가 동시에 쏟아지면서 주목을 받고 있다.",
-          "headline": "안세영, 단체전 2연패 향해 첫 승 출발"
-        },
-        {
-          "rank": 4,
-          "word": "펜싱",
-          "count": 2,
-          "articles": [
-            {
-              "title": "펜싱 오상욱 ‘금빛 찌르기’…남자 사브르 개인전 2연패",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RVHhqRk5KSGZtWmNMS05lR3dKMDU4R1B3X3FyTjBwLVRQZ2c3RzhUTEZ5UDBldWc0cE1tNGZVREZycXVjOVVfMW9kVDVDNnlxNUc2bW13cEl4UUlXZVVhUUUwVkZSaUNSLWxsdGdwMGNhc2NR0gFmQVVfeXFMTTIzWXBPMGN3MnljQTloX3o0c0VvNEF5ZTNkYzJsRVhudm5VQ2pEeW1nMmZvUFEyZGZLWUQzSW5jWlF6Tk10QnpnTTdPcE5LYm1oVEg2ZmJlNEVINGp1eERoZl9la2h3?oc=5",
-              "source": "동아일보"
-            },
-            {
-              "title": "총·칼로 '金金'…사격 추가은·펜싱 오상욱 금메달 추가(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwUTJscXNaSkNSWXNrT1lUdnFnMXJaSVlMc0FuMGptdzhOMEwzc3QtNXI4VjBmVjNielRqRVJNN2dpXzk3UjNnQ2dMd3M2eWFnYXo1MVZqaEJTaUnSAWBBVV95cUxPVHc2ZHd1N1pKbUU2M2hlclNDM2NZVnZiTENad2w3cGJMUmZyU1cyMW5CcWJhUmhLOG5LSTF4OS1BN1BMZXVNWlpBRnNjSXJfNy15NFJTdjF3dE1XZTdQcWY?oc=5",
+              "title": "12년 만의 스키트 단체전 메달…장국희·이종준 '만점 호흡'",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81c0NnVzlBemg3bHJtN3k2aVlaOFhNdWhXamhqcTZBNGVNQ3lCS01oNXJxZkRORDg2aUNrb1o1MDUtdVlTLW91TTZBbGtQbjJ3ZDEwOGczekJpZUhoUjdsWdIBYEFVX3lxTE81c0NnVzlBemg3bHJtN3k2aVlaOFhNdWhXamhqcTZBNGVNQ3lCS01oNXJxZkRORDg2aUNrb1o1MDUtdVlTLW91TTZBbGtQbjJ3ZDEwOGczekJpZUhoUjdsWQ?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "펜싱 오상욱 짜릿한 역전극…2회 연속 금메달",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLdUpCWC03aTlIWm9NTVVYYUNZc2Z2cUZlNjN2WVRRS3Bxam5EUEJPNEo2aHkyX1ZHTll0ZXE3dDVzWmdGR1J3b1J6QmZwWEE?oc=5",
-              "source": "v.daum.net"
+              "title": "사격 장국희·이종준, 스키트 혼성 단체전 은메달",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GTFhBQUQ0VFdnNVZpT3Zfd083ZTdzdjBiVmdnVmlfMTZKa2o5dWJXcEJGQTF6Szd3LUp2YnQ4Z2lpMUpzRjlZMlM5cEoxYUhoamYxWTdiLWFXVTA1SVB2TWdEUERyVjA?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "사격 장국희-이종준, 스키트 혼성 단체전 '은메달'",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGNU1aQjlHX1hwZ21fcWRfcWlkVXpNSGRVSTNhOXR2OVc4eUlsZFhxWTFjcVFFd3NyMHZEdlFzNWh5U2pJN0IwdnM0NGw2ZTEzX09QN3ZZX2phYXd4WFl3RFFoUXpTcXQ2ZWc?oc=5",
+              "source": "hidomin.com"
             }
           ],
-          "description": "펜싱 오상욱이 아이치·나고야 아시안게임 남자 사브르 개인전에서 짜릿한 역전극을 펼치며 금메달을 차지, 2회 연속 정상에 올랐다. 사격 추가은의 금메달과 함께 같은 날 '총·칼로 金金'이라는 낭보가 전해지며 한국 선수단의 사기를 크게 끌어올렸다. 파리올림픽 챔피언에 이어 아시안게임까지 제패하며 오상욱은 명실상부 세계 최정상 사브르 선수임을 다시 한번 증명했다.",
-          "headline": "오상욱, 남자 사브르 2연패 달성"
+          "description": "사격 장국희·이종준이 아시안게임 스키트 혼성 단체전에서 은메달을 따내며 한국이 해당 종목에서 12년 만에 메달을 획득했다. 두 선수의 '만점 호흡'이 돋보였다는 평가를 받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "스키트 혼성 단체전, 12년 만에 메달 획득"
         },
         {
           "rank": 5,
-          "word": "자유",
-          "count": 2,
+          "word": "아시안게임",
+          "count": 3,
           "articles": [
             {
-              "title": "‘은’ 황선우 “도리도리 같은 실수 반복…다음 목표는 LA올림픽”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DNGxCbGViYWhuSU8wNjAwN2w3RENCSENBN05NQlFuMmY3c1R4NUV0MDhIRHA2NmYyZlhlVnV3QjdJLXNESFB3TEk3My1Dd3c?oc=5",
+              "title": "조엘진, 육상 100ｍ 전체 5위로 예선 통과…비웨사는 6위(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBraGRUd1pJOWwxbGRZSXR1d1A4eGJlaXI4UmZXM1p1S3Zld3U0bUM5Z3M5X29va01jbS13THhIVzlJTXJmbWxjc2MtRTkxUmc?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "K-어벤져스,'혼계영400m' 中 日에 이어 동메달, 2연속 메달! 초신성 김영범 '금1 은1 동1'[아이치-나고야아시안게임]",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1FlanJWaUtUbWxGODdmMFl1eFd3S2IzV2ttU3Zza0t3emgzLUVWWVFtcUdZdEE1UjFKeG5HcmVMNk5hUS1vT0RfTnlMeGw3aktrZ0NmdzFlT0sxOUJ1NHdnLWYtcnAwbHpEMWZfenh2UEtYTjNVbUE0d0J3NUhlT0N5ZFg5X1g4c1I0?oc=5",
-              "source": "조선일보"
+              "title": "조엘진·비웨사 아시안게임 100m 준결선 진출",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iQVdFVmxTbDZ3dktNc3dlei1DcXhlUjhTOFo5MGh3SGdNZDMyczd5aFk0V0x3WTJNNGZQSFdBdTFLSUhGYjZ2WEtsOWF1Snc?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "200m 대회 신기록, 메달 5개…황선우의 다음은 ‘올림픽’",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzY2picEhIblNqQlpwMFVZQ0NCYVVFd0w3MG5iYXM4QU9PWkZUV0pqQ3N6WWU5TnBZWElBRkhjV3hYRFcyMHZ4RXc0TUUxa2xBNmIwNEU0bEI3bU1fVTNuLXhpNnhJMFVmb2c?oc=5",
-              "source": "한겨레"
+              "title": "여서정, 8년 만에 도마 금메달…아빠 여홍철과 어깨 나란히(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yV19aZWt0U29fZGdEa1Fwb1NmTV95dHJ3Vm92dmJsb05rYlg5OW9MY0V5ZUNORnBydVRoQlZDQXRoQzZSWFE?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "황선우가 아이치·나고야 아시안게임 자유형 200m에서 대회 신기록을 세우고 은메달을 포함해 이번 대회에서만 메달 5개를 쓸어 담았다. 혼계영 400m에서도 한국이 동메달을 획득해 2연속 메달을 이어갔으며, 김영범은 이번 대회에서 금1·은1·동1의 성과를 올렸다. 황선우는 경기 후 '도리도리 같은 실수를 반복했다'고 아쉬움을 전하면서도 다음 목표로 LA올림픽을 지목해 팬들의 기대를 모으고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "황선우, 200m 대회 신기록·메달 5개 수확"
+          "description": "아이치-나고야 아시안게임에서 여서정이 체조 도마 금메달을 따내며 8년 만에 아버지 여홍철과 어깨를 나란히 하는 성과를 거뒀다. 육상에서는 조엘진이 100m 예선 전체 5위, 비웨사가 6위로 나란히 준결선에 진출하며 스프린트 종목에서도 한국의 활약이 이어지고 있다.",
+          "headline": "여서정 금메달·조엘진 준결선 진출"
         }
       ]
     }
