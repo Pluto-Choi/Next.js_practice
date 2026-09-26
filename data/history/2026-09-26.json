@@ -1,509 +1,509 @@
 {
   "date": "2026-09-26",
-  "updated_at": "2026-09-26 08:54",
+  "updated_at": "2026-09-26 22:19",
   "briefing": {
-    "text": "추석 연휴 셋째 날, 전남 해안에 최대 80㎜ 비가 예보된 가운데 귀성·귀경길 날씨 우려가 커지고 있다.\n\n미국 국채 금리가 5%대에 진입하며 '뉴 노멀' 논의가 확산되고 있다. 30년물이 6%까지 오를 수 있다는 전망까지 나온 상황에서 한국은행은 국채 토큰화를 위한 '자산토큰화반'을 신설했고, 일본도 금리 향방과 무관하게 엔캐리 트레이드 청산 압박에 직면해 주요국 채권시장이 동시다발적으로 흔들리고 있다.\n\n국제 외교 무대에서는 트럼프가 \"엄청난 일이 벌어질 것\"이라는 의미심장한 발언을 내놓은 가운데, 이란이 호르무즈 해협 재개방을 위한 '7일 로드맵'을 제시하며 결정권이 트럼프에 달려 있다고 밝혔다. 교황 레오 14세도 파리 노트르담 대성당 방문 자리에서 트럼프를 에둘러 비판한 것으로 전해졌다.\n\n스포츠에서는 이영준의 멀티골로 한국 축구가 베트남을 4-0으로 완파해 준결승에 진출했고, 오상욱이 나고야 아시안게임 펜싱 남자 사브르 개인전 2연패를 달성했다. 탁구 혼합복식의 임종훈·신유빈 조도 대만을 3-2로 꺾고 4강에 오르며 동메달을 확보했다.",
-    "period": "아침",
-    "generated_at": "2026-09-26 08:54"
+    "text": "조희대 대법원장의 대법관 재제청 거부가 사법부 독립성 논란으로 번지며 여야 공방이 정국을 흔들고 있다.\n\n민주당은 \"외부세력과 결탁해 사법부를 무너뜨리고 있다\"고 강하게 비판했고, 국민의힘은 \"사법부 겁박을 중단하라\"며 맞섰다. 안철수 의원은 이재명 대통령이 사법부 불개입을 선언하기 전까지 대법관 제청을 중단해야 한다고 주장해 논란을 더욱 복잡하게 만들었다.\n\n오늘 부산역에서는 무궁화호 열차가 궤도를 이탈하는 사고가 발생했으나 인명피해는 없는 것으로 전해졌다. 경제 면에서는 일본 금리 딜레마로 최대 2조 달러 규모의 엔캐리 청산 우려가 커지는 가운데, 이재명 대통령이 한·멕시코 비즈니스 포럼에서 양국 무역협정 조기 재개를 촉구했다.\n\n나고야 아시안게임에서 한국 펜싱 남자 사브르가 오상욱의 막판 역전극으로 단체전 4연패를 달성했고, 오상욱은 개인·단체 2관왕에 올랐다. 야구에서는 윤동희의 홈런과 투수진 호투로 한국이 위기를 벗어났다.\n\n영화계에서는 엄태웅 복귀작 '암살자(들)'가 개봉 나흘 만에 100만 관객을 돌파했고, '타짜4'는 청소년관람불가 오프닝 기록을 525일 만에 경신했다. 추석 연휴 사흘간 '부캉이'를 찾은 방문객은 32만 명에 달하며 올 추석 최대 화제 명소로 자리매김했다.",
+    "period": "저녁",
+    "generated_at": "2026-09-26 22:19"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "추석 연휴 전남해안 최대 80㎜ 비 예보 · 미 국채 금리 5%대 '뉴노멀' · 트럼프-시진핑 추가 회담 예고",
+      "summary": "조희대 대법원장 재제청 거부로 여야 충돌·한국 여자농구 아시안게임 12년 만에 금메달.",
       "keywords": [
         {
           "rank": 1,
-          "word": "추석",
+          "word": "비즈",
           "count": 3,
           "articles": [
             {
-              "title": "추석 연휴 토요일 비 소식…전남해안 최대 80㎜",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTkRYSm93ZjlCWDY3dHRXTDRLTjIzck1kNzJlVlN5emhTUkM3SE5mOGNSeXVua1hWXy05UFBtOFI0SUVZWFFza01jSW96ZHRjZzBUTDViN0lvQVHSAWBBVV95cUxQUmxrdkZvRlo0VjdIWm5zM1NTRW95cFpibW9wN1l0U0g3SmlQQV81SUZRUGtkVThUMlFDU2ZoU0F3U1VjbHNRNUdDV2ZZajhrOTJkMC1xVWwxeHlkdWUzRmg?oc=5",
-              "source": "연합뉴스"
+              "title": "윤아,'밀라노 다녀 왔어요' - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFEwbEJVYTlWcDZ3U0laVHZZYWJaV05qTndFZ2FsbXRZUmpMN0ZoT09UeGdwUGFtUzVueEZ5NGRyTE1pU3M2cjVkQW9zSGdqVXBqS2c4dTh6NWZrNlgxTkpqMFdnbUlQS2l5UGE2SkZmRUxhOWdpRFFtei1aOHpTLU4xdXo5TWJjT25RMDFmeUtGTmExSUZBQ1VHONIBrwFBVV95cUxNZFdPVmtCTzMyS3MtRVdraHplVWQzWm9HdFJ6cnFidlFJWWhuR3l2LTFMMzVnMV9CVFNOQWV0cFpvWDZWTHpxTEJLWUhTMzlIRnRrMjhsRjVRUC1WaW5xMmsyalRFckpiZmFKMU1FYlJsUm5ENm40OXpjWWpVc2h0ZHNhOTltSE9MaVFManVpNFVvQ1hkMmsyOWEteDRZQTRjQ20zbHVEU1lnd2w0V2xv?oc=5",
+              "source": "biz.chosun.com"
             },
             {
-              "title": "추석 연휴 셋째 날 전국 곳곳 비...전남해안 최대 80mm 비",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OWVZGSXBXUktrb2ZndUk5YTVXMEtkU0dNWk5mZi1WYnYyc2k2ZzdaeTNfU1BFR1pDQzJWWFVtbURuUGgwYUxVMEFGTDJkNndPX2JBQVlUUUdWUDE0Smh6aQ?oc=5",
-              "source": "KBC광주방송"
+              "title": "투모로우바이투게더, 美 '징글볼 투어' 첫 출격한다 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjhxd295aHhsbFNMOTdKdHdWVUZtek5sbXJHNzVWS3pVZ0laWmt4cVRUZ01hQUNmeV9heHhYaUpnSEhaMmxEV1BvZ0hQUFpWV3JPTEd6MjVlTjJxR1BrLTBUbU5SajFHdG15dlltV0VfTFZydTRraFZ2a2doMlUzVnhlUURpU19BeklCZk9WZGQwM0NHcng2M2JpSjVIR3lNNTN2VTBCb9IBpwFBVV95cUxQbjhxd295aHhsbFNMOTdKdHdWVUZtek5sbXJHNzVWS3pVZ0laWmt4cVRUZ01hQUNmeV9heHhYaUpnSEhaMmxEV1BvZ0hQUFpWV3JPTEd6MjVlTjJxR1BrLTBUbU5SajFHdG15dlltV0VfTFZydTRraFZ2a2doMlUzVnhlUURpU19BeklCZk9WZGQwM0NHcng2M2JpSjVIR3lNNTN2VTBCbw?oc=5",
+              "source": "biz.chosun.com"
             },
             {
-              "title": "추석 연휴 셋째 날, 전남 해안 최대 80㎜ 비…음식 먹은 뒤 갑작스러운 속쓰림 증상, '이 질환' 신호 [오늘 날씨]",
-              "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWHFCSlItdDdERUM2QU5VOUVuby1DR0ZCTE9JMmlsVnVuc1FNem1vYmR3WnBuNldaNkdqUS1oWENKRVkzM1MwZXZlVGdzZjZLa2hidzdKSkJJclhLeHpSc0NGVEdvbnNLZXlTRkk4OGxZcnU3anhnaHNHMmhfVk90ZEkyb3ZyU1ZxN1lUWEpnRnZfMHB1d0RkTXBvMENCcnJEWG5lZWtQR1RLR3YyQlVRcmRncjdyOEYyNTRtb3VDbDBNQXFFcVJteXlBeGNBZ1NkSllBM0tzMVg1bHRlUnF2eWRTZEEzUl9yaEhYM0EyeWs5MVZpREpZMlFHeWtvNjJ1MEE?oc=5",
-              "source": "데일리안"
+              "title": "부산역서 무궁화호 궤도 이탈… 인명피해 없어 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnJuM1k4b1RmT2xYMmFEdl9qTnpUWGhCbWRpdjR4VnNZbjFFbUwtc0tZWGUzVmtEaGJfci1TQXFLSzJvQ1d3X0hfd3ZQRFRDZnRGMXVBbmRZN1NOSnNMWmtpWjdtcms2MmRrLTJXZ09qVy0tMzRUNThWcFNaaUQ5dVpVeGNXMHo2S2fSAZ4BQVVfeXFMTXFWcXd0OTkwQWVpczJpbDh2Q1VSVzNFcENORmxIODlxdnotRE1OVUpSZDlFVmxVRDFMQmJZS2NtMHFpN3BuU05YVDYydEtoZmxPM3pXdkRQZEdJREVzOVZHOGtTVXpxVHN5a28wVGFIRm12OE4wbmphSzRLSG11c3UzQjQwTEtUcXAzRVlfc3VMUTVlcHc1SEFMUldaNlE?oc=5",
+              "source": "biz.chosun.com"
             }
           ],
-          "description": "추석 연휴 셋째 날인 오늘 전국 곳곳에 비가 내리고 있으며, 특히 전남 해안 지역에는 최대 80㎜의 강한 비가 예보됐다. 연휴 내내 비 소식이 이어지면서 귀성·귀경길 날씨에 대한 관심이 높아지고 있다. 연휴 중 과식 후 속쓰림 등 건강 관련 정보도 함께 주목받고 있다.",
-          "headline": "추석 연휴 셋째 날, 전남 해안 최대 80㎜ 비"
+          "description": "오늘 부산역에서 무궁화호 열차가 궤도를 이탈하는 사고가 발생했다. 다행히 인명피해는 없는 것으로 전해졌다. 한편 윤아의 밀라노 방문 소식과 투모로우바이투게더의 미국 징글볼 투어 참가 소식도 함께 화제를 모으고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "부산역 무궁화호 궤도 이탈"
         },
         {
           "rank": 2,
-          "word": "금리",
-          "count": 3,
+          "word": "거부",
+          "count": 2,
           "articles": [
             {
-              "title": "美 국채 금리 5%대 시대…\"시장 근본적 변화, 뉴 노멀로\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sb3p3eW5zR3FYOGFJdFBDbGMweWZvd2hyaG00WlpfZVZlcGxxYk5Fc1dCTThPbmJCUXpSVk5Kd3lVZmUxbENYeGJZdllKeWF3NEhiZzJhY0d6NnPSAWBBVV95cUxONXBrNlNoWWhvbFdKZlQ4UG44THpmOXo5OVZEVHpwYy15U1BKblEzNndkNTEwYWJ4cEJWYnUydm9FYkxVSFkwUTJyZHVBQ1BfdGM0LWx4NjB6RTVtXzNjZUE?oc=5",
-              "source": "연합뉴스"
+              "title": "민주, ‘재제청 거부’ 조희대에 “尹 이어 사법부 무너뜨려…외부세력 결탁”",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yenFERDZkUG55N1F2NjJYMnJoSk5vM3BDVjZlU1RHVnpNTkRseWJmbURpV2xBQ1JRUDB5Szg4VU1NUWhac0lOWmRMbllUZ3hW?oc=5",
+              "source": "문화일보"
             },
             {
-              "title": "2.3조달러 '엔캐리'의 덫…日, 금리 올려도 못 올려도 딜레마",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GSUZacWVhSzFxVUZsSU5QX0JJSmttNHJhUWFFODBfTHFmZWpkMGg0TWJqenpuWUVyWk50dU1aTUJuRG5pN1pUX1JyWjRrSlVXZHNFTk9RbDFzTjY2T1BaZTFneUROVWfSAWxBVV95cUxQa1BWNnNlRVlBYjlUaWtzdzZYQU9ONGpXVnVjdDhkT2psYktwY3NnVGl0MHNrZGJSX1dZYld2cG1pMzA5bVNKd2JQb0xJTURSdWNWRHlYakk4NHJfMTNBREJjMjBQeVVUYkd4MTE?oc=5",
-              "source": "뉴스1"
+              "title": "조희대 ‘재제청 거부’ 파장…민주 “사법부 망가뜨려” 국힘 “겁박 중단”",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpRXlHeW81QWtkRkRLYm03ZU52bTR3UEhHck1zYkktN3RzZ2hPSUlGZER1bklGWkcxd01HYzhfUjVhcW5DTTkxTDluSjFMMmlXMEF0NUtpNnpIelk0T0Y3VHJ3YTF0a2cxZlQycldIV1NjY2Rj?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "FOMC 이후 내려오는 美장기금리…'금리 인상=리츠 악재' 공식 바뀌나",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4OVJsakFlNDU4ZjBCUm9PZWhPYW1NajN5YThoSGY2VkNpWUlCQUtPU0hLQ1RrbXRvcVg5U3BnRjNOQWpZZ3A4QjRJclpiekRHQTVBN3g1bXB4MEtDYkdvMGxhUGd3V0RSM3FvcHRRRGw?oc=5",
-              "source": "연합인포맥스"
+              "title": "조희대 대법원장 `재제청 거부` 여진…여야 공방 계속",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjV3XzlIVGVTQ3NreVk2WTl3QXhvQ19KTDNDTktLY2JoMXJrU1V0ejdlM3c5dnUyUUpqQVRqOHlyN185SHJKaEZQdTJaU2s4TDFlOHZpOU9BS0JvdXNXMndVZVAxWEprYmotN0lSa2pXZWppX1c0VTZrNHdPeEMtS0VxZVpVNmJSc19ObUZ3?oc=5",
+              "source": "국제신문"
             }
           ],
-          "description": "미국 국채 금리가 5%대에 진입하면서 시장의 근본적 변화를 뜻하는 '뉴 노멀'이라는 분석이 나오고 있다. FOMC 이후 장기금리가 다소 내려오는 흐름 속에서 '금리 인상=리츠 악재'라는 기존 공식이 바뀔지 주목된다. 한편 일본은 금리를 올려도 못 올려도 엔캐리 트레이드 청산 리스크에 직면해 있다는 분석도 제기됐다.",
-          "headline": "美 국채 금리 5%대 돌파, '뉴 노멀' 논의"
+          "description": "조희대 대법원장이 대법관 재제청을 거부하면서 여야 간 공방이 거세지고 있다. 민주당은 \"윤 전 대통령에 이어 사법부를 무너뜨리고 있으며 외부세력과 결탁한 것\"이라고 강하게 비판했고, 국민의힘은 \"사법부 겁박을 중단하라\"며 맞섰다. 사법부 독립성을 둘러싼 논란이 확산되며 오늘 처음 주목받은 키워드다.",
+          "headline": "조희대, 대법관 재제청 거부 파장"
         },
         {
           "rank": 3,
-          "word": "트럼프",
+          "word": "중단",
           "count": 2,
           "articles": [
             {
-              "title": "시진핑, 귀국길 올라...트럼프 \"엄청난 일 벌어질 것\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DX0V2aGhoalNZVXR2M1RKRVFLV2syem5rWmU4bzZxUmgwUkV1QVRmbXVvZlhzY0FydTR2cGVyMjlibGFTeWdLbVBpdk41VFM5dTJOWHFhVUQxT3R1cGc?oc=5",
-              "source": "YTN"
+              "title": "조희대 ‘재제청 거부’에... 與 “외부세력 결탁” 野 “겁박 중단하라”",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcDZCbmpCdjJiaG1pZ0hjQXhTcHg1SXExbFpmc3cwQ0hHMC1PQ1plNU10cTkzeWV6bzc4ZmVySUFlT1ItSjVOSXVtR3lEZ0liSW1IVGU1bmFtaUFPclZ1NkE5NWtuRDh6NDVjUTZfZ0ZSNmRPVzVUcVIyejJIUko2d2hXaUtCLUVhSmlMWDhfUGk?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "파리 노트르담 찾은 레오 14세…곳곳에서 트럼프 에둘러 비판?",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15amtzR0FJazdPcVR6TEN2ck80c05SU1p0ZGNiQVFFbVVqclN2MXp1QV84OUdlaDZzdXdXQVhRc0hpTVQxRE1mcVNFd25EclFJS2ZadUVpLWtZTms?oc=5",
-              "source": "KBS 뉴스"
+              "title": "與 \"조희대, 법복 입고 정치질\"…野 \"사법부 겁박 즉각 중단하라\"",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ycTdNWktzUk5SZlM0Y1BEVVVrb0t6c2YzMU1xZmx6dHAtT0Z2NlA4dTROSGtHR193SVduU1lULTBkckJ2aEY5ZkdfaVBHbEpWNkxLLUdHeUFsX281ZEhtQzBoQ1M?oc=5",
+              "source": "매일일보"
             },
             {
-              "title": "이란 호르무즈 재개방 ‘7일 로드맵’ 전격 제시… “트럼프에 달려”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JVV9qcEgxZlpvUHlKWkhRT2thQ1lnSVV0aUxCeWpwQW56aEI1NjZobUdOeGJZNU1HcW1yRWlBckFvVk5oUHprTXFlZGRnYXc?oc=5",
-              "source": "v.daum.net"
+              "title": "안철수 \"조희대, 李대통령 불개입 선언 전까지 대법관 제청 중단해야\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HcUxLS1B4NEYtcFN5ZFpyQ2IwRWlBeUxGaExpOHB2bEVuUVk1dXJwVGpJN0piOTRNZlU3MV9CZ09aYWI4MnJHaDRtaUp5Tk1JYWcySlNGaEtNSHJYa01rUmcyQmZ4bWRsenQzZtIBckFVX3lxTE9Pc0w4bWExelZSUXFVbFZ3TkJManl5UmozSTFkbTF6VlFNNm5QTnoydjZMRjdOWDE4MnpqSFpmQ09yX0FFUFQ4Uk5STnlMdWlpWGdGbE5VVmlZUFl6S2liX09EX3NFUGoxVHFBem5laGV4Zw?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "시진핑 중국 국가주석이 귀국길에 오른 가운데, 트럼프 대통령이 \"엄청난 일이 벌어질 것\"이라며 의미심장한 발언을 내놓아 주목받고 있다. 한편 이란은 호르무즈 해협 재개방을 위한 '7일 로드맵'을 전격 제시하며 결정권이 트럼프에 달려 있다고 밝혔다. 교황 레오 14세가 파리 노트르담 대성당을 방문한 자리에서도 트럼프를 에둘러 비판하는 발언이 나왔다는 보도가 이어지며, 트럼프가 국제 외교·종교 무대 전반에서 핵심 변수로 떠올랐다.",
-          "headline": "트럼프 \"엄청난 일 벌어질 것\" 예고"
+          "description": "조희대 대법원장의 대법관 재제청 거부를 놓고 여야의 '중단' 요구가 엇갈렸다. 민주당은 사법부 겁박을 즉각 중단하라고 촉구한 반면, 국민의힘은 조희대 대법원장을 향해 정치적 행보를 지적했다. 안철수 의원은 이재명 대통령이 사법부 불개입을 선언하기 전까지 대법관 제청을 중단해야 한다고 주장해 논의가 더욱 복잡해지는 양상이다. 오늘 처음 등장한 키워드다.",
+          "headline": "여야, 대법관 제청 중단 공방"
         },
         {
           "rank": 4,
-          "word": "멕시코",
+          "word": "여자",
           "count": 2,
           "articles": [
             {
-              "title": "이 대통령 \"멕시코와 모든 방면에서 협력 지속\"‥연임 가능성 재차 일축",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ONko0RUxZMjlXRl9xdDdkNG5pWWV2Z093b3plWW1oNWZPQmNzZkdWbnFhbWdFMTdOb3F6X2NTd3VqZWxYWnZDSjJ1TlhTdmNoZ3RjWUJUQlFiaXVPZl96Y0dLRXhvNW1obzRoZVpXSUtMM1dIUk1DZNIBeEFVX3lxTE1DdjVLR2hPSElYeER0SE54V2M2QUhEd2RGUGFhWkpRNU1jRnl5UEJIVmJuQUxYbElrRXp6ellrcFg4Y19FbGpzNXlMbjVZWVZKZy1fUmJJVG0zVFNJT1VpTkZPQVMzb3llN2lpMDVsVkhIb3NiMkxUYw?oc=5",
-              "source": "MBC 뉴스"
+              "title": "아시안게임 여자 농구: 한국, 일본 물리치고 금메달 획득 [아이치-나고야 2026]",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekJaYlNMcFNqSl9hTnVwdU8ySFRnZC1CcHBISHRNSlRiaTdYQlF6bmRoTGxuRUk4N0tRUjRCaVdoeW0zMXNYTDFac0c1Z2ptYUI5MXU3Uzlpd0ZHMzlyVFBpM2VRLXZqbFI1TWM2SEg1T1BScURZb3VhOHVEeV9ndFdGam5pZHBqOU5BUWd3?oc=5",
+              "source": "olympics.com"
             },
             {
-              "title": "한-멕시코 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jTE1Ya2wyd1BRU1B0VVpHbGZYblRrUVJ5SEd2Q3pmdFVjR1d2MGRWc2RaZ2YxZ2FZcXB1cHlnU1NwM0FCdnlTTFF4Y1dHTGV0dkFpVWh5N0dhdFJGNG4tMDkyT3EwSGdLZUlYTkRn?oc=5",
-              "source": "정책브리핑"
+              "title": "여자농구, 일본 꺾고 12년만의 AG 金...남녀 동반 우승 쾌거",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fcXY2ellYazdxdGJmRGVSblQzaTdGbm1SWmc1U0FaLU5aN3NUTWlkQmtGY2hHeGJ2dE5DSUs1SVNkUHZXU3FERWNFT19LLTlNMkdobmJR?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "수은, 멕시코 대외무역개발은행과 1억달러 금융협력",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WZHZmXzNsM1hXUEUtOHgxT1JhOHFXd1JwUl9sR1hVOUNJTmxHWUo5cDd1U0ZScklQeC1NcGwzUm1vSHBHUzhCVTd1cEJPN0NrbUp3ZDltWE5XeTTSAWBBVV95cUxNejVTb1NyNjJIXzQtLUZMeGQ2ZS1aZ2xlMHhTUERsdnBLVWhvQXFoMVVPMm14d0JvLUhDbFZKVWJNZWJlUTcySjNJSE1NN2J0N19jRVZXQ0o0eGJ6bWpkUi0?oc=5",
-              "source": "연합뉴스"
+              "title": "여자 농구, 일본 꺾고 아시안게임 금메달",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ROEFyR2MweTNzVWczd1Qxb0RQWXM3R19KaG13WXg3eUpkYXgtSWszbW1hbjN4XzZad1Jjb253TWVvTzd1NTZfYzR6bHZKTXk0WWpWLXZZRkN3VTcyQTdlRGkxQV9hamM?oc=5",
+              "source": "연합뉴스TV"
             }
           ],
-          "description": "이 대통령이 멕시코와 모든 방면에서 협력을 지속하겠다고 밝히며 한-멕시코 정상회담 결과를 국민에게 보고했다. 대통령은 회담 자리에서 연임 가능성을 재차 일축했다. 한국수출입은행도 멕시코 대외무역개발은행과 1억 달러 규모의 금융협력을 체결하며 양국 경제 협력이 구체화되고 있다.",
-          "headline": "이 대통령, 한-멕시코 정상회담 결과 보고"
+          "description": "한국 여자 농구 대표팀이 아이치-나고야 아시안게임에서 일본을 물리치고 12년 만에 금메달을 획득했다. 남자 농구도 이번 대회에서 우승하며 남녀 동반 우승이라는 쾌거를 이뤘다. 오늘 처음 등장한 키워드다.",
+          "headline": "여자농구, 일본 꺾고 12년 만에 AG 금메달"
         },
         {
           "rank": 5,
-          "word": "미국",
+          "word": "금메달",
           "count": 2,
           "articles": [
             {
-              "title": "트럼프 \"시진핑과 11월 중국·12월 미국에서 또 만날 것\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PNVhWTVA2ZGhRUTY5RXBfWjR2bENvRDVYQ0tJUkQxT2dtYTY4cDRpQUFWS1drUmpSRnFsUXBfdFZFbW1mZFZuQVFNR3FLT2twOEhfS1FGcko2NEnSAWBBVV95cUxNaEwtcFBqaGFaeHA0b1FON0ZTUXRsdzFHRmhLTHp0QVRsMDUyS1dsd1RvV1k1cHlzWDlRbkRtczVITjE0RE9haHFRSmhvVFZoUXY4QkRIRGVvQ25SQllLWjQ?oc=5",
-              "source": "연합뉴스"
+              "title": "여자 농구, 일본 꺾고 12년 만에 금메달",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pRmk0NV9JbS1UX2dHUmI2Y3VISUI3YnU5TVhHSDZSRmRhS0ZqR0trUlFTQkc4d1BiZ0xPWUhRYW1ERURXVkpEb1Fqd0F4V1NiZFVRTC1fV3hSNEU?oc=5",
+              "source": "news.kbs.co.kr"
             },
             {
-              "title": "패트리엇 바닥난 미국, 한국 천궁-Ⅱ를 노리는 진짜 이유 (샤를세환)",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ldEhVT1lsTVlNTkNFMGtKQmxTWkdwUnF3dTNWaWl3ZGFmZ1J0bmppRlM3eFhNc3ZwLTBNdWpDaWh0cDJSbzVTSkRpamJSOTlNY1B6b20tQ3g5YUhKSHlsaWJmZEdGSy1xSUF1VEJXZ0bSAXRBVV95cUxNaW9HY0pKT2ltUXNoSW9KZGVYRjdnX1hPa2VNSlpwVmNBcHhPWmJrZ0pPZkxwTFVWNHUxVlZVTHlVd3dqN2ZjZjctaXJXbVBoNUN4UnROUUl3MlFOVDRSS3c0VHBibGtBcVh5cmJrdmhJSGY3Sg?oc=5",
-              "source": "연합인포맥스"
+              "title": "평균나이 41.7세 형님들의 승리…‘대전격투’서 韓 e스포츠 첫 금메달",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50MzFKSmRObFhIemwyckw5RHpTeUF2Njd3Nmo2a2FmV2RrUnNfWUtKNnRPUXo1OGtmMHZtNHd6aV9hMzV3VGkwdXZNU0hnblQ3SzZMQ1VXN2hSWE5HeXFrdERIbkdzLTByQkV6cE9sUlA2aXPSAWZBVV95cUxPeHJLQTJZQjN0WTB6QTI4UUtFN2xmVlhkR242ZVI5ejRUUjBncFNmdktVaGVvZTZpazZpOVpvTUN5cWt1QWN5SUlnbHdRWThpdThTOXBoYUhab2Ric0VfeGlTUEZ4M2c?oc=5",
+              "source": "동아일보"
             },
             {
-              "title": "이란, 미국에 호르무즈 재개방 위한 '7일간 로드맵' 제안(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QUzZXQXhGc09NYmw0M0hFOWFSYzVPSTdFemNVUW1HNWxSX3B3YjNKYlZWV2RyVDlvbUxWQ05KMlpwUGc0amc?oc=5",
-              "source": "v.daum.net"
+              "title": "한국 남자는 금메달 싹쓸이 도전…여자는 일본·태국·대만 등 강적과 싸워야",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVYwRnhTN2pueGdoSmY3bXMzb0pPYmlZajhrTnI0MDBOX3pyeFlLc1J2eXM5elVUM1JNLVRMTTdwQnpSMzBTRGppc21VYTVOZXJ3RjlWeUtRalVpaElJWjg0X3locVM5LVBOd0dCcUw1R2lFSmlqcUNCV2NrWHRCbQ?oc=5",
+              "source": "edaily.co.kr"
             }
           ],
-          "description": "트럼프 대통령이 시진핑 주석과 11월 중국, 12월 미국에서 연달아 정상회담을 갖겠다고 밝혔다. 이란은 호르무즈 해협 재개방을 위한 '7일간 로드맵'을 미국에 제안하며 협상 의지를 내비쳤고, 패트리엇 재고 부족에 직면한 미국이 한국의 천궁-Ⅱ 도입을 검토 중이라는 보도도 나왔다. 미·중 외교와 중동 정세, 방산 협력 등 여러 굵직한 현안에서 미국이 핵심 변수로 부상하며 오늘 처음 화제 키워드에 등장했다.",
-          "headline": "트럼프, 시진핑과 11·12월 연속 정상회담 예고"
+          "description": "아이치-나고야 아시안게임에서 한국의 금메달 소식이 이어지고 있다. 여자 농구가 일본을 꺾고 12년 만에 정상을 탈환한 데 이어, 평균 나이 41.7세의 '형님들'이 '대전격투' 종목에서 한국 e스포츠 사상 첫 금메달을 따내며 화제를 모았다. 남자 농구는 금메달 싹쓸이에 도전하는 반면 여자부는 일본·태국·대만 등 강적과의 험난한 여정이 예고된다.",
+          "headline": "한국, 아시안게임 금메달 잇따라"
         }
       ]
     },
     "경제": {
-      "summary": "추석 연휴 부산 북항에 10만 명 몰렸고, 미 국채금리 5% '뉴노멀' 우려 속 서울 아파트값은 85주 연속 상승.",
+      "summary": "추석 연휴 전국 23만 명 방문 · 엔캐리 청산 우려로 일본 금리 딜레마 · 부산 고가교 4중 충돌 5명 부상",
       "keywords": [
         {
           "rank": 1,
           "word": "추석",
-          "count": 10,
+          "count": 8,
           "articles": [
             {
-              "title": "부모님 보다 ‘부캉이’ 얼굴 먼저?…추석 연휴 첫날 10만 명 넘어 [지금뉴스]",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85cUVTeFJmbzFMTlRIU1FMbjZQTmNndl85SDRGU2diUlFZWlIzYWItemxIbFNUMk5fRTZhRlBMdzFfR1BTWUNCX1Z5cG5RdVNrZ21FYTRiaFV4UGV0RndhUHdGMW9IUQ?oc=5",
-              "source": "KBS 뉴스"
+              "title": "\"부캉이 돌려보내지 마세요\" 추석에만 전국서 23만명 왔다",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnlCWTFob1c3SHgyVFRPeGxhZTVSYmlwQ1NFZGNmdVBGaVRtMnhFMzlEaDVsSzZUZXZPMm5veHF4eTBXMkM2eVlBLXlybnRKaG5KbV9IQUFZTTA0SzZwSllob0lObGxVenJwZFlLM19TM0ZPb1lvMWoyd3NNT3FuenJwaVVfUQ?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "‘부캉이’ 노니는 북항, 부산역에서 금방이래…추석 연휴 첫날 10만 몰려",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yX25CdHNWSmVVYTJCbldUejBqamViVEwwTzQ2ZmtldDRjZ19FbWt1VTdyOGc5NFFhaXl0NGZOMmtJb0pTbDZxNFVZdDYxSmdQUV8wcExRYm41UUlJSEpJLXlyLXpkVTB5aVl5U05tamVfQQ?oc=5",
-              "source": "한겨레"
+              "title": "추석 연휴에만 23만 명...비 와도 \"부캉이다!\" [앵커리포트]",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SM2FpUmlpSV94R20tdVhIbmI1STBIekhERFlyWXU0LTNEX3BBa3VOMms1czZZZk1Zak5xUDFCQXhTYWNPSDRubjdpcnVCektZOG5DVmlFVXZQdU1Ld2c?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "‘부캉이’ 보러 10만명 몰렸다…추석 첫날 부산 북항 친수공원 ‘북적’",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vT2QwOEt0Sm1zUGlOejkxQnRZRXIzQXRCTEJaYm9EZHRrRnlxNEc3OUg0RDZhZFkxY3RSUlRSRnoxRVpSUGZVV1A3YkFWYlk?oc=5",
-              "source": "v.daum.net"
+              "title": "’부캉이’ 보러 추석 연휴 사흘간 32만 명 몰려",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZaHhMQnNEb3lQbi1aalBDYmZQbXQ4TUxLSGctUUlqNzA2T09OX0FvXzcwUVNocmQ3ckREUU5nYWxWMzQ4MjZvYzRNV1N6T3pOZ1RfMlNoeXhpZTRrcVZQN1BBR3dzamc?oc=5",
+              "source": "연합뉴스TV"
             }
           ],
-          "description": "추석 연휴 첫날 부산 북항 친수공원에 10만 명이 넘는 인파가 몰렸다. '부캉이'로 불리는 북항의 명물을 보기 위해 방문객이 대거 몰리며 북항 일대가 북적였고, 부산역에서 도보로 접근할 수 있다는 점도 방문을 끌어올린 요인으로 꼽힌다. 최근 2주간 꾸준히 상위권을 유지하며 연휴 시즌 화제 키워드로 자리잡고 있다.",
-          "headline": "추석 첫날, 부산 북항에 10만 인파"
+          "description": "추석 연휴 사흘간 전국에서 32만 명이 '부캉이'를 보기 위해 몰렸다. 비가 오는 날씨에도 23만 명이 방문했다는 집계가 나올 만큼 열기가 뜨거웠으며, 각지에서 '부캉이를 돌려보내지 말라'는 반응이 이어졌다. 이번 추석 연휴가 '부캉이' 관련 최대 집객 시점으로 기록될 것으로 보인다. 최근 2주간 꾸준히 상위권을 유지하고 있다.",
+          "headline": "추석 연휴 '부캉이'에 32만 명 몰려"
         },
         {
           "rank": 2,
           "word": "금리",
-          "count": 6,
+          "count": 4,
           "articles": [
             {
-              "title": "美 국채 금리 5%대 시대…\"시장 근본적 변화, 뉴 노멀로\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sb3p3eW5zR3FYOGFJdFBDbGMweWZvd2hyaG00WlpfZVZlcGxxYk5Fc1dCTThPbmJCUXpSVk5Kd3lVZmUxbENYeGJZdllKeWF3NEhiZzJhY0d6NnPSAWBBVV95cUxONXBrNlNoWWhvbFdKZlQ4UG44THpmOXo5OVZEVHpwYy15U1BKblEzNndkNTEwYWJ4cEJWYnUydm9FYkxVSFkwUTJyZHVBQ1BfdGM0LWx4NjB6RTVtXzNjZUE?oc=5",
-              "source": "연합뉴스"
+              "title": "금리 올려도 안 풀리는 엔캐리…최대 2조달러 '청산 시한폭탄' 커지나 [김주완의 글로벌머니 X파일]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10ZlJzRjlHRUp0WWsxc0hMQ1Myd2ZxNS1STDFZekJJNGtabHVpLVE4UTNFQ2xoR3VUTVFFSmUzUldIVHBtUEJ3Z3RxcGdkcmllbE1sRFliZXI1dw?oc=5",
+              "source": "한국경제"
             },
             {
               "title": "2.3조달러 '엔캐리'의 덫…日, 금리 올려도 못 올려도 딜레마",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GSUZacWVhSzFxVUZsSU5QX0JJSmttNHJhUWFFODBfTHFmZWpkMGg0TWJqenpuWUVyWk50dU1aTUJuRG5pN1pUX1JyWjRrSlVXZHNFTk9RbDFzTjY2T1BaZTFneUROVWfSAWxBVV95cUxQa1BWNnNlRVlBYjlUaWtzdzZYQU9ONGpXVnVjdDhkT2psYktwY3NnVGl0MHNrZGJSX1dZYld2cG1pMzA5bVNKd2JQb0xJTURSdWNWRHlYakk4NHJfMTNBREJjMjBQeVVUYkd4MTE?oc=5",
-              "source": "뉴스1"
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84MjNockxTcDR4NlRRTVNzbFp2R0JIdktPZ3FUY29SZEVfWGVzelA3MlZQNERDX1NncGVRNjg0OW5zdTBCc3c?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "FOMC 이후 내려오는 美장기금리…'금리 인상=리츠 악재' 공식 바뀌나",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4OVJsakFlNDU4ZjBCUm9PZWhPYW1NajN5YThoSGY2VkNpWUlCQUtPU0hLQ1RrbXRvcVg5U3BnRjNOQWpZZ3A4QjRJclpiekRHQTVBN3g1bXB4MEtDYkdvMGxhUGd3V0RSM3FvcHRRRGw?oc=5",
-              "source": "연합인포맥스"
+              "title": "달러 하루 숨고르기에도 주간 강세…美 금리인상 기대 지속",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2NWbjl4eVpFWmZxcWNVS3pvTWRwWXhMWl9yM2ZpLTQ0cW45a29pZmZYMXZuSVk5c1J3YS1oRFhDOTB0WkNqblNKZENxRG1JMkFMaWItWjBnSUlNQlpMQWpDWFNXSkVqYnAwZHhGZlZldGhaYy1WSXFjbDJBbkZIV2ljRm4xN2Zp?oc=5",
+              "source": "글로벌이코노믹"
             }
           ],
-          "description": "미국 국채 금리가 5%대에 진입하며 시장의 근본적 변화를 알리는 '뉴 노멀'이 됐다는 분석이 나오고 있다. 한편 일본은 금리를 올려도, 올리지 않아도 엔캐리 트레이드 청산 압박에 시달리는 딜레마에 직면해 있다. FOMC 이후 미국 장기 금리가 다소 하락하는 흐름 속에 '금리 인상=리츠 악재'라는 기존 공식도 흔들리는 모양새다. 최근 2주간 꾸준히 상위권을 기록하며 투자자들의 관심이 이어지고 있다.",
-          "headline": "美 국채 금리 5%대, '뉴노멀' 선언"
+          "description": "일본이 금리를 올려도 엔캐리 트레이드 청산 압력이 풀리지 않으면서 최대 2조 달러 규모의 '청산 시한폭탄'이 커지고 있다는 우려가 제기됐다. 금리를 올리지 않아도 문제, 올려도 문제인 딜레마 상황이 지속되고 있으며, 미국에서도 금리 인상 기대가 이어지면서 달러 강세가 주간 단위로 유지되고 있다. 글로벌 통화 긴축 기조와 엔화 변수가 맞물리며 국제 금융시장의 불확실성이 높아지는 흐름이다. 최근 2주간 꾸준히 상위권을 유지하고 있다.",
+          "headline": "금리 올려도 못 올려도…엔캐리 딜레마"
         },
         {
           "rank": 3,
-          "word": "국채",
-          "count": 3,
+          "word": "비즈",
+          "count": 4,
           "articles": [
             {
-              "title": "'자산토큰화반' 신설한 한은, 국채 토큰화 속도내나",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uMzMtUjMxWHRqS05UX1ZjSkRaWEc2cEVNVmZBWDJnQUNsU0NkUk5paW5oNkpKNkJtMHJNQS16enFXVS1TNTZ5d18zMGF0eUU?oc=5",
-              "source": "v.daum.net"
+              "title": "'청년 공감 잡(JOB) 페스타 in 대전' 충남대서 30일 연다",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TRnU4c2ZhXzZtT19MNVdMTTRTcW1RdlBYREVZWE9qNEViQTU4RWFKbmdkNWhUbS1tcFFxTkRlamNpNm16RW1rcG4zbzR3b2puMnBFMHMwb2lyeTl6ek1CY05R?oc=5",
+              "source": "충청비즈"
             },
             {
-              "title": "美 국채금리 5%가 뉴노멀?…30년물 6% 전망까지",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DckVOVzNDbWRZdGJCb2JROFdsNTFOSFhnTE9ZTHFxT19fblFoaUFTMHRqQ292UElHSnd4QTQ1cFIzWGd6RGVuRWRTN0Fwa1k?oc=5",
-              "source": "v.daum.net"
+              "title": "윤아,'밀라노 다녀 왔어요' - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFEwbEJVYTlWcDZ3U0laVHZZYWJaV05qTndFZ2FsbXRZUmpMN0ZoT09UeGdwUGFtUzVueEZ5NGRyTE1pU3M2cjVkQW9zSGdqVXBqS2c4dTh6NWZrNlgxTkpqMFdnbUlQS2l5UGE2SkZmRUxhOWdpRFFtei1aOHpTLU4xdXo5TWJjT25RMDFmeUtGTmExSUZBQ1VHONIBrwFBVV95cUxNZFdPVmtCTzMyS3MtRVdraHplVWQzWm9HdFJ6cnFidlFJWWhuR3l2LTFMMzVnMV9CVFNOQWV0cFpvWDZWTHpxTEJLWUhTMzlIRnRrMjhsRjVRUC1WaW5xMmsyalRFckpiZmFKMU1FYlJsUm5ENm40OXpjWWpVc2h0ZHNhOTltSE9MaVFManVpNFVvQ1hkMmsyOWEteDRZQTRjQ20zbHVEU1lnd2w0V2xv?oc=5",
+              "source": "biz.chosun.com"
             },
             {
-              "title": "캐나다 10년물 국채 금리, 급등세 재평가 속 하락",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80MTI1RFpFUTNiMFpBY2lBV0NNeHVOTnV2VXV4c0FvX0w2Z3VtdzFLTTczNXpzcjdxeXJ3TUZqRnhYb1gtcnRQVnFDU3BwWDhzMHFKdi1sRlNOangwSTY1UU05eUxLRGo0NTEtN3RZLTI?oc=5",
-              "source": "Investing.com 한국어"
+              "title": "한·멕 비즈포럼 참석한 李 \"무역협정 논의 조속 재개해야\"…공급망·신산업 협력",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtTVBsaW5FWHBrc0FGVW1Sc0VGaExRazhWaGFuUUZmSEZyaldnN2daLVZ4Ym1yNnhhR1EyNkhfclQ4TXNfdE91WjVaX3ZEMVZpNXZJbUNCRzBqWXJFMHc1RA?oc=5",
+              "source": "아시아경제"
             }
           ],
-          "description": "미국 국채 금리 5%대가 뉴노멀로 굳어지는 가운데, 30년물 금리가 6%까지 오를 수 있다는 전망도 제기됐다. 국내에서는 한국은행이 '자산토큰화반'을 신설하며 국채 토큰화에 속도를 내는 움직임이 포착됐다. 캐나다 10년물 국채 금리는 급등세 재평가 속에 하락하는 등 주요국 국채 시장이 동시다발적으로 변동성을 나타내고 있다.",
-          "headline": "美 30년물 국채 금리 6% 전망 등장"
+          "description": "이재명 대표가 한·멕시코 비즈니스 포럼에 참석해 양국 무역협정 논의를 조속히 재개해야 한다고 밝혔다. 공급망 협력과 신산업 분야에서의 협력 강화 방안도 함께 논의됐다. 대전에서는 청년 취업 박람회 '청년 공감 잡(JOB) 페스타'가 충남대에서 열리는 등 비즈니스·취업 관련 행사들이 잇따라 펼쳐졌다.",
+          "headline": "한·멕 비즈포럼, 무역협정 재개 논의"
         },
         {
           "rank": 4,
-          "word": "아파트",
+          "word": "부모",
           "count": 3,
           "articles": [
             {
-              "title": "서울 아파트는 신축보다 재건축…20년 초과, 매매가 상승폭 압도",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pdm96cEZraVN6VWZ6bWM2SjFUSWlWaHRjM0lhbmQ3UmdtLVlhUHVWdkVFU1BhM2JTSU1aOXprbEJwNTJKc3RKOGxnZEVfUWNVS3I5R0VSVHJwOWfSAWBBVV95cUxPc2d0aEZtSFdPM05sZEYxMjlXWGZKMndBaEdiUnFHNlZLM1BLMU9MTjBYWktlc3JNUktRcV9uUVpzZ1h6Ym43VkNpNU5leGZPUUl0a2czdF90ZGxTNVdBTzc?oc=5",
-              "source": "연합뉴스"
+              "title": "자식이 부모에게 하는 가장 큰 효도",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TckVhYmJBX1hKVnowMDNNc3Rua0g4Wlhta0hBYkJWdFpEWnpCUGx6Tk9IVllpQmF6d0lha2FFMW9vOUgzdFNYblpzX1JfM3NGOF95VDBMN194VHZZdFVZTUZZcXB4cHNwYlgtbTJHbVlCT0Y2dVBqWg?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "서울 아파트값 '85주 상승'...역대 최장 기록과 동일",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ndEZpSmdUZWY2VTNkX3JHLXI4OTRuYjBzcVplOTltSjZDZGczQmdtVVQ2elA5U1NLV2tNemlUTzJyb3lwWDJKSEMxVGJfV2N3ZjQ0Y19DclFtY3dZeWc?oc=5",
-              "source": "YTN"
+              "title": "＂부모 부양은 누가 책임져야 하나?＂ 물었더니…4060 생각 달라졌다",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fMnlQM3Y5WS1HNlUwRDU1TmI5N2txZXF3LVl3NTA0MWt3Ym5VNUtadmlkY0Y3cVVmZFBxVTZ6ZzNWQzNjZUxoOGpPbU55MEtrYThoWC1rcG5zbG41RWFjSnJ6TFFsd1NuQUxzSFRfLXQyNU5pOUpn?oc=5",
+              "source": "한국경제TV"
             },
             {
-              "title": "서울 아파트 매매가격 85주째 상승…최장 상승기간 동률",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TNWFTWTZJaW9iVkV5d3B0dmo1dVdqZmFvRGtxQTgxaUd4cVFtenlBektsM0xPeTJaM0tsd2VCR1p1ampQcmV6bzdmLUdOT2VQdjF4WEJocGNpQjjSAWBBVV95cUxOcmt5QmFfT3JKWXdKaXloUl9KSHEwaFlZRmYyQ2hoYmZxZXJ5MENtQ0laQWZzM3dxZWYyWFFWbkhMWkZZSVZrVG1zVC1NSkdNZi1VV1B3YVNDX2FJLVpHTTY?oc=5",
-              "source": "연합뉴스"
+              "title": "“집은 5억원인데 생활비가 없다고?”…부모님 주택연금 얼마 받을까",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYlZINHgtYjNRZ0ExNnFaSzlCSU1Qa1RsVmdRMG50S01MbGo5azByTG1WaFVMVVE0SlZ5WnI0dENvS2dOQUwtTmZtR0JvYVBJdkZSZzhtdF9VVVVVUmFRaVBRVHFob05uOS1Xc0xlOE1iOWItVUR0NUpISm8yWlJpOA?oc=5",
+              "source": "edaily.co.kr"
             }
           ],
-          "description": "서울 아파트 매매가격이 85주째 상승하며 역대 최장 상승 기간과 동률을 기록했다. 특히 준공 20년 초과 재건축 대상 아파트의 매매가 상승폭이 신축을 압도하며 구축 선호 현상이 뚜렷해지고 있다. 오늘 처음 트렌드에 등장한 키워드로, 최장 기록 경신 여부에 시장의 이목이 쏠린다.",
-          "headline": "서울 아파트값 85주 연속 상승, 최장 기록 동률"
+          "description": "추석 연휴를 전후해 부모 부양과 노후 생활비에 관한 관심이 높아지고 있다. '부모 부양은 누가 책임져야 하나'라는 질문에 4060세대의 인식이 과거와 달라졌다는 조사 결과가 나왔으며, 집은 5억 원이지만 생활비가 없는 부모님을 위해 주택연금을 활용하는 방법도 주목받고 있다. 자식이 부모에게 할 수 있는 효도의 의미를 되짚는 콘텐츠도 함께 화제다.",
+          "headline": "부모 부양 책임·주택연금, 4060 인식 달라졌다"
         },
         {
           "rank": 5,
-          "word": "반도체",
+          "word": "고가",
           "count": 3,
           "articles": [
             {
-              "title": "TK는 \"왜 광주냐\" 했는데, 반도체 품은 전남광주, 실은 토허제에 한숨?",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCRjdmZE95LXJzSnk2dGtHZVBOZFFiSkNhVk16dmRLbVdhWE1DMzEwN3JMV2lBV1dYa1BaUDJjenN6VFh2Zml1eDFaT2RwYkxQaXh2WkpGUk9XdENiam5wdUhB?oc=5",
-              "source": "매일신문"
+              "title": "부산 부암고가교서 차량 4중 충돌, 5명 부상…한때 양방향 통행 통제",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkFhTElYRVBRMFdNVEUtSG1TZ1pIS0MzMWZXWnYwTy1BclIxQ3RhcnJ4alNXZ21yM2tXUklhWjA3VFNieGU3bGFXdTdhNXh1Y0hQWUtvZVByeWFRX25rZFk3QmlzMVc5MVFOUkhydVpmN19TcGs0X2pGMXRQVWlxWnBkalhJeFJEQTE0RHV3?oc=5",
+              "source": "국제신문"
             },
             {
-              "title": "반도체는 호남에, 소비는 영남에",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BRHRGblp1S3BLTDNTT1NwZ3p6SG82NXdtZ0UzZFlCSlpCQWEtT0xqVTR1WXBpZTRoZzJjYUs4dVUyZzBLLUxsbURJN0RzcW10NVpKaU54MTRIcmZoRTQ4RlZXU1FmRUxvblFR?oc=5",
-              "source": "영남일보"
+              "title": "부산 부암고가교서 교통사고 발생...극심한 정체 예상",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zelRBVElGektVWUJqeGpkQ3hEOHAxaFlUTGFWZk5ITlJWdVVVMERJcTByZE8wRmdyQXNKWERyd1hTNGM5d2pNX2tUNVQ1ZTFZLV96bXV3TWZJN1NxQ2FCd2hLZmV4WUNZSmpiVDNB?oc=5",
+              "source": "gukjenews.com"
             },
             {
-              "title": "광주서 키운 반도체 꿈, 광주서 펼칠겁니다",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5sMElXbVJiU29nanVJUzU5aVp0NWNKM0h5VVJacGNURE9rdWh3RnEwR1daR3ZKeUF4LVI4cDFzY1Jta1lMTHc?oc=5",
-              "source": "v.daum.net"
+              "title": "새벽 한강 고가에 사람이?…바이크 멈춰 세운 라이더 정체",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLTGdNZmhLMDRIZ053NFo5OHlaUW1fQ2lDZlpJc2RnczVkTnZxUjF1M1RYanNOWDJyZDZ3UUphUDVicHZ4eVJDMS0xbUhTUHdwZ2RmbGZ1aG1NakNqNDRFNko4U1VSMHhGMWN5edIBbEFVX3lxTFBLTGdNZmhLMDRIZ053NFo5OHlaUW1fQ2lDZlpJc2RnczVkTnZxUjF1M1RYanNOWDJyZDZ3UUphUDVicHZ4eVJDMS0xbUhTUHdwZ2RmbGZ1aG1NakNqNDRFNko4U1VSMHhGMWN5eQ?oc=5",
+              "source": "국민일보"
             }
           ],
-          "description": "반도체 산업 거점으로 광주·전남이 부상하면서 지역 균형 발전과 산업 배치를 둘러싼 논쟁이 불거지고 있다. TK(대구·경북) 지역에서는 광주 선정에 불만이 나오는 한편, 반도체는 호남에, 소비는 영남에 집중된다는 지역 구도 분석도 제기됐다. 반도체 클러스터 조성이 토허제(토지거래허가구역) 지정 등 부동산 규제와 맞물려 현지 주민들의 셈법도 복잡해지고 있다.",
-          "headline": "광주·전남 반도체 클러스터 유치 화제"
+          "description": "부산 부암고가교에서 차량 4중 충돌 사고가 발생해 5명이 부상을 입었다. 사고 여파로 한때 양방향 통행이 통제되며 극심한 정체가 빚어졌다. 같은 날 새벽 한강 고가에서 위험 상황에 처한 사람을 바이크 라이더가 발견해 멈춰 세운 사연도 전해지며 고가도로 관련 안전 이슈가 동시에 주목받고 있다.",
+          "headline": "부산 부암고가교서 4중 충돌, 5명 부상"
         }
       ]
     },
     "연예": {
-      "summary": "손예진·현빈 부부가 각각 드라마로 맞대결·한소희 주연작 '인턴' 위기론 대두",
+      "summary": "영화 '암살자(들)' 개봉 나흘 만에 100만 돌파 · 박명수 딸 수시 합격 · 박지현 국제에미상 후보 올라",
       "keywords": [
         {
           "rank": 1,
-          "word": "손예진",
-          "count": 3,
+          "word": "박명수",
+          "count": 2,
           "articles": [
             {
-              "title": "손예진, 지창욱과 키스신 지켜보는 현빈에 당황 “여보…여긴 웬일”",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHdXUmVoQ1pyVFZzbE4zYjV6b2tLbldiWkk5aFFwSV9TR1hvUGRsN24xenAtQndsN2FlaXJwSTNnZ21UejJEU0htR3FGUHNBNVVjNG5Sb1VSQ3Y0T2dESVJMUlVXOWo4SFdlYk9mdGRmVkYteWt1TXl4TGNRd0Jvd24tSlQ?oc=5",
-              "source": "twig24.com"
+              "title": "박명수 기도 통했네…'무용 엘리트' 딸 수시로 대학 합격",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96d0c2d2ZKcnpYakxTQzd4LV9uVFRpb0pnckx6Z25JVXNJYWxhM3V3ZHlLR0JvbC1QSjZteHEyRlBhTzJ6ZkVnc1pVUHZMcWl0TlY0T2dabkN0cGRCWkk5ZdIBeEFVX3lxTE5lLUNyeDFkUU1GN0JrOXNSVDZQM3dMajdUM3hQWFVxRUxvcTFfaEh4aUk4ZHREWURoN0E2MW04TmFmNXhoUnNjbEZjTUNiUDJzR1hfWlVYNnFKbjMyeWhqYVpuQU1wX2stQk5vZ2Jva3Nva1FpS0plbw?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "'스캔들' 지창욱 \"전 국민 현빈 눈치 보기? 난 전혀 안 봐…손예진 사랑한 죄밖에\" [MD인터뷰③]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SR1Z6TWZ5Yms0UzRkdGlJd0RPanB6ZjZ2M2pieUNEOXFJMUVzWkZfbnRjd2Z3VEoyWVdJbGROaGJBVjl4czlNN29ldjR3ODg?oc=5",
+              "title": "박명수, 부친 탓 골머리 \"돈 흥청망청, 외상 많이 깔고 다녀\" (할명수)",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE13UlJ6MExzOS04QThnR2RESXpFa00teEkyekowSEY5aTZ2UWhyV3dSc0lOQWcwTDlsX19XUl9XaG1XYUljTkE?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "손예진 \"지창욱·나나와 안 친해…밝은 분위기는 처음\"",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10dWZNc2xHQzJ1TExzSDltRkxJbEpsUXBzdmZJeTdRWDBDeGRleGRrOTFUVmlBYkJsRFQ0dFJwaE5iLUNHOWtPY2VWdFNQM0Qy0gFUQVVfeXFMUHpObExvQUdjMGhlbXRIT0tvRXBOenVoamo5V0l1ai1MRXVfNUhQcGZyaWVvY3lfZGhWNGFDcXZrYllmMlczVFJuQnQ5VHFRRlppNHdL?oc=5",
-              "source": "세계일보"
+              "title": "박명수, 딸 민서 언급 “아빠가 박명수라고 절대 말 안 해”..왜? (‘할명수’) - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGxlMFFNaWl1X3FSaktVQ0V3dzdLRWIwS1FmbHgyWE84Um5kRWJ4ZE8tSU1sVVZCdzRNVlBwRHNIc3NkZE41eGdPaXpBdjF0U0V6NjVnSlZfejZ4NmFtVDN4THQ0TG8wX1RTRlg2Q1BuQWJ4WkFxd2RkaHZxaUtDRnctX0J2X0t0MzhvTkc5OVI3VGfSAacBQVVfeXFMTzE5UFZ2ZWl3U0RkeHJNdUhvQUVtSVZVblNMOFVKZUlRRmkzZlFSbnpPenhYaU1zSGdUOUpDOXZZalVRSzctNU8xaE9YLXpGd1V0V1RlSUhNOWtUSS1IUGxvdG11SEFRdExPem9PdHJ3NWJkRXVhTUxMZy1SYWtiTzY5WEZtVS1RN1BhVUtwQ1JicjBfUTYxX2FSSkhlTWIyaFJhWEdIeHM?oc=5",
+              "source": "biz.chosun.com"
             }
           ],
-          "description": "드라마 '스캔들'에서 손예진이 지창욱과 키스신을 촬영하는 현장에 남편 현빈이 깜짝 등장해 화제다. 손예진이 '여보…여긴 웬일'이라며 당황한 반응을 보인 장면이 눈길을 끌었고, 지창욱은 인터뷰에서 '현빈 눈치는 전혀 안 봤다'며 유머 있게 상황을 받아쳤다. 손예진은 공개 석상에서 지창욱·나나와 아직 친하지 않다고 밝히며 이번 작품이 자신에게 낯선 밝은 분위기의 현장이었다고 전했다.",
-          "headline": "손예진, 현빈 앞 키스신 촬영 화제"
+          "description": "박명수의 딸 민서가 수시 전형으로 대학 합격에 성공해 화제다. 무용 엘리트로 알려진 딸이 합격 소식을 전하면서 박명수의 기쁨도 함께 조명됐다. 한편 그는 SBS '할명수'에 출연해 돈을 흥청망청 쓰고 외상을 많이 남기는 부친 때문에 골머리를 앓고 있다고 털어놓기도 했다. 같은 프로그램에서 딸이 아버지가 박명수임을 절대 밝히지 않는다고 언급해 눈길을 끌었다.",
+          "headline": "박명수 딸, 수시로 대학 합격"
         },
         {
           "rank": 2,
-          "word": "현빈",
-          "count": 3,
+          "word": "암살자",
+          "count": 2,
           "articles": [
             {
-              "title": "\"최악의 결말\" 혹평 쏟아졌다…'용두사미' 속 빛난 현빈의 열연 ('메인코2')",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aTHV2cktaSjhSNjdlMmRwUXFWc1NhUXhNbXd2eVlUbFVoeGJXV3N5a0pmdmZzM2d2OXd0SWNwWUd1WmMxWHFPSTNQMzdKajA?oc=5",
+              "title": "영화 '암살자(들)', 개봉 나흘 만 100만명 돌파",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11bWI3VGc1SFBOM1hLYzZhUUlaeGpteXdhYXkwb2RUOTgtT1lxQ1lqWVNrdDNZaXlIbVc0VGR4T3JUd0g1ZTlKSldjQWhGSXBQR2ZHUXRXdHN5WjN6bVBubtIBeEFVX3lxTE1zOUNiaEZJbmh4S1lZLWNfdk1qVXdMT2tqbkRzdlEtZXRYUzU4aTRHN1pUbnIzS3VRN0QtSzVxWnpLWHVyQ3U2LU8tWWQ0U21fV0dzc2U5QUpETXdGenFGQzVWUXY2bFVCR0tQSU5EV0prWEhWcUNqZQ?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "‘복귀’ 엄태웅, ‘암살자(들)’서 어떻게 연기했길래…관람객들 ‘극찬’[Oh!쎈 이슈]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKSHM1Mm5PNU9QSFZFbkdoaV9ObDF0bU0wQ3dmS05DSmJzcTF2RGVFd2dfVlM3UVpmOXFWbHFmSUR2SGltLUxsTU03MnZnRGM?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "추석 OTT 남편 현빈과 맞대결 손예진, 아들이 찍어준 근황 공개",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaUUNiZWd1cjRaOHBwd3hpQ09jcnU4SXhJWmhJcFRhZS1yNzA2aWE0VU1jR29wUXJRclF5VGZFOWJSTW96dlRCRUk3eDlTYnVaX3psWmN2bUpTSjFLUEHSAWNBVV95cUxPb05wak9NNWhNQ25pc0RVdHlIOGpobkFyWFFfUFhvUnpZVVJWOGdEM3lvcUF3b0tJdmZiLTh1Y1llb3B6MERUZFZIRkt5UFZtbWt6Y3V0THlPaERHS09qNER4Ym8?oc=5",
-              "source": "스포츠경향"
-            },
-            {
-              "title": "\"여…여보…여긴 웬일이야\"…손예진, 지창욱과 키스 직전 ♥현빈이 뒤에?",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43elR4dDMxQkMxcU9nNXVmTnpfNjI1TmE3bjdoeURFS3h5LWZmbW9nc2FtenFlaURyd1IyVUYzTkpqVlpTZ0c4eUNVaEpueURuYUdB?oc=5",
-              "source": "네이트"
+              "title": "'암살자(들)' 개봉 나흘 만에 100만 관객 돌파",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NWndLYnYwUWVIel9hVFd2MEN1OUVMV18tU0FwcVAyMDdJXzFTM1FjZE5keW03b05aOGRSYzVseXU1S2lNVXptejAwdlJjUnE2emxYNGxUSHJJS03SAWBBVV95cUxOeldJZ1VKZDRrZHhvUEh4bVhsMElhaHp2aTViN3RtdUNVUW8wNlBIT1lIT1VCdG00dVNGZldvT0wzc3NicDVmeDltUFhTUVlrcWJCQVNkQ3p4Wnkxdjh4Sy0?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "'메인코2'가 '최악의 결말'이라는 혹평을 받으며 용두사미 논란에 휩싸인 가운데, 현빈의 열연만큼은 긍정적인 평가를 받고 있다. 추석 연휴에는 OTT에서 아내 손예진 작품과 맞대결을 벌이는 상황이 됐고, 손예진이 아들이 찍어준 가족 근황을 공개하면서 현빈도 함께 화제에 올랐다. 드라마 현장에 남편 현빈이 직접 찾아가 손예진의 키스신을 지켜보는 장면도 웃음을 자아냈다.",
-          "headline": "현빈 '메인코2', 혹평 속 열연 호평"
+          "description": "영화 '암살자(들)'가 개봉 나흘 만에 관객 100만 명을 돌파했다. 복귀작으로 이 영화를 선택한 배우 엄태웅의 연기가 관람객들로부터 극찬을 받으며 흥행을 이끌고 있다. 개봉 첫날에는 '타짜4', '오디세이' 등 경쟁작을 제치고 박스오피스 1위에 오르며 순조로운 출발을 알렸다.",
+          "headline": "영화 '암살자(들)', 개봉 나흘 만에 100만 돌파"
         },
         {
           "rank": 3,
-          "word": "이승기",
+          "word": "타짜 4",
           "count": 2,
           "articles": [
             {
-              "title": "이승기 “31개월 딸, 유치원서 아빠 자랑해…내 앞에선 티 안 내”",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83U0E4U1QtQmpPbFVfY09sbE1mUVRPQS1zTVFDRlhrSDJEOGd4ZkJBTDZqMTNjY3lkVl9WbVd1OXdla1NVc1NqUklkclRFVkZTQy0xeFdNS293bV9iSFEtcXo0ZjEzTnNfQjVxZ1JEU1Uya0p2bG1GWW1TTE82QdIBZkFVX3lxTE1SM3U0M1ZlMmsyc3piY1FTeFd5OE5aYjhLTE9GZXR3RlVFb1VMQng5NUliTXhWbEFNeWVkblBLM2pOeV8xSVNWVDVUemJWelUzWEdEbHBIcWFFX2xjTEk3OC1XRWZ1QQ?oc=5",
-              "source": "동아일보"
+              "title": "'암살자(들)', '타짜 4'·'오디세이' 제치고 개봉 첫날 1위",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPM0V4MWtQUkxSMkR1MXRYUVI0SXN1aVA4cXdHUHlEbldzRHVPRVQ4NWJfX3lFRkdmM2lKX09fUXZLOGNaYktqV01nbUY0WnpJUldld0t6cl9SY3PSAWBBVV95cUxQZ1pCRXVkS2lGNjF5QVdUQmN6OHkzUWdzNGdRSGszZkNfRUpfazFFUEpCUUNVNElLb2lnY1Bud016Uy1uSk5sRlJfeXNHWHNIQXRmRGZMLU53SEV3RnNWN0Y?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "'불후의 명곡' 이찬원 '여행을 떠나요' 노래에 김상혁은 엄지 척, 이승기는 다정히 다가와 귓속말",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5SjEtWTdITWhVbnNxd0hVbXc1MVNzUDBCY1BUTlpvN0YtMlNIRU4zQU9jdkxEN1lMSlJ5Yl9WRzZGRmpNbXo2NjZjWTUwX1lGaWowN284MDMxN1hEM3VZMms4TFhISjR6OFFZNFR6LUNfdw?oc=5",
-              "source": "톱스타뉴스"
+              "title": "'암살자(들)'·'타짜4' 주역들의 작품 맞춤 추천곡은?",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44SVlXLXBibDVIRUFuT0ZMWGxBMWpvN0ZYNHdackJhSmJ5YmJnZ1gzM0VhelBKMmYyTDBWQmlsZXZ4RV9ldElNUFQ0c3RhcVhlbkVCZnN4NkoyU1Bq0gFXQVVfeXFMT1RXYm1TbDhWbzdCOTJfaW1Ia01adTNlM2pKM1Zyc3gteFFXTVR5TGM3Q2dfQkFPeUs0SkNnWUx4RTYwS1RjSGdRYUdCYTl0UnpkdzdPeUxZ?oc=5",
+              "source": "더팩트"
             },
             {
-              "title": "\"누가 알까봐 무서워\" 이승기, 유튜브 시작부터 홍보 거부한 이유",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSXVwRkZwODZidE1aVDNQR3FsWlpQQkxiR0x6SHc0MVhBSzRSRlFiVTJySUtfZTVnMnVyb05PU0FuMjU3cWRXMmplUURVQW10b05IR0dSTy1oUldOSU9HSVpSRkoyMXFwQzk2Q0wya3ppbFpvck1CQVdWcFo4dzQwYg?oc=5",
-              "source": "starnewskorea.com"
+              "title": "'타짜4' 이름값 제대로 했네..525일만에 청불 영화 오프닝 경신 [공식]",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE11dzdHbjlzSnRvaU55MzBnM0YtM2owY3NMS3FfTG8wNlUzQ3diaHpmWldHd0ZpcFFvSmpWU2xfYlRPelFWRkE?oc=5",
+              "source": "v.daum.net"
             }
           ],
-          "description": "이승기가 31개월 된 딸이 유치원에서 아빠 자랑을 하면서도 정작 아빠 앞에서는 티를 내지 않는다는 사랑스러운 근황을 전했다. '불후의 명곡' 무대에서는 이찬원의 공연을 보며 다정하게 귓속말을 건네는 모습이 포착됐다. 유튜브를 시작하면서 홍보를 일부러 거부했던 이유도 공개해 '누가 알까봐 무서웠다'는 솔직한 심경을 드러냈다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "이승기, 31개월 딸·유튜브 근황 공개"
+          "description": "'타짜4'가 청소년관람불가 영화 오프닝 기록을 525일 만에 경신하며 이름값을 했다는 평가를 받고 있다. 개봉 첫날에는 '암살자(들)'에 밀려 박스오피스 2위에 머물렀지만 청불 영화 기록 경신으로 의미 있는 성과를 거뒀다. 오늘 처음 등장한 키워드다.",
+          "headline": "'타짜4', 청불 오프닝 기록 525일 만에 경신"
         },
         {
           "rank": 4,
-          "word": "최준희",
+          "word": "MHN:픽",
           "count": 2,
           "articles": [
             {
-              "title": "\"몸치인데\" 최준희, 미국 '클럽 음악의 왕자' 러브콜 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FUHBJRS1LNkR5Y0Z0XzhRRFp1UTFfaEozNThCcEwtUFYwSEJxd3cyemtBZGlyVmhxM2JjNGlacndTTVJ4dHUtb0Fudk43RkxqV3Y0NFZ4a0Q1cHpuYVA0OEVVVjhKMlN1RmFGZExfLWFFak3SAXhBVV95cUxOMjl6WEYzU1BMMWR0SlVoVUstZmNodEEwbzdiTUNEOFdGVWNoalBXWi1BdkVCNi1lTFhxUndUdlE1eDd2Vm9IVFdxU0FiX1J5VU9MUXFBOXNqdHFjMmxtb2c3blp3MmZBNWZnV1dPS3ZzWmtGT0xuWU4?oc=5",
-              "source": "mt.co.kr"
+              "title": "\"공주병 아니고 술병\"…女 가수, 20년째 '여신' 캐릭터 해명 [MHN:픽]",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JbmNlMXdPS3gtRS1YMTBSd3dQdUc1Q2ZWRGRvb1FDODBZbEtFM3R4Uy1YUGRRbHVzbXV3MC02YjBBRk02bjBpdGtfQ0dyTnM?oc=5",
+              "source": "v.daum.net"
             },
             {
-              "title": "故최진실 딸 최준희, 결혼하고 더 예뻐졌네..쭉 뻗은 팔다리+성숙美 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbXBzZEJlNE1jS3NscVBVdWk4S25yTDl1MVhmZU80NmVKdkxzT2lUbVlqV1o3eHFsZG5iRnE2ODY4N2xjeEJQQkxEVi1nR0VIZHZhT3pWc2kySGdaTDBGU2pCcUVZZmoxQThLdHUtd0dhNlZnOElTYl93SWdjRHRwWTNrTjVVTHFienBUNldDckYtY3fSAacBQVVfeXFMT3hPem1RRkIwMkdnWHUyQ2ZmbUdKOVNYOWNacUlIV3hVMmY4MTlyNHdnQ0hRbFBqREM5SElFbGpxVGtfcWpqUVAySXJxLUxCUmVCSmRBQlFQOG9VSUV0ekxnWE5kdzh1eVdyNFA4NkpoV3pkanRSUUtQVkNxUXJPUF9KeDNtSzlMd3VfQ3d2R0h5RElGN1U4M1BCV1FxZDhCVlR6aUJkZ28?oc=5",
-              "source": "Chosunbiz"
+              "title": "헤이지니, 성인 ADHD 의심하더니→결국 병원行 결심…\"건망증 심해져\" [MHN:픽]",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wd01PZ0hkX25tcHhYMXhDNEV0clBfLWk0QnZsQzFQdnRfUVdCMGFsYmloV2xIYmVjRld0YnRaRFQ5SnlVVUxsMUtyYUZkUUlVNFdsNmNSQ1VSdmJNWVNSVnNLdw?oc=5",
+              "source": "mhnse.com"
             },
             {
-              "title": "홍진경이 대신 해명…최준희 11살 연상 남편, \"이모할머니 소개 절대 아냐\" [엑's 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA3VnVRdEZLV3R5VHJycGxCVlc1OURYeHRRRXJTOUtSNUVvYzhvbVZQUkRvUWxnQzlEVnZaT0lkS2NjQTlnY3c?oc=5",
+              "title": "'이혼' 이지현, 싱글맘 고충 토로…\"친구 만나는 시간 사치 같아\" [MHN:픽]",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwbTBJZk95bV9uUXcyRXdKZkFHNzZJTHUtTlcySU1xdDhPcUhRamo1eWZ0R0NVMFhuMGgxSDFuNUFLUENjUVE?oc=5",
               "source": "v.daum.net"
             }
           ],
-          "description": "故최진실의 딸 최준희가 미국 '클럽 음악의 왕자'로부터 러브콜을 받아 화제다. 최준희는 스스로 몸치라고 밝혔음에도 러브콜을 받은 것이어서 눈길을 끈다. 결혼 후 더욱 성숙해진 외모로 근황을 공개해 호평을 받았으며, 11살 연상인 남편과의 만남이 홍진경을 통해 해명되기도 했다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "최준희, 미국 클럽 DJ 러브콜·결혼 근황"
+          "description": "연예 미디어 MHN의 큐레이션 코너 'MHN:픽'이 오늘 여러 화제 기사를 쏟아냈다. 20년째 '여신' 캐릭터로 활동해온 한 여성 가수가 공주병이 아닌 '술병'이라며 해명해 눈길을 끌었고, 유튜버 헤이지니는 성인 ADHD 의심 증상으로 결국 병원 방문을 결심했다고 밝혔다. 이혼 후 싱글맘으로 지내는 방송인 이지현이 친구를 만나는 시간조차 사치처럼 느껴진다며 고충을 토로한 사연도 화제가 됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "연예인 근황 화제 기사 잇따라 등장"
         },
         {
           "rank": 5,
-          "word": "한소희",
+          "word": "박지현",
           "count": 2,
           "articles": [
             {
-              "title": "‘한소희 리스크’ 위태위태하더니…아예 ‘위기론’ 직면한 ‘인턴’ 어쩌나 [MHN초점]",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UWNweWl6MkpVOFNFanJoRlhiOEdIaXJKVWtWU1BqZTJrU0hla1pDTGJFaG9uQldWSTJzUUlqTkpfWHBHLUE?oc=5",
-              "source": "v.daum.net"
+              "title": "‘은중과 상연’ 박지현 국제에미상 여자 연기상 후보",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51QmhXR0xDUC1pMHl6b3VlaHV2bVI1dkxFQjZYNTJSNGtYdWpoUDE2cmI0TGxEVG9UOHZNaVpOaEhuTHVmd3N2OFcwUjkxRzdUNE1YRlZtVGFSQdIBX0FVX3lxTE9XN2NqTW5iQnZlWV9INmJIQzF3NndoTDhYcHhEN01zeHU0bDFtRl8yX1pTNlItUEdZUE1Wb1QwbmtTMThidlU2TGZaWUw1M2RTYjFXNGgxNWVwSGtLZDZR?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "슈트 입은 한소희 vs 금발의 한소희, 같은 사람 맞아?",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iQzhobWFGWVZnNTZwU28tNHo1c2lHMG5ieFduNGN3WE9OYVhnYmJfWEJ3U1BWeHBfQzVyWk9wQUdEZVNSd2hfckM1c3BHQ3ktenY1NFd3c1ZtZ2s?oc=5",
-              "source": "harpersbazaar.co.kr"
+              "title": "박지현 외삼촌, 남다른 조카♥ “연예인은 아무나 하나” (나혼산)",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBscHBGY0VRSzZjVGtkVzV6OTVoaEd6YldtUEpyNHRhWlFRX0ZWU2d2dmF0UUw5ck93cjRPSkxSOU5zRHVtT0tWMExUWFh2OGljRE0tRXFyY2JocFdxclRxNmx5b3M1Uk9JYkNEMnhB?oc=5",
+              "source": "스포츠동아"
             },
             {
-              "title": "\"인턴도 CEO도 추석에는 극장갑니다\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsMERUUDVPSHVmRUJRUzh3MDJRS3ZYVHhIeGZQUEswVzFqN0NMeHIyMnFaSkdKel9ZMXp2UVZYUGhIa2U5ZjZJRjI5RnpVOG9kVWlJQUJvaTYxa2lhWkE?oc=5",
-              "source": "KBS연예"
+              "title": "박지현 \"레드팀이 없다…李, 비판·비난 구분했으면\"",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2UkgzUUR5cGt4dERrLVIzLWJtN05uajZtRVNsaGZ3WXJHeVByN0UzWDd1cVZ1ZGRzelk5T09HRmVyeTlmTkUzYlZkZFJRSnA3Mk5USDdsTWbSAVNBVV95cUxPNGZDeVdOZkh5eHZrTG9VU0RlZGk1TVRwVnQxTDBrX3pnYUJqOFJRS0FJb3JpSkJFYnFYVGZ5VTd0aGNBT0Nzb21JWHNZR0RjM0w2Zw?oc=5",
+              "source": "더팩트"
             }
           ],
-          "description": "한소희를 둘러싼 이른바 '한소희 리스크'가 주목받으며 영화 '인턴'의 흥행에 대한 우려가 커지고 있다. 추석 극장가 성수기를 맞아 '인턴도 CEO도 추석엔 극장 간다'는 홍보가 이어지고 있지만, 위기론 직면이라는 분석이 나오는 상황이다. 슈트와 금발 등 다양한 스타일링으로 변신한 화보도 공개되며 대중의 관심은 이어지고 있다.",
-          "headline": "한소희 '위기론', 영화 '인턴' 흥행 변수"
+          "description": "배우 박지현이 드라마 '은중과 상연'으로 국제에미상 여자 연기상 후보에 이름을 올려 화제다. 국제에미상은 미국 외 지역에서 제작된 TV 프로그램을 대상으로 시상하는 권위 있는 상으로, 한국 배우의 후보 지명은 그 자체로 주목받는다. 한편 SBS '나 혼자 산다'에서는 박지현의 외삼촌이 출연해 조카를 향한 남다른 애정을 드러내 훈훈함을 더했다. 오늘 처음 등장한 키워드다.",
+          "headline": "박지현, 국제에미상 여자 연기상 후보 올라"
         }
       ]
     },
     "스포츠": {
-      "summary": "이영준 멀티골로 이민성호 베트남 4-0 격파·신유빈 탁구 혼합복식 4강·오상욱 펜싱 사브르 2연패 금메달·한일전 라인업 공개",
+      "summary": "아시안게임에서 펜싱 남자 사브르 단체전 4연패·오상욱 2관왕 달성, 야구는 한일전 20년 만의 패배.",
       "keywords": [
         {
           "rank": 1,
-          "word": "멀티",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'이영준 멀티골' 이민성호, 베트남 4-0으로 꺾고 준결승 안착",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vWWtvM1FIUFI5Ylp2dVM2U3lzdndJOGROVE5WWTlCa3haU2VtWEtQYTlwSWstMjBpYm9vckxJV1JnZTRtbWNGWXJMYUlvcFFtMnMzT1FnSHpTdVlXTDVKM0oza3FPdXprWWk0MnUtd1RrQ01rZUHSAXZBVV95cUxOb1lrbzNRSFBSOWJadnVTNlN5c3Z3SThkTlROVlk5Qmt4WlNlbVhLUGE5cElrLTIwaWJvb3JMSVdSZ2U0bW1jRllyTGFJb3BRbTJzM09RZ0h6U3VZV0w1SjNKM2txT3V6a1lpNDJ1LXdUa0NNa2VB?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "'이영준 멀티골' 이민성호, 베트남 4-0으로 꺾고 준결승 안착",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VXzJsTjVLM182X0NOOENELUEzbU1LbFRRZTZwcjJTbHROd2l1NTlsNGZhS1Z1YjRiQTRkaEJwSGJUNmFoY1ZmSVNlYTNORE80MHRGcGM4bjBLU0RMM3ZPdkM5ek11bDFiTjdHbnpQLTkxOFJsX2ZYaQ?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "'이영준 멀티골' 이민성호, 베트남 4-0 완파…준결승 진출",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zV0J1YS1COXBrN3BEcnpTOXMwVDlBdVQ4WENaazEzSHJpNG9FSDVyNVdrLXF6MlNiczFNeWlHZFFSVnc1RzR0X0xWVWFESTVraGRXNEdxSkljZEpY?oc=5",
-              "source": "뉴스핌"
-            }
-          ],
-          "description": "이영준이 멀티골을 터뜨리며 이민성 감독이 이끄는 한국 대표팀이 베트남을 4-0으로 완파하고 준결승에 진출했다. 이영준의 골 결정력이 승리를 이끈 핵심 요인으로 꼽히며, 팀은 최소 4강을 확정 지었다. 오늘 처음 등장한 키워드로, 이번 경기 결과와 함께 빠르게 주목받고 있다.",
-          "headline": "이영준 멀티골, 베트남 4-0 완파"
-        },
-        {
-          "rank": 2,
-          "word": "신유빈",
-          "count": 2,
-          "articles": [
-            {
-              "title": "세계 1위 임종훈-신유빈, 탁구 혼합복식 4강행…동메달 확보",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kSXlyeDY2OGpZWXJQby1HZXpCbU8xOW1GLWRIRTlYWUh2QmVfdTRIbFRBYzFKSnN4UGJ0Tmd5YzZZczBSclUtZDJNRDRHSDE2UHJrLUc0QUlWSnBmUnVrQzBxWEpNcjNYYWQwUC1yMGZPMVQ30gFmQVVfeXFMT3U3Rk1udk1SaDNwVHVWS19xZ3FTdlZPdXA1bExhQzBGaEdlMHlrYmNhT1AtSTFETFppdWNGQ3Q3YU5YdnVkSDVjNDBZYjdlU0NoV19kRGJzSnVzUDJpZ3k4QmxTT2VR?oc=5",
-              "source": "동아일보"
-            },
-            {
-              "title": "말 잘듣는 신유빈, 이번에는 어떤 간식으로 에너지 충전을? [겜터뷰]",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4QV9PeGpTa2FWYlVoM00wVTdMZUJ5NDNUd1ZvQVlQNV9udkNDTDZxbkFlZWlnM2FIT3hlYzAzUG5oZVgzWHNJNS1kZjlEcjhWSHNtTDZJLWZjdE1odWh5eC1RLU9QT1BKcTRieXFMX1g?oc=5",
-              "source": "sbs.co.kr"
-            },
-            {
-              "title": "신유빈, 일본전 0-3 패배 털어냈다…임종훈과 대만에 극적인 3-2 승리, 최소 동메달 확보",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOC1BT1RiOVBUWC1IY3g3clk5Q2VqZEFZU1Z5RXd6eWlLTkNwY3paYWw4UWtjcllnQWdfbTRRZXZCQ01TXzM5dFBDSlFxWi1oTk84cWF0SUhFVTFKMkZIQ3F3MmJUdl9vTWxzUlBIVldNTVFlcUdSQTJtMnlDZnQ1SFFLc2NaRUgtZzc0?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "세계 1위 임종훈·신유빈 조가 탁구 혼합복식에서 4강에 오르며 동메달을 확보했다. 앞서 일본에 0-3으로 패하는 고비가 있었지만, 대만을 상대로 극적인 3-2 역전승을 거두며 분위기를 반전시켰다. 경기 외에도 신유빈의 간식 루틴 인터뷰가 화제를 모으는 등 코트 안팎에서 관심이 이어지고 있다.",
-          "headline": "신유빈·임종훈, 탁구 혼합복식 4강 동메달 확보"
-        },
-        {
-          "rank": 3,
           "word": "펜싱",
-          "count": 2,
+          "count": 3,
           "articles": [
             {
-              "title": "신승호에 김연경도 박수 짝짝..'펜싱' 오상욱, 세젤잘 금메달 미남",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1IZVVSeXpEX2lyMy05MzZ5QlJDemR2UGt4WC1uM2NvUGFuaV9UeWVFOTl2SlNtbmRLTEo3QVFPUjR4RzY5T1E?oc=5",
-              "source": "v.daum.net"
-            },
-            {
-              "title": "펜싱 오상욱, 남자 사브르 개인전 '금빛 찌르기'로 2연패(종합)[나고야AG]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5heElKcHI1UGNxUldXUkt0aFdVTUI0bFB5T1o2YTJNdVdfZ1BFbXM2dVJsRElqM3FSajZYd2F0Y1YtR0U0OXJ6c0VNXzJhNXAzWEFCeUVBN2RLZWNTVHJiWdIBeEFVX3lxTE5XcjVIdHQ4SlduVE14bVB4ZVVlb2k1ODFZWlhrOUJOZzRxSkZVQnZFbTZlVS1Ubi1kMVAybXNzSXNXblNidUIzNkFvcGRfNWtaZGpCZmJGdmN5ZGoxRlJQWnZVYzBVMHF2bEVqMnJMWDhXVHF6MnExNA?oc=5",
+              "title": "펜싱 남자 사브르, 단체전 4연패 대업…오상욱 2연속 2관왕(종합)[나고야AG]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxS3RpdGhkTHR0T3BBUERReE1zOFpDNzFuajd6VnE3T04yYVlYNjdnZ2FOOXBsLXNqek9EOXJ3M0J4UHV4V2hOWkhnRTIyNkZfZ1lLMnJtOFZTc0hHQm4tcdIBeEFVX3lxTE9UR1ZEOEo3WWxYMWxnZlgwOGMyU0NJWGlPeXRfTXJhUGV1YnBRYm5pVzlaTU5TZXVmbllDSUktb3hjZDZSVC13QXVCSGZEUFFLTHJUcEl1T3c0c3NHdWdqSmFYRWRwZ1FaTHFiM2V3Y0o2ZTBNOFFoTw?oc=5",
               "source": "뉴시스"
             },
             {
-              "title": "총·칼로 ‘金金’…사격 추가은·펜싱 오상욱 금메달 추가",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fYWxNUEVna21GNlR3MkZ2RG8yUmh2dzkwclJ1emRmMlZadVZ4TEl6WjB4cU9KWDJtWV94YTNjOHNrMlJZazNBTTRpWHItRURad0I2Yk9OQmxZRzBLUXFn?oc=5",
-              "source": "미주한국일보"
+              "title": "오늘(26일) 탁구 신유빈→펜싱 오상욱 ‘아시안게임’ 일정 총정리",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FdDlMRVJ3bWh5YWx3ck9tUVE4STRQQUZLT0czdUxmcEdqT09mcjZkLXdQTmdOMUgzUE1NUmZjM1F2VzJGR2RTWkNVT21JcFBVMTFaRHdINzFaS0x3Vm9pQw?oc=5",
+              "source": "iMBC 연예"
+            },
+            {
+              "title": "한국 펜싱 남자 사브르, 아시안게임 단체전 4연패…오상욱 2관왕",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSNHNXWFpvTWppSnVlZGJiYm5raXg0aHBJT1BLT0Y1eUk2Ymd3MGZKUjhWejhEWEYxUEN3aEYtUzk5S3V3cTRpRUR1akpFelp5SGZ5QnU1cnNrckk?oc=5",
+              "source": "news.kbs.co.kr"
             }
           ],
-          "description": "오상욱이 나고야 아시안게임 펜싱 남자 사브르 개인전에서 금메달을 차지하며 2연패를 달성했다. '세계에서 제일 잘생긴 금메달리스트'라는 수식어와 함께 배구스타 김연경의 박수 세리머니까지 더해져 온라인에서 큰 화제를 모았다. 같은 날 사격 추가은도 금메달을 추가하며 한국 선수단의 금메달 행진이 이어졌다.",
-          "headline": "오상욱, 남자 사브르 개인전 2연패 금메달"
+          "description": "한국 펜싱 남자 사브르가 나고야 아시안게임 단체전에서 4연패를 달성하며 대업을 이뤘다. 개인전에 이어 단체전까지 제패한 오상욱은 이번 대회 2연속 2관왕에 올랐다. 개인 통산 성적으로도 역대급 기록을 이어가는 오상욱의 활약이 한국 펜싱의 위상을 다시 한번 높였다는 평가다.",
+          "headline": "펜싱 남자 사브르, 단체전 4연패 달성"
+        },
+        {
+          "rank": 2,
+          "word": "단체전",
+          "count": 3,
+          "articles": [
+            {
+              "title": "펜싱 남자 사브르 단체전 4연패‥오상욱 막판 4득점 대역전극",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLSF9RUTJELVlqempvZmpmMmlIdTRTaENWQzZWZVAzR2JZSWJ3RVlCY2xCbDc2cVhob2lWWHF2TWFOdnN0OUZTbklucVI4Q1FULUsyLWNNWUdqU2dPZkZKS3VJTFFzUW4wU1pnVUtWek5NY1BCMXfSAXZBVV95cUxQZF9WNWJJT0laMER4Q3pjc3c2S0NsTElnRmJ3SGZ5QzNXWERtVGJBQ0lmXzBTRkZ2SWhBeEkxSldXd2Zfdmc5dXJhalgxeExiWXd1UTRpUi1oXzhEc2YtdmhDRkt2emw2ajBBdl9sbFNyUk5ZYmxR?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "송세라 2관왕 막은 중국… 女 에페, 단체전 2연패 무산",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0RQeTBOR3AzQThFZEUyVkRtMmlMUElJUWZaeGhKN1h5WFo3LWV6b1I0R3NBYzU2V1laMHM2NndEbDdxUzNnVjlSdzFiYkg0UzdESklwTUFNdlZsd0J0T3gwc2dZOVlvcWtlWEhnNVpBNDR4LWFORkJVSWdmd29BZ3RreGhrdVNiZHp3?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "한국 펜싱, 여자 플뢰레 단체전 은메달…결승 한일전 역전패",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcVVNRGctS2JwcC1lbkkzRzNhbGd5Z01nb0V1VGc1amZjN3JfdEQteHVqeFN2VldnRkN6eHpLZ294dWFSSGItWkZsWExZZWlmZ20zOUlhbElFOTTSAWBBVV95cUxPT1RhZGtfb0oxQ1lwN1RMYVhLX1ZpZW90ek9STmRVbC1yOE5DU2NHV05NS0dPaUtOLS1sSlNvN0V5blJyY29BOF9KR1JRQldJWHd0N0ROM0NQNXlLRXJIejI?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "나고야 아시안게임에서 한국 펜싱 단체전 희비가 엇갈렸다. 남자 사브르는 오상욱의 막판 4득점 대역전극으로 4연패 쾌거를 달성했다. 반면 여자 에페는 중국에 막혀 단체전 2연패에 실패했고, 여자 플뢰레는 결승 한일전에서 역전패를 당하며 은메달에 그쳤다.",
+          "headline": "사브르 단체전 4연패·여자 에페·플뢰레 명암"
+        },
+        {
+          "rank": 3,
+          "word": "탄생",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘국대 왜 뽑았나’ 롯데 3인방 논란 종결→AG 특급 요원 재탄생…윤동희 홈런+김진욱-최준용 호투 ‘한국을 살렸다’ [오!쎈 도요하시]",
+              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5aS3plMFNMaG9zd3VCZWhzcjVwd0RENFQxREd6dzVvMDh0V2pEemxmUC1LQkljSXp0NUtfcEVORUFmZkZ2LWc?oc=5",
+              "source": "v.daum.net"
+            },
+            {
+              "title": "윤동희 '찬스 살린 적시타'",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CRTNFeDgwUUN3SG5raGh1eWNLQjRQVWlZUXZucGxqVGJMTnhEWTlNb3c1STI4d2lWZUxEMVhHdERXaGlteG9xNThrcWJhMFdOVzFOZEFRTjk1SFlF?oc=5",
+              "source": "sports.news.nate.com"
+            },
+            {
+              "title": "윤동희·손호영·안현민…2026시즌 1호 기록에 이름 올린 타자들",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MZkVmNExUQV94YzIzT1JBNlJORWVnblBiX1ZzOWpmWjMzZHpQejlHRU1jUWFiZlFEc05JMlRyb1VDLXNTZjQ0RnAyaGFFZERLMTV2LUlHZTFTN0xlTkV1dXVqQ2JtRG41M3J4RDJ1QQ?oc=5",
+              "source": "stnsports.co.kr"
+            }
+          ],
+          "description": "아시안게임 야구에서 '국가대표 선발 논란'을 받았던 롯데 3인방이 반전을 일으키며 화제다. 윤동희가 홈런을 포함한 맹타를 휘두르고 김진욱·최준용이 호투하며 한국을 위기에서 살렸다는 평가가 나왔다. 오늘 처음 등장한 키워드다.",
+          "headline": "윤동희 홈런·투수진 호투로 야구 위기 탈출"
         },
         {
           "rank": 4,
-          "word": "대만",
+          "word": "아시안게임",
           "count": 2,
           "articles": [
             {
-              "title": "대놓고 \"대만 독립 반대\" 압박까지…트럼프는 '동문서답'",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oZTJZT0JFcFo3X21GQm9YUElpLTVwUVhqcnRvUE1GWDRuYXE1VFZPaDExTHVKQjI2R1dpZ1oxOWtCM1F4QzJQME9GdFhXbXc?oc=5",
+              "title": "야구 한일전 20년 만의 패배…결국엔 득점력이다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxR1ZRWW9xOVJFWGxQTnRKd1VVeVprNWZTRUxad1hBNDBVUkdqVnUxdGtaZlFoQXE1dm9OdUU5QmxQYXNSLVFpaUF5UjRCU0U?oc=5",
               "source": "v.daum.net"
             },
             {
-              "title": "경제는 초호황인데.. 대만 전문가들 ‘섬뜩한 경고’",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TQUt3UnpJNWJZOTBCZUw5a3hGb3M2OHhRMERRQzBhSlc1MFFfaXp3M2JYZXlMZThTSnB6WnFUYXBRU3hfWWVWTzFIVXNjN0hIWXVsdU9TQWpXMUV5LUFkZDZFZm1fR1NCYnZyWVQ1ZEzSAXRBVV95cUxPdVNTV1VjZmRCVmotRFV3LVNiVWFZbjh6SmtJZGJiZ2N6MWFJbk1XZy04Y0hMYS1KN3J4VFViX1pld3A5eVc5TWFBQURYNTJlVnpmLTVZODBYQzd0eHJZV09zRURsUktUVDc5ckZsMXoxSl9zTw?oc=5",
-              "source": "연합인포맥스"
+              "title": "야구 한국-중국전, 우천 지연…결승행 변수",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xZm5DdXBnejVuc2YyMDFoU29FUFZKYW1lN2RQNFdVd3VuVUdQbWZCaVltbklRazluT1RYOThVcWFlMnY0eWNZZnllUnljYmcxb0pMUDc5MEVJakXSAWBBVV95cUxNbWJ3V2lONUxyb2l3TW96VWFINWFiangyTVNJbTQ5RW1velhyd2k2SjJaLWFncExwc29WVHBNUF9OREo5OENQSkpmXzVUZEJxVjlfTE1aczYwOU5CajNmWWM?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "“모리스 창의 40년 리더십…대만 반도체 토대 닦았다”",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1veVlycDk3SVdYTW9vUUlWb1NMdVo0RmE4SndOVEV4SGxMdEo3T05tNndySndKSXNvSW5FeVg2cEdtWXZDWjdRY2pHS2o5amVjcFE?oc=5",
-              "source": "서울경제"
+              "title": "한국 야구대표팀, 전원 실업팀 일본에 0-5 완패",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sN2hjaG16TUdGcHRMUm9DMkRnQlNSclNUaW1aRUIxenhBT09vVlBVdU9HandjREhYZzRqXy1PR0k5OC1ldk9VRTN3eFZsVWZtUUp6RmdjQUZvTjhpX0tQX25HU1BLdlFEcjJSLWEySGY0VGFmS1HSAXZBVV95cUxPdV83YUs2dWhjc09sUmFtTFNNX3pjZENheDNab1RPd19qbTJNVlY1QzFFV2xMeWN3LURXSDZ6cVhJeEVhbDFxMVFuRDlwamVuMjJIY3RmX3BoNm8xSDFQUmRnS3hvTXVqazUxMlFYOG1Xem5vbUZn?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "대만을 둘러싼 지정학적 긴장과 경제 전망이 동시에 화제다. 트럼프 측의 '대만 독립 반대' 압박 발언이 나온 가운데, 현지 전문가들은 경제 초호황에도 불구하고 섬뜩한 경고를 내놓고 있다. TSMC 창업자 모리스 창의 40년 리더십과 반도체 산업의 토대를 재조명하는 기사도 주목받으며, 오늘 처음 스포츠 트렌드 키워드로 등장했다.",
-          "headline": "대만, 독립 압박·경제 경고 등 연일 주목"
+          "description": "나고야 아시안게임 야구에서 한국이 전원 실업팀으로 구성된 일본에 0-5로 완패하며 20년 만에 한일전 패배를 기록했다. 득점력 부재가 패인으로 지목됐다. 결승 진출을 다투는 한국-중국전은 우천으로 경기가 지연되며 결승행 변수로 떠올랐다.",
+          "headline": "야구, 일본에 0-5 완패·한중전은 우천 지연"
         },
         {
           "rank": 5,
-          "word": "운명",
+          "word": "카약",
           "count": 2,
           "articles": [
             {
-              "title": "오전 시설부 직원-오후 야구선수…‘운명의 한일전’ 일본 선발 히구치 신",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zcUxUVlhHR2NwSG5fZ1pNcFExMmRqRFBjNUVwaFZHaklnWWM5cWpNZmEzZVZjZ3hHQmNQVDV1X1ptMVJMS3lHWE5xXzZCNzFXZTJjNHhZNG9TaUVreENUNFJkR3drOFNrM1dpaTZITDl0MWd0OGlJ?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "이기면 결승 유력! 운명의 한일전 라인업 공식발표…김도영 리드오프, '0.086'→'0.500' 외야수 교체 [도요하시 LIVE]",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RcjZ4VjJLMi1kNVJETjdOdTF2QnRnOFF5djhSbXFNVDh3UmkxUTBHQzVKa01ISzJVa1ItX2trRG9pbjlCSlZvRDJELXBOclhyeEdvYXlGZW9QTWlDS3VoYUptaFhxWGxyYlRLQmR5TkhiT2xIeXVNR1VHTkpFUQ?oc=5",
-              "source": "스포츠조선"
-            },
-            {
-              "title": "한국야구 드디어 올 것이 왔다! 운명의 한일전 성사→슈퍼라운드 대진표 완성 “일본 사회인? 절대 무시 못 한다” [오!쎈 오카자키]",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nNVlCdDJBcnNjdklDUkkwXzBsM04xeFo3S2czdnlWSTNIMUNjQUVHWUpKVjlHcEc0b0VZM01NUnpYcl85dkpmOFlzQQ?oc=5",
+              "title": "한국 카누 장상원, 카약 1인승 은메달 쾌거",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZUGNsRWJpUTF4aldPeW03TXFiUTYyLVdfZ0YxaXRGU29RbEJqRjRvcWczM2JDNzM1dmNiRk91TmljUEhsWDlkeG81OGpRV1U?oc=5",
               "source": "v.daum.net"
+            },
+            {
+              "title": "여서정 8년 만의 '금빛 착지'…카누 카약 4인승 사상 첫 금(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82NTF4S0pueHpTZ0RMU3A1N1NWVGp5N3dxNk9DWVUyRThVdGJPWmVYdmxqYjZlYUFQdGtPZERqZEx5VUtWUHVtdzdteHA1NFNBREgzTXpUcEpoMkHSAWBBVV95cUxObDBfNFV5QXowMWhLLUFVMUN4LVg5VHozTmZtajJvd240TDBldkk4c0FlZ0FwTzJaRG9VRTUxQWVNdW5IOFRWSExLNGtVeUozOG9vZ0ZNRm9mSngtVEtoMC0?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "韓카누, 벌써 금2·은2…혼성 카약 2인승서 또 '은빛 물살'(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4NGZqWHZpdjZXd2xPRU03Q2VFakgyUU0tdC12dEV0MEM4WTdhWXRSNkpybDJlSzhTXzNkRDRCR1R2V3dNb1RmMFVfVmMzSW1adHZJU3RNY1g4NE1iV0p2M9IBYEFVX3lxTFB4NGZqWHZpdjZXd2xPRU03Q2VFakgyUU0tdC12dEV0MEM4WTdhWXRSNkpybDJlSzhTXzNkRDRCR1R2V3dNb1RmMFVfVmMzSW1adHZJU3RNY1g4NE1iV0p2Mw?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "아시안게임 야구 슈퍼라운드에서 한국과 일본의 대결이 성사되며 '운명의 한일전'이 뜨거운 화제로 떠올랐다. 한국은 김도영을 리드오프로 내세우는 공식 라인업을 발표했고, 일본 선발로는 평소 시설부 직원으로 일하는 사회인 야구 출신 히구치 신이 낙점돼 눈길을 끌었다. 이기면 결승 진출이 유력한 만큼 이번 경기의 결과에 관심이 집중되고 있으며, 오늘 처음 등장한 키워드다.",
-          "headline": "한일전 성사, 운명의 대결 라인업 공개"
+          "description": "나고야 아시안게임에서 한국 카누가 카약 종목을 중심으로 금메달 2개·은메달 2개를 거두며 돌풍을 일으키고 있다. 카약 4인승에서 사상 첫 금메달을 획득했고, 장상원은 카약 1인승 은메달을 추가했다. 혼성 카약 2인승에서도 은메달을 보태며 비인기 종목의 선전이 이어졌다. 오늘 처음 등장한 키워드다.",
+          "headline": "韓 카누, 카약서 금2·은2 수확"
         }
       ]
     }
