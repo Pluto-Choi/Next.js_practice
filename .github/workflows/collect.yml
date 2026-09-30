@@ -1,16 +1,44 @@
 name: Collect Daily Keywords
 
 on:
+  # 정시 실행은 Vercel Cron(app/api/cron/collect)이 05시대·17시대 KST에 workflow_dispatch로 깨운다.
+  # GitHub schedule은 몇 시간씩 늦게 떠서 백업으로만 둔다(아래 guard가 이미 수집됐으면 건너뜀).
   schedule:
-    - cron: '0 21 * * *'   # 06:00 KST (UTC 21:00) — 출근 피크(7시) 전 완료 목표
-    - cron: '30 8 * * *'   # 17:30 KST (UTC 08:30) — 퇴근 전
-  workflow_dispatch:        # 수동 실행 가능
+    - cron: '30 21 * * *'  # 06:30 KST (UTC 21:30)
+    - cron: '30 9 * * *'   # 18:30 KST (UTC 09:30)
+  workflow_dispatch:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
+  guard:
+    runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: 최근 정시 슬롯 이후 수집됐는지 확인
+        id: check
+        if: github.event_name == 'schedule'
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          from datetime import datetime, timedelta, timezone
+          KST = timezone(timedelta(hours=9))
+          now = datetime.now(KST)
+          # 가장 최근 정시 슬롯(05시·17시 KST). 그 뒤에 수집된 데이터가 있으면 백업은 쉰다.
+          slots = [d.replace(hour=h, minute=0, second=0, microsecond=0)
+                   for d in (now, now - timedelta(days=1)) for h in (5, 17)]
+          slot = max(s for s in slots if s <= now)
+          data = json.load(open('data/keywords.json', encoding='utf-8'))
+          updated = datetime.strptime(data['updated_at'], '%Y-%m-%d %H:%M').replace(tzinfo=KST)
+          print(f"skip={'true' if updated >= slot else 'false'}")
+          PY
+
   collect:
+    needs: guard
+    if: needs.guard.outputs.skip != 'true'
     runs-on: ubuntu-latest
 
     steps:
