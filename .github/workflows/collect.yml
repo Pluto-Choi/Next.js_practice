@@ -85,10 +85,6 @@ jobs:
             sleep 5
           done
 
-      - name: Vercel 재배포 트리거
-        run: |
-          curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
-
       # 수집 성공 직후 급상승 본문 생성 루틴을 즉시 호출(이벤트 체이닝).
       # 고정 시각 추측 대신 키워드가 푸시된 그 순간 본문이 따라붙는다.
       - name: 급상승 본문 생성 루틴 호출 (fire)
