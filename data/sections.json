@@ -118,5 +118,37 @@
     ],
     "headline": "미국 관세·투자 이슈, 산업 전방위 영향",
     "generated_at": "2026-10-05 05:25 KST"
+  },
+  "게임": {
+    "sections": [
+      {
+        "heading": "신작 게임 최적화 지원 포함",
+        "body": "AMD가 새로운 Adrenalin 26.5.2 WHQL 드라이버를 출시하며 인기 신작 게임에 대한 최적화 지원을 추가했다. 이번 드라이버는 '포르자 호라이즌 6'와 '007 퍼스트라이트'에 대한 공식 최적화 지원을 포함하며, AMD Radeon 그래픽카드 사용자들이 해당 게임을 최적의 환경에서 즐길 수 있도록 설계됐다."
+      },
+      {
+        "heading": "버그 수정 및 알려진 문제",
+        "body": "이번 드라이버는 Radeon RX 9000 시리즈에서 발생하던 RoadCraft 크래시 문제와 Satisfactory의 그래픽 오류를 수정했다. 그러나 Subnautica 2와 Marvel Rivals가 RX 9000 시리즈에서 안정성 문제를 보일 수 있으며, AMD Ryzen AI 9 HX 370 시스템에서는 배틀필드 6 크래시도 여전히 미해결 상태로 알려졌다."
+      },
+      {
+        "heading": "업데이트 전 주의사항",
+        "body": "Radeon RX 7000 시리즈 사용자가 Blender를 사용할 경우 크래시가 발생할 수 있는 알려진 이슈가 존재한다. Subnautica 2를 주로 즐기는 RX 9000 시리즈 사용자는 업데이트 전 호환성 문제를 미리 확인하는 것이 권장된다."
+      }
+    ],
+    "sources": [
+      {
+        "title": "AMD Radeon Adrenalin 26.5.2 WHQL Driver Available For Download",
+        "url": "https://dsogaming.com/news/amd-radeon-adrenalin-26-5-2-whql-driver-available-for-download/"
+      },
+      {
+        "title": "AMD Adrenalin 26.5.2 Radeon Driver – Forza Horizon 6 & 007 First Light",
+        "url": "https://www.igorslab.de/en/amd-adrenalin-26-5-2-radeon-driver-forza-horizon-6-007-first-light/"
+      },
+      {
+        "title": "AMD's new Radeon driver adds Forza Horizon 6 and 007 First Light support, but Subnautica 2 players might want to skip it",
+        "url": "https://www.tweaktown.com/news/111613/amds-new-radeon-driver-adds-forza-horizon-6-and-007-first-light-support-but-subnautica-2-players-might-want-to-skip-it/"
+      }
+    ],
+    "headline": "AMD, 신작 게임 최적화 드라이버 출시",
+    "generated_at": "2026-10-05 07:12 KST"
   }
 }
