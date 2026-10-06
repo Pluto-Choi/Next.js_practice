@@ -4,9 +4,14 @@ Threads 자동 게시 스크립트.
 키워드 수집(collect.py) 직후 실행되어 data/keywords.json의 오늘 키워드를
 운영 Threads 계정에 게시한다.
 
+게시물 = 이슈 1개 집중. 아침(KST 12시 전)은 오늘의 이슈 1위, 저녁은 나머지
+분야 중 가장 화제인 1위. 헤드라인 + 궁금증을 남기는 한 줄 + 키워드 페이지 링크.
+(헤드라인을 여러 개 나열하면 피드에서 궁금증이 다 풀려 클릭이 0이었음)
+
 환경변수:
   THREADS_USER_ID       - Threads 사용자 ID (숫자)
   THREADS_ACCESS_TOKEN  - 장기 액세스 토큰
+  ANTHROPIC_API_KEY     - 훅 한 줄 생성용(없거나 실패하면 훅 없이 게시)
 
 둘 중 하나라도 없으면 조용히 건너뛴다(파이프라인을 깨지 않음).
 게시 실패도 비치명적으로 처리하고 종료 코드 0을 반환한다.
@@ -18,6 +23,7 @@ import json
 import os
 import sys
 import time
+from datetime import datetime, timedelta, timezone
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -37,46 +43,60 @@ def log(msg: str) -> None:
     print(f"[threads] {msg}", flush=True)
 
 
-def _phrase(k: dict) -> str:
-    """키워드에 대해 우리가 자체 생성한 한 줄 구(headline). 없으면 단어로 폴백."""
-    return (k.get("headline") or "").strip() or k.get("word", "").strip()
-
-
-def build_text(data: dict) -> str:
-    date = data.get("date", "")
-    try:
-        _y, m, d = date.split("-")
-        md = f"{int(m)}월 {int(d)}일"
-    except ValueError:
-        md = date
-
+def pick_keyword(data: dict, kst_hour: int) -> tuple[str, dict] | None:
+    """아침엔 오늘의 이슈 1위, 저녁엔 다른 분야 1위 중 관련 기사가 가장 많은 것."""
     cats = data.get("categories", {})
-    lines = [f"📰 오늘의 뉴스 · {md}", "", "오늘 많이 찾은 이슈 👇", ""]
-
-    # 바로 단어 나열 대신, 각 키워드에 대해 자체 생성한 한 줄 구를 노출한다.
-    # 이슈는 2개, 나머지 분야는 1개씩만 뽑아 너무 길지 않게 유지.
-    tags = []
-    for name in CAT_ORDER:
+    if kst_hour < 12:
+        names = [HERO_CATEGORY]
+    else:
+        names = sorted(
+            (n for n in CAT_ORDER if n != HERO_CATEGORY and cats.get(n, {}).get("keywords")),
+            key=lambda n: -cats[n]["keywords"][0].get("count", 0),
+        ) or [HERO_CATEGORY]
+    for name in names:
         kws = cats.get(name, {}).get("keywords", [])
-        take = 2 if name == HERO_CATEGORY else 1
-        for k in kws[:take]:
-            phrase = _phrase(k)
-            if phrase:
-                lines.append(f"{CAT_EMOJI.get(name, '•')} {phrase}")
-            word = k.get("word", "").strip()
-            if word:
-                tags.append(f"#{word}")
+        if kws and kws[0].get("word"):
+            return name, kws[0]
+    return None
 
-    lines.append("")
-    lines.append(f"다른 이슈가 궁금하다면? 👉 {SITE}")
-    if tags:
-        lines.append("")
-        lines.append(" ".join(tags))
 
+def make_hook(headline: str, description: str) -> str:
+    """요약(우리 AI 요약)에 있는 사실 하나로 궁금증을 남기는 한 줄. 실패 시 빈 문자열."""
+    if not description or not os.environ.get("ANTHROPIC_API_KEY"):
+        return ""
+    try:
+        import anthropic
+
+        msg = anthropic.Anthropic().messages.create(
+            model="claude-sonnet-4-6",
+            max_tokens=100,
+            messages=[{"role": "user", "content": (
+                "뉴스 헤드라인과 요약이 있다. 요약에서 헤드라인에 없는 사실 하나를 골라, "
+                "읽는 사람이 '무슨 일이지?' 하고 궁금해지게 만드는 한국어 한 문장을 써라.\n"
+                "규칙: 요약에 있는 사실만 쓴다(추측·과장·창작 금지). 40자 이내. "
+                "'~했다는데…' 같은 구어체로 끝낸다. 결론·이유는 밝히지 않는다. 문장만 출력.\n\n"
+                f"헤드라인: {headline}\n요약: {description}"
+            )}],
+        )
+        hook = msg.content[0].text.strip().strip('"').splitlines()[0].strip()
+    except Exception as e:  # noqa: BLE001 - 훅은 선택 요소
+        log(f"훅 생성 실패 → 훅 없이 게시: {e}")
+        return ""
+    if not hook or len(hook) > 60 or "http" in hook:
+        return ""
+    return hook
+
+
+def build_text(category: str, k: dict, hook: str) -> str:
+    word = k["word"].strip()
+    headline = (k.get("headline") or "").strip() or word
+    url = f"{SITE}/keyword/{urllib.parse.quote(word)}"
+    lines = [f"{CAT_EMOJI.get(category, '🔥')} 지금 가장 많이 찾는 뉴스", "", headline]
+    if hook:
+        lines.append(hook)
+    lines += ["", "무슨 일이 있었는지 정리했어요 👇", url, "", f"#{word.replace(' ', '')}"]
     text = "\n".join(lines)
-    if len(text) > TEXT_LIMIT:
-        text = text[: TEXT_LIMIT - 3] + "..."
-    return text
+    return text[: TEXT_LIMIT - 3] + "..." if len(text) > TEXT_LIMIT else text
 
 
 def _post_json(url: str, params: dict) -> dict:
@@ -130,13 +150,21 @@ def main() -> int:
         log(f"keywords.json 로드 실패 → 건너뜀: {e}")
         return 0
 
-    text = build_text(data)
-    signature = hashlib.sha256(text.encode()).hexdigest()
+    kst_hour = datetime.now(timezone(timedelta(hours=9))).hour
+    picked = pick_keyword(data, kst_hour)
+    if not picked:
+        log("게시할 키워드 없음 → 건너뜀")
+        return 0
+    category, k = picked
 
+    # 중복 판단은 문구(훅은 매번 달라짐)가 아니라 날짜+키워드로 한다.
+    signature = hashlib.sha256(f"{data.get('date', '')}|{k['word']}".encode()).hexdigest()
     state = load_state()
     if state.get("last_signature") == signature:
-        log("직전 게시와 동일한 내용 → 중복 게시 건너뜀")
+        log("직전 게시와 같은 날짜·키워드 → 중복 게시 건너뜀")
         return 0
+
+    text = build_text(category, k, make_hook(k.get("headline", ""), k.get("description", "")))
 
     try:
         post_id = publish(user_id, token, text)
