@@ -2,7 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import AppShell from "../../components/AppShell";
-import { getAllKeywords, getKeywordDetail } from "../../data";
+import { getAllDates, getAllKeywords, getCoKeywords, getKeywordDetail } from "../../data";
 import { categoryEmoji, categoryLabel, categorySlug } from "../../categories";
 import { cleanTitle } from "../../lib/format";
 import { keywordJsonLdHtml } from "./jsonld";
@@ -53,7 +53,14 @@ export default async function KeywordPage({ params }: Props) {
   const detail = await getKeywordDetail(term);
   if (!detail) notFound();
 
-  const { word, headline, categories, latestDate, daysCount, peakRank, articles, description, sections } = detail;
+  const { word, headline, categories, latestDate, daysCount, peakRank, articles, description, sections, entries } = detail;
+  // 순위 추이·함께 뜬 키워드는 우리가 계산한 순위 데이터. 날짜 페이지·다른 키워드
+  // 페이지로 이어지는 링크가 되어 사이트맵 밖의 크롤 경로도 만든다.
+  const [dateSet, coKeywords] = await Promise.all([
+    getAllDates().then((d) => new Set(d)),
+    getCoKeywords(word, latestDate),
+  ]);
+  const recentEntries = entries.slice(0, 14);
   const title = headline || word;
   const hasSections = !!sections && sections.length > 0;
 
@@ -174,6 +181,65 @@ export default async function KeywordPage({ params }: Props) {
                   <span className="sr-only"> (새 탭에서 원문 열기)</span>
                   <span aria-hidden="true" className="mt-0.5 shrink-0 text-zinc-300 dark:text-zinc-600 text-xs group-hover/link:text-orange-700 dark:group-hover/link:text-orange-400 transition-colors">↗</span>
                 </a>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* === 순위 추이 (날짜별 순위, 날짜 페이지로 링크) === */}
+        <section className="mb-12">
+          <h2 className="text-base font-bold tracking-tight mb-4 flex items-center gap-2">
+            <span aria-hidden="true">📈</span>순위 추이
+            {entries.length > recentEntries.length && (
+              <span className="text-xs font-medium text-zinc-500 tabular-nums">최근 {recentEntries.length}일</span>
+            )}
+          </h2>
+          <ol className="flex flex-col">
+            {recentEntries.map((e) => {
+              const label = `${categoryEmoji[e.category] || "📌"} ${categoryLabel[e.category] || e.category}`;
+              const row = (
+                <>
+                  <span className="tabular-nums text-zinc-500 dark:text-zinc-400 w-24 shrink-0">{e.date}</span>
+                  <span className="flex-1 min-w-0 truncate text-zinc-600 dark:text-zinc-300">{label}</span>
+                  <span className="tabular-nums font-semibold text-zinc-800 dark:text-zinc-100">{e.rank}위</span>
+                </>
+              );
+              const cls = "flex items-center gap-3 -mx-2 px-2 py-2.5 rounded-lg border-b border-zinc-100 dark:border-zinc-800/60 text-sm";
+              return (
+                <li key={`${e.date}-${e.category}`}>
+                  {dateSet.has(e.date) ? (
+                    <Link
+                      href={`/${e.date}`}
+                      className={`${cls} transition-colors hover:bg-zinc-50 dark:hover:bg-zinc-800/40`}
+                      aria-label={`${e.date} ${label} ${e.rank}위 — 그날 뉴스 보기`}
+                    >
+                      {row}
+                    </Link>
+                  ) : (
+                    <div className={cls}>{row}</div>
+                  )}
+                </li>
+              );
+            })}
+          </ol>
+        </section>
+
+        {/* === 같은 날 함께 뜬 키워드 === */}
+        {coKeywords.length > 0 && (
+          <section className="mb-12">
+            <h2 className="text-base font-bold tracking-tight mb-4 flex items-center gap-2">
+              <span aria-hidden="true">🔗</span>{latestDate} 함께 뜬 키워드
+            </h2>
+            <div className="flex flex-wrap gap-2">
+              {coKeywords.map((k) => (
+                <Link
+                  key={k.word}
+                  href={`/keyword/${encodeURIComponent(k.word)}`}
+                  title={k.headline}
+                  className="text-sm px-3 py-1.5 rounded-full bg-zinc-100 text-zinc-700 dark:bg-zinc-800 dark:text-zinc-200 hover:bg-orange-50 hover:text-orange-700 dark:hover:bg-orange-950/50 dark:hover:text-orange-400 transition-colors"
+                >
+                  {k.word}
+                </Link>
               ))}
             </div>
           </section>

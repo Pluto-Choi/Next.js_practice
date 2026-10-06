@@ -197,6 +197,26 @@ export const getKeywordDetail = cache(async (rawTerm: string): Promise<KeywordDe
   };
 });
 
+export type CoKeyword = { word: string; headline?: string; category: string; rank: number };
+
+// 키워드가 마지막으로 등장한 날 함께 순위에 오른 다른 키워드들(우리 순위 데이터).
+// 상세 페이지가 있는(trends에 있는) 키워드만 돌려줘 링크가 404로 가지 않게 한다.
+export async function getCoKeywords(word: string, date: string, limit = 8): Promise<CoKeyword[]> {
+  const trends = await loadTrends();
+  const data = (await loadHistoryData(date)) ?? (await loadCurrentData().catch(() => null));
+  if (!trends || !data || data.date !== date) return [];
+  const seen = new Set([word]);
+  const result: CoKeyword[] = [];
+  for (const [category, cat] of Object.entries(data.categories)) {
+    for (const k of cat.keywords) {
+      if (seen.has(k.word) || !trends.keywords[k.word]) continue;
+      seen.add(k.word);
+      result.push({ word: k.word, headline: k.headline, category, rank: k.rank });
+    }
+  }
+  return result.sort((a, b) => a.rank - b.rank).slice(0, limit);
+}
+
 export type RankChange =
   | { type: "new" }
   | { type: "up" | "down"; delta: number }
