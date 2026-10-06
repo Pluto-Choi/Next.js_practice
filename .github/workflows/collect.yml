@@ -130,6 +130,11 @@ jobs:
             -H "Content-Type: application/json" \
             -d '{"text": "키워드 수집 완료 — 급상승 본문 생성해줘."}'
 
+      # 새 키워드 페이지를 네이버·Bing에 바로 알린다(IndexNow). 재배포 반영을 기다렸다 핑.
+      - name: IndexNow 색인 요청
+        continue-on-error: true
+        run: python indexnow_ping.py
+
       - name: Discord 수집 완료 알림
         if: always()
         env:

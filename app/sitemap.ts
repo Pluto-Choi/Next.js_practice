@@ -3,11 +3,15 @@ import { promises as fs } from 'fs'
 import path from 'path'
 import { CATEGORIES } from './categories'
 import { SITE_URL as BASE_URL } from './site'
-import { getAllKeywords } from './data'
+import { getAllKeywords, loadTrends } from './data'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   let dates: string[] = []
   const keywords = await getAllKeywords()
+  // 키워드 페이지 lastmod = 마지막 등장일. 빌드 시각으로 일괄 찍으면 구글이 lastmod를 불신한다.
+  const trends = await loadTrends()
+  const lastSeen = (word: string) =>
+    new Date(trends?.keywords[word]?.reduce((m, e) => (e.date > m ? e.date : m), '') || Date.now())
   try {
     const files = await fs.readdir(path.join(process.cwd(), 'data', 'history'))
     dates = files
@@ -50,7 +54,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     })),
     ...keywords.map((word) => ({
       url: `${BASE_URL}/keyword/${encodeURIComponent(word)}`,
-      lastModified: new Date(),
+      lastModified: lastSeen(word),
       changeFrequency: 'daily' as const,
       priority: 0.6,
     })),
