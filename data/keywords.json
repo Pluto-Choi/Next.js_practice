@@ -1,509 +1,509 @@
 {
   "date": "2026-10-07",
-  "updated_at": "2026-10-07 05:16",
+  "updated_at": "2026-10-07 17:27",
   "briefing": {
-    "text": "배우 유해진이 영화 '암살자(들)' 논란으로 주요 영화제를 연달아 불참하고 경찰 신변보호까지 받는 이례적 사태가 벌어진 하루였다.\n\n한동훈 대표의 '노무현 전 대통령을 존경하지 않는다'는 발언이 정치권 설전으로 번졌고, 트럼프 전 대통령은 중간선거 '깜짝 승리'를 예고하며 유럽 이민 문제에도 목소리를 높였다.\n\n경제 분야에서는 정부와 서울시가 용적률 완화·그린벨트 해제로 주택 공급에 속도를 내기로 한 가운데, 금융권 개인정보 유출에 따른 보이스피싱 등 2차 피해 경보가 울렸다.\n\n제31회 부산국제영화제가 장이모우·양쯔충 등 세계적 영화인들과 함께 개막한 반면, 유해진 관련 행사는 취소됐다. KIA 김도영은 130경기 만에 43홈런을 기록하며 유격수 50홈런 시대를 향한 역대급 페이스를 이어갔다.",
-    "period": "아침",
-    "generated_at": "2026-10-07 05:16"
+    "text": "손흥민이 A매치 59호골로 차범근의 한국 축구 최다골 기록을 경신하며 역사를 새로 썼고, KT wiz는 5년 만의 KBO 정규시즌 우승을 확정 지어 스포츠 팬들의 이목을 집중시켰다.\n\n정치권에서는 조희대 대법원장 재제청 거부 논란을 계기로 대통령의 임명권 범위를 둘러싼 여야 공방이 격화됐고, 야당은 경찰청장이 15개월째 공석임을 함께 지적했다.\n\n경제 분야에서는 삼성전자 HBM4E가 엔비디아 주요 고객사 품질테스트를 통과하며 역대급 실적 기대감이 높아졌지만, 코스피는 '운명의 8일' 실적 발표를 앞둔 경계감 속에 6800선 아래로 밀렸다. HD건설기계는 미국 데이터센터에 3900억 원 규모의 발전 엔진 공급 계약을 수주하며 AI 인프라 수요에 올라탔다.\n\n부산국제영화제에서는 허안화 감독이 까멜리아상을 수상하고, 장이머우 감독이 역사 왜곡 논란에 \"창작은 진실에 기반하지 않을 수도 있다\"며 소신을 밝혀 찬반이 엇갈렸다. '나 혼자 산다' 제작진은 김민 관련 조작 논란에 대해 \"연출이 아니다\"라고 공식 해명했다.",
+    "period": "저녁",
+    "generated_at": "2026-10-07 17:27"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "한동훈이 \"노무현을 존경하지 않는다\"고 발언해 논란이 된 가운데, 영화 '암살자(들)' 논란으로 유해진이 시상식 불참을 이어갔다.",
+      "summary": "누리호가 위성 15기 분리에 성공했으며, 삼성전자 실적 발표를 앞두고 주목이 집중됐다.",
       "keywords": [
         {
           "rank": 1,
+          "word": "임명",
+          "count": 3,
+          "articles": [
+            {
+              "title": "한성숙 “대법원장 제청대로 임명하는 게 임명권?···최종 책임·권한은 임명권자에”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XelJRX0p5ZVVLQTVHeEhkM3puTUdBZXQ1UmwtVDFmd0lHQ1pIMVhFa25PenhpVlpnSzJKcUtCUUZ5N29BQ05fcXoxbVk0S0drc1N5d01VZWhIUdIBX0FVX3lxTE1fNVgtNjNLWDVsOVo4cVF1QkRxeXp0T19tMWI1QjdXTVlCbXBIenBtQ2VrUFRuZFRIQXpZN1Ztb2R1SzROd2o4ZE9hVXVyUV82Rm0yMGhRQmZQbF9YQ1lj?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "한성숙, 조희대 재제청 거부에 “제청대로 임명하면 임명권이 있는 것인가”",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4R3lpZTByMkhfOVJ1UXVscVp1YTMtd0FOYkRpaTVWdlhDRV9QMFZPOVF5SFFzUC1mci15Qkt4Vzk3SXVleTNxbE5HTEp5aXcxUFJXbWJhYTRyY29lZ096MFRkUlpNUVZwSUE?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "\"경찰청장 15개월 동안 미임명\" 野지적에…한성숙 \"빠른 시일 내에\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42SmxTbDlaUnlEWnFyLThaVkVnTS1wZ3FRNEptTm1XMVkybzBWa0hpXzJMZzMtSmJFSlBqak5GcVhsTmJsaE5aTU9XLU9OaFJhdmVVZFFvUE4ySGpGX0FseGFxalBwTkd6WUZLdtIBckFVX3lxTE50aEc3MDN3UGdVdE9MVWE5cTE3ZmsybkJ5aU1zM1FqVEctc1Vhc1VFZjF4VkxLZjVkRkhtRTd2bldNVXUyTlJBdkNfVG11Vnk5QVVqeDlnQWJRdUs4TkR6WXR2aEZ4RTZRTEVEaXhlTkdqQQ?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "국민의힘 한성숙 의원이 조희대 대법원장 재제청 거부 논란과 관련해 '제청대로 임명하면 임명권이 있는 것이냐'며 임명권자의 최종 책임과 권한을 강조했다. 대통령의 임명권 범위를 둘러싼 여야 논쟁이 가열되는 가운데, 야당은 경찰청장이 15개월째 임명되지 않은 점도 함께 지적했다. 한성숙 의원은 이에 대해 빠른 시일 내에 임명하겠다고 답했다. 오늘 처음 등장한 키워드다.",
+          "headline": "한성숙, 임명권 논쟁 정면 반박"
+        },
+        {
+          "rank": 2,
+          "word": "얼음",
+          "count": 2,
+          "articles": [
+            {
+              "title": "내일까지 아침 5~10도 ‘쌀쌀’…서리 내리고 얼음 어는 곳도",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tbnRkWXREMlpuMXpnVGpDMHBhaDdZNWhudk8xRVM3UWROSV9zU1dRY2Q2b3N2ZzMwQVJ4Y2VSRFRGR21pY1EyUWRmdU9nMjlsLTNmajBIczJEZ0E3U0VqcUE1eWNYcGZwbUllRg?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "불가능 취급받던 남극 얼음 '유령입자' 검출, 물리학상 단독 수상(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mVmxoRDJ2YkFaN3pmSUE3MGFqcFZXNkZlT19vak92SGx0TFVVU01vNlNDM2dTdFhUcW5mXzRxbVdhX0tINkp4dTNUemY1czRjc3dYMw?oc=5",
+              "source": "DongA Science"
+            },
+            {
+              "title": "화성 북극 얼음, 생각보다 깨끗하다..생명체 탐사 열쇠 될까 [우주로 간다]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ERXRRaERpeGJkOEI3QTZlVDNXN2lFSHVJczl6Z1pUMkZmRHhzRG9tSmwyWFBoOHdLY2NxUGxvbEUxNEZ4cklZOUVXLXFMVWtnWEVwVEl3?oc=5",
+              "source": "지디넷코리아"
+            }
+          ],
+          "description": "내일까지 아침 기온이 5~10도로 쌀쌀해지며 서리가 내리고 얼음이 어는 곳도 생길 전망이다. 한편 과학계에서도 '얼음' 관련 소식이 화제를 모았는데, 남극 얼음에서 불가능하다고 여겨지던 유령입자(중성미자) 검출에 성공한 연구가 노벨 물리학상 단독 수상으로 이어졌다. 화성 북극 얼음이 생각보다 깨끗하다는 연구 결과도 발표되며 생명체 탐사 가능성에 대한 관심도 높아졌다. 오늘 처음 등장한 키워드다.",
+          "headline": "아침 기온 뚝, 얼음 어는 곳도"
+        },
+        {
+          "rank": 3,
           "word": "트럼프",
           "count": 2,
           "articles": [
             {
-              "title": "트럼프, 중간선거 '깜짝승리론' 언급…\"서프라이즈 지켜봐라\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81NURNTUoxTFdsT2FiTlplQ25jdDdrR2loclhzWmplcnRwdjNKNmNXYnlLdTZlNnhudmxGVUJveTVXX0I2aUxqdHdVWlhQR1k?oc=5",
-              "source": "Daum"
+              "title": "벌거벗은 임금님 빗댄 ‘벌거벗은 트럼프’ 동상…유럽의회 본부에 전시",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zTUF4Ymt0aFpnU1VmeTlCS3RERzFqbWNodWtjVUhXNGlsOGljSUpzX0ZScWcwS3dPZlUtNS1IZzYwekh0bG1iWEFYenRzazRoRUgyTmhsVW5kQdIBX0FVX3lxTE1INjhLREpIV25UOTdoN3RUY05UanQ2bU9WcTVJRFp3a0FKdkJiUmpud1k2Ti1oZmRkVTUwcTdwN3pqOEVfN0RDTjRXZFpNLXo1VU5iY1g0MWlVYnJnclRj?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "트럼프, 프랑스 학생시위 사태에 \"통제불능 이민과 이슬람 문제\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FVlFzY0hwbWJJVmRGaDNPUGEyLXFYVWx3cHlHZVZwZHlQNkNDWjJFNVAxNGNLOVJDdHNCV2FxVzhMaTUtb1F1MEh1alVBcHU2Y2NlS25icTZZVlHSAWBBVV95cUxQUXVtMUx2R2xsTTZkYUlJc3NfN2dLeTNmUlQzVUlaVTNnc01hbEpzcFJUVU14QkdhMFpRMVFIVzlrTVoxYzNNTWJIVExwekx2UURTemFqZ2QzcDRJYjBlQkc?oc=5",
+              "title": "프랑스 유럽의회 본부에 '벌거벗은 트럼프' 동상",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxUy1uNWtwS2lqc0FYemQ0QmZMYlMtbmZlNGphVjF0c1QwWTR2RWdPVTdhNkhPUWprY1laZnZzVzl0bGxWNG5sZDFjcFN0OGZZUGZlZlNDbUFhajDSAWBBVV95cUxPdVhsWFZQSGtQZ19ueUhXeTRLWUlDQktUMFBtblFPbnk1cXd2SGJiajQzUVdwOENaR3dhaDAySkJQdUh5bTdfZkVoMXNsdjN6WmE4ai1YODBTUUlUSWhPSGQ?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "트럼프 “프랑스 학생시위, 학교 문제 아닌 이슬람 이민 탓”",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9meUEta3RqbmRJeVhOaUx6dDlEQzNMSUZmOVdCYi1mY1dWTmx5OGx4cVBZUmNMMk4wT2xxdFB0dVpQRnJvMUVDUUp6MUV2WW8zWUHSAVNBVV95cUxQWHN3QUZDVV9URDE0UjJYUHVhV1ZQV0laT1RKRUlyeFZwRV9TdFdMWVU0UElVX3E3bS1vbUQ3NEhDa0xrZ0pLQXA0bzdJUkZMT3hjVQ?oc=5",
-              "source": "서울경제"
+              "title": "프랑스 유럽의회 본부에 ‘벌거벗은 트럼프’ 동상…기후위기 대응 풍자한 듯",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUxqUXpNMWt2NXlrV21fZWhiNTJQbjVaSm4tX3RaNE5OVVZ6ZWFkUEdWUVlvXzRidnJ4VDdmVE5vNHFQdmZxUkktTTdlcVl5MUFkMFZwZ0Q5VzQ3ODVTdmN2MHhFdkJnVEJibFBQOGptM3pETWF1UjlUSjJFZHMzVGln?oc=5",
+              "source": "한겨레"
             }
           ],
-          "description": "트럼프 전 대통령이 중간선거를 앞두고 '서프라이즈를 지켜봐라'며 깜짝 승리 가능성을 직접 언급했다. 동시에 프랑스에서 벌어진 학생 시위 사태에 대해서도 목소리를 높였는데, '학교 문제가 아닌 통제불능 이민과 이슬람 문제'라고 주장하며 자국 현안에서 벗어나 유럽 사태에도 개입하는 모습을 보였다. 선거 국면에서 이슈를 선점하려는 전략적 발언으로 읽힌다.",
-          "headline": "트럼프, 중간선거 '깜짝 승리' 예고"
-        },
-        {
-          "rank": 2,
-          "word": "암살자",
-          "count": 2,
-          "articles": [
-            {
-              "title": "자본으로 보는 암살자(들)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83S0U5c3Q3bk9UX1BBNG53LTVHc21UeW0yRzVNanM5RG9WbXRidVN5ZFlyOXZLWUVqS0lKYjQ0eFdTUVpFVk5GbjVkb0txS0U?oc=5",
-              "source": "Daum"
-            },
-            {
-              "title": "'암살자(들)' 논란에…유해진, 부국제 이어 부일영화상도 불참 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41eE1VQ2tXSF9tQlUwekRLS1puS0thZFNCbGRaMk4wb2RHVFhYal9ZMzFNSGdMOHpmd2RrVkNvMmJCRjBBM1pobC01RVVieHlCRTV5aE5hWUxvVy1Xd0pxcW9nWHBUcTBiQXI40gFwQVVfeXFMTVhpQkxITGZyZGJ6WVp2VkFaa2tCVDlHZ19oR3p4V2g4RlJTMDVQSDl5bzlfSW9Ud1R4RnQ2NENHM0tJSHRLaXRiUkxrNk1lSTQ2VGg0RmdWR3lCcEd2eVlFNVdudE9ROWYwdmVtWThWYw?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "경찰, 배우 유해진 신변보호 조치 시행···암살자(들) 논란 속 “위해·협박 엄정 대응”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HTEFtVHhBWlp0RjN5TzVCNzFScmRFQXJRbDY2LU5aTmJxcWxzWXlhMXZLY0M2M3VHaEd0ZHY2TkRvNHZzQXdOVXVOZW1RTDctVUhmR3FmWmlMUdIBX0FVX3lxTE5ZbE9lRzRtU29uMkk1TGRSUmItdzlfbDZ1THFIaXAzc2V1R1VCWTktQlg3R3dhTTlvRHpBSXo3MWZrd1dxSWZfckkyaEpMZE41Y2RFX0xLSFktcG40MDg4?oc=5",
-              "source": "경향신문"
-            }
-          ],
-          "description": "영화 '암살자(들)'를 둘러싼 논란이 커지면서 배우 유해진이 부산국제영화제에 이어 부일영화상 시상식에도 불참했다. 논란이 심화되자 경찰이 유해진에 대한 신변보호 조치를 시행하고, 위해·협박에 엄정 대응하겠다고 밝혔다. 오늘 처음 등장한 키워드로, 영화계 안팎의 이목이 집중되고 있다.",
-          "headline": "유해진, '암살자(들)' 논란에 영화제 불참"
-        },
-        {
-          "rank": 3,
-          "word": "노무현",
-          "count": 2,
-          "articles": [
-            {
-              "title": "“가장 존경하는 대통령” 1위 박정희 32.9%, 2위 노무현 27.0%-펜앤마이크",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBRUszSk10VU5wVUdDYk5rRGluX0Y1dWRDZ2NDeXZpYmZ4ZnF0OS1wcXI5a25Yak1laDZXSmVXMHRyZXNlbkpTOXhLWTJfcmxk?oc=5",
-              "source": "문화일보"
-            },
-            {
-              "title": "“노무현 존경 안한다” 한동훈의 말",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xZlctRFA1TnVBU25weW5xV2tGemJodmZvUFlZUkhJZGRTNWdKSGptY19YUWotazNaaUQtbDJSeUIwcXY1WElPZ2pPamp2Yjdh?oc=5",
-              "source": "문화일보"
-            },
-            {
-              "title": "한대희 군포시장, 노무현의 가치에서 이해찬의 ‘공적 책임’까지",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxNWFOdENZbE9CM19KSG1kMEhOSTZZMnlPTEJsUDFrelRJNUtBNmNJVXlQRDhZNmg2cnhJTWpRWEJvNHg0ZDI4Nk10WW1Ld2w2ZlpGenZqdlFZaGpsSkpQSVNGV1N0VGRkRUpPSnJB?oc=5",
-              "source": "뉴스타운"
-            }
-          ],
-          "description": "한동훈 대표가 '노무현 전 대통령을 존경하지 않는다'고 공개 발언해 정치권에서 논란이 일고 있다. 박범계 더불어민주당 의원은 '노무현을 존경한다고 했던 윤석열 대통령보다도 못하다'고 반박하며 설전이 벌어졌다. 한편 최근 여론조사에서 '가장 존경하는 대통령' 1위는 박정희(32.9%), 2위는 노무현(27.0%)으로 나타났다. 어제 5위에서 오늘 3위로 올랐다.",
-          "headline": "한동훈 '노무현 존경 안 해' 발언 파장"
+          "description": "프랑스 유럽의회 본부에 트럼프 전 미국 대통령을 벌거벗은 모습으로 형상화한 동상이 전시됐다. 동화 '벌거벗은 임금님'에 빗댄 이 작품은 트럼프의 기후위기 대응을 풍자한 것으로 해석된다. 미국 정치를 향한 유럽의 비판적 시각이 예술 형식으로 표출된 것으로, 현지에서 상당한 주목을 받고 있다.",
+          "headline": "유럽의회에 '벌거벗은 트럼프' 동상"
         },
         {
           "rank": 4,
-          "word": "존경",
+          "word": "실적",
           "count": 2,
           "articles": [
             {
-              "title": "박범계 \"韓, 노무현 존경했던 尹보다 못해\"…한동훈 \"노무현 존경 안 해\"",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uUXFyVzhsVzJqanhScXczdFZHWFdOelBuNUdrZzRDakFpQ09TNnZmODVqb24yYnJYWmxtMmVXaGJxSDllV2tOR0NzS2h0UXQwc0MyalhuZlpzdk1uSVd3Nk5qc2pNZzA?oc=5",
-              "source": "연합뉴스TV"
+              "title": "삼성전자 개미들 어쩌나…\"운명의 8일, 악재 쏟아진다\" 비상 [종목+]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjQTc1T01zVDJYQjd1M2pyZS1GaXEyak5KZzdFcHBTQTRPQXRXUkRCeXB1Wk5oS1VlNHBJcXdjQUNnREYxZ3NhbHZ6c2Z0WHdjQUg1UHNQc05XUQ?oc=5",
+              "source": "한국경제"
             },
             {
-              "title": "박범계 \"한동훈, 노무현 존경한다는 尹보다 못해\"…韓 \"난 盧 존경 안 해\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rMVlJMU0xUkxwRkZkWVlqdmthMm5KR2hZTVVULTNXMWtWNHNwTHIxOE5raUZyZ1hRR08tWjl6SHloLUtUOEtsQnpOS2V6SVV6c3NYTTFLUm4tNkxZeG91MjBrZjl2a3c5Wmk5UdIBckFVX3lxTE5GdDF2VGQyVXp1TWV0dUNnZlkzZ3Uzbk01dE84ZG9YcUFnTjV0dXlpSkVSZnZtQ2dacHd1OW9GNDFKNWZudHRBamw1VkhUVDJMN3ZxdkZKdkhTMFpZTjBTREtTZTV5X04weGlaa0tPeXV3UQ?oc=5",
+              "title": "삼성전자, 사상 최초 분기 영업이익 ’100조 시대' 연다...주가 반등할까",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZU5Ddm1pRllIZ29jT016WnIyOG85X282RC0wUEotX3pvUElVT2tUTlIxb2tCUmliUmQ2bkE2SXVwRF82YzBxazc5RjBLQUlBaTA2Y2F5aFZVZEJ1Y0JaOU02UVJXbkhjaWg3NzhKVmZacmVVc3FuQWlBM3BGamR3Mw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "분기 영업익 100조 '꿈의 숫자' 눈앞…삼성전자 실적 D-3 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yc050eTBVRGx3ZnJuX3dJZlMwNGtreHFQY01BdUpqR0QxOVBEWXFpcmVOVmxFR25hdFJoeUVneThFdk9GSnpWTTl6NUdPTFB0LXUtSHJ1SVdqM3I0TFpQenJiZVJqUmlv0gFuQVVfeXFMTjZJdjRQX0hqbFRXY2ZqZjVzZ2ktVzVGRFl4dzFHWDhIUWRJTHNWSXF6ZDNGeVlhdTZQYXJUOGowVldqakc1dGEyWmFHVHVzbVlkUTA1R1RuWmt6Y0FnNk1Fak5Za2FtdENFV3JCMWc?oc=5",
               "source": "머니투데이"
-            },
-            {
-              "title": "박범계 \"한동훈 역사의식, 尹만도 못해\"…韓 \"난 盧 존경 안해\"",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xQ1NwbkRlTmlpanh1WVpfWVhPZnV5d2habFdsMFF2aEVVU09kbGdMZXBzWGtlOGdiWlo3OWwzT1h3akcwTmI2SjR5RGx0TFFiT3lmXzRuU2s5RzJQQmxV0gFfQVVfeXFMTXFDU3BuRGVOaWlqeHVZWl9ZWE9mdXl3aFpsV2wwUXZoRVVTT2RsZ0xlcHNYa2U4Z2JaWjc5bDNPWHdqRzBOYjZKNHlEbHRMUWJPeWZfNG5TazlHMlBCbFU?oc=5",
-              "source": "뉴스1"
             }
           ],
-          "description": "한동훈 대표가 노무현 전 대통령을 존경하지 않는다고 밝히자, 박범계 의원이 '노무현을 존경했던 윤 대통령보다 역사의식이 떨어진다'고 직격하며 여야 간 공방으로 번졌다. 현직 여당 대표의 전직 대통령에 대한 직설적 발언이 어느 선까지 정치적 파장을 일으킬지 주목된다. 오늘 처음 등장한 키워드다.",
-          "headline": "한동훈 '노무현 존경 안 해'…박범계와 충돌"
+          "description": "삼성전자가 사상 최초로 분기 영업이익 100조 원 달성을 목전에 두고 실적 발표가 3일 앞으로 다가왔다. '꿈의 숫자'로 불리던 100조 돌파 여부에 투자자들의 관심이 집중되는 한편, 8일에 악재가 쏟아질 수 있다는 경고도 나오며 개인 투자자들의 긴장감도 높아지고 있다. 실적 발표 결과가 최근 부진했던 삼성전자 주가의 반등 계기가 될 수 있을지 주목된다. 오늘 처음 등장한 키워드다.",
+          "headline": "삼성전자, 분기 영업익 100조 눈앞"
         },
         {
           "rank": 5,
-          "word": "서버",
-          "count": 2,
+          "word": "누리",
+          "count": 1,
           "articles": [
             {
-              "title": "은행 해킹 AI 도구 깔린 서버 52대 포착…80%가 미 LA 임대업체 서버",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EWmR2aUZIdnQ5NEFjbGp2T0hkUHZhSlh3RTIwOVU4S2hybk02SnZWQ1ktS191cVhJWURNb19OMnBWaGpEQkFTSmJER3lRRDU4X20tVzM2djc5UdIBX0FVX3lxTE93M1R0MF9uLTNDN3NLVWF4cFVxMENWT3hRZ24yMTRuYlpCcHZtblNqS1hnTTJGa1p3Y0NXZ05XeTdKRWl4M09TOEI2RnNYVENNUEhxdVhVMnlzb1A0MXBN?oc=5",
-              "source": "경향신문"
+              "title": "35초마다 위성 하나씩 분리…누리호, 역대 최다 15기 싣고 7일 우주로",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeVNUdHNyRTdCeEEtY2ZCOVQyV3lXUU15UUNZMW44ZFliVW9hVndkbGEycGY5UTFTTGZiS0dwM2dMaU9SS0pJb1I1blBkMjRDLTVrZHlzQTJRU1I3U1NyR3gtc1lwclpmM1l2cHBJSEhMdmoxdW1taTdDTVprZURTVTRDOA?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "휴대폰에서 팝업이 겹칠 때 보는 서버 슬롯 화면 안내",
-              "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQckZ1bkFfaTltbEtuemNhQ2FTLXhWc3RUbVB6SklqTGV6T1FKc1NMM1FVMjllekRPZVhORnVZZFgyWS1pczNqYnpFOEZIM3ZFYlZRd3laZTBtdV9PTnRqcVdoRDVra0NfVmw5SXZiR3E4NnNHVmRIT3dzWnVwLU5ES2stNTl3VG1wVDNFUW92Ty1sVmNLTHJzTUFiUkVwTjZTWmREcEhVQl9iNkhsSkUyeTBDNmVKZmtPUmYxQ0t6QnZCS0RRdktmMzdULUVCYUtTWkwyT3ktZEFHVGcxcEVYdU1VSHdCazhvazdNdjloNXhXeXpOQkV6R1lKdXFDS3VQU3BZMWcxYjB2c0RuOUxzVFRR?oc=5",
-              "source": "Histoire pour tous"
+              "title": "누리호, 목표 궤도 진입…위성 15기 분리도 성공",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rMi1POU9Ua3FNanRVd3JZdTRfYTJXVmVUeklfRFFUc01jNldheXFrcWNrbHlWLWY5ano3US15blB6ZWJkTGdTYmg1UTl4QUlkNlRQR0hSWlFhOVpyNE1Talh2b0JiMk8wc2tveHczWk80dw?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "LA오페라 한인 성악가들 활약 대단",
-              "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZjhfclhqX1Vqa0x3cUhpWFRUOWt3eXhSNG5zM1JadE1nTnU3ZWhKdXNTNjR3ZWpvbzJ1R0VqU0J2cHAtTXRobm10YkRNU0RYanVBMU9qTktlYW5sV01RR09jYWdFSzRXNGNZVkNIMnU2eExTTF9jX1U3Zm9Na0czZV9qdENQYXBxM0w2R1FoaTR4SWp5eEI1cG04X1Q0QzRaMzQ3QWhYYVd1OVFYMFV2MWtmRTVkenhMR2ZvUU55amRJUnNmT3V5anBadzkyQzZGVHJTWHpLREVyRk9OUThDQ2RUMDVPdmpqMGpEb25sdGtkTDJsTFh2c0x0cnN6RDhuUXFWMF9YTEE?oc=5",
-              "source": "미주조선일보"
+              "title": "누리호 5번째 비행 성공…575㎞ 궤도에 위성 줄 세운다 [팩플]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IdFY4ZW9ZV3RaN0pGVVJWR256MmFsNlJYYVpIUXM0aklSSEtHMTJlZ3piUGduLUhhMlZMeF95akdCbnhuejg5Mi1zbkJ4ZE9PZ1M3dEh3?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "은행 해킹에 사용되는 AI 도구가 설치된 서버 52대가 국내에서 포착됐으며, 이 중 80%가 미국 LA 소재 임대업체 서버인 것으로 확인됐다. 금융 사이버 보안 위협이 해외 인프라를 거점으로 삼는 방식으로 정교해지고 있어 당국의 추적과 대응이 요구되는 상황이다. 오늘 처음 등장한 키워드다.",
-          "headline": "은행 해킹 AI 도구 서버 52대 포착"
+          "description": "한국형 발사체 누리호가 7일 5번째 비행에 성공하며 575㎞ 목표 궤도에 안착했다. 이번 발사에서는 역대 최다인 위성 15기를 탑재해 35초마다 하나씩 순차 분리하는 데도 모두 성공했다. 반복 발사를 통해 기술 신뢰도를 높여가고 있는 누리호의 성과는 한국 우주 독립 역량의 본격적인 성숙을 보여주는 이정표로 평가된다. 오늘 처음 등장한 키워드다.",
+          "headline": "누리호, 위성 15기 분리 성공"
         }
       ]
     },
     "경제": {
-      "summary": "달러 강세 속 국제유가 강보합 마감·금융권 개인정보 유출 2차 피해 경고·삼성전자 주가 반등 전망",
+      "summary": "삼성전자 내년 HBM4 공급가 인상·역대급 실적 전망 · OK금융, 예별손보 인수 계약 체결",
       "keywords": [
         {
           "rank": 1,
+          "word": "삼성전자",
+          "count": 4,
+          "articles": [
+            {
+              "title": "삼성전자, 내년 HBM4 공급가 대폭 인상 전망… “D램 가격 급등 반영” - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamZCOFlZNmJKd2Q4dWV6RGZZLUh4Sk9mYnJHaHNObFFVMFdNand4aE4yTXk0WHNDdG5Sek5IdTM2T0JNSE5IV3E1UXNHeVV1WjZVZUE2Tk9FWnRBR20zaHlXM1U3LURWaGhwU3ZxUFhLbDhYYlBtY2c2NzU2bXV3UFNR0gGWAUFVX3lxTE1lQ3dZZjdKdkVwbnplRUtUQ1BrdEszV185bE54cVgzVlBaLUtZWmdNWXpYVXU2aHhZZ2JBUXliMzMzUGkwZGI4UzZ6ZGgzY0N2ZFFIY3RHYzBLcWNnRzNHUG9ILWlFejc3ZUJJcXcyOVJHVWxpVDJ0M094NUhuU1huSUpnbWNxSHNWUDNGc1VFLTJVX3htdw?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "삼성전자 영업익 100조 전망…메모리 반도체만 110조 '초대박 예고' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VVC1xdm9zVTQ4aC1SMTFLdkcxYkZVa0FEYWhaQnVzZm1kV0tXa0QwQjZoV2JhZTNpdWx2WlpTRnJlZVBUZi1sSGVNZ1dzQXJCdVJnLUlSRjZySlFpLTlQR2l4NVl6Ul9GN3p0dNIBckFVX3lxTE1OMUVXSmNvV2w4bXNmMEdSeGpCcmlxRndRM3RxM2xXTXNPNTVNcUxybTNuUEw1SVJHMzhWaDNUS2U1RU1UdmtvZ3hUTE9tMHdPTGtOLW5NS2RaUTE2cHlWMjZFaGhoWnpoYmh6Q3NvVUlEQQ?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "삼성 'HBM4E', 엔비디아 문턱 넘었다…주요 고객사 품질테스트 통과",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xRUlUcVd6RDJhTjRFRi1GOFN2TmdxSFdGUC1EWV9fd1FaRWI0S19HN2IyTlhjeVVldG5fYUI4a21PTW5sMlFLeWpCaVBHTkZhNldiaHh0ZGxsZw?oc=5",
+              "source": "한국경제"
+            }
+          ],
+          "description": "삼성전자의 차세대 고대역폭 메모리 'HBM4E'가 엔비디아의 주요 고객사 품질테스트를 통과했다. 내년 HBM4 공급가는 D램 가격 급등을 반영해 대폭 인상될 전망이며, 연간 영업이익 100조 원·메모리 반도체만 110조 원에 달하는 역대급 실적 기대감도 높아지고 있다. 다만 AI 반도체 슈퍼사이클의 한계를 우려하는 시각도 동시에 제기되며, 호실적 전망 속에서도 시장의 시선은 엇갈리고 있다.",
+          "headline": "삼성전자, HBM4E 엔비디아 품질테스트 통과"
+        },
+        {
+          "rank": 2,
+          "word": "실적",
+          "count": 4,
+          "articles": [
+            {
+              "title": "삼성전자 개미들 어쩌나…\"운명의 8일, 악재 쏟아진다\" 비상 [종목+]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjQTc1T01zVDJYQjd1M2pyZS1GaXEyak5KZzdFcHBTQTRPQXRXUkRCeXB1Wk5oS1VlNHBJcXdjQUNnREYxZ3NhbHZ6c2Z0WHdjQUg1UHNQc05XUQ?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "삼성전자, 석 달에 100조 번다?…역대급 실적 뒤 ‘숨은 변수’",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcENxTWdKTHRDVEptYnh2Q0tsSjJ5RFlDMHAxLXJpbGRKWlBzeFlwVHNpSUFnNGF4VnlHdTd5elJuSXhiVEM3STRWZEF2M1F4X0pfUEVR?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "코스피, 삼전 실적 경계감에 6800선 미끌…코스닥, 900 밑으로 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CUUFScV9CUDYzQVpLY20zSktwcWxCN3lXX0JPM3F5NjBqOW1uaTZtTXV0NlVoMHhyVEMxdDVoOEh3YTZuZXNKbVVkYndmX1k4TG5HeEwzR01vTHJwbXJ0eEVlU1A2OW9L0gFuQVVfeXFMTnI0NVAwTjNJWjdnX1J0TjRReElPdDJwU2ZIZXNIYXlqNFFYLTlxdUNHaUUxODhPV3NhbWo5eE5lRHFOLTU0V3h5R09RRTZBcGItRUw5bFpIS0EzZEFlZUVuRUd1ZVRrLXBXWjU5WVE?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "삼성전자의 분기 영업이익 100조 원 돌파 전망이 나오는 가운데, 시장에서는 '운명의 8일' 실적 발표를 앞두고 오히려 악재 우려가 부각되고 있다. 역대급 실적 뒤에 숨은 변수가 지목되며 개인 투자자들의 긴장감이 높아졌고, 코스피는 삼성전자 실적 경계감 속에 6800선 아래로, 코스닥은 900선 밑으로 밀렸다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "삼성전자 역대급 실적 앞두고 증시 경계감"
+        },
+        {
+          "rank": 3,
           "word": "공급",
           "count": 4,
           "articles": [
             {
-              "title": "국제유가, 중동 수출 회복·공급 우려 속 강보합 마감",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvaGdfMnFub08tY09pZGJTbTQyY2t6QllkaDV6MVVJNHVuSGQzSkZ4cHFOOTlVNEJ0alQtaVUxcDhkSkNCYW8wS3dKdkdQZ0o5S3c?oc=5",
-              "source": "매일경제 마켓"
+              "title": "대학병원에 의료기기 99% 공급한 그곳…학교법인 소유였다 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FZ09HeFcxUjZ4d2pReUU0NFlJbmxkNlZfX3lHUHpnSllod1JWRkoyQnZIYWtwNlk0c3VmSnQzdG1jOUNTM0gwRHlxd1JhYXZzYnpscnVPU1pDcUNfSVZOMGtYZG5XRXVxaXfSAW9BVV95cUxPVEFMMlpUZFU0YV9FeTFRaTZ4WDVTanpvVGlocEdEVExOYlVzaFZFSUY1MXpaRUxfNUE4dy1CRDVXdVhOVjZqSnNMYjhqdUhpQ0FZVGpqZ3JTZDMyR3c2eU5PSkRSazlMd25HVi0xczg?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "우크라, '한국의 러 석유공급' 기사 인용해 韓 비판(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fcVJrZ1BjeTItNzI1NWQxRkEzUEIwcjA1TnFxRlZSVXppNW5XUDVONktZWmYzOHRwRndiZkwxWncyRHFNVkdLSFhNZjk0TUU?oc=5",
+              "title": "HD건설기계, 美 데이터센터 발전 엔진 공급… 3900억원 수주 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHNVNUNRT0c5OTFuSTZBMFpCVnVaRnJueE01b0RXWG45SmEtdVdBdW8yX1VVVUdWcF91cFk0cHFWZWt5NzlvQmtwQlF4MHRpX0hfQmpycGdFWmk3M1pWZkREZHBMSEdhRHF6OVlBR0lxa0tISTA3MXRtREE0VHV6STI1NFbSAZgBQVVfeXFMUHJaRkZRQ3VWam5wVjRERm1jRTlJZHY0UG9mek1DUHNCWFd4b3A1YnlEdGNVQ2REQlpRU0tiNERtSWFnV2JfQ1JISzQxbnJJZERhOGg3RmlYcTJRbFJ2X3FTMEZVa0dLd1ViT29XYkFWaF9MMVFYcmhRVkJjZGVXckdZQS1YTThTSnlIaTRDZjVjai0xNDdhNFU?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "HD건설기계, 데이터센터 발전엔진 공급한다..3900억 규모",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yb1dpWkZMU3NuNWZfZ2pHQ0FoNXJHbU5MTmZwYTZMSjNNT1F6alo5TnJsVGJ0OU8td2syb1QzemtTWmZRYlphamFvMDdEUXM?oc=5",
               "source": "Daum"
-            },
-            {
-              "title": "\"공급 속도내자\"…정부 '용적률' 높이고, 서울시는 '그린벨트' 푼다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yLXRDT0JaMEZIUjdpeWRnbU1Vb0VpVHdYSlRYQ011UkgxdzBvTHpzZDlzdzJ0QXMxUVdvX1hvVU9TT1A1QnV2aUp2YkZNZnQ5eHlqRHBXTGZlQQ?oc=5",
-              "source": "한국경제"
             }
           ],
-          "description": "정부가 용적률을 높이고 서울시가 그린벨트를 해제하는 방식으로 주택 공급에 속도를 내기로 했다. 국제 에너지 시장에서는 중동 수출 회복과 공급 우려가 혼재하며 국제유가가 강보합으로 마감했고, 우크라이나가 한국의 러시아 석유 공급 관련 기사를 인용해 한국을 비판하는 외교적 마찰도 불거졌다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "정부·서울시, 주택 공급 속도 높인다"
-        },
-        {
-          "rank": 2,
-          "word": "개인",
-          "count": 3,
-          "articles": [
-            {
-              "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱·스미싱 등 피해에 주의하세요.",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13OUdwdHFxd1RBN3lCanhLOFZjN1gwNmJ3OG5nUzVFTGIxQ25yc1JDMnpQck5ZRkx4djBrRkItRE5qX2lWWGpmOWlDUUFmekRmYVhBb1lUMG1OVEFXenRWR0VR?oc=5",
-              "source": "서울Pn"
-            },
-            {
-              "title": "개인정보 유출 2차 피해 주의…'URL 클릭·선입금 요구는 사기'",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQbGJiZFVURnZ1UllIUWtBTFdpZVVyRWx6YTlkZFRTdmxRdllBZGlyWjVyYjBfczV2eXA3elB2Tk5jTjlwd2ZPLV9mcHBiVi1xYXZXbXV1M0ZkVURaVXFZUGlDYTlWYjdvYnBLUA?oc=5",
-              "source": "정책브리핑"
-            },
-            {
-              "title": "한총리 “AI 해킹에 기존 보안체계 한계…개인정보보호 인증 전면 검토”",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IRk5ic3B1NTg0X3R6cWxOYUJ3MlpDdUQycW1VbG5ndzZubWZZWllfQTAtTkVFNV9KRE1uNWdfYWlXanF5SXZKeGtIM2lEUm1LWGQ3WA?oc=5",
-              "source": "이투데이"
-            }
-          ],
-          "description": "최근 금융권에서 개인정보 유출 사고가 잇따르면서 보이스피싱·스미싱 등 2차 피해 우려가 커지고 있다. 당국은 URL 클릭 유도나 선입금 요구는 사기라며 주의를 당부했고, 한 총리는 AI 해킹에 기존 보안체계가 한계를 드러냈다며 개인정보보호 인증 제도의 전면 검토를 지시했다.",
-          "headline": "금융권 개인정보 유출 후 2차 피해 경보"
-        },
-        {
-          "rank": 3,
-          "word": "경고",
-          "count": 3,
-          "articles": [
-            {
-              "title": "사우디 아람코, 세계 석유 공급 부족 경고...정상화에 \"2년\"",
-              "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lUllsVkZxZzBaaTA4Q0I4MERtaFlRejh3RGU4bmNORkVLaUtkMzRqNGpIYU4wTVhjUnB0bllHcm5TMU1WT1E?oc=5",
-              "source": "Daum"
-            },
-            {
-              "title": "\"AI, 이대로 가면 인류 멸망 엔딩\"…섬뜩한 경고 또 나왔다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15OFMwOHJRU3NicUUyN1hFOFBuX1BLRFZLUzJYX0dnVUNJMl9JS19xcW11aUVpU0VqdHRHWnVmV2NDd091eXBKRnpCSlJXcnBCMlJFcHBLM2pTZw?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "신변 위협받는 유해진…소속사·영화계·문체부 ’강력 경고’",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44V1ZGTXQwTmtBSDhVVHNiRkZUXzhlR2FuWmNaLVRwZTZXM0I4UVV5dVdWek5Pc2thT0hZaFJyaE9TMzA1M0RFc0M3WlY0WEZLUVliTFdHeS1PLUJLWnFSR1JZTTkxTkk?oc=5",
-              "source": "연합뉴스TV"
-            }
-          ],
-          "description": "사우디 아람코가 세계 석유 공급 부족을 경고하며 정상화에 2년이 걸릴 수 있다고 밝혔고, AI가 이대로 가면 인류 멸망으로 이어질 수 있다는 섬뜩한 경고도 다시 제기됐다. 배우 유해진이 신변 위협을 받는 사태가 불거지며 소속사와 영화계, 문화체육관광부가 강력 경고에 나서는 등 경제·기술·사회 전반에서 경고음이 동시에 울린 하루였다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "아람코·AI·유해진, 분야 넘나드는 경고 잇따라"
+          "description": "HD건설기계가 미국 데이터센터에 발전 엔진을 공급하는 3900억 원 규모의 계약을 수주했다. AI 인프라 확장 수요를 타고 국내 기업이 대형 에너지 공급 계약을 따낸 사례로 주목받는다. 한편 대학병원에 의료기기 99%를 공급한 업체가 학교법인 소유였다는 사실도 조명되며, 다양한 산업 분야의 공급망 이슈가 오늘 함께 부각됐다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "HD건설기계, 美 데이터센터에 3900억 발전엔진 공급"
         },
         {
           "rank": 4,
-          "word": "삼성",
+          "word": "반도체",
           "count": 3,
           "articles": [
             {
-              "title": "\"삼성전자 주가 내년 50만원 갈 수 있다\"",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMFFEcEhHamk1TzA2eHpOalVJdWtydW8zNUlQU0owLWQ0aVM0QmZXblJhOXQxUDBpam5xS0xCVGZiWnFCLXAxcTNib0dRVmNGRGtuSUwtTksxWGtKZk10cmUtLXc3RGZVMDZ2U3kyTjJwVHQzVGtIREg0ekluMDB0ag?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "삼성전자, 칩 검사 라인 베트남에 구축 추진",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VSVRuSFBuTnFSbzFsX1VXbHNuNFNVdTRXRDZLT3poYzZWZkdha2pTU3B6dGkwVUZ5SThqZ1lJV2FrWlZyYWtvZFhFYkdIaWpsM0HSAVNBVV95cUxONXRXSWc1TFRqSlJPRnkweDQyTk9XSHJRVi10YldoT0F0dkxBYWJ3NU1JQlpGSGRfWmNkMFdXTHdFV0x0VXVISHRtSnZnZW9FYXhlQQ?oc=5",
-              "source": "서울경제"
-            },
-            {
-              "title": "“삼성전자 나와”…선 넘은 삼성바이오 노조의 교섭 요구",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VbHhBRTJWNmRnVGlVb1FIVTE0VmcxRTk2a19FdVBSZjczUWVydDVzVHJoMWdoS3JFNEM5ZXZGTlA2ZTlMVWRPcG9tdEloZDA?oc=5",
+              "title": "'반도체 고점이라더니'…\"기대 이상\" 깜짝 전망 나왔다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SVTJidGRrYVRHaFBGVi0yTFZXc09fcmxoT18xWkdTaTZoNUhoOUZxenZwT3ZaYVZ3amp2RHFzd0FGY2hhR0VQX3didlpyOEE?oc=5",
               "source": "Daum"
+            },
+            {
+              "title": "“AI 반도체 슈퍼사이클도 한계”…삼성전자, ‘역대급 실적’ 안 통하는 이유 [머니+]",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tTk1maXRmeWRraHZsb0h5cGdtZEF1M1VLNUk2VFE3SUFTWUhuVHktV1l6SU1KTVBxdXJRUDdzNk1obFJBRU1zUjNNLTFnODJYeHVTeG4yWGE4WVU?oc=5",
+              "source": "에너지경제신문"
+            },
+            {
+              "title": "“코스피 여전히 싸…반도체·전력·조선 주목” [헤럴드머니페스타 2026]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ldXkwYUE2aWpGRy0zVXVJWFdaU1hzRi1jeVAxRnN6T0pvV1BtUFdHLXhob1Z4YzJuYkl2NzI2UlBvUkJFLVdORTRmaTdNdTBRbUFySWpB?oc=5",
+              "source": "헤럴드경제"
             }
           ],
-          "description": "증권가에서 삼성전자 주가가 내년 50만원까지 오를 수 있다는 분석이 나왔다. 삼성전자는 칩 검사 라인을 베트남에 구축하는 방안을 추진 중인 것으로 알려졌고, 삼성바이오로직스 노조가 삼성전자를 교섭 상대로 요구하며 선을 넘었다는 논란도 일었다.",
-          "headline": "삼성전자 주가 50만원 전망 나와"
+          "description": "'반도체 고점'이라는 우려를 뒤집는 깜짝 낙관 전망이 나오며 시장의 관심이 집중됐다. 증권가에서는 코스피가 여전히 저평가 상태이며 반도체·전력·조선 업종에 주목해야 한다는 분석도 제시됐다. 반면 AI 반도체 슈퍼사이클에도 한계가 있다며 삼성전자의 역대급 실적 전망이 주가에 온전히 반영되지 않는 이유를 짚는 시각도 공존해, 낙관과 경계가 엇갈리는 하루다.",
+          "headline": "반도체 '기대 이상' 전망…고점론 반박"
         },
         {
           "rank": 5,
-          "word": "달러",
+          "word": "금융",
           "count": 3,
           "articles": [
             {
-              "title": "美 달러 18개월 만에 최고…‘킹달러’ 만든 다섯 가지 이유",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3JZblMtaXVDcFNUVUpmZzRHM2w5ZHE2LURQenY1QUJ2cVJnNEZMclZ3T3ltYmI4dm1EWkZTSEZGR1M5YnZiYTFWOGFuVGl6VWFaNXl2ejd1a1h4VlVsODY1RHljT25QMW5hMWJKdXFYOFV0M1lacTBvLW92eWxNUw?oc=5",
-              "source": "조선일보"
+              "title": "은행·카드사 보안점검 결과 제출...금융당국 분석",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84UWRBZHkwM2ZKU0wyX1RrRmIwaEgzVFBrbjNoczl5aEJpM2dNeVhZZXc3SlZIR1FIQk1sdnFHSlp4UHROaWFReTBXaGExb3hGaks5ZE5pUHFxcWs1S3c?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "佛 재정 우려 완화 속 달러 약세에 1% 상승",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Cc2FaZ0VqNzFmUms4OUhZakdKT0dYcndHcGZ4TTlsUjluT1Z1WGpDTHdURUZlaFY0MGY0eWxVZmpfckNLSUV2clJicWs0THBVSU00bDNlVlpQZVVmeGhHRWZoZVd4TUtLTExHTzRMbGs?oc=5",
-              "source": "연합인포맥스"
+              "title": "OK금융, 예별손보 SPA 체결… 종합금융그룹 도약 '성큼' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0aEtDQ1pJZ25OWXRNSkNubVl2SlQyVms1U0FuMndRMENUNjlINnFCNVpfbzktVDVuZXRFTi1MRGJNY3o3VmFnejYzNEd0UFpHRjVvWG5YTWxtdHFYcmtLa2g3dXFfYzgzUXdz0gFwQVVfeXFMT00tRHZGNW96X1BtR0ZhM3VGMkE4VmtuVjhIUnkxRGhScXFqcjUyUlpMSW5HU2pRZVdPSE84NllJVFNJYVR5Z0ZTNld1NXdLa0pqVTY2b3dsaThPTG9iTTlMU0dMTlRwWkE0MGo1UUN1RQ?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "美 막대한 재정 적자에도… 강해진 달러, 왜?",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PTmtFajhZSzBZUmhSbmYzTWJ4VWh5VlFxZ0JBRHVCREVUdHppSGJLMkczcmcyLUdrbnRZX215Y3A3Z3g4S1k1ZU1XeVY0WFU?oc=5",
-              "source": "Daum"
+              "title": "예별손보, OK금융그룹 품으로...주식매매계약서 체결",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54bDM1Y0lnRVAtQTBZTVpBZjhjR0M5THEzWDdoT3FBRlYyYV9JYmdVdjNHTkxuOUc2eGxBVmRCcHFXYThTbjk3TTh1TjRiZw?oc=5",
+              "source": "전자신문"
             }
           ],
-          "description": "미국 달러가 18개월 만에 최고 수준으로 올라서며 '킹달러' 현상이 재현됐다. 막대한 재정 적자에도 달러가 강세를 보이는 배경으로 다섯 가지 요인이 꼽혔으며, 프랑스 재정 우려 완화로 달러가 일부 약세를 보인 시간대에는 유로화가 1% 반등하기도 했다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "달러, 18개월 만에 최고치 '킹달러' 귀환"
+          "description": "OK금융그룹이 예별손해보험과 주식매매계약(SPA)을 체결하며 종합금융그룹으로의 도약에 나섰다. 보험사 편입을 통해 사업 포트폴리오를 확장하는 전략으로 풀이된다. 한편 금융당국은 은행·카드사의 보안점검 결과를 제출받아 분석에 착수했다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "OK금융, 예별손보 인수 계약 체결"
         }
       ]
     },
     "연예": {
-      "summary": "부산국제영화제가 장이모우 등 A급 스타들과 함께 개막했으며, '암살자(들)' 논란으로 유해진이 영화제 불참·마이클 더글라스 불륜 고백도 화제.",
+      "summary": "부산국제영화제에 '메이드 인 코리아 시즌2' 출격 · '나혼산' 김민 구옥 조작 논란에 제작진 \"연출 아냐\" 해명 · 위켄드 8년 만에 내한 공연",
       "keywords": [
         {
           "rank": 1,
-          "word": "나혼산",
-          "count": 1,
-          "articles": [
-            {
-              "title": "김민 90년 구옥 조작설 터졌다..로드뷰 비교, 카르마 맞은 '나혼산' [Oh!쎈 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYkR6TUF6RzdtYV9FVC0yYUliQW5oYXNTN19nX0xrcnlOLVlCcEFlQU9iTU5HTE5lTVVyVS1PVjZ6bDI4c2ctdmVfNWNseDhfdmVFX244ZGtBRmltOTBNdS1FWW1XWllueENLZUlWTGlCX0kxOFdqSEJJcGRSN0dkcy1wdmR5cUFXSVJQdkMwSQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "'나혼산' 김민, 윤세아와 초밀착 투샷…서로 껴안고 '달달' [★한컷]",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwZ1ZhQmNlVFZHWVd5b24zX2RQVWpmSXFBOFRmNldqbExiLTJydHBoMnlsVkltWnpSTmplYWVjWXB4Q1ktQ2otV2x3Ny10Y0FVS3RWNlIxOGhYUXd2bEdJMjI4TjItdHRxb1FReTJqd2NjSHV4cHg2RA?oc=5",
-              "source": "네이트"
-            },
-            {
-              "title": "'나혼산' 김민, 뜬금 '주작 누명' 벗을까…동두천 주민 등판→반전 미담 폭발",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ORHJuXzhiQ24xQWhnRWVjaUQ5NlloSGx4VDRPUHd3d01NdHhHVlZwaGxZbHotT25NSjhSdXJhZkZuckVUMDlvQ24wWGZnN2M?oc=5",
-              "source": "Daum"
-            }
-          ],
-          "description": "'나혼산' 출연자 김민이 90년 된 구옥을 두고 제기된 '조작설'로 논란에 휘말렸다. 로드뷰 비교 등을 근거로 한 주작 의혹이 퍼졌으나, 동두천 주민들이 직접 등판해 반전 미담을 전하며 누명을 벗을 가능성이 주목받고 있다. 한편 김민이 배우 윤세아와 함께한 다정한 투샷도 공개되며 화제를 모으고 있다.",
-          "headline": "김민 '주작 누명', 동두천 주민이 벗겨줬다"
-        },
-        {
-          "rank": 2,
-          "word": "암살자",
-          "count": 1,
-          "articles": [
-            {
-              "title": "자본으로 보는 암살자(들)",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83S0U5c3Q3bk9UX1BBNG53LTVHc21UeW0yRzVNanM5RG9WbXRidVN5ZFlyOXZLWUVqS0lKYjQ0eFdTUVpFVk5GbjVkb0txS0U?oc=5",
-              "source": "Daum"
-            },
-            {
-              "title": "'암살자(들)' 논란에…유해진, 부국제 이어 부일영화상도 불참 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41eE1VQ2tXSF9tQlUwekRLS1puS0thZFNCbGRaMk4wb2RHVFhYal9ZMzFNSGdMOHpmd2RrVkNvMmJCRjBBM1pobC01RVVieHlCRTV5aE5hWUxvVy1Xd0pxcW9nWHBUcTBiQXI40gFwQVVfeXFMTVhpQkxITGZyZGJ6WVp2VkFaa2tCVDlHZ19oR3p4V2g4RlJTMDVQSDl5bzlfSW9Ud1R4RnQ2NENHM0tJSHRLaXRiUkxrNk1lSTQ2VGg0RmdWR3lCcEd2eVlFNVdudE9ROWYwdmVtWThWYw?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "경찰, 배우 유해진 신변보호 조치 시행···암살자(들) 논란 속 “위해·협박 엄정 대응”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HTEFtVHhBWlp0RjN5TzVCNzFScmRFQXJRbDY2LU5aTmJxcWxzWXlhMXZLY0M2M3VHaEd0ZHY2TkRvNHZzQXdOVXVOZW1RTDctVUhmR3FmWmlMUdIBX0FVX3lxTE5ZbE9lRzRtU29uMkk1TGRSUmItdzlfbDZ1THFIaXAzc2V1R1VCWTktQlg3R3dhTTlvRHpBSXo3MWZrd1dxSWZfckkyaEpMZE41Y2RFX0xLSFktcG40MDg4?oc=5",
-              "source": "경향신문"
-            }
-          ],
-          "description": "영화 '암살자(들)'를 둘러싼 논란이 격화되면서 배우 유해진이 부산국제영화제에 이어 부일영화상도 불참하기로 했다. 사태가 심각해지자 경찰이 유해진에 대한 신변보호 조치를 시행했으며, 위해·협박 행위에 엄정 대응할 방침을 밝혔다. 영화 자체에 대한 자본 구조 논란도 함께 제기되며 논쟁이 다방면으로 번지고 있다.",
-          "headline": "유해진, '암살자(들)' 논란에 영화제도 불참·신변보호까지"
-        },
-        {
-          "rank": 3,
           "word": "부산국제영화제",
           "count": 3,
           "articles": [
             {
-              "title": "'제31회 부산국제영화제' 개막…부산 밤하늘 밝힌 별들의 잔치 [TF사진관]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xTFZsSzZWUlpucU1qMW54QzloTXN4QTBQSmZOSEhfX1o2YTc5TERiNlJ4ZzluN2ctbzNKd2RoNU9lbjlGWUtNcFo4eTUxXzA?oc=5",
-              "source": "Daum"
+              "title": "양자경이 내린 차, '네오룬'이었네..제네시스, 부산국제영화제 '10년 우정' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aak9hUThKd0hha3h0Y2gzTWtoTEZMc3BjMTFoaUM2S0loVmlpaDBGZ0hwbGJKaFdtVTg2aWdUc2dscVVUSVM3M0M0WDFOUkQ1UW5hMFNLRkNMbWZqX3FoYzFaZDRlQ0dTYVFsYtIBckFVX3lxTFBCdi1ZZ3h6VW9SRnM5d2JFdkg1eU14Sk5McV9qalppSG9nN2NGNlFhc3JtWklhOGRiVVZxN1prMjZZd1p3R01Kdk9RYXdvVjFHOVZhRXBFQ3J2YWVwbThqdkFmWk5rVFVQOVdkUGk1WjFnZw?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "장이모우·양쯔충·쿠아론 부산으로…‘A-리스트’ 부산국제영화제 막 올랐다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11R0lmV1FLTmE0Wmo2ZGlSTmxNWjNoZUc1Y1NmX2hxaGZTWlhmeW9FeEdyTUFLQXdSX0JGZVJ2ZnlZeThPTlRjR25TWEMtYVd1amxfMUVuaGZCUdIBX0FVX3lxTE9tY3B6eWY5aEhRV2plZGxxTlVINlluSUp4OTl5Q1ZqZkxIMDdoX2ItMmpQODR5UkdEUTBFQ0VLbFZCdzVnTUE2d3pGcVV1MzBBZWJSVnNzbXZVczE1eEhr?oc=5",
-              "source": "경향신문"
+              "title": "'메이드 인 코리아 시즌2' 부산국제영화제 출격",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WQmVKSGIwOGRpcWtOM2tTVkFtRnV1YVUtNlBYUjFkLVNud1c0TjJJZGJ4N0wyTWoycC01VGpxUl9vUmduNlBWYVAwanJubHFwTXJCYjZjbnFwdVJW?oc=5",
+              "source": "뉴스핌"
             },
             {
-              "title": "'A급' 된 부산국제영화제…'암살자(들)' 행사는 취소",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91ZmdxdU5GdUJYeEVDeDdHWjV3aHl3ZXIwaUg4ZjNQemd3dVhlczlIQ3oySjNpZm1rbEhnYUhIbFAwOVFFam0zRWE0amNCTWhDUGwtNmlRTXZTQU1oR1hwdmt3SXhrTXFkQXc?oc=5",
-              "source": "SBS 뉴스"
+              "title": "허안화 감독, 부산국제영화제 ‘까멜리아상’… 50년 영화인생 빛났다",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qSTdvRC0tbGRkLWFwUlk0cE9KWlZRTkVNR1FBbGhIQWxwbmlkQnpDdlhXZUFrbklqVEs3ZVFFWG1MMnNjd2RFajA1eHRpRWhVYjJMYjBRREw4Y0ZVM1l6ZVlmZnd1UTNDQkJJckwyYkNZUQ?oc=5",
+              "source": "스포츠동아"
             }
           ],
-          "description": "제31회 부산국제영화제가 개막하며 장이모우, 양쯔충, 알폰소 쿠아론 등 세계적인 'A리스트' 감독·배우들이 부산을 찾아 화려한 막을 올렸다. 국제적 위상이 높아지며 'A급' 영화제로 평가받는 가운데, '암살자(들)' 관련 행사는 논란 속에 취소됐다. 오늘 처음 등장한 키워드다.",
-          "headline": "제31회 부산국제영화제 개막, 장이모우·양쯔충 등 집결"
+          "description": "홍콩 영화계 거장 허안화 감독이 부산국제영화제에서 '까멜리아상'을 수상하며 50년 영화 인생을 인정받았다. '메이드 인 코리아 시즌2'도 이번 영화제에 출격하며 화제를 모았고, 제네시스는 10년째 공식 파트너로 함께하는 가운데 양자경이 네오룬 차량에서 내리는 장면이 눈길을 끌었다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "부산국제영화제, 허안화 감독 까멜리아상 수상"
         },
         {
-          "rank": 4,
-          "word": "마이클 더글라스",
-          "count": 1,
-          "articles": [
-            {
-              "title": "마이클 더글라스, 불륜 상대가 몇 명이야.. '원초적 본능' 여배우와도 외도 인정 [할리웃통신]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkX0dZelRQMk1URFJWb0EtTGI4TkhLUWVnd3FWcWVXVFZjS0RGQlB0SE92N21kaTBDZ0xjODJvMmVMbjNiNklxUTF1VmVMODg?oc=5",
-              "source": "Daum"
-            },
-            {
-              "title": "\"40년만에 여배우와 불륜 인정\"...마이클 더글라스, 외도 고백 발칵 [Oh!llywood] - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVElnTTlDeThSZks0U0hqM3lZRjhSX0dIMldQcmhicWIyX2t4dE52aWc5bVhNeWI3SzI2NUJMMFR0bXpINGRiWmNVYlBxOFpqODBJOHYzWTdyNVY1RThtaVFsV1FSYW1GaEZqTGU5YXFCQjY3c3lhLVhjS0pydjRUcGNTQXU2bzh2OEQ4cW9lRkZOa0UwRXJNLXppVEVIN0JLNzJ6bUZEONIBpwFBVV95cUxOVElnTTlDeThSZks0U0hqM3lZRjhSX0dIMldQcmhicWIyX2t4dE52aWc5bVhNeWI3SzI2NUJMMFR0bXpINGRiWmNVYlBxOFpqODBJOHYzWTdyNVY1RThtaVFsV1FSYW1GaEZqTGU5YXFCQjY3c3lhLVhjS0pydjRUcGNTQXU2bzh2OEQ4cW9lRkZOa0UwRXJNLXppVEVIN0JLNzJ6bUZEOA?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "마이클 더글라스 “캐슬린 터너와 내연 관계였다” 40년만 고백",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42SE1nR3k0NFVYRm03WlNxY0ZoQWk1VjF5Q20xQmxlNnd4cjBxNkI4ekFrNldKNlBTVmc5VUdVMnZwWWNfSF9zX1RJbjhnRDMtSTVQLVJqYXhkWGRMaHNCZnI3R3J6T1dhSy1YY1JSY1ZPQnBtZnZfSHItTQ?oc=5",
-              "source": "뉴스엔"
-            }
-          ],
-          "description": "할리우드 배우 마이클 더글라스가 40년 만에 배우 캐슬린 터너와 내연 관계였음을 공개 고백해 화제가 됐다. '원초적 본능'의 여배우와의 외도도 인정한 것으로 전해지며 파장이 커지고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "마이클 더글라스, 40년 만에 불륜 고백 '발칵'"
-        },
-        {
-          "rank": 5,
-          "word": "이효리",
+          "rank": 2,
+          "word": "나혼산",
           "count": 2,
           "articles": [
             {
-              "title": "이효리, 이상순 제주 카페 언급 \"수백미터 줄 서도 많이 못 벌어\"",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80M0U0UTZhbzNvNVBGZUpaWjdaVnJiSVJwbjJ4OEJVVHVUbEYyZ1BwTFA2UXNEVjJLbUtpV2J1eng3QXByaTRfOEhNZnk2ZjQ?oc=5",
-              "source": "Daum"
+              "title": "‘나혼산’ 제작진, 김민 구옥 조작논란에 3일만에 입 열었다 “연출아냐”(공식)[Oh!쎈 이슈] - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGVZbnFvckllUV8wdWlsVFhieWQxU2ZnSXh6MXpBRUNDSEFnMWdFbTR0ODhYQi1tMTRWSllrMkZ6NEVrZEU5SmJzVDd3aGhLcDdtOHRIWldURlhYaDMySGJTaXhXSkhFcXM1SnNpTkJpWDlBb2lTTDFaVGJaS1hMU1E4QW9qY2hJMXAyRTg3amh5SkXSAacBQVVfeXFMUHVJQVhnX2owTWZnU3l0cmVCV0h1SzIxaGRpb3loOEphYjJvU2MzQ0hfdUctVF9KejA3NjhXMlAySzl0YThmYjB3VUt4WU11c3pjM0d3ZXF4YUtlWE5oNlVZalhLVTV2X3VvZHJaT0xtcl9EeFVDNDdNSElja3dSSld4YmFUdjFRMnE2WFdOQ1o4Y21oQnVuVzZKY1FKUlRWQTF5a1UtUjg?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "이효리, 핑클 멤버들 몰래 찍었나…얼굴 가려도 다 보였다",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82ZVRJbWRxN0l1NmUzYUExVmpMSWYzZ18ySVRqT3FrbVJVbFR4a21VUlQxeFRLMVNNdi01SVJRZW1uODEtYU5YUkgtVnRBRGk2STJPR2NjODluallNWlBjY9IBeEFVX3lxTE9KcHlVT1Nhci1jNkIwSjNYWnBWMmp5SmNVMG9xQU9KVkF5THNnVWdVLW5CeGY4d29FWnhLNkFocnBOeC1yODIwdkdPRVRFdzZ2azROa29yME5FclJ6SFFTS19IaElwaVBvTHd3Tk1Wbnpub1k0Q3I2Nw?oc=5",
+              "title": "\"두근두근\"…'나혼산', 이번엔 김신영 자격증 도전기",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FcXBmdDJiRnR3UmhTbzU1MHNwa25mRUF4ZVlWVmlzMWxxMXkyRDJnMmZqN2ZzajVSS1FzaGhiZFdEX3ZSaWNJU0d1VTRHSVVFd29yU1lkaUViTHgyb0NxWNIBeEFVX3lxTE1yRElWNzllV2tnNUN3Q0p1bE5NRmtYa1JibFZtbFNtMklfUU8yUlNQWW1uSm85SllwdlI4QlVhaE4yNG9CbGZOQlUxeVZUTmNPT3k3TDZlME5oMERjakh3dmVGd24yUGVKLXVvdGhsdk50ai1vZnpucA?oc=5",
               "source": "뉴시스"
             },
             {
-              "title": "이효리·다영, 나란히 드러낸 뒤태…몸매 관리법은 '요가·7분 운동'",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zRVdvc2hyb1hkemcwTmpJclFFeV9OQWlJdS14TmVqaXJFUUp3LUdDcUNpNzZrUGVUTURYTGFoeXdiVTFyR3kyS0tSQmtsMWZNVWpJWWV4X3XSAVRBVV95cUxOMlFpbWpiQVJZaFl0b1hmWTNzaklOOWt6bkRqX3U5aVhkUFVqRl9XUG9sMW1Xbm4xU1ZkOXJ5VEJfVE9lZzF2UG9PNlE1dFdaUTVEUGY?oc=5",
-              "source": "세계일보"
+              "title": "전봇대 있는데 발전기를?...김민, '나혼산' 조작설에 입 열었다 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRVJMRXBiRzZXUl85TTk4TTVXWXktSFE0VGZEVFpsWk1vSGFIdldqS203WWIyaDVBVmlKbjMwcjdPVWgwQjh0Y00wVWNtM1ptTUxnZ0lCeVJUaGx2U3V2QlJzLUx6T2o4c0R0ZVkxUVpDcnfSAXhBVV95cUxQM2FJVmRWNkJWbkpyUndyVFp0SnFFRzRrTXRySFNpdk9rVEY4cDlWd1NCVlktUkYtNEVvTmZKVDlPYXVNd05wTVB3XzJxYXdyOTFsa3hEYXBsakJOaktsQjVlNDl6R2IzcUJXWFJOcTBsYWxhUkI4UzU?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "이효리가 남편 이상순의 제주 카페에 대해 '수백 미터 줄을 서도 많이 못 번다'고 솔직하게 언급해 눈길을 끌었다. 핑클 멤버들을 몰래 촬영한 것으로 보이는 사진도 공개되며 비하인드 컷이 화제가 됐고, 요가와 7분 운동으로 꾸준히 몸매를 관리하는 모습도 조명받았다. 오늘 처음 등장한 키워드다.",
-          "headline": "이효리, 이상순 카페·핑클 비하인드 등 화제 집중"
+          "description": "'나 혼자 산다' 제작진이 김민의 구옥 관련 조작 논란에 대해 3일 만에 공식 입장을 내고 \"연출이 아니다\"라고 해명했다. 당사자인 김민도 직접 조작설에 대해 입을 열며 논란 진화에 나섰다. 한편 이번 회차에서는 김신영의 자격증 도전기도 함께 그려져 시청자들의 관심을 모으고 있다.",
+          "headline": "'나혼산' 제작진, 김민 조작 논란에 공식 해명"
+        },
+        {
+          "rank": 3,
+          "word": "암살자",
+          "count": 1,
+          "articles": [
+            {
+              "title": "거장 장이머우, ‘암살자(들)’ 논란에 “창작은 창작…진실에 기반 않을 수도”",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsVXRPMFhRSWpFcUtDZ01BUmNzZVhzd1F5YnRfVm9HUWZSRnMyU2pkVUtnQUFudmJZNk0tS1J1cUduVEUxdm5FTll2cHVTaGNQaUM4NXJFTU9vbElQMU1TZmRHZl9nbFo3VkF0bHF5NTl0QQ?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "거장 장이머우 감독도 “창작은 창작”···영화 ‘암살자(들)’ 논란에 소신 밝힌 부국제 심사위원단",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kNEtqRV84dVVXVW1CclZzTWhFcUM3dzVpeE43UF90ZzRXNnlYakV4RHg4bzZWZFpzSlpjWU5URjl4aW9FNnlONVUxSXlzWEZBVmZld1pJNENfZ9IBX0FVX3lxTE1QaGh0RjRUcnJBM2JmRUwtSE82UU1LbWZ1M01lTzB5c0szMG1hUlNuTkRDMEZ5aHA3YVRXbC1DbXFjX3RlT0x5U2NJWUxFd2d0dXl3akVaNUhaRzlaT0Fn?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "中 영화 거장, '암살자(들)' 논란에…\"사실에 기반하지 않는 창작도 있어\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JZWtuR1p5dE9oY25seVM5OWxZT1ZlNTVqV1pEYk1Fam5paS01YTdGblhCYmFLWHVqWW5sYTF3S2Y1UzY3X25EZ3ExN3QwY1E?oc=5",
+              "source": "Daum"
+            }
+          ],
+          "description": "중국 거장 장이머우 감독이 자신의 영화 '암살자(들)'를 둘러싼 역사 왜곡 논란에 대해 \"창작은 창작이며, 진실에 기반하지 않을 수도 있다\"는 소신을 밝혔다. 부산국제영화제 심사위원단으로 참석한 자리에서 나온 발언으로, 역사적 사실과 창작의 경계를 둘러싼 논쟁에 불을 지폈다. 거장 감독의 직접 발언인 만큼 국내외 영화 팬들 사이에서 찬반 반응이 엇갈리고 있다.",
+          "headline": "장이머우 감독, '암살자' 역사 왜곡 논란에 소신 발언"
+        },
+        {
+          "rank": 4,
+          "word": "위켄드",
+          "count": 1,
+          "articles": [
+            {
+              "title": "팝스타 위켄드, 오늘 8년 만에 내한 공연",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjNUhfRl9uc0EtdUFkOFFxR0F0dGpuczFqSEFtdklEc3NRV2cyMEpoOWVneEZnYnJiQVRXMEZfdkc5MDUtdHlMRDN4ZDdycUlIMmtXaFRpdFZ1aU0?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "더 위켄드 공연 전후 가기 좋은 고양 종합운동장 로컬 '맛집' 6",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNm5sRWhkS1FLRHc2UklGSzRZbGQ5TEdFVTdudEpZbzROVExQTUNKTjU5OHZiOWdsWmJzQTBwRDZFQktJcDRrZHVLR1BTcDYxRXJONjMyTm5xdw?oc=5",
+              "source": "에스콰이어 코리아"
+            },
+            {
+              "title": "위켄드·찰리 푸스 등 팝스타 러시…길어진 亞 투어, 서울도 주요 무대로",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54eG5COVV1VHlyRHRwazJ3eHhnTUU5VFpXdS1BdzlsV1RjRGpPd0FRMWhJRGZsLW5jRFdJTGdVckJGZDhmS0lfclQ4S1B3NU0?oc=5",
+              "source": "Daum"
+            }
+          ],
+          "description": "팝스타 더 위켄드가 오늘 8년 만에 한국을 찾아 내한 공연을 펼친다. 공연장인 고양 종합운동장 인근 맛집 정보가 확산되는 등 팬들의 기대감이 높아진 가운데, 찰리 푸스 등 다른 팝스타들과 함께 서울이 아시아 주요 투어 무대로 자리잡는 흐름도 주목받고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "더 위켄드, 8년 만에 내한 공연 개최"
+        },
+        {
+          "rank": 5,
+          "word": "닥터X",
+          "count": 1,
+          "articles": [
+            {
+              "title": "‘닥터X’ 감독, 日원작과 차별점 밝혔다..“매력적 설정에 한국적 정서로 각색” [Oh!쎈 현장]",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZYmdWN3VPd3FWOGxTeWZYc2tpRnVSQjlFODd2V3pjTTJGcFdNWTdMeERJQ2JLWDY2dDlrVENQQ21UZVRCb0JBMV9kcWtVeURLeXF2UA?oc=5",
+              "source": "OSEN"
+            },
+            {
+              "title": "'닥터X' 김지원 \"이정은과 연기하며 사심 채워…커플상 노린다\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5UVNCRzcyUllHV2pWTjNmempGQWFRSHBtQk5CcVBSWTNEQTNKMXN3c3pSLXBaR1EzNEVuVlZodXdRQTZ5dm90Q0RoNEllQ0dJQnlkMjh0cC1hempzaVhPNQ?oc=5",
+              "source": "뉴스1"
+            },
+            {
+              "title": "\"2년만 복귀에 손 떨려\" 확 달라진 김지원, '닥터X'로 안방 컴백",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrT2F4N2Ezc3ZFUjNNRXA4LUhfeEc5RXh0MmJkNjRhUnZYSkNiOWh4azlJYU9jRVdoQlZJOHo5di1fVEVHakUyTC04aEY4RmZTVEg5LTVUd0JiM0ZpNDE4WQ?oc=5",
+              "source": "뉴스1"
+            }
+          ],
+          "description": "배우 김지원이 새 드라마 '닥터X'로 2년 만에 안방극장에 복귀하며 화제를 모으고 있다. 김지원은 \"손이 떨릴 만큼 설렌다\"고 소감을 밝혔으며, 극 중 이정은과의 호흡에 사심을 드러내며 커플상도 노린다고 전했다. '닥터X' 감독은 일본 원작과의 차별점으로 한국적 정서를 앞세운 각색을 강조했다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "김지원, '닥터X'로 2년 만에 안방 복귀"
         }
       ]
     },
     "스포츠": {
-      "summary": "손흥민이 A매치 59호골로 한국인 최다골 신기록을 세웠고, 병역 특례 논란에 국방부가 제도 손질에 나섰다.",
+      "summary": "KT 위즈 정규시즌 우승·손흥민 A매치 최다골 신기록·호날두 대표팀 이탈 논란·나고야 아시안게임 수송 대혼란",
       "keywords": [
         {
           "rank": 1,
-          "word": "삼성",
+          "word": "정규",
           "count": 3,
           "articles": [
             {
-              "title": "\"삼성전자 주가 내년 50만원 갈 수 있다\"",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMFFEcEhHamk1TzA2eHpOalVJdWtydW8zNUlQU0owLWQ0aVM0QmZXblJhOXQxUDBpam5xS0xCVGZiWnFCLXAxcTNib0dRVmNGRGtuSUwtTksxWGtKZk10cmUtLXc3RGZVMDZ2U3kyTjJwVHQzVGtIREg0ekluMDB0ag?oc=5",
+              "title": "수원 kt wiz, 2026 KBO리그 정규시즌 우승!",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsTnFPd1VHaXN1ZEY4QWV5RDczTjlBQWZSU3lPUkUtQnpzQXpMR3ZpVFprU0xESkQ4UWRCRVdSOEdVRVBhTG9fVEtsbHJOSkpSdFhHZ3llSVY4dDFNemQxcUhBNXVhMmdGTzRZOS0wY1VNNDRzOWtWenpn?oc=5",
+              "source": "수원시 인터넷신문"
+            },
+            {
+              "title": "'창단 첫 100만 관중+5년만의 정규시즌 우승' 한방에? 기대감 넘치는 수원, KT 라인업 살펴보니 [수원현장]",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmhWbmNMbTRpWHJSQWY3Z2Fqd2Y5eGIyM2JlU2JidkV1VVkwV3hSRk14VEVkU3JwR0RaWEVlbTdHcDh3MllBS01pR3pWQVVqMkNGLVZMVUlzTG5zSER6djMyaURQdGhoMVF3dWZtV3NYdDZKT0REVXFNa2M3XzFoMzRkQQ?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "삼성전자, 칩 검사 라인 베트남에 구축 추진",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VSVRuSFBuTnFSbzFsX1VXbHNuNFNVdTRXRDZLT3poYzZWZkdha2pTU3B6dGkwVUZ5SThqZ1lJV2FrWlZyYWtvZFhFYkdIaWpsM0HSAVNBVV95cUxONXRXSWc1TFRqSlJPRnkweDQyTk9XSHJRVi10YldoT0F0dkxBYWJ3NU1JQlpGSGRfWmNkMFdXTHdFV0x0VXVISHRtSnZnZW9FYXhlQQ?oc=5",
-              "source": "서울경제"
-            },
-            {
-              "title": "“삼성전자 나와”…선 넘은 삼성바이오 노조의 교섭 요구",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VbHhBRTJWNmRnVGlVb1FIVTE0VmcxRTk2a19FdVBSZjczUWVydDVzVHJoMWdoS3JFNEM5ZXZGTlA2ZTlMVWRPcG9tdEloZDA?oc=5",
-              "source": "Daum"
+              "title": "5일 수원 KT-롯데전, 정규시즌 우승 노리는 '매직넘버 2' KT",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9USGVKVXZmTGxrVHFOb2dfanFDdzQ4MDlyNzJFRWZtWWZhYk5oSGx4VFQ0aDJmWl9CQTE5TG5ua05ibmluSV9LVFEwVlYxYU14YXU3U0twZ3dTSUtD?oc=5",
+              "source": "뉴스핌"
             }
           ],
-          "description": "삼성전자 주가가 내년 50만원까지 오를 수 있다는 전망이 나오며 투자자들의 관심을 끌고 있다. 한편 삼성전자는 칩 검사 라인을 베트남에 구축하는 방안을 추진 중인 것으로 전해졌다. 삼성바이오로직스 노조가 삼성전자 측에 직접 교섭을 요구하며 '선을 넘었다'는 논란도 불거졌다. 오늘 처음 스포츠 키워드로 등장했다.",
-          "headline": "삼성전자, 내년 주가 50만원 전망"
+          "description": "수원 KT wiz가 2026 KBO리그 정규시즌 우승을 차지했다. 창단 첫 100만 관중 돌파와 5년 만의 정규시즌 우승을 동시에 노리던 KT는 매직넘버를 지워내며 기대에 부응했다. 오늘 처음 화제 키워드로 등장하며 야구 팬들의 뜨거운 관심을 받고 있다.",
+          "headline": "KT wiz, 2026 KBO 정규시즌 우승 확정"
         },
         {
           "rank": 2,
-          "word": "김도영",
-          "count": 3,
-          "articles": [
-            {
-              "title": "KIA 김도영은 4위가 더 좋다? “그래도 팀 스포츠니까”",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01WFFoR0ZIUnUxVFlFeU1JNmhwdGFLZzV2WklrQVdHYmFDa1NGUGdsSExZZW5RLU5nMVFVdDN0TWM0MXlHRDdEOVpxeHFGMmM?oc=5",
-              "source": "Daum"
-            },
-            {
-              "title": "김도영 50홈런 유격수 시대 열어젖히나…단 130G서 43홈런, 이승엽·심정수·박병호 ‘딱 기다리세요’[MD광주]",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvOFFNOFRSaUNjdDNCOFoyYnJ1R2xwNjllNzZiQzZpclRselotOHNUWWhMbmwzMkZQQUY2TGJJZkZ4dW0zMGVlRUFfZXdUR2s?oc=5",
-              "source": "Daum"
-            },
-            {
-              "title": "“(김)도영이 잠실에서도 밀어서 넘길 능력 있다” 꽃범호 확신…고우석 바깥쪽 승부해도 좌절? KIA 슈퍼스타의 위용[MD광주]",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16V2Q1dUh5OGZaMlhfM0ZQLV9BRE9qNDMyYTE4ZWxKS2J2QW5wa1AtOTRsUXJhWG5odENDcVVPdlpsN2V0bVY5OXBZZVNqVFhBZjJhc1FYMDlSdDYxUTRQZE5zQkRVdw?oc=5",
-              "source": "마이데일리"
-            }
-          ],
-          "description": "KIA 김도영이 130경기 만에 43홈런을 기록하며 유격수 50홈런 시대를 열 수 있을지 주목받고 있다. 이승엽·심정수·박병호 등 홈런 레전드들과의 비교가 이어지는 가운데, 잠실 구장에서도 밀어서 넘길 능력이 있다는 감독의 확신도 전해졌다. 정작 본인은 '팀 스포츠니까 4위도 괜찮다'며 팀 우선 마인드를 드러냈다.",
-          "headline": "김도영, 130경기서 43홈런 역대급 페이스"
-        },
-        {
-          "rank": 3,
-          "word": "장애",
-          "count": 3,
-          "articles": [
-            {
-              "title": "‘시각 장애 육상선수’ 장민호, 장애와 비장애의 경계를 넘은 도전의 질주",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DUXZ0azFjT0lBNkRCaldUelQtSHR1VlpGOGt5SXR6YVItbUlhajhlVWVjcnduMkpmZWpoVjVTWjdKdkdhOGlWX1Iya1RjQVRWMXhUa1lMeWxHY2JIbUpxbUhkcTFpUnpXWlUw?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "‘AG이어 장애인 AG’ 장민호의 ‘무한도전’···“장애에도 도전하고 싶은 사람에게 희망주고파”",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UQWF0eUN0WHdOSU83ak9kZ1pnMFR1Z0lRam5CQW9sNlN1VGxTVlktRDEtVTR0VVdLdkU5dkJ1LTludnR4WXlSRmlwaTNnSmpEMzlmYWdVZ3JJeUpXNlHSAWNBVV95cUxOUlNrOEhmck1HOFY5Ym94ZVYzeXRfMDJrVVp4SkdBVjFDTlhqX3Y0UUE2a08wZ29pVlhwSTdnNEM3aVBCQ0kzY1dNMTVuc2JuWWpfdVdTNlVIMVZ5NWY5ZFZ2MVU?oc=5",
-              "source": "스포츠경향"
-            },
-            {
-              "title": "아시안게임 귀국하자마자 또 훈련‥장민호 \"희망이 되고 싶어요\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iNUVCeUt5a3oyWFJ3TTY4TGwxci1ncXZYb0Y4ZDJ5aXBsbGFBdFhqbFlYSHFiY29BNm1Pckd0ZG9aMGl4bDNWYW50ampEc1NOMUNDbGhBSVUxRmwxdFNfQjRSamlZRnJtMWxReEhrQmlJanJhbHdNUdIBeEFVX3lxTE5iNUVCeUt5a3oyWFJ3TTY4TGwxci1ncXZYb0Y4ZDJ5aXBsbGFBdFhqbFlYSHFiY29BNm1Pckd0ZG9aMGl4bDNWYW50ampEc1NOMUNDbGhBSVUxRmwxdFNfQjRSamlZRnJtMWxReEhrQmlJanJhbHdNUQ?oc=5",
-              "source": "MBC 뉴스"
-            }
-          ],
-          "description": "시각장애 육상선수 장민호가 아시안게임 귀국 직후 곧바로 훈련을 재개하며 장애인 아시안게임까지 도전하는 '무한도전'을 이어가고 있다. 장애와 비장애의 경계를 넘는 그의 질주는 도전을 꿈꾸는 이들에게 희망이 되고 싶다는 본인의 말처럼 큰 울림을 주고 있다. 오늘 처음 스포츠 키워드로 등장했다.",
-          "headline": "시각장애 육상 장민호, 아시안게임 이어 장애인AG 도전"
-        },
-        {
-          "rank": 4,
           "word": "손흥민",
           "count": 2,
           "articles": [
             {
-              "title": "'손흥민 한국인 최다 골' 모레노호, 우즈베키스탄에 2-0 완승",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YM1YzbFUwczVTN0dRVm85UkdfdWNnNE1BMlJJYUdfZV9WM180c3ptRUtpOUhUUnB5dnlLOVFMYXo2MzBjZy1OMy1MNkppSTQ?oc=5",
+              "title": "손흥민, 전설 차범근 넘었다... A매치 최다 59호골 ‘새 역사’",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbmxQb0NRR05ydjROZGtBZU1hZDhIVWk3eDhHc1VfSUUzNDhNdjY1dWFXTHl3UDB1RXJmUGtFNHdvdlhRTU8wSVdxWWtJQV9ERUx2MHc2ZVdzckZHYXBNMFBJaHVnSDdzWnZiTmJvOFNIWGpXNXRNRkhJSUMyb2h5RWdFUQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "이럴 수가! 손흥민, 더브라위너와 '감동의 재회' 임박→나폴리는 초비상…샌디에이고 FC, 영입 협상 재개",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xYjZiSlhpUHozbUt2eV9BMDUzd0pXQXpEeWRGb3dOZWhLcWVjQ0pZQUdLZDR1LXliQUtIU2h6VUhLbkRJTXJybXZ2aHFPUTVWT3pMNDdhUmpnTUV0cVlQUkdqS0JDQzdHUVlSZ3MzaXJKZEM0R3FkQ01YM0tHZw?oc=5",
+              "source": "스포츠조선"
+            },
+            {
+              "title": "'손흥민 영상 공유' 최시원, 축구 대표팀 직격…\"우승 인터뷰는 이렇게\"",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45YUQ2QnBjZkJNYmY2X1V4bnhHa2F2aWdUMTY5dlNUWmJjQzN0ZThhaUNnSXZiUzZmOVpFQkFDWlZ3MW5LY1NsdXVtdC13VEE?oc=5",
               "source": "Daum"
-            },
-            {
-              "title": "손흥민, A매치 59호골...차붐 제치고 최다골 신기록",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qbjN3NFphVXZhZEpJNU43ZUh0ZHBzVTFkcE9FS1hrOFIzdXEzZWVxREQzQjN6THRqS1RnWUJHQVVBeHNCY25tZUdKa3BKdDlBeFo5b1dR?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "손흥민 A매치 59호골 폭발…48년만에 차붐 넘어 한국축구 새역사(종합2보)",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LMlg3TTd4TlBuT2h1Ql9MajZpYVVlM2dOSFF0Qk1YcDRreDRwamVfejl6YWhVenUtNzVnREttd0h0VndoM3pJZU15T0tKbW5HSDl4WGU1Y05fSkxHaEJuedIBYEFVX3lxTE9LMlg3TTd4TlBuT2h1Ql9MajZpYVVlM2dOSFF0Qk1YcDRreDRwamVfejl6YWhVenUtNzVnREttd0h0VndoM3pJZU15T0tKbW5HSDl4WGU1Y05fSkxHaEJueQ?oc=5",
-              "source": "연합뉴스"
             }
           ],
-          "description": "손흥민이 우즈베키스탄과의 A매치에서 59호골을 터뜨리며 48년간 유지되던 차범근의 한국 최다 골 기록을 경신했다. 대표팀은 이날 2-0 완승을 거두며 유종의 미를 거뒀다. 한국 축구 역사에 새 이정표를 세운 이번 기록은 오늘 처음 트렌드 키워드로 등장할 만큼 큰 화제를 모았다.",
-          "headline": "손흥민, A매치 59호골로 차범근 넘어 한국 최다골"
+          "description": "손흥민이 A매치 59호골을 터뜨리며 차범근의 한국 축구 최다골 기록을 경신, 새 역사를 썼다. 국가대표 역대 최다 득점자로 우뚝 선 그는 나폴리·샌디에이고 FC 등 이적 협상 소식도 맞물려 더욱 주목받고 있다. 한편 배우 최시원이 손흥민 영상을 공유하며 우승 인터뷰 방식을 언급해 화제가 되기도 했다. 오늘 처음 등장한 키워드다.",
+          "headline": "손흥민, A매치 59골 차범근 넘어 새 역사"
         },
         {
-          "rank": 5,
-          "word": "병역",
+          "rank": 3,
+          "word": "나고야",
           "count": 2,
           "articles": [
             {
-              "title": "“군 면제만 보고 뛰었다” 국대 논란에…“유감” 국방부 칼 뽑았다",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XWnAxbWVoMjM4ekEwU1VIUjl1Z3JCNmg4U0JYdnd3Y1NGbFdMNlZxbFp5bWJKSFlJaXlIZmpSSFdXREt2d1FYWTNPaGFybUlWMnBUdV9n?oc=5",
-              "source": "중앙일보"
+              "title": "나고야 아시안게임 수송 대혼란, '교통 강국' 일본의 민낯",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2aFJJaERaT1I5OXM2cG5zOUFPQ0pKdjlLVFJ1R0xCcHhiMkc2N082MkFjbktNX2k5YUFiTnFGc2JCZVdkYmY4cWdiQnJjWUE?oc=5",
+              "source": "Daum"
             },
             {
-              "title": "\"군대 안 갑니다\" 진짜 사라질 판…국방부까지 칼 뺐다",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JY1k1c2V6TldnUzZwV0w2N0tEcWFuNG5oTUNTT1NyNkh5X3RxbXZLR3dZdkZ3bmdfWnVNbHdEbXE4dTh3UHpPSHJLYWNzWnVFWFR3OQ?oc=5",
-              "source": "JTBC"
+              "title": "‘금빛 태극기’ 휘날리던 순간",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxZkpNLXMyWHFKVXNJeU9Pa185YWIxaVRiWGgxaERBR1ZpWXFoTTJZLTB4ZW9lWTdqY2xscTM4S2p0ZFJiNWI1LVM4SEp4RUxrNUlYbVYweEdySmVJbDhVRElDUm5BTUtadVpOZnpfNTlkWFlUNUg2OUl2bWgzUQ?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "국방부 “병역특례 감면·폐지 계획…일부 스포츠계 언행 굉장히 유감”",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZmtmRk85WFo0eV9sNFBsRGFDZUtGWFBxXzBvUm1FS3VMLXR1YklmTHM1cml3N1labEhQUS1pVEVIanliazhfSGtBQml0LVEybjl1REwwbmFBSnN3Z0dPMGNyall2X3BK?oc=5",
-              "source": "한겨레"
+              "title": "아이치·나고야 아시안게임 폐막…한국 종합 3위",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jNm1ZZlhfd0RjR2FoXzZXUnhxMUJ0V1VBem5ISkxGX0xEWmUxdkVRRnlQM1VRNkx3SWNjdVR3bDY3aDZXUWMxM1NDRE5tUFNjRlpub29mcXNLRk91Ukl2R2U1Yw?oc=5",
+              "source": "쿠키뉴스"
             }
           ],
-          "description": "국방부가 스포츠 분야 병역특례를 감면 또는 폐지하는 방안을 검토 중이라고 공식적으로 밝혔다. '군 면제만 보고 뛰었다'는 등 일부 선수들의 발언에 대해 국방부가 '굉장히 유감'이라며 직접 입장을 내놓으면서 논란이 수면 위로 떠올랐다. 병역특례 제도의 존폐 여부를 둘러싼 스포츠계와 당국의 갈등이 본격화되는 양상이다.",
-          "headline": "국방부, 스포츠 병역특례 감면·폐지 공식화"
+          "description": "아이치·나고야 아시안게임이 폐막한 가운데, 대회 기간 중 발생한 극심한 교통 수송 혼란이 '교통 강국' 일본의 민낯을 드러냈다는 비판이 일고 있다. 한국은 이번 대회에서 종합 3위를 기록하며 금빛 메달을 다수 수확했다.",
+          "headline": "나고야 아시안게임 폐막, 수송 대혼란 논란"
+        },
+        {
+          "rank": 4,
+          "word": "수송",
+          "count": 2,
+          "articles": [
+            {
+              "title": "나고야 아시안게임 수송 대혼란, '교통 강국' 일본의 민낯",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JM013T1BBUklyQTYtSmRDaXowajJtcjBkdWxfenpLXzZncTl1T25TRmFLMmhVX2RmMzBUVDFPRTZPMTc4ai1HYTM0M0FsRHRNUXFPY3YtbEVoOF9zdW5sdXdGa1BRbzBGLUIxM0pNX1pwNTZk?oc=5",
+              "source": "OhmyNews"
+            },
+            {
+              "title": "日, 유사시 부대·주민 수송용 AI 자율운항선 도입…무인화 추진",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YY0oxUTJqVzIyZzlMa0FJbGI3UDFpOHIzcDRaUjZpa1lqZkI1SXNNelN0NFZDdFVPdHNtV1NiR01LdXc1SnZZR3BldWJmVWxuQXBXQUVzaVNJdU5JRkVIMNIBYEFVX3lxTE9YY0oxUTJqVzIyZzlMa0FJbGI3UDFpOHIzcDRaUjZpa1lqZkI1SXNNelN0NFZDdFVPdHNtV1NiR01LdXc1SnZZR3BldWJmVWxuQXBXQUVzaVNJdU5JRkVIMA?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "日자위대, AI수송선 도입추진…대만유사시 보급·주민대피 활용",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UbERFOGZvMlFvM1E0VTQzMHVST2RlelhVTU53YmFXMXFrX29NVnRLVEdMOGEyS2FLeVFENFhJU056MnR2R0NtN2czZ0laUmp3eTd4OFo4a3gxM3NZblFNejJFcFFXQnFyTlRCWA?oc=5",
+              "source": "아시아투데이"
+            }
+          ],
+          "description": "아이치·나고야 아시안게임에서 관중과 선수단 이동을 위한 수송 시스템이 대혼란을 빚으며 '교통 강국' 일본의 운영 역량에 의문이 제기됐다. 한편 일본은 대만 유사시 부대·주민 대피에 활용할 AI 자율운항 수송선 도입도 추진 중인 것으로 알려졌다. 오늘 처음 등장한 키워드다.",
+          "headline": "나고야 아시안게임 수송 대혼란 논란"
+        },
+        {
+          "rank": 5,
+          "word": "이탈",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'대표팀 이탈' 호날두 \"내 행동 처벌 받아 마땅…은퇴는 아냐\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4Vnk0Y2paNlhWeVlxeVpNcVotNzNhaW9uc25Bc0JxWTJ4a0gwUTdXMDdYYWhaLUV6cWVST3ZxUlpEbmo5NUxUeW1RV0xMOVpvemNDYkp4M1JJdjB6MXp1edIBYEFVX3lxTFB4Vnk0Y2paNlhWeVlxeVpNcVotNzNhaW9uc25Bc0JxWTJ4a0gwUTdXMDdYYWhaLUV6cWVST3ZxUlpEbmo5NUxUeW1RV0xMOVpvemNDYkp4M1JJdjB6MXp1eQ?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "감독과 불화로 대표팀 이탈 호날두 “난 처벌받아 마땅”",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YVElMUzNITkRfN25fSVVrb3l2WU1xLTZNSlU4cUk1RVU2S2xGTEliSk5pVGhlUVF4QmJhUXZacGhaRFZleEREZnh5dW9wNFQxalNfY2NpSkxhUE9IWFJmcjl3c2p3QXplM2VaYTl6ZUNGRFHSAWZBVV95cUxOdDRqOTFadjVpUGNQSW5fc1BOQ1hBZFl1VG52UTN6dzNSUFY4ZHdRdkQwdVVsM1Z3bF90ckMyNGJvSWsxc3dOVlZkdzBUZWZuUE5CX0ZFcEtaSHk5TUZmcmc3cDFTa1E?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "대표팀 무단 이탈 호날두 \"감독이 약속 2번 어겨…무단 이탈 처벌 받아 마땅\"",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWt5d0t5Y0pCVEdpS2gxQ2EzdHUxbGlPb2R2RE9ncWxraWtDX2Z3NldvbUEwcGlTcEJwSWRORE16bGhIMU82eE1xc1BSaGt3MW5BcF8wWnRMQXpNTVNfek9XTXByRFRsZ2ZaWWdDVThhVUlzbTJ2R2lMalhhMXd2aTlkU3U1cGFEWHlj?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "크리스티아누 호날두가 포르투갈 대표팀을 무단 이탈한 사실을 인정하며 \"내 행동은 처벌받아 마땅하다\"고 밝혔다. 다만 감독이 약속을 두 차례 어겼다는 점을 이유로 들었으며, 은퇴는 아니라고 선을 그었다. 감독과의 불화가 이번 이탈의 배경으로 지목되고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "호날두, 대표팀 무단 이탈 인정 \"처벌 마땅\""
         }
       ]
     }
