@@ -58,57 +58,143 @@
   "트럼프": {
     "sections": [
       {
-        "heading": "지지율 32%, 취임 후 역대 최저",
-        "body": "도널드 트럼프 미국 대통령의 국정 지지율이 32~33%대로 떨어지며 1·2기 재임 기간 전체를 통틀어 최저 수준을 기록했다. 2기 취임 당시 지지율 47%에서 14%포인트 이상 하락한 수치로, 공화당 지지층 내 지지율도 역대 최저인 78%까지 내려간 것으로 조사됐다. 2026년 11월로 예정된 미국 중간선거를 한 달 앞두고 공화당에 비상등이 켜졌다."
+        "heading": "중간선거 전 이란 공격 없다 공개 선언",
+        "body": "트럼프 대통령은 자신의 소셜미디어(트루스소셜)에 11월 3일 중간선거 전에는 이란을 공격하지 않을 것이라며 이란과 생산적인 논의를 진행 중이라고 밝혔다. 고유가 심화와 지지율 정체 등 선거 표심을 의식해 군사적 공세를 일시 유예한 것이라는 분석이 나왔다. 트럼프는 군이 제시한 이란·후티 공습 작전을 지금까지 다섯 차례 보류한 것으로 전해졌다."
       },
       {
-        "heading": "이란전쟁·생활비 불만 복합 작용",
-        "body": "지지율 하락에는 이란과의 전쟁 대응과 경제 운영에 대한 불만이 겹쳤다. 이란전쟁 대응을 지지한다는 응답은 36%에 불과했으며, 생활비 문제 대응을 지지하지 않는다는 응답은 71%에 달했다. 이러한 수치는 중간선거 판세에 상당한 영향을 미칠 것으로 분석되고 있다."
+        "heading": "뒤에선 '3일 집중 공습' 계획 준비",
+        "body": "그러나 물밑에서는 미군이 이란이 재건한 무기고를 대상으로 사흘간 집중 공습하는 방안을 준비한 것으로 보도됐다. 10월 2일 해당 공습 방안이 논의됐으나 트럼프 대통령의 최종 결정은 아직 내려지지 않은 것으로 전해졌다. 공개 발언과 물밑 군사 계획 사이의 간극이 드러나며 대이란 전략의 불확실성이 이어지고 있다."
+      },
+      {
+        "heading": "AI 차르 임명과 용어 논란",
+        "body": "한편 트럼프 대통령은 제이 클레이턴 국가정보국장(DNI)을 AI 차르로 임명해 인공지능 정책의 컨트롤타워를 신설했다. 앞서 트럼프는 정부 공식 문서에서 인공지능(AI) 대신 초지능(SI)으로 용어를 바꾸는 행정명령에 서명하고, 이를 따르지 않으면 적으로 간주하겠다고 발언한 것으로 알려졌다. 클레이턴 국장은 120일간 AI의 위험성과 활용 가능성을 연구해 대통령에게 직접 보고할 예정이다."
       }
     ],
     "sources": [
       {
-        "title": "\"트럼프 지지율 32%…1·2기 재임 기간 통틀어 최저 기록\"",
-        "url": "https://biz.sbs.co.kr/amp/article/20000336054"
+        "title": "트럼프, 중간선거 전 이란 공격 없다했지만 뒤에선 3일 집중 공격 계획 준비 - 경향신문",
+        "url": "https://www.khan.co.kr/article/202610091524001/"
       },
       {
-        "title": "트럼프 지지율 또 역대 최저…중간선거 6개월 앞 공화당 초비상",
-        "url": "https://www.news1.kr/world/usa-canada/6156237"
+        "title": "미군, 이란 3일 집중 공습 계획 세워 - 뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261009_0003820253"
       },
       {
-        "title": "공화당 지지층 지지율도 역대 최저 78%",
-        "url": "https://mobile.newsis.com/view/NISX20260730_0003728931"
+        "title": "AI 차르 띄우고 직접 보고 받는다, 트럼프 국가 컨트롤타워 신설",
+        "url": "https://supple.kr/news/cmutzqp2y000bfafq59vg3j9g"
       }
     ],
-    "headline": "트럼프 지지율 최저, 중간선거 한 달 앞",
-    "generated_at": "2026-10-06 10:58 KST"
+    "sources": [
+      {
+        "title": "Nobel Peace Prize 2026 — Nobel Prize official site",
+        "url": "https://www.nobelprize.org/prizes/peace/2026/pillay/facts/"
+      },
+      {
+        "title": "South Africa's Navi Pillay wins 2026 Nobel Peace Prize — France 24",
+        "url": "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize"
+      },
+      {
+        "title": "Nobel Peace Prize: Navi Pillay wins 2026 award — CNN",
+        "url": "https://www.cnn.com/2026/10/09/world/live-news/nobel-peace-prize-2026-winner-intl"
+      }
+    ],
+    "headline": "노벨평화상, 나비 필라이 선정",
+    "generated_at": "2026-10-10 05:22 KST"
   },
-  "위성": {
+  "살해": {
     "sections": [
       {
-        "heading": "누리호 5호, 역대 최다 위성 15기 탑재",
-        "body": "우주항공청은 누리호 5차 발사일을 10월 7일로 최종 결정했다. 발사 예정 시간은 오후 12시 23분에서 1시 23분 사이이며, 기상 악화에 대비해 10월 8일부터 14일까지를 예비 기간으로 설정했다. 탑재 위성은 한반도와 주변 해역을 저궤도에서 정밀 관측하는 초소형군집위성 2~6호와 목적·기능이 각기 다른 큐브위성 10기로 구성됐다."
+        "heading": "12월 3일 총살형 공식 확정",
+        "body": "미 육군은 2009년 포트후드 기지 총기 난사 사건의 범인 니달 하산(Nidal Hasan)의 총살형을 2026년 12월 3일 오후 1시(중부시간)에 집행한다고 공식 발표했다. 트럼프 대통령은 10월 2일 피트 헤그세스 국방장관의 건의를 받아들여 사형 집행을 최종 승인했다. 집행 장소는 사건이 발생한 포트후드 기지다."
       },
       {
-        "heading": "'위성 하차 작전'…35초마다 순차 분리",
-        "body": "15기의 위성은 발사 후 35초 간격으로 하나씩 순차 분리되는 방식으로 배치될 예정이어서 '위성 하차 작전'이라는 별칭이 붙었다. 초소형군집위성 2~6호는 2024년 시제기, 2025년 검증기에 이어 이번에는 양산형으로 발사된다. 이번 누리호 조립·발사 서비스를 담당한 한화는 이를 발판으로 위성 양산과 AI 사업까지 사업을 확장한다는 계획을 밝혔다."
+        "heading": "81년 만의 총살형, 65년 만의 군 사형 집행",
+        "body": "하산은 2009년 11월 당시 육군 소령이자 군 정신과 의관으로, 기지 내 의료시설에서 총기를 난사해 13명을 살해하고 30명 이상을 다치게 했다. 이번 총살형 집행은 1945년 이후 81년 만의 미군 총살형이며, 군 사형 집행 자체로는 1961년 이후 65년 만이다. 하산은 과격 이슬람 사상을 가진 전직 군 장교로 알려져 있다."
+      },
+      {
+        "heading": "생중계 방침과 항소 가능성",
+        "body": "헤그세스 장관은 집행 장면을 대중에 공개하겠다고 밝혔으며, 국방부는 인터넷 생중계 방침을 발표했다. 이를 두고 처형 과정의 투명성을 위한 조치라는 주장과 잔혹한 공개 처형이라는 비판이 맞서고 있다. 다만 하산은 민간 연방법원에 항소할 권리를 갖고 있어 법적 절차에 따라 집행이 무기한 연기될 수도 있다."
       }
     ],
     "sources": [
       {
-        "title": "누리호 5차 발사 10월 7일 추진…'역대 최다' 위성 15기 탑재",
-        "url": "https://futurechosun.com/?p=158868"
+        "title": "13명 살해 미군 사형수 총살형 집행 대중에 공개키로 — 세계일보",
+        "url": "https://www.segye.com/newsView/20261009503785"
       },
       {
-        "title": "누리호 실릴 '역대 최다' 위성 15기…먼지·방사선 정보 수집나선다",
-        "url": "https://www.mt.co.kr/tech/2026/09/15/2026091513023530747"
+        "title": "Army sets execution date for Nidal Hasan by firing squad at Fort Hood — Task & Purpose",
+        "url": "https://taskandpurpose.com/news/nidal-hasan-execution/"
       },
       {
-        "title": "누리호, 첫 군집위성 띄운다…내달 15기 싣고 5차 발사",
-        "url": "https://supple.kr/news/cmu29z93h009hgkavvwkru54f"
+        "title": "Army sets date for Fort Hood mass shooter Nidal Hasan to face firing squad — ABC11",
+        "url": "https://abc11.com/story/army-sets-date-fort-hood-mass-shooter-nidal-hasan-face-firing-squad/19916955/"
       }
     ],
-    "headline": "누리호, 위성 15기 싣고 7일 발사",
-    "generated_at": "2026-10-06 10:58 KST"
+    "headline": "미군 13명 살해 사형수, 총살형 생중계",
+    "generated_at": "2026-10-10 05:22 KST"
+  },
+  "평화상": {
+    "sections": [
+      {
+        "heading": "\"국제범죄 생존자 모두에게 바친다\"",
+        "body": "2026년 노벨평화상 수상자로 선정된 나비 필라이는 수상 소감에서 '이 상을 전 세계 국제범죄 생존자 모두에게 바친다'고 밝혀 국제사회의 주목을 받았다. 필라이는 르완다 국제형사재판소 재판관과 유엔 인권최고대표를 역임한 국제법 전문가다. 노벨위원회는 '평화와 국제법 증진을 위한 노력'을 수상 이유로 내세웠다."
+      },
+      {
+        "heading": "이스라엘 강하게 반발, 팔레스타인은 환영",
+        "body": "이스라엘 정부는 필라이의 수상 결정에 즉각 비난 성명을 냈다. 필라이가 이끈 유엔 조사위원회가 이스라엘의 가자지구 행위를 집단학살로 규정하는 데 앞장선 것이 직접적인 이유다. 반면 팔레스타인 자치정부(PA)는 수상을 환영한다는 입장을 밝혀 국제사회의 상반된 반응이 이어졌다."
+      },
+      {
+        "heading": "노벨위원회 \"가자 사태 판단 아니다\"",
+        "body": "노벨위원회는 이번 수상이 가자지구에서 일어난 일이 집단학살에 해당하는지에 대한 입장 표명이 아니라고 선을 그었다. 미국이 필라이가 활동했던 국제형사재판소(ICC)를 무력화하기 위한 전례 없는 조치를 취하는 시기에 수상이 이뤄져 더 큰 반향을 낳았다. 시상식은 2026년 12월 10일 오슬로에서 열릴 예정이다."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nobel Peace Prize 2026 — Nobel Prize official site",
+        "url": "https://www.nobelprize.org/prizes/peace/2026/pillay/facts/"
+      },
+      {
+        "title": "Nobel Peace Prize 2026 winner: Navi Pillay — CNN",
+        "url": "https://www.cnn.com/2026/10/09/world/live-news/nobel-peace-prize-2026-winner-intl"
+      },
+      {
+        "title": "As Navi Pillay wins Nobel Peace Prize, US takes unprecedented action to cripple the court she served on — CNN",
+        "url": "https://cnn.com/2026/10/09/world/navi-pillay-nobel-peace-prize-2026-message-impact-intl"
+      }
+    ],
+    "headline": "노벨평화상 필라이, 수상 소감 화제",
+    "generated_at": "2026-10-10 05:23 KST"
+  },
+  "필라이": {
+    "sections": [
+      {
+        "heading": "르완다 재판부터 유엔 인권최고대표까지",
+        "body": "나비 필라이는 르완다 국제형사재판소 재판관을 역임하며 집단학살 가해자들의 처벌에 기여했고, 이후 유엔 인권최고대표(OHCHR)로서 전 세계 인권 증진에 힘썼다. 노벨위원회는 '평화와 국제법 증진을 위한 노력'을 이번 수상 이유로 밝혔다. 평생을 국제법과 인권 분야에 헌신해 온 공로가 국제사회에서 공식 인정을 받은 것이다."
+      },
+      {
+        "heading": "가자 전쟁과 ICC 압박의 한복판에서",
+        "body": "필라이는 최근 가자지구 상황을 조사한 유엔 조사위원회를 이끌며 이스라엘의 행위가 집단학살에 해당한다고 주장해 국제사회의 이목을 끌었다. 수상 발표 직후 이스라엘 정부는 강하게 반발했으며, 미국이 필라이가 활동한 국제형사재판소(ICC)를 무력화하는 전례 없는 제재 조치를 취하는 시기에 이뤄진 수상이라 더욱 주목받았다. 팔레스타인 자치정부는 환영 입장을 밝혔다."
+      },
+      {
+        "heading": "남아공 다섯 번째 노벨평화상 수상자",
+        "body": "필라이는 남아프리카공화국 출신으로, 넬슨 만델라·데스몬드 투투 등의 뒤를 잇는 남아공의 다섯 번째 노벨평화상 수상자가 됐다. 수상 소감에서 '이 상을 전 세계 국제범죄 생존자 모두에게 바친다'고 밝혔다. 시상식은 2026년 12월 10일 오슬로에서 열릴 예정이다."
+      }
+    ],
+    "sources": [
+      {
+        "title": "South Africa's Navi Pillay wins 2026 Nobel Peace Prize — France 24",
+        "url": "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize"
+      },
+      {
+        "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize — UN News",
+        "url": "https://news.un.org/en/story/2026/10/1168558"
+      },
+      {
+        "title": "Nobel Peace Prize 2026 — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Nobel_Peace_Prize"
+      }
+    ],
+    "headline": "나비 필라이, 노벨평화상 수상",
+    "generated_at": "2026-10-10 05:23 KST"
   }
 }
