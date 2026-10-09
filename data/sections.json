@@ -2,34 +2,38 @@
   "트럼프": {
     "sections": [
       {
-        "heading": "중간선거 전 이란 공격 없다 공개 선언",
-        "body": "트럼프 대통령은 자신의 소셜미디어(트루스소셜)에 11월 3일 중간선거 전에는 이란을 공격하지 않을 것이라며 이란과 생산적인 논의를 진행 중이라고 밝혔다. 고유가 심화와 지지율 정체 등 선거 표심을 의식해 군사적 공세를 일시 유예한 것이라는 분석이 나왔다. 트럼프는 군이 제시한 이란·후티 공습 작전을 지금까지 다섯 차례 보류한 것으로 전해졌다."
+        "heading": "중간선거 앞두고 '억제' 내세우면서 군사 태세 강화",
+        "body": "트럼프 대통령은 최근 이란에 대해 '이란이 존재하는 한 평화는 없다'며 중간선거 이후 폭격을 강화할 수 있음을 시사했다. WSJ은 미국이 항공모함과 병력 1만 명을 추가로 중동에 파견하고 있다고 보도했다. 공개적으로는 선거 전 대규모 공격을 보류하는 모양새지만, 물밑에서는 대이란 공격 계획을 지속적으로 다듬고 있다는 관측이 나온다."
       },
       {
-        "heading": "뒤에선 '3일 집중 공습' 계획 준비",
-        "body": "그러나 물밑에서는 미군이 이란이 재건한 무기고를 대상으로 사흘간 집중 공습하는 방안을 준비한 것으로 보도됐다. 10월 2일 해당 공습 방안이 논의됐으나 트럼프 대통령의 최종 결정은 아직 내려지지 않은 것으로 전해졌다. 공개 발언과 물밑 군사 계획 사이의 간극이 드러나며 대이란 전략의 불확실성이 이어지고 있다."
+        "heading": "클레이턴 국가정보국장, AI 차르로 발탁",
+        "body": "트럼프 대통령은 10월 4일 국가정보국장(DNI) 제이 클레이턴을 새 AI 차르로 임명하고, 그를 중심으로 '슈퍼 인텔리전스 포스(SI Force)'를 출범시킨다고 발표했다. 클레이턴은 CNBC 인터뷰에서 초지능을 '국가 안보 문제'라고 규정하며 AI 개발 일시 중단 요구에 반대 입장을 분명히 했다. 이번 임명으로 AI 정책이 국가정보 라인 아래 편제되면서 안보 우선 기조가 한층 강화됐다."
       },
       {
-        "heading": "AI 차르 임명과 용어 논란",
-        "body": "한편 트럼프 대통령은 제이 클레이턴 국가정보국장(DNI)을 AI 차르로 임명해 인공지능 정책의 컨트롤타워를 신설했다. 앞서 트럼프는 정부 공식 문서에서 인공지능(AI) 대신 초지능(SI)으로 용어를 바꾸는 행정명령에 서명하고, 이를 따르지 않으면 적으로 간주하겠다고 발언한 것으로 알려졌다. 클레이턴 국장은 120일간 AI의 위험성과 활용 가능성을 연구해 대통령에게 직접 보고할 예정이다."
+        "heading": "'인공지능' 대신 '슈퍼지능'…용어 리브랜딩의 속내",
+        "body": "트럼프 대통령은 9월 유엔 총회 기조연설에서 'AI'라는 용어 대신 '슈퍼지능(SI)' 사용을 촉구하고, 연방 공문서에서도 '인공(Artificial)'을 '초(Super)'로 교체하도록 행정명령에 서명했다. 국제적 AI 규제 시도에도 정면으로 반기를 들었으며, 미·중 정상 간에도 SI 용어 사용에 합의한 것으로 전해졌다. 전문가들은 용어 변경이 AI 위험성 논의를 희석하고 기술 주도권 경쟁에서 미국의 주체성을 부각하려는 포석이라고 분석했다."
       }
     ],
     "sources": [
       {
-        "title": "Nobel Peace Prize 2026 — Nobel Prize official site",
-        "url": "https://www.nobelprize.org/prizes/peace/2026/pillay/facts/"
+        "title": "트럼프 \"이란 완전히 없애야\"...중간선거 후 '폭격 재개' 가능성 언급",
+        "url": "https://www.mt.co.kr/world/2026/10/01/2026100122441683729"
       },
       {
-        "title": "South Africa's Navi Pillay wins 2026 Nobel Peace Prize — France 24",
-        "url": "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize"
+        "title": "트럼프 \"선거 후 폭격 강화\"…이란 위협 수위 고조",
+        "url": "https://www.ytn.co.kr/_ln/0104_202610021239011809"
       },
       {
-        "title": "Nobel Peace Prize: Navi Pillay wins 2026 award — CNN",
-        "url": "https://www.cnn.com/2026/10/09/world/live-news/nobel-peace-prize-2026-winner-intl"
+        "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+        "url": "https://www.kunc.org/npr-news/2026-10-04/trump-names-national-intelligence-chief-jay-clayton-as-new-ai-czar"
+      },
+      {
+        "title": "트럼프, 'AI 규제' 정면 거부…'초지능' 리브랜딩 선언",
+        "url": "https://biz.sbs.co.kr/amp/article/20000336358"
       }
     ],
-    "headline": "노벨평화상, 나비 필라이 선정",
-    "generated_at": "2026-10-10 05:22 KST"
+    "headline": "트럼프, 이란 3일 공격 계획 준비 정황",
+    "generated_at": "2026-10-10 07:13 KST"
   },
   "살해": {
     "sections": [
