@@ -1,416 +1,454 @@
 {
   "date": "2026-10-10",
-  "updated_at": "2026-10-10 05:17",
+  "updated_at": "2026-10-10 17:28",
   "briefing": {
-    "text": "2026년 노벨평화상 수상자로 남아프리카공화국의 인권법학자 나비 필라이가 선정되며, 이스라엘의 강한 반발과 팔레스타인 자치정부의 환영이 엇갈리는 국제적 파장이 일고 있다.\n\n트럼프 대통령은 공개적으로 중간선거 전 이란 공격이 없다고 밝혔지만, 물밑에서 '3일 집중 공격' 계획이 준비됐다는 보도가 나왔다. 아울러 'AI 차르'로 임명된 클레이턴이 AI를 국가안보 사안으로 규정하며 존재감을 드러냈고, 미국에서는 81년 만의 군 총살형이 생중계 방침과 함께 공개돼 처형 방식을 둘러싼 논란도 이어지고 있다.\n\n국내외 사이버 보안 우려도 커지고 있다. 금융권을 겨냥한 해외발 해킹 사고 중 90%는 공격자를 특정하지 못하는 것으로 드러났고, 일본과 국내 금융권에서 개인정보 유출이 잇따르며 당국이 보이스피싱·스미싱 피해를 경고하고 나섰다.\n\n연예·스포츠 분야에서는 영화 '암살자(들)'가 정치적 논란 속에 화제를 모은 가운데, 전 국가대표 골키퍼 김영광이 보복운전 의혹에 공개 사과했고, '나혼자산다' 출연자 김민은 방송 조작 의혹을 직접 부인하며 입장을 밝혔다.",
-    "period": "아침",
-    "generated_at": "2026-10-10 05:17"
+    "text": "트럼프 대통령이 푸틴과 러시아 경유 30만 톤 공급에 합의했다고 밝혀 국제사회의 이목이 집중됐고, 젤렌스키는 이를 '푸틴 생일 선물'이라며 강하게 반발했다.\n\n국내 정치에서는 조희대 대법원장을 둘러싼 범죄 의혹 7건이 국감에서 제기되며 수사·탄핵 요구가 동시에 커졌고, 조 대법원장은 증인 출석을 거부하면서도 제청권 관련 수사 가능성을 직접 언급해 파장을 낳았다.\n\n경제 분야에서는 LG전자가 보쉬와 차량용 칩렛 개발에 나서고, 최태원 SK 회장이 호남 반도체 부지를 직접 찾아 신속 착공 의지를 밝히는 등 민간 반도체 투자가 잇따랐다. 한편 AI를 활용한 금융권 해킹에 중국 디도스 조직 연루 정황이 드러났고, 호르무즈 해협 선박 통항량이 75% 급감하며 해상 물류 불안도 고조됐다.\n\n스포츠에서는 아시안게임 병역특례 폐지 논란이 안철수 의원의 발언으로 불붙었고, 이강인은 아틀레티코 마드리드에서 9월의 선수상을 수상하며 이적 후 안착을 증명했다. 아시안게임 2관왕 여서정은 전국체전 기계체조에서 전 종목 메달을 독식하며 국내 무대에서도 독보적인 기량을 과시했다.",
+    "period": "저녁",
+    "generated_at": "2026-10-10 17:28"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "노벨평화상에 국제법·인권 수호 나비 필라이 선정 · 미군 13명 살해 군의관 총살형 공개 집행",
+      "summary": "트럼프·푸틴 경유 공급 합의에 젤렌스키 강력 반발 · 조희대 수사·탄핵 주장 증폭",
       "keywords": [
         {
           "rank": 1,
-          "word": "노벨",
+          "word": "트럼프",
           "count": 3,
           "articles": [
             {
-              "title": "노벨평화상에 ‘전쟁범죄·집단학살 단죄’ 나비 필라이 선정",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZk5TU1RuQ0t0V3VMZUN4dXV6bkxxVnNRY0FHX3RPZHJyY1dIUmlFQk0wdEtEd2hZMEczbldzWDlIVzctb0FZaU5MRlVWZ3ZmTDhJZkNEXzV6VjAtdTNCLVJUekVVWTJCRDBnQm1ia3FCMmJZSXkxaWJ6VlhPckdVQ2NB?oc=5",
+              "title": "노벨상 불발에 ‘뒤끝’ 트럼프 “내가 남북한 전쟁도 막고 있어”",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81STdxOWdNdWtxU1ZCWm9iUjlEWVNEdGdlbHIzUWZZSE5ILU1zTlFVR0xaUkdkSjY5T1BkSEhydG8xUy1GY0R4ZnRDTXlpRVNEQTQ4eThoVVEtREdEbTlJU0VaR2xTTUViUHFiZlQtRnlCdWvSAWZBVV95cUxNVjh0cWZDMnBxc2lmNTF0ckdqb0NuNDFwUl8xd0pVZEEzeXR4MmpxS1N3a0dKWjhjcUh6ODNoejVQR2dScHc5czhzU1JCVDZ1UFBtWDYzZDc4WExqN0UyTG00NVhmWlE?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "트럼프 “푸틴과 러 경유 30만t 공급 합의”…우크라 “전쟁 투자” 맹비난",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR1dtbmprZFRRNmtFSVBZY0ZZVmhvbFlOcDdhLWsyZUxBZVc4TEthNDVtZElxNzdxYW1kZlZ2TERXUG9HUl9iUnRYdGl2U3N5S1paRDdiaUJabDQ1VTlmeDR5UFlVei14SW1rcE0tbkFNYzV1bUxTZTJBdmp6eG1kMVp3?oc=5",
               "source": "한겨레"
             },
             {
-              "title": "트럼프가 바란 노벨평화상에 전쟁범죄 처벌 앞선 나비 필라이",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2tpa0xJWjBWWWtPTk9rX3NDcEpGQmg1ODVGZkdfSGRPalFrb1VjUlhwV0lja3BrQXR0MWx0c1BMNmlUUF9Fd3E0ek1od3BtS0Y2QURrYW1jRTNKZmlibF9KTmVTU1IwdWVTeVB6VDA3czRVM2piaXBGOWFzZ3Jad2hXTUJqeW1zdUNkUDlhYUJMMVlJdFphOWJJRnZ5Zw?oc=5",
+              "title": "트럼프, 새 백악관 대변인에 ‘금발의 보수 평론가’ 재카리아",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0pvT1RqOU5vaWRuT1c2alRZdEk3ZUp2aW5sRkpjWURuWWNqc3VZdkVXR3l6QVRsUk1jNUcxOUZQZl9wbG9lbms3aEp4QUthLTQ5NnBwNXhVd1RMcGt2cDBHRDRjSTNPQVVCZUMxNjFoQ1k1ZDJFUVZHM3dMcmxuN29qTG8?oc=5",
               "source": "조선일보"
-            },
-            {
-              "title": "이스라엘, 필라이 노벨평화상에 비난…PA는 환영(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1b0FLZnRqS0ZuZmtkd0VWVjhVTUx2aEVVeXdPb3k2RzcxM082LXo4QVZ1RkkwRmJPWWFfMGU4eTBmZUt0TnZKc0FYa0treUlieGdjSzFrODFTM3PSAWBBVV95cUxNdzVLRVo0S0xvX2VfS3QxUmZPUVBnMkZKMVlCUTVkalpFYW9iYWp5cU9LLU1UVldQcHNnNmpfdmQ4SGF4Y1FDTXZzNGdPWjRmWXpYVkNlNzV1X2pPdnFIZlE?oc=5",
-              "source": "연합뉴스"
             }
           ],
-          "description": "2026년 노벨평화상 수상자로 남아프리카공화국의 인권법학자 나비 필라이가 선정됐다. 필라이는 넬슨 만델라를 변호한 인권 변호사 출신으로, 국제법과 인권 증진에 기여한 공로를 인정받았다. 이스라엘은 전쟁범죄·집단학살 단죄를 앞세운 그의 수상에 강하게 반발한 반면, 팔레스타인 자치정부(PA)는 환영 입장을 밝혀 국제사회의 엇갈린 반응이 이어지고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "노벨평화상, 나비 필라이 선정"
+          "description": "트럼프 대통령이 푸틴과 러시아 경유 30만 톤 공급에 합의했다고 밝혀 국제사회의 주목을 받고 있다. 젤렌스키 우크라이나 대통령은 이를 '푸틴 생일 선물'이라며 강하게 비난했다. 한편 트럼프는 노벨평화상 불발에 불만을 드러내며 '남북한 전쟁도 막고 있다'고 발언했고, 새 백악관 대변인에 보수 평론가 재카리아를 임명하는 등 굵직한 행보를 이어갔다. 어제 5위에서 오늘 1위로 급상승했다.",
+          "headline": "트럼프, 푸틴과 경유 30만t 공급 합의"
         },
         {
           "rank": 2,
-          "word": "살해",
-          "count": 2,
+          "word": "경기",
+          "count": 3,
           "articles": [
             {
-              "title": "13명 살해 미군 사형수 총살형 집행 대중에 공개키로",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQYlU5WmozUzZNRXFjd3gtQWV4NDFJS3N0WmRITjdkdGlZODhjaGpBaWp4aUF0SXJ6TXd3eFZzbjhjUHM4dExUdlBrZ0Q0bU5PcGZjTkVqSTLSAVRBVV95cUxPR2tvd0VZTmVWUmtWcjVuYV9mb2lHOFJwTTgxN2RELWh2eDVVajZMRVpOMklRS1I2VUs4OTJ1Z2o0a2FlaksxUmZ6QkZDVlBaRHd1LWM?oc=5",
-              "source": "세계일보"
+              "title": "뒤집힌 3위 경쟁…KIA 자력 확정 눈앞, LG는 기적 바라야",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40WmRvWDlYa1hhNkNqVEdJWTdaTmhmOFBxQnhTQkJDZnBLR1NhOFNGNHV1QU05SkFqc25xQXVMUDBWNm95aEptQ3hNNnl4YTVWd3NrM1ZISWF5MlVzcUhwTtIBYEFVX3lxTE40WmRvWDlYa1hhNkNqVEdJWTdaTmhmOFBxQnhTQkJDZnBLR1NhOFNGNHV1QU05SkFqc25xQXVMUDBWNm95aEptQ3hNNnl4YTVWd3NrM1ZISWF5MlVzcUhwTg?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "“심판의 날 왔다” 미군 81년만의 총살형…13명 살해 군의관 정체",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xdFo1OXhoYi1vYThBWmJNM0hHZl9rS0lWWHdFTHg1X1RzRUVGSXlKQWNSekFuNGJZZXlsUmlTWGVpRXZqeGM1SGFIUF9uWTZoQTRQTXJR?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "미군 13명 살해한 과격 무슬림 前장교... 美국방부 \"총살형 생중계\"",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbXFPcTRPbDVMUEh0aGV4aXB1cUp0SDFPSXhJS0RGQ2VWbDZNX1Q4Mi1QV2lEZnZueFRpb2RMdjBjMzJWUkVydjkzbEhpTnJ2ZnR5NkZrM2VxRk1OSXpFS1FiZ185N3VENnJMc2xWMjRDSGNtTFZrNkxZcEtGdGF2UWVIWS01RU9mSUxpWno0T19URHhQZkpEZmNGalJMQQ?oc=5",
+              "title": "가을무대엔 고우석 없다! 매경기 총력전 → 대체자까지 찾는 염갈량의 한숨 \"베테랑이 해주면 가장 좋다\" [부산현장]",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzBSRlBOZEp1SElSWkNQOUpJRnpITnk3My01bmk0SGl6d0EtWFJLZUN4TG1nNVB6a3htSmlwMm9OTWNrZEwya2lObmg3MzRrZUxnNFpPOEEtdkI5WGwxdHBrTVpadl9OOTdiZVlFSXktOVFlVTFWZW1JQnpKQUtqc0ZnYw?oc=5",
               "source": "조선일보"
+            },
+            {
+              "title": "'3경기 남은' KIA, '준플레이오프 직행' 경우의 수는?",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WUVpVV3BUb0Z1UEZyMlR1TGFxeXU1SVFjZjFtbklIUjRyS0VBOGpjR3B0VUhOTWwxSjc2WTBBUzlzRW12T1NINDdxc1NzVDBCOWtTTElDVV80R1BXckhuMA?oc=5",
+              "source": "KBC광주방송"
             }
           ],
-          "description": "미국 국방부가 13명을 살해한 군의관 출신 전직 장교의 총살형을 대중에 공개하기로 했다. 81년 만에 집행되는 미군 총살형으로, 해당 사형수는 과격 이슬람 사상을 가진 전직 군 장교다. 생중계 방침이 알려지며 처형 방식과 공개 여부를 둘러싼 논란이 집중되고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "미군 13명 살해 사형수, 총살형 생중계"
+          "description": "프로야구 시즌 막판 3위 경쟁이 뒤집히며 KIA가 준플레이오프 직행 티켓을 거의 확정 짓는 상황이 됐다. 3경기를 남긴 KIA는 경우의 수에서 유리한 위치를 점했고, LG는 기적에 가까운 결과를 기다려야 하는 처지다. LG 입장에서는 고우석의 포스트시즌 부재까지 겹쳐 염경엽 감독이 대체 자원 마련에 고심 중인 것으로 전해진다. 오늘 처음 등장한 키워드다.",
+          "headline": "KIA, 3위 자력 확정 눈앞"
         },
         {
           "rank": 3,
-          "word": "트럼프",
+          "word": "수사",
           "count": 2,
           "articles": [
             {
-              "title": "트럼프 “중간선거 전 이란 공격 없다”했지만···뒤에선 ‘3일 집중 공격’ 계획 준비",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRU01dkd0Y0FNaVZnb2lHYVREMm9ZUDNUdGJTU0ZCcmRqX0E2V19ZRFpHbWhfU1dTcjFjRlJTdS1OVE9vWmg3TlhTQjB5UV9OT2lVRklmdW9Od9IBX0FVX3lxTE9WOEJGeERrX3o0NnNBaE9YOTMwQ1FXSUFFT1dlY1R1MGpTMGRNbU1YQTNOdWEyOU4xYWpRTTlkR0h6WE9aeXI4cEdPVTNqNmE2ZTNwTV9QbmJaeTdvTjln?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "\"SI는 국가안보\"…AI차르 된 '트럼프의 남자' 클레이턴[글로벌키맨] - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xeGJaaWd0UWxQMDVwV0Y2VFRGRWpUSmRzTkUzUnJkdFA1WkhzNi1rT0JlV1BTWGoxWmhBMWFpa0wtT1hwemp2N1RUejBIcDBCRk9mbm9TeXdxNVBYeXVsd0dpM3dVZm9N0gFuQVVfeXFMTlRtNVE5aFpPVWd6MFlLZ0c2bmNHQmt4bE1oeVNKajdjQnZMQlVVV3hKNmRmMW5Oa1JlRmZfSjVUT1lTNTVtTjMxbmNSdWoxeUEzZERJLVBrcGdLRFFlbktlOUY0UExxZUtBY0ZNeEE?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "트럼프 \"슈퍼지능 아니라 인공지능 용어 쓰면 적으로 간주\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xOFlRV3hoVWpQNDFvUlBWbEc5S1hEa3ZuM3hCWE0zQ1RNV0dmRmJSUWh1dlBNOFVOMmhNLTFDYmdESVc0OXR0dkxieGgxa1h5WnFrRFczSXl0WDTSAWBBVV95cUxPazNYck1NMm5PLWFfbC1mWkJZaVlwN3N6Q0NacmVmU2pYRVY4TW1qRmt6T1RKVjhjUUpYdE1VNEVDZlFHR0hWQ3pKbkhqdnJNTFBJZlZKbEZLVDJaNGxDbEM?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "트럼프 대통령이 공개적으로는 '중간선거 전 이란 공격 없다'고 밝혔지만, 물밑에서는 3일 집중 공격 계획이 준비됐다는 보도가 나왔다. 한편 트럼프는 '슈퍼지능' 대신 '인공지능' 용어를 고집하며 이를 어기면 적으로 간주하겠다고 발언해 눈길을 끌었고, '트럼프의 남자'로 불리는 클레이턴이 AI 차르로 임명돼 AI를 국가안보 사안으로 격상시키는 행보도 주목받고 있다. 어제 5위에서 오늘 3위로 올라섰다.",
-          "headline": "트럼프, 이란 3일 공격 계획 준비 정황"
-        },
-        {
-          "rank": 4,
-          "word": "평화상",
-          "count": 1,
-          "articles": [
-            {
-              "title": "노벨평화상 필라이, 나치 전범재판 법정서 “법 아닌 힘의 시대 막아야”",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLOUJEdlFJSFVHZDZFeWFnQk9Dc0FoZEszbGUxTE52RVhYbUJNVWJ5YkI1NkxWczItM2NVaEVtOVdtWU5Ya1pyX2hiVE5jQTc4d1cyU2tIU05jQVRrSlZNb2FuU2YyQXRHQnY1Sk1B?oc=5",
+              "title": "선비라던 조희대 범죄 의혹만 7개…“수사·탄핵 쌍끌이” 주장 증폭 [논썰]",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xNk1nSTFRdEZiY0JZMC1kTEV4aVNJdmVEbDVLR05DWHRpc19UMktVUkdrZDRkQ1VYb24zRVFNRkd4c0tTRlJkd0lsWHdpeTVxNkpTSFNkZXlFdmd2c29GUVRfUk1uUjNPT0xwTzhkb296X0tQ?oc=5",
               "source": "한겨레"
             },
             {
-              "title": "이스라엘, 노벨평화상 필라이 수상에 \"괴벨스가 환호\" 비난",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xUlBzWG1mV3lkbGQtckJKcGdUX1FucmFLSjQtZGtFbjJjZzlqU0VLQ09VNG0wY2pnMFdQVjQzVUFuMWI1VFBnY1VKX291b1dVRDZfU3pCcTNLUGfSAWBBVV95cUxQa2VLaVp0UnlFclFlNmlKTFhtcFRWYUhDaEthcFRjX0hrbTM0MFY4ZFVoY21XMklMU1NEQUVBeDhlM2hFNFp1Zl9sWWd6eEFTdUY4amJ3YW93OGVBNm52T20?oc=5",
+              "title": "국감 첫 주 '조희대·지뢰' 충돌…내주 경찰 수사체계 검증",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80TlNOZ3pQa3c4N1oxeVBFd2FVSjgwZDlLU3NaOU1RSkFvODVpMzBZWGU0OFlBWTYtdjgxZkFRdzJyTlVsdWdjcFJsTkRUQVZoUHA5YzRzMm1WTXFQeUVKdHlVQnFvcEpaRlMtdkFn?oc=5",
+              "source": "OBS경인TV"
+            },
+            {
+              "title": "조희대 \"대통령 협의 공개 부적절‥'제청권' 수사 진행될 수도\" 국감 증인 출석 거부",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54SzlaRkxhMFVob0F1cGJMdGo5SE9oQkxsMHZOdldkeEw3ekdfc0ItM3NGSEZWM3ZKRmNkZFJfbUNYVzFoTE1iX2JSczhFRXI0T1loVkdSMEEzTzY3aUU0V0Y0VE9udi1iV01XTHlwREtUV2o0V0NjWtIBeEFVX3lxTE55d3BXOTB6TXF4RWc1NWFqaUswQ3JrSkNZYURmOTktMXBIelFWTmpabnlkVEZBOTBjN200UVZZUWVOVkZZMU1YWDl1T0tIamRXOXlTMFMwd2dxMTVSd1BWY2ZCbGFUZXZCbW9UWHl4N0FYRk8zYU1GQQ?oc=5",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "description": "국정감사에서 조희대 대법원장을 둘러싼 범죄 의혹이 7개에 달한다는 주장이 제기되며 '수사·탄핵 쌍끌이' 요구가 커지고 있다. 조희대 대법원장은 국감 증인 출석을 거부한 가운데, '대통령과의 협의 공개는 부적절하다'면서도 제청권 관련 수사가 진행될 수 있다고 언급해 파장을 일으켰다. 국감 첫 주는 조희대 이슈와 지뢰 문제로 충돌했으며, 다음 주에는 경찰 수사체계 검증이 예정돼 있다.",
+          "headline": "조희대, 범죄 의혹 7개·수사 가능성 언급"
+        },
+        {
+          "rank": 4,
+          "word": "푸틴",
+          "count": 2,
+          "articles": [
+            {
+              "title": "푸틴, 이란에 \"중동 상황 해결 위해 모든 노력\"...사우디 공항 이틀 연속 피격",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zNVA1eXIyN0d4bVo3NUlYTGpXYldtaWFJZG5lLUNfUndac241R3JRTFNfbDEzeDZlS25Rak5IbzRKdzZVanRERng5RmZodHp3THBuVzBoVXMzYVJpM0E?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "우크라, 푸틴 전용기 도착 맞춰 모스크바 공항 드론 공격",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFU29uRHEzQnBDSzZENnA2UDBqbHYteUpxQl9oY0NIbGdhOHlaY0tQTWJnSGFkZDRKV194N2ZSeUdMUWh2WUx5cjVtRGJxS3RFaktlanZ3WXlqdVnSAWBBVV95cUxNTXZjVlRiUFBjY29sNGNBbVNKaGZSeVNRUmh5M1dwbnU4WnZxQ3A3cnFpVXQzdkFlOHJoSjJ0cU1oeW9TNjlMNnR4TTUtZW1IUXlvZzdITkFsWkwwX09rOUg?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "노벨평화상 필라이 \"박수 더 치면 트럼프와 상 나누겠다\" 농담",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TRWo1WlF1di1SWUJPT0tlMlI4MzY3R0EwTGdaMVFnM3Z3TlNMOWNUUkRsTXBHYlpDREFCMFJsOEt1S3gxRjlYeXNlN1k0SXRJaUgw?oc=5",
-              "source": "뉴스1"
+              "title": "우크라 드론에 모스크바 공항 4곳 마비…푸틴 귀국길 차질",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoNGViU2hrUU1LMzdqaUo5TU5RX3lHd01rUVhsVmRITzJ6S2RxSThFc29ZdnpGb1Nmekc0SGRQXzk3SnlsS0tBU1Z0cmVMYlhoYTRkRlZwSy13UWpScGlTdkU2RU1fVmdRMm0tZ9IBbEFVX3lxTFBoNGViU2hrUU1LMzdqaUo5TU5RX3lHd01rUVhsVmRITzJ6S2RxSThFc29ZdnpGb1Nmekc0SGRQXzk3SnlsS0tBU1Z0cmVMYlhoYTRkRlZwSy13UWpScGlTdkU2RU1fVmdRMm0tZw?oc=5",
+              "source": "국민일보"
             }
           ],
-          "description": "올해 노벨평화상을 수상한 나비 필라이가 나치 전범재판이 열렸던 법정에서 '법이 아닌 힘의 시대를 막아야 한다'고 역설해 주목받았다. 수상 소감에서 '박수를 더 치면 트럼프와 상을 나누겠다'는 농담을 던지는가 하면, '국제범죄 생존자들에게 이 상을 바친다'며 소감을 전했다. 이스라엘은 그의 수상에 '괴벨스가 환호할 일'이라며 강하게 비난했다. 오늘 처음 등장한 키워드다.",
-          "headline": "노벨평화상 필라이, 수상 소감 화제"
+          "description": "우크라이나가 푸틴 대통령의 귀국 시점에 맞춰 모스크바 공항에 드론 공격을 감행해 공항 4곳이 마비되고 푸틴의 귀국길에 차질이 빚어졌다. 푸틴은 이란을 방문해 중동 상황 해결을 위해 모든 노력을 기울이겠다고 밝혔으며, 귀국 직전까지 사우디 공항이 이틀 연속 피격되는 등 중동 긴장도 고조되고 있다. 트럼프와의 경유 공급 합의를 둘러싼 논란도 동시에 부각되며 푸틴이 국제 뉴스의 중심에 섰다. 오늘 처음 등장한 키워드다.",
+          "headline": "우크라, 푸틴 귀국 맞춰 모스크바 공항 드론 공격"
         },
         {
           "rank": 5,
-          "word": "필라이",
-          "count": 1,
+          "word": "선물",
+          "count": 2,
           "articles": [
             {
-              "title": "만델라 변호했던 나비 필라이, 노벨평화상 수상",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxTjBZU29BRXZCcG9sUzNsUEJLdnhsQ2l5Q0NrdG5kX3p3anp2N2JfbHlVQkQ2RXZHMWV3YV8yOVk5aHdodXNfN19MQ0VtRm42VFHSAVNBVV95cUxNMDZnMzNVTnMxMXhRNGpzU3JRRENiZndHeTdTalFDNy1MeFhRV3I4YlZDT25BMC1ETC1nOExNTmVOd241cUF5RV9TU3dUMC1MYWxUNA?oc=5",
-              "source": "서울경제"
+              "title": "젤렌스키, 트럼프·푸틴 경유 공급 합의 비난‥\"푸틴 생일선물\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIM0t4Y01HV0FfRnFRSjV1clk5bUk2a3ZjZGxQZHZ6WHotS0JPcll4bUJhU056TmttZ0plNlR5N0xRR2tsUV9FWURUMTJQRWkyb2FZcW55QS1rUmoyNG1EOGVjSEFMUzdPT1l6TWg0bGlIVUlR0gF0QVVfeXFMUGRmWDB6SnhxX3c0dXZZdlc3ZjdqbDBBUHJ4ZWNPeWRNYkMwYzd5REpRblhKWUJENVZoeUZRbXFWREZDMVQ3d3g3bGNMX1BUczkzSmpfakNReWxDR1FZSEw3V0NoRWtPRURMMWZDTERVeGEtYmM?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "2026년 노벨평화상에 남아공 나비 필라이…국제법·인권 증진 공로",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFMFZMU1liLUVNSzFNbVY1OXJTYnJERzgtMVZVN2FBS2kyLXdKaXdEQlZLMzBNbXo0a1ozbDU2ZWlyTWZpSzlqM1hOeXcyWE41d3ZGYXdaYzU0YWs?oc=5",
-              "source": "강원일보"
+              "title": "젤렌스키, 트럼프·푸틴 '경유딜' 맹비난…\"푸틴 생일선물\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81NDRDTENpWjdwcUlrWEozc3pSWndHVXczNmFxbjRXMnJoTWliaW9HYWw2dnBaaW9DYlVHam41eFVvTnZsSWVjdDl3UnRGZDliemdtcU1xeEUtZm_SAWBBVV95cUxOZ2V0NkxRRm94ZU5JSFNSOU1UZTdqbEhUWFd4aXhuUTBjbDNSVmxCX3JvbDIyVTQ1Y1hXcE9rT2ljRGZtbkVVT2VQSHFCOVM1SUNEVXhzWFRvaXVCcGItbi0?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "’노벨평화상’ 나비 필라이 “국제범죄 생존자들에게 이 상을 바친다“",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tdlJMUWNPbUNYYnNPOFFfNmJwNHFBVkxEeTFuNnFxa3UxTUR4bE92MDhmVGZyYVIzU0U5d0xVMmZldG9mbF9jbDNHLXZ5dW9BUS1aY01BbjB3VE1QVkhPQkhSU0htMVE?oc=5",
-              "source": "연합뉴스TV"
+              "title": "젤렌스키, ‘경유 합의’ 맹비난…“푸틴 생일 선물”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hVm9QQ2xOUWo0N2gyamJ4bWwzN3czTkM4N3dXWDhvU2NDdVFUejRvaERHTHp0Xy1ndHZsbVlfQXZGdDVXMVAxSEpONGJuYl9zWlg4NzYxbzhfb1k?oc=5",
+              "source": "KBS 뉴스"
             }
           ],
-          "description": "남아프리카공화국 출신 인권법학자 나비 필라이가 2026년 노벨평화상 수상자로 선정됐다. 넬슨 만델라를 변호한 인권 변호사 출신으로, 국제형사재판소 소장을 역임하는 등 국제법과 인권 증진에 평생을 헌신한 인물로 평가받는다. 필라이는 수상 소감에서 '이 상을 국제범죄 생존자들에게 바친다'고 밝혔다. 오늘 처음 등장한 키워드다.",
-          "headline": "나비 필라이, 노벨평화상 수상"
+          "description": "젤렌스키 우크라이나 대통령이 트럼프와 푸틴이 합의한 러시아 경유 공급 딜을 '푸틴 생일 선물'이라고 강하게 비난하면서 '선물'이라는 키워드가 화제에 올랐다. 젤렌스키는 해당 합의를 '전쟁에 대한 투자'라고 규정하며 국제사회에 우려를 호소했다. 세 건의 기사가 동일한 맥락을 집중 보도하며 이 표현이 이슈의 핵심 단어로 부상했다. 오늘 처음 등장한 키워드다.",
+          "headline": "젤렌스키 '경유 합의는 푸틴 생일 선물' 맹비난"
         }
       ]
     },
     "경제": {
-      "summary": "AI 해킹·개인정보 유출 보안 위협 고조 · 최태원, 호남 반도체 조기 착공 의지 피력",
+      "summary": "LG전자·SK, 반도체 투자 확대 · 호르무즈 해협 선박 피격으로 통항 급감 · 금융권 해킹 공격에 중국 디도스 조직 연루 정황",
       "keywords": [
         {
           "rank": 1,
-          "word": "트럼프",
+          "word": "반도체",
           "count": 5,
           "articles": [
             {
-              "title": "트럼프 “중간선거 전 이란 공격 없다”했지만···뒤에선 ‘3일 집중 공격’ 계획 준비",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRU01dkd0Y0FNaVZnb2lHYVREMm9ZUDNUdGJTU0ZCcmRqX0E2V19ZRFpHbWhfU1dTcjFjRlJTdS1OVE9vWmg3TlhTQjB5UV9OT2lVRklmdW9Od9IBX0FVX3lxTE9WOEJGeERrX3o0NnNBaE9YOTMwQ1FXSUFFT1dlY1R1MGpTMGRNbU1YQTNOdWEyOU4xYWpRTTlkR0h6WE9aeXI4cEdPVTNqNmE2ZTNwTV9QbmJaeTdvTjln?oc=5",
+              "title": "LG전자 “우리도 반도체 개발합니다”…보쉬와 손잡고 ‘차량 칩렛’ 도전",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nRUpWZHlXb3VNblBkSU5FdFFGdXV3X0EwRFVDelVscnFkRGpsOEhtLVd0RzMxdndNblVpanZCZExRTldYU3JoT0NSeXE1Q3pFZW5MajNB?oc=5",
+              "source": "매일경제"
+            },
+            {
+              "title": "호남 반도체 부지 간 최태원 “최대한 빨리 짓겠다, 규모 더 커질 수도”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CcTFMX0ZocFAwVFBSaGJOWEhPLTZISkF2aWdVN21BN2RzNGdCekxPbC14cWExVHBWOWFkM012VFlXSkNpdEE1eUxBcHAxQUduU2t6TzRKRi1hd9IBX0FVX3lxTE1xdjJrTFZ2T0lsQV9SeUpoUkZMTGVrMTd4THM1UFFub0F1LXJxalowMnV4U21KbzVWNzI2Z1FSNFpmS1FtV0hucFVfNHpYVzk5TnpaRFA4Z0Rud0M3M3FF?oc=5",
               "source": "경향신문"
             },
             {
-              "title": "\"SI는 국가안보\"…AI차르 된 '트럼프의 남자' 클레이턴[글로벌키맨] - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xeGJaaWd0UWxQMDVwV0Y2VFRGRWpUSmRzTkUzUnJkdFA1WkhzNi1rT0JlV1BTWGoxWmhBMWFpa0wtT1hwemp2N1RUejBIcDBCRk9mbm9TeXdxNVBYeXVsd0dpM3dVZm9N0gFuQVVfeXFMTlRtNVE5aFpPVWd6MFlLZ0c2bmNHQmt4bE1oeVNKajdjQnZMQlVVV3hKNmRmMW5Oa1JlRmZfSjVUT1lTNTVtTjMxbmNSdWoxeUEzZERJLVBrcGdLRFFlbktlOUY0UExxZUtBY0ZNeEE?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "트럼프 \"슈퍼지능 아니라 인공지능 용어 쓰면 적으로 간주\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xOFlRV3hoVWpQNDFvUlBWbEc5S1hEa3ZuM3hCWE0zQ1RNV0dmRmJSUWh1dlBNOFVOMmhNLTFDYmdESVc0OXR0dkxieGgxa1h5WnFrRFczSXl0WDTSAWBBVV95cUxPazNYck1NMm5PLWFfbC1mWkJZaVlwN3N6Q0NacmVmU2pYRVY4TW1qRmt6T1RKVjhjUUpYdE1VNEVDZlFHR0hWQ3pKbkhqdnJNTFBJZlZKbEZLVDJaNGxDbEM?oc=5",
-              "source": "연합뉴스"
+              "title": "조국 \"1년 안에 '큰 승부' 봐야…민생·복지, 반도체 수준으로 투자하자\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPN3d2dE53dFlLcUVQNmNhS1FSS1ZhamVTVUdJYnFJeWZWMDIwTmhIU3NucDVsQTJ5a1RxU2FrRk1UcVlpM2RGMmV0dVl5d1djeTRvaVFYbE5uQ1YyY1JUNNIBeEFVX3lxTFBwY3Zid0pJOW1DZC1iSFp6UjdQOUxDTDZxRUhPc0VzRDRBUHBoZENVNUxnUENwS3JkY19RR0dKNi1KdHljN3laMHZCaFBVWmg5TF9qVzkwUEhnbVJqRXFEUjBhM2hoSHVDeWlER3RKY0dVVEFnSUtzUA?oc=5",
+              "source": "뉴시스"
             }
           ],
-          "description": "트럼프 대통령이 공개적으로는 중간선거 전 이란 공격이 없다고 밝혔지만, 뒤에서는 '3일 집중 공격' 계획을 준비하고 있었던 것으로 알려져 파장이 일고 있다. AI 분야에서도 트럼프의 행보가 주목받고 있는데, 그가 'AI 차르'로 내세운 클레이턴이 AI를 국가안보 사안으로 규정하며 존재감을 드러내고 있다. 아울러 트럼프는 '슈퍼지능' 대신 '인공지능' 표현을 쓰는 자를 적으로 간주하겠다고 발언해 논란을 더했다. 어제 4위에서 오늘 1위로 급부상했다.",
-          "headline": "트럼프, 이란 '3일 집중 공격' 계획 준비"
+          "description": "LG전자가 보쉬와 손잡고 차량용 칩렛 개발에 도전한다고 밝혔고, SK 최태원 회장은 호남 반도체 부지를 찾아 \"최대한 빨리 짓겠다, 규모 더 커질 수도 있다\"고 말했다. 민간 기업들의 반도체 투자 행보가 이어지는 가운데, 정치권에서도 조국 대표가 민생·복지에 반도체 수준의 투자가 필요하다며 1년 안에 큰 승부를 봐야 한다고 주장해 반도체가 산업·정치 양쪽의 핵심 화두로 떠올랐다.",
+          "headline": "LG전자·SK, 반도체 확장 나섰다"
         },
         {
           "rank": 2,
           "word": "해킹",
-          "count": 4,
+          "count": 5,
           "articles": [
             {
-              "title": "\"털어도 남는 게 없다면\"…AI 해킹 막는 최강 보안 전략은[해킹 에이전트③]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MSUJDZ1NNamRTZC1Lb0U4QVlrandOOHBzVDdROHRUZnlDeFI2MjZUTnhXY2hiSFN6NzdFMlNSNk5iLVhWS2l6bGxldWZEd0hza0JZVG9sbDdDeUtTaUVBUA?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "금융권 해외발 해킹 90%는 공격자 못 밝혀... IP 추적 한계 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzk3b2ViUzhGUDB2bDJCMUk0SDVMZC1MRGlWTkNoSzl0dDA3ZlJTUHBBbUw0VHBmTzI0bHVyMVNORVVqS2kyQlNRaloxdHpuY1FrYTdWT19wM0Fod2lzM2N0UC14NkVxdVpnUnRFSE4yVkxJV1hLVVJfZFk1VjBXZW1JSWZidFdR0gGcAUFVX3lxTFB1OGY0dUxWM0c3ZDRReGxZc1dMZi1BVzA5WnZCbGdUektYdWZfUHZMMzZuSUd2eHN0eWt0aXM1S1h1SGhuaTRfMThoaFRhY0lfdGsySkJjdE1mcFB1ckNUWE5TNi1wUXl6N2ZRSEZMM1FBTHNobTZEcFVxWVZWODF2NFFDUExaTzE2cVB4UGFnV2k2X2Fma1JCZnQ2WQ?oc=5",
-              "source": "Chosunbiz"
+              "title": "한국 금융권 해킹 공격에 쓰인 ‘아르텍스’, 공개 중단",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44azFCaVh0Zmsta3lTVGx6d2Ywd0FYNVR6SzcwM0UtemlBblZ5RzZwUmVJcEVaVWFVMkZQMUJScWxHZmUwNk5IWG5RNWR6WVhUNF9FRQ?oc=5",
+              "source": "JTBC"
             },
             {
               "title": "쿠팡 또 먹통‥\"해킹은 아니라지만\"",
               "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjOW9PY2laak1aYzAtQTFCMjNFRWl4VVhqMkpMZ1pWWWN4S1hYRWRFNFRueE1vMFBmZGw4bTVaaWkwNDVJUERvSzE2NmFhQkl6OFVodmhTZ0JSS0NlSUdHUXo3cURHN1dxdjM3Y2w4dXNqS2cybWh5VdIBeEFVX3lxTE9ORW9BMUpLWDNTQlIwZW5BMkZ6TjB0alFKMjBqRVdxaHJzYUtjTXlJTEVPR3dVR3B5NVN5NDJZbGQ4TGZ6UXFxZ3ZmeVU2bHlTb0dBX2RMWTVhNVdPMUtNa1NEQlEtenNBNmZobnNEZUs1TXlMSVhHMQ?oc=5",
               "source": "MBC 뉴스"
+            },
+            {
+              "title": "해킹당해 내 돈 털리면?…보험, 얼마까지 보상?",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12U0lKaVVXdWRhM0pldkxJTjlWNzVBMjhWaVZNZXlHZXlxMmJGbWZadklCNDRmOTAyMjhXWmFTZjdBQklSVFNtVnk3VWxITWF2TW9GSGs2UUdHb1pzM1cyci1fYW8tRzB4UEc4?oc=5",
+              "source": "비즈워치"
             }
           ],
-          "description": "금융권을 겨냥한 해외발 해킹 사고 중 90%는 IP 추적의 한계로 공격자를 특정하지 못하고 있다는 사실이 드러났다. 쿠팡도 서비스 장애를 겪으며 해킹 의혹이 제기됐으나 회사 측은 해킹이 아니라고 해명했다. 한편 AI를 활용한 해킹 위협이 커지면서 이를 방어하기 위한 보안 전략에도 관심이 집중되고 있다.",
-          "headline": "금융권 해외발 해킹, 90% 공격자 못 밝혀"
+          "description": "AI를 활용해 국내 금융기관을 공격한 해커가 중국 디도스 조직과 연루된 정황이 드러났다. 이번 금융권 해킹에 사용된 악성 툴 '아르텍스'는 사건이 알려진 후 공개가 중단됐다. 쿠팡도 서비스 먹통 사태를 겪으며 해킹 여부에 관심이 쏠렸고, 피해를 입었을 때 보험으로 얼마까지 보상받을 수 있는지에 대한 궁금증도 커지고 있다.",
+          "headline": "한국 금융권 해킹, 중국 조직 연루 정황"
         },
         {
           "rank": 3,
-          "word": "유출",
-          "count": 3,
+          "word": "선박",
+          "count": 4,
           "articles": [
             {
-              "title": "하루가 멀다 하고 '뻥뻥'‥日도 개인정보 대규모 유출 '도미노'",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FSFVEYVQzTEdwQi1TQTQyXy1Qb3RoSmFWSXZ1dkozNmgzem16bHNxY0NlY3M0cGVMbm90aGFPUllkN0dlcmF6OUJmQjFDaEhYaGoyajcxSnNYTjgxNGlQWEtSNGRnNDFfN0ZiVmcxT2FqTmVhRzdiVtIBeEFVX3lxTE5oYk03QUpuMHhndXl4aTdodENvQUxiRDlUZ0ZCX05vdVhsTE9VMER6RlpfRXlQaGNKZGROYjduU1VIa19MT01LQnFYTk9NbUQ2dm5vbUtVaW5Ual9oeEljWFJSdlg0Wkx4amN1M2tTV1pnMEtiaHl4dA?oc=5",
-              "source": "MBC 뉴스"
+              "title": "호르무즈 해협서 선박 피격…혁명수비대 \"항로 위반시 처벌\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MbEdHNmtwWGFmdVZxQ1pMWkxmZ0pva2FjZUdjQzNGRWpyTWZnTDlCcERLTnZKZVF3SW0tVTlkc2wtWEd5aUVydkNkamRzUllOQTNnLXZESHdMcU3SAWBBVV95cUxNUkEyaW1OcFRNNE83dEpmb2NVbnduXzQ2aVVEdFYwc2w1bXVvVFdUZ0pRX2oxUU1nM2o4SFV5UGdreVB3Sk1jd3IzWi1NYXNYcFQ4ZXFwT2oyN3FGR3JLVG0?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "‘김승원 신약 청탁’ 수사했던 前 검사들 “기록 유출 없다”",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcm05ZkhSbm8tX2thdmRDajBTdmgzU3EyR1F4N2tGQVJ6OGRDY1kwbFpSV0VFdHo4RDEtMTJZd0JHQ2lrX3BwNkJXaGtvNUo1Y2s4U2plY0RGaGM4Y2FHM0c0cDBmaW94ZHl2dzhtek9YQ0dlZU5QOEJ6LXFWdm1zaUYwNTZtTms?oc=5",
-              "source": "조선일보"
+              "title": "호르무즈 통항, 이란전쟁 전보다 75% 감소…선박 공격 지속",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxTXViVWFycE93NjJFXzhOX2ZtMFYtNDJNaVEzZndJZGFQUXk4c015YVZscDk1cTl0V0Y5d2JUcWgyRW80bjBNT1BVN2huVGhEVzF3UThaX3BINTR0ODVCbNIBeEFVX3lxTE95TkszcnB4WlJjTmtGTkhEbWhWNjItM0dWckFnRlROUjQyVDBTbVdCRWxNZ1VaTXIxcktaQTd0LVE4MDlVZUVfLWEtczY4eFRwQmh2LWFlLXQyTWkxNjlDMlEzeC1rbEZCUEQ5a1BsVjdFYjRUYWl5Uw?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "금융권 개인정보 유출사고, 보이스피싱·스미싱 피해 주의 - 전체 | 카드/한컷 | 멀티미디어",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5POFA1OC1SdkpBV3pId0RtWVIzdnB5SU9vWktaQ3Z5ZkJCSHQyNEVGcXotbEtzYjlJNDJ1cFNUMkR3dWVOQUEtMXktRzFZMnZraFJVRnl4XzBjU3FXOUZmNTY4M0JjT0habzNZbXVB?oc=5",
-              "source": "정책브리핑"
+              "title": "최근 5년간 제주해상서 주요 선박사고 563건…53명 사망·실종",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjTGdVTVMxR3VCREJGcTZpNzc2bEg3MmpKbEJDQmdfcy0yU09JVmZOa1E1X0dkZFh3UldjOUVkMmd6UllFMWV1d2dYV0UwSTdGZ2c?oc=5",
+              "source": "매일경제 마켓"
             }
           ],
-          "description": "일본에서도 개인정보 대규모 유출 사고가 연이어 발생하며 도미노 현상이 나타나고 있다. 국내 금융권에서도 개인정보 유출 사고가 이어지며 당국이 보이스피싱·스미싱 피해를 경고하고 나섰다. 국내에서는 '김승원 신약 청탁' 수사 관련 기록 유출 여부를 놓고 전직 검사들이 유출이 없었다고 공개 반박하는 등 유출 이슈가 다방면에서 동시에 불거지고 있다.",
-          "headline": "개인정보 유출 잇따라, 보이스피싱 주의보"
+          "description": "호르무즈 해협에서 선박 피격 사건이 발생한 가운데, 이란 혁명수비대는 항로 위반 시 처벌하겠다고 경고했다. 해협을 통과하는 선박 수는 이란 전쟁 이전보다 75%나 감소한 것으로 나타났으며, 공격이 계속되면서 해상 물류에 대한 우려가 커지고 있다. 국내에서도 최근 5년간 제주 해상에서 563건의 주요 선박 사고가 발생해 53명이 사망하거나 실종된 것으로 집계됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "호르무즈서 선박 피격, 통항 75% 급감"
         },
         {
           "rank": 4,
-          "word": "공급",
-          "count": 3,
+          "word": "수출",
+          "count": 4,
           "articles": [
             {
-              "title": "트럼프 “푸틴과 러시아 경유 공급 합의”",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Yl9hTzRXc2JsZVB5RUdmeUItNXdwRkZPWmNpLXlBWnV3UE1xb0dEa2M0STV2MUxib0prQkVvT3V0ZXBuVnM5LUJFS3ZjdUpaa3M5VU9fOWR0NlE?oc=5",
-              "source": "KBS 뉴스"
+              "title": "“러 석유 직접 수출 없다”는 韓…우크라 “자체 자료 있다”, 엇갈린 주장 따져보니 [핫이슈]",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bc0FBNTY4YVAzTHhjU3J5cmtGbjdZSEVjd0psU1ZZZzlCYVVQU1NMOXE2b3FpamsxeWkwN2lzazVOWU5FQWhKbThWRE5rWUF5cTVhZkdYajh3MmFKV0JoZXdpV2tPMExVVUhsVFRJQmI?oc=5",
+              "source": "나우뉴스"
             },
             {
-              "title": "홍지선 “공급 숫자보다 실제 입주”…공공택지 조성기간 68→37개월 추진",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DMWFVS0ZRem9zMUFrLUdrcGNfR1BGUzFXZmU2dWYwY1lZVUtSVVk3Z2xZRHVkckxYSWpHZGJFTVhpdHUwaW9YYVAzeHZfQVF6dGtndFZZTHIyQkU?oc=5",
-              "source": "에너지경제신문"
+              "title": "정부, ‘대러 석유제품 수출’ 우크라 주장 반박…“전면 불허 중”",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrbFhFZ0ZCc01ZcUI0alVYdUZvcHk0YWtDblMzYXI3OGhWLURtalpLWVRqUXFrVXh1Xy1uRXk0ejF6NlhFV2RqQWNvUEJwWUFERWNWQkRTSzA3anNWYWlUQVRlUW1jNkk3RjZXamR1bV9zOW04?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "트럼프 \"푸틴과 러 경유 480만t 이상 공급 합의\"…美경유 선물 하락",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12NDYzcHBtRzRUaEphTnA2THdTOHZDWUFBT0trN0ZvZFNjaXV2SllVYW03S0hSTHU2TjlsaEZJem9sVndhWnBPanZVcUZnR1hNNXlSVXZwNVVGbFhJNWdXRkZVNE5TU01UNFVJQnhteTVKMjg?oc=5",
-              "source": "마켓인"
+              "title": "'한국이 우리 작전 망쳤다' 우크라이나, 이번엔 경유 수출 공격",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GakNObEp6UTM3R3FGalowdHZRRTJmY3JnYlIxZEFncFdwSjFtQU1kRFhqUS14dUV2enUxZ1RXSTBHYk5SM25vLU5qTU1QMGhJcFBlckR0NzVPYV9lcGxlWkxuN0twbWx4b25EbV9ZNFBMVTBQWklEbNIBeEFVX3lxTFBTa1gzS3VLWDBYTTNjQUF6ZEJTajBfRGtWMlY1M3g4VjlPUXd2LThacFR2NmtNMWk5azd4SkRxZEJVb1RJcUtPcmEtbXdIU2EyaG1fQ2pWaktrTTg0T2lHVDRGR3Z5dVpQeFFPNjZnRHJKYTVGSmVyeQ?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "트럼프 대통령이 푸틴 러시아 대통령과 러시아산 경유 480만 톤 이상의 공급에 합의했다고 밝혔다. 이 소식이 전해지자 미국 경유 선물 가격이 하락하는 등 시장이 즉각 반응했다. 국내에서는 홍지선 국토부 장관이 주택 공급 숫자보다 실제 입주를 중시하겠다며, 공공택지 조성기간을 68개월에서 37개월로 단축하는 방안을 추진하겠다고 밝혔다.",
-          "headline": "트럼프·푸틴, 러 경유 480만t 공급 합의"
+          "description": "우크라이나가 한국이 러시아에 경유를 수출해 자국 작전을 망쳤다고 주장하면서 양국 간 공방이 벌어졌다. 한국 정부는 대러 석유제품 수출을 전면 불허하고 있다고 반박했지만, 우크라이나 측은 자체 자료가 있다며 맞서고 있다. 러시아 제재 이행 문제를 둘러싼 엇갈린 주장이 외교적 민감 사안으로 부상하고 있다.",
+          "headline": "韓, 대러 석유 수출 논란…우크라와 공방"
         },
         {
           "rank": 5,
-          "word": "반도체",
-          "count": 2,
+          "word": "금융",
+          "count": 3,
           "articles": [
             {
-              "title": "호남 반도체 부지 간 최태원... \"전력·용수 늦어도 먼저 착공\"",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ09sYXFvbDdteno2eFNfU3NscWRnVFR2c250bktLV0IzMGQxZEJydnp6aVpKbWhZbHg3RnNfTXlqYnY3S01tVERleTZCdDZhbmdLYzlRd1dpbmZBRjV1WVdPMFJwTUdfTDFyR1pleWVXNkdVa0UyOGF2Q2xiN096RTh2V1ZxV3lyX2M3R25Yd2w?oc=5",
-              "source": "조선일보"
+              "title": "AI로 韓 금융기관 뚫은 해커, 中 디도스 조직 연루 정황",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFeGVLck1Ybk11d3JEMEV6NXRNZXlIdUJNdThkblptOFViNWlvSDR2NDZLUUNwZFdVSTVudXlUMndJbXZKazVqT0NfMHhOdE9T?oc=5",
+              "source": "문화일보"
             },
             {
-              "title": "\"반도체 직접 만들겠다\"는 머스크…삼성맨 고개 저은 이유 [강경주의 테크X]",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nU0hneWF3OW5wSHZIcXlCRGN5T210c1hRTTVDU05RanctMGNlbWk3d3RHeUZpeXM1TGN5WUxILXJ0RVkzNmZCR2Fqb3hrWVptbTNQc013eU56UQ?oc=5",
-              "source": "한국경제"
+              "title": "“나도 대출이자 깎아볼까” 1.3억 빌렸는데 ‘금리인하’ 요구로 연 900만원 아꼈다 [머니뭐니]",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83aW1EZmRUWE1MTk15QWhNbnlrZWEwc0tCdDF1ZXBlbDFqZGZKaDRvYXN2ZVRYRnNzUktZUnlVNklaN2I1ZnhXc2JnYTBBVzR4SFRYM0pyUQ?oc=5",
+              "source": "헤럴드경제"
             },
             {
-              "title": "\"100만명 폐업 현실\"…반도체 호황인데 자영업자는 왜 무너질까",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkRDg1N3hCZGNqMXBCcEpDYVV5VWw2MzdnXzVBRm13dkgybnNUNkU4VmdoYWZ6dTR2U1Q1Ykd1WEdGaERiNUVGQmhYSTVkRnFGUEFIVVZPVDZPcnNOZFNmb9IBeEFVX3lxTE1meGJPLTFEMUxPQUpwUkFpZC0xem91UUpRTFQwbXpQLVFDUjlmYTZoWFVBZXdfbHJCdjVnVWhra2dOZlMyaldvUkRFa0Z5X3lzdmhYMko5ejRDdGVGS2lhQVh3allkZG4tNDRodVRfNklkcUd2blNEMQ?oc=5",
-              "source": "뉴시스"
+              "title": "하나금융 청라시대 개막...\"새로운 100년 열 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93dEhFZjN2d0F0ZWhEZHdKa3hZTVFTUjRQdk0wbTkzdm5ob0NDS1c3dDlQazJtMm5zSGl0VExTOUxCNzhKUmxPYzVLdFhheGNuNDNzcHhwekFxcGpHMmc?oc=5",
+              "source": "YTN"
             }
           ],
-          "description": "SK그룹 최태원 회장이 호남 반도체 부지를 직접 방문해 전력·용수 인프라가 늦어지더라도 먼저 착공하겠다는 뜻을 밝혔다. 한편 일론 머스크가 반도체를 직접 생산하겠다는 구상을 내비쳤으나, 삼성 출신 전문가들은 현실성에 의문을 표했다. 반도체 업황은 호황을 이어가고 있지만 자영업자 100만 명이 폐업하는 현실과의 온도 차가 극명하다는 지적도 나오고 있다.",
-          "headline": "최태원, 호남 반도체 부지 찾아 착공 의지 표명"
+          "description": "1억 3천만 원을 대출받은 차주가 금리인하 요구권을 활용해 연간 900만 원의 이자를 아꼈다는 사례가 소개되며 관심을 끌었다. 금리 부담이 큰 시기에 금리인하 요구권 활용법이 주목받는 한편, AI를 이용한 금융기관 해킹 사건도 금융 보안 문제를 수면 위로 올렸다. 하나금융은 청라 시대 개막을 선언하며 새로운 100년을 열겠다는 포부를 밝혔다.",
+          "headline": "금리인하 요구권으로 연 900만 원 절감"
         }
       ]
     },
     "연예": {
-      "summary": "'암살자(들)' 논란 속 박해일 부산 관객 만남·김인석 이혼 2년 만에 고백·제니 위켄드 공연 깜짝 등장·'나혼산' 조작 의혹 논란",
+      "summary": "나혼산 연출 논란 김민이 사과했고, 이주승이 새집을 공개해 기안84가 이주승·천우희 관계를 의심했다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "암살자",
-          "count": 2,
-          "articles": [
-            {
-              "title": "박해일 ‘암살자(들)’ 논란 불구 부산 찾아…관객 만났다",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HRXBFSExtUzdEMXZFd1dVTHFtWmhWNlZCLTRkMnB5Vzk1bnJNejVWLXdrUl9ydTA1X2o5eHY4TFJhTHJ0clEwQzRtSkh5QkRuMkNVa1Bn?oc=5",
-              "source": "헤럴드경제"
-            },
-            {
-              "title": "‘남우주연상’ 유해진, 부일영화상 불참…‘암살자(들)’ 무대인사 취소",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QcGxFZm5QNzlka2xQNm8wc0RlOVd5UmtCZ0VyQ2hHMTM5VmhqYllwb1htUE1GRHZ5SGxLZWstXzFFSFlwWldFZzlFNnNnbkdycUt3Q0xrTHhBY0lxSC02Ykx5OHRDa0Z5TFVFejZ4cURGQQ?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "영화는 정쟁의 도구가 아니다, 개봉 이후 벌어진 일들에 대하여",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZWmpVZERZMnlqd1dtYmtZdUVQclYwR0ZTMnRjSEFnQ2ZwQkRiUzA2UXp6b0x6dnNnM1p0enFBYkgweC1yQ3BUVEdYelk2OW1hcmYzeTBB?oc=5",
-              "source": "씨네21"
-            }
-          ],
-          "description": "영화 '암살자(들)'가 개봉 후 정치적 논란에 휘말리며 연예계 화제로 떠올랐다. 주연 박해일은 논란에도 부산을 찾아 관객과 직접 만났지만, 부일영화상에서 남우주연상을 받은 유해진은 무대인사를 취소했다. 영화를 둘러싼 논쟁이 이어지는 가운데, 작품 자체보다 정치적 맥락이 주목받는 상황에 대한 비판적 시각도 제기됐다.",
-          "headline": "영화 '암살자(들)', 정쟁 논란 속 개봉"
-        },
-        {
-          "rank": 2,
           "word": "김민",
           "count": 2,
           "articles": [
             {
-              "title": "'나혼산' 김민, 조작 의혹 부인 \"집 빌려준 형·누나에게 미안\"",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2tteDFvYmhWc2ZESDJ0Z2ZXMWtneU9QS3gtNllNa3lxZ3RZQmpyalM3SXRsZzRtbTFEa21sZjlwYTFKaXdoREZBZlllNDVpSV9aUHBxZGpySWJDbFJGWWtSc241QkZqSGg4akdza3JibmlwOHFiZjFiZENTSm1tMExaUWFiaF9KWTYtQk8yWQ?oc=5",
-              "source": "조선일보"
+              "title": "'나혼산' 연출 논란 김민 \"집 빌려준 형·누나에게 미안, 더 긴말 필요 없어\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hamVOcEVRQnFwTFhKZHhzemN1amlCdE81MXF2SnZQZTVwNkp2bmdnaVRKak1Id1F0QzZobkFhd015dERQUWQxME9saVpqSWlCaDJsNThGUmlEbkZINjJMWm5tdWZUSGw3UHc?oc=5",
+              "source": "뉴스1"
             },
             {
               "title": "‘자연인’ 김민 맞아? 긴머리 자르고 턱시도 입었다…잘생김 폭발[Oh!쎈 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UVzNNX1Q0WWY5RHctNGZDSUtKUHA1UFB5V3hlczR4dHV3QWk4V0JiZEFRRTNEWmE2R3pRODFINWlzRnE2Tno1dFN3MzZyQTVWbnh6MFFqMUczY0lQV1MzUXdn?oc=5",
-              "source": "미주중앙일보"
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUzI3MTc2SHdtVmpscjhvNlF2ajhQYTNBN1BLMjJvZVpKbzFLSE1rVVlobXJfRk1KUU1BTTFFdDZTVWZTNkRRdVJ4U01BODVjSkwzWlZlNkRBTncyekdqekItbzQ3NEJ5VDUtRnBqbklkMWdpcE1rWS02NjZkQWFzbGFfTC1SYTdhN3czS1B5QQ?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "전봇대 있는데 발전기를?...김민, '나혼산' 조작설에 입 열었다 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRVJMRXBiRzZXUl85TTk4TTVXWXktSFE0VGZEVFpsWk1vSGFIdldqS203WWIyaDVBVmlKbjMwcjdPVWgwQjh0Y00wVWNtM1ptTUxnZ0lCeVJUaGx2U3V2QlJzLUx6T2o4c0R0ZVkxUVpDcnfSAXhBVV95cUxQM2FJVmRWNkJWbkpyUndyVFp0SnFFRzRrTXRySFNpdk9rVEY4cDlWd1NCVlktUkYtNEVvTmZKVDlPYXVNd05wTVB3XzJxYXdyOTFsa3hEYXBsakJOaktsQjVlNDl6R2IzcUJXWFJOcTBsYWxhUkI4UzU?oc=5",
-              "source": "머니투데이"
+              "title": "'나혼산' 김민, 조작 의혹 부인 \"집 빌려준 형·누나에게 미안\"",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2tteDFvYmhWc2ZESDJ0Z2ZXMWtneU9QS3gtNllNa3lxZ3RZQmpyalM3SXRsZzRtbTFEa21sZjlwYTFKaXdoREZBZlllNDVpSV9aUHBxZGpySWJDbFJGWWtSc241QkZqSGg4akdza3JibmlwOHFiZjFiZENTSm1tMExaUWFiaF9KWTYtQk8yWQ?oc=5",
+              "source": "조선일보"
             }
-          ],
-          "description": "'나혼자산다' 출연자 김민이 방송 조작 의혹을 직접 부인하고 나섰다. 전봇대가 있음에도 발전기를 사용한 장면이 논란이 되자, 집을 빌려준 형·누나에게 미안하다며 입장을 밝혔다. MBC는 논란이 이어지는 와중에도 김민의 화제성 1위를 자축해 시선을 끌었다. 오늘 처음 등장한 키워드다.",
-          "headline": "김민, '나혼산' 조작 의혹에 직접 해명"
+          ]
         },
         {
-          "rank": 3,
-          "word": "김인석",
-          "count": 1,
-          "articles": [
-            {
-              "title": "\"가족·지인도 몰랐다\"…김인석, 이혼 2년 만에 고백 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPdFNqNnI0VDRyRFdaWHllMGo5Vk5SY3pzOXNsN0hfN0NRcW1pWU90RFUyQ2hfdEhrMnVKbnFyaHFYMWpKMUE4OFVseTdGS3dxYlk3Sm1jemVZVUFWcTljWUVidDJVRi12a3FtNUN5eGxIaU3SAXhBVV95cUxNakI4dzcycHhMNGI5V2YzcTJ3ZXgtMm1aMC1mdTNqTXdHd1NUMnhMV1VScm9YQkE4YlVTQ08wSXhlV3lqTlloT2FIT0s5V1V1SFNQWUZUcEpKV1d2dDZKNEFaMjVJMTB1d3Y2Q1BNbk1uU0VkZ3BNNlg?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "“가족에도 말 못했다”…개그맨 김인석, 안젤라 박과 2년 전 이혼",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rLVlKcENfZXZDQWRqVWpuYWVzZHA4d2FWNk9DUDdiNS1FNDZtTG1hZkJCek56YTRrWWNwOGpfdHNiTnRCUEZBZFdMaHh5RlZkeWw0SGZR?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "개그맨 김인석 \"2년 전 이혼…좋은 부모로 함께하겠다\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4MXd5TlBMZTVhRUZ1MzVLY0VUNUp3YWRmTm0zbXhvNTQyeDhlWExzek9XY19NR1lrVGRhWC1mWTFVUWxQeTAweHd6dmxnUURiMW9uRy1YMjlmR1nSAWBBVV95cUxNTGF2dWE3NGpGRkxXQkRWT3QtY21MbFU1ZnQtRHNwYzJuUGl4Q01NcVRDV1FTVl9jLTFaNUhRa2xTWEN3ZTRSQXdlRzdJbmZDeDQ5UkItclpnT0hBV2JnNzQ?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "개그맨 김인석이 안젤라 박과 2년 전 이혼한 사실을 뒤늦게 공개적으로 밝혔다. 가족과 지인에게도 알리지 않을 만큼 조용히 정리했다고 전하며, 앞으로 좋은 부모로 함께하겠다는 뜻을 전했다. 오늘 처음 등장한 키워드다.",
-          "headline": "개그맨 김인석, 2년 전 이혼 뒤늦게 고백"
-        },
-        {
-          "rank": 4,
-          "word": "위켄드",
-          "count": 1,
-          "articles": [
-            {
-              "title": "블랙핑크 제니, 위켄드 공연에 깜짝 등장…노래 끝나자 '뜨거운 포옹' - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMSzk3ZnotdnZHQklfQU9fOEs3VmRDRmp6Mm53eklwdUhfNXhWTzJ1NFVIQVJTRE9ZUFg4Zm5Pa3BGeS1SenhjLUJmbVYxd2d4MDJvOGpVclhZTHpXUE94OWpCa1pnRkdIQXJGdU1IS2plWlHSAXhBVV95cUxObXp6OFQ2dG1LaW1IazFwZEs4Nm9ZVXhWZF8xdUliYzgzekE0LVBqcm5vaC16UlN3NTFfd1RfUzZIeWFlTk1vTmVFNlF5dldVUEJvanJUemU5OFFiLTk3WkpkUDVLT2I1N2FiWHVwMDRRbHZieVBaWjc?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "박신혜, 출산 후 2주 만에 위켄드 콘서트 \"라이브로 듣다니\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uOUFNdk1ZcU40dmdnVnZ1b2RVYmFyT3dsVzhUUkY0ZlRtNWhjbGdMWXJjRmFiQ2ZFWGdZd0dEWVBNT0hoei0zd1VhN2I1QXozRURqemdYTkxSR3FCT1Iyc9IBeEFVX3lxTE9abFhIYlhURUQ3LXExS2FYTTdWV1o4QVRhLUxLaV9SbjNGWXhRYmN3b0ZZMnlxbWpmalBtWU81THU5RXg5QW1rdW9nZkhrODBZQ0ZZUkpKNVgyQkRzWGxwUVFiTjBrV0ZzcWhpX1hWQjZfOVN4YmM4SA?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "8년 만 내한 ‘위켄드’…빈틈없는 보컬로 5만명 팬 달궜다",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbHFTTElrZmhPTUVDbnM5ZU5mcVBQUW8xR0ZmMS1vTk9XTWNWSjQ2R3JKUUwzQl9DNXN2RXhRM0pjdHhfdXh4SlFCaF9vTDJ6R3k0M0t3?oc=5",
-              "source": "중앙일보"
-            }
-          ],
-          "description": "캐나다 팝스타 위켄드가 8년 만에 내한해 5만 명의 관객을 열광시켰다. 빈틈없는 라이브 보컬로 호평을 받은 가운데, 블랙핑크 제니가 무대에 깜짝 등장해 공연 후 뜨거운 포옹을 나눠 화제를 모았다. 박신혜도 출산 2주 만에 공연장을 찾아 눈길을 끌었다.",
-          "headline": "위켄드 내한 공연, 제니 깜짝 등장까지"
-        },
-        {
-          "rank": 5,
-          "word": "나혼산",
+          "rank": 2,
+          "word": "유재석",
           "count": 2,
           "articles": [
             {
-              "title": "'조작 의혹' 시끄러운데…MBC, '나혼산' 김민 화제성 1위 자축",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KUV9GQlJUd0ZVNWZQclFHTVY5VDM3VV9xMXZKTjktYkFWbTFFQVpha0p4SEI1Qi1DR1BrdGZ4aDZsNm5WYzAwUjhqNzNXbnNSMDVBUnVuNjNoTHZtYjM4V9IBeEFVX3lxTE1BcGV1OHg0VHJNd0NtQlJlNWcyWE4yZUVERl9Mb3p0MDNfMHV1N1RMWlNiMTFfeXdpeF96ZE1FeHVYeXUxWmZKUUp4QUJ5Tkc0ZXNYS25kUjhUM3JGcFo4UEg3ODVVQnZKdDBqbWgtbXM3WlUwSlVhYQ?oc=5",
-              "source": "뉴시스"
+              "title": "유재석, '95 서울가요제' 참가자 노래 실력에…\"나보다 노래 못하면 안돼\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lajVLcGhfdnJ2YXd1ZHhOZ3ZaakNDV0pRQmQ1UjBRSWZ4dEJuektIRzJ1UlI4dFRTWm5NVDBaQ3p5Yll1SFhKU1dYTEFCdkV2b2dOSWdRek05cnZfZFdrcg?oc=5",
+              "source": "뉴스1"
             },
             {
-              "title": "‘나혼산’ 김신영, 이젠 밥 감별사? ‘밥 소믈리에’ 자격증 도전…“16년만 아침 곡기 끊었다”",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oU0EzMEg5TlZEdlFCWUYyRHdHYVl3SXFtemxwNm1zVERHUWlVdEZPSzJKaWR5MnRkX01MdU5SOFlkblJjYUlQRHhtLW1JYnVmRVHSAVNBVV95cUxNaW1pOC1YZHJmZHJzOXp5RDJkek5zaG42ckt6LXZKcU1tSjM2dGRGRHVaUEFzNjZTdzdidlFpaXo3MmRxdExJeUdhRTJJMXVsOUNCdw?oc=5",
-              "source": "서울경제"
+              "title": "'유재석 저격' 고영욱, 차태현에게 \"거만하게 굴고 있어\" 30년 전 일화 소환",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94R2l4V1ByWWt1MVdWcXYtRzdBS2RGdkVWN2xfSk9JcTU4emtESzA0d2FsYU51bXlUZHZScVFnN2tJd2pVMTRhWnlaa1NzeVdxWE5MeS0xM0pYN3g3QmhaQ2U0ckk?oc=5",
+              "source": "뉴스1"
             },
             {
-              "title": "‘나혼산’ 김신영 혼신의 밥상에 류혜영 감탄 “우리 엄마도 이렇게 안 해주는데”",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ya3NvcHFzMlNSZjkzeUdlU1dwSFNrb2duTGhsXzF5V3pLWnR0X1VsRE10c3hkQTdwVTdkNkVKTVAwMG9pdFlmaHg1aGF0dHJ5Ylo1SlJMME9HUXlLSkZZdA?oc=5",
-              "source": "iMBC 연예"
+              "title": "유재석, 이광수 '버블 중독'에도 단호..\"광수한테 5천원 쓸 수 없어\"('핑계고')",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EdEJsMi1wY2JONy1tellUMkVUMWkxQ1NUNWFnakpGVWFXWE04ZkotMHBmcXhTN01aWWhyVmtpMk9VZHo3R1drUTBlYllzejd4UXZfQg?oc=5",
+              "source": "OSEN"
             }
-          ],
-          "description": "'나혼자산다'가 김민 조작 의혹 논란과 함께 다양한 출연자들의 일상으로 동시에 화제를 모으고 있다. MBC가 논란 속에서도 김민의 화제성 1위를 자축해 비판을 받은 한편, 김신영은 '밥 소믈리에' 자격증 도전과 정성 가득한 밥상으로 시청자들의 시선을 사로잡았다.",
-          "headline": "'나혼산', 조작 의혹·김신영 밥 소믈리에 도전 화제"
+          ]
+        },
+        {
+          "rank": 3,
+          "word": "룩백",
+          "count": 2,
+          "articles": [
+            {
+              "title": "석유 재벌된 톰 크루즈, ‘디거’…고레에다 신작, ‘룩백’",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tYWlfVUk5bU5qSk9YY1VjQkpfT0ZSc3NLUk9NMEdkMzhYNzVtc09XLXBXYzBUbmxTUXVDZVNmV0NPazRNQXhsenlaQVFwYVhZMm13RVhjVHQ4QVU?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "BIFF #3호 [인터뷰] 움직이는 그림, 소생하는 우정, 고레에다 히로카즈",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMHdBeXJ6MUFGaksyWjFLWURIbkRNS1lQNTZOZ3N0TDhEVXZXMjdfd3IzeHVMN0ROWWc4VkFUaHpqX01LNWxiM0FVNkJLZTVvR1ZvSFBn?oc=5",
+              "source": "씨네21"
+            },
+            {
+              "title": "정국, `룩백` 홍보 영상에 \"보고 싶은데 볼 수가 없어요\"…왜?",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXUW93Z3p3SS13YUVnRUR4UGRlVU1BcEdmZE1PVG5aMlBpVFNGQ0JGOW00REcyMzc4RUtfQUc3NHMtWmNSS05Ib19kMmc0c2gtRTZQc1BYMVNZV29IVHBZZA?oc=5",
+              "source": "마이데일리"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "word": "이주승",
+          "count": 1,
+          "articles": [
+            {
+              "title": "기안84, 이주승·천우희 단둘이 집들이에 \"이건 사귀는 거지\" 의심 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9haTdPcTV4RTVpZDdkN1VTVHV4eEdfNEI3N2s2dDRpdHZNMVNuMHlYeE56T3pJV2VFZHdIbmY4Y0U3Nk13TnlsTmR5N2V1TzM3cmNMdHowQU9nQUQwUHNkYmVLbGxiRGV1cWZkQmhmRVVxdVXSAXhBVV95cUxOb29teG05UFhpemFVTm5xZndFUG5yLUxvOWJqSVBHVF9LVk5nc2dWOHRMVGJIZUx6RS1BTC1SVEtpRVB3QmdGM043QWRUOW40S1ZRZlRINGdKdnFhZ1E0c1VpRjVzcERWZ28zZng0enk5NklxZnd2OGU?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "김신영 '밥 소믈리에' 합격, 이주승 3룸 새집 공개",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OM0hoSUd3R0xpZHctSXhvM3AwRnpSYnRHbFQxTzBnMExRSUxwSW9seE1BYjZyQWlCWjNCVlBJemhDNFh5QjNrYkhJb2owRVpoNWZQSHl1SUtWZjNQZEdETnZYcWdnZ2Fhc2lyaDl3?oc=5",
+              "source": "국제뉴스"
+            },
+            {
+              "title": "‘이감독’ 이주승, 성수동 새집서 절친 천우희와 집들이",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nY2EteDBXT2NneUc2YnlzQ19DNjJmeHZzTzlja1c0UFJtNWVOdVQtazBtR0JDakR1NXlXM2M4YkEzRFFIVERuS29VajEwNzhUbHdqZA?oc=5",
+              "source": "JTBC"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "장동",
+          "count": 1,
+          "articles": [
+            {
+              "title": "대덕구 장동 만남공원에 만개한 코스모스…가을 정취 물씬",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJSlFRUXIxYWpsVTNJMzlGVWs4SEQ1UlBxVWcwSUFKQXVWYlcxYlFIMXJyblh0d3pla2lhMlcwNDQzUmxUc3d4X2ktemkwb2dEMFZ4TkR5MGhhVnpzRDFtblJSeXVfTlNYUW9pWnEwUmZPem8?oc=5",
+              "source": "충남일보"
+            },
+            {
+              "title": "대전 대덕구 “코스모스가 가장 예쁜 주말, 장동으로 오세요”",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00dHQ0elZxUVFUUnV2S1FncW1Ha0FLM2xnVTh5a2tPdEd4Z3EzM0IwY1hPOVBVUkw5TVVyZzhVWXZ4NHFXTGJ0OU83clJGTU5LYUZFMmY4LXFJMEFqMnlMTXZzYw?oc=5",
+              "source": "mediadj.kr"
+            },
+            {
+              "title": "대전 대덕구 “코스모스가 가장 예쁜 주말, 장동으로 오세요”",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xQUdZMGdja2dXVXh1WDFhdjNRRU5jeDdpcUFyQ0VXaU5ucnRnN0ZqR1dkNWVfbWF2UHlna29wYnQtMXY0cWpUVXpvLVZqc3Z2RThEU2EyZWlDQzBPRXBjazEycWhNWlg50gFsQVVfeXFMTm53TWZhcnBaNURWbHFLcFp1TWhmM1czcHFwd1FVaWhEUTdfMi1ONTg0aWMxSXg0a3ZZZ0Ridnp6dlFydWY5dU9HSUpISXFtQTkxT2dFRC1uQnd3VC1LN2xMQXFnbEV1Wi16RmNB?oc=5",
+              "source": "글로컬타임스"
+            }
+          ]
         }
       ]
     },
     "스포츠": {
-      "summary": "전 축구 국대 김영광 보복운전 논란 사과 · 박성현 코리아 챔피언십 2R 공동 2위 · 우리은행 박신자컵 4강 진출",
+      "summary": "아시안게임 병역특례 폐지 논란 · 이강인 아틀레티코 안착 · 전 축구 국대 김영광 보복운전 사과",
       "keywords": [
         {
           "rank": 1,
           "word": "면제",
-          "count": 3,
+          "count": 2,
           "articles": [
             {
-              "title": "\"군 면제 하나만 보고 뛰었다\"…이경규 \"선수들끼리 할 얘기\"",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IbVhkYUZlRkY0SVVEemlqZmtYZFJyR3BwVTF6anhVWF93cWNrTXFzTTlRZk1QNjJ0ZF9iM3ZTZkc4WFNQaUN4VXk1WUN4b1ZKaHlvdTFGbkNaZw?oc=5",
+              "title": "안철수 “이번 아시안게임부터 군면제 특권 폐기해야”",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wS0Y5ckVIc0M0aHZReC1STFpiWEdZSXFfTE05QnVUWlZrdnFVWmRtWm5lOEYzQm5PdVJTOWlMR3AwNm9zeU5GcnpYVS1YeXVG?oc=5",
+              "source": "문화일보"
+            },
+            {
+              "title": "\"병역특례 없애자\" 시끌…금메달 이미 땄는데 입대 가능할까 [법알못]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQjAwTXBYQUhjM2tBeU1vazlwcHp6eTd4VGwwRDBKVFNFcU9jQ1Fsd3Vaek82aUkyaEhZRG9hOHdpU0Z0QnZlZkNWcDZnbTc2UU5OanBKSTFQdw?oc=5",
               "source": "한국경제"
             },
             {
-              "title": "이경규 “상무 선수는 군대 월급 받고 뛰어“…’군 면제 자랑’ 질책",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wOGhFYzFzZFpKbnB1VTZyaU9Xdk1KaHB1aElvQmk3Szl0WmUybGZ5d3lwQmo2UWo3QThyMEZTbEhFbTVaREdkWDZ1NXhCYVR6U3FJYjNscEctX3VlZWpJei1SUjh2bDg?oc=5",
-              "source": "연합뉴스TV"
-            },
-            {
-              "title": "\"'月 150만원' 군대서 뛰는 선수 있는데\"…이경규, 군 면제 발언 일침 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZUV9fenpROTJvODZpblNMSDFXc2lCWFprUWw4RkxuTjFwWUFKNlBUUTBXNnJHUVgzVFVnQnV0eHFCUjh6ZTlmNlNCOHQ3dGJsS2pWVDRmenhTUHJLSWdENXgzUElfbEhMc19Z0gFwQVVfeXFMTWhIS1Y1Q0ZvejZmNXBHakhTS3NpYVJMZ1psV0pvUmtEWUJEV3ptRF80dGs3WWU5Qjk3NlowOTY4NExCUU1xMUxfZU1aS2RBbjRscDNIQ0s1LTVRdm1FZUZNM0kzVEFDb0p4ZVV6WDNTZg?oc=5",
-              "source": "머니투데이"
+              "title": "아시안게임 군 면제 논란에 진종오 \"여자 선수에게도 보상 주자\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92N0JmV2pzVWkyMmxFd2c0b184Uk5XVFpFME1NQklpbnp5VkRfZlgtZ2NGZTJyZmh1bExuSWZraEtvUHBmdWN0Z0d3a1lrajVRWkRCSkJYZ3A5UzR6bk1fVkpIdlN5bUhYTk5ncUVoNlRhSGVRN0hEQw?oc=5",
+              "source": "부산일보"
             }
           ],
-          "description": "이경규가 '군 면제 하나만 보고 뛰었다'는 선수들의 발언을 정면으로 질책했다. 이경규는 상무 선수들이 월 150만원의 군 월급을 받으며 뛰고 있다는 점을 언급하며, 군 면제를 자랑처럼 여기는 태도를 비판했다. 한편 '선수들끼리 할 얘기'라며 외부의 과도한 개입을 경계하는 시각도 함께 전해졌다. 오늘 처음 등장한 키워드다.",
-          "headline": "이경규, 군 면제 목적 선수 발언에 일침"
+          "description": "아시안게임 금메달리스트에게 주어지는 병역특례(군 면제) 혜택을 폐지해야 한다는 주장이 불거지며 논란이 커지고 있다. 안철수 의원이 '이번 아시안게임부터 군 면제 특권을 폐기해야 한다'고 직접 목소리를 높였고, 이미 금메달을 딴 선수의 소급 적용 가능성 여부까지 법적 논의로 번지는 상황이다. 사격 금메달리스트 진종오는 '여자 선수에게도 동등한 보상을 주자'며 형평성 문제를 제기해 논의를 더욱 복잡하게 만들었다. 오늘 처음 화제에 오른 키워드로, 스포츠계와 병역 제도를 둘러싼 뜨거운 공론화가 시작됐다.",
+          "headline": "아시안게임 병역특례 폐지 논란 점화"
         },
         {
           "rank": 2,
+          "word": "이강인",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"이강인 퇴장!\" 사진까지 들고나온 무리뉴, '3급 염좌'였는데 17일 만에 복귀...ATM \"전 세계 의료계가 틀렸다니 축하합니다\" 조롱 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZEp1X3FVLUZ1UF8tT1Z0S004c2dhSHgxOUFlM1BpTl9zQzUtb0VFT3lQR0NlbWJac0NseXRCV3ZJeGpFNmJMWlJ3d1Y2TFJ0MzNFOFNXNnI5WDNwUmJKeUxydjJsVGNRd3fSAW9BVV95cUxNWTcxWk1mQjR4QU1EMmZxUlVaM0xBRERqd1UwSU03UFNjdS1VWFd1X2FKNXcxTFNsQ0NiRy1vd1VpdkxSTXFSTnQ3Q1lVWDBTNDVVS1l2eEU1MUx1bXNCckc3bnZzNzV4N3ZtZmRfLTQ?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "‘올여름 최고 이적생’ 이강인, 아틀레티코 마드리드 순조롭게 안착",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HcGhWbDJ1MjJOZ2t1WnhqMm5yNVFaV3NrMkMzRVh5VDdBREp4S0VfaGxURFVXNl9XVTVpTkhybDBjalNfRFg0T0xsaENUVDUxV0pJbG5mUXVMcG9wM0RSaklXMWg?oc=5",
+              "source": "주간동아"
+            },
+            {
+              "title": "이강인, AT 마드리드 9월의 선수상 수상...오늘밤 알라베스전 출격 대기",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM1l3SHZ5VTJjTlV6WlpRcEFTX2hVRjc1WnVTUVNzR0xvR2ppMzRIWmM1Q2RZdW8zVnhkS2p1aTJYSTBwdnZ3dzdqSFlJRkU0aV9HTzkySzFHMEhTQ25fUENEaFZVVlNIVGpjbktqYVRBZ1IyYU5OWHdyVm13Mk5mcUpDVUQxWmU1SXFF?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "이강인이 아틀레티코 마드리드에서 9월의 선수상을 수상하며 이적 후 순조로운 적응을 증명했다. 이번 여름 최고 이적생으로 꼽히는 이강인은 '3급 염좌' 부상에도 17일 만에 복귀해 건재를 과시했고, 무리뉴 감독이 퇴장을 요구하는 사진까지 들고나왔던 과거와 달리 클럽에서 확실히 자리를 굳히는 모습이다. 오늘밤 알라베스전 출격도 대기 중으로, 리그 무대에서의 활약이 계속 주목받고 있다.",
+          "headline": "이강인, AT 마드리드 9월의 선수상 수상"
+        },
+        {
+          "rank": 3,
+          "word": "포함",
+          "count": 2,
+          "articles": [
+            {
+              "title": "’아시안게임 2관왕’ 여서정, 전국체전 싹쓸이…금메달 4개 포함 전 종목 메달",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaYS1NSTAxVUc4NHdUdlBhWHNSU2xnc0doQnlXX3RaWVAyVEtkRXBVU3dMSHZ0eVhua3BYSEdoNHZEdmhQSWNUWkVzMWhyUThEdzBKNW8xcmcwdm93TUJFVHc0RWNWTUk?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "아시안게임 기계체조: 여서정 포함 한국 대표팀 경기 결과·메달 모아보기 [아이치-나고야 2026]",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV2JEWUlmYTJ2QUdLdi1KZFlxTU9JV1l1dnI5YTJXSDJyZmJhUXMxRzE3TUJPZjBEd1EzYnVCSnUzNkFDRlByZ1VfLUNQVzJuS0gyY2lpYVVxREpMZ1Z6M2VzWFgxU1NMRFNrZHctVGp5LVVSLWVwTElMVmZkem5sYzMwYnBWZ1k3Mzh2YUFEZWFvdTlJaFFuS0lfNA?oc=5",
+              "source": "Olympic Channel"
+            },
+            {
+              "title": "“전국체전 4관왕 질주”…여서정, 기계체조 전 종목 메달 수확",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VSDZIZ1FGb1B5VFVxV2MwSnoteVhkYldWUThvWXZBSGg1QnN5TGZMSmFZWEd2U2Z2TV9HNV9Nc21CbThCOVlmeXZfOEQyX2dNWmhySHJlRE80Nk9qT3MxZ0haWnhpU0N5bnVWQXlHUHctZw?oc=5",
+              "source": "TopStarNews"
+            }
+          ],
+          "description": "아시안게임 2관왕 여서정이 전국체전 기계체조에서 금메달 4개를 포함해 출전한 전 종목 메달을 쓸어담으며 압도적인 기량을 뽐냈다. 아시안게임 여세를 그대로 이어간 셈으로, 한국 여자 체조의 간판으로서 존재감을 확실히 각인시켰다. 오늘 처음 화제에 오른 키워드다.",
+          "headline": "여서정, 전국체전 금메달 4개 포함 전 종목 석권"
+        },
+        {
+          "rank": 4,
           "word": "운전",
           "count": 2,
           "articles": [
@@ -425,85 +463,37 @@
               "source": "중앙일보"
             },
             {
-              "title": "김영광, 보복운전 의혹에 직접 사과…\"신중하고 책임감 있게 행동하겠다\"",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sajJ5YTdrRWk2cm5NcmF6WTZDay1CQ3dlSlVpdTMxeTFlRTdhaEd3dEF1c2plcFU2cHJueEppY1prcElZSXY4Z0Z4UTFaZFVwWXozU184S2t2QkdZUnNXeURDcmttV2s?oc=5",
-              "source": "연합뉴스TV"
+              "title": "“골키퍼 출신이라 길도 잘 막네” 조롱까지...김영광, ‘보복운전 의혹’ 사과에도 싸늘한 반응 “택시기사에게 먼저 사과해야” - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55eVpZNHc5WDZMVy1pN01sWEFqc1BJRUN3SlpIdzM5enFYWm45TnFrQThiajZMOVlQc201VXo2TUkzYlFhSzVlaEhDRmhxZ2hMQVFYQ19KamhKQXpRQ0pobkNOS0pWMnBGeXRZSk14UdIBb0FVX3lxTE55eVpZNHc5WDZMVy1pN01sWEFqc1BJRUN3SlpIdzM5enFYWm45TnFrQThiajZMOVlQc201VXo2TUkzYlFhSzVlaEhDRmhxZ2hMQVFYQ19KamhKQXpRQ0pobkNOS0pWMnBGeXRZSk14UQ?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "전 축구 국가대표 골키퍼 김영광이 보복운전 논란의 당사자로 지목되며 직접 사과문을 냈다. 김영광은 '운전 습관을 엄격히 돌아보겠다'며 '신중하고 책임감 있게 행동하겠다'고 밝혔다. 국가대표 출신 스포츠 스타의 논란이라는 점에서 화제를 모으고 있다.",
-          "headline": "김영광, 보복운전 논란에 직접 사과"
+          "description": "전 축구 국가대표 골키퍼 김영광이 보복운전 논란의 당사자임이 밝혀지며 직접 사과에 나섰다. 김영광은 '운전 습관을 엄격히 돌아보겠다'고 밝혔지만, 피해 택시기사에게 먼저 사과해야 한다는 여론의 싸늘한 반응이 이어지고 있다. '골키퍼 출신이라 길도 잘 막는다'는 조롱까지 나오는 등 논란이 쉽게 가라앉지 않는 분위기다.",
+          "headline": "전 축구 국가대표 김영광, 보복운전 논란에 사과"
         },
         {
-          "rank": 3,
-          "word": "사과",
-          "count": 2,
-          "articles": [
-            {
-              "title": "前 축구 국대 김영광, 보복운전 논란에 사과…\"운전 습관 돌아보겠다\"",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2TnQzY1RvZ0NsR0Q5MEpKUHNXV0JsU29JMUw5Mm1SbTBWdTJZS2JvMFBCNXU0aGhLX0dCMXZwU2ZVQXhLLWN5QXhPdm9DV3I0Y0NTdjRfdWNDMV95M1N1WjkzalFZTGYtVVE?oc=5",
-              "source": "주간조선"
-            },
-            {
-              "title": "'보복운전 논란' 前 축구 국가대표 김영광 사과…\"운전 습관 돌아보겠다\"",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BVlBHRUR3dXotYm9ySmdwRGhBb0VWQk1vY2FHRzRFNlpiNGZEbmhReHZKbDNJMkRUbUJaT1pCbTY3NU9jUzZ6UldKVlZzcU1OZ01ucEx3WUUwQnRE?oc=5",
-              "source": "뉴스핌"
-            },
-            {
-              "title": "前 축구 국대 골키퍼 김영광 보복운전 논란에 사과",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNak5jS3pQRTNxS195N1YyaUxSOGRzRGJkdjJlTlk1ZlZDM2gwNnNDTjNGaEd0UjQtb2NNY1pQN1EwLWN0YkZRSnBoNDA5OUg4UzlVYm44My1kbHFWX2Itdmp3cDRqVE8ySGMySEpqVUdUN1RkZGpHejdKMzlsbTFBUlpzamoxTVpzQXlvNUMwNnFBTkJkb0HSAWxBVV95cUxOa3RuWDluXzRhSFJJUFV2X1pzUXl3cXRqWDhncFB2YzExZ3Eyc2RiLURXbWpYRFhsaGF3QTNaOXFPNGNpZldhblhKUnhpVDRhTmFkN3MzMXF5dUJlSWdjM2pPUlQzcm16VGhMQnI?oc=5",
-              "source": "국민일보"
-            }
-          ],
-          "description": "전 축구 국가대표 골키퍼 김영광이 보복운전 의혹에 대해 공개 사과했다. 그는 '운전 습관을 돌아보겠다'고 밝히며 잘못을 인정했다. 국가대표 출신 선수의 보복운전 논란이라는 점에서 스포츠계 안팎의 주목을 받고 있다.",
-          "headline": "김영광, 보복운전 의혹에 공개 사과"
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "word": "강이슬",
           "count": 2,
           "articles": [
             {
-              "title": "'강이슬 23점' 우리은행, 조 1위로 박신자컵 4강행",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HcUMyQkFQdmoxcWJ6cHVtNFV4YzhTeWhoSG1PSFc2N01TdHNKYndHb1lodXZSdndRVm9xVzVzVTJmUW1YRmhLaFdiUXgxbHJQZUlsVVNfeUROWnBrbGc?oc=5",
-              "source": "YTN"
+              "title": "박지수냐 강이슬이냐, 그것이 문제로다! ‘결승 진출’ 후지쯔, 감독과 아카기의 선택은? [SS청주in]",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nNF9NTTltWGxIOEZTbDJWOWRybjVCb1lYMUJQc1hDbmtTSFBCVG9KdXRLX1BkUmdTbmVxTzVIc21iN05uMDlEeWtLRUpYOU44djlkZ25HSHo?oc=5",
+              "source": "스포츠서울"
             },
             {
-              "title": "아시안게임 농구 ‘금빛 주역’ 강이슬·이정현, ‘아는 형님’ 뜬다",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zS2Nwdm16aXJ4NW5mMElYMlk0WnhkdDh2VzRhRHBkOEFtTmxWOGluMTJMR1hteHBQWTJtZlpTWU5TU1B4QjhmaGhrdFhUanF5LVhoSkFBOHhVcVdPaEhpSHVIbVVDMEl0cVE?oc=5",
-              "source": "한겨레"
+              "title": "AG에서 한국 상대했던 후지쯔 에이스 아카기 “강이슬이 있는 우리은행이 결승 올라오지 않을까요?”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WTE0td28xY0Fidk1VOGZoMHpOaTZNcXBQS2xSb0lXSTRhS01IaVYtRXY3WnI1WmJxeUUzaE5qUFhjcnRESG9xSE5Sa3ZRTktmREtYeFhuQWZMYXNXUWfSAWNBVV95cUxOUjNUcHJNd0RGV0pCMzBrV2Z5WEliM2c1UmYxRm1hTTE3RmdfVDNOaFA3b1ZiVG80dnNMSTA0b0h5ODJ1c1Q3Z0R3V21yS1lTVGpYdFlzNllLZmxyN3gxY1BjT3c?oc=5",
+              "source": "스포츠경향"
             },
             {
-              "title": "강이슬 “중국 이기고 나서 우승 가능성 느꼈다”…‘아는 형님’ 금메달 비하인드",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyRkkxWnZxWkNLblJjWUVGWVNkMkxjREZjM0VaUWt3UXoteDl1MkVySVJBUFNjaWFJRlhSS3hNSE1rdmFCTDVMaEcxdG04Z2lmbkFWazRvQ3BNR0xjd0l3YlVnbFVEQ0FPZ3VreldsR3Fldw?oc=5",
-              "source": "TopStarNews"
+              "title": "강이슬 합류한 우리은행, 울란바타르 꺾고 B조 1위 … KB와 4강에서 격돌",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83VUJ2cFNTVVBoeDZ5Rk9pOVR1VG9lLWtSSnpmTGE0X3BOdWxlanJWVkJTeHNEa3VZV3gyZm1ncER5c3N5ZW9VZWhSM1NnUnRvUlBNMHhlUHllRDJZVEczRW96THhYbXJrUWJTWV9hWHVKUQ?oc=5",
+              "source": "바스켓코리아"
             }
           ],
-          "description": "여자농구 강이슬이 박신자컵에서 23점을 올리며 우리은행의 조 1위 4강 진출을 이끌었다. 강이슬은 아시안게임 농구 금메달의 주역으로, 이정현과 함께 예능 프로그램 '아는 형님'에도 출연해 금메달 비하인드를 공개할 예정이어서 관심이 높다. 오늘 처음 등장한 키워드다.",
-          "headline": "강이슬 23점, 우리은행 박신자컵 4강 진출"
-        },
-        {
-          "rank": 5,
-          "word": "챔피언십",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'이글 뒷심' 박성현, 코리아 챔피언십 둘째날 2위↑…김효주 9위 [LET]",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EcVlBUWlhOXVOQVkwcDFrOUVVbjJIeU5VS2tGYWtDNkNHaWVDVDZaZXJrV0JjTVV2bzA3UUlJVHdCREthMFhHeFV6cnRHVXlTNWxGbWZNRm1CMXQxYWprcHg1cGJtRmk5ZUwybG1YZGJCTHU5eUF2TdIBfEFVX3lxTE80QktrMWRqUDdlU3RnMFpNUEpNTVRlS1RGdFk2NGU4di1nVldSUkFia005S2xFaVpSelRsWk5QemFsUWFCOHV1SFJIcWlsZWRFcEk3TjhjdlVWOUlRWGZnSkFHTDNKczZqZTBpS1FsZTZkSTBqQk03ZmdvZU0?oc=5",
-              "source": "골프한국"
-            },
-            {
-              "title": "'부활 신호탄' 박성현, 아람코 코리아 챔피언십 2R 공동 2위…김효주는 9위",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hbUlSVUhNLWtHc2pKZHJORTR4Y25OelR5R19hY285UkxYMkRMMnhINDNZaTBXN1FQMmQ2Z2lCMU1TZ05GY3pPNksxN3dVQUxTOVgwd2lXNWRHLWJR?oc=5",
-              "source": "뉴스핌"
-            },
-            {
-              "title": "박성현, LET 아람코 코리아 챔피언십 2R 2위…'3연패 도전' 김효주 9위",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96VHozbXFBTUNUTGpsV2d1aXFuUW9KWmc3cTh3dmNZemM4UDJ5Qks0RGNLYk1WOXNVZTA5bFBUUVhQVElHSFNvLXVZdVdIaXBnYWc?oc=5",
-              "source": "뉴스1"
-            }
-          ],
-          "description": "박성현이 LET 아람코 코리아 챔피언십 2라운드에서 이글 등을 앞세워 공동 2위로 순위를 끌어올리며 부활 신호탄을 쏘아 올렸다. 3연패에 도전 중인 김효주는 9위에 머물렀다. 국내에서 열리는 유럽여자투어 대회인 만큼 한국 선수들의 성적에 팬들의 이목이 쏠리고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "박성현, 아람코 코리아 챔피언십 2R 공동 2위"
+          "description": "강이슬이 합류한 우리은행이 울란바타르를 꺾고 B조 1위를 차지하며 KB와의 4강 대결을 확정 지었다. 결승에 오른 후지쯔의 에이스 아카기는 '강이슬이 있는 우리은행이 결승에 올라오지 않겠냐'고 말해 강이슬의 팀 내 비중을 실감케 했고, 박지수와의 맞대결 구도도 주목받고 있다. 오늘 처음 화제에 오른 키워드로, 여자농구 대회 판도의 핵심 인물로 떠올랐다.",
+          "headline": "강이슬 우리은행, B조 1위로 KB와 4강 격돌"
         }
       ]
     }
