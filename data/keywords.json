@@ -1,70 +1,86 @@
 {
-  "date": "2026-10-12",
-  "updated_at": "2026-10-12 17:27",
+  "date": "2026-10-13",
+  "updated_at": "2026-10-13 05:17",
   "briefing": {
-    "text": "북한이 평양에서 탄도미사일 수 발을 발사한 데 이어, 사우디아라비아 리야드 공항도 미사일 피격을 당해 12~13명이 숨지며 국제 안보 우려가 동시에 고조됐다.\n\n국내에서는 의료 안전 문제가 연달아 터졌다. '젊어지는 주사'를 맞은 20대 여성이 한 시간 만에 사망한 데 이어, '비타민 주사'라고 속이고 납 배출 주사를 투약한 사실이 드러나 이 대통령이 엄중 조치를 지시했다.\n\n경제·증시에서는 최태원 SK 회장이 반도체 확장 속도전 필요성을 강조하자 호남 반도체 클러스터 관련 테마주가 일제히 급등했고, HLB그룹은 간암 신약의 미국 FDA 허가를 재신청하며 연말 임상 결과에 시장의 시선이 쏠렸다.\n\n연예·스포츠에서는 김지원 주연 '닥터X'가 첫 주 주말극 시청률 1위를 차지했고, 배우 원빈의 16년 만에 포착된 단발 근황이 화제를 모았다. 손흥민은 한국 축구 내분 속 리더십 논란에 휘말리면서도, 어린이 팬에게 특별한 사인을 건네는 훈훈한 장면으로 눈길을 끌었다.",
-    "period": "저녁",
-    "generated_at": "2026-10-12 17:27"
+    "text": "KT 최원준이 배트 투척 논란을 딛고 멀티히트를 기록하며 시즌 안타 타이틀 경쟁의 뒤끝이 화제를 모은 하루였다.\n\n호남 반도체 클러스터 전력망 구축 비용 약 1.4조 원 중 80%를 삼성전자·SK하이닉스가 부담하는 것으로 알려지며 관련 테마주가 급등했고, 야당이 이집트 원전 손실 문제와 함께 해당 사업을 정치 쟁점으로 끌어올리면서 반도체 키워드가 5일 연속 검색 1위를 기록했다.\n\n경제계에서는 셀트리온이 분기 영업익 5000억 원을 처음 돌파하며 역대 최대 실적을 냈고, 최태원 SK 회장은 노소영 씨와의 이혼 재산분할 비율에 불복해 대법원에 상고이유서를 제출하며 공방이 최종심으로 넘어갔다.\n\n스포츠에서는 피겨 간판 차준환이 선수 활동 중단을 선언해 큰 반향을 일으켰고, 3년 연속 7위에 그친 롯데자이언츠는 김태형 감독과의 결별을 사실상 선언하며 이틀 안에 거취를 결정하기로 했다.\n\n연예계에서는 SM 창업자 이수만이 3년 만에 국내에 복귀해 24인조 신인 그룹을 공개했고, 드라마 '100일의 거짓말'에 출연했던 배우 김현의 별세 소식에 동료들의 추모가 이어졌다.",
+    "period": "아침",
+    "generated_at": "2026-10-13 05:17"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "북한 탄도미사일 발사·사우디 공항 피격·불법 주사 사망 사고·트럼프 일방적 에너지 휴전 발표",
+      "summary": "삼성·SK, 호남 반도체 전력망 비용 1.4조 분담 · 트럼프, 러·우 에너지 휴전 발표했으나 젤렌스키 부인 · 사업장 납 해독 주사 강제 투여 논란",
       "keywords": [
         {
           "rank": 1,
-          "word": "발사",
-          "count": 2,
-          "articles": [],
-          "description": "북한이 평양에서 탄도미사일 수 발을 발사했으며, 일부는 900km 이상 비행한 것으로 확인됐다. 합동참모본부가 이를 공식 발표하며 긴장이 고조되고 있다. 같은 날 사우디아라비아 리야드 공항도 미사일 피격을 받아 사망자가 발생하는 등, 미사일 관련 사건이 잇따라 화제를 모으고 있다.",
-          "headline": "북한, 탄도미사일 수 발 발사"
+          "word": "안타",
+          "count": 4,
+          "articles": [
+            {
+              "title": "'개인 타이틀 집착 논란' KT 최원준, 배트 내동댕이…안타 불발에 볼넷도 불만?",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJWElqZDlfSHg2RjZpU195MzM5aUdXM1oySktuQm5uai1POTAzNXRZemVZME1vd0ZCOVpyT2hDRjVOZVRrLUp4M3RmdFd1UW53ZkE?oc=5",
+              "source": "노컷뉴스"
+            },
+            {
+              "title": "압도적 211안타! → 레이예스 \"솔직히 최원준 신경 안 썼지만 고생했다고 말해주고 싶다\" [잠실 현장]",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNblhZN25JLVBTc3lQeFRLel9IVzBocGZHWGxjQzRLR3JfWjQ4aXpGTTBLMnl3XzBVYUNxMldjSi02YlhMOUplWlpLVk1nTll3ZDdLNEN4NFkwNENEY21mQ2lEOFo0WVlvaU8xR09ST3hIakdJb3MtV0tDV0pQRW1IRXZLUQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "‘어제는 배트 투척 논란, 오늘은 멀티히트!’ 최원준, 1회 2루타, 4회 안타",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Wcmp3TmJLSHI4QUlreU80SUN6emZJRW9MSFFYekV6aFRoYW1KSFplS2RodkdiX0d4X0ZUQXZyUUJ0ZE94TE9BZUlNN3NBNlV1R0EzWg?oc=5",
+              "source": "OSEN"
+            }
+          ],
+          "description": "KT 최원준이 안타 불발에 배트를 내동댕이쳐 '개인 타이틀 집착' 논란에 휘말린 데 이어, 다음 날 경기에서는 1회 2루타·4회 안타를 기록하며 멀티히트로 만회했다. 한편 시즌 211안타를 기록한 레이예스는 최원준을 향해 '솔직히 신경은 안 썼지만 고생했다고 말해주고 싶다'며 소감을 전해 눈길을 끌었다. 안타 타이틀 경쟁을 둘러싼 논란과 반전이 맞물리며 오늘 화제를 모았다.",
+          "headline": "최원준, 배트 투척 논란 속 멀티히트"
         },
         {
           "rank": 2,
-          "word": "미사일",
-          "count": 2,
+          "word": "노벨",
+          "count": 3,
           "articles": [
             {
-              "title": "합참 \"북한, 평양서 탄도미사일 수 발 발사…일부 900km 이상 비행\"",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02Wl9jWjdjLW5yTnh3ckVBeXRLWjc3RmhpR19vbWFwOE52Yk1ka0NxZVdRMXl4S05mVGF0LVIyTFI0ZFB5TzBXalhGREt5S055c2VMTA?oc=5",
-              "source": "JTBC"
+              "title": "노벨경제학상 미 로버트 홀·마이클 우드퍼드…새 케인스주의 모델 구축",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OU1ZwZFhGU3ItQWZXSHBNbXhqQm5kRVBNM05tUE5DX05hR3diRVloN1lJZHJmaGlXY0tKcVhMM2tfUTRNeVVNWmZraGVHaHpqRlU4RkhiNUVXQXhWa1ZyWkRSR1EydjVMNlJocHB1WnVaUQ?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "'13명 사망' 하루만에 미사일 '쾅'…사우디 리야드 공항 또 피격(종합3보)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HV1YxOTkxQ05GNTZTQk1QSGxoYml3Wmt1WU54S3FsSnpweExiU2VVX0U1UDhWU1hJellHZTZNcTlXbzJiTUdrNFQ1SnFhU3BPVjBHMnlocnpjLUnSAWBBVV95cUxNaTNDb2g5Y1B4VGFuUjRGWTFFejZHY1hIN3otNmI0SWczUldTRUdpbTRtQlZhMWY5ZXFqZzFPT3RuangtY0c2X1p0dEZKX0ZlX2xXOEZtT19PdElxR3Zrai0?oc=5",
+              "title": "노벨경제학상에 '케인스의 현대적 부활' 미국인 듀오(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zZHFLQjMxc3Y1bnN2cnFMa1VUSjFaRmVHZlRYbGdic2VzN2RNSXNldmJXU1J2bm5HMEZOQlUyTnY3d2R5UmtFdTM1c3Q5WDFSUHV1aXJ1RnMzZFk?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "'12명 사망' 하루 만에‥사우디 리야드 공항 또 미사일 피격",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BQ2IzZTZSYkpRLXRYbWV2b09Sb3dqeGRlS1FtRFlCcEVCellCbnFnQnVPMFdpN0YwQ1p3amVUWks3M1prMWVuMW1GbmNtYmxxc0pubnAyRnY0LVRJZ09kQllWdjJiZHp3eGxsVkFVTU02V1BN0gF0QVVfeXFMT243OWpOd3cwLWNBSXBuUjAwVmNraDNsbDViY08zTVR6YlR1cWx6dWU2aHhTemtxSl94dmRXSnVUcWpjWmJxUjhPbHotbVNuTG5QWlhKMWdfU2ZLZUxRZTFtbDRvTTdrc2JDTS04TXc1VlI2dEY?oc=5",
-              "source": "MBC 뉴스"
+              "title": "케인스의 현대적 부활…올해의 노벨경제학상",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lNWt2eFctbmlENGlta1ZuNTUyTGNBMm85WGRZa2JlaFExQXp1M3RqbURFZmVjUllwYXQ3dldWOG5pM19RUDlZanlVSWl5Tms2RFlPbWdhZHpiZw?oc=5",
+              "source": "한국경제"
             }
           ],
-          "description": "북한이 평양에서 탄도미사일 수 발을 발사한 가운데, 사우디아라비아 리야드 공항도 하루 만에 또다시 미사일 피격을 당해 12~13명이 숨졌다. 연이은 미사일 관련 사건이 국제 안보 우려를 키우고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "북한 발사·리야드 공항 피격 잇따라"
+          "description": "올해 노벨경제학상은 미국의 로버트 홀과 마이클 우드퍼드에게 돌아갔다. 두 사람은 케인스 경제학을 현대적으로 재해석한 새로운 거시경제 모델을 구축한 공로를 인정받았다. 고전 케인스 이론에 현대적 미시적 기초를 결합한 이들의 연구는 중앙은행 정책 분석에 폭넓게 활용돼 온 것으로 평가된다.",
+          "headline": "노벨경제학상, 미국인 듀오 수상"
         },
         {
           "rank": 3,
-          "word": "주사",
-          "count": 2,
+          "word": "반도체",
+          "count": 3,
           "articles": [
             {
-              "title": "“젊어지는 주사” 맞다가… 정맥주사 20대 여성, 한 시간 만에 숨진 이유",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Uak9rSER0ejVfSkRuQ2lfQWM4UXhWQVVZRWMzTnlBeVVQRks0UWZ4SnFIci00VkVOcGhGY1JPM0ozcUQ0UHk0ckhNcnVhVl81Z1llRVptZDMyMGRZTzJBYXpRSUQxY2QxeTJrbmZrQjFpT2dJYklWeTNwS0NzbXM?oc=5",
-              "source": "헬스조선"
+              "title": "호남 반도체 전력망 비용 1.4兆, 삼전닉스가 80% 낸다 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0pKZTNfUXFmU0psX3hySW1UN18wT1FtUnllRDByenk2aEhQUXNSLWdyZmhpdFNDVWtlR2Q1M08yeHprNlFNZmVybGV0YmRyc2RKSjZBQXBCWFJyTjNpaWF1d0traXJqMHU1MXhSYWxRa3p4OHNhblk2ZDJ6UmZyXzhYTkXSAZgBQVVfeXFMUFVWVHo0eHJMSVN2Znd0Y2h4dmRYYnVlQ09XblJ4ZEpkZlhkRG9DcGFnOFpKYk9xSk03Z09MajNrcWtkN2c3T20zTXliZEQ2WC1Fd01tNGNFSXlERFJzemZlaHJkSGpoU2R6NjBuR3AyNkNJNEpsTHppOWJIZkJIS0htZTZRQUtvRW9TRk41a21uSkhIUjk3Wk4?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "‘비타민 주사’라며 ‘납 배출 주사’ 투약…이 대통령 \"용납 못 해\" 엄중 조치 지시",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yOG9kc19OUHgtRXZDeFdOQWdBcEpxSEtxTXQ1dkNwRFNZNGtWdjRCV3pVQ211ZWRkQVQwcUs2WDJ5b2dLbmpEWDdyMHcxMUt0MU1yUg?oc=5",
-              "source": "JTBC"
+              "title": "김정관 “호남 반도체, 기업 의지 충분한 수준 넘어 절박” - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdm1BanNXT1NEMkMxbUE4cFF0N0w1WXFYcGFTdW5sYUZ2c0c0d2xpUXVhcXBmdjFvRXdsTnh2RDdmUW91R2kyN05PTkZ3MVN1MDJtb2xJNzhENFVJZTRVTUZPWlNWaGhuZU5RU0QxZmpEdXdNZGh2R01DVFpxdllfVkRCSGp1UdIBmgFBVV95cUxQMGdTSEJod3U1aWFQWlU2TVlPVUZlYllseEs1SmtHN016ekpEcmphLWZjbmo0eDVfNUl2TVQwU0RMTk51QmZseUcyWklKeW5aamgtamdHX0c3VGZ0eEV2YjgxZmF6dHJPUkN4Y1JjVDFSaVZmOXc1aEh0NjBldUZKTmhSY1c2MnJ0SFdhRnRRU09KbUd4RUx3OWpR?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "\"월1회 주사\"…美FDA, 조현병약 '웰트루자' 허가",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VejZKRVgtTkg1endYMTJNUHhKb0hCNkR4RWVuSC14eDlQNGZEQ2hRcHQ2YVBvV1ppR28zWTcya2FOc2FqdUlfM2RXOTY0eHFuTjBRN1NzNTVmWFR0UUV5WNIBeEFVX3lxTFAzaGpxWmpOSGtoS1VUNHVJVXdVZ3JUX25YQl8zUXdLZ3N1ZVpEdTVmX0JDcUtMRVNIUmY4RzZ0NC0yMTNvVVNsWm11MEQ5UjlGU2JfTEJtc3hBaUdjTklGbDY0WFZSbEJFMjZhNmpqSzAzVkhQR2twSw?oc=5",
-              "source": "뉴시스"
+              "title": "TSMC, AI 반도체 핵심 부품 美서 조달… 현지 공급망 구축 속도 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdW1GOE9xSko1SUZnSFJiNDBiNmlkeVdqZnJaWEVHVkNxUVhURkE3ZEIyY0VVUVFYZEt1SzNFR2pJelB4akVWZ3RQZ2dkcU9VMmdkM2FoWFI3SnVodkNvX3E5dlU5YmhoMXNXVkFyd1p6eU1ZN0NOaDJmd1o0VXIxcVB30gGWAUFVX3lxTE9EWXZuMU1tdmI4Y0dCUkRaWFNGZHpIYXJBSElCck9ONklSSjRhV1JjaDdXcThkM2R4NlF1Tjd1ZXNaNkFxZzdNQ1pyRDlBS2NlX0RTQlFDbFRsN1RMSmNBSG5heWVjNi1oZjBfdElNcFZac1loRjVRVmgzTDJxQ0FjLW56N3BzMzRDMHNEWDZTS190LUtyQQ?oc=5",
+              "source": "Chosunbiz"
             }
           ],
-          "description": "20대 여성이 '젊어지는 주사'를 맞은 지 한 시간 만에 사망하는 사고가 발생했다. 또 '비타민 주사'라고 속이고 납 배출 주사를 투약한 사실이 드러나 이 대통령이 엄중 조치를 지시했다. 불법·허위 시술로 인한 피해가 연달아 알려지며 의료 안전 문제에 대한 관심이 높아지고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "불법·허위 주사 피해 잇따라 논란"
+          "description": "호남 반도체 클러스터 전력망 구축에 드는 비용 약 1.4조 원 중 80%를 삼성전자·SK하이닉스가 부담하는 것으로 알려지며 주목받고 있다. 산업통상자원부 김정관 장관은 호남 반도체 사업에 대해 '기업 의지가 절박한 수준'이라고 강조했다. 한편 TSMC는 AI 반도체 핵심 부품을 미국에서 조달하며 현지 공급망 구축에 속도를 내고 있어, 글로벌 반도체 공급망 재편 흐름도 이어지고 있다.",
+          "headline": "호남 반도체 클러스터 전력망 비용 1.4조, 삼전닉스가 80% 부담"
         },
         {
           "rank": 4,
@@ -72,57 +88,57 @@
           "count": 2,
           "articles": [
             {
-              "title": "트럼프, 일방적 ‘에너지 휴전’ 발표…젤렌스키는 즉각 부인",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WanNPb1Z6SUNQTDg1bEJ4N1Q2eVo4NTBsRmdsVFJoYU50S3lFS0pYdWhhUjNOTzZablVhYXNzSXZDYXJBOVMzZDhvd04tcTIxRXFGXw?oc=5",
-              "source": "JTBC뉴스"
+              "title": "트럼프 “러·우크라, 에너지 휴전 합의”···젤렌스키 “처음 듣는 말”, 푸틴은 무반응",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WFZnb1FXSUFUQTFJSkx4Z2s2VDJ2S0lTQWp4bVlEVEdwdHc4czVsNWszcVI5dDEwQzhlZU01dVptaUxjdVliSVhQT3NoOG5PcDhmQy1SczMzZ9IBX0FVX3lxTE9Yal9xZmE1T2RGRl84WGZ3aFprWkUxOHV1MXNzdl9zcXZyMzhWSFJzNlJWVEg4MWttV1dOdkpMWUR5azZDbHFodEQwQmFDZ1pTSkE2TV95bDR2aHl3ZXA4?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "침략자 푸틴과 ‘경유 딜’, 총살형 생중계… 국제질서 뒤엎는 트럼프",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2dZYXJaMjdDZVYwUDV6TjdrYmUySGxRNXZCdXV4TGxGZG1SWWpZWVhibmd4QVRxejFXb1BNN2N3RkNzSFFPS2lJRldwbXUzQUF4eUJ4aWV2ck9TRUJCLWQ2dzlQZFVIUndremJ1U0cxUld4bTFNSG9md1BBOFMySHhlT2I?oc=5",
-              "source": "조선일보"
+              "title": "트럼프 '후티 군사 개입' 고심...이란 '중재·압박' 병행",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IMGUxekZ1bU01akF6bGppVFRGRUVnTS1zaXVMRHNHQ0hPR1E3SWswT1oyVlFzeWxDSjBlVVVraURWM0tEU3hHLTRZTTBRa2VuY1Jod0dmWHVIUmNyUmc?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "다급한 트럼프, 푸틴 손 잡았다…美 중간선거, ‘디젤 선거’ 되나 [페트로-일렉트로]",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GVDBYbW5QZGFZT0dKdnpIbUxPVFBXaUhrSXpNVGlYYkd3N0xOQ1p4VTNjSmF1OXNtZVRscVpqMGlvRFlBMUwyWnJ4ZDRmcGZNbUHSAVNBVV95cUxOdV9lRGhfVmlHajBFSTYwVnBGQ2x2M3EwM2pIcFNLVDA5RDBUQmFqTFVfRW11YmRxM3VWalV0TlFXN25FOXJYS25yR0M0LXlESHE1Yw?oc=5",
-              "source": "서울경제"
+              "title": "후티 공세에 미국인도 사망…트럼프, 군사대응 결단할까",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZMnRQanRxRDJ0TFVOVE5kOWVoaVpaLTAzTnFad05QMGQ4OFgxc3QyRElFQnhNRGczczM3bE9fZ2NmZDlpeExZMnozTDUwYVJIbXNDMjRMYUJsRXfSAWBBVV95cUxNZFl0T1g0cWVqb2VqUUE3Q2UtREN2emFfZldaQWxYUEJXRVV3TFdYVWh1TE1ybnJ5T1duT0l4MjU5cFNvbllqeF9XZVNqa1RkQVFXcWZiRElYSGRPaUpBTlY?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "트럼프 대통령이 우크라이나와의 협의 없이 일방적으로 '에너지 휴전'을 발표했으나 젤렌스키 대통령이 즉각 부인하며 파장이 일고 있다. 푸틴과의 경유 거래 추진 등 기존 국제질서를 뒤흔드는 행보가 이어지고 있으며, 미국 중간선거를 앞두고 에너지 정치가 핵심 변수로 떠오른다는 분석도 나온다. 최근 2주간 꾸준히 상위권을 유지하고 있다.",
-          "headline": "트럼프, 일방적 에너지 휴전 발표"
+          "description": "트럼프 대통령이 러시아와 우크라이나가 에너지 휴전에 합의했다고 발표했지만, 젤렌스키 대통령은 '처음 듣는 말'이라며 즉각 반박하고 푸틴도 무반응으로 일관해 혼선이 빚어졌다. 중동에서도 후티 반군의 공세로 미국인 사망자가 발생하면서 트럼프 행정부의 군사적 대응 여부에 관심이 쏠린다. 이란에 대해선 중재와 압박을 병행하는 전략을 고심 중인 것으로 전해진다. 최근 2주간 꾸준히 상위권을 유지하고 있다.",
+          "headline": "트럼프, 러·우크라 에너지 휴전 합의 발표"
         },
         {
           "rank": 5,
-          "word": "게임",
+          "word": "주사",
           "count": 2,
           "articles": [
             {
-              "title": "PS1 30주년 기념, 레고 1,911 피스로 재현",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jc0UwWi1MZ2RneWs4Wk1LZWUtY1RyX1YwdlFBTWlXNkk2RGdjV25ra1VFSll5bXlUamdrb1FWM0R5QU4xZ1NXbzZUYTAwUVE2N2ZCbzY2VWHSAVtBVV95cUxQY0Uwc0pwTkVYN0hFZXZkUDBWSHR5cDE2UGFnelYxZVhjX3RycGVWUlZhQ0IyYVQyZFlKZm90OV94QkF0MmUtR3JWMzlDcFZ3RE42N2ozeFJoaG5z?oc=5",
-              "source": "게임메카"
+              "title": "비타민이라더니 위험한 중금속 배출 주사‥이재명 대통령 \"중대 인권침해, 엄중 대처\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPRkszOFd2b0U2d0RyS2E1aUVGUEoyNTlfTW0yV3J3dnRNV0pKS1AtckpFTlNSc05fd2tlNXRlSUFVUXFqbjNqZmVTTG5KSUlpeEJXX0Z2T2hVWmtUWXZRTWtSa0NzWWpjbzEtdU5ZTkw3OUhtSlBRQtIBeEFVX3lxTE9yc01ZTEF6MkdFSFp1a1ZsY280RWk5Q1JUWFNKMXdNcHBOSktzUklRTDVQNVltMFZQUmVwdTJuU0ZfS3M2c0hKSDl2dmRocmI2emxnOUNXMElacmRsZXBhT0NDT3ZjY0pzOTZUc2Zvd0haTDhCUkYxUw?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "레고, 1990년대 게임 상징 ‘플레이스테이션 1’ 세트 선봬",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oYjE0bTdTRmJqcnozQUNyOGttcXd3amQyaHJmaVJoVThyWmVOY2E1NnRpNnE2dnMzb1FaV3c5QllYU2JsdE55dFZHQnJzYjBUZmFNbjlDX3BuNTI0bWlyNUNETm9kOFFGckFFZXJPREjSAXRBVV95cUxQd1dQWDFPUzVteFYyZ2tNT0ZMaWxmSmYyTWlHWlZkY1F2SHk3OHBOSEdEdDFfRUU2RW94dnNhcGtQTzNieTVnRDFpU05yazloWkJjcW5DclpSY0dQVjI0SVhTaHJTMUtsR0FUS09WMkk2LXdGdg?oc=5",
-              "source": "IT조선"
+              "title": "“비타민 주사라더니 납 빼는 주사”…특수검진 전, 회사가 벌인 짓",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxMjlXWG9TWHk0ZFdTMURCOFh6TlRqYmFlWF9iNy1xM0tyMmhKVzlzQzB2QnlqaEQ4U2JIZ3ZfNjh5OXA4eUhpZHp2X002SDdKNVNOWWx3?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "레고로 게임기를 만들었다? 레고 플레이스테이션 언박싱",
-              "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1jeVJzRzRPWmJlYW9qdlNWNHRsOWtCS2YyOUlUekNTRWVveDZ0cnJUMVA1NHU4S25ncXpramEzOFFqbVFZ?oc=5",
-              "source": "게임동아"
+              "title": "이 대통령, 납 배출 주사를 ‘비타민 주사’로 속인 업체 “엄벌”",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDZHQ0VjdTdExrcG1hSGg1SUdWMVcwTHItcl9GM2tmc1MzM2dGSHZDeUtYTU80dGtoLUUyUzRta2wwNUlzamdjTXNNTkdsUHloRjRuOWdEdnVqaDNac3c5MDJ1OFh3SklwbHBz?oc=5",
+              "source": "한겨레"
             }
           ],
-          "description": "플레이스테이션 1(PS1) 출시 30주년을 맞아 레고가 1,911피스 규모의 PS1 기념 세트를 선보였다. 1990년대 게임 문화의 상징으로 꼽히는 PS1을 레고로 재현한 제품이 공개되며 게이머들의 향수를 자극하고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "레고, PS1 30주년 기념 세트 출시"
+          "description": "일부 업체가 노동자들에게 납 등 중금속 배출 주사를 '비타민 주사'라고 속여 맞힌 사실이 드러나 공분을 사고 있다. 특수건강검진 전 해당 주사를 맞히면 유해물질 수치가 낮아져 검진 결과를 왜곡할 수 있다는 점에서 중대한 인권침해 논란으로 번지고 있다. 이재명 대통령은 이를 '중대 인권침해'로 규정하고 관련 업체에 대한 엄중한 법적 대처를 촉구했다.",
+          "headline": "납 배출 주사를 비타민으로 속인 업체, 대통령 엄벌 촉구"
         }
       ]
     },
     "경제": {
-      "summary": "전북은행이 국내 최초 비트코인 담보대출을 시작한 가운데, 최태원 SK 회장은 반도체 점유율 사수를 위한 신속한 확장을 촉구했다.",
+      "summary": "최태원 호남 반도체 클러스터 테마주 급등 · 최태원, 노소영과 재산분할 비율 상고 · LH 사장 \"집값 급락 가능성 높아\"",
       "keywords": [
         {
           "rank": 1,
           "word": "반도체",
-          "count": 3,
+          "count": 6,
           "articles": [
             {
               "title": "최태원 움직이자 '불기둥'…호남 반도체 클러스터 테마주 급등",
@@ -130,364 +146,364 @@
               "source": "한국경제"
             },
             {
-              "title": "최태원 SK 회장 “미·중 반도체 증설 시 우리 점유율 축소…최대한 빨리 확장 해야”",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14RzdDT0VkcHJDb1lNUFFDS1JLbmFxWmZCWVpXOXZab2VBQmN1dVA5RmFMNjA2R0YxSklwdEd5RHIxVU1QWk1LdldfWmNvZw?oc=5",
-              "source": "전자신문"
+              "title": "한전 사장 \"호남 반도체 전력망 비용 1.4조 중 삼전닉스가 80% 이상 부담\"",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ09fV2tXak4wNlRyaXFvZENIZjg4bVFkVTNacmpFWnhEWE42WjlsTVZEMWJ4MUJtVjdPcEFhaF9taUtsRVpybFJVOThHSkQtOTZKOWJNODlTOG56Z01NTHBtRzViY1VrM0NjWUotNnRWdWxqVWI2LUN3SWpsY2UzcDBQbzdGODExUmxjYUhsbw?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "\"가장 빠른 속도\" 최태원 언급에…호남 반도체 관련주 급등(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5WlIybWFPaTFNUHdGaFZlTlJvblZTSy00MlJMWlpkdVk4TWNSa1NvQ0RmUGNHNFgxSHZETXIwd0N1WjY5X21IMkJHOEttb3k2N19uajZJV09oWTjSAWBBVV95cUxPYmVIRkhQc0pNa29vY184aWh1V1hwUk1ySy1NODFfSFdoLTd0RHV1QzllbTUzcE1hRW5UdklYMHpmazFwNi13QmdNYU51X0RsRzZjLWtaemhycV83M09ycVU?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "최태원 SK 회장이 미·중 반도체 증설 시 국내 점유율 축소를 우려하며 '최대한 빨리 확장해야 한다'고 발언하자, 호남 반도체 클러스터 관련 테마주가 일제히 급등했다. 최 회장의 발언은 국내 반도체 산업의 속도전 필요성을 강조한 것으로, 시장에서 즉각적인 반응을 이끌어냈다. 반도체 키워드는 4일 연속 1위를 기록 중이다.",
-          "headline": "최태원 발언에 호남 반도체 테마주 급등"
-        },
-        {
-          "rank": 2,
-          "word": "신약",
-          "count": 3,
-          "articles": [
-            {
-              "title": "지니너스, AI가 찾은 항암 신약 타깃 실험 검증 돌입…'기술이전 기반 다진다'",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWcW1GVFZOQWFQMW1kbVdpUWJkbEYwdUxDcVd2WE1QaWs0V2xCVWk5Q0ZKdHZadDlsa1hhejVTdXVBUEM3MEdnZmI4cndNcXJxdXV1UFFlNUdmcXhHUVNaMUt0a2FyYmJBM1FDazd3?oc=5",
-              "source": "팜이데일리"
-            },
-            {
-              "title": "HLB, 간암 신약 美 FDA 허가 재신청…3차 CRL 3개월 만",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xV21OeU41U2JBSkQ2M0VtWTNGWnZVYllXQ1Vsajd2alhoMDAwZExQYVQtNUFsQTlUdVVlLXh1WndPXzVjakoyUmtlYUt1V3BTY2VjYjZ4Uzd1dTQtbW5TeUdFQ1BMMEJsRXFPeEJ3?oc=5",
-              "source": "팜이데일리"
-            },
-            {
-              "title": "HLB그룹, 간암신약 美 재도전·임상 발표…연말·연초 성장 시험대",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PSFpnSWFwTjlDdzNvMUVZX1JkRVNqQkdxOUFRam1Tc3RWa0pTNkpNQ29WbkxpcGhRWThTVC1BSGpFaElVeXE2WG9JdW5EQQ?oc=5",
-              "source": "전자신문"
-            }
-          ],
-          "description": "HLB그룹이 간암 신약의 미국 FDA 허가를 재신청했다. 3차 완전응답서한(CRL) 수령 3개월 만의 재도전으로, 연말·연초 임상 발표와 맞물려 성장 가능성이 시험대에 올랐다. 한편 지니너스는 AI가 발굴한 항암 신약 타깃에 대한 실험 검증에 돌입하며 기술이전 기반 마련에 나섰다. 오늘 처음 등장한 키워드다.",
-          "headline": "HLB, 간암 신약 미 FDA 재신청"
-        },
-        {
-          "rank": 3,
-          "word": "아시아",
-          "count": 3,
-          "articles": [
-            {
-              "title": "손정의도 이재용도 아니다…아시아 최고 부자 된 43세 이 남자",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS0hLYk5yeDB3bHRwNEVYbHZYWnh2ME5TWGpjVWxRNklVdWJ0dllkaFdDTFlRLXhHQ2xEenJ4ZGZpMmQybU1xWldyZkhEWTFNa1RhN21R?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "월가가 아시아 고객을 사로잡는 법 : 테이스트 오브 아시아",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RcFBFT3dXZnBRbDVKbDlDZFdaWTI1UGh5V0kxbUZXQmFjT2pPSU03N1JkWXJocjF1dW85dFFuZ1VlNjZzcHlkT0FKU29fZUw1TDd6SG1kMWdIbm8walY0azdrRXQyT2ZxMXloUVR3MDE?oc=5",
-              "source": "연합인포맥스"
-            },
-            {
-              "title": "후티 공격에 사우디 하늘길도 위험… 유럽~아시아 항공편 우회로 비상 - 조선비즈",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU0t0N0dnY2JkM3gzWDdDdms1VGlueDNmQnRsZERodTVFdDhsYlh1azlFVnpQTFU0cWR1M1V3MzNBaUF1TVNzSThmUWxNRVlvRV9EWFVPd25sQnAydUsyMWlESmEzd1hKZG1mMldlTmgxM19WQUJkcjJhU2ktQllGMlJ4VDR4WFVPeWdvS196VFVyMFROamF6NzhsaGYwUdIBsgFBVV95cUxOOV9FVG1TOXctYnZaSlV3NXA0eXRKNk1hV29UcVR1eUhQNkRCeWVCRmVKa2FlZWpJd1hCUmR3WGc3TjdNY05UckJNbUhXTm9sSmdxbGdmQzRVZ0xBdnNhVElwVzVJcVd0d1B6eFlBRzUxX1ZFZnB3VXMxSkZ6QzNzVDRuYWNFTVJBVVRmbk51UlR3QlBhLV8tT1AtTjROYkhndFZ1ZDAtR1I1Rm5qNnV1SE5B?oc=5",
-              "source": "Chosunbiz"
-            }
-          ],
-          "description": "손정의·이재용도 아닌 43세의 인물이 아시아 최고 부자 자리에 올랐다는 소식이 화제다. 한편 후티 반군의 공격으로 사우디 영공까지 위험해지면서 유럽~아시아 항공편이 우회 항로를 찾아야 하는 상황이 벌어졌다. 월가가 아시아 고객 공략을 강화하고 있다는 소식도 함께 주목받고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "43세 인도 재벌, 아시아 최고 부자 등극"
-        },
-        {
-          "rank": 4,
-          "word": "은행",
-          "count": 3,
-          "articles": [
-            {
-              "title": "전북은행, 국내 은행권 최초 비트코인 연계 대출",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLWhZMktxQnVPNEJjbzhwR2F5SmQwSTZGY2I2ME13aVZqTjdpX2FUTnNQVDRPOHlOV1A0d0dJRTAwR25rdHdjZk16c1M3WDNCVkRFbFhvNURCd3NKdVJaaVUyOFI1c1ZPTi1YQWxqcXliV3FRWEs5dzV1b2x4VS05dg?oc=5",
-              "source": "이데일리"
-            },
-            {
-              "title": "전북은행, 비트코인 담보대출 개시… 은행권 최초",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yakFLUHU5NlZMT0FhVnhWRjJrZWVvQkY2QUE4aHlPRjlLRGYzMjdma1FfSUI1N1RGWHJOSzNzWEpLdzA3UHF1SlRpYzdFSk9UQjR6QXBlVXVVaEl6RzlwWFdRYlQ1Q09pUERWTVVUQS3SAXRBVV95cUxPOUZXa2JFVkFmbDBYSTJ0UUU5QllrbmRnbjJMN1V0aG1JSEJPdnNZMUJsU0J6NFRwZ3FkdzRfMmVuOWRQQ25BNm5VSWpsZEJyWk4tei01QmdaTFp1aGJQTk9BcjVzajBqM2hkYzhoVUViMVlzeQ?oc=5",
-              "source": "IT조선"
-            },
-            {
-              "title": "전북은행, 모바일뱅킹 앱 내 '가상자산 거래 정보' 제공",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10Mmt1cHVuVnBKX1ctakprX0pZLXBvN0JtbXNtYWY1TGVycG5pVWFlNUdzQ20xYTh4ZUE3SXZHejBFQkxuWEZDa3Vxc18yTTltcVkxS21TM2V3YUd1LThQMQ?oc=5",
-              "source": "메트로신문"
-            }
-          ],
-          "description": "전북은행이 국내 은행권 최초로 비트코인을 담보로 한 대출 서비스를 시작했다. 가상자산을 담보 자산으로 인정한 첫 사례라는 점에서 금융권의 이목이 집중되고 있다. 전북은행은 모바일뱅킹 앱에서 가상자산 거래 정보를 제공하는 서비스도 함께 선보이며 가상자산 관련 금융 서비스를 본격적으로 확대하고 있다.",
-          "headline": "전북은행, 국내 최초 비트코인 담보대출 개시"
-        },
-        {
-          "rank": 5,
-          "word": "아파트",
-          "count": 2,
-          "articles": [
-            {
-              "title": "집 값 띄우기?… 부산 아파트 매매 계약 해지율 5년 반 동안 6.16%",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpwQVdkRk1palRZVkRQUFN4R3pyWDJfOTVwOFdMbkkyaUlWNV9vNmtjODRLcFRmOVpuazcwdHZnZ1kteXhwMjNBcVhHVlNfejl0QzcyRFFESHVTWHZnY0JHaTJ1TFhHdWltemJRNlI2bVdLREk3Q2JCZWRVTGI4RUdPWWpzZ2g2S3lGRWhB?oc=5",
-              "source": "국제신문"
-            },
-            {
-              "title": "아파트에 아이스링크를? 국토부, ‘초호화 커뮤니티 시설’ 등장에 실태 파악 착수",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Yd0RicS1ZUjZoazFSdGppWWphZF9fYWFPWnRodHpleGE0NWlmZzVibVl3M25xcGF1cjVyRDJiRWkxcG5oU1p1bmxTTTVNTFhEZ0NNa0hlY1BkUdIBX0FVX3lxTE5tU0I5MXdrY2NpaF9GMU1hVVJJTlBIRmFwTVpKRzJCZEdUWW1RNkxfWkxvcEV0cWF3d2Y0Q0V3eFhIUmZySWxweG5kem1DREtCa25RQXZWNE55WDNZdkRB?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "IPARK현대산업개발, AI로 아파트 전 세대 층간소음 점검 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42RmZKemFIZ0NPcFBqYnJjdGZjV0UyZmJDc3lEM3FuQ0lIUTNqSG1hMjVMYjBEUGpoeUtIb1ZFRGRxUXVXbGJLOFpmV0VQQUt2S0k5OTZoN2x5d2NlRlpQTXFEVWlrZW9xZVHSAW9BVV95cUxPREpoZmVIVTdzWEFPMngxeUlEdUN4LWhyQ2VYWWc4eUhxU09iTHZZZzV1VTJtQlNRMzF4ZmE3T3dHcUs4Q0FFS3d6dHVIUFptdU1pTkVoR0NLaVR0bHk5bmw2RlZTVlF0OUszUGF6aTg?oc=5",
+              "title": "\"尹성과라던 이집트 원전사업, 1.2조 손실\"...'호남 반도체' 野 맹폭에 與 반격 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwWU5OaEFMZW1ncmxWQTJhMUJBVVlGcjhTa3k0OWJ2ZUdzSFlRYnNidUtlb0RmaVNJVkFGSGF0Z0V3NjYwbDhfdUxZSXg5QkdyNWJtTnlRdElhRzhlOXE4QWVhanBMTEt3M1RiX9IBckFVX3lxTE1mcE90YkxlTzR4Yml1WnVSRXAzQ1hwSmRnOTdna1M4M0xuYkU4cWh6RU1wYVBHVHVZUDI5UWdaNUZlZExWUEFQT2ZxSnB2U0FCUFdqYzhVSlFsWmRvY3BUci1NUnF6TktHTm14NHNGTmI5Zw?oc=5",
               "source": "머니투데이"
             }
           ],
-          "description": "아이스링크까지 들어서는 초호화 아파트 커뮤니티 시설이 잇따르자 국토부가 실태 파악에 나섰다. 부산에서는 아파트 매매 계약 해지율이 5년 반간 6.16%에 달해 집값 띄우기 의혹이 제기됐다. 현대산업개발은 AI를 활용해 아파트 전 세대의 층간소음을 점검하는 기술을 도입하는 등 아파트 관련 다양한 이슈가 동시에 부각되고 있다.",
-          "headline": "국토부, 초호화 커뮤니티 시설 실태 파악 착수"
+          "description": "최태원 SK그룹 회장이 움직이자 호남 반도체 클러스터 관련 테마주가 급등했다. 한전 사장은 호남 반도체 전력망 구축 비용 1.4조 원 중 80% 이상을 삼성전자·SK하이닉스가 부담한다고 밝혔다. 야당은 호남 반도체 클러스터 사업을 두고 이집트 원전 손실 문제와 함께 여당을 강하게 압박했고, 여당은 반격에 나서며 정치권 논란으로 번지고 있다. 반도체 키워드는 5일 연속 1위를 기록 중이다.",
+          "headline": "호남 반도체 클러스터, 테마주 급등"
+        },
+        {
+          "rank": 2,
+          "word": "영업익",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"현대제철, 3분기 영업익 컨센서스 하회 전망…목표가↓\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1RjZsZ2RIVVBaUEdtV0V1SkFEOGhzLWJ4c284cUY0Y25OMzJBdUlBTVA4cUVfWmdSUl82dlhicjBhajZ0aWRuTkdTNkN3TWxMUjlTRkc3TEFDeEFPcDBneg?oc=5",
+              "source": "아시아경제"
+            },
+            {
+              "title": "'영업익 100조' 과거와 달라진 삼성전자…증권가 시선은 주주환원으로",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1leGJNWUZBTUc5OFVRbHpZU2VXTHppTGRaRW5yRW1GUkZlSDRYc3lpQmt5eVhPckd6YWVRWWY4VFlUVG5tbjVncnFwVFpzeXdHOWVScGkwa2tfTGp5UUtSdmx5LWlQZEp1R1VBaEZ0ZjA?oc=5",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "셀트리온 영업익 첫 5000억 원 진입… 역대 최대 분기 실적 경신",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sRExFcVU3QlU2Unc2d0ZiMnBkUjVQdzNwaWEzOGpVNFBFUDJIRU5fSHNQWFNlekNjYVpKOERWcWVfMFdTa0cwNnBxT3ZuNy1t?oc=5",
+              "source": "문화일보"
+            }
+          ],
+          "description": "셀트리온이 분기 영업익 5000억 원을 처음 넘어서며 역대 최대 분기 실적을 경신했다. 반면 현대제철은 3분기 영업익이 시장 컨센서스를 밑돌 것이라는 전망에 목표주가가 하향 조정됐다. 삼성전자는 '영업익 100조' 시대와 달라진 현재 상황 속에서 증권가의 관심이 실적보다 주주환원 정책으로 옮겨가는 흐름이다.",
+          "headline": "셀트리온, 분기 영업익 첫 5000억 돌파"
+        },
+        {
+          "rank": 3,
+          "word": "최태원",
+          "count": 2,
+          "articles": [
+            {
+              "title": "최태원, 노소영과 67:33 재산분할비율 다툰다…상고이유서 제출",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rbWJSU0FERDBjMS10RFhqaEpTRVpGTHh5T09SNmhqczR3X09hTFhyMXl4b1VsSGttWEt1N0p5XzVCbXhBZldlN3JRNlJ1TzRXZF9oaFFHQjZZcnPSAWBBVV95cUxNbE5YZ1gxSmowandDOUE1RzIydjZKZThDdG9iM3FXdUFaSng3NVRKSFAtbm9GSl9TellDVlpQbjdBT3ZRQjl3MVZqbUFFMjkyMEFTeEJCa3IzUC1vNkNqV3E?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "최태원 '노소영 재산분할 비율 33%'와 주가 상승 반영 다시 다툰다, 상고이유서 제출",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TOS1lTGR6MUV6TVVuQWV3cVA0Y2FtYXRiUTdLdE9uZUl5aFUxWVdMaWdTdC1YMFJTTkRWc3dzbDJ0b0pZR0djRXBwdnBjeDE1UkxVYUhDVVFyX284cVlyN3BNSTRreFQ0dkJHNVZmQXd4Rmc?oc=5",
+              "source": "비즈니스포스트"
+            },
+            {
+              "title": "최태원, ‘노소영 몫 33%’ 불복... 대법서 다시 다툰다",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXJPWFU4a0VEM0N0Ylh1RkkySFVMeUN1OTdPZ05UcHZVLXVCMWFhYW93ZDJxODVpRWlYOWdQU2JXbERsMFlnODRUbnBHSGJNZHVNRUlGUFM0Uy1IVlBIT3l3M000ZFZ3SWREZkwtVlVNVUpCLWZ4TXY1eHpvYU55VTMybTZsZzg?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "최태원 SK그룹 회장이 노소영 씨와의 이혼 소송에서 '67:33' 재산분할 비율에 불복해 대법원에 상고이유서를 제출했다. 2심에서 노소영 씨의 분할 비율이 33%로 결정된 것에 대해 최 회장 측은 주가 상승분 반영 방식 등을 다시 다투겠다는 입장이다. 천문학적 규모의 재산 분할 공방이 대법원으로 넘어가면서 이번 상고심 결과에 재계의 이목이 쏠리고 있다.",
+          "headline": "최태원, 재산분할 비율 불복해 대법 재도전"
+        },
+        {
+          "rank": 4,
+          "word": "집값",
+          "count": 2,
+          "articles": [
+            {
+              "title": "LH 사장 “집값 급락 가능성 좀 많아···지금 집 안 사도 손해 안 봐”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IS1ZHSzZMQ2c2RDVjZGFuWXBiMEFXZnRlcjdrak9DbjNwMmxPNkVOUzZtQ3FsSFhtVlBjU1J1bi1wMTUzbHo5MlA0Wkp3djQybDlsalYxMzhIUdIBX0FVX3lxTE5fdEM5T09WM1IxUXRZZTZpUW5XZnl0akZCLTBrN1JoblpTTkpucWpoNFdPb1BVTFcyN3FIV3Y2ZHNMSVpTQ0FhWHRsMllRTXEtNGNsSG9nUzZ0eWNVMTM0?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "강남도 아닌데 3억 넘게 뛰었다…집값 들썩이는 동네",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pVlRETWVER05OVDJ5cUZWcVBhYUVpUEtjTmR4elRiTHNnemJUN0VtNC1jUXZPSG1mMWtSYTY0VHBoMkdBM3hTek1Fdlc0dnppa0NOUUR3WTYtQQ?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "LH 사장 “집값 급락 가능성…지금 집 안 사도 손해 안봐”",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mTHdLUFJwUXMxNTlvYlR2SFd4OFJweGxLem1sUzM1UUIwYWhiRHBrQVN3eHBNeERIM3UwZ0Y5M0hENFJIOWlpcUEyNW1NYnhwa25Cei01LWRIajZNbm5OZUw5YW9lNXI3bWfSAW5BVV95cUxQME0zenRENklxUVU2dTM4M2dZbjMtQVFDODI3WnV5bEh3eXNCc2xnM2FNMktTU3FoeVVpTlpGc3dfbjJsa0I0YzZFbHVQWGtYT1h3VUNaejA0NTRXOXRtSFBhRldTbmdZbjV6aEJYQQ?oc=5",
+              "source": "주간조선"
+            }
+          ],
+          "description": "LH 사장이 집값 급락 가능성이 적지 않다며 지금 집을 사지 않아도 손해가 아니라고 공개 발언해 주목을 받고 있다. 공기업 수장이 직접 집값 하락 가능성을 언급한 것은 이례적인 일로, 시장에 상당한 파장을 일으키고 있다. 한편 강남이 아닌 일부 지역에서는 3억 원 이상 오른 단지가 나오는 등 지역별 온도차가 뚜렷한 상황이다.",
+          "headline": "LH 사장 \"집값 급락 가능성, 지금 안 사도 돼\""
+        },
+        {
+          "rank": 5,
+          "word": "금융",
+          "count": 2,
+          "articles": [
+            {
+              "title": "KB發 ‘인사 도미노ʼ…연말 금융권 CEO 칼바람 분다",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JZC1nWFpabVo1dlRDdkFDQjF5UVVMN0Z3U0tNdmlQa24yS1I5em9pOU9KR2lLQ0dSWmdnbWNhQjR1R3pNSjlnaUlnSlZ6T0VVMlUwQ2duMmJweWFJaU0ybTgzbGNlNXVPbENfSEltNTZXVTBFN3l0V3pvLVc?oc=5",
+              "source": "한국금융신문"
+            },
+            {
+              "title": "햇빛소득마을 대출 이자 부담 낮춘다…에너지공단·4대 상호금융 협력",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02X1h5Tk1HcnN2a2tIRnI5NFpkbG9SRVBWclRDR3ZZU3FZYjZ1bzAtaDJYNmFrak91SWxIU2xZeVVzOGxSS3UtOVppZy1MVVpiNENfWlR2UzFWb0FrNFRWM2JnN2VxWUpQOFpzM9IBcEFVX3lxTE9qM3NDSGJOME1YZU1KREFLSjMwOEZIc2dpbVBhbC13U3J6algzSi1VaTJ4dGFuZi1UQWU1d0RwRFRydGRobWtsUVNKZnlXTTVHVVg3V3JZNzZGVGxJcGZrRWlsZVhiLUphdllBcHJvU2Y?oc=5",
+              "source": "전기신문"
+            },
+            {
+              "title": "'청년미래적금' 2차 가입 신청 16일까지…희망사다리 함께 올라요",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iWHFNYWpWTVAtOC1jT0FzY0JhSVJ1RlZWM1pTZ1ZKYzNZcjVNb3FNS2ZLMHVTaWhWWEhtbUtybDNzb0llT0pQWWgzSjhFRFU3N0cxeFVyeWVES1lpVUZkUWZ3d0N6RFI2WVE?oc=5",
+              "source": "정책브리핑"
+            }
+          ],
+          "description": "KB금융에서 시작된 인사 변화가 연말 금융권 전반의 최고경영자(CEO) 교체 바람으로 이어질지 주목된다. 이와 함께 햇빛소득마을 주민의 대출 이자 부담을 낮추기 위한 에너지공단과 4대 상호금융 간 협력 방안이 발표됐고, 청년미래적금 2차 가입 신청이 16일까지 진행 중이다.",
+          "headline": "KB발 인사 도미노, 금융권 CEO 교체 바람"
         }
       ]
     },
     "연예": {
-      "summary": "김지원 주연 '닥터X' 첫 방송 흥행 · 원빈 16년 만에 근황 공개 · '암살자(들)' 논란 속 300만 돌파",
+      "summary": "이수만이 새 그룹과 함께 귀환했고, '100일의 거짓말' 배우 김현이 별세한 사실이 뒤늦게 알려졌다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "닥터X",
+          "word": "이수만",
           "count": 2,
           "articles": [
             {
-              "title": "의사 가운 입은 김지원, '시청률의 여왕'…'닥터X', 첫 주 주말극 평정",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfM0wyTk5PSllwVG9hRkZINHVKeGp3VkdVX01OQ0tIQzNuc1lMY0dhT2tDdVRqRnRUWWZPbkVPdjFwTVJUT3RSaUF4RXVONTktY0NVelVZODRVbHgzOHlN?oc=5",
-              "source": "YTN star"
+              "title": "‘다들 헐값에 팔 때 사들였다’…이수만이 20억 던진 압구정 땅 1000억 반전",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GNGU1MTkwaE0wc0dBWlI4TkN2TDlMNWdfU0NaQ3lENk9XX1UzMmhWa2g1dWlpdExQc0xITmcxMDhaVVUzYXhQemdCc2JSTUtqR3Z2S0ZxVXHSAVRBVV95cUxPWmw5bTNHSmp5VjA1eVFBNU96SzU2RkR1LTV4NEt2NHFXczlQZ0NpNVFKT0c2NjlSUnFndnAzOWJkOVFDTEpWZzhFTEFwWElTZkM3TTg?oc=5",
+              "source": "세계일보"
             },
             {
-              "title": "이틀 연속 추모 자막 나온 故 김현이…‘닥터X’와 ‘100일의 거짓말’이 전한 뒤늦은 부고",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OVzFpcHdKT3R6MUJiQktsYmV6TnJFdGNTejJNUmc2RENKOWFOSURaRkhtUFNYRXFPYWhpY1RFUUF4WWs3aTZ0OHBfR0k5NlVVcU5YcEFSLXMtZHZVemfSAWNBVV95cUxPN29uRVBrQWZZNENkX0oxSjF6al9oUFFnSXJoUXFJeE56NGZLaHZXOHFzYndJT3JOOFlZSjgxZ2dJTVNOV2pBeHM2S3E3NmU0MWJtRFJDYjZYV0lfLWR1aUExOWM?oc=5",
-              "source": "스포츠경향"
+              "title": "이수만, 15인조 보이그룹·9인조 걸그룹 품고 귀환…기술 정점서 되물은 '음악 본질'",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSUhaMm9QVjFtRU80ZWNPbFNDYTAyT3MyRmRkeXlSWURrVUEzRW95OGZRUFVuVV9XdnV2TGhLU0k4UnBaNVA0SEthbnNxeFUxRXI1cE1tRGxrelNiV3hXVThmZ2R2UEZnVVh3bUpqYjhWek9QRnMxVnFBT3NCbXg3c3dn?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "액션 배우 故김현이, 뒤늦게 전해진 사망 비보..'닥터X'·'100일의 거짓말' 엔딩서 추모",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56UXJEUXhxdmpMRW5zWkk0Vy01cjNYNnRaa2R3d0ZJMW5TNlNEalp0RkhKczlUU3JQdHk2c1VEVXZ6UlA4ellxTGZFVjRNMzZaN2wtc2FXNzB4X3kyWnBMMHEzUl9DVzRteVZrTE1jbTBRTm8?oc=5",
-              "source": "스타뉴스"
+              "title": "3년만에 국내 복귀 이수만, K팝 남녀그룹 공개",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01WVFxcVpkRjR3R1lVbi12bXdaSnhrb3hZN2tCTERnRjVEeGszMkw4QzRPZ1RfMHdhc3FJYzYteXhYYjlydTBVQVc3a2JRWmRtSXF4Rzh3N1o2OWh3bDU0SVUtUGF0MEw1X0FZdnpueWVPNi1M0gFmQVVfeXFMTUU1U3hXb1ZuUmZNdXR1ZWVZZXZId1NqYVlZc2dBSXRWcnNCQ3JlY2RaeTNKSVA2TjE0Vm5mRUprZWFUSFNpRk1TR0JNamN4c2pWdWRBYmR1VG02Z1VueUZWRzBQUnl3?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "김지원 주연의 '닥터X'가 첫 방송 주말에 주말극 시청률을 평정하며 '시청률의 여왕'이라는 수식어를 얻었다. 한편 드라마는 기쁜 소식과 함께 슬픈 소식도 전했다. 극 중 출연한 고(故) 김현이가 이미 세상을 떠난 사실이 뒤늦게 알려졌고, '닥터X'와 '100일의 거짓말' 두 작품이 이틀 연속 엔딩 자막으로 그의 죽음을 추모했다.",
-          "headline": "김지원 '닥터X', 첫 주 주말극 1위"
+          "description": "SM엔터테인먼트 창업자 이수만이 3년 만에 국내에 복귀하며 15인조 보이그룹과 9인조 걸그룹을 공개해 화제다. 복귀와 함께 음악의 본질을 화두로 던지며 K팝 업계의 이목을 집중시켰다. 한편 그가 헐값에 사들인 압구정 땅이 20억에서 1000억대로 뛰었다는 부동산 투자 일화도 재조명되고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "이수만, 3년 만에 국내 복귀·신인 그룹 공개"
         },
         {
           "rank": 2,
-          "word": "BIFF",
+          "word": "의 거짓말",
           "count": 2,
           "articles": [
             {
-              "title": "영화만 보는 BIFF는 옛말… 굿즈 부스부터 바닷가 영화까지 ‘오감 만족’[BIFF 2026]",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XVWZmckFJVkdkZXJ2Tjd3N1JVM3dwRlhvVEd5NWp0UlA0TWFCd2Z5cWtIT2k5MzY5cFRzTTg3WUNRM3RXQ2t5MWItdW9CSGZqYW1EQkxCd0J2TElOT3lSbUVqajBGMjk2UnAxaUFVV1NCWWpHZ3QxYw?oc=5",
-              "source": "부산일보"
+              "title": "‘닥터X’·‘100일의 거짓말’ 배우 김현이 추모…8월 교통사고로 별세",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CUUNNdU5tWGlxcFF6N3RyX3NXUjVmOTFYYThkMmpXVHVUUVNOakMtY0JfTElWTzZfaTh0OWNleEllczB4QWd4U0lfOVp6TngyM0g0c3VB?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "박해일, '암살자(들)' 논란 속 부산 찾았다…취소 없이 관객 만남 [BIFF]",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNVnpYZEhoTlFqbngtbmkzTVVrbkVhVFJIX041aTFrandHeWJrMzZZUkNiTUFxeURUMDBibG8wWi1tMEpTemtFXy1qNU1GNVBrV3RBdGZjbw?oc=5",
+              "title": "'100일의 거짓말' 김유정, 암살 공범으로 몰렸다…박진영과 한밤중 대치",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hdHNWb051NDc2cFBvWjJpZTlHVzhSVlh3Qk9KSWVFSUlWcTJQWFJpcDRPaXMwSHRkUzdhS2Nkam42QnEtNkdORWlHcmpiTjFuQWN4YXZ0S3lMWEU1VTE0YQ?oc=5",
               "source": "뉴스1"
             },
             {
-              "title": "동서대 앵커사업단, BIFF 커뮤니티비프 연계 ‘051영화제’ 성황리 마무리",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGhVOGc1eXlGTUxvQS0tNmpIeDJxRUlfeU9iVXl6MklmYlNSejUzRXlLVkFxUkhnbDQxUGRpSVZYdnA0NGIxSTRlY1laM2NPVG43NjRyQzNZRUV4cE5lVF82d3EwU1FwWWdrZUU1SjFEeHJMVWVlZEp6V09BTmZpSlpwTjFSb2tDWE53?oc=5",
-              "source": "국제신문"
+              "title": "배우 고한민, '100일의 거짓말 '캐스팅…기회주의자 미타라이 역할",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmVTJPZThWS0FULTFsTEhadldVNDhYbE5RMTdTVlJNeEU0Slo0bnRmY2ZGSGRiZE00NFRPT2hNV1ZlWDJza2MzdHlnV2hKRENNWEE?oc=5",
+              "source": "노컷뉴스"
             }
           ],
-          "description": "부산국제영화제(BIFF) 2026이 굿즈 부스, 바닷가 야외 상영 등 오감을 자극하는 다채로운 프로그램으로 관객을 맞이하고 있다. 영화 '암살자(들)' 논란 속에서도 박해일이 부산을 찾아 취소 없이 관객과 만남을 이어갔으며, 커뮤니티비프와 연계한 '051영화제'도 성황리에 마무리되는 등 영화제 전반이 활기를 띠고 있다.",
-          "headline": "BIFF 2026, 굿즈·바닷가 상영 등 색다른 변신"
+          "description": "드라마 '100일의 거짓말'에 출연한 배우 김현이 8월 교통사고로 별세해 동료 배우들이 추모의 뜻을 전했다. 극 중에서는 김유정이 암살 공범으로 몰려 박진영과 한밤중 대치하는 장면이 방영되며 긴장감이 고조됐다. 배우 고한민의 신규 캐스팅 소식도 전해지며 작품에 대한 관심이 이어지고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "'100일의 거짓말' 김현이 별세·극 긴장감 고조"
         },
         {
           "rank": 3,
-          "word": "원빈",
-          "count": 1,
+          "word": "리센느",
+          "count": 2,
           "articles": [
             {
-              "title": "48세 원빈 '단발머리' 근황 포착...'아저씨' 이후 16년만 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LOVU4WmlXRHpqclRNUGQxMDJwUlhNLVVtc3ZvMjFRSnFpeGRZRmU3ZVNhS24ybUxtS05sNzdfM1VFYmhHYjg1T3FXSmVKcVJEM2JmaHBTcElNUDNlME5oeG9ibmU3LWhPa1dSUktDbjZKQzTSAXhBVV95cUxPRUN2dWNKRm5UT1lRNF9RZUxpZGZXa3hOU3FGVnpBSGJCQTNOLXN4REx5OS15YTFucjJ1LTdfenhWNXhTM0pUWnVqVnczUVA1T2l4LWNGOE04RDdtNHAySkZkTWRsdklLS2poX0ZhQ3BaRXRRU01WWE8?oc=5",
-              "source": "머니투데이"
+              "title": "“러브 어택” 리센느 등장에 ‘2026 고스트 페스티벌’ 무대 열광",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjcHhRSzY0ak1CaFQ3M19FWGZmLXB6Mjh4MzZTN3NMckFyalJuampycUNhSTJOemI2RVcyLVIyYmtxZTY3NFZQSGdUNkNUOGZ2VDgxSDZsakpTTDg?oc=5",
+              "source": "경기일보"
             },
             {
-              "title": "'아저씨' 이후 16년 공백…원빈, 단발 근황 포착 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FQ3Z1Y0pGblRPWVE0X1FlTGlkZldreE5TcUZWekFIYkJBM04tc3hETHk5LXlhMW5yMnUtN196eFY1eFMzSlRadWpWdzNRUDVPaXgtY0Y4TThEN200cDJKRmRNZGx2SUtLamhfRmFDcFpFdFFTTVZYT9IBeEFVX3lxTE9FQ3Z1Y0pGblRPWVE0X1FlTGlkZldreE5TcUZWekFIYkJBM04tc3hETHk5LXlhMW5yMnUtN196eFY1eFMzSlRadWpWdzNRUDVPaXgtY0Y4TThEN200cDJKRmRNZGx2SUtLamhfRmFDcFpFdFFTTVZYTw?oc=5",
-              "source": "머니투데이"
+              "title": "리센느, 8월·9월·10월에도 \"야호\"..걸그룹 브랜드 평판 '평정' - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0ZqT1Rud05yYngwYzhLQzdmZGVpWmhTcFV2Y25PTWtEdWdyU3c2ZHZoeTJnTW5adzd2b1FoRDlVN1ZNTTd2UDFnYU1sSDBoT0lwdzlSa1lNNVFUS1J4cUlDV1QyTXBjLUJJbWE5eWw0OTY2bm9POUtrZDZNb0RSQk1nal9SNm01eGNmUS0yYjNoYkHSAacBQVVfeXFMUHJ3RWdBaEZpU3c0a1R5M09INHM1d1NzaUUwcGQzcGI4YV9qV21TNFNlMV9sUnRrZFhUUEM3dXR4R05hV2FtY2NjZzhFOUc5Yk5pTHpsNzViYjRIdFI4OE5ockE2cFU5VEY3cjV2VzcxckpCN3BSVTVDcXFESm92UDlXbU91Y1U0bzU5dzZ4aXhsalJ6cWd0VFBjY2h0c0xBLXJ1YVpGckU?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "16년째 연기 끊은 원빈, '단발' 근황 포착 [스타이슈]",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CelVQa3NMeENrSllzblRVdzhZaXJZeUtfOG5SOGxSU2UtbmdwbjdNODl2ZW9Xc0prS01acTlfc0p4QVVQUWFBYXNpblNsNmM4Sk04T1F0cF9hQ3B0aklud09OUXRxSFhiMHJMNmhyRmo1TlE?oc=5",
+              "title": "1위 리센느, 2위 아이브, 3위 블랙핑크",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54RlRMNWItb1ZfNjFNOUxmUGc0OThzS3FvYUxqUERHWjJ4azMtQzlQTlNXeUxwTE9aRURnaW9BQXU3azVmcGR0R05ILXRZa2UtVGR6dTZjYnNmS1F6alh0cmhBUVpXX0lJakVwaEUxbXZJQVZr?oc=5",
               "source": "스타뉴스"
             }
           ],
-          "description": "배우 원빈이 '아저씨'(2010) 이후 16년간 사실상 공백을 이어오는 가운데, 48세가 된 그의 단발머리 근황이 포착돼 화제다. 오랜 공백에도 여전한 외모가 눈길을 끌며 복귀 여부에 대한 관심도 함께 높아지고 있다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "원빈, 16년 만에 단발 근황 포착"
+          "description": "걸그룹 리센느가 8월부터 10월까지 걸그룹 브랜드 평판 1위를 지키며 독보적인 인기를 이어가고 있다. '2026 고스트 페스티벌' 무대에서 '러브 어택'을 선보여 현장 열기를 끌어올렸다는 소식도 전해졌다. 브랜드 평판 2위는 아이브, 3위는 블랙핑크가 뒤를 이었다. 오늘 처음 등장한 키워드다.",
+          "headline": "리센느, 걸그룹 브랜드 평판 4개월 연속 1위"
         },
         {
           "rank": 4,
-          "word": "김건모",
-          "count": 1,
+          "word": "미우새",
+          "count": 2,
           "articles": [
             {
-              "title": "‘성폭행 무혐의’ 김건모, 얼굴 확 달라졌다…밝아진 근황",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wcktCcUV2LWd4NjNzcEhvbnBYejBmZVJkbFhfVmJ2dkMzcHBHZFVnSnlITjIzdlhaUjFtRzk3bmVpMlJiRTh1RFpySkZEZVNYVFNWU3E0M3M3TkptLS1RZWc3MElDYkNudXFwUVBB?oc=5",
-              "source": "스포츠동아"
+              "title": "김민종, 할리우드 진출 무산에도 MC몽 용서…“진정성 있게 사과했다” (미우새)",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mTkZYRkVORFdZcUFzNUtvSjJFaDVyLXRvMkppeDlxSHYyMGpiUjNOUHk5Y1dkY2FvdUN5U3JGZ0JHT0RZOWhxemZhNWQxU0lramstT0kwU3lzSy0tMnfSAWNBVV95cUxOZHc0ZDllNG5rRU5KcGFyb3JGOEFwdGprSEFaT202UlhfTVNxTzJzbTZ0S0pzcEg1eTUyS1N1LUZNcW50cWxEQzVuSjZVSU5PeUJteEE3QUpiNEpIWk1HOC1sU2c?oc=5",
+              "source": "스포츠경향"
             },
             {
-              "title": "성폭행 의혹에 이혼까지…김건모, 드디어 ‘기쁜 소식’ 전했다",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVF8ycE9uc2hEN21CRW5JTGlTTk5ITU5DcjVWNi11dEItWXh6OE1McVU1QV9pMFpETU1nVWZYZE1hQ3g5ckIxN0cyZFZDMDFMZnoyRGVNR05EYnRyUzFVcjhDclRIMVFlUzFIY1ROWHYwZ2tfVGxCUFFnU3pEdEluaWlFblVCdw?oc=5",
-              "source": "서울신문"
+              "title": "미운 우리 새끼 : 김승수, 유학 다녀온 민지수의 마음 사로잡기 위해 중국어 실력 총동원",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JY0JoUzFYQjhFVnY3aXV4Zi02eUVxa0tKaWxxRzBaTHAxSGhsbGR2Qk9TRmxUZUR5eUJLeVRLZ091UTJTekhjVURLdF9wNmJZbF92Y002ZjJ4VnBmcE05WDRxdVI5X3p3Q3lGTWZ3?oc=5",
+              "source": "programs.sbs.co.kr"
             },
             {
-              "title": "김건모, 복귀 후 한층 밝아진 모습…\"전주에서 만나요\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rT3ZvYU9jQW5iczExc3ZoZzNxV2ZjYU9nSHlNZmpBa1RoYlEtY2lHbEk2bzRSRUIzWFZXODJzQWR0NW5QQVNmd2JtTENZXzI4c2VIcjFQeFlRT3ZBZzdfeEpVNkFCbjFvT2NkX0NCY1dHZ2ZDU2Y3WdIBeEFVX3lxTE9rT3ZvYU9jQW5iczExc3ZoZzNxV2ZjYU9nSHlNZmpBa1RoYlEtY2lHbEk2bzRSRUIzWFZXODJzQWR0NW5QQVNmd2JtTENZXzI4c2VIcjFQeFlRT3ZBZzdfeEpVNkFCbjFvT2NkX0NCY1dHZ2ZDU2Y3WQ?oc=5",
-              "source": "뉴시스"
+              "title": "'미우새' 소이현 \"셋째 낳고 싶은데 인교진이 절대 안 된다고\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tZU04alZZdzJHN1RTUlBpVkFpTnZyOVpoWFRUeEg3Y21Ib2NBSElJbGYxUVlnSzhCTFhaQnVhN1RyaHh4T3h1djlodXBfVko3dE9FeENIQUgtUEpicFBEdw?oc=5",
+              "source": "iMBC 연예"
             }
           ],
-          "description": "가수 김건모가 복귀 후 한층 밝아진 모습으로 근황을 전하며 화제다. 성폭행 의혹으로 무혐의 처분을 받고, 이혼까지 겪은 파란만장한 시기를 보낸 그는 전주 공연 소식을 알리며 팬들과의 만남을 예고했다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "김건모, 복귀 후 밝아진 근황 공개"
+          "description": "SBS '미운 우리 새끼'에서 김민종이 할리우드 진출 무산의 아픔을 털어놓으면서도 MC몽을 용서했다고 밝혀 눈길을 끌었다. 김승수는 유학파 민지수의 마음을 얻기 위해 중국어 실력을 총동원하는 모습을 보였고, 소이현은 셋째를 원하지만 남편 인교진이 완강히 반대한다고 고백해 웃음과 공감을 자아냈다. 오늘 처음 트렌드 키워드로 등장했다.",
+          "headline": "미우새, 김민종·김승수·소이현 사연 화제"
         },
         {
           "rank": 5,
-          "word": "암살자",
+          "word": "국힘",
           "count": 1,
           "articles": [
             {
-              "title": "암살자(들), 국힘·극우 공격에도 300만 관객 돌파",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpbXB6SGlUZzRfenhjQjRvV0lTZnFlOVJSZnZpYWE5ak9GUmg3YTBPTXRYYnNKc1lMalU1Z0VfdkZURWRhZENBMW9pcU5kcllIa2Q1RUNiWlo5WlRZMDZhSmJlVm9rUC0tOUVkSHJvdWJ1dw?oc=5",
-              "source": "한겨레"
+              "title": "이 대통령 지지율 35.2%…국힘 41.3%·민주 35.5%-리얼미터",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hMkxycW12bGFXUEVsTEtzZXRPcTM3a0pobDA2eHJyOV9qbUtOdklSZm5uMWJuQ2hPVjM0X3p6UFdjNXMzWUJfdnRQaWpVb2ls?oc=5",
+              "source": "문화일보"
             },
             {
-              "title": "\"영화 '암살자(들)', 역사 왜곡\" 박근혜 사저 앞에서 규탄 집회",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmZ0xaV2dhVmhrY2sydWhQVVdNRURVd2xfZm15dHQ3S294alZUUEpRanFvX3FvNG84NmtxeTRXVGxHYU9Kck5DVEJKVmExZHYzY2V3bVpKVWhVaWtWTUI1YdIBeEFVX3lxTE9LMUlmcFZJeDAtODJ6WDU5V0gzOGtqMjJfcGNWdUNjNElEZGs3Y0k1NjlqaHNMSjRSR05NTjZYQmFrTjBiMzZlUnJSbi1QdW5ZTHhVNUVzOUNWNC01Yi04QkpuYUdXWm0yRXpFSkxKNGcyUm1CdkZVZQ?oc=5",
-              "source": "뉴시스"
+              "title": "국힘 지지율 41%로 올라, 35%에 그친 민주에 역전 [리얼미터]",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2hManI1V0VYRnhHVS1tR2JNbDFxQ1pSWXl1TmNHNm9YSGMzUHlJYzVMSEotQ01rSkV5TFlCcWlkYnVETjQwcVRsRlo2dDRmV2I1X2tmbEdjNnlIclVZNmkwUjhDUDlwd1BTNE5TT2JsdFdDTTJITHNmNnRyRlJPcDVrRDRqQQ?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "문체위 국정감사, 암살자(들) 공방…\"12세 관람가 왜?\"·\"인위적 개입 안돼\"",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RWENMS2c3cEU5OVdETlFWMjRtVjZLQUd6d2w4UGxtdlRtaGlaVlN5SU9abjBSeVIxbVJXZlhvZ0tGMjhoXzNab2RRS0hFeHFsaVRENWxSeldlbXN2Q1ZvNndxTW0zcXE5U1E?oc=5",
-              "source": "SBS 뉴스"
+              "title": "민주 35.5% 국힘 41.3%…李-민주 지지율 동반 하락",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53dkFPelpqcXlRV1NsaTdUTFNhRFBvNU9IVW5kWWpNQXFlOXJvNDR5SkpmLV84ek8yM2tOUjFRd1Yxa2ZYT3MxeHJCdXZ3NmEwTEZzQzVsOEFTaXVNT2ZrS3pQSXBLaFloWUpZNHBR?oc=5",
+              "source": "폴리뉴스 Polinews"
             }
           ],
-          "description": "영화 '암살자(들)'이 국민의힘과 극우 진영의 공격에도 불구하고 관객 300만 명을 돌파했다. 박근혜 전 대통령 사저 앞에서는 역사 왜곡을 주장하는 규탄 집회가 열렸고, 국회 문체위 국정감사에서도 12세 관람가 등급 적절성을 놓고 공방이 벌어지는 등 영화를 둘러싼 정치적 논란이 이어지고 있다. 흥행과 논란이 동시에 달아오르며 연예·정치 양쪽 화제의 중심에 섰다.",
-          "headline": "'암살자(들)' 정치 논란 속 300만 돌파"
+          "description": "리얼미터 조사에서 국민의힘 지지율이 41.3%로 올라 35.5%에 그친 더불어민주당을 역전한 것으로 나타났다. 이재명 대통령 지지율은 35.2%를 기록하며 민주당 지지율과 함께 동반 하락했다. 여야 지지율 격차가 약 6%포인트로 벌어지며 정치권의 주목을 받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "국힘 지지율 41%, 민주 역전"
         }
       ]
     },
     "스포츠": {
-      "summary": "손흥민 관련 한국 축구 내분 및 대표팀 운영 문제가 부각됐고 · 양궁 레전드 기보배가 런던올림픽 장비를 국립스포츠박물관에 기증했다.",
+      "summary": "롯데 김태형 감독 재계약 불투명 · 차준환 선수 활동 중단 · 두산-LG-KIA 포스트시즌 경쟁 치열",
       "keywords": [
         {
           "rank": 1,
-          "word": "손흥민",
-          "count": 2,
+          "word": "롯데",
+          "count": 4,
           "articles": [
             {
-              "title": "상처난 '캡틴' 손흥민 리더십…변화는 불가피하다[한국축구 내분②]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VZi1sUkdyOG9wc2VnZlEydzdWRHgwNGdKZWs0WVlzNDZiYXZscUZDT2JUeDdXTjlTbjRqMlA4ZXNTSzFuVWVzeTBiV1VqTmpYZDRnV3ZjczExZVhLaEdTX9IBeEFVX3lxTFBNaWIzby1sYmpjWUY0UkZ1Y0tpbmg1NkxmYzh0QWNYREtSZDE0VU95ODkyVTdTMXJLV3NTb0lmU1p6amhFLW1sOVJVa0U1a052U3NIVFRDeUJmazRUdDFkVjZ5NE5ERWFRWW93T1Fxa2h3WW5MYm5pMA?oc=5",
-              "source": "뉴시스"
+              "title": "‘7위-7위-7위’ 김태형과 롯데 동행 끝났다, 이대로 결별인가…“최선 다해준 선수단 수고많았다” 끝인사는 남겼다 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmJtaXlRRVhjYXY5Ty1qMmZzc1pRbmNGYTFuMjY0el80ckJyaURSXzJMdGtsdWtRUl90Zm1DN1k4MDZDbmNleHkzV3VncTJzQm41aDF4TGZVRzdySjFXYkZHdlNxcjctVTVKYWdNdUxvRjZoRTNDeEZadlg4ZFBlSjBXRdIBlwFBVV95cUxORWVuc3JGU1cxb3R0SnNpZGZWYllla0l3OHlvWS1FNXAwM29tdzNuUjhTVDJSZVBIdTFmV1F5ZlUxNXQwWlQzUTg3NGM3UWNlNENnOS1IcTZvWHBkaFBmeHY2MkdCbWtIYk5NN05yeDVDQXNqVTlvOWFVNi1kcDAxemgwRmk1NXJrcnpRcVZsalYtYU91ckZJ?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "손흥민 퇴장 유도에도…LAFC, 10명 싸운 밴쿠버와 1-1 무승부",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUN1FSdTZsUTVqT2laNTBSVTU0QnVxWkM1LXBESlEwLVBGNWhyaXJFWW1LclZJLTQzVVFLU1lEdjhDeVQ0QmxiN0lQdFc1NGxzYUwwZEZPbXR0ZkNoZkJKYdIBeEFVX3lxTE9Xc1E5clJkblh5WGw2MWZ1UGhKYnFETmJrbVdfaTVGSzQ2NXJfT3l4M3RZN0ZIT2Jpb2wxQ1hld2ppdnV1VEhyZ1FMT19uaG9nckxZUzBqcHBtaXplZ2NuYWNwNEIwdjVHVm5waDNzUWpwalZUTkFBSw?oc=5",
-              "source": "뉴시스"
+              "title": "롯데 김태형 감독 재계약 가능성은 → \"이틀 안에 결정 나겠다\"",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04U1BLbnpEdEhMWFBVcFZjYUVWSXd2RS1SZUl4MlFzWVc5SkZ6eTFDX0FpN3o3c3I2TUlHMTE2STBHTjdaVnAyeHAwZU9aWkliTFRaQlJZSFdmRHBEakJ5LWQzVFZDMDFFVzExZU1fd2l2SVJNUEQxc3ZhYUFLdw?oc=5",
+              "source": "스포츠조선"
             },
             {
-              "title": "\"평생 기억할 순간\"…손흥민, 새치기에 울컥한 어린이 팬에 '특별한 사인'",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81a3loVnVhNWNBX1ZYUXpiYjd1c2NWbWx4WlJQYmRQR1NyaG5jRnJ4UzA4anRaZFhJRUNTZ3dXQnR4QldrdlpKR0sxTndNNVBGMUNaX05URVVqVkRnVlBQellITlZ0YkgxOTVNZDlpVmZaaE94T3Nn?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "한국 축구 내분 논란이 이어지는 가운데, '캡틴' 손흥민의 리더십에 상처가 났다는 분석이 나오며 변화 필요성이 제기되고 있다. 클럽 무대에서는 소속팀 LAFC가 10명으로 싸운 밴쿠버와 1-1로 무승부를 거두는 과정에서 손흥민을 향한 퇴장 유도 장면이 화제가 됐다. 한편 새치기로 울음을 터뜨린 어린이 팬에게 특별한 사인을 건네며 훈훈한 모습도 전했다.",
-          "headline": "손흥민 리더십, 한국축구 내분 속 도마 위"
-        },
-        {
-          "rank": 2,
-          "word": "신인",
-          "count": 2,
-          "articles": [
-            {
-              "title": "‘신인감독 김연경2’ 선수, 멤버 명단",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QSnNCa0tmUHBubTlEcHRrOEtCbmNLTDY4emhCZ2tZV1pzWTVTMVB2QXRMU2dpOEVvNGFNVHA0SmdDT0hiVWo3UVhmYVdWZE9Ualo5ejlhUklYWGZzdTRDMTgzUG8?oc=5",
-              "source": "BNT뉴스"
-            },
-            {
-              "title": "이래서 경력직 뽑나…김연경, ‘신인감독2’로 제8구단 창단 청신호 [돌파구]",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55Y0FWZk0xa3FOakMyc3hZU3BSdzhnNUZIcllucmxvSTRDeVBXOGV0NGd0cTlvU1gwMDFkOXJTMHpqc1hpQkttbEJJODU0MUt6a0ZHN3V3eU8?oc=5",
-              "source": "매일경제"
-            },
-            {
-              "title": "'신인감독 김연경2', 김연경의 독한 귀환 통했다…시청률 최고 6.6% [종합] - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HanBLMnUwaG9BUmdmcVFBS3BxUnFwYm94R2EwTC1pdWhhNjFUVWJXUVZOeU94RnBZOWlzMDhaRUIxUzlEeDhnQ3p3eWgtZlNETGJqU3Jqa2k0dXpVTVl4UGFCdnZEcFIxdUJCcXExTFpwVHRuN3pOVtIBeEFVX3lxTE9HanBLMnUwaG9BUmdmcVFBS3BxUnFwYm94R2EwTC1pdWhhNjFUVWJXUVZOeU94RnBZOWlzMDhaRUIxUzlEeDhnQ3p3eWgtZlNETGJqU3Jqa2k0dXpVTVl4UGFCdnZEcFIxdUJCcXExTFpwVHRuN3pOVg?oc=5",
+              "title": "'잠실 마지막 페넌트레이스 승리자축' 롯데자이언츠 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wMVBocmQxdEFkdHNTNXBTcVVfMExRZXJQa0MzYUJNTDlQWDlUdDFJSFQ0OGV5enN4SnVXRTlRbjE5RzV1QmwtMGZ2ajdUNUlBMF9ndUY4RlFuNVZRcGliVDAwOVRjamdjTUHSAW9BVV95cUxOLVBQclJjeVpHb0twRHNhVEJaeFlieXNnVWFIUThkbnd4b0V4Z3A4SC1tZXdLVkh0QlkwQjZkcXRNZXpaZVk3YTdqZVpGUGVNMkxLd1kwVUtzaVBCcXFZXzVqX2J2MzJMc1VkSTFUWWc?oc=5",
               "source": "머니투데이"
             }
           ],
-          "description": "김연경이 출연한 프로그램 '신인감독 김연경2'가 시청률 최고 6.6%를 기록하며 화제를 모으고 있다. 김연경의 독한 귀환이 통했다는 평가 속에, 제8구단 창단에도 청신호가 켜졌다는 보도가 이어졌다. 오늘 처음 등장한 키워드다.",
-          "headline": "김연경 '신인감독2', 시청률 6.6% 달성"
+          "description": "3년 연속 7위에 그친 롯데자이언츠가 김태형 감독과의 동행 종료를 사실상 선언했다. 김태형 감독은 선수단에 끝인사를 남긴 것으로 전해지며, 구단은 이틀 안에 재계약 여부를 결정할 방침이다. 정규시즌 마지막 홈경기에서 잠실 원정 승리를 거두며 시즌을 마무리했지만, 감독 거취 문제가 최대 화두로 떠오른 상황이다.",
+          "headline": "롯데 김태형 감독, 3년 연속 7위로 결별 위기"
+        },
+        {
+          "rank": 2,
+          "word": "활동",
+          "count": 3,
+          "articles": [
+            {
+              "title": "‘피겨 간판’ 차준환, 선수활동 중단 선언…“오랜 고민 끝 결정”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CeW80anZFNVpWVTR0d2FlVjl6T011RlVZaWFJdmFEcVJsTUhNRmZ5aGU2M2FDTWJBWWF0eW1kenVwc1VhWWRvZlkxSGp5dHFoSkJ5cGh3?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "피겨 차준환, 선수 활동 중단 선언…대중문화 활동에 전념할 듯",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdk93WlViSEZBS3E1T2YwZUhoVFpSdjRFMlFjRkRKeFNfeEVmQWcxSHZOQUZkUXZTWGI2N1djS0o2bGlIek5zRGhFZUJQa3pSNUhFS21aazhNVFHSAWBBVV95cUxNMnQzUzlFV3hzWHotdkNOdTFLQTB4d0RjVEMxX2IwelowNktzSUc4aVZuTmhCNHRfdHF0SHFvaFFlbEJ6TWZGM2dnSjdvdGtxYVhoaHVKel9renQxVlNsTTY?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "피겨 차준환, 선수 활동 중단…\"앞으로의 모습 신중히 고민\"",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Tbk5pdWQ2aUQ1NTJ5eGE5QWZHMG1WN3hidDE4ZUhyMXlyU2dkTUF6aVV1SkQzWGtYRmdXMkg3UGxUYWpjRF9XT25sMVdMdXBRSmdlcmluVlJHZXRtVG5nVmxmWWNESFU?oc=5",
+              "source": "연합뉴스TV"
+            }
+          ],
+          "description": "피겨 간판 차준환이 오랜 고민 끝에 선수 활동 중단을 선언했다. 앞으로는 대중문화 활동에 전념할 것으로 알려졌으며, 본인은 '앞으로의 모습을 신중히 고민하겠다'는 말을 남겼다. 오늘 처음 트렌드에 등장한 키워드로, 국내 피겨계를 이끌어온 간판 선수의 전격 은퇴 소식이 큰 반향을 일으키고 있다.",
+          "headline": "차준환, 선수 활동 중단 선언"
         },
         {
           "rank": 3,
-          "word": "전설",
-          "count": 2,
+          "word": "두산",
+          "count": 3,
           "articles": [
             {
-              "title": "’양궁 전설’ 기보배, 런던올림픽 활·화살 기증",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lcHlpVTdfMU8yM1FxeU9IZkFaU1RKY0UwSWhmSGo0TVdaMllhZThrTTVmV2hUaTM1NDQ1Mm1mc25uQll6Zm94aC1pZXV1bzAwc2RqUXZrSWV4Qjd3MXdCTlloVkg4M00?oc=5",
-              "source": "연합뉴스TV"
+              "title": "잠실야구장 정규시즌 마지막, 응원하는 두산 팬들",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrSzV6RERYRF9ydmhleTctdWVRZGxHc3dFU0JjaWh4dlRreFhhWEh2dlk4b2FUWE1qTW1reGtac2FLbGVqRWVRRkRycHBlakJxWkNBWmFWZHotRTdjZHlRY0NVRmtjUQ?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "'양궁 전설’ 기보배, 국립스포츠박물관에 런던올림픽 활·화살 기증",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QTDZMdUNnMUhPeFI0X1J5WlRiZUQzM0VuZ3VaQVlGYVZvbndHOXVDa0xxTlktelRXMzdsWEdZY1lGNlNHbzFNVzR6NTRPV3R3SjhOZTBhenNuYlhJS2trd1d2aHBfOXdWWTFmSFVoeHpjd1HSAXNBVV95cUxOUEw2THVDZzFIT3hSNF9SeVpUYmVEMzNFbmd1WkFZRmFWb253Rzl1Q2tMcU5ZLXpUVzM3bFhHWWNZRjZTR28xTVc0ejU0T1d0d0o4TmUwYXpzbmJYSUtra3dXdmhwXzl3VlkxZkhVaHh6Y3dR?oc=5",
-              "source": "한국일보"
+              "title": "충격! LG 4위까지 떨어질 줄이야…잠실 철거→라이벌 와카 성사라니, 업셋 노리는 5위 두산 “우리에게 뒤는 없다” - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tYVVEQmw2YkhRV3g0cF94cnAtQ2t4VnBKSDVJQWdkdzZrMzRTdUxpTGJtNUszVWt1endreE42ZFItSmJCMlktazlJcXY4cFl3TjVsQzNGTVBBbEFGZ3h4eGc0X050dkZmekHSAW9BVV95cUxPRks2aEM4bHJ5RGVXblpGMy02M1hIZFpNUTQyY1ZrNTlCcTFHOHpoUFFNclhGcTJGd3lCQmVKTS1ZZW9LSjVxWEVvN1lNVWpuVUFMMzVoVDlDX2pGd0plSEZ4bS03TUh3VkxjN1VteG8?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "양궁 전설 기보배, 국립스포츠박물관에 런던 2관왕 활과 화살 기증",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYWk9SMU44M3Q1bG16OGVQZG5Wd1NHa19waE82VWxsQ1liN3NucXpKSHpZUktiRnRfNXczLVduMWh3VWQxZGVIclZCY2d2bC10bHc?oc=5",
-              "source": "노컷뉴스"
+              "title": "역투하는 두산 선발 이용찬",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NeXVDYTFJWS10SUZyazBBZFVsdVJ0eEQxaVZiMlZDWXlhU0hQaXI1Y2hoTV9aazJBWjR3NGRsMThncUVZTnpjVFhaUnlNYTJBcmdZai1RZ1FqWU9xc2g1Vg?oc=5",
+              "source": "뉴시스"
             }
           ],
-          "description": "양궁 스타 기보배가 런던올림픽에서 2관왕을 달성할 때 사용한 활과 화살을 국립스포츠박물관에 기증했다. 올림픽 역사를 함께한 장비를 공식 기록으로 남긴 이번 기증은 많은 주목을 받고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "양궁 전설 기보배, 런던올림픽 활·화살 기증"
+          "description": "두산 베어스가 정규시즌 마지막 잠실 홈경기를 치르며 오랜 홈구장에 작별을 고했다. 5위에 자리한 두산은 4위 LG를 압박하며 와일드카드 결정전 진출을 노리는 상황으로, '우리에게 뒤는 없다'며 업셋 의지를 드러냈다. 창단 첫 150만 관중 돌파와 함께 구단 레전드들이 총출동해 잠실과의 마지막을 함께했다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "두산, 잠실 마지막 홈경기서 5위로 와일드카드 노린다"
         },
         {
           "rank": 4,
-          "word": "삼성",
+          "word": "관중",
           "count": 2,
           "articles": [
             {
-              "title": "‘주 60시간’ 삼성전자 연구직 또 ‘과로사 산재’…메가특구 노동특례 우려 커져",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90QXF5SnFuWklLYnZBLUFWbjFleXdtaWRaZWlucklpU3Z6d0ViNkJ2T2VaZlRpOEtVZ2JCZF9hQ19zQjA4Tm9OUTRId283SGVYQk1hVm14SDY5Tm5GZlJMTWVXcEU?oc=5",
-              "source": "한겨레"
+              "title": "“그동안 고마웠다, 잠실” 국민감독 베어스 레전드 총출동! 두산, 150만 관중과 함께 잠실에 작별 고하다 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBES1czajdybDFYMnZWUFNxSXFVYVBQUE5RcDYwVjhPRXB6cF9mSWVPRm5IVDNwTlo0MXMwaTM4OTEteTVRbnV1dW5HNGZKRWN0cE5DeTBJM2stSGo2bnFhX2RNVnp1OEFveUNRZWFvb9IBb0FVX3lxTFBES1czajdybDFYMnZWUFNxSXFVYVBQUE5RcDYwVjhPRXB6cF9mSWVPRm5IVDNwTlo0MXMwaTM4OTEteTVRbnV1dW5HNGZKRWN0cE5DeTBJM2stSGo2bnFhX2RNVnp1OEFveUNRZWFvbw?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "\"갤럭시S27 울트라, 화면 확 바뀐다\"…3가지 변화는",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zUm51ZHFJdUUyaUdLX3hHbXVhSVJhRkQwX1NMb0tuTk13UkNEWjNCUXdYczJadkp3Yk13SnhIRmRjUHB6Vy1MenpXZ0g3TGRMSDA0NGx3?oc=5",
-              "source": "지디넷코리아"
+              "title": "“그동안 고마웠다, 잠실” 국민감독+베어스 레전드 총출동! 두산, 150만 관중과 함께 잠실에 작별 고하다",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rQ2MxLWJWSVh5QjdJWEhnbmtRcVFhTXBlSlRKM3ZBWE1JUlRjYV96N0R2YzFOTXRvOGRxNF9La0tTVzBxTzM3TnNrbGYyRktUTjBnZXJpdW51aDYxek5iaVBR?oc=5",
+              "source": "미주중앙일보"
             },
             {
-              "title": "갤럭시S27 울트라, 스냅드래곤 칩 전량 탑재할까",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uQVQzWFIwZWdaeHlaR0JSRVpJZG5mR0Jib3pRTmFTbjJ0SU43SzJGWHRScEtSMF92eVNzTDVhUjVBRElyQ2x5UEpxYlQyMkw2eldadnVR?oc=5",
-              "source": "지디넷코리아"
+              "title": "두산, 정규시즌 마지막 홈경기 매진…창단 첫 150만 관중 돌파",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05YW5zS1Z1bFhqMmZwSzlwa09jUTdUbXRnM3VvZmFaaF9vT3RWM0xLMTZIM1ZheXFHeS1QMzM0aFNHa18tUzBsaGtxWDM4dWVFcTV6VllLWQ?oc=5",
+              "source": "뉴스1"
             }
           ],
-          "description": "삼성전자 연구직 직원이 또다시 과로사로 산업재해 인정을 받으면서, 메가특구 노동특례에 대한 우려가 커지고 있다. 주 60시간 근무 환경이 다시 도마 위에 오른 것이다. 한편 갤럭시S27 울트라의 화면 변화와 스냅드래곤 칩 전량 탑재 여부 등 차기 스마트폰 관련 소식도 함께 눈길을 끌고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "삼성전자 연구직 또 과로사 산재 인정"
+          "description": "두산 베어스가 정규시즌 마지막 잠실 홈경기를 매진으로 채우며 창단 최초로 150만 관중을 돌파했다. 국민감독과 베어스 레전드들이 총출동해 팬들과 함께 잠실구장과의 작별을 기념했다. 내년부터 잠실야구장이 리모델링에 들어가는 만큼, 이날 경기는 팬들에게 각별한 의미로 남았다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "두산, 창단 첫 150만 관중 돌파·잠실 작별"
         },
         {
           "rank": 5,
-          "word": "하루",
+          "word": "끝장",
           "count": 2,
           "articles": [
             {
-              "title": "모레노 감독 짜증날 만하네…\"훈련할 시간 이틀 있었다\" 경기마다 외박이 하루 반나절→'졸전' 경기력 이유 이거였나",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oeElMTldsWUZZc21wSVRDNi10emt2Z0czZE1raFRZRU9TUUpMQVZFOEJiZ1c1dlExa3lxNGRqYVdsM25QTDZTNWRDYi1weDY5bnpaUw?oc=5",
-              "source": "엑스포츠뉴스"
+              "title": "LG 대 KIA 끝장전, 선발나선 양현종",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rUjdLbWtaMk9VVGxwM0k2WUExVHdUN1FtM3FVM0Rrd3RCSjhsOU81SnllRHhTZ1laRUt1VnlQOEZUS0RVVkgtYnZudWFnM3JoY1VNbHh6ZXo0TGFVZS13MA?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "‘모레노호 2승 1무 1패’ 한국 축구, FIFA 랭킹 32위 유지",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zTFhOejZMMGZrNFREa3RsM1ZySW1NMUV3dThuYUl0b3RleEhBYU1fblZGVzV3M2huempKOTFULWl2Q0JielRxbXF3VUVmbEdMSDJKbWQxQUhUbnFkLXBhS1REdV9yUjFP?oc=5",
-              "source": "강원도민일보"
+              "title": "'파격 1번' KIA, LG와 끝장승부 선발 라인업 공개 '국대 박재현 리드오프 아닌 2번이라니...' 사령탑의 설명은 [광주 현장] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iZTUyV0ktbkpJaDZnX1hjNkRScXdfU2FFSHNVX3RJMXRqQS1pc3lKWUQ2V0NTSzdnZlpBbDdWRmtqMUI2Znl5alA4R0gwc3c5bndFQTUwYmpFSjNwSWl5eEVzdDc0bC1SM3dsel91VdIBb0FVX3lxTE9iZTUyV0ktbkpJaDZnX1hjNkRScXdfU2FFSHNVX3RJMXRqQS1pc3lKWUQ2V0NTSzdnZlpBbDdWRmtqMUI2Znl5alA4R0gwc3c5bndFQTUwYmpFSjNwSWl5eEVzdDc0bC1SM3dsel91VQ?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "모레노 \"시간 제약은 핑계 없다…우즈베크전 결과 가져오겠다\"",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hX1FCOENjclFSRXowSGVyMDFOV0lheTVqYWdYY2t4THlqWnAyanNZUXlIeDgxYVNzc3RxaVZlVXBnYXRVM3AyS3UyYm43RHo4NXdyS2dNWFg0ZktsUjkzYU1R?oc=5",
-              "source": "매일신문"
+              "title": "양현종 vs 임찬규, 누가 더 버틸까…KIA-LG, 3위 놓고 끝장 승부",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRRDFUQ1lFZ3lDRFNxUVM5VVAxUDQtcmItc3VYRjFVbHdDTU5mMUxLN2VWcG85alkxdG1rTGVCRTk5a1ZpQ2xBQ1JSV0tfcGRwTVZRQ3dCYw?oc=5",
+              "source": "뉴스1"
             }
           ],
-          "description": "한국 축구 대표팀 모레노 감독이 최근 부진한 경기력의 원인으로 경기마다 훈련 시간이 이틀에 불과했던 열악한 일정을 언급해 화제다. 선수들이 경기 후 외박을 하루 반나절씩 허용받으면서 실제 준비 시간이 극히 짧았다는 지적이다. 다만 모레노 감독은 '시간 제약은 핑계가 될 수 없다'며 우즈베키스탄전 승리를 다짐했다. 현재 한국은 2승 1무 1패로 FIFA 랭킹 32위를 유지하고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "모레노 감독, 훈련 시간 '이틀'로 졸전 설명"
+          "description": "KIA 타이거즈와 LG 트윈스가 정규시즌 마지막 3위 싸움에서 사실상 끝장 승부를 펼쳤다. KIA는 에이스 양현종을 선발로 내세웠고, LG는 임찬규를 맞불 카드로 올렸다. KIA는 국가대표 박재현을 파격 1번 대신 2번으로 배치하는 이색 라인업을 공개하며 승부수를 띄웠다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "KIA·LG, 3위 놓고 끝장 승부"
         }
       ]
     }
