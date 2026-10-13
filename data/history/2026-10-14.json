@@ -1,0 +1,511 @@
+{
+  "date": "2026-10-14",
+  "updated_at": "2026-10-14 05:17",
+  "briefing": {
+    "text": "이재용 회장이 주가 급락 속에 1조 9천억 원대 삼성전자 주식을 사들이며 시장 안정 의지를 드러낸 가운데, 코스피는 5.5% 급락해 6천선을 간신히 지키는 '검은 화요일'을 맞았다.\n\n국내 정치에서는 이 대통령이 인천경찰청을 직접 방문해 흉기 난동 사건을 보고받고 엄정 수사와 전자발찌 관리 등 재발 방지책 마련을 주문했다. 행정 분야에서는 44개 중앙부처·외교안보 기관이 세종으로 이전하며 2031년 행정수도 완성이 가시화됐다.\n\n국제 이슈로는 트럼프 전 대통령이 후티의 사우디 공격을 겨냥해 '절대 잊지 않겠다'는 강경 발언을 쏟아냈고, 새마을금고는 해킹으로 고객 400여 명의 계좌번호·잔액 등 민감 정보가 유출돼 2차 피해 우려가 커지고 있다.\n\n연예·스포츠에서는 김지원 주연 '닥터X'가 첫 주 주말극 시청률 1위를 차지했고, 두산 베어스는 잠실구장 40년 시대를 특별 은퇴식으로 마무리했다. 광주 납축전지 업체에서는 노동자 130여 명이 납 농도 검사를 받고 강제 복용 정황까지 드러나 노동청 조사가 시작됐다.",
+    "period": "아침",
+    "generated_at": "2026-10-14 05:17"
+  },
+  "categories": {
+    "오늘의 이슈": {
+      "summary": "트럼프 관세 충격에 코스피 5.5% 급락 · 세종 행정수도 2031년 완성 추진 · 이 대통령 인천 흉기난동 엄정수사 지시",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "트럼프",
+          "count": 3,
+          "articles": [
+            {
+              "title": "트럼프의 허언, 그 말에서 의미를 찾기엔 인생은 너무 짧다",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91Sk00UGdlRFQ4MkZiVUdXSDh2T3hJc29ES3hlZXQ3blRuZXc3ekl2bDNYWWV1ZVpvYlE5NUxqdnd3ckt5V08wWnVqd1FCR0RuSTJuTE00OVNpTi16WUV6YnZ2WGxvQQ?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "트럼프 “후티, 선거 앞두고 유가 끌어올리려 사우디 공격”",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvVVUtN2gtWjA5bFp5UHM4My10Q2hjYXVXOG5vVXh1VTFZclZDZDhXcE9SaTl2YWxsRUhPVnpWSWNsTHJhSXBQRnp3eWxkMGZ5THfSAVNBVV95cUxOUGlDSmstYUZqMW9pT256TFB4TkZycGl2bG9zbG1tMnhkcjFuN1gxYVdpZ0Y4TEwzYnVLTURFYXU2S2V4NjY2RXplMnh2a2ZGUGh1Yw?oc=5",
+              "source": "서울경제"
+            },
+            {
+              "title": "트럼프 \"후티 악랄한 공격…중간선거 끝나도 절대 잊지 않겠다\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OSVdyVnBuQnFJeFdBNW84WEtiS19sckRCdUJFbk5MYUZRUXI1VDFNY3Zjd2ZYLUtMYnNtOFNQUXIyd0JkZkJMYnNWRy15dHZWQTNZUGpGUGZwUEnSAWBBVV95cUxPMmszWGowUVQyam5SZ3liNVQ2emhreHljUzhSRnlRakc3X2h4ZlpBelR2bjhtU0JhZWJsSTl6eU5HQmw1XzJka1RXUm9oTjdWcHJEVnRVb2JER0U4NkNuWG8?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "트럼프 전 대통령이 후티의 사우디 공격을 두고 '중간선거가 끝나도 절대 잊지 않겠다'며 강경 발언을 쏟아냈다. 후티가 선거를 앞두고 유가를 끌어올리려 공격을 감행했다는 주장도 함께 내놨다. 한편에서는 트럼프 발언의 신뢰성 자체에 의문을 제기하는 시각도 나오고 있어 진의 해석을 두고 논란이 이어지고 있다. 어제 5위에서 오늘 1위로 급등하며 가장 뜨거운 키워드로 올라섰다.",
+          "headline": "트럼프, 후티 공격에 강경 경고"
+        },
+        {
+          "rank": 2,
+          "word": "수사",
+          "count": 2,
+          "articles": [
+            {
+              "title": "인천경찰청 찾은 이 대통령, 흉기 난동 사건에 “엄정 수사···전자발찌 관리대책 마련해야”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwLXh3aFFaUWsxQjV6eGhBV0tNQWhiNzZ0Yjg2eC0zQWc0R2hNWjlUVWJIVEF0bVJaZ25rb0FZTmU2TnhYWFI1dkxoM29Qb2F5dTJjZlk3R3NvQdIBX0FVX3lxTFBoTzFSNW1PRTk0eUhPajROeVR4dWNwRFk2dElxZEZKVVY4b21rak1rcWJtZ1U4X0QwODFma3RkRlZFWU0tTFp3YjhEM1pSMVI4TmtzbjQycmlUQVprWlc4?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "이 대통령 인천경찰청 찾아 “엄정 수사·재발 방지책 마련”",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82aGJkUFYxY3NQZlhNcktDZVIwNVNHdW1hcHRTSk5XWVQxYlhab0kxZENEMjBUclJfcVlNdTB2ajlQM1MzXzRCb2dpTWtOdnQ4V0gyQ3lpcnUxN1J1NkFTUVQyQjNhdGhicGk5ejF1aHY3Z1N4clFjM1R30gFsQVVfeXFMUFRhZFhUZ3lvaWE3UU9Wdjd2VzNKME5DSUZtTzYxVHpmV0Z2OXlTNm16TzkydGRGS1JuekhacHM0bFNwdTN2TUFGYzJpZGtUOS1SWU8tZkF3VXZTMGtScEJ5Yy1nWXBaQmdfNFdB?oc=5",
+              "source": "국민일보"
+            },
+            {
+              "title": "이 대통령, 인천경찰청 찾아 흉기 난동 사건 보고받아…“신속 엄정 수사”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBESHJYNi00cEt2UHNQZVpWQlJTak9YbUw3dVhPVGxxczBPMWUzMllFYWc4RnZxS3UwYi1SXzZGLUxQOUNjZEJKaWxOWl90OVNKWE1vT1hQdXpLUVE?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "이 대통령이 직접 인천경찰청을 찾아 최근 발생한 흉기 난동 사건을 보고받고 신속하고 엄정한 수사를 주문했다. 아울러 전자발찌 관리 대책 등 재발 방지책 마련도 함께 촉구했다. 대통령이 현장 경찰 기관을 직접 방문해 사건을 챙긴 것은 이번 사건의 심각성을 반영한 조치로 해석된다.",
+          "headline": "이 대통령, 인천 흉기 난동에 엄정 수사 지시"
+        },
+        {
+          "rank": 3,
+          "word": "수도",
+          "count": 2,
+          "articles": [
+            {
+              "title": "민간건물 임차 27곳 내년 이전…‘행정수도 세종’ 2031년 완성",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRVl0ZVdQRld3OGtSZFp3WmdOZWFmRk1HWkNFZTMtVDJvYWRfQURGNUFLRUFYRVFtVC1wU1VJSGZrR01sMXBsZ2g1eTQ5aldSY0xydHhiUHl3dmpqOTJPLTN2Wl9CdzdLTlE?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "외교·안보 부처 등 ‘44개 기관’ 세종으로···세종시 “경제·행정 2수도 시대”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CY3d5NXlleURJblJBQ3BNVTgyY2dCUmdNUWVBbFVYRldmeXQwM0xKMXJvVS1UZkdQSW81bXpGem1vMFA2RE8zeWdfNE9nSTJsdUFpWWl2SU1OUdIBX0FVX3lxTE9NR2lkajBuR3NJQ3pHcDJ5SWxWTlQ5R0JZakp5ejE0WnJ1QXFZbVJtcGRXV0hIVVo2Qm9YeVp3UlF2MF9LQWRBdGJ6NXhZN0hPWlZDWjB4SHJvRW1MNmxr?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "남은 중앙부처 모두 세종行…'행정수도 완성' 가시화",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43TW4tcGZ5YWVBbmdpYVNlX18tYVJzSkpWSlRrek1YNFBnc2hKTlJmc2NINWtWZ1I1b2UtU1RSMTV3U05UWUhPWWs3MF9DcWdxNGdNNDdLM3lEQQ?oc=5",
+              "source": "한국경제"
+            }
+          ],
+          "description": "남은 중앙부처와 외교·안보 기관 등 44개 기관이 세종으로 이전하며 행정수도 완성이 본격화되고 있다. 민간건물을 임차 중인 27곳은 내년 중 세종으로 옮길 예정이며, 전체 완성 목표 시점은 2031년이다. 세종시는 이를 계기로 '경제·행정 2수도 시대'를 선언하며 수도 기능 분산의 새로운 단계에 들어섰다. 오늘 처음 등장한 키워드다.",
+          "headline": "행정수도 세종, 2031년 완성 가시화"
+        },
+        {
+          "rank": 4,
+          "word": "백악관",
+          "count": 2,
+          "articles": [
+            {
+              "title": "강경화 \"美, 한미정보협력에 문제 제기…백악관 소통도 한계\"(종합2보)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EY1c2NnoySzE1V1RNbTl4NGkzQTYxVkZaRXZlYjljSmY2MTBKNDFtZ0tuMVk2SlRRazNIMkI2SmV2c3l0a2pxY29HNWlRWjliZWttcldYVDlsZ2fSAWBBVV95cUxPZjE4OUxDRTFTZjVPb0JxenlFOFZlZlE1UUd6TWR1YzRGVk9Db05DTUhiU1BRM0o3ZDdCT0h6Z0hHZVpYU2xzR085MkRnQlkwUUJyN1ZmTVgzRG5Eck5oTDQ?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "백악관 대변인, 첫 브리핑서 \"韓 알래스카 540억 달러 투자\" 언급",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4dy1zQU5Kci1sSE9ubkpHYXY0R2hhWVd5YW1qd0xTSzlxNlRJUUhkUXlMaDBPRkRucXItU095Umk4TUw3by0tSWp1eDdERXVoajJnMWNSN0pDdFZ4MlFBUUYxMWJsWGdTVlRtbUJqLUlwOUxt0gF0QVVfeXFMTlNvakVvc3puMnVxYTA3cDFhWWpuaEhmWktlajNBUjExV2xJVk5JbjdZbExacHFMNGh6eW1yLXI0cHA3WDFFclRGNUt6bGowQmdLNHE2ckl4Z3NUN282Q2RpUDdWQ0wzYUFOUkZFR3lCR0pFRno?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "백악관 대변인, 첫 브리핑서 \"韓 알래스카에 540억달러 투입\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tUEVaT1NXa1A4eDFYUnlKaXJab05pYXhLQTdNdGNpVTVwNDIxN3djTXpWV1Q0Ujg4eVUwSlQyNFpld1VNNHVZM21HaDV4WVptbEJRNnJIcjd6VjgzbWFGdtIBeEFVX3lxTE9jTDdYVmJZOVY1S3ZYU09zRWx1R1FGdXlORkRCS3FRTHB3MndEVkQ4YUFFVHYyYUd5dF9aU3oyVEVUVWdESU0wVHdpbzZjcFFVaVdSTWwxRnpKd1Z0alFJbVRfc0p6akk1NlNJQWZFcEYybklhWVp4Mg?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "백악관 대변인이 첫 공식 브리핑에서 한국의 알래스카 540억 달러 투자를 언급해 주목을 끌었다. 같은 날 강경화 전 외교장관은 미국이 한미 정보협력에 문제를 제기했고 백악관과의 소통에도 한계가 있었다고 밝혀, 한미 관계의 이면을 둘러싼 논의가 함께 부각되고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "백악관, 韓의 알래스카 540억 달러 투자 공식 언급"
+        },
+        {
+          "rank": 5,
+          "word": "코스피",
+          "count": 2,
+          "articles": [
+            {
+              "title": "코스피, 5.5% 급락 '6천피' 간신히 사수…외국인 4.5조 팔았다(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RNnAwZU91a21vT2FVZVBaOXctd04xenRqTi0wakhtZVVXYWpoU2kzdkRpX0dHN2FUdjg5ckdNSlFjYy04X3EzTFdfUXZPT19EOEE4dERzdVVUV0nSAWBBVV95cUxPTjFqQ25LRUFEUktEamoxdE5USWFmckpPWEV2OTU5UDF0aGtMeVdITDJheU5oNXZIQ1pUbGdnY3ROaFYzZDB5SmVQRklGVmxmazZfM1hEX2IyRzBJZmN3eW8?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "\"코스피, 5000 중반~6000 초반 매수 대응\"-KB - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaNFJiUHJ6dVVoM3hzOE95X3I4NkY1ZmhjVmF3RVp2ZlN3NjdYWnZGZi15VFVZTUpsV0hObERGb2VUenVfNjVuN0lDVERPR2QzbGd1NmRycHNHUmt2bUhaRS10Z3k5ZC1kOFRRVDBfMTNrVFRBUUHSAXtBVV95cUxOaEYtemZTdDdtZ2tZZ3lEek5taEowOFZ5c2dKWnh4TXRfR2R5ZWE3dF9LaDh2V1lWNFJTUkJ5TGNkQlp6YXd6d1RlTWg3bHl3NTJpTGhKSzgyN2t6VWJoTjY5WFBkQ3VENHh2dm5CWGJjanJtUV80QXMyOTA?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "'검은 화요일' 코스피 추락에 악소리…닷새만에 '7천피→5천피'",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uVVhvN2duZTlVOU5pbFpOZkZ1cDdsTGhxTFVHU2VMZXljQmVKdEUzUWctUk9QNjVIUFhnWXBldTZxeGZBdVk5VlVzVk1lZnJNTEozbk4taEQwOTTSAWBBVV95cUxQR01pZWthRDNDV3lWZ3dBTFduQVdrcnhvbkZiX3J0M2ZPQ3dPR3V0UzNDRnRmT3lNVzVYMXZHemUtRDlTN0NJU1AxRUFkalhfQ3NYeFRQWURrTVdjSWtCX1g?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "코스피가 5.5% 급락하며 6,000선을 간신히 지켜냈다. 외국인이 하루에만 4조 5,000억 원어치를 내다 팔았고, 닷새 만에 7,000선에서 5,000선대로 추락하는 충격적인 낙폭을 기록해 '검은 화요일'이라는 표현까지 등장했다. KB증권은 5,000 중반~6,000 초반 구간을 매수 대응 시점으로 제시하며 반등 가능성을 열어뒀다. 오늘 처음 등장한 키워드다.",
+          "headline": "코스피 5.5% 급락, '검은 화요일'"
+        }
+      ]
+    },
+    "경제": {
+      "summary": "코스피 5.5% 급락·이재용 삼성전자 1.9조 매수·새마을금고 해킹 고객정보 유출·가상자산 과세 11월 고시",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "코스피",
+          "count": 3,
+          "articles": [
+            {
+              "title": "코스피, 5.5% 급락 '6천피' 간신히 사수…외국인 4.5조 팔았다(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RNnAwZU91a21vT2FVZVBaOXctd04xenRqTi0wakhtZVVXYWpoU2kzdkRpX0dHN2FUdjg5ckdNSlFjYy04X3EzTFdfUXZPT19EOEE4dERzdVVUV0nSAWBBVV95cUxPTjFqQ25LRUFEUktEamoxdE5USWFmckpPWEV2OTU5UDF0aGtMeVdITDJheU5oNXZIQ1pUbGdnY3ROaFYzZDB5SmVQRklGVmxmazZfM1hEX2IyRzBJZmN3eW8?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "\"코스피, 5000 중반~6000 초반 매수 대응\"-KB - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaNFJiUHJ6dVVoM3hzOE95X3I4NkY1ZmhjVmF3RVp2ZlN3NjdYWnZGZi15VFVZTUpsV0hObERGb2VUenVfNjVuN0lDVERPR2QzbGd1NmRycHNHUmt2bUhaRS10Z3k5ZC1kOFRRVDBfMTNrVFRBUUHSAXtBVV95cUxOaEYtemZTdDdtZ2tZZ3lEek5taEowOFZ5c2dKWnh4TXRfR2R5ZWE3dF9LaDh2V1lWNFJTUkJ5TGNkQlp6YXd6d1RlTWg3bHl3NTJpTGhKSzgyN2t6VWJoTjY5WFBkQ3VENHh2dm5CWGJjanJtUV80QXMyOTA?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "'검은 화요일' 코스피 추락에 악소리…닷새만에 '7천피→5천피'",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uVVhvN2duZTlVOU5pbFpOZkZ1cDdsTGhxTFVHU2VMZXljQmVKdEUzUWctUk9QNjVIUFhnWXBldTZxeGZBdVk5VlVzVk1lZnJNTEozbk4taEQwOTTSAWBBVV95cUxQR01pZWthRDNDV3lWZ3dBTFduQVdrcnhvbkZiX3J0M2ZPQ3dPR3V0UzNDRnRmT3lNVzVYMXZHemUtRDlTN0NJU1AxRUFkalhfQ3NYeFRQWURrTVdjSWtCX1g?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "코스피가 5.5% 급락하며 '6천피'를 간신히 지켰다. 외국인이 하루에만 4조 5천억 원어치를 팔아치우며 낙폭을 키웠고, 불과 닷새 만에 7천선에서 5천선까지 추락했다는 '검은 화요일' 평가가 나왔다. KB증권은 코스피 5000 중반~6000 초반 구간을 매수 대응 시점으로 제시하며 저점 탐색 전략을 권고했다. 오늘 처음 화제 키워드에 오른 만큼 급락 충격이 그대로 반영된 결과다.",
+          "headline": "코스피 5.5% 급락, 6천선 간신히 사수"
+        },
+        {
+          "rank": 2,
+          "word": "삼성전자",
+          "count": 2,
+          "articles": [
+            {
+              "title": "이재용, 장외매수로 삼성전자 766만주 매수…1.9조 규모",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoZ1BCd1Jmc3o3LWJpU2RXX3lnWTgwaDFXZFd2bHdMb3YzalVvZHNMZWliM3lDRnpjaTNncWhvZUpScXh0R0R6dGhqS083cS1EQ3VZVm9nNHRqTVFIY0U5LUxZbTFlcHJXci1qcFZ2akjSAXRBVV95cUxOdlpMc2E0YUxjNWExLU5vWGh0THktZDFaMGdhMUxkMTI1SjRHUUF3bTM3RmxXcmdzbTE1bVlLdUwzN0NSekhkVUJVeENCM0ppVXcydWk2eGhiY3Jzel9TNWs0VW1fNUdwNlVLMlYzMTl1YzktQw?oc=5",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "삼성전자 '100조 잭팟' 뒤 서늘한 경고…\"한국이 흔들린다\" [테크로그]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ybTlfNDRfSnlTM3l0VzBjYm5QNmpPeW9wLWJ6UGE1dTF2ZEd3Nll1LTA4dW0wVFlneHNqaWlMTzFDY21VbEF3eDluN2FVSXAyR0FQcVRuVm1kUQ?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "“외국인 계속 팔더니”…삼성전자 外人 지분율, 17년 3개월 만에 최저수준 - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRXFuZDNnMG51TTI3SERWcS1oVDlScHg2Y1p0LXk5T3ZWWXdhZEd1MmllYnM5YzZUbFpBb2pxX1lhWGtZRGZmeTlwNEJUeEo4VzdYV0NkWjFtbHBHQ3dFRE91WUI2bVBvdnhwNUxueVBHaEIwWlB3V2oxck1vUXZEZktnRW1SYkpO0gGcAUFVX3lxTE9vRFdBZHlYWGhBaUt6Ui1seHRybHpray1UdUhMbTJQb2F4T0ZXVVdlZEdIQnJ4WVBrYnhTUTVnRTJNZ213Y0U5QjRzeXQtd0RlTXZlTk9jNzFremhQbmtXN0E4Z0FqQl85VEZNR01XUVFzZ3hISWo1dW1aVGJ6Z2F4ekFQYzFLV2pJWTJsR2NrNHM5QWtlbjFiX1Y3Vg?oc=5",
+              "source": "Chosunbiz"
+            }
+          ],
+          "description": "이재용 회장이 장외매수 방식으로 삼성전자 주식 766만 주를 약 1조 9천억 원에 사들였다. 주가 급락 국면에서 오너가 대규모 자사주 매수에 나선 것으로, 시장 안정 의지를 보여주는 신호로 읽힌다. 한편 외국인의 지속적인 매도로 외국인 지분율은 17년 3개월 만에 최저 수준까지 떨어졌고, '100조 잭팟'으로 불리는 대규모 수주 소식 뒤에도 한국 산업 기반이 흔들릴 수 있다는 경고가 함께 나왔다.",
+          "headline": "이재용, 삼성전자 주식 1.9조 규모 장외 매수"
+        },
+        {
+          "rank": 3,
+          "word": "해킹",
+          "count": 3,
+          "articles": [
+            {
+              "title": "새마을금고, 해킹 공격으로 고객 4백여 명 계좌번호·주소 등 정보 유출",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UUS1LSm43NUtKUjBaTkZYdHl1SmtUZXdGdVNza0EzQXotTUsxTUFUYy1BSFlQMlhybnN1T1V2MTZUelNvS0xzWjhCM2dxQ0VTRFpZTUpLb1l3WWR1MWRyMEdXN0pmYkN5TENSOTdHOEZqaFFs0gF0QVVfeXFMUDNKdTRRMnRPb0lTODl4VjVqcXJGWFE0NTBsN3pHSHdWaGhBaXREc0NhNHc0TFFUSjdTc0t5NU4zU042eEE2LTlWTHZBRWoyY1M3Mm53eHJ6cUxJRm96X2FFaHRjbUFwQ3IwUDNjR1FzdC05T3o?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "새마을금고 해킹에 고객 400여명 정보 유출…계좌번호·잔액도 포함",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Pc1YwS2pHbTdCWFBHOThRcEVBYXJJNnN1QTVaNDJGOTV3N1d4OE54WnpkNEdJbWRrck02aXB4Vzlra0RERXY5ZUQ0ekp6aW5zcF90YmZTMTBUYzA?oc=5",
+              "source": "경기일보"
+            },
+            {
+              "title": "새마을금고 해킹에 정보 유출, 은행처럼 ‘뒷문’ 노려",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhdmlra2V0WGZqUlhldG5xdUhkZkU1bTh4T0VadlpaOUxKb1VvVFBrRHRQdWI5dlc1U0h0YU82S0FBTURXZG5vUGVDT0VFYWlXUW9oTHpuN1NtWWliXzRRRmh4aVlyelA2TnNHSEFYWXhueGw1WEHSAWZBVV95cUxNZThyOXAtODRpTFlSVUk2OWVmQko1ODdzZ0JaMmdSMkRZREtnVlZyVG52Y2xkbER6M2xXMHgtTmtweWZhOWRrX2ZnRHVsS09tRHRFTWRDUldVVEREeThuU0c3U1hHTHc?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "새마을금고가 해킹 공격을 받아 고객 400여 명의 계좌번호·주소·잔액 등 민감한 금융 정보가 유출됐다. 공격자는 은행의 '뒷문', 즉 보안 취약점을 노린 것으로 알려졌다. 금융기관 해킹으로 계좌 잔액까지 노출된 사례라 피해 고객의 2차 피해 우려가 크다.",
+          "headline": "새마을금고 해킹, 고객 400명 계좌·잔액 유출"
+        },
+        {
+          "rank": 4,
+          "word": "과세",
+          "count": 3,
+          "articles": [
+            {
+              "title": "국세청장 \"가상자산 과세 11월 고시\"... '유예·신중' 주문한 與野 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UYi1mUVdkYURxYmRSSURLUjktN2J5bHh4bld1MWxwV1FHODBXR1I2aFd6SUFCb0Qtd1JwM2psbDdCbnZSUjIxTHJVbTNQbm1ZTGxfQ1RzNWUzRG1ZOEZCN2dLdnZLa0xFc1VjaNIBckFVX3lxTE1pYXV2NXVxd0J6dk9HYVpycHNic3hYR2JZdU5LSXg1SEttcWhlUmw3ZVpNT2lnWWVGZ05HWGdkWjNBVlRiUnZxN3ZaUzlITk4tZmtQYm1JZ2c1NHRyNHVXV0cxYVI0bzhXU0Y5NF91LTE4UQ?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "국세청장 “李대통령 아파트 거래, 과세 대상 아니다”",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02R1Ffc29iaUM5WjJiUU8wbVJBWTFhaGJnU1FLRjZ3a3lfU2xlMGRqNFBWc1phYkd4Ri1BVVRVMTRNbFZNLS02N245X29RUGZD?oc=5",
+              "source": "문화일보"
+            },
+            {
+              "title": "임광현 국세청장 “이재명 대통령 아파트 거래, 과세 대상 아니다”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtVGNQMjU1bF9WRnJ5cEVkOW5qNmFQakJfRGZVMHVBbFlOSkttR0VuejJ6eHNDZWJRQ2s1dEQybFMtUnJnRUktLUlDcEdXYWI3TTRJYWs5YVpWZ9IBX0FVX3lxTE5IMUtISURyQmt4TkdpSFNBYnpzcVFNWkV6clJuNVlzdGc1bHdfMGxONTBaWDA3ZHdfd29xZmJPb3R1NzhkZDVxdnZLa0NiWUZ4aV9OR1pBTWMySXdwYWFn?oc=5",
+              "source": "경향신문"
+            }
+          ],
+          "description": "임광현 국세청장이 가상자산 과세 일정을 11월 고시하겠다고 밝히면서 논란이 일고 있다. 여야가 유예 또는 신중한 접근을 주문한 상황에서 국세청이 예정대로 추진 의사를 밝힌 것이다. 한편 국세청장은 이재명 대통령의 아파트 거래는 과세 대상이 아니라고 명확히 선을 그었다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "국세청장 \"가상자산 과세 11월 고시\" 예고"
+        },
+        {
+          "rank": 5,
+          "word": "반도체",
+          "count": 7,
+          "articles": [
+            {
+              "title": "KDI “韓산업, 반도체 빼면 경쟁력 하락세… 2030년 이후 역성장”",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zUWF4eFZzcjBwbExmRWlsM2NGVm82SVdSemwzcVY2MkNDTWZJVk9GTnAzdmwtYVZ6X2lTaFl0ckNZaGhnM05EaC10MzltdXdKanlBbHJTMWFrNFFveXZIWmRfZTU4b3IwdTE2WVFfbGZnRFpacVHSAWZBVV95cUxOVDBWVEhxQTdramE4Z19XUVVIQ1MyVVBUZkVxazR5R2ZSd0t3WUF6amtEaG8zWjRnMGc5bWNBMWkyZk1GcFl6VklfY0RSaGRIMFVldTBuQXdMRFNkcEVJR1ZUcVNwU3c?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "반도체 슈퍼호황이 연 4만달러 시대…개혁의 절박함 지우고 있다 [여기는 논설실]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JMkZva3lYTGpZWkItd0lWd0pRZ2dPR0ZnYXQ0SE1YRWdkbnl2ZEk1UGV1bXduV3J0OVVBSGFhcWxaY1RDbGJyZnJIN2JyZ0pET3MzbzhTM3p1UQ?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "반도체 호황에 ‘센’ 원화…1200이냐, 다시 1400이냐",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91RVZLVmgwUGJMdE1Gd3B4S0tvQUUxNHlpd1VJc0ZrdDZLbjV0ekdoN2w5cjdLcG03eXFOZWdUeTdIR21xVEtZRXdieXo0LVVyWUc3R3pCUXZxUdIBX0FVX3lxTE02NC1CbXRSZ2JHNDV5ZEdsSXptZGR4UDNBU3FYTHRxY1E2NG56WkVJRUZndzdtU2xTYndVY29EV1NxUHVZWXoxc1BFWWQ1SGRuT2tFekRCY0oydEpzZGlR?oc=5",
+              "source": "경향신문"
+            }
+          ],
+          "description": "반도체 슈퍼호황이 원화 강세를 이끌며 환율 방향성 논쟁까지 촉발하는 가운데, KDI는 반도체를 제외하면 한국 산업 경쟁력이 하락세이며 2030년 이후 역성장 가능성을 경고했다. 호황의 수혜가 특정 산업에 집중된 탓에 구조개혁의 절박함이 희석되고 있다는 지적도 나온다. 반도체 한 업종이 국가 경제 전체의 성적표를 좌우하는 취약한 구조가 다시 도마 위에 올랐다.",
+          "headline": "반도체 호황, 한국 경제 명암 동시 부각"
+        }
+      ]
+    },
+    "연예": {
+      "summary": "안재욱 뮤지컬 복귀, 김수현 관련 인물 논란, 김지원 '닥터X' 흥행, 유연석·서현진 재회, 김유정 드라마 시청률 상승.",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "안재욱",
+          "count": 2,
+          "articles": [
+            {
+              "title": "스타들의 인터뷰",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRZkhETWtENTBWS3l0blpGdl9MTngyMzlkQlloZThaM2F5bXVnOHhubF81aDIxeTF4bEttYXZZY1hjNDJFTUFkd2I5b3FKS0Zuclo3UnUwdEU?oc=5",
+              "source": "ZUM 뉴스"
+            },
+            {
+              "title": "안재욱, '렛미플라이'로 3년 만에 뮤지컬 복귀…\"일찌감치 결정\"",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpV3pvRndhWURVcHRHdEM0RFp2NmlOS3RQVmttZ1JpWHZTMjRMU2lERU82eVRHZTk0cm01bnRiaWJqNi1sZlVnSU1tMzZkV1RSR2hnWWlmaV93S0xr0gFXQVVfeXFMTU9qdm9HQnEyMUxJUHhSRzY1ZmdIb1J1RkZ4SUdhc0c5cTFsRktDczBCQXJ4STRVUjNsMjJaWDJLc184Y3d6QTFGZ0xWcDJ6a1ZrenU3YWNB?oc=5",
+              "source": "더팩트"
+            },
+            {
+              "title": "정웅인, 후배 괴롭힘은 오해?…\"많이 맞아\" 안재욱·이철민 폭로 재조명 [엑's 이슈]",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aOXlwMXNSZkE0Y2NKMUNpTVJveGJnM1ptS3JEYzBnaWFjc3UxLTFMZVY4YmJkWC1tVFVjYWlmeHFqTnJFYmF6ZzE1amp0T0lTYm9mRw?oc=5",
+              "source": "엑스포츠뉴스"
+            }
+          ],
+          "description": "안재욱이 뮤지컬 '렛미플라이'로 3년 만에 뮤지컬 무대에 복귀한다고 밝혔다. 그는 '일찌감치 결정했다'며 복귀 의지를 전했다. 한편 선배 정웅인의 후배 괴롭힘 논란과 관련해 안재욱·이철민의 과거 폭로가 재조명되며 함께 화제에 오르고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "안재욱, 3년 만에 뮤지컬 복귀"
+        },
+        {
+          "rank": 2,
+          "word": "김수현",
+          "count": 2,
+          "articles": [
+            {
+              "title": "김수현 아니었다…\"너 안고 잠들 수 있어\" 발신자는 연예인 A씨",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtSHBFYlhoSi1mS1laRm13V2dWU3drVVpEd1JNdWZvZEpsVjc5Zm1DMTFqaUppWWlzVFVTdUlXQ2x3NmxqMkY5cENmMG1zQ1o2T0RBVjdxY1lZOURpYmlLRtIBeEFVX3lxTE1lOWJfVlJzYlI1enNxRTNCa2M0QXFjel9ETGpocDhZbGdaU012OXh1UVFTQXM2OVUyNXYtR2p6dkkzX0Y3WGxWWEp2MnVSOWF0UUQyTFNBUDNET2ZrTUpLZkxWbTVWc1VwWVVmUWxWMThJM3VncXZTUA?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "“김수현 씨, 저한테 아는 척 마세요”…김세의 잡은 은현장의 쿨한 응원 “외화나 많이 버시길”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90eGVuMmVnbHNESmwyeEtjLUpXaWt4YVozU2dUTUZKbHlrOU5ZLUpKZ2YwSzNEeTJreE5zaUV4bDczYmlwaktITkhWM2xabll3UlJkS3NKcTNDemgxZGfSAWNBVV95cUxPOV80T0R4NDZ4WWxwRkwzb29xNHRmTEd3YnJGR2d2NVpjaUNzYzdwRFhWTVBMQllSOFJaWUhSTko5NzZncHg2SHFxTXYwaGZTbktKQU1OOXNJeGdxZjRjdEsybjQ?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "김수현 아니었다…고 김새론 2016년 카톡은 다른 연예인",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VdGxwS2Vpc0IteFZyTFpVeGFQa0syNzNCb1pMbnB1bkN3QXVYUk9jd2RVRnRnRkxBMDR0Z29kZm9VMXQ5bVllei1GT2lmaExnUW03THNCOWJvcktTSUFQYllmUHB3bDA?oc=5",
+              "source": "연합뉴스TV"
+            }
+          ],
+          "description": "고 김새론의 2016년 카카오톡 메시지 '너 안고 잠들 수 있어'의 발신자가 김수현이 아닌 다른 연예인 A씨로 알려지며 논란이 새 국면을 맞았다. 당초 김수현과의 연관성이 제기됐으나 사실이 아닌 것으로 전해지면서 관련 보도가 잇따르고 있다. 한편 이 사안을 취재해온 유튜버 김세의에 대해 은현장이 '외화나 많이 버시길'이라며 쿨한 응원을 보내 눈길을 끌었다.",
+          "headline": "김수현, 고 김새론 카톡 발신자 아닌 것으로"
+        },
+        {
+          "rank": 3,
+          "word": "김지원",
+          "count": 2,
+          "articles": [
+            {
+              "title": "김지원·김유정 드라마 추모 故 김현이, 뒤늦게 알려진 비보",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT3pkX0xuckpEVXFWMXh6UGZJRXBmQkhVUm10ZlBZQVNFbndLRUJ4a1RnWGZ5b0dlY1Q0NXlhd3U3TTFoZHptcnJ5T2xQSlpMdkd2M1dJanRLUEVldW5zSF9TWWhjSnU4VHlIbGFCMi1xMEpWOUd5SGlGQ3dRLU5rQXd0aW5jTWpHYTZkNUx2aw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "의사 가운 입은 김지원, '시청률의 여왕'…'닥터X', 첫 주 주말극 평정",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wOGZHVUJnWHhjZFVSTzlic1pDdTAzZVUzWUpvbUNWX2pPRk4ycTZqeEdxV0Z3d0NrUWlvUGVpcjduS29manZzazRNNjBmdzg0U05jTWxyTGxTNi1PdzV5Y1hHLV8?oc=5",
+              "source": "YTN star"
+            },
+            {
+              "title": "'닥터X' 권승우, '현실 타협' 의사로 등장…김지원 보며 '못마땅'",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mQlNZdS15S0RvS2NScDV2QVhUYlYzMWhMNWV0NjJNTFFWOUhPaW5KTk5oRzVhVmVJa0k2UUFVbkpaZlo2ckl5ejhQUWdJZi1OcEJneUVPelBxSUNfelRQeg?oc=5",
+              "source": "뉴스1"
+            }
+          ],
+          "description": "김지원 주연의 새 드라마 '닥터X'가 첫 주 방영부터 주말극 시청률을 평정하며 '시청률의 여왕' 타이틀을 이어가고 있다. 극 중 권승우가 현실 타협형 의사로 등장해 김지원 캐릭터와 팽팽한 긴장감을 형성하는 모습도 화제다. 한편 김지원·김유정 주연 드라마에서 함께 호흡을 맞췄던 배우 故 김현이의 비보가 뒤늦게 전해지며 애도가 이어지고 있다.",
+          "headline": "김지원 '닥터X', 첫 주 주말극 1위"
+        },
+        {
+          "rank": 4,
+          "word": "서현진",
+          "count": 2,
+          "articles": [
+            {
+              "title": "유연석·서현진, 10년만에 재회…눈빛부터 표정까지 압도적 아우라(‘라이어’) - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDlJYWpXaW1ScHpFcV9JVFBVbmFZZE53Z3ktU2Nubm50cktyUUNYM1czb1N5ejZuUlFMTFhSRE1Nbm9yY1FkQkxoazF5OGJFelRONTdndHJGRnRDRFo0bWtsS1ZIZ1VwVGZmaXd6LV9xbVJBbmpSclFvMjBBTGVOYzlEYnV0a0NBaUZGNkdvdVg3ZWPSAacBQVVfeXFMTzl2RTBUMktST05WdnlQenVGQUdzZ1Y3Qlo1RU56VTFzY0V0VmlnekFaWFl1NHhFSWlSck1aeWZVME5ET3hBbVpSc3FwX1VqTVhaOWNybVpiQTgxUDNqYUxTV2RxUVR1anRndTBzQmFVQ3JPX3AxMjNEYzNjc2ZXLW9RZk9sWnZRa1pTVjFJcFlNbUVpZ1d2Y3htdnR6WVJYV19MQVJubk0?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "\"서현진, 깊은 몰입에 몸 아프기도\" 절친 전혜빈이 전한 근황",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kUmlhMTYyMi15ODFNNHBOd2RoRDdiQnJTQlBKQ1RZeGg5ZWlMako3akRuOEItckh0ei1jZHBpSDF0ZEphWlRwU29EbXpzLTlsQ2NqUldaQjdhdlFXbFh3TdIBeEFVX3lxTFA5bTVPWXdFNm9tTTRHUUdodFZIMHFRcHhNbHhPMWp2N0VfWHRkUW1ITTRaX2dwTlJEU0tmRlhMQno4SEh2dFBxckIxc1VkSDR0V0R6LUk1czA5dGlTMVFrY1FlVjktOGdTeWhMZ2ZGdmJFanpoZXE0Mg?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "'전세사기' 후 서현진, 근황 전해졌다..전혜빈 \"힘든 연기에 몸까지 아파\" [핫피플] - 조선비즈",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ0liWXBxNVhzUWh6M2pxbmN1UE1FQ0dzMVlEdHFsY2FCRWc1QXNsTlBYeVFabUNZdGRHN2ZiRlpWNkRFa3NYa19tMEVVS0NQRGw1VjF6Y2h0NGV4WlFwckh1LUhBTVBsblloQUQyYTJfU1h1QTVoWWlVWl9xMjRkZ0VKR1RCcGJTUVJ3UUlVQ08zTTDSAacBQVVfeXFMTnBjaFFYVGxIQ1FVRlB6X0VNOHhmTGU5U0EwZHlBUnFXMlJIaXZqdnlYNXFvWDZxencxaVFxX25NWDlXcWMtdjZkc1NqcmE2djF1WlFDRThCRDMxcUlvUy1mMzE3VTlITTBDM2xGdVpEYUJjb0RmaHNOUU1VM1dQOWUwRUdNcnBOQlRhQ0p1bDcyRlF0S1BHVXZSZWpWSGM0b3VxczR0QXM?oc=5",
+              "source": "Chosunbiz"
+            }
+          ],
+          "description": "절친 전혜빈이 서현진의 근황을 전하며 '깊은 몰입으로 몸이 아프기도 했다'고 밝혀 팬들의 관심을 모으고 있다. 서현진은 전세사기 피해 이후 연기에 매진해온 것으로 알려졌으며, 혹독한 감정 소모를 요구하는 작품에 임하고 있는 것으로 보인다. 유연석과 10년 만에 재회한 드라마 '라이어'에서의 압도적인 아우라도 함께 주목받고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "서현진, 힘든 연기에 몸까지 아파"
+        },
+        {
+          "rank": 5,
+          "word": "김유정",
+          "count": 2,
+          "articles": [
+            {
+              "title": "배우 김유정, 한남 유엔빌리지 떠나 성동 월세살이 왜?",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXJxREFpVk84UE9EcC04Y3FzWjF4dTJZazllNkJjcWpRRDBtdjZqa1FtN1lzbkJuZThxeFhKM0prazNuU3BnM3hBOGI1ckRUeW5TVWNiLVRkUEFYUTQ2WV9BODJGUThrQmtHX0Z5UEF0UXMzd1l4ai1nV3BEeU9YR2dB?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "'100일의 거짓말' 김유정·박진영, 설렘 가득 재회…7.6% '상승세' [N시청률]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vdzJ2S0kwV3Nia2pTdUJ3Z0RnV094bmgzNTlPMWYwVmx4WkcxY2dLc1dxS2xFUW1OZFEzREJQSHVvaW80R2xzSkZpOS1DWG1pbmJpcEMzWm1uNWFzMUlQTA?oc=5",
+              "source": "뉴스1"
+            },
+            {
+              "title": "김유정 '오늘은 핑크 핫걸~!'",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lUk4yWUQ4VDJmWEtLbFNUcF92bGllWHpVUlZMRkFrdVhZSUFVQWtnVGNEajVSOThSa1RGcHVmR20tcWdqeHdiUzVIa0tib09VbWwzakZxYUg?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "김유정·박진영 주연의 '100일의 거짓말'이 7.6% 시청률을 기록하며 상승세를 이어가고 있다. 두 배우의 설렘 가득한 재회 장면이 화제를 모으며 드라마에 대한 기대감도 높아지는 분위기다. 한편 김유정이 한남 유엔빌리지를 떠나 성동구에서 월세로 거주 중이라는 소식도 전해져 눈길을 끌었다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "'100일의 거짓말' 시청률 7.6% 상승세"
+        }
+      ]
+    },
+    "스포츠": {
+      "summary": "KIA 김도영 등 APBC 엔트리 확정, 한화 류지현 감독 계약·왕옌청 재계약, 병역특례 제도 개선 착수.",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "두산",
+          "count": 4,
+          "articles": [
+            {
+              "title": "“고마웠다. 잠실” 홈구장과 40여 년 추억한 두산, ‘불사조’ 박철순 등 시대별 프랜차이즈 스타와 특별 은퇴식",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xanp3aWxMQXJoTDNGVnpMbVF5OXpmNTJYX1ZMT3NQdTB2Wnp0RUVfYTVUYU1tZWlKdk5QNVBtY1lrS01qaXpveF9NRFAzU3JIWDU1c1dCZGJlYTBMRnlxVEVrdUtqbnpXeUtZbmNTbDBYdw?oc=5",
+              "source": "스포츠동아"
+            },
+            {
+              "title": "'8회초 등판한' 두산 김택연 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRERnQ0JlR1U4WVdISDMwb2lrUExsd2xVcW9JdGNvUjBrdmhUM0hvTkpHbk9rTGlWSVgxdnludUxtazJWLUhaNlFMbE9rSHZVRmNlbUc0Y056cnhGbzhzX2kyck9NMzFyQmfSAW9BVV95cUxNTUEtZmdJWldnWS1ZeWxJT0VaSk1ZeFJIb3ZVRGpfQTdSRy1kTi1MN1RBekpubzRaUklUVTQzLVllaFlGMzNpdm0yR2VueVoyUWF3aFF3VkFETDBydlhEaUkwU25CT2xxZnhpWV9wZFU?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "굿바이! 잠실야구장, 정기시즌 마지막 경기",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wTUtaWlJCRVpIVDZWNTNBbW9XWkZBTTRlREFBMHFtQnkxaGpfdTl4XzJCNVNQZlJ4Zk9YYW4wRUhteGtRdVFvYUdBRHBjLUxqZGQzdXlTV2tHeWRnYU9ZM1lDQ2ZwQXc?oc=5",
+              "source": "한겨레"
+            }
+          ],
+          "description": "두산 베어스가 잠실야구장 정기시즌 마지막 경기를 끝으로 40여 년의 홈구장 시대를 마무리했다. '불사조' 박철순 등 시대별 프랜차이즈 스타들과 함께 특별 은퇴식을 열며 잠실과의 작별을 고했다. 수십 년간 팬들과 함께한 홈구장과의 이별인 만큼, 오늘 경기는 단순한 시즌 마감을 넘어 한 시대의 끝을 알리는 행사로 주목받았다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "두산, 잠실구장 40년 추억 특별 은퇴식"
+        },
+        {
+          "rank": 2,
+          "word": "광주",
+          "count": 3,
+          "articles": [
+            {
+              "title": "광주노동청, '체내 납 배출 약 복용' 공장 조사",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzLWpaaWJtWWFJeHpfZGZ2Rm03MU1Dc1dJdV9iMDcwT0pyMTNyalBWLWFpclpQSXV3bEE1S05zVEpZeTkweklrNWRoOWtNTDRhUkVoejhEOWszcVHSAWBBVV95cUxNWUxUY0ttTEdpb2ZTcUdOVlpWUHFmbzFOOGZjaHkySTk5bEZKeHppbnZncFRYb2lFZjA5U3ZkTHMzQ0dOZWx3Wk5lWU1CMnhNVWVEWmQ4dGwtNENVdGhldC0?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "전남광주서 노동자 130여명 ‘납 농도’ 검사···납축전지 업체 근무",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsY0txdHY0VjBLZmc1bElMVGRJdEptZGpnVllRc2ZLNno1MmFQTnpjRDE4bDlfbG5ldWlJczlNQXY3WllRLWRrYmtKcHBCR0tfZzVZSDhiLUVoZ9IBX0FVX3lxTE5QazQ4SjdmNWkzZS1WVUJGWWFuZ0s1dE8zMVhiaHlQR0d3bC1JeElTaVlzMks5cEhYdlRfcWIzamZWY2lSbzJXUDB0OUJIc0dkYTZGdUgzd1JTYkdUMkVn?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "전남광주서도 강제 ‘납 배출’ 정황…노동자 “약 먹은 것 같다” 진술",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95Wk96anE0aG9wSmxTTWZodk9GdDA0cnNDZmprUFpqY3pPUnpxYTNaTktFWGV2V1czcEFzMGsxblk5aWZPUUQ0N3d5OEJ2MFM2aDNSb3dUelhhWkE0WHlXMQ?oc=5",
+              "source": "한겨레"
+            }
+          ],
+          "description": "전남·광주 지역 납축전지 업체에서 노동자 130여 명이 납 농도 검사를 받은 사실이 알려지며 파장이 커지고 있다. 일부 노동자들은 '체내 납을 배출하는 약을 먹은 것 같다'고 진술해 강제 복용 정황까지 제기됐다. 광주노동청이 해당 공장에 대한 조사에 착수한 상태로, 사안의 심각성에 따라 추가 조치가 이어질 전망이다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "광주 노동자 납 강제 복용 정황 드러나"
+        },
+        {
+          "rank": 3,
+          "word": "엔트리",
+          "count": 4,
+          "articles": [
+            {
+              "title": "’슈퍼스타’ 김도영, 또 태극마크 단다…APBC 엔트리 확정",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12M3BJUTBDeU9GS1BzX083N1JvbEl1UjdyOVN6TUpWNkQ0dEFZSExYTW1UQldDM0kyVVRzNnpGd2dnYl9oV3pFaGlReENjc0FIVlhTSWYwa2FUVTFyc3otM1JtLXBxMkE?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "'김도영-최민석-안현민 발탁' APBC 엔트리 확정... KIA 5명 최다 선발",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MOEpkWmNnQ08wYmJMX0t4X0F0dDY0enhlRlJCblhQNzFKTkhfZDRYSGdLNlFsYlp4THB2MnBDNm1OY2dmQUxuWmtkVDJZM0R6RVEtWGFmX1RyT3VPM2tCYUhGZmJLczBQYmpobE5EbFVFc0hfZlE?oc=5",
+              "source": "스타뉴스"
+            },
+            {
+              "title": "'김도영-최민석-안현민 발탁' APBC 엔트리 확정... KIA 5명 최다 선발 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zZzJvWkxVbXlwYl9iZlZuTlBvUVNNaGw1UnRDdTJkVWFyblc5LUFkdW9fV2ZnWUJ1UjFGVGFFR2V1V3EybXNzaUNLZ0lkeFZUM0ZEdFJoVDFyWllCbk5mbV90OGdMaXVWQmfSAW9BVV95cUxONHRpT09RdWxIOFJZVS10S3lCYWhMdkxRMmtyRmt4X2loREdQcHV4dDdleDc2U2wzRURPNWZIRkR3anZacGdacnk5VTNWYTlTblVHT1NXalBKZE1aalBKNzVhQ0J1U3pCV2RHRHAxRW8?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "APBC(아시아프로야구챔피언십) 최종 엔트리가 확정되며 '슈퍼스타' 김도영이 다시 태극마크를 달게 됐다. 김도영을 비롯해 최민석·안현민이 발탁됐고, KIA 타이거즈 소속 선수가 5명으로 가장 많이 선발됐다. 이번 대회 엔트리 발표로 국가대표 구성에 대한 팬들의 관심이 집중되고 있다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "김도영, APBC 엔트리 확정…KIA 5명 최다"
+        },
+        {
+          "rank": 4,
+          "word": "한화",
+          "count": 2,
+          "articles": [
+            {
+              "title": "한화의 20억 베팅, 류지현 감독에게 사실상 '우승 감독급' 계약 안겼다",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wZWd4azVhTEN6UjRnYkJMYjYwT3NfTm5tNDZtMVR4emZmMzVjQVF4a2IxUXRTVkloS1NLcWt6R0lVa3JscGFMcFh2T3lVeEtySjB1bW9NOVBVNlU?oc=5",
+              "source": "일간스포츠"
+            },
+            {
+              "title": "프로야구 한화, ’11승' 왕옌청과 1년 30만달러 재계약",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONWJ3SHpYRHpqYTZzT3dpQ3dnZ1VPUEx3cEFBRFdTSlgzTDhfQkQ5N3VpaVhWbWhJUk5uV2MwWE5oT0hUa0k0VUM0cnhrWGt6MUY0dHlMWXN3ckNfUXFNVHZ6WEkxY0ZQdjBvTG83Y3ZGTzAtWGZzVzN6alR3TjREMEs2aw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "방사청장, 한화 KAI 인수 \"국가 안보, 국익 측면에서 밀도 있게 검토\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oWWJfbW1rV1VyQ2FKdTRyVEFxSEdoNUVzZzQwTEhtM25hUjBFY1BQVGNNVk12WFdIREdpUmlLVHNwelZTZWhVaTRYcWRHVnpVbkNpOEFrVVJjQQ?oc=5",
+              "source": "파이낸셜뉴스"
+            }
+          ],
+          "description": "한화 이글스가 류지현 감독에게 20억 원 규모의 사실상 우승 감독급 계약을 제시하며 강한 신뢰를 보냈다. 투수 왕옌청과도 1년 30만 달러에 재계약을 맺었다. 구단의 공격적인 투자 행보가 잇따르며 내년 시즌 한화의 전력 강화에 대한 기대감이 높아지고 있다.",
+          "headline": "한화, 류지현 감독에 20억 '우승급' 계약"
+        },
+        {
+          "rank": 5,
+          "word": "병역",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘예술·체육요원’ 손질 착수...해외는 최초 EPL 진출 병역연기도 불허[외안대전]",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLTFJbkRyVUJMQ3ZIN1cyQy05Z3NWa2RPQjlDVHRadF9oMWNUM05lb1hManNuNXBLUDlUc0kzSDNhTTRsaWV1TlktMWM4XzJtTkhCUW9LRjZPcjlqZ3FWYVZUNDFVOUN0R0RqbkxxazdsVEYxX1BhXzEtNG9Qcmh4azZMT3NLQy1ZNW5fRTZncUI?oc=5",
+              "source": "서울신문"
+            },
+            {
+              "title": "병무청장 “선수들 병역특례 발언 유감…제도 개선, 최종 검토 단계”",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0weU5uR3UydmMzdldDQ0VjdG13SEFxbG1iX1ZFcXd4UGM4bnZ6TkFqdVViZDFnT0gyOTBneUY1eU1uUWNuUlIxUW41RnBoVXA2SUpsOWJOb01LZEpTRHpnSTdaSHNhdjd0LUpBMU1Yd9IBc0FVX3lxTFBDMkpReUU2Y2ZLUkpOOGE4OTRLcTJUZEhUNUY1RUVZUnJ5ZnRvVWxnZ0xwejVYVWZLZ1VvQzdVc3ppRjR5bWNVNFVUbS1tVnI0blczaVdGdmVlSW5xRU8zclowUXhYQllhRXp0c2FKa19ZMjg?oc=5",
+              "source": "시사저널"
+            },
+            {
+              "title": "\"군대 안 가요\" 망언 일파만파…순식간에 얼룩진 아시안게임 금메달",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1palZrZVp4R3o1WkYyeHl2aVZiUzdTaEw0ZHI0aWFmY09PYUVtT2Z3VEs2ekk0YlRKVlJEQ3JvZVd6WjV5WktySElPWWJVUFhDbXRENDhMNURoV2dHWTVEOdIBeEFVX3lxTE5IRUpnVl82aTNqSkJjRW1idWlidVdyV04tVmtRTG1adnZLOG11YWdkMjdydy02ekJ5ZGtGLXJnelJEQkpYaHE5aDB0c3NkUDZxTVZ6c19zVC1KRGZ0MWFoLVVHWDBhY0NYclF5d2dtZERycEJJUTUtWA?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "병무청장이 선수들의 병역특례 관련 발언에 유감을 표하며 제도 개선이 최종 검토 단계에 들어갔다고 밝혔다. 정부는 예술·체육요원 제도 손질에 착수했으며, 해외에서 최초 EPL 진출로 받던 병역 연기 혜택도 불허하는 방향이 거론되고 있다. 아시안게임 금메달리스트의 '군대 안 간다' 발언이 파문을 일으킨 것이 제도 재검토 논의에 불을 지핀 배경으로 꼽힌다.",
+          "headline": "체육요원 병역특례 개선 최종 검토 돌입"
+        }
+      ]
+    }
+  }
+}
