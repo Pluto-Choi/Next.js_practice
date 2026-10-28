@@ -1,0 +1,511 @@
+{
+  "date": "2026-10-29",
+  "updated_at": "2026-10-29 05:17",
+  "briefing": {
+    "text": "민주당이 조희대 대법원장 국정조사 추진을 논의하는 의원총회를 소집한 가운데, 당내 강경파와 온건파가 탄핵론과 민생 우선론을 놓고 정면충돌했다.\n\n이재명 대통령은 다문화 가족 우대 제도의 폐지 여부를 검토하겠다고 밝혔으며, 온라인 커뮤니티 글에 직접 답하는 방식으로 전달돼 주목받았다. 정책 기조 전환 가능성이 제기되며 논란이 빠르게 확산되고 있다.\n\n경제 분야에서는 금융권을 겨냥한 해킹에서 북한 IP가 다수 확인되고 빗썸 개인정보 유출까지 드러나며 사이버 보안 위기감이 고조됐다. 반면 SK하이닉스는 분기 영업이익 83조 원으로 역대 최대 실적을 달성했고, 공정위는 구글·애플·삼성전자·대상에 잇달아 과징금을 부과했다.\n\n연예·스포츠에서는 장원영이 9개 브랜드 동시 모델로 화제를 모았고, 이승기는 13년 만의 단독 콘서트를 3분 매진으로 성황리에 마쳤다. 야구에서는 최형우가 플레이오프 대반전을 이끌었고, 재미교포 오드리 박이 V리그 신인 드래프트 1순위로 지명되며 팬들의 관심을 받았다.",
+    "period": "아침",
+    "generated_at": "2026-10-29 05:17"
+  },
+  "categories": {
+    "오늘의 이슈": {
+      "summary": "민주당이 조희대 국정조사 추진을 둘러싸고 강경·온건파 간 갈등을 빚는 가운데, 이 대통령은 다문화 우대제도 재검토 발언으로 논란·스페인 고속열차 추돌로 한국인 6명 경상",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "민생",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"탄핵을\" \"민생을\"…‘조희대 국조 추진’ 강경파·온건파 동시 반발",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aYjJoTWplWkxFck52NlNMTTVIWlRGa3RFZ0YxdzliT1NzOS1DU1NZZzFkSnY2M1E1MXRlTFNrOUZJczRHWFNxTzdmRkhCZTF3WktIUg?oc=5",
+              "source": "JTBC"
+            },
+            {
+              "title": "조희대 국정조사 추진 발표 다음날 “오직 민생 중심”…‘민생 뒷전’ 우려에 조심 모드?",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NM3haWWdFUDlNeGtYay02VjVEakl4QlhNQ1BBVE9CemRaZWpqMm1IN1NiRmpkeGNzcDM2N2U0WFFYNXNWRWVWOUc4VVZXYUpDTl9BcExDdkc5QdIBX0FVX3lxTE1GcEVYMWpRZ1pmTXd5cl81b3lXcTFDRFExTUR3WURvWUg3dWFkbDRITVVIMkljSVFEVjJoVllBSl80YjNZcWlGblpxblVWS0dzTVBOYS10VVRzbmNuVW1z?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "김민석, 조희대 탄핵엔 신중…“민생이 최우선”",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95SlJEOFQ0bFBMaDdHQ0R1M0FXeXh6cDZ6NDZ6RkNiTnpzQkllX25ESmpsUVRhMllFXzQ0V180UEt4bUZSS2dJS3VfZ244OHJnbDZFSGxCUU90bEw2dnF6aE41bkd3dw?oc=5",
+              "source": "수원일보"
+            }
+          ],
+          "description": "민주당이 조희대 국정조사 추진을 발표한 다음 날, 당내에서 '탄핵'과 '민생'을 둘러싼 강경파·온건파 갈등이 동시에 표출됐다. 김민석 등 온건파는 조희대 탄핵에 신중론을 펼치며 \"민생이 최우선\"이라고 강조했고, 당 지도부도 '오직 민생 중심'을 내세우며 조심스러운 행보를 보였다. 사법부 국조 추진이 자칫 민생 후순위 논란으로 번질 수 있다는 우려가 당내외에서 동시에 제기된 상황이다. 오늘 처음 등장한 키워드다.",
+          "headline": "민주당, 민생 vs 탄핵 노선 충돌"
+        },
+        {
+          "rank": 2,
+          "word": "중심",
+          "count": 2,
+          "articles": [
+            {
+              "title": "민주, 잠시 뒤 의총…'조희대 국조 여부' 논의",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ncXdXbnBPcTBqWlpDU3paUUtobUVyZHBCUkpKVzFVSHV6VWdUcjN5cDVnTW5EakwwY0dOUWFPeHh0a19RT0lIMFRwZE51Ri00LVpMb0l2N3hXaDDSAWBBVV95cUxOQ2RDRnhTRllORTdScXAxSnJpTzdUZjNWNHN6OUhGTlMxVkRjdi0zbURaYTNuUFpMYUpVS2l1ajBqcVp1aFJxV0loTExNdWFZTjRNRkFvVjBTaVdVVEkyRTU?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "'조희대 사법부'는 왜 정치를 하나",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1dlTGJCVExsYVk1LVpweGtOazRwZnI1ZlUxcXprVnpYQ3dLdE9Id1p3TnQxVm5kV2JoV01ERWx1eG5EaTRJUEg0dll4RnVDclVHUURIOGFoaGltamZMc0RReTJUZTg0QTAyYURjQy1qbFo1R2VUWExEbS1aSDdFOGtlRHM4VW5MNkE?oc=5",
+              "source": "OhmyNews"
+            },
+            {
+              "title": "與 최고위 '오세훈 2심 무죄' 강력 비판...조희대 탄핵론도 더 커져",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uN0pzZUJIeDJOazZuN3lnYXBJbEhSMTVYSzNJZUhic3VpT1paMlNNeW12Z1Y3MU5zeDFrTVpzSG9LekowRDdQeml0dWY5a3BtRk1KOWxMaWRxa3VsT2V2ZlVOZjVNS0w0Q1NkNXo5UnA1QQ?oc=5",
+              "source": "굿모닝충청"
+            }
+          ],
+          "description": "민주당이 조희대 대법원장에 대한 국정조사 추진 여부를 논의하기 위해 의원총회를 소집했다. 오세훈 서울시장의 2심 무죄 판결을 계기로 여권에서도 조희대 탄핵론이 더욱 커지는 등 사법부를 둘러싼 정치적 공방이 격화하고 있다. '조희대 사법부가 왜 정치를 하느냐'는 비판까지 나오며, 사법부의 정치적 역할과 독립성을 둘러싼 논란이 오늘의 주요 쟁점으로 떠올랐다.",
+          "headline": "조희대 국조·탄핵론, 민주당 의총 도마에"
+        },
+        {
+          "rank": 3,
+          "word": "제도",
+          "count": 2,
+          "articles": [
+            {
+              "title": "이 대통령 ‘외국인 노동자’ 논란 와중에 “다문화 가족 우대 제도 문제” 발언",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSXU5ZVRPYUJLQ3dsU3ByNEFicmFwWk5TWlhYOHpBUXhyYlFYM1ZkNERsaHBDTUJwSWVDSGJWcVVKa0gySGk2Qi1jNUJWUGZvWFkxRlJVQTY1d9IBX0FVX3lxTE45MmlUd1N0WTRERkNkc21WUHJMZ1ZUbFpTX1lueGdJR0N2YzBTWTFocFBVNHpzSnQteVpjTThDVlBoQTdVYTUxekNCTVV2bmlDTnV1TnF1X3FiaVFuVGs0?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "이 대통령, 다문화가족 우대제도 재검토…“폐지 여부도 살펴볼 것”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdFZHWVBIUlkzX2RJb2FHdzVVQVZvM283VHhJUUhJbmtTLUFnYTNUTDdjUEZiTEdsQXhPMkpMRVRlOUlHTkZRbUZFeGN6aEpOdzc0ZllBTEcxUQ?oc=5",
+              "source": "브릿지경제"
+            },
+            {
+              "title": "에펨코리아 글에 답한 李대통령…“다문화가족 우대제도 폐지까지 검토”",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94d0dmTmdXYndJY1plNEFlN3Y2WlVCZnIxSS1FeW5JNVFadlhlUUNyRWdhNGtVMy1EcWxhZjkzZVpIZU1XbjB2SXhKNlF2YTBuVVZpdFlaWV9BejBnU2MzRXlFUWRJUzI0NnfSAW5BVV95cUxNNWtrUGt5THBfdzlwbkt5TFRid3oyZGNuU21HMmlMMnlZY1lsZjlzZENwanR3ZEFEak12TXNTa1FrR1lZb1dsRGYwckxGLTY2bGZrVE12Q1FvM3Z0MHlGZ1JvQjd1NFFyX2k4X3hGdw?oc=5",
+              "source": "주간조선"
+            }
+          ],
+          "description": "이재명 대통령이 다문화 가족 우대 제도에 대해 재검토를 지시하고, 폐지 여부까지 살펴볼 것이라고 밝혔다. 외국인 노동자 관련 발언으로 논란이 이어지는 가운데 나온 발언으로, 온라인 커뮤니티 에펨코리아의 글에 대통령이 직접 답하는 방식으로 전달돼 주목받았다. 다문화 정책 기조 전환 가능성이 제기되면서 관련 논의가 급속히 확산되고 있다.",
+          "headline": "이재명, 다문화 우대 제도 폐지 검토 시사"
+        },
+        {
+          "rank": 4,
+          "word": "한국인",
+          "count": 2,
+          "articles": [
+            {
+              "title": "스페인서 고속열차 추돌 참사…한국인 2명 경상",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jVDdfZnVMWEhkaGkyRG4zNGdmdzE5Z3B2ai1QcnFseVRGbmx2QTJhSEZyMHN3RVZPSy1OSW9jekpIWElHMm5uQ041bHJ2WC1EcjMxaDhoWXUzczM1Y2Y3eTZnNkNGYVU?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "스페인 중부서 고속열차 충돌로 최소 30명 사망…한국인 6명 경상(종합2보)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13MzhIT2l3WEtzdVhIZGo4UV9vU2NNWlRqR1ZmWnc5ZlpVMnh3UmlIb3NjdHhWUlNJMGliS1RmeWJlQXUzanVmeWFGX1d1aFJQQlo1UFkzNl9NNGPSAWBBVV95cUxOZklOZDRXUE1YR1ZpUW56WlVhWHRZNTVHYXBlOUNQaDFVU0MwVmZCbzlMTHZkVUh5SGVkblhvSFRONjk5c0o4RzNaZWtiV25UaEp3ZFgwcExTdlJlVFlvS3E?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "스페인 고속열차 추돌... 최소 64명 사망, 한국인 9명 경상",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTURUWnE1YXRlYThTOW42WjBWREdSSEFDMVR6TTJZWDAxMzFoQWV2NjVhNVhnZHBUa3BNMGFuc3FQV0FyUFU0SHZoYjNtVndscjdicUFHbHAybl9WQldPQl9vdHMwNmJ5QllDVGlxR0xaaERHVjdzSTFhNHFDSHJXOE01ZFZpTE1Ja29zYTZTaXdZT1ZaemZhV1VteDNYQQ?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "스페인 중부에서 고속열차 추돌 사고가 발생해 최소 64명이 사망하는 대형 참사가 빚어졌다. 이 사고로 한국인 9명이 경상을 입은 것으로 최종 집계됐으며, 초기 보도에서 2명, 6명 등 피해 규모가 시간대별로 계속 업데이트됐다. 대규모 인명 피해와 함께 한국인 탑승자 피해 소식이 전해지면서 국내에서도 큰 관심을 모으고 있다.",
+          "headline": "스페인 열차 추돌 참사, 한국인 9명 경상"
+        },
+        {
+          "rank": 5,
+          "word": "지방",
+          "count": 2,
+          "articles": [
+            {
+              "title": "소방 vs 공공주택? 일몰 앞둔 담배세분 지방교육세 세원 향방은",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00cHNjV2haTUJSUXFUTjR2TGtIeGpWa0Fjd1gxQUF1YmNQX2RWVFN3XzVQQXhSZUpsdGFnaHVmcXBEdE4tNEZZa3pIaTRTY0xjS2k0TU5abUpwMG5JTWsxeXMzdGZiVFBkNVBYTlpxNA?oc=5",
+              "source": "기호일보"
+            },
+            {
+              "title": "‘지방우대지수’ 반발 인제군민, 이틀연속 규탄대회",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsQ1RkajBiLUdiWWxkYVhILWlILUc5LUFINEh0ZVE5Q0hBZVVVU1dic1NhbWsybTdjb1hxWkFmR21JaHN6eUFrN3QxMXVGNXRBM3lFYVcydkp1VzA?oc=5",
+              "source": "강원일보"
+            },
+            {
+              "title": "낡은 세제에 자치 발목… 부자 국가, 가난한 지방 [‘속 빈 강정’ 지방자치·(1)]",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UGhMRFBuUjU4ZmJUR21ZUmhqOXlGaklaTW9Lc1Jiei1yM3JTNzI5TWR5QXFGN2dqdmR4ZWVGT09ZM0l5SlViR1BwUGNLUnlPQkE?oc=5",
+              "source": "경인일보"
+            }
+          ],
+          "description": "담배세 분 지방교육세 일몰을 앞두고 소방 재원과 공공주택 재원 간 세원 배분 갈등이 수면 위로 올랐다. 강원 인제군민들은 '지방우대지수' 산정 방식에 반발해 이틀 연속 규탄대회를 열었고, 낡은 세제 구조가 지방자치의 발목을 잡는다는 비판적 기획 보도도 이어지고 있다. 중앙과 지방 간 재정 불균형, 지방 세수 확충 방안을 둘러싼 논의가 오늘 여러 각도에서 동시에 제기됐다.",
+          "headline": "지방재정 구조 문제, 세제 개편 논란 부상"
+        }
+      ]
+    },
+    "경제": {
+      "summary": "SK하이닉스 3분기 영업익 역대 최대 기록 · 구글·애플·삼성 과징금 부과 · 금융권 북한 해킹 시도 당국 경고",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "해킹",
+          "count": 4,
+          "articles": [
+            {
+              "title": "금융권 해킹 시도서 북한 IP 다수 확인…당국 \"각별 유의\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lQmlIZmppMnhwZ2VsTk5YT3NUeGJ5eTFlNmpScHdDUFBwVlM3ZHg2SEJ6V1U0TUhZU0RXaE5rNnhCVnRJNTROejdmeExkZTEwYzRGYWx6UVpfTTjSAWBBVV95cUxOcXdXMHNwQy1JSDNvMktsZGdsUDY5SGR2amlkOFJLbEVMUHk2YllzMUpLbTd4TGlBaUF3TUNhTVY1dHJVaVBBamxEZDU1OGRYMnNsRkZaOHo4VU5DTjhTTFA?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "잇단 해킹에 정부, 통신·IDC 등 핵심시설 170여곳 보안점검(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PWXQ2UzF4VE1OcjJsdUF1czQ3WmFKcjcxWURVVW9USGxQSzFzc2FTbGtqYjAyVENYTGgxVWhYWUF3SG8tRklHZTJlS3d0Wlh2X1VYS0liYi1iNzjSAWBBVV95cUxPNkRiY0o3MllsUjZNN3NoWlgyODc5d2Rnc0lpRnpRR1V3bFd6YTAyY01IWE56RnM4NjhRWl84VEhTMmYyM0NrVEs3N2FmemU2a2NsYkp6eU1DVFFsUEMzeWQ?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "빗썸, 사내 모바일 그룹웨어 해킹으로 개인정보 유출‥\"범위 파악 중\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hRk1wVkItWUdFS1RVVW9KS0NQYkNNOXhvdkN1Vm9Tc1lDSVZjRUllUlc5dVpNUUpoSS1mUlVORnFMR2UyYTZ5UGpzZTNId1lkMVNndVJ0WXliaGpXWElDQXNYU2prcUZqTGlKbTdxdlY0WGVx0gF0QVVfeXFMUFBHbFNSZlo4MmFMcHV1TWoxQy1vMjBEY1pRTnN5bVBCWnAyejZDbEVDUFVKOXpuS1lVMUdZQ3dWWGVjOF9wNHQ0MTRkbTBIcXp0SWxLczEtQ09UUmRlMHFBcWV6aDhhcGFTdDdsYndqQ3R1Wlc?oc=5",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "description": "금융권을 겨냥한 해킹 시도에서 북한 IP가 다수 확인되며 당국이 각별한 주의를 당부했다. 정부는 잇단 해킹 사태에 대응해 통신·IDC 등 핵심 시설 170여 곳에 대한 보안 점검에 착수했다. 가상자산 거래소 빗썸에서도 사내 모바일 그룹웨어 해킹으로 개인정보가 유출된 것으로 확인됐으며, 현재 피해 범위를 파악 중이다. 금융과 통신, 가상자산 업계를 넘나드는 연속 해킹으로 사이버 보안 위기감이 고조되고 있다.",
+          "headline": "금융권 해킹, 북한 IP 다수 확인"
+        },
+        {
+          "rank": 2,
+          "word": "영업익",
+          "count": 3,
+          "articles": [
+            {
+              "title": "SK하이닉스 3분기 영업익 역대 최대 83조…매출 100조 첫 돌파(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qMnByd2wxWTU0eVhQQVJPZnBDTTJqY0JmN2VRTHdmTVV2UU81MjRBNmR1bjB2THlqX2Y3Y29aNGw5RHkyTkh2Mk1oa1lwXzJtQ0tNVEpac3hISWfSAWBBVV95cUxOemk0ZWFnQm5ka2JENXM5cnZvSW1sdkFBM0VOaG5pbEFiMjhHQWVmUXVVS24yV3psSmc0SEkxd0pHMW45YllaUGVBRFFQNGVQQk5mQVFQRUl0UXQzV21WNjc?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "SK하이닉스, 분기 영업익 83조 ‘역대 최대’…주당 2만원 배당",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KYTNDeWswYkJiZ0ljejlnN2U1QVUwWEowb3lsR1lYbEJySF9zbGxBOFhEZmlfRW9aLXZxM191T2gxYnZxdGFRcWZJSGY3ZFVaWE1VQg?oc=5",
+              "source": "JTBC"
+            },
+            {
+              "title": "HBM4에 범용 D램까지 '쌍끌이'…SK하이닉스, 내년 영업익 400조 도전 [반도체 슈퍼사이클 2.0]",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IaDNIRzZEc0FWOE1Edm55NWtpYUY0YkpRRmNIYWsza3NVNGg4cFFKbnRCY25saVVQb25QcDhCMklyMHNoQ0NOcWVaTm12MHlrbjM5eg?oc=5",
+              "source": "이투데이"
+            }
+          ],
+          "description": "SK하이닉스가 올해 3분기 영업이익 83조 원을 기록하며 분기 기준 역대 최대 실적을 달성했고, 매출도 100조 원을 처음으로 돌파했다. HBM4와 범용 D램의 동반 호조가 실적을 이끌었으며, 회사는 주당 2만 원의 현금배당도 결정했다. 이 같은 기세를 바탕으로 내년에는 연간 영업익 400조 원 돌파에 도전한다는 목표도 제시됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "SK하이닉스 분기 영업익 83조, 역대 최대"
+        },
+        {
+          "rank": 3,
+          "word": "과징금",
+          "count": 3,
+          "articles": [
+            {
+              "title": "구글·애플 '인앱결제 강제' 과징금 637억 원‥3년 만에 결론",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BUmp2YW1yaWVwS3VDcUYxOHVrb0V3ZnB2UFY4WXpCdlBaTER3VGlTa0lqbjJONjBPNzR5cjBqUFhLc3hsSC1uMnNwaGcwbnlPS1FDcjA3ZUpzRU9jT0ppMGNhNl9BV0tNZFlWWENPT0dVa1RaVUhnX9IBeEFVX3lxTE5UZXBLU2QtY1pFZXI2dXdRZ05nd3pldEFDV3Q3RUF4MTVkUDlwRHpqWjhBWHhIb3B2d1RDd01sOWU0WEh3Wjlhd2FkTHNkM0lyWURmZTBuY0lEd3A1aEVjd09sLUNEUk9iQ0FCMXExdjJMU0hfckRYLQ?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "공정위, 삼성전자에 ‘표시광고법 위반’ 201억 과징금",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GNXc1VmppQ0tfV2Y1RTQ4c1lHYU9hZTRFVFRDeXlkdVFJYUlKVlZkbXA2R1FYejBxZW1PX3dvLWtSWFJlaDlyaXd2cnRNdmQzY3d1NnIxSHc4NTlXQy10VDhsbzBBdEkzMFExOVBaZ2l6NTlPOHfSAWZBVV95cUxNdllEbnNtdl8xRXlncFp3b2x5N0pJMTlial9SMmpsMkI2ZUctbE5LSUs1TGxRMWxVc1NvdnVudkxZM3pIaU1RMzFSZkl6UlpZSFJiWVpERmd3Vk55QjU0NHhUdjdacmc?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "대상, 2341억원 과징금 6회 분할납부",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSllsSTdsa0RLbHNlaHVoUlRIR2FwTVR2M3FiY25nQ3JfQ0JOeW5CVkl4dW1ZNEwzMjJfYUphU1g2ZWZscURfNHc0ZWxURmRpNG1pUGctQzVxWnBfZ0ZQcVFuSk9sZnJIZUl4V3ZYdlJqM29KRVVGY1RvQ3dLRTU4X3UxTXBHUQ?oc=5",
+              "source": "Chosunbiz"
+            }
+          ],
+          "description": "공정당국이 오늘 굵직한 과징금 처분을 잇달아 내렸다. 구글·애플의 인앱결제 강제 행위에 3년 만에 결론이 나며 637억 원의 과징금이 부과됐고, 공정위는 삼성전자에도 표시광고법 위반을 이유로 201억 원을 부과했다. 식품기업 대상은 2341억 원의 과징금을 6회 분할 납부하기로 했다. 오늘 처음 등장한 키워드다.",
+          "headline": "구글·애플·삼성·대상, 과징금 줄줄이"
+        },
+        {
+          "rank": 4,
+          "word": "하이닉스",
+          "count": 2,
+          "articles": [
+            {
+              "title": "SK하이닉스 3분기 영업이익 83조 원 돌파‥6분기 연속 최대 실적",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zbVM1S1BWcE5tMFBldW1IR2tzbkRYVkVBemVOcmE4emdxRXlwanlWSE4tSG5DdFRZX2hqLTNpY3U0ZTJCbEJJYWZCYWRIMXo3bGszTlkzNVJLeXJoZjdOMl9COVFTdlhENVZONExROFN6dHFG0gF0QVVfeXFMT19MQTl5Zl92NEJSR1FwZXhLSnY1LUlSZHd6Wk81U2NMSk1Pd3pXejQ1R3BqblhJOVhGTVU2dzdxWUc0Rk4wSzEzQlU1QVVVNzQ1VnoyS1JveG1kODlKcjRtNHNMNXRONlhzVlh3bEh3NnJtd0M?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "SK하이닉스, 주당 2만원 현금배당…연간 총 100조원 푼다(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43b3dKZHpzc0x6aHFRc01EX2N1RXFqekU2LVhLUDUzaExERUNTajNicXRvUXNVMXNpNnFnM1c1NWs4TU9TZDVWalJ6czJ5V09UV0tvaVZvQ21qc0XSAWBBVV95cUxPdGtjLVdXQkFDazduLTBhZjBNS0gzbGQ0SXU3YmdSbTdnVkNvUW5lMmVEQ3hSWUV3di01TURydlFfTzRUeTRoODNMRk1ZVjBvQmxXVGlXSklzaTB4RmI4M3Q?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "SK하이닉스, 주주환원 100조...배당 30조·자사주 소각 60조 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyekZZbG1WUHV5amdQdV85aWNWZU93THUtMmFaREVKaU4zYXhId2FQR090RDM4MHlUWmprUGtrVHhzZ0ZWNmFhZmFMS3A5OTBvRjFUWEY5bmJ5eEV1TFpHcUhteHZTMFlrTW9USdIBckFVX3lxTE5Nek5LZmVncTRuWGlubUprMFUzVE5BVVBiVGZFWGhYWTFTLWpvT2JKU1dUNWJLbmI3V0tWeVlsTlpqSm15dFhxOWVMbk5Oa3d3U2owY2pUMXM1MHVndVVyQmtMeUh5aVN4RHdUMjhKOVU0UQ?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "SK하이닉스가 3분기 영업이익 83조 원으로 6분기 연속 역대 최대 실적을 갈아치웠다. 회사는 주당 2만 원의 현금배당을 결정한 데 이어, 배당 30조 원·자사주 소각 60조 원 등 총 100조 원 규모의 주주환원 계획도 발표하며 투자자들의 이목을 끌었다.",
+          "headline": "SK하이닉스, 6분기 연속 최대 실적 경신"
+        },
+        {
+          "rank": 5,
+          "word": "반도체",
+          "count": 2,
+          "articles": [
+            {
+              "title": "SK하이닉스, 반도체 고점론? '어닝 서프라이즈'로 답했다 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oN2UyV0xMckpwR21mZ0w0MHlxWU8tV2tSQ2U4UmlYb2dWTlZEOHlCdGhyQ3d0dnVkWGlBMUdCVjFleEtQeHhkcmpFSmJhcmxWV25vdzQzMHdFY0VuQ1pLNEY0VHBESWktek1FV9IBckFVX3lxTFA3UUVZbTAzSnJQUWlSNjlhSTdqOHJpQU1kZnNtNmhkeWZ2ZDdxcjdOZlFOX3Vjd1lJYmVONExvRGFzdHI3NWsxR21NN0hDSTFxV1h1OWJUam9ibXpCbnkzU3ctd2o3Y3dwb2RoQzFyRnJfdw?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "앤트로픽·하이닉스발 훈풍에 반도체 소부장도 ‘꿈틀’…훈풍 이어질까",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04Zk9XbDE3d0l6NTNNWmpxYmtZTGxBRTdxVl94a0tPQWpnUFJkRzM0YlNJczZSV0lheUdCMVhQYTBoSHhFWEM1TzF0cHRZVzRfV2c?oc=5",
+              "source": "매일경제 마켓"
+            },
+            {
+              "title": "코스피 이틀 연속 급등해 6,000선 회복...반도체주가 끌어올렸다 [자막뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tN0hEUDBzRTR3Szh5WkVOT2E3UkJPLWVkZG5qS0Vla2hMT0tTU1JRUC1ZWXI2bWdabVkzamtWWjRqMmFOLXIxTHVfNkFaRjkwbXExQ0c3MTV2WE5XMWc?oc=5",
+              "source": "YTN"
+            }
+          ],
+          "description": "SK하이닉스의 어닝 서프라이즈와 앤트로픽발 AI 수요 기대감이 맞물리며 반도체주가 코스피를 이틀 연속 급등시켜 6,000선을 회복시켰다. 반도체 소재·부품·장비(소부장) 종목들도 함께 꿈틀거리며 훈풍이 업계 전반으로 번지는 모양새다. 시장 일각에서 제기된 반도체 고점론을 이번 실적이 정면으로 반박했다는 평가가 나온다.",
+          "headline": "반도체 훈풍에 코스피 6,000선 회복"
+        }
+      ]
+    },
+    "연예": {
+      "summary": "장원영, 9개 브랜드 동시 광고로 스타 마케팅 화제 · 이승기, 13년 만의 단독 콘서트 성황 · 헤이지니, 직원 노동착취 의혹 논란",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "장원영",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"장원영 하나로 9개 브랜드 뭉쳤다\"…확 바뀐 스타 마케팅 [권용훈의 트렌드워치]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPLW9iLTBmcjB4cXBhZk9qWENVenpTVndvNU15MEM0YUJkeFZONFJPN1JVbUVoejZSaWFEUHVMWlV5bmJqS0lYTUVLNk9SQm85cVlWeDRMeFZkZw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "장원영 '사랑스럽게'",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYcy0zRUN4ZW9IdHdJdHpteWpld2lQVXRLYkRSM292V0FrOE0tVVFRZDlNNThLaF9mY3AxUkpkSVllZzVPNTRMcUMxUmtWWUs2a3lCUVlDSFfSAVRBVV95cUxNNzJhTEhTNGRTakdUZnpoYnp0QXRidFFJRTZ3bmVZYVZYV3BwYWJPMTF3cVdwTElSdkxyNVFiY282WVVwZVhGb0tqaExJcmFHa3U1bDk?oc=5",
+              "source": "세계일보"
+            },
+            {
+              "title": "아이브 장원영 'Looks Can Kill' (IVE AN JANG WONYOUNG FaceCam)",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IRW5lSTVRYXA5aWFWRkMwVWJwR3I3Y1hBaE9LSmx0cXlnZVZzUDhlallDbUxYVU5JSXZIZElLRFBuZE02WUl0cmd3UExwZGhHZjdmMi1zVkRoMmJPS1phaDY5S0c5d2lfQWllRw?oc=5",
+              "source": "programs.sbs.co.kr"
+            }
+          ],
+          "description": "아이브 장원영이 한 번에 9개 브랜드의 광고 모델로 뭉쳐 스타 마케팅의 새 흐름을 만들었다는 분석이 나왔다. 한 명의 셀럽에게 여러 브랜드가 동시에 집중되는 방식이 기존 마케팅 공식을 바꾸고 있다는 평가다. 신곡 '사랑스럽게'와 'Looks Can Kill' 직캠 영상도 함께 화제를 모으며 장원영의 존재감이 음악·광고 양면에서 동시에 부각되고 있다. 오늘 처음 화제 키워드에 등장했다.",
+          "headline": "장원영, 9개 브랜드 동시 발탁"
+        },
+        {
+          "rank": 2,
+          "word": "이승기",
+          "count": 2,
+          "articles": [
+            {
+              "title": "“깊고 단단했다”…이승기가 펼친 150분 음악의 향연",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MZ0JQbndjMDUyaHJ2X0d5ZHJfcHY1N0U3LUtfZERmdF9MUTc0czBEdFRjTVlKRWtlTURlcHF6VDlYMFBSS1VkQVhRTTFNM2hx?oc=5",
+              "source": "문화일보"
+            },
+            {
+              "title": "이승기, 13년 만의 단독콘서트 '3분 매진' 알고 보니…객석 10% 이상 줄였다 [SC이슈]",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUU9uOXJ6STNYOVY0RkJlMVJsbVpzb1lFTTBIbnBWNnhIamtnRTd0TnRWalhmVFNudGp1RHRqRFRhQkdaVWhlM0dxQnc0dUVpcm4xZW96cmxjWFAzam9aYmNPaVdVYnJNbUtmNmcwdm0wMDRZdGtfNHNRRWpzcXdiQ3VOQ1c?oc=5",
+              "source": "스포츠조선"
+            },
+            {
+              "title": "이승기, 13년 만의 단독 공연 성황…\"여러분 앞에서 노래하고 싶었다\"",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IZ3FyRHZFak83UmJ6Q0VubDZoT2V1T01KMG1FX0tMQWo3QVM4WmowSjZIVXdnMG0zZkVHaVlEcTB3NGVyM2FIQkZUOGZNZU9UQ2o3ckZUWQ?oc=5",
+              "source": "뉴스1"
+            }
+          ],
+          "description": "이승기가 13년 만에 단독 콘서트를 열어 150분의 무대로 팬들과 재회했다. 티켓은 3분 만에 매진됐는데, 알고 보니 객석을 10% 이상 줄인 상태에서 진행된 공연이었다. 이승기는 공연에서 '여러분 앞에서 노래하고 싶었다'고 소감을 전했으며, 깊고 단단한 무대라는 호평이 이어졌다. 오늘 처음 화제 키워드에 올랐다.",
+          "headline": "이승기, 13년 만의 단독 콘서트 성황"
+        },
+        {
+          "rank": 3,
+          "word": "리센느",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"원이야 단디 챙기라\"…CU '리센느 도시락' 5종 내달 초 출시",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81SE40cmRkNUtQQ0luMm1yTmF0VmlTVUZKeE5NdjlLbUpiWDRHTUhidnphdi1SaGc4bmhmalcwb1FDN2x2OGMzZWNLMTRRUGd3bFJRQWh2NTY3cWdVYjlJ?oc=5",
+              "source": "뉴스1"
+            },
+            {
+              "title": "\"리센느까지 제쳐\"…'화제의 가수' 머무르, 정체 밝혔다 [김수영의 크레딧&]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hNFNZRzE4cnFrbGdGQXFLUk01WU9aOTAxMkluV0RNZjgwYjdzc2djcEpCX0E1cUx0bzRMV2d2clJsVWpCVlZUUHc1WlRVQlpvTHBTc1NucnUyQQ?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "‘리센느’가 알려주는 핼러윈 인파사고 대처법 [지금뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xZ05Wd2Y2MUhDUTF0UVNBU1JtS1VkSkRMVEVlVGt0bXZIdFNSaGZlYWloQ0JyMnhNWER1dmdGQVdmMjlfMGJPUlRsVUE3NEdBeTdEcm1KM09za28?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "걸그룹 리센느를 내세운 CU 콜라보 도시락 5종이 다음 달 초 출시될 예정이라고 밝혀졌다. 한편 '화제의 가수' 머무르가 리센느마저 제쳤다는 소식이 알려지며 리센느의 인지도도 함께 재조명됐고, 핼러윈 인파 사고 대처법 콘텐츠에도 등장하는 등 다양한 분야에서 이름이 오르내리고 있다. 오늘 처음 화제 키워드에 등장했다.",
+          "headline": "리센느, CU 도시락 출시·화제의 가수 주목"
+        },
+        {
+          "rank": 4,
+          "word": "헤이지니",
+          "count": 1,
+          "articles": [
+            {
+              "title": "\"연봉 2000만원, 야근 수당도 없어\"…헤이지니, 노동착취 논란에 '전면 부인'",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EWFpKREg0VlZ3WjhHMW1xek9hMF8tanVxWWtBUmx0LUxvaURDV21ydW54XzEyOXFJMk1IWDdOZndqa0JJb0F0SGc1T3JlZUhMOGI4Sm9NWUU1UnlzWTNNZk93?oc=5",
+              "source": "이코노미스트"
+            },
+            {
+              "title": "16시간 근무에 연봉 2000만원…헤이지니 ‘착취 의혹’ 해명은",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOa2lkMUhpYmItZmJUOXZCRk5QamV2TnhuM3J4ZzZrNjRDb0NtcXgwRGh4SjE2VC1hY3ZQRVNxUVp1YXFFNVhjQUhCOXpoRDBNVWdQREp3?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "413만 유튜버 헤이지니…“연봉 2000만원에 하루 16시간 노동” 폭로",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmdUNQcTdNRkRNcUV0eHpYVm5VUnR1RFZTT0Rkd0h6LWd5dklIRFBjallYcElLQVdIOFcwdzlNTTd3cUpmT1F0azFiRkJ2UUVlRWp4N2Nub2hRV09SV2Q2SG44a0NRMUZvblHSAW5BVV95cUxQZ0ktbW1vNFNvdUFyWVNGdlVtSlhSeHd0ZmQ0d3R0MDRzV0kyMXhlOGhmVFotbmQxdTZTZDdvR1FoclRORlBkT2lRcVQtYmlYRkthTXhqbzd1NmpkQjZiY0w0MGl1UjM3anNNWWFOUQ?oc=5",
+              "source": "주간조선"
+            }
+          ],
+          "description": "구독자 413만 유튜버 헤이지니가 직원에게 연봉 2000만 원에 하루 16시간 근무를 시키며 야근 수당도 지급하지 않았다는 폭로가 나와 논란이 일고 있다. 헤이지니 측은 해당 주장에 전면 부인하며 해명에 나섰지만 논란은 가라앉지 않는 모양새다. 키즈 크리에이터로 높은 인지도를 가진 만큼 파장이 크게 번지고 있다.",
+          "headline": "헤이지니, 노동착취 논란에 전면 부인"
+        },
+        {
+          "rank": 5,
+          "word": "블링블링",
+          "count": 1,
+          "articles": [
+            {
+              "title": "아이브 장원영, 블링블링 비주얼",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkdmN0Vyb1VjVlcweHZuY01TSHFfUEY1NmZqS0h3OV9GeGc0SWNRSEd2enlLaThGQ3ZvcWc3Z3BucXpKQWVud0w5cjBWeW5NenA0ci1fX29YVnpyY05PakJsOXF0ZjY0TWE3LVhQN3BLNU9qd0tTaTRWb0s3V3ZzNTdtbXVWU3F4UnhtRmhHYzFsU2RRb0JJZVJHWdIBrwFBVV95cUxNNU5pbF9FaEowUDFLRnBjWmQzWk5sODQyN1lpQm9TN2hBV2RnanJGMVU2cGd6RGpnd3A5NDJna0k0YzdPQlhpLTE5MEY1aGF0ZHE1ci1LNjVHY09jbi1TWDFBRlF0b2VUX1hpblNaR3N3VGFmRW1GU2R2VEp1aFlQdjFpVGROa3dMa1hhekp0aUpjNEZpdWlkdHJPanVZLXMxYV9ZcS13bXBiMUozNDI4?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "아이브 장원영, 블링블링 비주얼",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iTl93YmVOY0REcFZvckVUNnQwT3lFOUNoMUxGNUhmRlVOdkF2dVhmZ0FKTWhMaU9yejlCLTVPaWhKbU1lZ0ZSRExCTm85TmdyQkM1MQ?oc=5",
+              "source": "OSEN"
+            },
+            {
+              "title": "(칼럼) 한국의 웨딩속옷, 파리에 서다 (속옷언니의 웨딩속옷 이야기 \"블링블링\"-004)",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0YVR2aWNSVWZvc1lxOFcyckx0emVra04ySmhWbkNDQldCTE0yeURHb1pRMHh1RW0ycmdtdThCSi0zYmpUa1lmMndES0huRmF1Y2pDS1diQQ?oc=5",
+              "source": "해양레저신문"
+            }
+          ],
+          "description": "아이브 장원영의 화보 및 영상에서 '블링블링'한 비주얼이 화제에 오르며 오늘 키워드로 처음 등장했다. 관련 기사 대부분이 장원영의 스타일링과 외모를 집중 조명하는 내용으로, 장원영의 광고·음악 활동 전반과 맞물려 동반 주목을 받고 있다. 오늘 처음 화제 키워드에 올랐다.",
+          "headline": "장원영 블링블링 비주얼 화제"
+        }
+      ]
+    },
+    "스포츠": {
+      "summary": "삼성 최형우, 가을야구서 활약 · 여자배구 신인드래프트서 재미교포 오드리 박 1순위 지명 · 롯데, 코칭스태프 대폭 개편",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "롯데",
+          "count": 4,
+          "articles": [
+            {
+              "title": "롯데 정철원, 이혼 분쟁 속 열애 의혹…“부산에서 손 잡고 다녀”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DTGQyVWFWb0V4dDF6N3pIRUJUM0ItbDBEcGgyQzQ1MmN2c2Rsbmlra2RpZWhGcUY1YnUtMHZaYkJtOWk0MUhzajg4NUZYZmd5M0wzTk1teWtzM25FNGfSAWNBVV95cUxPdFAtLTN2d0g2UmZHMWZsbFhIb09wbW1YRmFEYU5uUXJ5aENNdWktaHl0ei10UUJzeTR0QXgwWXR6dVBraE1WejlTY2RPaW95LV9rOTdvVENGUWk3UURBN2UzUDQ?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "롯데 또 파격! 전준우 보다 어린 코치 선임 → '은퇴' 김민성 바로 수비코치로. 리더 역할까지 기대",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pdlA5T2ZLQWZqLWQtTEFsM0Jha0FPMEJvTGpBWXBNR3NheF9HZENnYU5JTTlla3BFVEVNYmdqMFBBYmRxYUpKSjBvRllHanA5QWVuQTFTTVZRVE1PVkRzbGh4Z3hidU1RWHZQRFd1Y1JmWll2aXRBckp4cjJsUQ?oc=5",
+              "source": "스포츠조선"
+            },
+            {
+              "title": "이택근 유튜브에 탄로난 롯데의 거짓말",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkNrMUdoSkN0b25PcFRBNmlVdWFhemFlZmlJSWNPcXRsZnpJN3E3RERfU2dkckdzT1FPNlB3MTkxY09aU3FaOU5tMVpVRm81UFVYLV84VmkxWEZlemt1VjhBSlRoQXRjaHlVZzBSS25DcFhBOG9HZzBYSnFxWlZEU3JhNA?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "롯데 자이언츠가 연이은 화제를 낳고 있다. 5년 전 경질됐던 허문회 전 감독이 수석코치로 복귀하고, 전준우보다 어린 김민성을 수비코치로 바로 선임하는 등 파격적인 코치진 개편이 이뤄졌다. 한편 투수 정철원은 이혼 분쟁 중 열애 의혹이 제기되며 사생활 논란에 휘말렸고, 이택근의 유튜브를 통해 구단의 거짓말 의혹까지 불거지며 구단 안팎이 시끄럽다. 오늘 처음 등장한 키워드다.",
+          "headline": "롯데, 코치진 대개편·정철원 사생활 논란"
+        },
+        {
+          "rank": 2,
+          "word": "신인",
+          "count": 3,
+          "articles": [
+            {
+              "title": "IBK, 여자배구 신인 드래프트 1순위 행운…교포 오드리 박 지명(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GOXJZRUNOTUtZV0tOQ1pEZ3QySUR6eUhjQzVyaUEzeHNFa1FiY1JFU202Zl9ZZ3otVm4yODY4TWdJZGl6dDlLdWZHTmpuS3FuM2VNUHVjbmRCcnPSAWBBVV95cUxNMjZYZF90SVZGclZvNFhESV9RdFlXZlBOZWpsN3hiR2FZZktBQUFhbWV6RzZRUnhGUzkzaDBWdWtMaXc2ZFB5MENtSXV2dkgzVHZjeVJtZnNxcWtCVGNmTVo?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "재미교포 신인 드래프트 뚫고 V리그 첫 입성… 오드리 박 “난 100% 한국인”",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04MjA0ck1nTm5DQWNUalNsSDl0M1RlVXYyR2F0ZkFBT2N4dEFkLXdtSVkxZ3BySEE3ZWJIMFpWc3JNb1RoenNGWVR5RTI5d241dl9KUjlSUjhHazFxY1NHQURuanhnZS1BVjhUU0k0U014cHFL?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "IBK, 여자배구 신인 드래프트 1순위로 교포 오드리 박 지명",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CdDJpV0NxdVZ3NWJpUVpUZThJMWhpQXNyOVF6M3BYUEw2LXZsVmJjZk9teXhZQl9zN3JzWUY1NzRfSnBmN1Z2WXlUOFRXb3VaY3MyTUhhT0lFQ2Myb2c?oc=5",
+              "source": "YTN"
+            }
+          ],
+          "description": "재미교포 출신 오드리 박이 2025 여자배구 신인 드래프트에서 IBK기업은행에 1순위로 지명되며 V리그에 첫 입성했다. 오드리 박은 지명 후 \"난 100% 한국인\"이라며 강한 소속감을 드러냈다. IBK로서는 드래프트 행운을 거머쥔 셈으로, 교포 선수의 국내 리그 합류라는 점에서 팬들의 관심이 집중되고 있다.",
+          "headline": "재미교포 오드리 박, V리그 신인 1순위 지명"
+        },
+        {
+          "rank": 3,
+          "word": "하루",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘최고령이 만든 최고의 하루’ 가을야구 주인공 삼성 최형우",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84N29DUFptY1ZSaDFWTlVjamFtdThkc2pweHd3b2pWcklUdEJUdmlsdHNwT0VMUlg0TW1LWkpXeldYVW85SlkyNTFOdTMxUHFBcVpPOWxQai1fcFU?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "보살 기념구 챙겨줬더니 뒤통수 '툭'…'원조 수비요정' 최형우의 유쾌한 하루",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWhDYkpOdzZVRVZDSmRRYWk3ejBNRFlpQkFmbVZMbHdrMDV0SmhDWGxYS0w0VVhXQjh6cDdVOE0xd2dLRW1wY2QwNDc2ZUdLalhyMFg4VEpnQUx1ODdxTnpfZDZHU01Uci13Wl9Yd3Rjd05QSjhEQkszN01wSXJKNWJ4Y0RWNFU4cE40bUN5RdIBZkFVX3lxTFBaM014RXgzQm5rRnJVNHZ4NUxFUm1DYnJ1TWJaOU9IOVVEbWptcHdLT2NkZmtUWFVIeW9Gb3lQUkVGMW1TTnNlQ3RjQkEwWmdoV3E0bnF1dGxTbTlKbDN3d3hhaDVpdw?oc=5",
+              "source": "SBS 뉴스"
+            },
+            {
+              "title": "어제 그 삼성 맞아? 2안타 굴욕 하루 만에 대반전…박진만의 타순 변경 승부수, 제대로 통했다 [PO2] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54MFE5NUZVTkVLOFJ2VHRFc1FHV0p5M3pxdTg3MjJpRm96UW1PVG5DTjk4NWpBVTgtTENDWXVxaFhZRUlCTnNoRDZKSGk2WVJuS20zbk5Mc2t4R0wxVmNoc0JHS3FCR2RBTUJrX3JaSdIBb0FVX3lxTE54MFE5NUZVTkVLOFJ2VHRFc1FHV0p5M3pxdTg3MjJpRm96UW1PVG5DTjk4NWpBVTgtTENDWXVxaFhZRUlCTnNoRDZKSGk2WVJuS20zbk5Mc2t4R0wxVmNoc0JHS3FCR2RBTUJrX3JaSQ?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "삼성 라이온즈 최형우가 플레이오프에서 최고령임에도 팀 승리를 이끄는 활약을 펼쳐 '최고의 하루'를 만든 주인공으로 주목받고 있다. 전날 2안타 굴욕을 당했던 삼성은 박진만 감독의 타순 변경 승부수가 적중하며 하루 만에 대반전에 성공했고, 최형우의 유쾌한 행동도 화제가 됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "최형우, 가을야구 최고령 주인공으로 빛난 하루"
+        },
+        {
+          "rank": 4,
+          "word": "삼성",
+          "count": 2,
+          "articles": [
+            {
+              "title": "삼성전자 브랜드 가치 7년 연속 세계 5위",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQczlpSHQ3LTViUUFrUGo4Y1FwNkdZQWVOYTVLMHJBb0x6WEpkdVNaSzFRQU8wM1RmSUgzVkdRWFBhcXdSWUxlMW9qVkZZQl9VZlplYVpxU2N3SDE0a21WX1RKT21nZ0RlRkVOLTIxc19ORnJEcHdPV0NfblpWNkx5dm5UTQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "삼성전자, 7년 연속 글로벌 브랜드가치 5위…현대차는 자동차 ’톱4’",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hQW1vMVlNbGoyRmFWaEExSndPRjRUOTJ5alRMMkZFc0YzLXVPZWpTaDBUdUdaM0Q0a1VoME9JTDBCQVpXSzdHaGZYUTRRTllIb2ZWYVVaNkZXWjUyNDh4TlMzR3BKV0U?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "삼성전자, 브랜드 가치 7년 연속 세계 5위…AI 경쟁력에 16% 상승",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14eG1za2VRNjFaMkV5VWJHMERpQ01URmR6b0VFQ2JuX0h4X1ExR0tjQ19NOHFhdzl1N19tUlBURVZFeUpJSm1vTVdJaV85U0dfWmfSAVNBVV95cUxPYXd6eEN0UUFYZWV2aGt0Z0pha3dEMVREUGtfOTRYN285SmlMQlJtS1FTZXp6YWxoOFFPTW5TZHFwR2tHeTNGb0xFS1JOVnlqSGlIbw?oc=5",
+              "source": "서울경제"
+            }
+          ],
+          "description": "삼성전자가 글로벌 브랜드 가치 평가에서 7년 연속 세계 5위를 기록했다. AI 경쟁력 강화에 힘입어 브랜드 가치가 16% 상승한 것으로 나타났으며, 현대차도 자동차 부문 톱4에 이름을 올렸다. 스포츠 분야에서는 삼성 라이온즈의 플레이오프 활약과 맞물려 삼성 키워드가 동시에 주목받고 있다.",
+          "headline": "삼성전자, 브랜드 가치 7년 연속 세계 5위"
+        },
+        {
+          "rank": 5,
+          "word": "허문회",
+          "count": 2,
+          "articles": [
+            {
+              "title": "롯데 허문회 수석, 왕의 귀환 → 2군 감독에 한화 출신 박승민",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDhpZTVubnN1WC01bUpMeVVPelRiUW1LeWdzZVNhUFBrWFNIeXhGV1hSLXNqdWk3WGw0Zy04X0hXNl9SYlM0clY5aTQyQnE2OWx2QWg5MS1ZU1Q1Y0xKRHZfVXFxQmp5ellYX2R4R3ZTLVdPVVplRG1XN0duUl9jUm5OZw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "손아섭, 연봉 5000만 원에 NC로 돌아와… 허문회 前감독도 롯데 코치로 복귀",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92bGd6MXFOZlJrX25kZi1YY2NrUXlHekZUWVZBLS1rckRJeW13YXJzSUJYWDF1NndlZ2x3a3hPWlQzaEV1d094ZVRLLVg1OTlUSnhWTVI0bjEzZl83UXR2SUpjSzhJZ25uMXJoZENFbGI3Xzgy0gFmQVVfeXFMTnVwTjFieGtqcVBhYlJZdWtJVGxpbkp3MXhRdElwODUtbFBtT0hHOGJKMl9oX0VjT0ZyWkc3bm1vbE41X2VEelpSSUd0S3hQZ3g4ekZFdjlyWjM3Q3BOa3h4RTN2djlR?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "5년 전 경질됐던 허문회 전 감독, 수석코치로 롯데 복귀",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeHhiNzUtOHBmMlhGb24ySlpRV25TYXZKazBScTB6aTViMVEyUVRHQTI1YVhUZHAxRk1jMGswLVZrRTdhc1JmOWxlZjRWR2FXWVJpTVB1Q1g3R1dLemRVMzJndmNBYVVmMHFDLXZFOVd2bmRSUlFMbDY1b3hnOW9hWHc3aw?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "5년 전 롯데 자이언츠 감독직에서 경질됐던 허문회 전 감독이 수석코치로 롯데에 복귀한다. 같은 날 손아섭의 NC 다이노스 이적(연봉 5000만 원)도 확정되며 롯데 구단의 대대적인 인적 변화가 한꺼번에 알려졌다. 한화 출신 박승민이 2군 감독을 맡는 등 코치진 전면 개편과 함께 허문회의 귀환이 이뤄져 팬들의 반응이 엇갈리고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "허문회 전 감독, 5년 만에 롯데 수석코치 복귀"
+        }
+      ]
+    }
+  }
+}
