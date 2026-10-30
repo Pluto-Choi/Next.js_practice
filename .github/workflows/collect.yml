@@ -8,6 +8,11 @@ on:
     - cron: '30 9 * * *'   # 18:30 KST (UTC 09:30)
   workflow_dispatch:
 
+# 수집은 한 번에 하나만: dispatch가 겹치거나 백업과 동시에 떠도 앞 실행을 끊지 않고 뒤에서 기다린다.
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
