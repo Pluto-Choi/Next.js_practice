@@ -77,13 +77,21 @@ def cmd_write(word):
         if not (isinstance(s, dict) and s.get("heading") and s.get("body")):
             sys.stderr.write("ERROR: 각 section은 heading/body가 필요합니다\n")
             sys.exit(1)
+    # 근거 기사 없는 본문은 저장하지 않는다(프롬프트 규칙을 코드로 강제). 거부되면 화면은 기본 설명으로 폴백.
+    srcs = payload.get("sources")
+    if not isinstance(srcs, list) or not srcs or not all(
+        isinstance(s, dict) and s.get("title") and str(s.get("url", "")).startswith(("http://", "https://"))
+        for s in srcs
+    ):
+        sys.stderr.write("ERROR: 'sources'에 title/url을 가진 근거 기사가 1개 이상 필요합니다\n")
+        sys.exit(1)
 
     headline = next((k.get("headline", "") for k in _issue_keywords()
                      if k.get("word") == word), "")
     sections = _load_json(SECTIONS_PATH, {})
     sections[word] = {
         "sections": secs,
-        "sources": payload.get("sources", []),
+        "sources": srcs,
         "headline": headline,
         "generated_at": datetime.now(KST).strftime("%Y-%m-%d %H:%M KST"),
     }
